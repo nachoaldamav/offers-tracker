@@ -1,15 +1,15 @@
 {
   "id": "98cffb44de6543aaa39a62e3c6124e06",
   "namespace": "29e93200bb53431a961afc53e39fb9c8",
-  "title": "charlestongreenGeneralAudience",
-  "description": "charlestongreenGeneralAudience",
+  "title": "The Falconeer",
+  "description": "The Falconeer",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "charlestongreengeneralaudience",
+  "productSlug": "the-falconeer",
+  "urlSlug": "the-falconeer",
   "creationDate": "2021-06-03T20:04:55.984Z",
-  "lastModifiedDate": "2021-06-03T20:17:53.543Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2021-08-05T13:46:24.494Z",
+  "effectiveDate": "2021-08-05T13:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -28,25 +28,151 @@
       "path": "games"
     },
     {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-02-10T17:36:19.203Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "Open World",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2021-02-10T17:34:58.080Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2021-02-10T17:35:19.827Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "[]"
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Wired Productions"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Tomas Sala"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-falconeer"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheFalconeer_TomasSala_S1_2560x1440-42c0d28687b659cdf36d3e3b29cb32e0",
+      "md5": "42c0d28687b659cdf36d3e3b29cb32e0",
+      "size": 924516,
+      "uploadedDate": "2021-07-27T02:30:42.761Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheFalconeer_TomasSala_S2_1200x1600-ca4e43b6dcf60e864b143751b1999319",
+      "md5": "ca4e43b6dcf60e864b143751b1999319",
+      "size": 952389,
+      "uploadedDate": "2021-07-27T02:30:45.635Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheFalconeer_TomasSala_S1_2560x1440-42c0d28687b659cdf36d3e3b29cb32e0",
+      "md5": "42c0d28687b659cdf36d3e3b29cb32e0",
+      "size": 924516,
+      "uploadedDate": "2021-07-27T02:30:48.650Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheFalconeer_TomasSala_S2_1200x1600-ca4e43b6dcf60e864b143751b1999319",
+      "md5": "ca4e43b6dcf60e864b143751b1999319",
+      "size": 952389,
+      "uploadedDate": "2021-07-27T02:30:51.556Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheFalconeer_TomasSala_S2_1200x1600-ca4e43b6dcf60e864b143751b1999319",
+      "md5": "ca4e43b6dcf60e864b143751b1999319",
+      "size": 952389,
+      "uploadedDate": "2021-07-27T02:30:54.554Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheFalconeer_TomasSala_S2_1200x1600-ca4e43b6dcf60e864b143751b1999319",
+      "md5": "ca4e43b6dcf60e864b143751b1999319",
+      "size": 952389,
+      "uploadedDate": "2021-07-27T02:30:57.356Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "72ac6d6fcf1b4024bfc6cc8da1bccddc"
