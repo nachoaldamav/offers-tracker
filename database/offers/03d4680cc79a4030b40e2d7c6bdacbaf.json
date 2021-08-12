@@ -1,15 +1,15 @@
 {
   "id": "03d4680cc79a4030b40e2d7c6bdacbaf",
   "namespace": "131e306949034972959ca401ca27837e",
-  "title": "VermilionPeakGeneralAudience",
-  "description": "VermilionPeakGeneralAudience",
+  "title": "Yooka-Laylee",
+  "description": "Yooka-Laylee",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "vermilionpeakgeneralaudience",
+  "productSlug": "yooka-laylee",
+  "urlSlug": "yooka-laylee",
   "creationDate": "2020-10-06T21:22:48.918Z",
-  "lastModifiedDate": "2020-10-06T22:21:42.694Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2021-08-12T14:26:39.075Z",
+  "effectiveDate": "2021-08-19T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -25,28 +25,178 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "freegames"
+    },
+    {
       "path": "games"
+    },
+    {
+      "path": "games/edition"
     },
     {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2021-02-10T17:35:33.537Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2021-02-10T17:35:47.790Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2021-02-10T17:36:06.452Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1151",
+      "name": "Platformer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:33.743Z",
+      "updated": "2021-02-10T17:14:16.761Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2021-02-10T17:35:19.827Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "[]"
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Team17"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Playtonic"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "yooka-laylee"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_YookaLaylee_Playtonic_S4_1200x1600-3641c6b4798aef32998929ba887a4dba",
+      "md5": "3641c6b4798aef32998929ba887a4dba",
+      "size": 787568,
+      "uploadedDate": "2021-08-10T22:24:10.993Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_YookaLaylee_Playtonic_S4_1200x1600-3641c6b4798aef32998929ba887a4dba",
+      "md5": "3641c6b4798aef32998929ba887a4dba",
+      "size": 787568,
+      "uploadedDate": "2021-08-10T22:24:05.055Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_YookaLaylee_Playtonic_S3_2560x1440-779ed9403879e74fe1992fefeec9b0d5",
+      "md5": "779ed9403879e74fe1992fefeec9b0d5",
+      "size": 964582,
+      "uploadedDate": "2021-08-10T22:23:58.531Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_YookaLaylee_Playtonic_S4_1200x1600-3641c6b4798aef32998929ba887a4dba",
+      "md5": "3641c6b4798aef32998929ba887a4dba",
+      "size": 787568,
+      "uploadedDate": "2021-08-10T22:23:52.104Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_YookaLaylee_Playtonic_S3_2560x1440-779ed9403879e74fe1992fefeec9b0d5",
+      "md5": "779ed9403879e74fe1992fefeec9b0d5",
+      "size": 964582,
+      "uploadedDate": "2021-08-10T22:23:39.789Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_YookaLaylee_Playtonic_S4_1200x1600-3641c6b4798aef32998929ba887a4dba",
+      "md5": "3641c6b4798aef32998929ba887a4dba",
+      "size": 787568,
+      "uploadedDate": "2021-08-10T22:24:21.052Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "1370227204cd4e8089f39ac46a769744"
