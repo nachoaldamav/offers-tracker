@@ -1,14 +1,14 @@
 {
   "id": "4daadb392f1c4ee2b5a3af443e614d2a",
   "namespace": "fn",
-  "title": "10,000 (+3,500 Bonus) V-Bucks",
-  "description": "Purchase 10,000 Fortnite (+3,500 Bonus!) V-Bucks. This in-game currency can be spent in both the Battle Royale PvP mode and the Save the World PvE campaign.",
-  "longDescription": "Buy 10,000 Fortnite (+3,500 Bonus!) V-Bucks, the in-game currency that can be spent in Fortnite Battle Royale, Creative, and Save the World modes. In Battle Royale and Creative you can use V-Bucks to purchase new customization items like Outfits, Gliders, Pickaxes, Emotes, and the latest season’s Battle Pass! In the Save the World co-op PvE mode, you can use V-Bucks to purchase X-Ray Llamas that contain weapon and trap schematics, plus new Heroes, and more! V-Bucks can be purchased in packs of various amounts, and you’ll receive bonus V-Bucks when you buy packs of 2,500 V-Bucks or larger.  \n\n All V-Bucks purchased on one platform may not be redeemable on other platforms.  \n\nNote: Items purchased with V-Bucks do not transfer between Battle Royale and Save the World modes.",
+  "title": "13,500 V-Bucks",
+  "description": "Buy 13,500 Fortnite V-Bucks that can be spent in Battle Royale, Creative, and Save the World modes. Note: Not all items purchased may be available in Save the World mode.",
+  "longDescription": "Buy 13,500 Fortnite V-Bucks, the in-game currency that can be spent in Fortnite Battle Royale, Creative, and Save the World modes. In Battle Royale and Creative you can use V-Bucks to purchase new customization items like Outfits, Gliders, Pickaxes, Emotes, and the latest season’s Battle Pass! In the Save the World co-op PvE mode, you can use V-Bucks to purchase X-Ray Llamas that contain weapon and trap schematics, plus new Heroes, and more!\n\nAll V-Bucks purchased on the Epic Games Store are not redeemable or usable on PlayStation®, or Nintendo Switch™.\n\nNote: Gliders & Contrails may not be used in Save the World mode.",
   "status": "ACTIVE",
   "productSlug": "fortnite/13500-v-bucks",
-  "urlSlug": "fn-13500-points",
+  "urlSlug": "fortnite--13500-v-bucks",
   "creationDate": "2015-06-18T18:27:52.416Z",
-  "lastModifiedDate": "2020-08-12T00:25:53.186Z",
+  "lastModifiedDate": "2021-08-24T18:08:53.972Z",
   "effectiveDate": "2015-05-19T00:00:00.000Z",
   "viewableDate": "2019-10-15T08:30:00.000Z",
   "developer": null,
@@ -28,11 +28,21 @@
       "path": "points/packs"
     },
     {
+      "path": "addons"
+    },
+    {
+      "path": "addons/consumable"
+    },
+    {
       "path": "points"
     }
   ],
   "tags": [],
   "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "IOS"
+    },
     {
       "key": "com.epicgames.app.productSlug",
       "value": "fortnite/13500-v-bucks"
@@ -56,6 +66,24 @@
       "uploadedDate": "2020-02-12T09:41:44.790Z",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/fn/offer/Fortnite_VBucks_1200x1200-1200x1200-129fec9be1adbc787cecbadaf85e2951.png",
+      "md5": "129fec9be1adbc787cecbadaf85e2951",
+      "size": 520511,
+      "uploadedDate": "2021-03-12T00:57:16.770Z",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/fn/offer/Fortnite_VBucks_1200x1200-1200x1200-129fec9be1adbc787cecbadaf85e2951.png",
+      "md5": "129fec9be1adbc787cecbadaf85e2951",
+      "size": 520511,
+      "uploadedDate": "2021-03-12T00:57:27.050Z",
+      "width": 1200,
+      "height": 1200
     }
   ],
   "items": [
@@ -63,5 +91,7 @@
       "id": "d4c923447e15499f872fe424e969f085"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "fn"
+  }
 }
