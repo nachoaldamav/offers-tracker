@@ -6,10 +6,10 @@
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "sifu",
-  "urlSlug": "generalaudience",
+  "urlSlug": "generalprepurchaseaudience",
   "creationDate": "2021-01-08T22:35:56.423Z",
-  "lastModifiedDate": "2021-08-25T16:43:45.686Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2021-08-25T19:50:53.144Z",
+  "effectiveDate": "2021-08-25T20:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -32,9 +32,6 @@
     },
     {
       "path": "games/edition"
-    },
-    {
-      "path": "applications"
     }
   ],
   "tags": [
@@ -60,6 +57,18 @@
       "updated": "2021-02-05T16:17:17.035Z",
       "status": "ACTIVE",
       "referenceCount": 8,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
       "comment": null
     },
     {
@@ -91,6 +100,10 @@
     {
       "key": "publisherName",
       "value": "Sloclap"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
     },
     {
       "key": "com.epicgames.app.productSlug",
@@ -155,8 +168,10 @@
   ],
   "items": [
     {
-      "id": "7c91310756e2410e9637513e56d2df36"
+      "id": "78eef4dfa283456d874f2e43d6554ad7"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "b7b42e2078524ab386a8b2a9856ef557"
+  }
 }
