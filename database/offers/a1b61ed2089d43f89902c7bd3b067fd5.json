@@ -6,10 +6,10 @@
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "gamedec",
-  "urlSlug": "gamedec-general-audience",
+  "urlSlug": "gamedec-prepurchase-audience",
   "creationDate": "2021-03-19T10:46:14.760Z",
-  "lastModifiedDate": "2021-08-25T16:43:40.399Z",
-  "effectiveDate": "2099-02-01T00:00:00.000Z",
+  "lastModifiedDate": "2021-08-26T15:55:03.867Z",
+  "effectiveDate": "2021-08-26T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -32,23 +32,56 @@
     },
     {
       "path": "games/edition/base"
-    },
-    {
-      "path": "applications"
     }
   ],
   "tags": [
     {
-      "id": "17470",
-      "name": "gamescom 2021",
-      "namespace": null,
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2021-08-24T08:02:15.096Z",
-      "updated": "2021-08-25T21:01:25.420Z",
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
       "status": "ACTIVE",
-      "referenceCount": 9,
-      "comment": ""
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2021-02-10T17:35:47.790Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,6 +91,18 @@
     },
     {
       "key": "publisherName",
+      "value": "Anshar Publishing"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "1631808000"
+    },
+    {
+      "key": "developerName",
       "value": "Anshar Studios"
     },
     {
@@ -123,8 +168,10 @@
   ],
   "items": [
     {
-      "id": "b18e23cad8364d179f508329298b3494"
+      "id": "fb1f405b16144349862999f71756ad94"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "b8abdf9f9bc64ed6b4128a71fd47607f"
+  }
 }
