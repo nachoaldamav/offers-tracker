@@ -2,15 +2,15 @@
   "id": "0552d26ecc9644fea9839ee94d093457",
   "namespace": "oregano",
   "title": "Anno 1800™: Trial Weekend",
-  "description": "Anno 1800™: Trial Weekend",
+  "description": "Play the rich city builder Anno 1800™ with your friends FOR FREE from September 1–6!",
   "longDescription": "",
   "status": "ACTIVE",
   "productSlug": "anno-1800/free-trial",
   "urlSlug": "anno-1800--free-trial",
   "creationDate": "2019-12-06T16:18:27.537Z",
-  "lastModifiedDate": "2021-03-01T19:58:53.163Z",
-  "effectiveDate": "2050-02-23T16:00:00.000Z",
-  "viewableDate": "2050-02-23T16:00:00.000Z",
+  "lastModifiedDate": "2021-08-31T16:28:32.642Z",
+  "effectiveDate": "2021-08-31T16:00:00.000Z",
+  "viewableDate": "2021-08-31T16:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
@@ -34,7 +34,44 @@
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1146",
+      "name": "City Builder",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:31.235Z",
+      "updated": "2021-02-05T16:18:08.310Z",
+      "status": "ACTIVE",
+      "referenceCount": 9,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "Strategy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2021-02-10T17:35:11.878Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -55,22 +92,40 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/oregano/offer/en-anno-epic-fwe-herobanner-3840x2160-3840x2160-8b5f4baf28ce-3840x2160-5939e07c72e48642c3b2e042aa81c054.jpg",
-      "md5": "5939e07c72e48642c3b2e042aa81c054",
-      "size": 709815,
-      "uploadedDate": "2021-02-22T19:24:14.299Z",
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_ANNO_EPIC_HeroBanner_3840x2160 _3840x2160-410b7fa20bb44cbe9c8cd75f2817107c",
+      "md5": "410b7fa20bb44cbe9c8cd75f2817107c",
+      "size": 1346673,
+      "uploadedDate": "2021-08-26T20:49:29.873Z",
       "width": 3840,
       "height": 2160
     },
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/oregano/offer/en-anno-epic-fwe-herobanner-3840x2160-3840x2160-8b5f4baf28ce-3840x2160-5939e07c72e48642c3b2e042aa81c054.jpg",
-      "md5": "5939e07c72e48642c3b2e042aa81c054",
-      "size": 709815,
-      "uploadedDate": "2021-02-22T19:24:54.420Z",
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_ANNO_EPIC_Portrait_1200x1600 _1200x1600-d7a441798424b43f114edd635296c3b8",
+      "md5": "d7a441798424b43f114edd635296c3b8",
+      "size": 1999955,
+      "uploadedDate": "2021-08-26T20:49:36.890Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_ANNO_EPIC_HeroBanner_3840x2160 _3840x2160-410b7fa20bb44cbe9c8cd75f2817107c",
+      "md5": "410b7fa20bb44cbe9c8cd75f2817107c",
+      "size": 1346673,
+      "uploadedDate": "2021-08-26T20:49:49.054Z",
       "width": 3840,
       "height": 2160
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_ANNO_EPIC_Portrait_1200x1600 _1200x1600-d7a441798424b43f114edd635296c3b8",
+      "md5": "d7a441798424b43f114edd635296c3b8",
+      "size": 1999955,
+      "uploadedDate": "2021-08-26T20:49:42.892Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [
@@ -78,5 +133,7 @@
       "id": "5f70764ca11a4cf4933e1141c5e7ba19"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "oregano"
+  }
 }
