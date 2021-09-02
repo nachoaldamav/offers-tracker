@@ -3,14 +3,14 @@
   "namespace": "d4d0270b8219470ebfc720c18767aef9",
   "title": "WRC 10 Subaru Impreza WRC 1997",
   "description": "Get behind the wheel of the legendary car driven by Colin McRae and Nicky Grist in 1997, and relive their victory at the Rallye Sanremo in the same year. ",
-  "longDescription": null,
+  "longDescription": "Get behind the wheel of the legendary car driven by Colin McRae and Nicky Grist in 1997, and relive their victory at the Rallye Sanremo in the same year. ",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "wrc-10--subaru-impreza",
   "creationDate": "2021-08-19T01:24:02.392Z",
-  "lastModifiedDate": "2021-08-26T19:34:56.745Z",
-  "effectiveDate": "2099-02-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2021-09-02T02:53:31.530Z",
+  "effectiveDate": "2021-09-02T12:00:00.000Z",
+  "viewableDate": "2021-09-02T12:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
@@ -25,7 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "application"
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
     }
   ],
   "tags": [
@@ -69,7 +75,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR"
+      "value": "[]"
     },
     {
       "key": "publisherName",
@@ -141,5 +147,7 @@
       "id": "158f672a453e4ecc9de2b150d5cc2eb7"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "d4d0270b8219470ebfc720c18767aef9"
+  }
 }
