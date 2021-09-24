@@ -1,15 +1,15 @@
 {
   "id": "9bbfe5536ecc4a1190e07cb4cbeb7ddb",
   "namespace": "fa9812acd30f46f8a69a75bf27addb5c",
-  "title": "FregulaGeneralAudience",
-  "description": "FregulaGeneralAudience",
+  "title": "In Sound Mind",
+  "description": "In Sound Mind is an imaginative first-person psychological horror with frenetic puzzles, unique boss fights, and original music by The Living Tombstone. Explore and fight through a series of unsettling memories as you journey within the inner workings of the one place you can’t seem to escape—your own mind.",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "in-sound-mind",
   "urlSlug": "fregulageneralaudience",
   "creationDate": "2021-03-08T23:55:31.230Z",
-  "lastModifiedDate": "2021-04-16T14:51:05.412Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2021-09-24T00:00:47.741Z",
+  "effectiveDate": "2021-09-28T13:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -28,14 +28,69 @@
       "path": "games"
     },
     {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1218",
+      "name": "Horror",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2021-02-10T17:14:06.043Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2021-02-10T17:35:47.790Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "[]"
     },
     {
       "key": "publisherName",
@@ -44,9 +99,68 @@
     {
       "key": "developerName",
       "value": "[]"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "in-sound-mind"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_InSoundMind_WeCreateStuff_S2_1200x1600-0f24e46356fc61bda653468a6afd6d49",
+      "md5": "0f24e46356fc61bda653468a6afd6d49",
+      "size": 507085,
+      "uploadedDate": "2021-09-23T20:54:28.016Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_InSoundMind_WeCreateStuff_S2_1200x1600-0f24e46356fc61bda653468a6afd6d49",
+      "md5": "0f24e46356fc61bda653468a6afd6d49",
+      "size": 507085,
+      "uploadedDate": "2021-09-23T20:54:33.405Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_InSoundMind_WeCreateStuff_S2_1200x1600-0f24e46356fc61bda653468a6afd6d49",
+      "md5": "0f24e46356fc61bda653468a6afd6d49",
+      "size": 507085,
+      "uploadedDate": "2021-09-23T20:54:37.584Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_InSoundMind_WeCreateStuff_S2_1200x1600-0f24e46356fc61bda653468a6afd6d49",
+      "md5": "0f24e46356fc61bda653468a6afd6d49",
+      "size": 507085,
+      "uploadedDate": "2021-09-23T20:54:42.300Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_InSoundMind_WeCreateStuff_S3_2560x1440-78d2b96f4772d724e6f003a1e88f4844",
+      "md5": "78d2b96f4772d724e6f003a1e88f4844",
+      "size": 494143,
+      "uploadedDate": "2021-09-23T20:54:47.635Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_InSoundMind_WeCreateStuff_S3_2560x1440-78d2b96f4772d724e6f003a1e88f4844",
+      "md5": "78d2b96f4772d724e6f003a1e88f4844",
+      "size": 494143,
+      "uploadedDate": "2021-09-23T20:54:52.913Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
   "items": [
     {
       "id": "7c1a3915ac2d4a13a2736d661093dd5b"
