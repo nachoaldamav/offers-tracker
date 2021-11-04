@@ -6,11 +6,11 @@
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "rims-racing",
-  "urlSlug": "mascarpone-general-audience",
+  "urlSlug": "rims-racing",
   "creationDate": "2021-04-01T19:44:22.299Z",
-  "lastModifiedDate": "2021-08-26T19:03:13.499Z",
-  "effectiveDate": "2099-02-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2021-11-04T05:22:18.640Z",
+  "effectiveDate": "2021-11-04T15:00:00.000Z",
+  "viewableDate": "2021-11-03T00:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
@@ -32,6 +32,9 @@
     },
     {
       "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
     }
   ],
   "tags": [
@@ -45,6 +48,30 @@
       "updated": "2021-02-10T17:33:03.717Z",
       "status": "ACTIVE",
       "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2021-09-24T10:13:00.900Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
       "comment": null
     },
     {
@@ -75,7 +102,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR"
+      "value": "[]"
     },
     {
       "key": "publisherName",
