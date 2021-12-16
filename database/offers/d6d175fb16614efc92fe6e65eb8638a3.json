@@ -38,7 +38,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-09-24T04:05:37.686Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
     {
       "id": "16979",
       "name": "Summer Sale",
@@ -51,18 +62,7 @@
       "referenceCount": 813,
       "comment": ""
     },
-    {
-      "id": "1080",
-      "name": "Survival",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:58:58.070Z",
-      "updated": "2021-09-24T04:06:59.593Z",
-      "status": "ACTIVE",
-      "referenceCount": 11,
-      "comment": null
-    },
+    null,
     null,
     {
       "id": "1370",
@@ -89,33 +89,45 @@
       "comment": ""
     },
     null,
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
     null,
     {
-      "id": "16011",
-      "name": "Epic MEGA Sale",
+      "id": "15375",
+      "name": "Spring Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2021-04-27T08:10:34.554Z",
-      "updated": "2021-06-21T17:02:31.156Z",
+      "created": "2021-03-10T09:37:21.403Z",
+      "updated": "2021-10-05T07:57:40.812Z",
       "status": "ACTIVE",
-      "referenceCount": 741,
+      "referenceCount": 618,
+      "comment": ""
+    },
+    {
+      "id": "18303",
+      "name": "Far Cry Catalog Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-10-27T19:21:41.305Z",
+      "updated": "2021-11-17T15:17:47.108Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
       "comment": ""
     },
     null,
     null,
-    {
-      "id": "18607",
-      "name": "Black Friday Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-11-17T09:59:12.617Z",
-      "updated": "2021-11-30T15:34:55.744Z",
-      "status": "ACTIVE",
-      "referenceCount": 1125,
-      "comment": ""
-    },
     null,
     null,
     null
@@ -195,5 +207,7 @@
       "id": "f0d4890740ef423d95bf66cb9ba436dc"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "larkspur"
+  }
 }
