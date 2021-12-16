@@ -38,30 +38,8 @@
     }
   ],
   "tags": [
-    {
-      "id": "18051",
-      "name": "Halloween Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-10-06T19:14:15.572Z",
-      "updated": "2021-11-23T15:36:50.477Z",
-      "status": "ACTIVE",
-      "referenceCount": 846,
-      "comment": ""
-    },
-    {
-      "id": "14346",
-      "name": "Holiday Sale 2020",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2020-10-21T21:58:03.125Z",
-      "updated": "2021-12-15T14:42:33.721Z",
-      "status": "ACTIVE",
-      "referenceCount": 555,
-      "comment": ""
-    },
+    null,
+    null,
     {
       "id": "9547",
       "name": "Windows",
@@ -86,7 +64,21 @@
       "referenceCount": 741,
       "comment": ""
     },
-    null,
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2021-09-24T10:13:00.317Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
+    },
     null,
     null,
     {
@@ -101,32 +93,21 @@
       "referenceCount": 1125,
       "comment": ""
     },
+    null,
     {
-      "id": "1298",
-      "name": "Puzzle",
+      "id": "1395",
+      "name": "Narration",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T12:00:46.616Z",
-      "updated": "2021-09-24T04:07:08.402Z",
+      "created": "2019-06-20T12:01:34.825Z",
+      "updated": "2021-09-24T04:07:05.937Z",
       "status": "ACTIVE",
-      "referenceCount": 27,
+      "referenceCount": 22,
       "comment": null
     },
     null,
     null,
-    {
-      "id": "17493",
-      "name": "September Savings",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-08-25T14:44:49.018Z",
-      "updated": "2021-09-23T15:00:01.723Z",
-      "status": "ACTIVE",
-      "referenceCount": 710,
-      "comment": ""
-    },
     {
       "id": "18777",
       "name": "The Game Awards Sale",
@@ -151,6 +132,9 @@
       "referenceCount": 1378,
       "comment": ""
     },
+    null,
+    null,
+    null,
     null,
     null,
     null,
@@ -244,5 +228,7 @@
       "id": "b232c16ad45e4f2eb135be5177a18f38"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "kestrel"
+  }
 }
