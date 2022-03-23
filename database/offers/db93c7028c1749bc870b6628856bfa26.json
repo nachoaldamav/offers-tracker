@@ -8,7 +8,7 @@
   "productSlug": "heroes-and-generals-wwii/us-starter-pack",
   "urlSlug": "heroes-and-generals-wwii--us-starter-pack",
   "creationDate": "2020-04-29T02:58:52.861Z",
-  "lastModifiedDate": "2022-01-12T23:24:33.963Z",
+  "lastModifiedDate": "2022-03-23T14:55:31.997Z",
   "effectiveDate": "2020-09-24T14:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -28,6 +28,9 @@
       "path": "addons"
     },
     {
+      "path": "addons/durable"
+    },
+    {
       "path": "addons/consumable"
     },
     {
@@ -45,18 +48,6 @@
       "updated": "2021-10-05T07:48:43.808Z",
       "status": "ACTIVE",
       "referenceCount": 366,
-      "comment": ""
-    },
-    {
-      "id": "18051",
-      "name": "Halloween Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-10-06T19:14:15.572Z",
-      "updated": "2021-11-23T15:36:50.477Z",
-      "status": "ACTIVE",
-      "referenceCount": 846,
       "comment": ""
     },
     {
@@ -210,68 +201,82 @@
       "value": "[]"
     },
     {
-      "key": "publisherName",
-      "value": "RETO MOTO"
-    },
-    {
       "key": "com.epicgames.app.productSlug",
       "value": "heroes-and-generals-wwii/us-starter-pack"
     }
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_USStarterPack_RETOMOTO_Packs_S1-2560x1440-caa02ed7ee8c31b0c5651aaa7b2ff61d.jpg",
-      "md5": "caa02ed7ee8c31b0c5651aaa7b2ff61d",
-      "size": 893179,
-      "uploadedDate": "2020-09-24T06:41:06.566Z",
-      "width": 2560,
-      "height": 1440
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/c3e63401d6ba410493de31ed69a798a1/EGS_USStarterPack_TLMPartners_Packs_G1A_00_1920x1080-5fa41e4c8c69076a47b4d387113e32d4",
+      "md5": "5fa41e4c8c69076a47b4d387113e32d4",
+      "size": 483986,
+      "uploadedDate": "2022-03-10T13:44:21.338Z",
+      "width": 1920,
+      "height": 1080
     },
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_USStarterPack_RETOMOTO_Packs_S1-2560x1440-caa02ed7ee8c31b0c5651aaa7b2ff61d.jpg",
-      "md5": "caa02ed7ee8c31b0c5651aaa7b2ff61d",
-      "size": 893179,
-      "uploadedDate": "2020-09-24T06:41:15.810Z",
-      "width": 2560,
-      "height": 1440
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/c3e63401d6ba410493de31ed69a798a1/EGS_USStarterPack_TLMPartners_Packs_G1A_01_1920x1080-02a385484746a15cc83a8d58779a4d20",
+      "md5": "02a385484746a15cc83a8d58779a4d20",
+      "size": 526669,
+      "uploadedDate": "2022-03-10T13:45:05.727Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/c3e63401d6ba410493de31ed69a798a1/EGS_USStarterPack_TLMPartners_Packs_G1A_02_1920x1080-b2edab5f241311fa378627a642824e9b",
+      "md5": "b2edab5f241311fa378627a642824e9b",
+      "size": 502328,
+      "uploadedDate": "2022-03-10T13:45:46.120Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/c3e63401d6ba410493de31ed69a798a1/EGS_USStarterPack_TLMPartners_Packs_G1A_03_1920x1080-81ed045ce745338eaaf264c837e12c63",
+      "md5": "81ed045ce745338eaaf264c837e12c63",
+      "size": 542107,
+      "uploadedDate": "2022-03-10T13:45:56.249Z",
+      "width": 1920,
+      "height": 1080
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/USstarter-1200x1600-c2dd4945aca549142eca047def632d6c.jpg",
+      "url": "https://cdn1.epicgames.com/offer/c3e63401d6ba410493de31ed69a798a1/EGS_USStarterPack_TLMPartners_Packs_S2_1200x1600-c2dd4945aca549142eca047def632d6c",
       "md5": "c2dd4945aca549142eca047def632d6c",
       "size": 972384,
-      "uploadedDate": "2021-01-25T20:49:38.966Z",
+      "uploadedDate": "2022-03-10T13:47:04.753Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/c3e63401d6ba410493de31ed69a798a1/EGS_USStarterPack_TLMPartners_Packs_S1_2560x1440-caa02ed7ee8c31b0c5651aaa7b2ff61d",
+      "md5": "caa02ed7ee8c31b0c5651aaa7b2ff61d",
+      "size": 893179,
+      "uploadedDate": "2022-03-10T13:47:48.974Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/USstarter-1200x1600-c2dd4945aca549142eca047def632d6c.jpg",
+      "url": "https://cdn1.epicgames.com/offer/c3e63401d6ba410493de31ed69a798a1/EGS_USStarterPack_TLMPartners_Packs_S2_1200x1600-c2dd4945aca549142eca047def632d6c",
       "md5": "c2dd4945aca549142eca047def632d6c",
       "size": 972384,
-      "uploadedDate": "2021-01-25T20:50:11.792Z",
+      "uploadedDate": "2022-03-10T13:47:59.698Z",
       "width": 1200,
       "height": 1600
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/USstarter-1200x1600-c2dd4945aca549142eca047def632d6c.jpg",
-      "md5": "c2dd4945aca549142eca047def632d6c",
-      "size": 972384,
-      "uploadedDate": "2021-01-25T20:50:18.652Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/USstarter-1200x1600-c2dd4945aca549142eca047def632d6c.jpg",
-      "md5": "c2dd4945aca549142eca047def632d6c",
-      "size": 972384,
-      "uploadedDate": "2021-01-25T20:50:31.110Z",
-      "width": 1200,
-      "height": 1600
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/offer/c3e63401d6ba410493de31ed69a798a1/EGS_USStarterPack_TLMPartners_Packs_IC1_200x200-c6b206a03f5dd425f3f4bf289346c373",
+      "md5": "c6b206a03f5dd425f3f4bf289346c373",
+      "size": 8550,
+      "uploadedDate": "2022-03-10T13:48:05.980Z",
+      "width": 200,
+      "height": 200
     }
   ],
   "items": [

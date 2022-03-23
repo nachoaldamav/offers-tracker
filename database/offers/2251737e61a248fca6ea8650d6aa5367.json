@@ -6,9 +6,9 @@
   "longDescription": "Great choice for any adrenaline-pumped soldier who prefers guerrilla warfare over a game of patience - machine gun fire, knife fights, and explosions; what more can you ask for?\n\n# Contents\n\n- PPSh-41 SMG\n- Leonov Misha Ammo\n- RGD-33 Handgrenade\n- NR-40 'Scouts knife'\n- 1 x Explosives Ribbon Booster\n- 1 x Close Combat Ribbon Booster\n- 1 x SMG Assault Ribbon Booster\n- 1 x PPSh-41 Specialist Ribbon Booster\n\n# PPSh-41 SMG\n\nThe PPSh-41 is a Soviet submachine gun. It uses the standard 7.62x25mm Tokarev pistol ammunition. A high rate of fire combined with a very large magazine gives it an impressive amount of firepower, but takes a very experienced soldier to control.\n\n# Leonov Misha\n\nThe tip of this projectile is made of lead to allow it to expand upon contact with soft tissue. This reduces the round's accuracy.\n\n# RGD-33\n\nThe standard Soviet hand grenade with a frag sleeve. Very easy to use. The RGD-33 fits nicely in right between the German stick grenades and the US Mk. II, both in how far they can be thrown and damage.\n\n# NR-40 'Scouts knife'\n\nThe NR-40 is a Soviet combat knife. It has an inverted guard that curves towards the edge because the knife is usually held with the edge towards yourself. This is most useful if you are trying to sneak up on an enemy from behind.\n\n# Ribbon Boosters\n\nRibbon Boosters will accelerate the progress on all your soldiers during combat. Veteran members will receive the boost on top of the boost from the membership.",
   "status": "ACTIVE",
   "productSlug": "heroes-and-generals-wwii/su-starter-pack",
-  "urlSlug": "heroes-and-generals-wwii--su-starterpack",
+  "urlSlug": "heroes-and-generals-wwii--su-starter-pack",
   "creationDate": "2020-04-29T03:00:21.850Z",
-  "lastModifiedDate": "2022-01-12T23:27:46.770Z",
+  "lastModifiedDate": "2022-03-23T14:55:31.782Z",
   "effectiveDate": "2020-09-24T14:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -28,6 +28,9 @@
       "path": "addons"
     },
     {
+      "path": "addons/durable"
+    },
+    {
       "path": "addons/consumable"
     },
     {
@@ -45,18 +48,6 @@
       "updated": "2021-10-05T07:48:43.808Z",
       "status": "ACTIVE",
       "referenceCount": 366,
-      "comment": ""
-    },
-    {
-      "id": "18051",
-      "name": "Halloween Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-10-06T19:14:15.572Z",
-      "updated": "2021-11-23T15:36:50.477Z",
-      "status": "ACTIVE",
-      "referenceCount": 846,
       "comment": ""
     },
     {
@@ -210,68 +201,82 @@
       "value": "[]"
     },
     {
-      "key": "publisherName",
-      "value": "RETO MOTO"
-    },
-    {
       "key": "com.epicgames.app.productSlug",
       "value": "heroes-and-generals-wwii/su-starter-pack"
     }
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_SUStarterPack_RETOMOTO_Packs_S1-2560x1440-b13ddf51eafe563d5e9accc645e4ca96.jpg",
-      "md5": "b13ddf51eafe563d5e9accc645e4ca96",
-      "size": 924251,
-      "uploadedDate": "2020-09-24T07:03:43.381Z",
-      "width": 2560,
-      "height": 1440
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/c3e63401d6ba410493de31ed69a798a1/EGS_SUStarterPack_TLMPartners_Packs_G1A_00_1920x1080-02a385484746a15cc83a8d58779a4d20",
+      "md5": "02a385484746a15cc83a8d58779a4d20",
+      "size": 526669,
+      "uploadedDate": "2022-03-10T16:10:56.968Z",
+      "width": 1920,
+      "height": 1080
     },
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_SUStarterPack_RETOMOTO_Packs_S1-2560x1440-b13ddf51eafe563d5e9accc645e4ca96.jpg",
-      "md5": "b13ddf51eafe563d5e9accc645e4ca96",
-      "size": 924251,
-      "uploadedDate": "2020-09-24T07:03:53.162Z",
-      "width": 2560,
-      "height": 1440
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/c3e63401d6ba410493de31ed69a798a1/EGS_SUStarterPack_TLMPartners_Packs_G1A_01_1920x1080-b2edab5f241311fa378627a642824e9b",
+      "md5": "b2edab5f241311fa378627a642824e9b",
+      "size": 502328,
+      "uploadedDate": "2022-03-10T16:11:06.462Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/c3e63401d6ba410493de31ed69a798a1/EGS_SUStarterPack_TLMPartners_Packs_G1A_02_1920x1080-5fa41e4c8c69076a47b4d387113e32d4",
+      "md5": "5fa41e4c8c69076a47b4d387113e32d4",
+      "size": 483986,
+      "uploadedDate": "2022-03-10T16:11:21.117Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/c3e63401d6ba410493de31ed69a798a1/EGS_SUStarterPack_TLMPartners_Packs_G1A_03_1920x1080-81ed045ce745338eaaf264c837e12c63",
+      "md5": "81ed045ce745338eaaf264c837e12c63",
+      "size": 542107,
+      "uploadedDate": "2022-03-10T16:11:30.579Z",
+      "width": 1920,
+      "height": 1080
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/SUstarter-1200x1600-d310a9b2e5cfc9c0206f17e3331d151a.jpeg",
+      "url": "https://cdn1.epicgames.com/offer/c3e63401d6ba410493de31ed69a798a1/EGS_SUStarterPack_TLMPartners_Packs_S2_1200x1600-d310a9b2e5cfc9c0206f17e3331d151a",
       "md5": "d310a9b2e5cfc9c0206f17e3331d151a",
       "size": 950147,
-      "uploadedDate": "2021-01-25T20:53:39.625Z",
+      "uploadedDate": "2022-03-10T16:12:14.560Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/c3e63401d6ba410493de31ed69a798a1/EGS_SUStarterPack_TLMPartners_Packs_S1_2560x1440-b13ddf51eafe563d5e9accc645e4ca96",
+      "md5": "b13ddf51eafe563d5e9accc645e4ca96",
+      "size": 924251,
+      "uploadedDate": "2022-03-10T16:12:26.566Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/SUstarter-1200x1600-d310a9b2e5cfc9c0206f17e3331d151a.jpeg",
+      "url": "https://cdn1.epicgames.com/offer/c3e63401d6ba410493de31ed69a798a1/EGS_SUStarterPack_TLMPartners_Packs_S2_1200x1600-d310a9b2e5cfc9c0206f17e3331d151a",
       "md5": "d310a9b2e5cfc9c0206f17e3331d151a",
       "size": 950147,
-      "uploadedDate": "2021-01-25T20:53:53.700Z",
+      "uploadedDate": "2022-03-10T16:12:35.623Z",
       "width": 1200,
       "height": 1600
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/SUstarter-1200x1600-d310a9b2e5cfc9c0206f17e3331d151a.jpeg",
-      "md5": "d310a9b2e5cfc9c0206f17e3331d151a",
-      "size": 950147,
-      "uploadedDate": "2021-01-25T20:54:01.991Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/SUstarter-1200x1600-d310a9b2e5cfc9c0206f17e3331d151a.jpeg",
-      "md5": "d310a9b2e5cfc9c0206f17e3331d151a",
-      "size": 950147,
-      "uploadedDate": "2021-01-25T20:54:11.051Z",
-      "width": 1200,
-      "height": 1600
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/offer/c3e63401d6ba410493de31ed69a798a1/EGS_SUStarterPack_TLMPartners_Packs_IC1_200x200-c6b206a03f5dd425f3f4bf289346c373",
+      "md5": "c6b206a03f5dd425f3f4bf289346c373",
+      "size": 8550,
+      "uploadedDate": "2022-03-10T16:12:55.923Z",
+      "width": 200,
+      "height": 200
     }
   ],
   "items": [

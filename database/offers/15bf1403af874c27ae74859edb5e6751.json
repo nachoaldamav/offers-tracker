@@ -8,7 +8,7 @@
   "productSlug": "heroes-and-generals-wwii/ge-infantry-medic",
   "urlSlug": "heroes-and-generals-wwii--ge-infantry-medic",
   "creationDate": "2020-04-29T03:10:32.168Z",
-  "lastModifiedDate": "2022-01-12T23:33:42.425Z",
+  "lastModifiedDate": "2022-03-23T14:55:32.462Z",
   "effectiveDate": "2020-10-08T14:00:00.000Z",
   "viewableDate": "2020-10-08T14:00:00.000Z",
   "developer": null,
@@ -45,18 +45,6 @@
       "updated": "2021-10-05T07:48:43.808Z",
       "status": "ACTIVE",
       "referenceCount": 366,
-      "comment": ""
-    },
-    {
-      "id": "18051",
-      "name": "Halloween Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-10-06T19:14:15.572Z",
-      "updated": "2021-11-23T15:36:50.477Z",
-      "status": "ACTIVE",
-      "referenceCount": 846,
       "comment": ""
     },
     {
@@ -210,66 +198,98 @@
       "value": "[]"
     },
     {
-      "key": "publisherName",
-      "value": "RETO MOTO"
-    },
-    {
       "key": "com.epicgames.app.productSlug",
       "value": "heroes-and-generals-wwii/ge-infantry-medic"
     }
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_GESoldierPackInfantryMedic_RETOMOTO_Packs_S1-2560x1440-52b3090269c5d22105c6e20502430f06.jpg",
-      "md5": "52b3090269c5d22105c6e20502430f06",
-      "size": 900306,
-      "uploadedDate": "2020-09-24T06:22:50.631Z",
-      "width": 2560,
-      "height": 1440
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/c3e63401d6ba410493de31ed69a798a1/EGS_GESoldierPackInfantryMedic_TLMPartners_Packs_G1A_00_1920x1080-384f93bd820b2781d0f0ca35896858e7",
+      "md5": "384f93bd820b2781d0f0ca35896858e7",
+      "size": 811697,
+      "uploadedDate": "2022-03-10T10:38:48.497Z",
+      "width": 1920,
+      "height": 1080
     },
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_GESoldierPackInfantryMedic_RETOMOTO_Packs_S1-2560x1440-52b3090269c5d22105c6e20502430f06.jpg",
-      "md5": "52b3090269c5d22105c6e20502430f06",
-      "size": 900306,
-      "uploadedDate": "2020-09-24T06:23:00.537Z",
-      "width": 2560,
-      "height": 1440
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/c3e63401d6ba410493de31ed69a798a1/EGS_GESoldierPackInfantryMedic_TLMPartners_Packs_G1A_01_1920x1080-1a9c512ad0fad8f3db0ac53d5cc045f0",
+      "md5": "1a9c512ad0fad8f3db0ac53d5cc045f0",
+      "size": 579248,
+      "uploadedDate": "2022-03-10T10:38:55.176Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/c3e63401d6ba410493de31ed69a798a1/EGS_GESoldierPackInfantryMedic_TLMPartners_Packs_G1A_02_1920x1080-30191220a082afe2ff0913a3e98bddf5",
+      "md5": "30191220a082afe2ff0913a3e98bddf5",
+      "size": 601511,
+      "uploadedDate": "2022-03-10T10:39:01.390Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/c3e63401d6ba410493de31ed69a798a1/EGS_GESoldierPackInfantryMedic_TLMPartners_Packs_G1A_03_1920x1080-203c26ca4f1617d998996e253e7cdfa9",
+      "md5": "203c26ca4f1617d998996e253e7cdfa9",
+      "size": 746300,
+      "uploadedDate": "2022-03-10T10:39:07.682Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/c3e63401d6ba410493de31ed69a798a1/EGS_GESoldierPackInfantryMedic_TLMPartners_Packs_G1A_04_1920x1080-0ed9642b4e405a76828a60e22e3e7f87",
+      "md5": "0ed9642b4e405a76828a60e22e3e7f87",
+      "size": 481732,
+      "uploadedDate": "2022-03-10T10:39:14.523Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/c3e63401d6ba410493de31ed69a798a1/EGS_GESoldierPackInfantryMedic_TLMPartners_Packs_G1A_05_1920x1080-369656aa56be39267a04816ef2f1428d",
+      "md5": "369656aa56be39267a04816ef2f1428d",
+      "size": 715404,
+      "uploadedDate": "2022-03-10T10:39:20.550Z",
+      "width": 1920,
+      "height": 1080
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/GEmedic-1200x1600-0f80d8029a4a0a5aab562f5a8736d638.jpg",
+      "url": "https://cdn1.epicgames.com/offer/c3e63401d6ba410493de31ed69a798a1/EGS_GESoldierPackInfantryMedic_TLMPartners_Packs_S2_1200x1600-0f80d8029a4a0a5aab562f5a8736d638",
       "md5": "0f80d8029a4a0a5aab562f5a8736d638",
       "size": 833682,
-      "uploadedDate": "2021-01-25T21:58:25.973Z",
+      "uploadedDate": "2022-03-10T10:39:30.415Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/c3e63401d6ba410493de31ed69a798a1/EGS_GESoldierPackInfantryMedic_TLMPartners_Packs_S1_2560x1440-52b3090269c5d22105c6e20502430f06",
+      "md5": "52b3090269c5d22105c6e20502430f06",
+      "size": 900306,
+      "uploadedDate": "2022-03-10T10:39:36.891Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/offer/c3e63401d6ba410493de31ed69a798a1/EGS_GESoldierPackInfantryMedic_TLMPartners_Packs_IC1_200x200-c6b206a03f5dd425f3f4bf289346c373",
+      "md5": "c6b206a03f5dd425f3f4bf289346c373",
+      "size": 8550,
+      "uploadedDate": "2022-03-10T10:39:42.655Z",
+      "width": 200,
+      "height": 200
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/GEmedic-1200x1600-0f80d8029a4a0a5aab562f5a8736d638.jpg",
+      "url": "https://cdn1.epicgames.com/offer/c3e63401d6ba410493de31ed69a798a1/EGS_GESoldierPackInfantryMedic_TLMPartners_Packs_S2_1200x1600-0f80d8029a4a0a5aab562f5a8736d638",
       "md5": "0f80d8029a4a0a5aab562f5a8736d638",
       "size": 833682,
-      "uploadedDate": "2021-01-25T21:58:34.145Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/GEmedic-1200x1600-0f80d8029a4a0a5aab562f5a8736d638.jpg",
-      "md5": "0f80d8029a4a0a5aab562f5a8736d638",
-      "size": 833682,
-      "uploadedDate": "2021-01-25T21:58:42.286Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/GEmedic-1200x1600-0f80d8029a4a0a5aab562f5a8736d638.jpg",
-      "md5": "0f80d8029a4a0a5aab562f5a8736d638",
-      "size": 833682,
-      "uploadedDate": "2021-01-25T21:58:51.321Z",
+      "uploadedDate": "2022-03-10T10:39:48.683Z",
       "width": 1200,
       "height": 1600
     }

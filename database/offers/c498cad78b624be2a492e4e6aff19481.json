@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "heroes-and-generals-wwii--su-giga-pack",
   "creationDate": "2020-08-31T20:14:13.682Z",
-  "lastModifiedDate": "2022-01-12T23:36:23.669Z",
+  "lastModifiedDate": "2022-03-23T14:55:32.153Z",
   "effectiveDate": "2020-12-18T19:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -31,6 +31,9 @@
       "path": "games"
     },
     {
+      "path": "addons/durable"
+    },
+    {
       "path": "addons/consumable"
     },
     {
@@ -48,18 +51,6 @@
       "updated": "2021-10-05T07:48:43.808Z",
       "status": "ACTIVE",
       "referenceCount": 366,
-      "comment": ""
-    },
-    {
-      "id": "18051",
-      "name": "Halloween Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-10-06T19:14:15.572Z",
-      "updated": "2021-11-23T15:36:50.477Z",
-      "status": "ACTIVE",
-      "referenceCount": 846,
       "comment": ""
     },
     {
@@ -211,64 +202,96 @@
     {
       "key": "com.epicgames.app.blacklist",
       "value": "[]"
-    },
-    {
-      "key": "publisherName",
-      "value": "RETO MOTO"
     }
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/dc6b32bd-2e6c-407b-a646-3f0b5e0a9f8f-2560x1440-f612052b8a37cb202b3fedeb323900f0.jfif",
-      "md5": "f612052b8a37cb202b3fedeb323900f0",
-      "size": 913696,
-      "uploadedDate": "2020-12-18T20:09:38.975Z",
-      "width": 2560,
-      "height": 1440
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/c3e63401d6ba410493de31ed69a798a1/EGS_SUGigaPack_TLMPartners_Packs_G1A_00_1920x1080-7990794324a71376f2f17b3dfd7267de",
+      "md5": "7990794324a71376f2f17b3dfd7267de",
+      "size": 830811,
+      "uploadedDate": "2022-03-10T13:12:29.004Z",
+      "width": 1920,
+      "height": 1080
     },
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/dc6b32bd-2e6c-407b-a646-3f0b5e0a9f8f-2560x1440-f612052b8a37cb202b3fedeb323900f0.jfif",
-      "md5": "f612052b8a37cb202b3fedeb323900f0",
-      "size": 913696,
-      "uploadedDate": "2020-12-18T20:09:47.608Z",
-      "width": 2560,
-      "height": 1440
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/c3e63401d6ba410493de31ed69a798a1/EGS_SUGigaPack_TLMPartners_Packs_G1A_01_1920x1080-9aab7bcb0a301b7a258e06f62da89421",
+      "md5": "9aab7bcb0a301b7a258e06f62da89421",
+      "size": 876000,
+      "uploadedDate": "2022-03-10T13:12:47.825Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/c3e63401d6ba410493de31ed69a798a1/EGS_SUGigaPack_TLMPartners_Packs_G1A_02_1920x1080-4e74826d3705136b89670860e445e209",
+      "md5": "4e74826d3705136b89670860e445e209",
+      "size": 796035,
+      "uploadedDate": "2022-03-10T13:12:59.786Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/c3e63401d6ba410493de31ed69a798a1/EGS_SUGigaPack_TLMPartners_Packs_G1A_03_1920x1080-30191220a082afe2ff0913a3e98bddf5",
+      "md5": "30191220a082afe2ff0913a3e98bddf5",
+      "size": 601511,
+      "uploadedDate": "2022-03-10T13:13:12.483Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/c3e63401d6ba410493de31ed69a798a1/EGS_SUGigaPack_TLMPartners_Packs_G1A_04_1920x1080-989785e7efb3abfff371f587dafcb726",
+      "md5": "989785e7efb3abfff371f587dafcb726",
+      "size": 850993,
+      "uploadedDate": "2022-03-10T13:13:26.578Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/c3e63401d6ba410493de31ed69a798a1/EGS_SUGigaPack_TLMPartners_Packs_G1A_05_1920x1080-1e8b7ed46fd7ef4058ba5eecc34af5bb",
+      "md5": "1e8b7ed46fd7ef4058ba5eecc34af5bb",
+      "size": 731660,
+      "uploadedDate": "2022-03-10T13:14:28.405Z",
+      "width": 1920,
+      "height": 1080
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/d368dadc-d2d5-4b23-818f-680db2bc2986-1200x1600-b696c1b5ed4ffe6c98475524cb7654f9.jfif",
+      "url": "https://cdn1.epicgames.com/offer/c3e63401d6ba410493de31ed69a798a1/EGS_SUGigaPack_TLMPartners_Packs_S2_1200x1600-b696c1b5ed4ffe6c98475524cb7654f9",
       "md5": "b696c1b5ed4ffe6c98475524cb7654f9",
       "size": 911250,
-      "uploadedDate": "2020-12-18T20:09:55.424Z",
+      "uploadedDate": "2022-03-10T13:15:39.491Z",
       "width": 1200,
       "height": 1600
     },
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/d368dadc-d2d5-4b23-818f-680db2bc2986-1200x1600-b696c1b5ed4ffe6c98475524cb7654f9.jfif",
-      "md5": "b696c1b5ed4ffe6c98475524cb7654f9",
-      "size": 911250,
-      "uploadedDate": "2020-12-18T20:10:02.234Z",
-      "width": 1200,
-      "height": 1600
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/c3e63401d6ba410493de31ed69a798a1/EGS_SUGigaPack_TLMPartners_Packs_S1_2560x1440-f612052b8a37cb202b3fedeb323900f0",
+      "md5": "f612052b8a37cb202b3fedeb323900f0",
+      "size": 913696,
+      "uploadedDate": "2022-03-10T13:15:54.502Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/offer/c3e63401d6ba410493de31ed69a798a1/EGS_SUGigaPack_TLMPartners_Packs_IC1_200x200-c6b206a03f5dd425f3f4bf289346c373",
+      "md5": "c6b206a03f5dd425f3f4bf289346c373",
+      "size": 8550,
+      "uploadedDate": "2022-03-10T13:16:05.770Z",
+      "width": 200,
+      "height": 200
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/d368dadc-d2d5-4b23-818f-680db2bc2986-1200x1600-b696c1b5ed4ffe6c98475524cb7654f9.jfif",
+      "url": "https://cdn1.epicgames.com/offer/c3e63401d6ba410493de31ed69a798a1/EGS_SUGigaPack_TLMPartners_Packs_S2_1200x1600-b696c1b5ed4ffe6c98475524cb7654f9",
       "md5": "b696c1b5ed4ffe6c98475524cb7654f9",
       "size": 911250,
-      "uploadedDate": "2020-12-18T20:10:11.448Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/d368dadc-d2d5-4b23-818f-680db2bc2986-1200x1600-b696c1b5ed4ffe6c98475524cb7654f9.jfif",
-      "md5": "b696c1b5ed4ffe6c98475524cb7654f9",
-      "size": 911250,
-      "uploadedDate": "2020-12-18T20:10:21.196Z",
+      "uploadedDate": "2022-03-10T13:16:20.987Z",
       "width": 1200,
       "height": 1600
     }
