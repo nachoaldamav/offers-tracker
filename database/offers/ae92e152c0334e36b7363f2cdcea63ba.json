@@ -5,10 +5,10 @@
   "description": "Enhance Borderlands 3 with the content add-ons of Season Pass 2, featuring new modes and missions, a 4th skill tree for each Vault Hunter, and unique cosmetic outfits!",
   "longDescription": "Season Pass 2 includes:\n• Designer's Cut content add-on, featuring brand new mode 'Arms Race' and an additional skill tree for each Vault Hunter\n• Director's Cut content add-on, with details to be announced\n• All 4 Multiverse Final Form Cosmetic Packs\n\nEnhance Borderlands 3 with the content add-ons of Season Pass 2, featuring new modes and missions, a 4th skill tree for each Vault Hunter, and unique cosmetic outfits! \nThis content is included with purchase of the Borderlands 3 Ultimate Edition. Requires Borderlands 3 to play.\n\nANNOUNCED CONTENT ADD-ON DETAILS:\n\nDesigner's Cut\nIncludes Arms Race mode, an endlessly replayable gauntlet challenging you to gear up your Vault Hunter from scratch.\n\nOutside of Arms Race mode, owning Designer's Cut grants access to an additional skill tree for each Vault Hunter character class.\n\nMultiverse Final Form Cosmetic Packs\nIncludes a Multiverse Final Form Cosmetic Pack for every playable character, including Amara, FL4K, Moze, and Zane.\n\nIncorporates 3rd-party DRM: Denuvo Anti-Tamper\n\nUse of this product requires agreement to the following third party end user license agreement: <http://www.take2games.com/eula/>",
   "status": "ACTIVE",
-  "productSlug": "borderlands-3/season-pass-02",
+  "productSlug": null,
   "urlSlug": "borderlands-3--season-pass-02",
   "creationDate": "2020-08-18T20:44:01.312Z",
-  "lastModifiedDate": "2021-05-20T20:31:23.513Z",
+  "lastModifiedDate": "2022-04-27T18:09:45.992Z",
   "effectiveDate": "2020-11-09T13:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -28,10 +28,13 @@
       "path": "addons"
     },
     {
+      "path": "addons/durable/seasonpass"
+    },
+    {
       "path": "games"
     },
     {
-      "path": "addons/consumable"
+      "path": "addons/durable"
     },
     {
       "path": "applications"
@@ -69,9 +72,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-04-27T16:28:16.119Z",
+      "updated": "2022-04-27T18:12:26.617Z",
       "status": "ACTIVE",
-      "referenceCount": 8942,
+      "referenceCount": 8945,
       "comment": null
     },
     {
@@ -93,9 +96,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2022-04-26T17:46:21.903Z",
+      "updated": "2022-04-27T18:13:03.019Z",
       "status": "ACTIVE",
-      "referenceCount": 1539,
+      "referenceCount": 1545,
       "comment": null
     },
     {
@@ -111,18 +114,6 @@
       "comment": null
     },
     {
-      "id": "18607",
-      "name": "Black Friday Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-11-17T09:59:12.617Z",
-      "updated": "2022-04-25T13:57:05.919Z",
-      "status": "ACTIVE",
-      "referenceCount": 1093,
-      "comment": ""
-    },
-    {
       "id": "15375",
       "name": "Spring Sale",
       "namespace": null,
@@ -132,6 +123,18 @@
       "updated": "2022-04-25T13:57:07.942Z",
       "status": "ACTIVE",
       "referenceCount": 1267,
+      "comment": ""
+    },
+    {
+      "id": "18607",
+      "name": "Black Friday Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-11-17T09:59:12.617Z",
+      "updated": "2022-04-25T13:57:05.919Z",
+      "status": "ACTIVE",
+      "referenceCount": 1093,
       "comment": ""
     },
     {
@@ -159,18 +162,6 @@
       "comment": ""
     },
     {
-      "id": "17493",
-      "name": "September Savings",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-08-25T14:44:49.018Z",
-      "updated": "2022-04-21T15:57:58.655Z",
-      "status": "ACTIVE",
-      "referenceCount": 707,
-      "comment": ""
-    },
-    {
       "id": "14869",
       "name": "2K Publisher Sale",
       "namespace": null,
@@ -180,6 +171,18 @@
       "updated": "2022-03-16T15:00:25.817Z",
       "status": "ACTIVE",
       "referenceCount": 24,
+      "comment": ""
+    },
+    {
+      "id": "17493",
+      "name": "September Savings",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-08-25T14:44:49.018Z",
+      "updated": "2022-04-21T15:57:58.655Z",
+      "status": "ACTIVE",
+      "referenceCount": 707,
       "comment": ""
     },
     {
@@ -237,7 +240,7 @@
       "aliases": [],
       "operator": null,
       "created": "2021-12-02T19:04:11.086Z",
-      "updated": "2022-04-25T13:57:06.598Z",
+      "updated": "2022-04-27T14:15:02.545Z",
       "status": "ACTIVE",
       "referenceCount": 1316,
       "comment": ""
@@ -245,20 +248,12 @@
   ],
   "customAttributes": [
     {
-      "key": "com.epicgames.app.blacklist",
-      "value": "[]"
-    },
-    {
       "key": "publisherName",
       "value": "2K"
     },
     {
       "key": "developerName",
       "value": "Gearbox Software"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "borderlands-3/season-pass-02"
     }
   ],
   "keyImages": [
