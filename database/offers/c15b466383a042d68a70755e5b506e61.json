@@ -1,16 +1,16 @@
 {
   "id": "c15b466383a042d68a70755e5b506e61",
   "namespace": "8157b8921bc94f42aafecf98868124b2",
-  "title": "EmmentalGeneralKitAudience",
-  "description": "EmmentalGeneralKitAudience",
+  "title": "LEAP Mod Editor",
+  "description": "LEAP is a fast-paced, multiplayer first-person shooter featuring epic battles with up to 60 players, each armed to the teeth. Use the mod editor to create maps, modify the game's balance or create new game's entirely within LEAP's ecosystem.",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "emmentalgeneralaudience",
+  "productSlug": "leap-mod-editor",
+  "urlSlug": "leap-mod-kit",
   "creationDate": "2021-04-29T22:19:05.834Z",
-  "lastModifiedDate": "2022-05-05T19:07:54.184Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2022-05-05T19:07:00.000Z",
+  "lastModifiedDate": "2022-06-01T17:09:22.694Z",
+  "effectiveDate": "2022-06-01T15:00:00.000Z",
+  "viewableDate": "2022-05-05T15:52:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-565qwd7twcgtvffpnqtws5umca4p2u",
@@ -29,9 +29,25 @@
     },
     {
       "path": "editors"
+    },
+    {
+      "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2022-06-01T15:53:12.729Z",
+      "status": "ACTIVE",
+      "referenceCount": 9502,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -44,9 +60,50 @@
     {
       "key": "developerName",
       "value": "[]"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "leap-mod-editor"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/8157b8921bc94f42aafecf98868124b2/EGS_LEAPModEditor_BlueIsleStudios_S2_1200x1600-cea5882a76b68226ddb4e4d8c41fad73",
+      "md5": "cea5882a76b68226ddb4e4d8c41fad73",
+      "size": 445921,
+      "uploadedDate": "2022-05-05T19:19:00.318Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/8157b8921bc94f42aafecf98868124b2/EGS_LEAPModEditor_BlueIsleStudios_S1_2560x1440-71f106eaba4b0eaa507bab57cfef3805",
+      "md5": "71f106eaba4b0eaa507bab57cfef3805",
+      "size": 548739,
+      "uploadedDate": "2022-05-05T19:19:05.777Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/8157b8921bc94f42aafecf98868124b2/EGS_LEAPModEditor_BlueIsleStudios_S2_1200x1600-cea5882a76b68226ddb4e4d8c41fad73",
+      "md5": "cea5882a76b68226ddb4e4d8c41fad73",
+      "size": 445921,
+      "uploadedDate": "2022-05-05T19:19:08.623Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/offer/8157b8921bc94f42aafecf98868124b2/EGS_LEAPModEditor_BlueIsleStudios_IC1_400x191-45c6651599787fec916538967293d756",
+      "md5": "45c6651599787fec916538967293d756",
+      "size": 163428,
+      "uploadedDate": "2022-05-05T19:19:24.026Z",
+      "width": 400,
+      "height": 191
+    }
+  ],
   "items": [
     {
       "id": "514e635bc020440c829f94df6daa3980"
