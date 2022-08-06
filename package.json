@@ -1,0 +1,19 @@
+{
+  "name": "offers-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "update": "node update",
+    "loop": "node update-loop"
+  },
+  "author": {
+    "name": "Szymon Lisowiec",
+    "url": "https://kysune.me"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "graphql-request": "1.8.2",
+    "simple-git": "^2.11.0"
+  }
+}

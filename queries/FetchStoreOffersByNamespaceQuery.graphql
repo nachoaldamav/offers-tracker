@@ -1,0 +1,62 @@
+query catalogQuery($namespace:String!, $locale:String, $count:Int, $start:Int, $country: String!) {
+  Catalog {
+    catalogOffers(
+      namespace: $namespace,
+      locale: $locale,
+      params: {count: $count, start: $start, country: $country},
+      countryAgeFilter: {shouldCheck: false}
+    ) {
+      elements {
+        isFeatured
+        collectionOfferIds
+        effectiveDate
+        creationDate
+        lastModifiedDate
+        viewableDate
+        productSlug
+        developer
+        ignoreOrder
+        freeDays
+          
+        title
+        id
+        namespace
+        description
+        longDescription
+        status
+        keyImages {
+          type
+          url
+        }
+        seller {
+          id
+          name
+        }
+        items {
+          id
+          namespace
+          developer
+        }
+        customAttributes {
+          key
+          value
+        }
+        categories {
+          path
+        }
+        linkedOfferId
+        linkedOffer {
+          customAttributes {
+            key
+            value
+          }
+        }
+      }
+      paging {
+        count
+        start
+        total
+      }
+    }
+  }
+}
