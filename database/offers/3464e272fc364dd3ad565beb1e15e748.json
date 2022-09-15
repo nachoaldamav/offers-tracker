@@ -6,10 +6,10 @@
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "railgrade",
-  "urlSlug": "railgrade",
+  "urlSlug": "railgrade-prepurchase",
   "creationDate": "2021-07-23T16:16:00.140Z",
-  "lastModifiedDate": "2022-09-14T16:08:37.601Z",
-  "effectiveDate": "2099-02-01T00:00:00.000Z",
+  "lastModifiedDate": "2022-09-15T13:57:07.099Z",
+  "effectiveDate": "2022-09-15T14:00:00.000Z",
   "viewableDate": "2021-10-25T15:00:00.000Z",
   "developer": null,
   "seller": {
@@ -32,6 +32,9 @@
     },
     {
       "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
     }
   ],
   "tags": [
@@ -42,7 +45,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2022-09-15T11:09:16.110Z",
+      "updated": "2022-09-15T13:57:07.309Z",
       "status": "ACTIVE",
       "referenceCount": 851,
       "comment": null
@@ -54,7 +57,7 @@
       "aliases": [],
       "operator": null,
       "created": "2022-07-07T16:11:08.589Z",
-      "updated": "2022-09-08T20:11:26.098Z",
+      "updated": "2022-09-15T13:57:07.329Z",
       "status": "ACTIVE",
       "referenceCount": 7,
       "comment": ""
@@ -66,9 +69,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2022-09-15T12:55:55.419Z",
+      "updated": "2022-09-15T13:57:07.347Z",
       "status": "ACTIVE",
-      "referenceCount": 442,
+      "referenceCount": 441,
       "comment": ""
     },
     {
@@ -78,9 +81,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2022-09-15T12:45:04.590Z",
+      "updated": "2022-09-15T13:57:07.275Z",
       "status": "ACTIVE",
-      "referenceCount": 5077,
+      "referenceCount": 5078,
       "comment": null
     },
     {
@@ -90,7 +93,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2022-09-15T12:45:04.601Z",
+      "updated": "2022-09-15T13:57:07.337Z",
       "status": "ACTIVE",
       "referenceCount": 1046,
       "comment": null
@@ -102,7 +105,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-09-15T12:55:55.369Z",
+      "updated": "2022-09-15T13:57:07.299Z",
       "status": "ACTIVE",
       "referenceCount": 11615,
       "comment": null
@@ -114,13 +117,21 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2022-09-15T12:55:55.321Z",
+      "updated": "2022-09-15T13:57:07.321Z",
       "status": "ACTIVE",
       "referenceCount": 2510,
       "comment": null
     }
   ],
   "customAttributes": [
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "1664460000"
+    },
     {
       "key": "com.epicgames.app.productSlug",
       "value": "railgrade"
@@ -184,7 +195,7 @@
   ],
   "items": [
     {
-      "id": "22724ef4730b4d1aa017d5214201975f"
+      "id": "8202484425134d1c8b9497ba1ef7da7c"
     }
   ],
   "catalogNs": {
