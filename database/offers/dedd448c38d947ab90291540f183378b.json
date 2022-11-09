@@ -5,10 +5,10 @@
   "description": "From the art director of Journey® and Flower®, ABZÛ is a beautiful underwater adventure that evokes the dream of diving.",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "abzu/home",
-  "urlSlug": "currygeneralaudience",
+  "productSlug": "abzu",
+  "urlSlug": "abzu",
   "creationDate": "2019-06-03T20:59:05.412Z",
-  "lastModifiedDate": "2021-08-25T16:43:36.576Z",
+  "lastModifiedDate": "2022-11-09T14:56:50.406Z",
   "effectiveDate": "2019-09-04T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -81,7 +81,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-11-09T14:26:50.428Z",
+      "updated": "2022-11-09T14:59:32.529Z",
       "status": "ACTIVE",
       "referenceCount": 11869,
       "comment": null
@@ -111,18 +111,6 @@
       "comment": null
     },
     {
-      "id": "18607",
-      "name": "Black Friday Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-11-17T09:59:12.617Z",
-      "updated": "2022-11-04T16:19:36.572Z",
-      "status": "ACTIVE",
-      "referenceCount": 1065,
-      "comment": ""
-    },
-    {
       "id": "15375",
       "name": "Spring Sale",
       "namespace": null,
@@ -132,6 +120,18 @@
       "updated": "2022-11-04T16:19:36.397Z",
       "status": "ACTIVE",
       "referenceCount": 1221,
+      "comment": ""
+    },
+    {
+      "id": "18607",
+      "name": "Black Friday Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-11-17T09:59:12.617Z",
+      "updated": "2022-11-04T16:19:36.572Z",
+      "status": "ACTIVE",
+      "referenceCount": 1065,
       "comment": ""
     },
     {
@@ -213,81 +213,37 @@
       "value": "{}"
     },
     {
-      "key": "publisherName",
-      "value": "505 Games"
-    },
-    {
-      "key": "developerName",
-      "value": "Giant Squid"
-    },
-    {
       "key": "com.epicgames.app.productSlug",
-      "value": "abzu/home"
+      "value": "abzu"
     }
   ],
   "keyImages": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Abzu_PRIMARYPROMO_2580x1450-2580x1450-1df5bc4d1ebbf73ff8e4e1fdb70011d0.jpg",
-      "md5": "1df5bc4d1ebbf73ff8e4e1fdb70011d0",
-      "size": 273765,
-      "uploadedDate": "2019-08-19T21:43:28.572Z",
-      "width": 2580,
-      "height": 1450
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Abzu_PORTRAITPROMO_1280x1450-1280x1450-f4f02e4e83f889842dc7e47e9e662b58.jpg",
-      "md5": "f4f02e4e83f889842dc7e47e9e662b58",
-      "size": 176117,
-      "uploadedDate": "2019-08-19T21:43:36.585Z",
-      "width": 1280,
-      "height": 1450
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/AbzuLogo-3366x1158-bb53cbd189bef0cebbc1eece00eaa96a.png",
-      "md5": "bb53cbd189bef0cebbc1eece00eaa96a",
-      "size": 62869,
-      "uploadedDate": "2019-08-19T22:14:08.291Z",
-      "width": 3366,
-      "height": 1158
-    },
-    {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Abzu_PORTRAITPROMO_1280x1450-1280x1450-f4f02e4e83f889842dc7e47e9e662b58.jpg",
-      "md5": "f4f02e4e83f889842dc7e47e9e662b58",
-      "size": 176117,
-      "uploadedDate": "2019-08-19T21:43:36.585Z",
-      "width": 1280,
-      "height": 1450
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/7af7476ff9eb4a8d9cd9d6486224de76/offer/CodeRedemption_ABZU-340x440-4a451766819751980d47951f9563e260.jpg",
-      "md5": "4a451766819751980d47951f9563e260",
-      "size": 168711,
-      "uploadedDate": "2019-08-20T17:14:37.316Z",
-      "width": 340,
-      "height": 440
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/7af7476ff9eb4a8d9cd9d6486224de76/offer/CodeRedemption_ABZU-340x440-4a451766819751980d47951f9563e260.jpg",
-      "md5": "4a451766819751980d47951f9563e260",
-      "size": 168711,
-      "uploadedDate": "2019-08-20T17:14:50.619Z",
-      "width": 340,
-      "height": 440
+      "url": "https://cdn1.epicgames.com/offer/7af7476ff9eb4a8d9cd9d6486224de76/ABZU_Portrait_Storefront_1200X1600_1200x1600-61df06244a496c82f3ac231174c1b1f5",
+      "md5": "61df06244a496c82f3ac231174c1b1f5",
+      "size": 603920,
+      "uploadedDate": "2022-11-09T14:55:49.712Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Abzu_PRIMARYPROMO_2580x1450-2580x1450-1df5bc4d1ebbf73ff8e4e1fdb70011d0.jpg",
-      "md5": "1df5bc4d1ebbf73ff8e4e1fdb70011d0",
-      "size": 273765,
-      "uploadedDate": "2020-02-11T09:41:44.790Z",
-      "width": 2580,
-      "height": 1450
+      "url": "https://cdn1.epicgames.com/offer/7af7476ff9eb4a8d9cd9d6486224de76/ABZU_Landscape_Image_2560X1440_2560x1440-a0bfb5f58d2c4282591408cb1d38f391",
+      "md5": "a0bfb5f58d2c4282591408cb1d38f391",
+      "size": 889754,
+      "uploadedDate": "2022-11-09T14:55:47.314Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/7af7476ff9eb4a8d9cd9d6486224de76/ABZU_Portrait_Storefront_1200X1600_1200x1600-61df06244a496c82f3ac231174c1b1f5",
+      "md5": "61df06244a496c82f3ac231174c1b1f5",
+      "size": 603920,
+      "uploadedDate": "2022-11-09T14:55:43.576Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [
