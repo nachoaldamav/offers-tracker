@@ -1,14 +1,14 @@
 {
   "id": "baa5245f8d2249cdbad9f9e814673b48",
   "namespace": "ed55aa5edc5941de92fd7f64de415793",
-  "title": "HITMAN Trilogy",
-  "description": "Get access to all three games in the World of Assassination trilogy. Become Agent 47 in the ultimate spy-thriller story across three games and more than 20 locations.",
+  "title": "HITMAN World of Assassination",
+  "description": "Become Agent 47 in the ultimate spy-thriller adventure across more than 20 locations\nHITMAN World of Assassination brings together the best of HITMAN HITMAN 2 and HITMAN 3 including the main campaign, escalations, elusive target arcades and HITMAN: Freelancer.",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "hitman-3--trilogy",
-  "urlSlug": "hitman-3--trilogy",
+  "productSlug": "hitman-3-woa",
+  "urlSlug": "hitman-3--woa",
   "creationDate": "2022-01-06T22:09:16.079Z",
-  "lastModifiedDate": "2022-12-15T18:53:41.967Z",
+  "lastModifiedDate": "2023-01-26T15:00:04.587Z",
   "effectiveDate": "2022-01-20T18:00:00.000Z",
   "viewableDate": "2022-01-20T18:00:00.000Z",
   "developer": null,
@@ -31,6 +31,9 @@
       "path": "games/edition"
     },
     {
+      "path": "games/edition/base"
+    },
+    {
       "path": "applications"
     }
   ],
@@ -42,22 +45,10 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-01-26T14:22:05.952Z",
+      "updated": "2023-01-26T15:02:09.427Z",
       "status": "ACTIVE",
       "referenceCount": 1630,
       "comment": null
-    },
-    {
-      "id": "22485",
-      "name": "August Event Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-08-23T13:22:53.223Z",
-      "updated": "2023-01-25T21:22:28.368Z",
-      "status": "ACTIVE",
-      "referenceCount": 1088,
-      "comment": ""
     },
     {
       "id": "21894",
@@ -66,7 +57,7 @@
       "aliases": [],
       "operator": null,
       "created": "2022-07-07T16:11:08.589Z",
-      "updated": "2023-01-26T14:22:05.688Z",
+      "updated": "2023-01-26T15:02:09.084Z",
       "status": "ACTIVE",
       "referenceCount": 1084,
       "comment": ""
@@ -78,22 +69,10 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-01-26T14:31:56.624Z",
+      "updated": "2023-01-26T15:02:09.095Z",
       "status": "ACTIVE",
       "referenceCount": 3346,
       "comment": null
-    },
-    {
-      "id": "24570",
-      "name": "Holiday Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-12-14T20:45:17.902Z",
-      "updated": "2023-01-25T21:22:28.403Z",
-      "status": "ACTIVE",
-      "referenceCount": 2343,
-      "comment": ""
     },
     {
       "id": "9547",
@@ -102,22 +81,10 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-01-26T14:22:05.719Z",
+      "updated": "2023-01-26T15:02:09.114Z",
       "status": "ACTIVE",
       "referenceCount": 7697,
       "comment": null
-    },
-    {
-      "id": "16011",
-      "name": "Epic MEGA Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-04-27T08:10:34.554Z",
-      "updated": "2023-01-25T21:22:28.334Z",
-      "status": "ACTIVE",
-      "referenceCount": 1524,
-      "comment": ""
     },
     {
       "id": "1084",
@@ -126,180 +93,75 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:00.299Z",
-      "updated": "2023-01-21T17:20:41.498Z",
+      "updated": "2023-01-26T15:00:06.563Z",
       "status": "ACTIVE",
-      "referenceCount": 121,
+      "referenceCount": 122,
       "comment": null
     },
     {
-      "id": "15375",
-      "name": "Spring Sale",
-      "namespace": null,
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2021-03-10T09:37:21.403Z",
-      "updated": "2023-01-25T21:22:28.354Z",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2023-01-26T15:02:09.130Z",
       "status": "ACTIVE",
-      "referenceCount": 1186,
-      "comment": ""
-    },
-    {
-      "id": "18607",
-      "name": "Black Friday Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-11-17T09:59:12.617Z",
-      "updated": "2023-01-25T21:22:28.361Z",
-      "status": "ACTIVE",
-      "referenceCount": 1926,
-      "comment": ""
+      "referenceCount": 1222,
+      "comment": null
     }
   ],
   "customAttributes": [
     {
-      "key": "com.epicgames.app.blacklist",
-      "value": "[]"
-    },
-    {
-      "key": "publisherName",
-      "value": "IO Interactive"
-    },
-    {
-      "key": "developerName",
-      "value": "IO Interactive"
-    },
-    {
       "key": "com.epicgames.app.productSlug",
-      "value": "hitman-3--trilogy"
+      "value": "hitman-3-woa"
     }
   ],
   "keyImages": [
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/offer/ed55aa5edc5941de92fd7f64de415793/EGS_HITMANTrilogy_IOInteractiveAS_Bundles_S2_1200x1600-09148352796a47ece5092b232913b19b",
-      "md5": "09148352796a47ece5092b232913b19b",
-      "size": 498835,
-      "uploadedDate": "2022-01-06T23:50:22.340Z",
+      "url": "https://cdn1.epicgames.com/offer/ed55aa5edc5941de92fd7f64de415793/EGS_HITMANWorldofAssassination_IOInteractiveAS_Bundles_S2_1200x1600-1f5eb0ca3e8855875b9f0757748337b4",
+      "md5": "1f5eb0ca3e8855875b9f0757748337b4",
+      "size": 379668,
+      "uploadedDate": "2022-12-15T13:19:05.856Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/ed55aa5edc5941de92fd7f64de415793/EGS_HITMANTrilogy_IOInteractiveAS_Bundles_S1_2560x1440-c56b496e3fddbfff0d65a4e3548e3e64",
-      "md5": "c56b496e3fddbfff0d65a4e3548e3e64",
-      "size": 640629,
-      "uploadedDate": "2022-01-06T23:50:24.626Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/ed55aa5edc5941de92fd7f64de415793/EGS_HITMANTrilogy_IOInteractiveAS_Bundles_S2_1200x1600-09148352796a47ece5092b232913b19b",
-      "md5": "09148352796a47ece5092b232913b19b",
-      "size": 498835,
-      "uploadedDate": "2022-01-06T23:50:27.195Z",
+      "url": "https://cdn1.epicgames.com/offer/ed55aa5edc5941de92fd7f64de415793/EGS_HITMANWorldofAssassination_IOInteractiveAS_Bundles_S2_1200x1600-1f5eb0ca3e8855875b9f0757748337b4",
+      "md5": "1f5eb0ca3e8855875b9f0757748337b4",
+      "size": 379668,
+      "uploadedDate": "2022-12-15T13:19:10.853Z",
       "width": 1200,
       "height": 1600
     },
     {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/ed55aa5edc5941de92fd7f64de415793/EGS_HITMANWorldofAssassination_IOInteractiveAS_Bundles_S1_2560x1440-c44b7c8cf06d0ab3d63f5316c03b7c05",
+      "md5": "c44b7c8cf06d0ab3d63f5316c03b7c05",
+      "size": 936482,
+      "uploadedDate": "2022-12-15T13:19:17.039Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/ed55aa5edc5941de92fd7f64de415793/EGS_HITMANTrilogy_IOInteractiveAS_Bundles_S2_1200x1600-09148352796a47ece5092b232913b19b",
-      "md5": "09148352796a47ece5092b232913b19b",
-      "size": 498835,
-      "uploadedDate": "2022-01-06T23:50:29.769Z",
+      "url": "https://cdn1.epicgames.com/offer/ed55aa5edc5941de92fd7f64de415793/EGS_HITMANWorldofAssassination_IOInteractiveAS_Bundles_S2_1200x1600-1f5eb0ca3e8855875b9f0757748337b4",
+      "md5": "1f5eb0ca3e8855875b9f0757748337b4",
+      "size": 379668,
+      "uploadedDate": "2022-12-15T13:19:21.442Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "ProductLogo",
-      "url": "https://cdn1.epicgames.com/offer/ed55aa5edc5941de92fd7f64de415793/EGS_HITMANTrilogy_IOInteractiveAS_Bundles_IC1_200x200-303bc382b0c3c11a6ca5b40f8429a3cd",
-      "md5": "303bc382b0c3c11a6ca5b40f8429a3cd",
-      "size": 6342,
-      "uploadedDate": "2022-01-06T23:50:32.911Z",
+      "url": "https://cdn1.epicgames.com/offer/ed55aa5edc5941de92fd7f64de415793/EGS_HITMANWorldofAssassination_IOInteractiveAS_Bundles_IC1_200x200-f82a3aa9d750e8065a4c7fa04f3b2259",
+      "md5": "f82a3aa9d750e8065a4c7fa04f3b2259",
+      "size": 3347,
+      "uploadedDate": "2022-12-15T13:19:26.038Z",
       "width": 200,
       "height": 200
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/ed55aa5edc5941de92fd7f64de415793/EGS_HITMANTrilogy_IOInteractiveAS_Bundles_G1A_00_1920x1080-0c7b862d154a5b717bc291c7fe90f148",
-      "md5": "0c7b862d154a5b717bc291c7fe90f148",
-      "size": 233556,
-      "uploadedDate": "2022-01-06T23:51:50.083Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/ed55aa5edc5941de92fd7f64de415793/EGS_HITMANTrilogy_IOInteractiveAS_Bundles_G1A_01_1920x1080-4f8cfceece7f76d3d2fd046dff7565f5",
-      "md5": "4f8cfceece7f76d3d2fd046dff7565f5",
-      "size": 628137,
-      "uploadedDate": "2022-01-06T23:51:52.052Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/ed55aa5edc5941de92fd7f64de415793/EGS_HITMANTrilogy_IOInteractiveAS_Bundles_G1A_02_1920x1080-3416bbd7c90244c8d93de309f5b6fbf1",
-      "md5": "3416bbd7c90244c8d93de309f5b6fbf1",
-      "size": 665688,
-      "uploadedDate": "2022-01-06T23:51:54.332Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/ed55aa5edc5941de92fd7f64de415793/EGS_HITMANTrilogy_IOInteractiveAS_Bundles_G1A_03_1920x1080-6c905e4d79c3c84b4e0ad6798f370dc6",
-      "md5": "6c905e4d79c3c84b4e0ad6798f370dc6",
-      "size": 508185,
-      "uploadedDate": "2022-01-06T23:51:56.082Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/ed55aa5edc5941de92fd7f64de415793/EGS_HITMANTrilogy_IOInteractiveAS_Bundles_G1A_04_1920x1080-1b48c0e0c2d6637aec95e1772dd4b1a3",
-      "md5": "1b48c0e0c2d6637aec95e1772dd4b1a3",
-      "size": 690222,
-      "uploadedDate": "2022-01-06T23:51:57.864Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/ed55aa5edc5941de92fd7f64de415793/EGS_HITMANTrilogy_IOInteractiveAS_Bundles_G1A_05_1920x1080-d5d36656ebf2f757ac3c5923ddcbb22f",
-      "md5": "d5d36656ebf2f757ac3c5923ddcbb22f",
-      "size": 902032,
-      "uploadedDate": "2022-01-06T23:52:00.138Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/ed55aa5edc5941de92fd7f64de415793/EGS_HITMANTrilogy_IOInteractiveAS_Bundles_G1A_06_1920x1080-79d1e74dd0878c7c2e21feb146bfe9c8",
-      "md5": "79d1e74dd0878c7c2e21feb146bfe9c8",
-      "size": 659780,
-      "uploadedDate": "2022-01-06T23:52:01.928Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/ed55aa5edc5941de92fd7f64de415793/EGS_HITMANTrilogy_IOInteractiveAS_Bundles_G1A_07_1920x1080-9fd2669988699fe78c075392527d05ab",
-      "md5": "9fd2669988699fe78c075392527d05ab",
-      "size": 332982,
-      "uploadedDate": "2022-01-06T23:52:03.428Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/ed55aa5edc5941de92fd7f64de415793/EGS_HITMANTrilogy_IOInteractiveAS_Bundles_G1A_08_1920x1080-dd2646a8239f353f5ff506bf635bf35c",
-      "md5": "dd2646a8239f353f5ff506bf635bf35c",
-      "size": 724467,
-      "uploadedDate": "2022-01-06T23:52:05.578Z",
-      "width": 1920,
-      "height": 1080
     }
   ],
   "items": [
