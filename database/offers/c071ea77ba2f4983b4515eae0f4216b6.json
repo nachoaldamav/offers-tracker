@@ -8,7 +8,7 @@
   "productSlug": "far-cry-4/home",
   "urlSlug": "tautoggeneralaudience",
   "creationDate": "2020-01-24T17:49:46.957Z",
-  "lastModifiedDate": "2023-03-27T12:02:07.120Z",
+  "lastModifiedDate": "2023-03-30T14:47:34.224Z",
   "effectiveDate": "2020-02-04T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -28,10 +28,10 @@
       "path": "games"
     },
     {
-      "path": "games/edition/base"
+      "path": "games/edition"
     },
     {
-      "path": "games/edition"
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -86,7 +86,18 @@
       "referenceCount": 130,
       "comment": ""
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-03-30T14:18:36.390Z",
+      "status": "ACTIVE",
+      "referenceCount": 8130,
+      "comment": null
+    },
     {
       "id": "1294",
       "name": "First Person",
@@ -99,7 +110,18 @@
       "referenceCount": 276,
       "comment": null
     },
-    null,
+    {
+      "id": "15375",
+      "name": "Spring Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-03-10T09:37:21.403Z",
+      "updated": "2023-03-30T14:17:54.678Z",
+      "status": "ACTIVE",
+      "referenceCount": 1957,
+      "comment": ""
+    },
     {
       "id": "21138",
       "name": "Recommend this Game",
@@ -261,24 +283,6 @@
   ],
   "keyImages": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/FarCry4_Landscape-2580x1450-37f8f0733b7b6e8d4a0cd954b673040b.jpg",
-      "md5": "37f8f0733b7b6e8d4a0cd954b673040b",
-      "size": 375271,
-      "uploadedDate": "2020-02-18T15:17:31.450Z",
-      "width": 2580,
-      "height": 1450
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/FarCry4_S2-BANNER-1280x1440-1280x1440-7f5a58952620e42b2b72eb884acf7713.png",
-      "md5": "7f5a58952620e42b2b72eb884acf7713",
-      "size": 969336,
-      "uploadedDate": "2020-02-18T15:17:40.345Z",
-      "width": 1280,
-      "height": 1440
-    },
-    {
       "type": "DieselGameBoxLogo",
       "url": "https://cdn1.epicgames.com/epic/offer/FarCyr4_Logo-1000x375-8bb6806a29c603338ed13ce8e470fde2.png",
       "md5": "8bb6806a29c603338ed13ce8e470fde2",
@@ -288,31 +292,31 @@
       "height": 375
     },
     {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/offer/cf87285950ba492bbdc370b9d265ea36/FC4_StorePortrait_1200x1600_1200x1600-7f366d878f5553dae499860243c537ee",
+      "md5": "7f366d878f5553dae499860243c537ee",
+      "size": 846434,
+      "uploadedDate": "2023-03-30T14:47:24.398Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/FarCry4_Landscape-2580x1450-37f8f0733b7b6e8d4a0cd954b673040b.jpg",
+      "md5": "37f8f0733b7b6e8d4a0cd954b673040b",
+      "size": 375271,
+      "uploadedDate": "2020-02-18T15:17:31.450Z",
+      "width": 2580,
+      "height": 1450
+    },
+    {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/FarCry4_S2-BANNER-1280x1440-1280x1440-7f5a58952620e42b2b72eb884acf7713.png",
-      "md5": "7f5a58952620e42b2b72eb884acf7713",
-      "size": 969336,
-      "uploadedDate": "2020-02-18T15:17:40.345Z",
-      "width": 1280,
-      "height": 1440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/cf87285950ba492bbdc370b9d265ea36/offer/FC4_STD_Edition_Capsule_1920X1080-1920x1080-661bb793018c8394b042857e0eb42f8d.jpg",
-      "md5": "661bb793018c8394b042857e0eb42f8d",
-      "size": 445827,
-      "uploadedDate": "2020-02-03T17:55:52.972Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/cf87285950ba492bbdc370b9d265ea36/offer/Store_Portrait_Promo_1280x1420-1280x1420-e360ecdd12735b75de7be92a8e337db2.jpg",
-      "md5": "e360ecdd12735b75de7be92a8e337db2",
-      "size": 1328777,
-      "uploadedDate": "2020-02-03T17:56:03.573Z",
-      "width": 1280,
-      "height": 1420
+      "url": "https://cdn1.epicgames.com/offer/cf87285950ba492bbdc370b9d265ea36/FC4_StorePortrait_1200x1600_1200x1600-7f366d878f5553dae499860243c537ee",
+      "md5": "7f366d878f5553dae499860243c537ee",
+      "size": 846434,
+      "uploadedDate": "2023-03-30T14:47:26.975Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "OfferImageWide",
@@ -322,6 +326,15 @@
       "uploadedDate": "2020-02-12T09:41:44.790Z",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/cf87285950ba492bbdc370b9d265ea36/FC4_StorePortrait_1200x1600_1200x1600-7f366d878f5553dae499860243c537ee",
+      "md5": "7f366d878f5553dae499860243c537ee",
+      "size": 846434,
+      "uploadedDate": "2023-03-30T14:47:29.508Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [

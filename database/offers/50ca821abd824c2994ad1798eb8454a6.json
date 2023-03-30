@@ -8,7 +8,7 @@
   "productSlug": "far-cry-3",
   "urlSlug": "helleboregeneralaudience",
   "creationDate": "2019-02-08T20:45:32.377Z",
-  "lastModifiedDate": "2023-03-27T12:02:05.637Z",
+  "lastModifiedDate": "2023-03-30T14:46:33.244Z",
   "effectiveDate": "2020-02-07T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -28,10 +28,10 @@
       "path": "games"
     },
     {
-      "path": "games/edition/base"
+      "path": "games/edition"
     },
     {
-      "path": "games/edition"
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -110,7 +110,18 @@
       "referenceCount": 351,
       "comment": null
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-03-30T14:18:36.390Z",
+      "status": "ACTIVE",
+      "referenceCount": 8130,
+      "comment": null
+    },
     {
       "id": "1294",
       "name": "First Person",
@@ -123,7 +134,18 @@
       "referenceCount": 276,
       "comment": null
     },
-    null,
+    {
+      "id": "15375",
+      "name": "Spring Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-03-10T09:37:21.403Z",
+      "updated": "2023-03-30T14:17:54.678Z",
+      "status": "ACTIVE",
+      "referenceCount": 1957,
+      "comment": ""
+    },
     {
       "id": "18303",
       "name": "Far Cry Catalog Sale",
@@ -153,24 +175,6 @@
   ],
   "keyImages": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/S1-FAR-CRY-3-2560x1440-5454e3b75f0535406b170546117dc576.jpg",
-      "md5": "5454e3b75f0535406b170546117dc576",
-      "size": 552604,
-      "uploadedDate": "2019-10-28T19:00:00.288Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/S2-FAR-CRY-3-1280x1440-e6b5b5e28005a93a580179c7e4342247.jpg",
-      "md5": "e6b5b5e28005a93a580179c7e4342247",
-      "size": 324688,
-      "uploadedDate": "2019-10-28T19:00:12.205Z",
-      "width": 1280,
-      "height": 1440
-    },
-    {
       "type": "DieselGameBoxLogo",
       "url": "https://cdn1.epicgames.com/undefined/offer/LogosFC3_STD-1000x375-69cc72aac6a9c16c9935e038cf9379c2.png",
       "md5": "69cc72aac6a9c16c9935e038cf9379c2",
@@ -180,22 +184,31 @@
       "height": 375
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/S2-FAR-CRY-3-1280x1440-e6b5b5e28005a93a580179c7e4342247.jpg",
-      "md5": "e6b5b5e28005a93a580179c7e4342247",
-      "size": 324688,
-      "uploadedDate": "2019-10-28T19:00:12.205Z",
-      "width": 1280,
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/offer/hellebore/FC3_StorePortrait_1200x1600_1200x1600-98fcc6ac579301df097646fd622401f9",
+      "md5": "98fcc6ac579301df097646fd622401f9",
+      "size": 928430,
+      "uploadedDate": "2023-03-30T14:46:24.425Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/S1-FAR-CRY-3-2560x1440-5454e3b75f0535406b170546117dc576.jpg",
+      "md5": "5454e3b75f0535406b170546117dc576",
+      "size": 552604,
+      "uploadedDate": "2019-10-28T19:00:00.288Z",
+      "width": 2560,
       "height": 1440
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/hellebore/offer/FC3_STD-3840x2160-3755dc92a706181360c6da0b484a6e11.png",
-      "md5": "3755dc92a706181360c6da0b484a6e11",
-      "size": 14209430,
-      "uploadedDate": "2020-02-10T01:56:53.020Z",
-      "width": 3840,
-      "height": 2160
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/hellebore/FC3_StorePortrait_1200x1600_1200x1600-98fcc6ac579301df097646fd622401f9",
+      "md5": "98fcc6ac579301df097646fd622401f9",
+      "size": 928430,
+      "uploadedDate": "2023-03-30T14:46:27.310Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "OfferImageWide",
@@ -205,6 +218,15 @@
       "uploadedDate": "2020-02-12T09:41:44.790Z",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/hellebore/FC3_StorePortrait_1200x1600_1200x1600-98fcc6ac579301df097646fd622401f9",
+      "md5": "98fcc6ac579301df097646fd622401f9",
+      "size": 928430,
+      "uploadedDate": "2023-03-30T14:46:29.523Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [
