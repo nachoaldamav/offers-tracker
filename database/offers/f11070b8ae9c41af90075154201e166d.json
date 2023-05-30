@@ -1,14 +1,14 @@
 {
   "id": "f11070b8ae9c41af90075154201e166d",
   "namespace": "e49aaa31c1324e398e0b1029a0c6d390",
-  "title": "GrunterGeneralAudience",
-  "description": "GrunterGeneralAudience",
+  "title": "System Shock",
+  "description": "System Shock",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "gruntergeneralaudience",
+  "productSlug": "system-shock",
+  "urlSlug": "system-shock",
   "creationDate": "2021-02-12T23:40:17.756Z",
-  "lastModifiedDate": "2023-05-30T08:51:18.446Z",
+  "lastModifiedDate": "2023-05-30T15:01:18.704Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -28,30 +28,51 @@
       "path": "games"
     },
     {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-05-30T12:39:32.045Z",
-      "status": "ACTIVE",
-      "referenceCount": 1897,
-      "comment": ""
-    }
-  ],
+  "tags": [],
   "customAttributes": [
     {
-      "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "key": "com.epicgames.app.productSlug",
+      "value": "system-shock"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/e49aaa31c1324e398e0b1029a0c6d390/EGS_Afighttothedeathinthedepthsofspace_NightdiveStudios_S4-1200x1600-45f2ccbf4fcbf71a059499d0742229f0_1200x1600-45f2ccbf4fcbf71a059499d0742229f0",
+      "md5": "45f2ccbf4fcbf71a059499d0742229f0",
+      "size": 797332,
+      "uploadedDate": "2023-05-17T14:10:50.068Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/e49aaa31c1324e398e0b1029a0c6d390/EGS_Afighttothedeathinthedepthsofspace_NightdiveStudios_S3-2560x1440-955046ca7b8e5ad70907c1380d1687bd_2560x1440-955046ca7b8e5ad70907c1380d1687bd",
+      "md5": "955046ca7b8e5ad70907c1380d1687bd",
+      "size": 835023,
+      "uploadedDate": "2023-05-17T14:10:55.651Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/e49aaa31c1324e398e0b1029a0c6d390/EGS_Afighttothedeathinthedepthsofspace_NightdiveStudios_S4-1200x1600-45f2ccbf4fcbf71a059499d0742229f0_1200x1600-45f2ccbf4fcbf71a059499d0742229f0",
+      "md5": "45f2ccbf4fcbf71a059499d0742229f0",
+      "size": 797332,
+      "uploadedDate": "2023-05-17T14:10:59.065Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "08436a6ec0e7443da0a4323b938cd36d"

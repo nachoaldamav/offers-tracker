@@ -8,7 +8,7 @@
   "productSlug": "system-shock",
   "urlSlug": "systemshockprepurchase",
   "creationDate": "2021-02-23T22:56:07.182Z",
-  "lastModifiedDate": "2023-05-30T08:51:18.432Z",
+  "lastModifiedDate": "2023-05-30T15:01:18.910Z",
   "effectiveDate": "2021-02-25T15:00:00.000Z",
   "viewableDate": "2021-02-25T15:00:00.000Z",
   "developer": null,
@@ -28,10 +28,10 @@
       "path": "games"
     },
     {
-      "path": "games/edition/base"
+      "path": "games/edition"
     },
     {
-      "path": "games/edition"
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -45,7 +45,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:50.376Z",
-      "updated": "2023-05-24T22:37:18.429Z",
+      "updated": "2023-05-30T15:01:19.103Z",
       "status": "ACTIVE",
       "referenceCount": 126,
       "comment": null
@@ -57,10 +57,22 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:06.599Z",
-      "updated": "2023-05-30T13:27:15.559Z",
+      "updated": "2023-05-30T15:01:19.144Z",
       "status": "ACTIVE",
-      "referenceCount": 369,
+      "referenceCount": 368,
       "comment": null
+    },
+    {
+      "id": "21894",
+      "name": "Cloud Saves",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-07-07T16:11:08.589Z",
+      "updated": "2023-05-30T15:01:19.094Z",
+      "status": "ACTIVE",
+      "referenceCount": 1260,
+      "comment": ""
     },
     {
       "id": "19847",
@@ -69,9 +81,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-05-30T12:39:32.045Z",
+      "updated": "2023-05-30T15:01:19.117Z",
       "status": "ACTIVE",
-      "referenceCount": 1897,
+      "referenceCount": 1895,
       "comment": ""
     },
     {
@@ -81,7 +93,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-05-30T14:35:34.353Z",
+      "updated": "2023-05-30T15:01:19.160Z",
       "status": "ACTIVE",
       "referenceCount": 4331,
       "comment": null
@@ -93,9 +105,33 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-05-30T14:35:34.375Z",
+      "updated": "2023-05-30T15:01:19.181Z",
       "status": "ACTIVE",
       "referenceCount": 8865,
+      "comment": null
+    },
+    {
+      "id": "1132",
+      "name": "SCI-FI",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:24.043Z",
+      "updated": "2023-05-30T15:01:19.125Z",
+      "status": "ACTIVE",
+      "referenceCount": 117,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2023-05-30T15:01:19.194Z",
+      "status": "ACTIVE",
+      "referenceCount": 1601,
       "comment": null
     }
   ],
@@ -105,12 +141,12 @@
       "value": "KR"
     },
     {
-      "key": "isPrepurchase",
-      "value": "true"
-    },
-    {
       "key": "availableDate",
       "value": "1640948400"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
     },
     {
       "key": "com.epicgames.app.productSlug",
