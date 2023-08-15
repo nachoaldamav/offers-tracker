@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "850fce7531704b57bfa68ec09030b0d9",
   "creationDate": "2023-06-05T15:58:03.327Z",
-  "lastModifiedDate": "2023-08-13T20:24:37.363Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2023-08-15T15:58:20.570Z",
+  "effectiveDate": "2023-08-15T19:00:00.000Z",
   "viewableDate": "2023-07-26T08:00:00.000Z",
   "developer": null,
   "seller": {
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -42,7 +42,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2023-08-15T15:34:49.633Z",
+      "updated": "2023-08-15T15:58:20.601Z",
       "status": "ACTIVE",
       "referenceCount": 1932,
       "comment": null
@@ -54,7 +54,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:47.106Z",
-      "updated": "2023-08-15T15:34:49.655Z",
+      "updated": "2023-08-15T15:58:20.619Z",
       "status": "ACTIVE",
       "referenceCount": 447,
       "comment": null
@@ -66,7 +66,7 @@
       "aliases": [],
       "operator": null,
       "created": "2022-07-07T16:11:08.589Z",
-      "updated": "2023-08-15T15:34:49.662Z",
+      "updated": "2023-08-15T15:58:20.628Z",
       "status": "ACTIVE",
       "referenceCount": 1375,
       "comment": ""
@@ -78,7 +78,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2023-08-15T15:34:49.669Z",
+      "updated": "2023-08-15T15:58:20.635Z",
       "status": "ACTIVE",
       "referenceCount": 791,
       "comment": null
@@ -90,7 +90,7 @@
       "aliases": [],
       "operator": null,
       "created": "2022-06-24T20:06:43.344Z",
-      "updated": "2023-08-15T15:34:49.675Z",
+      "updated": "2023-08-15T15:58:20.643Z",
       "status": "ACTIVE",
       "referenceCount": 48,
       "comment": ""
@@ -102,7 +102,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-15T15:34:49.693Z",
+      "updated": "2023-08-15T15:58:20.659Z",
       "status": "ACTIVE",
       "referenceCount": 9660,
       "comment": null
@@ -114,7 +114,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:44.596Z",
-      "updated": "2023-08-15T15:34:49.701Z",
+      "updated": "2023-08-15T15:58:20.668Z",
       "status": "ACTIVE",
       "referenceCount": 475,
       "comment": null
@@ -126,24 +126,9 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:52.671Z",
-      "updated": "2023-08-15T15:34:49.710Z",
+      "updated": "2023-08-15T15:58:20.678Z",
       "status": "ACTIVE",
       "referenceCount": 242,
-      "comment": null
-    },
-    {
-      "id": "10719",
-      "name": "Mac OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX",
-        "macOS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-08-15T15:33:00.425Z",
-      "status": "ACTIVE",
-      "referenceCount": 714,
       "comment": null
     }
   ],
@@ -158,7 +143,7 @@
     },
     {
       "key": "isManuallySetPCReleaseDate",
-      "value": "false"
+      "value": "true"
     },
     {
       "key": "isBlockchainUsed",
