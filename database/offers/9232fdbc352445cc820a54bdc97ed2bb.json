@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "0d48da287df14493a7415b560ec1bbb3",
   "creationDate": "2022-03-21T17:48:11.650Z",
-  "lastModifiedDate": "2023-08-03T15:12:18.974Z",
+  "lastModifiedDate": "2023-09-18T08:04:06.784Z",
   "effectiveDate": "2022-09-22T15:00:00.000Z",
-  "viewableDate": "2022-09-15T14:25:00.000Z",
+  "viewableDate": "2022-09-22T15:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
@@ -24,6 +24,9 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
+    {
+      "path": "freegames"
+    },
     {
       "path": "games/edition/base"
     },
@@ -57,18 +60,6 @@
       "updated": "2023-08-22T13:54:28.456Z",
       "status": "ACTIVE",
       "referenceCount": 344,
-      "comment": null
-    },
-    {
-      "id": "1287",
-      "name": "Fantasy",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:41.164Z",
-      "updated": "2023-08-23T02:59:53.929Z",
-      "status": "ACTIVE",
-      "referenceCount": 95,
       "comment": null
     },
     {
@@ -128,7 +119,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 1906,
+      "referenceCount": 1907,
       "comment": null
     },
     {
@@ -189,6 +180,18 @@
       "updated": "2023-08-22T10:58:47.673Z",
       "status": "ACTIVE",
       "referenceCount": 334,
+      "comment": ""
+    },
+    {
+      "id": "16979",
+      "name": "Summer Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-07-14T15:58:17.560Z",
+      "updated": "2023-09-14T11:08:40.563Z",
+      "status": "ACTIVE",
+      "referenceCount": 45,
       "comment": ""
     },
     {
@@ -282,8 +285,16 @@
       "value": "false"
     },
     {
+      "key": "isManuallySetViewableDate",
+      "value": "true"
+    },
+    {
       "key": "isManuallySetPCReleaseDate",
       "value": "true"
+    },
+    {
+      "key": "isBlockchainUsed",
+      "value": "false"
     }
   ],
   "keyImages": [
