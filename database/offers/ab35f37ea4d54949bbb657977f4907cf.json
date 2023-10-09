@@ -7,9 +7,9 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "a168f9d03b3b4962888b674806aa65c4",
-  "creationDate": "2023-10-05T15:25:13.224Z",
-  "lastModifiedDate": "2023-10-05T15:34:14.298Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2023-09-02T02:07:17.049Z",
+  "lastModifiedDate": "2023-10-09T17:56:30.297Z",
+  "effectiveDate": "2023-10-16T07:00:00.000Z",
   "viewableDate": "2023-09-07T05:30:00.000Z",
   "developer": null,
   "seller": {
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -96,18 +96,6 @@
       "comment": null
     },
     {
-      "id": "21739",
-      "name": "NFT BLOCKCHAIN",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-06-24T20:06:43.344Z",
-      "updated": "2023-08-22T18:09:40.655Z",
-      "status": "ACTIVE",
-      "referenceCount": 72,
-      "comment": ""
-    },
-    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -118,6 +106,18 @@
       "status": "ACTIVE",
       "referenceCount": 10955,
       "comment": null
+    },
+    {
+      "id": "21739",
+      "name": "NFT BLOCKCHAIN",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-06-24T20:06:43.344Z",
+      "updated": "2023-08-22T18:09:40.655Z",
+      "status": "ACTIVE",
+      "referenceCount": 72,
+      "comment": ""
     },
     {
       "id": "1212",
@@ -167,7 +167,7 @@
     },
     {
       "key": "isManuallySetPCReleaseDate",
-      "value": "false"
+      "value": "true"
     },
     {
       "key": "isBlockchainUsed",
