@@ -7,8 +7,8 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "angelic-the-chaos-theatre",
-  "creationDate": "2023-09-01T07:26:04.128Z",
-  "lastModifiedDate": "2023-09-07T12:03:28.184Z",
+  "creationDate": "2023-04-28T14:00:40.448Z",
+  "lastModifiedDate": "2023-12-09T19:14:14.206Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2023-08-08T07:30:00.000Z",
   "developer": null,
@@ -45,6 +45,18 @@
       "comment": null
     },
     {
+      "id": "29088",
+      "name": "Online Multiplayer",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2023-06-19T16:23:12.748Z",
+      "updated": "2023-08-23T04:55:54.805Z",
+      "status": "ACTIVE",
+      "referenceCount": 385,
+      "comment": ""
+    },
+    {
       "id": "1264",
       "name": "Co-op",
       "namespace": "epic",
@@ -69,18 +81,6 @@
       "comment": null
     },
     {
-      "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2023-08-23T03:55:35.370Z",
-      "status": "ACTIVE",
-      "referenceCount": 1947,
-      "comment": null
-    },
-    {
       "id": "1367",
       "name": "RPG",
       "namespace": "epic",
@@ -93,18 +93,6 @@
       "comment": null
     },
     {
-      "id": "1115",
-      "name": "Strategy",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2023-08-23T05:08:24.575Z",
-      "status": "ACTIVE",
-      "referenceCount": 1068,
-      "comment": null
-    },
-    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -114,6 +102,18 @@
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
       "referenceCount": 11717,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "Strategy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2023-08-23T05:08:24.575Z",
+      "status": "ACTIVE",
+      "referenceCount": 1068,
       "comment": null
     }
   ],
@@ -169,20 +169,29 @@
       "height": 1080
     },
     {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/c55b48284fbd4fc8aaab6f08b52d1902/angelic-16kxd.jpg",
-      "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 712049,
-      "uploadedDate": "2023-07-09T20:39:54.429Z",
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://b0f48a01-338c-4e3e-9d80-edd057d01633?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fc55b48284fbd4fc8aaab6f08b52d1902%2Fangelic-video-15ou2.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 308426533,
+      "uploadedDate": "2023-12-08T09:41:21.441Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://d9e3f339-6880-4934-8424-4ba5675ec053?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fc55b48284fbd4fc8aaab6f08b52d1902%2Fangelic-video-113o6.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 267802801,
+      "uploadedDate": "2023-12-08T09:44:32.675Z",
       "width": 1920,
       "height": 1080
     },
     {
       "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/c55b48284fbd4fc8aaab6f08b52d1902/angelic-5veg5.jpg",
+      "url": "https://cdn1.epicgames.com/spt-assets/c55b48284fbd4fc8aaab6f08b52d1902/angelic-16kxd.jpg",
       "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 2771116,
-      "uploadedDate": "2023-08-30T15:42:23.638Z",
+      "size": 712049,
+      "uploadedDate": "2023-07-09T20:39:54.429Z",
       "width": 1920,
       "height": 1080
     },
@@ -242,28 +251,46 @@
     },
     {
       "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/c55b48284fbd4fc8aaab6f08b52d1902/angelic-1rym4.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3815186,
+      "uploadedDate": "2023-12-07T18:17:09.897Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/c55b48284fbd4fc8aaab6f08b52d1902/angelic-kqegm.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2916313,
+      "uploadedDate": "2023-12-07T18:17:15.856Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/c55b48284fbd4fc8aaab6f08b52d1902/angelic-7sil1.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3939228,
+      "uploadedDate": "2023-12-07T18:17:14.109Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/c55b48284fbd4fc8aaab6f08b52d1902/angelic-1ni0t.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2362044,
+      "uploadedDate": "2023-12-07T18:17:07.059Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
       "url": "https://cdn1.epicgames.com/spt-assets/c55b48284fbd4fc8aaab6f08b52d1902/angelic-n22wi.jpg",
       "md5": "098f6bcd4621d373cade4e832627b4f6",
       "size": 1082744,
       "uploadedDate": "2023-08-08T17:02:32.198Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/c55b48284fbd4fc8aaab6f08b52d1902/angelic-1p2q7.jpg",
-      "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 757421,
-      "uploadedDate": "2023-08-08T17:02:31.128Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/c55b48284fbd4fc8aaab6f08b52d1902/angelic-1w0lm.jpg",
-      "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 1183611,
-      "uploadedDate": "2023-07-09T20:39:55.003Z",
       "width": 1920,
       "height": 1080
     }
