@@ -7,9 +7,9 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "7085228b4b07411bac32665bcc0dce0e",
-  "creationDate": "2023-12-10T17:48:04.651Z",
-  "lastModifiedDate": "2023-12-10T17:48:04.651Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2023-09-06T17:44:14.136Z",
+  "lastModifiedDate": "2023-12-12T00:33:05.679Z",
+  "effectiveDate": "2023-12-12T00:32:47.480Z",
   "viewableDate": "2023-12-10T17:47:47.933Z",
   "developer": null,
   "seller": {
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -60,18 +60,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 11756,
-      "comment": null
-    },
-    {
       "id": "1179",
       "name": "VR",
       "namespace": "epic",
@@ -81,6 +69,18 @@
       "updated": "2023-08-21T22:57:04.729Z",
       "status": "ACTIVE",
       "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 11756,
       "comment": null
     },
     {
@@ -107,7 +107,7 @@
     },
     {
       "key": "isManuallySetPCReleaseDate",
-      "value": "false"
+      "value": "true"
     },
     {
       "key": "isBlockchainUsed",
@@ -117,28 +117,28 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/cd08bbb2fb6644039b6172376035b20a/a-christmas-carol-vr-ejfr4.png",
-      "md5": "da5a1a99bea416391a50a7c50859d16f",
-      "size": 3901933,
-      "uploadedDate": "2023-11-21T20:39:46.367Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/cd08bbb2fb6644039b6172376035b20a/a-christmas-carol-vr-13kh5.png",
+      "md5": "ac67ebb31cce680241fd61ae88ad1054",
+      "size": 3896721,
+      "uploadedDate": "2023-12-10T19:56:59.786Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/cd08bbb2fb6644039b6172376035b20a/a-christmas-carol-vr-mdnua.png",
-      "md5": "5d4e23fabb219ec0cc59904f3d93025b",
-      "size": 2382583,
-      "uploadedDate": "2023-11-21T20:55:09.898Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/cd08bbb2fb6644039b6172376035b20a/a-christmas-carol-vr-1hi14.png",
+      "md5": "6275e8e8a5ab65ddec7592aaa361f5fc",
+      "size": 2390881,
+      "uploadedDate": "2023-12-10T19:57:04.563Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/cd08bbb2fb6644039b6172376035b20a/a-christmas-carol-vr-mdnua.png",
-      "md5": "5d4e23fabb219ec0cc59904f3d93025b",
-      "size": 2382583,
-      "uploadedDate": "2023-11-21T20:55:09.898Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/cd08bbb2fb6644039b6172376035b20a/a-christmas-carol-vr-1hi14.png",
+      "md5": "6275e8e8a5ab65ddec7592aaa361f5fc",
+      "size": 2390881,
+      "uploadedDate": "2023-12-10T19:57:04.563Z",
       "width": 1200,
       "height": 1600
     }
