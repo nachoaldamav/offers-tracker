@@ -2,14 +2,14 @@
   "id": "9c917e76fa6b459ba5027508dcb7e4c2",
   "namespace": "24751e36dcb44420a4f88b7c644b7a67",
   "title": "Last Remains",
-  "description": "Last Remains is a 30-50 player zombie battle royale game where survivors compete in a PvPvE world and take risks on their journey to the extraction point by searching buildings to find food, water, and digital collectible skins such as equipment and weapons.",
+  "description": "Last Remains is a 30+ player zombie battle royale game where survivors compete in a PvPvE world and take risks on their journey to the extraction point by searching buildings to find food, water, and digital collectible skins such as equipment and weapons.",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "3413ce70db47443da163ba78e2fadaa7",
-  "creationDate": "2023-05-16T02:10:44.449Z",
-  "lastModifiedDate": "2023-12-31T18:03:57.923Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2023-03-13T05:14:26.732Z",
+  "lastModifiedDate": "2024-01-16T16:35:08.746Z",
+  "effectiveDate": "2024-01-19T16:00:00.000Z",
   "viewableDate": "2023-05-12T01:30:00.000Z",
   "developer": null,
   "seller": {
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "games/edition/base"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games/edition/base"
+      "path": "games"
     }
   ],
   "tags": [
@@ -48,6 +48,18 @@
       "comment": null
     },
     {
+      "id": "29088",
+      "name": "Online Multiplayer",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2023-06-19T16:23:12.748Z",
+      "updated": "2023-08-23T04:55:54.805Z",
+      "status": "ACTIVE",
+      "referenceCount": 493,
+      "comment": ""
+    },
+    {
       "id": "1218",
       "name": "Horror",
       "namespace": "epic",
@@ -57,18 +69,6 @@
       "updated": "2023-08-22T19:55:04.197Z",
       "status": "ACTIVE",
       "referenceCount": 414,
-      "comment": null
-    },
-    {
-      "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2023-08-23T03:55:35.370Z",
-      "status": "ACTIVE",
-      "referenceCount": 1947,
       "comment": null
     },
     {
@@ -96,15 +96,15 @@
       "comment": null
     },
     {
-      "id": "22776",
-      "name": "Cross Platform",
+      "id": "21739",
+      "name": "NFT BLOCKCHAIN",
       "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2022-09-13T17:14:22.713Z",
-      "updated": "2023-08-23T04:55:54.839Z",
+      "created": "2022-06-24T20:06:43.344Z",
+      "updated": "2023-08-22T18:09:40.655Z",
       "status": "ACTIVE",
-      "referenceCount": 358,
+      "referenceCount": 102,
       "comment": ""
     },
     {
@@ -118,18 +118,6 @@
       "status": "ACTIVE",
       "referenceCount": 12138,
       "comment": null
-    },
-    {
-      "id": "21739",
-      "name": "NFT BLOCKCHAIN",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-06-24T20:06:43.344Z",
-      "updated": "2023-08-22T18:09:40.655Z",
-      "status": "ACTIVE",
-      "referenceCount": 102,
-      "comment": ""
     },
     {
       "id": "1084",
@@ -154,21 +142,6 @@
       "status": "ACTIVE",
       "referenceCount": 250,
       "comment": null
-    },
-    {
-      "id": "10719",
-      "name": "Mac OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX",
-        "macOS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-08-23T05:08:24.605Z",
-      "status": "ACTIVE",
-      "referenceCount": 921,
-      "comment": null
     }
   ],
   "customAttributes": [
@@ -182,7 +155,7 @@
     },
     {
       "key": "isManuallySetPCReleaseDate",
-      "value": "false"
+      "value": "true"
     },
     {
       "key": "isBlockchainUsed",
