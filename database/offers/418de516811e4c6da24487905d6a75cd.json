@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "6a72fc5ae5d34107a08a21e9a6c81015",
   "creationDate": "2023-04-13T22:39:47.361Z",
-  "lastModifiedDate": "2023-05-22T08:50:46.714Z",
+  "lastModifiedDate": "2024-02-23T15:57:09.165Z",
   "effectiveDate": "2023-05-22T14:00:00.000Z",
   "viewableDate": "2023-05-16T13:00:00.000Z",
   "developer": null,
@@ -48,6 +48,18 @@
       "comment": null
     },
     {
+      "id": "29088",
+      "name": "Online Multiplayer",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2023-06-19T16:23:12.748Z",
+      "updated": "2023-08-23T04:55:54.805Z",
+      "status": "ACTIVE",
+      "referenceCount": 593,
+      "comment": ""
+    },
+    {
       "id": "1299",
       "name": "Competitive",
       "namespace": "epic",
@@ -57,18 +69,6 @@
       "updated": "2023-08-23T04:55:54.821Z",
       "status": "ACTIVE",
       "referenceCount": 452,
-      "comment": null
-    },
-    {
-      "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2023-08-23T03:55:35.370Z",
-      "status": "ACTIVE",
-      "referenceCount": 1947,
       "comment": null
     },
     {
@@ -120,18 +120,6 @@
       "comment": null
     },
     {
-      "id": "1310",
-      "name": "EARLY ACCESS",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:52.671Z",
-      "updated": "2023-08-22T22:50:29.701Z",
-      "status": "ACTIVE",
-      "referenceCount": 250,
-      "comment": null
-    },
-    {
       "id": "1263",
       "name": "Indie",
       "namespace": "epic",
@@ -141,6 +129,18 @@
       "updated": "2023-08-23T05:17:12.988Z",
       "status": "ACTIVE",
       "referenceCount": 1176,
+      "comment": null
+    },
+    {
+      "id": "1183",
+      "name": "Local Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:49.408Z",
+      "updated": "2023-08-22T19:47:36.002Z",
+      "status": "ACTIVE",
+      "referenceCount": 35,
       "comment": null
     },
     {
@@ -167,6 +167,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
     },
     {
       "key": "isManuallySetPCReleaseDate",
