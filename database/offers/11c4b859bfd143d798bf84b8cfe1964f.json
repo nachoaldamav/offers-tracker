@@ -8,7 +8,7 @@
   "productSlug": "everything/home",
   "urlSlug": "pelicangeneralaudience",
   "creationDate": "2019-08-01T19:10:34.924Z",
-  "lastModifiedDate": "2023-06-20T12:47:04.947Z",
+  "lastModifiedDate": "2024-03-20T17:01:25.493Z",
   "effectiveDate": "2019-09-20T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -28,10 +28,10 @@
       "path": "games"
     },
     {
-      "path": "games/edition/base"
+      "path": "games/edition"
     },
     {
-      "path": "games/edition"
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -74,18 +74,7 @@
       "referenceCount": 5001,
       "comment": null
     },
-    {
-      "id": "1307",
-      "name": "Open World",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:51.191Z",
-      "updated": "2023-08-21T17:22:53.154Z",
-      "status": "ACTIVE",
-      "referenceCount": 416,
-      "comment": null
-    },
+    null,
     {
       "id": "9547",
       "name": "Windows",
@@ -115,6 +104,15 @@
   ],
   "keyImages": [
     {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/854ca270c7f04fe483212a35811e9189/offer/CodeRedemption_Everything-333x440-49380e19d43ae505f6ff669d3f5231a0.jpg",
+      "md5": "49380e19d43ae505f6ff669d3f5231a0",
+      "size": 57068,
+      "uploadedDate": "2019-09-17T18:31:57.384Z",
+      "width": 333,
+      "height": 440
+    },
+    {
       "type": "DieselGameBoxLogo",
       "url": "https://cdn1.epicgames.com/epic/offer/EGS_DavidOReilly_Everything_IC1_WhiteDropShadow-1802x705-42c0173386db45ca262f22df51684c05.png",
       "md5": "42c0173386db45ca262f22df51684c05",
@@ -122,15 +120,6 @@
       "uploadedDate": "2019-09-18T20:36:45.185Z",
       "width": 1802,
       "height": 705
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_DavidOReilly_Everything_N3_revised-2560x1440-7e1f936d40753516eef1a11391268911.jpg",
-      "md5": "7e1f936d40753516eef1a11391268911",
-      "size": 302087,
-      "uploadedDate": "2019-09-24T19:34:18.528Z",
-      "width": 2560,
-      "height": 1440
     },
     {
       "type": "DieselStoreFrontTall",
@@ -142,31 +131,22 @@
       "height": 1440
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Everything_Portrait-1280x1440-b72cb823838a1b5127278ba2dc139b05.png",
-      "md5": "b72cb823838a1b5127278ba2dc139b05",
-      "size": 1391445,
-      "uploadedDate": "2019-09-24T21:03:26.631Z",
-      "width": 1280,
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_DavidOReilly_Everything_N3_revised-2560x1440-7e1f936d40753516eef1a11391268911.jpg",
+      "md5": "7e1f936d40753516eef1a11391268911",
+      "size": 302087,
+      "uploadedDate": "2019-09-24T19:34:18.528Z",
+      "width": 2560,
       "height": 1440
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/854ca270c7f04fe483212a35811e9189/offer/CodeRedemption_Everything-333x440-49380e19d43ae505f6ff669d3f5231a0.jpg",
-      "md5": "49380e19d43ae505f6ff669d3f5231a0",
-      "size": 57068,
-      "uploadedDate": "2019-09-17T18:31:57.384Z",
-      "width": 333,
-      "height": 440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/854ca270c7f04fe483212a35811e9189/offer/CodeRedemption_Everything-332x440-f88f60ed3aefb7d0501b47cb22c33cbe.jpg",
-      "md5": "f88f60ed3aefb7d0501b47cb22c33cbe",
-      "size": 56975,
-      "uploadedDate": "2019-09-17T18:32:19.644Z",
-      "width": 332,
-      "height": 440
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/854ca270c7f04fe483212a35811e9189/Everything_Portrait-1280x1440-b72cb823838a1b5127278ba2dc139b052_1200x1350-1e097b47e8ba6c8bc2f9c83011f1746d",
+      "md5": "1e097b47e8ba6c8bc2f9c83011f1746d",
+      "size": 2204887,
+      "uploadedDate": "2024-03-20T17:01:18.166Z",
+      "width": 1200,
+      "height": 1350
     },
     {
       "type": "OfferImageWide",
@@ -176,6 +156,15 @@
       "uploadedDate": "2020-03-02T15:46:58.051Z",
       "width": 2560,
       "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/854ca270c7f04fe483212a35811e9189/offer/CodeRedemption_Everything-332x440-f88f60ed3aefb7d0501b47cb22c33cbe.jpg",
+      "md5": "f88f60ed3aefb7d0501b47cb22c33cbe",
+      "size": 56975,
+      "uploadedDate": "2019-09-17T18:32:19.644Z",
+      "width": 332,
+      "height": 440
     }
   ],
   "items": [
