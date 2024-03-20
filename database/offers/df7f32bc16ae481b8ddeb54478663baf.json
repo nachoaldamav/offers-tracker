@@ -1,16 +1,16 @@
 {
   "id": "df7f32bc16ae481b8ddeb54478663baf",
   "namespace": "middlemist",
-  "title": "Worshippers of the Necronomicon DLC",
-  "description": "Worshippers of the Necronomicon DLC",
+  "title": "The Sinking City - Worshippers of the Necronomicon",
+  "description": "Quests included: \n - Mystic Tomes - Available at your hotel room after you complete Frosty Welcome\n - Breaking News & Blood From A Stone - Available at Oakmont Chronicles after you complete Deal With The Devil and Through The Looking Glass",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "the-sinking-city/home#dlc",
-  "urlSlug": "worshippers-of-the-necronomicon-dlc",
+  "productSlug": null,
+  "urlSlug": "the-sinking-city--worshippers-of-the-necronomicon-dlc",
   "creationDate": "2019-03-19T02:19:02.188Z",
-  "lastModifiedDate": "2024-01-22T15:12:47.101Z",
-  "effectiveDate": "2019-06-14T12:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2024-03-19T17:16:54.709Z",
+  "effectiveDate": "2024-03-20T09:00:00.000Z",
+  "viewableDate": "2024-03-20T09:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-rlw9u3sem84g2hc3ur36dqnp7wul3j",
@@ -25,16 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "spthidden"
+      "path": "application"
     },
     {
-      "path": "spthidden/seasonpass"
+      "path": "addons"
     },
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "path": "addons/durable"
     }
   ],
   "tags": [
@@ -83,19 +80,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 12742,
-      "comment": null
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-08-23T03:24:56.337Z",
-      "status": "ACTIVE",
-      "referenceCount": 2340,
+      "referenceCount": 12747,
       "comment": null
     },
     {
@@ -109,66 +94,138 @@
       "status": "ACTIVE",
       "referenceCount": 1473,
       "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2023-08-23T03:24:56.337Z",
+      "status": "ACTIVE",
+      "referenceCount": 2341,
+      "comment": null
     }
   ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "{}"
-    },
-    {
-      "key": "publisherName",
-      "value": "Bigben Interactive"
-    },
-    {
-      "key": "developerName",
-      "value": "Frogwares"
-    },
-    {
-      "key": "SupportedPlatforms",
-      "value": "Windows"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "the-sinking-city/home#dlc"
-    }
-  ],
+  "customAttributes": [],
   "keyImages": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/middlemist/offer/EGS_BIGBEN_Standard_G2-840x1000-ba36ff60d4a74fb8e32254c580673817.png",
-      "md5": "ba36ff60d4a74fb8e32254c580673817",
-      "size": 401713,
-      "uploadedDate": "2019-04-25T18:31:14.512Z",
-      "width": 840,
-      "height": 1000
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/middlemist/EGS_TheSinkingCityWorshippersoftheNecronomicon_Frogwares_DLC_S2_1200x1600-fa32a4d583cbeb595195c138e811fc3a",
+      "md5": "fa32a4d583cbeb595195c138e811fc3a",
+      "size": 268149,
+      "uploadedDate": "2024-03-05T21:32:25.124Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/middlemist/offer/TSC_NECRONOMICON-2560x1440-a030809d590b46995fae3d85dca5f9e4a68051e1.jpg",
-      "md5": "fcf636838a64dbf9906cfb8b48cdaca1",
-      "size": 349461,
-      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "url": "https://cdn1.epicgames.com/offer/middlemist/EGS_TheSinkingCityWorshippersoftheNecronomicon_Frogwares_DLC_S1_2560x1440-8ecd8439c6533f0a34ca2b6cd228932f",
+      "md5": "8ecd8439c6533f0a34ca2b6cd228932f",
+      "size": 320514,
+      "uploadedDate": "2024-03-05T21:32:27.579Z",
       "width": 2560,
       "height": 1440
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/middlemist/offer/EGS_TheSinkingCity_Frogwares_S4-510x680-b7234aa1d26c5ce83c95b2097e8442ad.jpg",
-      "md5": "b7234aa1d26c5ce83c95b2097e8442ad",
-      "size": 119290,
-      "uploadedDate": "2020-04-20T21:44:44.216Z",
-      "width": 510,
-      "height": 680
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/middlemist/EGS_TheSinkingCityWorshippersoftheNecronomicon_Frogwares_DLC_S2_1200x1600-fa32a4d583cbeb595195c138e811fc3a",
+      "md5": "fa32a4d583cbeb595195c138e811fc3a",
+      "size": 268149,
+      "uploadedDate": "2024-03-05T21:32:29.777Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/middlemist/offer/EGS_TheSinkingCity_Frogwares_S4-510x680-b7234aa1d26c5ce83c95b2097e8442ad.jpg",
-      "md5": "b7234aa1d26c5ce83c95b2097e8442ad",
-      "size": 119290,
-      "uploadedDate": "2020-04-20T21:44:56.287Z",
-      "width": 510,
-      "height": 680
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/offer/middlemist/EGS_TheSinkingCityWorshippersoftheNecronomicon_Frogwares_DLC_IC1_200x200-e901ec7136481b6bd3fb592002ca9021",
+      "md5": "e901ec7136481b6bd3fb592002ca9021",
+      "size": 28939,
+      "uploadedDate": "2024-03-05T21:32:32.392Z",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/middlemist/EGS_TheSinkingCityWorshippersoftheNecronomicon_Frogwares_DLC_G1A_00_1920x1080-914074397ba322b17ac9f45985da29cf",
+      "md5": "914074397ba322b17ac9f45985da29cf",
+      "size": 206788,
+      "uploadedDate": "2024-03-05T21:32:35.128Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/middlemist/EGS_TheSinkingCityWorshippersoftheNecronomicon_Frogwares_DLC_G1A_01_1920x1080-521f6cbed44ae383aec88ee9a5ec21cc",
+      "md5": "521f6cbed44ae383aec88ee9a5ec21cc",
+      "size": 316540,
+      "uploadedDate": "2024-03-05T21:32:37.801Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/middlemist/EGS_TheSinkingCityWorshippersoftheNecronomicon_Frogwares_DLC_G1A_02_1920x1080-705965fc0d46a0b9e413b39693526c65",
+      "md5": "705965fc0d46a0b9e413b39693526c65",
+      "size": 601263,
+      "uploadedDate": "2024-03-05T21:32:44.803Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/middlemist/EGS_TheSinkingCityWorshippersoftheNecronomicon_Frogwares_DLC_G1A_03_1920x1080-e6bcd9d6b87328827a517498d0fbf5f0",
+      "md5": "e6bcd9d6b87328827a517498d0fbf5f0",
+      "size": 248144,
+      "uploadedDate": "2024-03-05T21:32:48.152Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/middlemist/EGS_TheSinkingCityWorshippersoftheNecronomicon_Frogwares_DLC_G1A_04_1920x1080-5a87147ef5c1698df97da417ea8718cd",
+      "md5": "5a87147ef5c1698df97da417ea8718cd",
+      "size": 215257,
+      "uploadedDate": "2024-03-05T21:32:51.311Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/middlemist/EGS_TheSinkingCityWorshippersoftheNecronomicon_Frogwares_DLC_G1A_05_1920x1080-b356f878a8e5df42aa12122e2a8075b4",
+      "md5": "b356f878a8e5df42aa12122e2a8075b4",
+      "size": 420019,
+      "uploadedDate": "2024-03-05T21:32:54.555Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/middlemist/EGS_TheSinkingCityWorshippersoftheNecronomicon_Frogwares_DLC_G1A_06_1920x1080-363df0bcc5053ac0f02395a095985e4b",
+      "md5": "363df0bcc5053ac0f02395a095985e4b",
+      "size": 350283,
+      "uploadedDate": "2024-03-05T21:32:57.493Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/middlemist/EGS_TheSinkingCityWorshippersoftheNecronomicon_Frogwares_DLC_G1A_07_1920x1080-0aa2767716e6a54f1a87582d31b48f21",
+      "md5": "0aa2767716e6a54f1a87582d31b48f21",
+      "size": 533479,
+      "uploadedDate": "2024-03-05T21:33:00.041Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/middlemist/EGS_TheSinkingCityWorshippersoftheNecronomicon_Frogwares_DLC_G1A_08_1920x1080-cd39f7ebdd1274f2da6d0633cc501037",
+      "md5": "cd39f7ebdd1274f2da6d0633cc501037",
+      "size": 825255,
+      "uploadedDate": "2024-03-05T21:33:02.529Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
