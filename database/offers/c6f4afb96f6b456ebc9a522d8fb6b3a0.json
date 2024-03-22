@@ -8,7 +8,7 @@
   "productSlug": "corruption-2029/home",
   "urlSlug": "bettageneralaudience",
   "creationDate": "2020-01-31T16:17:23.562Z",
-  "lastModifiedDate": "2021-08-25T16:43:37.942Z",
+  "lastModifiedDate": "2024-03-22T14:21:36.574Z",
   "effectiveDate": "2020-02-17T05:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -28,28 +28,16 @@
       "path": "games"
     },
     {
-      "path": "games/edition/base"
+      "path": "games/edition"
     },
     {
-      "path": "games/edition"
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
     }
   ],
   "tags": [
-    {
-      "id": "1386",
-      "name": "Turn-Based",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:30.372Z",
-      "updated": "2023-08-23T02:13:23.565Z",
-      "status": "ACTIVE",
-      "referenceCount": 188,
-      "comment": null
-    },
     {
       "id": "1370",
       "name": "Single Player",
@@ -60,6 +48,18 @@
       "updated": "2023-08-23T05:17:12.951Z",
       "status": "ACTIVE",
       "referenceCount": 5001,
+      "comment": null
+    },
+    {
+      "id": "1386",
+      "name": "Turn-Based",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2023-08-23T02:13:23.565Z",
+      "status": "ACTIVE",
+      "referenceCount": 188,
       "comment": null
     },
     {
@@ -103,13 +103,13 @@
   ],
   "keyImages": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_TheBeardedLadies_CORRUPTION2029_S1-2560x1440-c9c180640e175603376131a25ca80537.jpg",
-      "md5": "c9c180640e175603376131a25ca80537",
-      "size": 510044,
-      "uploadedDate": "2020-02-06T18:08:21.390Z",
-      "width": 2560,
-      "height": 1440
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/3102f48ad7bd409ab6e34f2ad697e961/offer/EGS_TheBeardedLadies_CORRUPTION2029_S2-860x1148-86b01bdca8cf7882bae8b27177b40602.jpg",
+      "md5": "86b01bdca8cf7882bae8b27177b40602",
+      "size": 457637,
+      "uploadedDate": "2020-02-06T18:14:27.509Z",
+      "width": 860,
+      "height": 1148
     },
     {
       "type": "DieselStoreFrontTall",
@@ -121,6 +121,15 @@
       "height": 1148
     },
     {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_TheBeardedLadies_CORRUPTION2029_S1-2560x1440-c9c180640e175603376131a25ca80537.jpg",
+      "md5": "c9c180640e175603376131a25ca80537",
+      "size": 510044,
+      "uploadedDate": "2020-02-06T18:08:21.390Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
       "type": "OfferImageTall",
       "url": "https://cdn1.epicgames.com/epic/offer/EGS_TheBeardedLadies_CORRUPTION2029_S2-860x1148-86b01bdca8cf7882bae8b27177b40602.jpg",
       "md5": "86b01bdca8cf7882bae8b27177b40602",
@@ -130,24 +139,6 @@
       "height": 1148
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/3102f48ad7bd409ab6e34f2ad697e961/offer/EGS_TheBeardedLadies_CORRUPTION2029_S2-860x1148-86b01bdca8cf7882bae8b27177b40602.jpg",
-      "md5": "86b01bdca8cf7882bae8b27177b40602",
-      "size": 457637,
-      "uploadedDate": "2020-02-06T18:14:27.509Z",
-      "width": 860,
-      "height": 1148
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/3102f48ad7bd409ab6e34f2ad697e961/offer/EGS_TheBeardedLadies_CORRUPTION2029_S1-2560x1440-c9c180640e175603376131a25ca80537.jpg",
-      "md5": "c9c180640e175603376131a25ca80537",
-      "size": 510044,
-      "uploadedDate": "2020-02-06T18:14:42.039Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
       "type": "OfferImageWide",
       "url": "https://cdn1.epicgames.com/epic/offer/EGS_TheBeardedLadies_CORRUPTION2029_S1-2560x1440-c9c180640e175603376131a25ca80537.jpg",
       "md5": "c9c180640e175603376131a25ca80537",
@@ -155,6 +146,15 @@
       "uploadedDate": "2020-02-11T09:41:44.790Z",
       "width": 2560,
       "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/3102f48ad7bd409ab6e34f2ad697e961/corruption2029_tall_860x1148-86b01bdca8cf7882bae8b27177b40602",
+      "md5": "86b01bdca8cf7882bae8b27177b40602",
+      "size": 457637,
+      "uploadedDate": "2024-03-22T14:21:28.879Z",
+      "width": 860,
+      "height": 1148
     }
   ],
   "items": [
