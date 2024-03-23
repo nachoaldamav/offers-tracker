@@ -8,7 +8,7 @@
   "productSlug": "sundered-eldritch-edition/home",
   "urlSlug": "moageneralaudience",
   "creationDate": "2019-09-12T18:10:13.767Z",
-  "lastModifiedDate": "2024-03-14T09:09:29.376Z",
+  "lastModifiedDate": "2024-03-23T15:50:01.777Z",
   "effectiveDate": "2020-01-09T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -28,10 +28,10 @@
       "path": "games"
     },
     {
-      "path": "games/edition/base"
+      "path": "games/edition"
     },
     {
-      "path": "games/edition"
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -102,21 +102,6 @@
       "comment": null
     },
     {
-      "id": "10719",
-      "name": "Mac OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX",
-        "macOS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-08-23T05:08:24.605Z",
-      "status": "ACTIVE",
-      "referenceCount": 976,
-      "comment": null
-    },
-    {
       "id": "1247",
       "name": "Metroidvania",
       "namespace": "epic",
@@ -138,6 +123,21 @@
       "updated": "2023-08-23T05:17:12.988Z",
       "status": "ACTIVE",
       "referenceCount": 1176,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX",
+        "macOS"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2023-08-23T05:08:24.605Z",
+      "status": "ACTIVE",
+      "referenceCount": 976,
       "comment": null
     },
     {
@@ -169,13 +169,13 @@
   ],
   "keyImages": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Diesel_productv2_sundered-eldritch-edition_home_EGS_ThunderLotus_SunderedEldritchEdition_S1-2560x1440-d54465fa29a48ca1e83009788f47152e8a8e03c5-2560x1440-a0e453024c831c7d7f9812899582101e.jpg",
-      "md5": "a0e453024c831c7d7f9812899582101e",
-      "size": 160966,
-      "uploadedDate": "2020-01-04T02:34:38.768Z",
-      "width": 2560,
-      "height": 1440
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ca8077d80493497188e0ca5bca3ebe60/offer/Diesel_productv2_sundered-eldritch-edition_home_EGS_ThunderLotus_SunderedEldritchEdition_S2-860x1148-48ef3608363f199d2ed175451d08a29cf71414c3-860x1148-5eddf34fa16245497122e3c9a7954cbe.jpg",
+      "md5": "5eddf34fa16245497122e3c9a7954cbe",
+      "size": 105218,
+      "uploadedDate": "2020-01-04T02:42:25.534Z",
+      "width": 860,
+      "height": 1148
     },
     {
       "type": "DieselStoreFrontTall",
@@ -187,6 +187,15 @@
       "height": 1148
     },
     {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Diesel_productv2_sundered-eldritch-edition_home_EGS_ThunderLotus_SunderedEldritchEdition_S1-2560x1440-d54465fa29a48ca1e83009788f47152e8a8e03c5-2560x1440-a0e453024c831c7d7f9812899582101e.jpg",
+      "md5": "a0e453024c831c7d7f9812899582101e",
+      "size": 160966,
+      "uploadedDate": "2020-01-04T02:34:38.768Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
       "type": "OfferImageTall",
       "url": "https://cdn1.epicgames.com/undefined/offer/Diesel_productv2_sundered-eldritch-edition_home_EGS_ThunderLotus_SunderedEldritchEdition_S2-860x1148-48ef3608363f199d2ed175451d08a29cf71414c3-860x1148-5eddf34fa16245497122e3c9a7954cbe.jpg",
       "md5": "5eddf34fa16245497122e3c9a7954cbe",
@@ -196,24 +205,6 @@
       "height": 1148
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/ca8077d80493497188e0ca5bca3ebe60/offer/Diesel_productv2_sundered-eldritch-edition_home_EGS_ThunderLotus_SunderedEldritchEdition_S2-860x1148-48ef3608363f199d2ed175451d08a29cf71414c3-860x1148-5eddf34fa16245497122e3c9a7954cbe.jpg",
-      "md5": "5eddf34fa16245497122e3c9a7954cbe",
-      "size": 105218,
-      "uploadedDate": "2020-01-04T02:42:25.534Z",
-      "width": 860,
-      "height": 1148
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ca8077d80493497188e0ca5bca3ebe60/offer/Diesel_productv2_sundered-eldritch-edition_home_EGS_ThunderLotus_SunderedEldritchEdition_IC2-128x128-362655f60509625926e7bfa0911992e981dca625-128x128-d50aa376d0c4a1b333c5e1639e50a262.png",
-      "md5": "d50aa376d0c4a1b333c5e1639e50a262",
-      "size": 6657,
-      "uploadedDate": "2020-01-04T02:42:37.926Z",
-      "width": 128,
-      "height": 128
-    },
-    {
       "type": "OfferImageWide",
       "url": "https://cdn1.epicgames.com/undefined/offer/Diesel_productv2_sundered-eldritch-edition_home_EGS_ThunderLotus_SunderedEldritchEdition_S1-2560x1440-d54465fa29a48ca1e83009788f47152e8a8e03c5-2560x1440-a0e453024c831c7d7f9812899582101e.jpg",
       "md5": "a0e453024c831c7d7f9812899582101e",
@@ -221,6 +212,15 @@
       "uploadedDate": "2020-02-11T09:41:44.790Z",
       "width": 2560,
       "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/ca8077d80493497188e0ca5bca3ebe60/sundered_1200x1600-6951a093c732bcc1dbf4403b69f4241b",
+      "md5": "6951a093c732bcc1dbf4403b69f4241b",
+      "size": 1041239,
+      "uploadedDate": "2024-03-23T15:49:44.951Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [
