@@ -8,7 +8,7 @@
   "productSlug": "nuclear-throne/home",
   "urlSlug": "turacogeneralaudience",
   "creationDate": "2019-09-10T20:58:33.734Z",
-  "lastModifiedDate": "2022-11-04T08:38:12.511Z",
+  "lastModifiedDate": "2024-04-02T16:31:53.831Z",
   "effectiveDate": "2019-11-07T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -28,10 +28,10 @@
       "path": "games"
     },
     {
-      "path": "games/edition/base"
+      "path": "games/edition"
     },
     {
-      "path": "games/edition"
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -267,6 +267,18 @@
       "comment": ""
     },
     {
+      "id": "1183",
+      "name": "Local Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:49.408Z",
+      "updated": "2024-03-28T21:48:38.999Z",
+      "status": "ACTIVE",
+      "referenceCount": 168,
+      "comment": null
+    },
+    {
       "id": "10719",
       "name": "Mac OS",
       "namespace": "epic",
@@ -279,18 +291,6 @@
       "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
       "referenceCount": 984,
-      "comment": null
-    },
-    {
-      "id": "1183",
-      "name": "Local Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:49.408Z",
-      "updated": "2024-03-28T21:48:38.999Z",
-      "status": "ACTIVE",
-      "referenceCount": 168,
       "comment": null
     }
   ],
@@ -309,6 +309,15 @@
     }
   ],
   "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/742f165671424189aecdfdadf5ea9755/offer/CodeRedemption_NuclearThrone-330x440-c4f5333350593314b1d258369d8af3ed.jpg",
+      "md5": "c4f5333350593314b1d258369d8af3ed",
+      "size": 126177,
+      "uploadedDate": "2019-10-30T20:27:45.117Z",
+      "width": 330,
+      "height": 440
+    },
     {
       "type": "DieselGameBoxLogo",
       "url": "https://cdn1.epicgames.com/undefined/offer/EGS_VLAMBEER_NUCLEARTHRONE_IC1_FullColor-1900x677-ca9974bc6c89db4b30d0d02e7d928195.png",
@@ -338,30 +347,12 @@
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_VLAMBEER_NUCLEARTHRONE_S2_StorePromoPortrait-1280x1440-90f08d7d248f2997d23d6080f7d6ec2d.jpg",
-      "md5": "90f08d7d248f2997d23d6080f7d6ec2d",
-      "size": 745272,
-      "uploadedDate": "2019-10-30T00:56:49.614Z",
-      "width": 1280,
-      "height": 1440
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/742f165671424189aecdfdadf5ea9755/offer/CodeRedemption_NuclearThrone-330x440-c4f5333350593314b1d258369d8af3ed.jpg",
-      "md5": "c4f5333350593314b1d258369d8af3ed",
-      "size": 126177,
-      "uploadedDate": "2019-10-30T20:27:45.117Z",
-      "width": 330,
-      "height": 440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/742f165671424189aecdfdadf5ea9755/offer/CodeRedemption_NuclearThrone-330x440-c4f5333350593314b1d258369d8af3ed.jpg",
-      "md5": "c4f5333350593314b1d258369d8af3ed",
-      "size": 126177,
-      "uploadedDate": "2019-10-30T20:27:54.033Z",
-      "width": 330,
-      "height": 440
+      "url": "https://cdn1.epicgames.com/offer/742f165671424189aecdfdadf5ea9755/CodeRedemption_NuclearThrone-330x440-c4f5333350593314b1d258369d8af3ed_1200x1600-5dd66968816605f9f47e070b77ce3e02",
+      "md5": "5dd66968816605f9f47e070b77ce3e02",
+      "size": 298013,
+      "uploadedDate": "2024-04-02T16:31:36.972Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "OfferImageWide",
@@ -371,6 +362,15 @@
       "uploadedDate": "2020-02-21T19:25:03.229Z",
       "width": 2560,
       "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/742f165671424189aecdfdadf5ea9755/CodeRedemption_NuclearThrone-330x440-c4f5333350593314b1d258369d8af3ed_1200x1600-5dd66968816605f9f47e070b77ce3e02",
+      "md5": "5dd66968816605f9f47e070b77ce3e02",
+      "size": 298013,
+      "uploadedDate": "2024-04-02T16:31:40.495Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [
