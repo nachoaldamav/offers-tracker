@@ -8,7 +8,7 @@
   "productSlug": "oxenfree/home",
   "urlSlug": "hibiscusgeneralaudience",
   "creationDate": "2019-01-29T20:49:30.080Z",
-  "lastModifiedDate": "2024-01-11T08:16:33.654Z",
+  "lastModifiedDate": "2024-04-02T17:08:59.119Z",
   "effectiveDate": "2019-03-20T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -28,10 +28,10 @@
       "path": "games"
     },
     {
-      "path": "games/edition/base"
+      "path": "games/edition"
     },
     {
-      "path": "games/edition"
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -59,7 +59,7 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 1698,
+      "referenceCount": 1699,
       "comment": ""
     },
     {
@@ -126,6 +126,18 @@
       "comment": null
     },
     {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2023-08-23T05:17:12.988Z",
+      "status": "ACTIVE",
+      "referenceCount": 1176,
+      "comment": null
+    },
+    {
       "id": "10719",
       "name": "Mac OS",
       "namespace": "epic",
@@ -138,18 +150,6 @@
       "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
       "referenceCount": 984,
-      "comment": null
-    },
-    {
-      "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-08-23T05:17:12.988Z",
-      "status": "ACTIVE",
-      "referenceCount": 1176,
       "comment": null
     }
   ],
@@ -169,22 +169,13 @@
   ],
   "keyImages": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Oxenfree_GamePagePromo_2580x1450-2580x1450-67e364067e5e51125d7d3343ff65e042.jpg",
-      "md5": "67e364067e5e51125d7d3343ff65e042",
-      "size": 146944,
-      "uploadedDate": "2019-03-05T14:14:06.640Z",
-      "width": 2580,
-      "height": 1450
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Oxenfree_PortraitPromo_1280x1420-1280x1420-65a3d43d6c6a0c31280ee641bffd5ca6.jpg",
-      "md5": "65a3d43d6c6a0c31280ee641bffd5ca6",
-      "size": 107179,
-      "uploadedDate": "2019-03-05T14:14:26.022Z",
-      "width": 1280,
-      "height": 1420
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/hibiscus/offer/Oxenfree_CodeRedemption_340_440-340x440-fc8de2104d92803ca36981722f362ca5.png",
+      "md5": "fc8de2104d92803ca36981722f362ca5",
+      "size": 156355,
+      "uploadedDate": "2019-03-04T18:49:42.842Z",
+      "width": 340,
+      "height": 440
     },
     {
       "type": "DieselGameBoxLogo",
@@ -196,7 +187,7 @@
       "height": 331
     },
     {
-      "type": "OfferImageTall",
+      "type": "DieselStoreFrontTall",
       "url": "https://cdn1.epicgames.com/epic/offer/Oxenfree_PortraitPromo_1280x1420-1280x1420-65a3d43d6c6a0c31280ee641bffd5ca6.jpg",
       "md5": "65a3d43d6c6a0c31280ee641bffd5ca6",
       "size": 107179,
@@ -205,31 +196,40 @@
       "height": 1420
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/hibiscus/offer/Oxenfree_CodeRedemption_340_440-340x440-fc8de2104d92803ca36981722f362ca5.png",
-      "md5": "fc8de2104d92803ca36981722f362ca5",
-      "size": 156355,
-      "uploadedDate": "2019-03-04T18:49:42.842Z",
-      "width": 340,
-      "height": 440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/hibiscus/offer/Oxenfree_CodeRedemption-340x440-fc8de2104d92803ca36981722f362ca5.png",
-      "md5": "fc8de2104d92803ca36981722f362ca5",
-      "size": 156355,
-      "uploadedDate": "2019-04-24T14:46:45.928Z",
-      "width": 340,
-      "height": 440
-    },
-    {
-      "type": "OfferImageWide",
+      "type": "DieselStoreFrontWide",
       "url": "https://cdn1.epicgames.com/epic/offer/Oxenfree_GamePagePromo_2580x1450-2580x1450-67e364067e5e51125d7d3343ff65e042.jpg",
       "md5": "67e364067e5e51125d7d3343ff65e042",
       "size": 146944,
-      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "uploadedDate": "2019-03-05T14:14:06.640Z",
       "width": 2580,
       "height": 1450
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/hibiscus/Oxenfree_CodeRedemption-340x440-fc8de2104d92803ca36981722f362ca5_1200x1600-4ba07296295c88cdc02a08ed17c3c293",
+      "md5": "4ba07296295c88cdc02a08ed17c3c293",
+      "size": 489707,
+      "uploadedDate": "2024-04-02T17:08:44.692Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/hibiscus/Oxenfree_GamePagePromo_2580x1450-2580x1450-67e364067e5e51125d7d3343ff65e042_2560x1440-25922924568a1829d9416978602c1489",
+      "md5": "25922924568a1829d9416978602c1489",
+      "size": 374155,
+      "uploadedDate": "2024-04-02T17:08:51.672Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/hibiscus/Oxenfree_CodeRedemption-340x440-fc8de2104d92803ca36981722f362ca5_1200x1600-4ba07296295c88cdc02a08ed17c3c293",
+      "md5": "4ba07296295c88cdc02a08ed17c3c293",
+      "size": 489707,
+      "uploadedDate": "2024-04-02T17:08:48.379Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [
