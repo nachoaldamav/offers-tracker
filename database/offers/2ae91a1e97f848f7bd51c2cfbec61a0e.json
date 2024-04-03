@@ -8,7 +8,7 @@
   "productSlug": "donut-county/home",
   "urlSlug": "kestrelgeneralaudience",
   "creationDate": "2019-01-08T01:15:43.537Z",
-  "lastModifiedDate": "2024-03-14T09:09:29.308Z",
+  "lastModifiedDate": "2024-04-03T15:37:37.164Z",
   "effectiveDate": "2019-01-08T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -28,10 +28,10 @@
       "path": "games"
     },
     {
-      "path": "games/edition/base"
+      "path": "games/edition"
     },
     {
-      "path": "games/edition"
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -102,6 +102,18 @@
       "comment": null
     },
     {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2023-08-23T05:17:12.988Z",
+      "status": "ACTIVE",
+      "referenceCount": 1176,
+      "comment": null
+    },
+    {
       "id": "10719",
       "name": "Mac OS",
       "namespace": "epic",
@@ -114,18 +126,6 @@
       "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
       "referenceCount": 986,
-      "comment": null
-    },
-    {
-      "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-08-23T05:17:12.988Z",
-      "status": "ACTIVE",
-      "referenceCount": 1176,
       "comment": null
     },
     {
@@ -161,6 +161,24 @@
   ],
   "keyImages": [
     {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/kestrel/offer/DonutCounty_CodeRedemption-330x440-35aa2771f4f65d84010b08f2acd793f6.png",
+      "md5": "35aa2771f4f65d84010b08f2acd793f6",
+      "size": 59488,
+      "uploadedDate": "2019-04-23T20:36:00.757Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/DonutCounty_Logo-1500x750-002f74002599cc462c46023138892ff3.png",
+      "md5": "002f74002599cc462c46023138892ff3",
+      "size": 264688,
+      "uploadedDate": "2019-08-02T19:25:02.294Z",
+      "width": 1500,
+      "height": 750
+    },
+    {
       "type": "DieselStoreFrontTall",
       "url": "https://cdn1.epicgames.com/undefined/offer/Epic_DonutCounty_PortraitPromo-1280x1420-ede4d52780f51591f65d9c5c415c156a.jpg",
       "md5": "ede4d52780f51591f65d9c5c415c156a",
@@ -179,49 +197,31 @@
       "height": 1450
     },
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/DonutCounty_Logo-1500x750-002f74002599cc462c46023138892ff3.png",
-      "md5": "002f74002599cc462c46023138892ff3",
-      "size": 264688,
-      "uploadedDate": "2019-08-02T19:25:02.294Z",
-      "width": 1500,
-      "height": 750
-    },
-    {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Epic_DonutCounty_PortraitPromo-1280x1420-ede4d52780f51591f65d9c5c415c156a.jpg",
-      "md5": "ede4d52780f51591f65d9c5c415c156a",
-      "size": 113830,
-      "uploadedDate": "2019-01-08T01:57:10.257Z",
-      "width": 1280,
-      "height": 1420
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/kestrel/offer/DonutCounty_CodeRedemption-330x440-35aa2771f4f65d84010b08f2acd793f6.png",
-      "md5": "35aa2771f4f65d84010b08f2acd793f6",
-      "size": 59488,
-      "uploadedDate": "2019-04-23T20:35:52.925Z",
-      "width": 330,
-      "height": 440
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/kestrel/offer/DonutCounty_CodeRedemption-330x440-35aa2771f4f65d84010b08f2acd793f6.png",
-      "md5": "35aa2771f4f65d84010b08f2acd793f6",
-      "size": 59488,
-      "uploadedDate": "2019-04-23T20:36:00.757Z",
-      "width": 330,
-      "height": 440
+      "url": "https://cdn1.epicgames.com/offer/kestrel/Epic_DonutCounty_PortraitPromo-1280x1420-ede4d52780f51591f65d9c5c415c156a_1200x1600-31939098dd67e20175641b11a0a141c7",
+      "md5": "31939098dd67e20175641b11a0a141c7",
+      "size": 117752,
+      "uploadedDate": "2024-04-03T15:37:19.500Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/DonutCounty_wide-2580x1450-5d1fd3bd3eaa17af5b1ddac07d2d8fd4.jpg",
-      "md5": "5d1fd3bd3eaa17af5b1ddac07d2d8fd4",
-      "size": 126585,
-      "uploadedDate": "2020-02-11T09:41:44.790Z",
-      "width": 2580,
-      "height": 1450
+      "url": "https://cdn1.epicgames.com/offer/kestrel/DonutCounty_wide-2580x1450-5d1fd3bd3eaa17af5b1ddac07d2d8fd4_2560x1440-e5503d92a0857e81fb8062acf841aa7f",
+      "md5": "e5503d92a0857e81fb8062acf841aa7f",
+      "size": 174509,
+      "uploadedDate": "2024-04-03T15:37:22.662Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/kestrel/Epic_DonutCounty_PortraitPromo-1280x1420-ede4d52780f51591f65d9c5c415c156a_1200x1600-31939098dd67e20175641b11a0a141c7",
+      "md5": "31939098dd67e20175641b11a0a141c7",
+      "size": 117752,
+      "uploadedDate": "2024-04-03T15:37:26.141Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [
