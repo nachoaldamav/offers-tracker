@@ -7,9 +7,9 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "7fb475d2335f4a90a84b461cfaaeaca1",
-  "creationDate": "2024-04-10T16:26:47.926Z",
-  "lastModifiedDate": "2024-04-17T17:42:28.535Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2023-08-24T13:57:49.327Z",
+  "lastModifiedDate": "2024-04-25T02:00:44.929Z",
+  "effectiveDate": "2024-05-02T04:30:00.000Z",
   "viewableDate": "2024-04-10T16:26:39.000Z",
   "developer": null,
   "seller": {
@@ -46,30 +46,6 @@
       "status": "ACTIVE",
       "referenceCount": 731,
       "comment": ""
-    },
-    {
-      "id": "1393",
-      "name": "Simulation",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2023-08-23T03:55:35.422Z",
-      "status": "ACTIVE",
-      "referenceCount": 943,
-      "comment": null
-    },
-    {
-      "id": "1283",
-      "name": "Sports",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:39.226Z",
-      "updated": "2023-08-18T14:35:48.351Z",
-      "status": "ACTIVE",
-      "referenceCount": 148,
-      "comment": null
     },
     {
       "id": "1299",
@@ -119,7 +95,18 @@
       "referenceCount": 5001,
       "comment": null
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 13317,
+      "comment": null
+    },
     {
       "id": "1212",
       "name": "Racing",
@@ -130,6 +117,18 @@
       "updated": "2023-08-23T04:55:54.861Z",
       "status": "ACTIVE",
       "referenceCount": 244,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2023-08-23T03:24:56.337Z",
+      "status": "ACTIVE",
+      "referenceCount": 2452,
       "comment": null
     }
   ],
@@ -143,8 +142,12 @@
       "value": "true"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
+    },
+    {
       "key": "isManuallySetPCReleaseDate",
-      "value": "false"
+      "value": "true"
     },
     {
       "key": "isBlockchainUsed",
