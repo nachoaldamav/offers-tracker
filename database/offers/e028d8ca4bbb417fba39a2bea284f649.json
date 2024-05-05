@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "00310aae92c6432e8d1dad447f14db6e",
   "creationDate": "2023-03-15T12:57:28.072Z",
-  "lastModifiedDate": "2024-05-04T01:12:51.429Z",
+  "lastModifiedDate": "2024-05-05T16:03:36.250Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2023-03-23T06:00:00.000Z",
   "developer": null,
@@ -56,7 +56,7 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 1751,
+      "referenceCount": 1752,
       "comment": ""
     },
     {
@@ -80,7 +80,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 13399,
+      "referenceCount": 13400,
       "comment": null
     },
     {
@@ -104,7 +104,19 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 2464,
+      "referenceCount": 2465,
+      "comment": null
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:52.671Z",
+      "updated": "2023-08-22T22:50:29.701Z",
+      "status": "ACTIVE",
+      "referenceCount": 250,
       "comment": null
     }
   ],
@@ -118,8 +130,12 @@
       "value": "false"
     },
     {
-      "key": "isManuallySetPCReleaseDate",
+      "key": "isPromotionalContentUsed",
       "value": "false"
+    },
+    {
+      "key": "isManuallySetPCReleaseDate",
+      "value": "true"
     },
     {
       "key": "isBlockchainUsed",
