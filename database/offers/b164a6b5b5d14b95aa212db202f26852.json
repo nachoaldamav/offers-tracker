@@ -1,14 +1,14 @@
 {
   "id": "b164a6b5b5d14b95aa212db202f26852",
   "namespace": "6fe830287e1244829c9bcdb4cef9fad5",
-  "title": "Post Scriptum Modding SDK",
-  "description": "Post Scriptum is a first-person simulation shooter that provides an authentic WWII combat experience. Focusing on historical accuracy, large scale battles and a challenging battlefield that demands an intense need for cohesion, communication and teamwork.",
-  "longDescription": null,
+  "title": "Squad 44 Mod SDK",
+  "description": "Team up and join the frontline in Squad 44, the most authentic tactical WW2 shooter. Experience ruthless realism with an immense arsenal of faithfully recreated weapons and vehicles across massive WW2 battlefields.",
+  "longDescription": "# What is Post Scriptum\n\nExperience the intense campaigns that were Operation Market Garden, Plan Jaune (Fall Gelb) or Operation Overlord which stretched across farms, woods, villages and city areas of the Netherlands, Mountains and rivers of Belgium and shores of France. Whether you’re jumping out of a plane, arriving in a landing craft by sea, resupplying friendlies or operating a tank, you will find multiple reasons to drop back into the battlefield in this grand scaled representation of a WW2 setting never explored in a large multiplayer environment.",
   "status": "ACTIVE",
   "productSlug": "post-scriptum",
-  "urlSlug": "post-scriptum",
+  "urlSlug": "squad-44-mod-sdk",
   "creationDate": "2020-10-08T23:59:23.079Z",
-  "lastModifiedDate": "2024-04-24T18:57:45.244Z",
+  "lastModifiedDate": "2024-05-06T19:02:38.908Z",
   "effectiveDate": "2020-12-03T16:00:00.000Z",
   "viewableDate": "2020-12-03T15:59:00.000Z",
   "developer": null,
@@ -24,6 +24,18 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
+    {
+      "path": "software"
+    },
+    {
+      "path": "engines"
+    },
+    {
+      "path": "software/edition"
+    },
+    {
+      "path": "software/edition/base"
+    },
     {
       "path": "editors"
     },
@@ -68,18 +80,7 @@
       "referenceCount": 54,
       "comment": null
     },
-    {
-      "id": "1210",
-      "name": "Shooter",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2023-08-23T00:14:55.836Z",
-      "status": "ACTIVE",
-      "referenceCount": 799,
-      "comment": null
-    },
+    null,
     {
       "id": "1370",
       "name": "Single Player",
@@ -107,70 +108,35 @@
   ],
   "customAttributes": [
     {
-      "key": "com.epicgames.app.blacklist",
-      "value": "[]"
-    },
-    {
-      "key": "developerName",
-      "value": "Periscope Games"
-    },
-    {
       "key": "com.epicgames.app.productSlug",
       "value": "post-scriptum"
     }
   ],
   "keyImages": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/6fe830287e1244829c9bcdb4cef9fad5/offer/egs-postscriptumisafirstpersonsimulationshooter-periscopegames-s1-2560x1440-2560x1440-dfcda8bcb16cb7bae0287782c08dc37d.jpg",
-      "md5": "dfcda8bcb16cb7bae0287782c08dc37d",
-      "size": 312822,
-      "uploadedDate": "2020-11-20T23:49:47.396Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/6fe830287e1244829c9bcdb4cef9fad5/offer/egs-postscriptumisafirstpersonsimulationshooter-periscopegames-s2-1200x1600-1200x1600-52dbfa5b28b9badd7b767dc2677cebd8.jpg",
-      "md5": "52dbfa5b28b9badd7b767dc2677cebd8",
-      "size": 180700,
-      "uploadedDate": "2020-11-20T23:49:51.556Z",
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/6fe830287e1244829c9bcdb4cef9fad5/EGS_Squad44ModSDK_Offworld_S2_1200x1600-892894b8922979ad6d7f9a1c2cb4d469",
+      "md5": "892894b8922979ad6d7f9a1c2cb4d469",
+      "size": 233155,
+      "uploadedDate": "2024-05-06T18:27:06.195Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/6fe830287e1244829c9bcdb4cef9fad5/offer/egs-postscriptumisafirstpersonsimulationshooter-periscopegames-s1-2560x1440-2560x1440-dfcda8bcb16cb7bae0287782c08dc37d.jpg",
-      "md5": "dfcda8bcb16cb7bae0287782c08dc37d",
-      "size": 312822,
-      "uploadedDate": "2020-11-20T23:50:03.709Z",
+      "url": "https://cdn1.epicgames.com/offer/6fe830287e1244829c9bcdb4cef9fad5/EGS_Squad44ModSDK_Offworld_S1_2560x1440-6cdc987d7b0321681678057ee83d233a",
+      "md5": "6cdc987d7b0321681678057ee83d233a",
+      "size": 323864,
+      "uploadedDate": "2024-05-06T18:27:09.148Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/6fe830287e1244829c9bcdb4cef9fad5/offer/egs-postscriptumisafirstpersonsimulationshooter-periscopegames-s2-1200x1600-1200x1600-52dbfa5b28b9badd7b767dc2677cebd8.jpg",
-      "md5": "52dbfa5b28b9badd7b767dc2677cebd8",
-      "size": 180700,
-      "uploadedDate": "2020-11-20T23:50:10.191Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/6fe830287e1244829c9bcdb4cef9fad5/offer/egs-postscriptumisafirstpersonsimulationshooter-periscopegames-s2-1200x1600-1200x1600-52dbfa5b28b9badd7b767dc2677cebd8.jpg",
-      "md5": "52dbfa5b28b9badd7b767dc2677cebd8",
-      "size": 180700,
-      "uploadedDate": "2020-11-20T23:50:21.598Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/6fe830287e1244829c9bcdb4cef9fad5/offer/egs-postscriptumisafirstpersonsimulationshooter-periscopegames-s2-1200x1600-1200x1600-52dbfa5b28b9badd7b767dc2677cebd8.jpg",
-      "md5": "52dbfa5b28b9badd7b767dc2677cebd8",
-      "size": 180700,
-      "uploadedDate": "2020-11-20T23:50:25.439Z",
+      "url": "https://cdn1.epicgames.com/offer/6fe830287e1244829c9bcdb4cef9fad5/EGS_Squad44ModSDK_Offworld_S2_1200x1600-892894b8922979ad6d7f9a1c2cb4d469",
+      "md5": "892894b8922979ad6d7f9a1c2cb4d469",
+      "size": 233155,
+      "uploadedDate": "2024-05-06T18:27:11.575Z",
       "width": 1200,
       "height": 1600
     }
