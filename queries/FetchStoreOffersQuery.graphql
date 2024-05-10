@@ -21,8 +21,10 @@ query catalogQuery($locale:String, $count:Int, $start:Int, $country: String!, $s
         lastModifiedDate
         effectiveDate
         viewableDate
-        
         developer
+        mappings {
+          pageSlug
+        }
         seller {
           id
           name
