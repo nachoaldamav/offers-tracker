@@ -94,38 +94,6 @@ class Main {
     const tags = {};
 
     const offersPath = `${this.databasePath}/offers`;
-    /* Fs.readdirSync(offersPath).forEach((fileName) => {
-      if (fileName.substr(-5) !== '.json') return;
-      try {
-        const offer = JSON.parse(Fs.readFileSync(`${offersPath}/${fileName}`));
-        if (offer.namespace) {
-          if (!namespaces[offer.namespace]) {
-            namespaces[offer.namespace] = [offer.id];
-          } else {
-            namespaces[offer.namespace].push(offer.id);
-          }
-        }
-        titles[offer.id] = offer.title;
-        (offer.tags || []).filter(tag => tag).forEach(tag => tags[tag.id] = tag);
-        const thumbnailImage = Array.isArray(offer.keyImages) && offer.keyImages.find(img => img.type === 'Thumbnail');
-
-        const pageSlug = offer.mappings.find(m => m["pageSlug"]);
-
-        list.push([
-          offer.id,
-          offer.namespace,
-          offer.title,
-          Array.isArray(offer.categories) && offer.categories.map(c => c.path) || [],
-          offer.seller && offer.seller.name || '',
-          offer.creationDate && Math.floor((new Date(offer.creationDate)).getTime() / 1000) || 0,
-          offer.lastModifiedDate && Math.floor((new Date(offer.lastModifiedDate)).getTime() / 1000) || 0,
-          thumbnailImage && thumbnailImage.url || '',
-          offer.productSlug || '',
-        ]);
-      } catch (error) {
-        console.error(error);
-      }
-    }); */
 
     const offersList = Fs.readdirSync(offersPath);
 
@@ -141,14 +109,18 @@ class Main {
           }
         }
         titles[offer.id] = offer.title;
-        (offer.tags || [])
-          .filter((tag) => tag)
-          .forEach((tag) => (tags[tag.id] = tag));
+
+        for (const tag of offer.tags || []) {
+          if (tag) {
+            tags[tag.id] = tag;
+          }
+        }
+
         const thumbnailImage =
           Array.isArray(offer.keyImages) &&
           offer.keyImages.find((img) => img.type === 'Thumbnail');
 
-        const pageSlug = offer.mappings.find((m) => m.pageSlug);
+        const pageSlug = offer.mappings.find((m) => m.pageSlug)?.pageSlug;
 
         list.push([
           offer.id,
@@ -157,14 +129,14 @@ class Main {
           (Array.isArray(offer.categories) &&
             offer.categories.map((c) => c.path)) ||
             [],
-          (offer.seller && offer.seller.name) || '',
+          offer.seller?.name || '',
           (offer.creationDate &&
             Math.floor(new Date(offer.creationDate).getTime() / 1000)) ||
             0,
           (offer.lastModifiedDate &&
             Math.floor(new Date(offer.lastModifiedDate).getTime() / 1000)) ||
             0,
-          (thumbnailImage && thumbnailImage.url) || '',
+          thumbnailImage?.url || '',
           pageSlug || offer.productSlug || '',
         ]);
       } catch (error) {
