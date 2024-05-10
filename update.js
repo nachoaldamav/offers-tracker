@@ -97,8 +97,11 @@ class Main {
 
     const offersList = Fs.readdirSync(offersPath);
 
+    console.log(`Found ${offersList.length} offers...`);
+
     for (const fileName of offersList) {
-      if (fileName.substr(-5) !== '.json') return;
+      console.log(`Indexing ${fileName}...`);
+      if (fileName.substr(-5) !== '.json') continue;
       try {
         const offer = JSON.parse(Fs.readFileSync(`${offersPath}/${fileName}`));
         if (offer.namespace) {
@@ -120,7 +123,12 @@ class Main {
           Array.isArray(offer.keyImages) &&
           offer.keyImages.find((img) => img.type === 'Thumbnail');
 
-        const pageSlug = offer.mappings.find((m) => m.pageSlug)?.pageSlug;
+        const hasMappings = Array.isArray(offer.mappings);
+
+        const pageSlug =
+          hasMappings && offer.mappings.find((m) => m.pageSlug)?.pageSlug;
+
+        console.log(`Indexing ${offer.id}... (${pageSlug})`);
 
         list.push([
           offer.id,
@@ -188,7 +196,7 @@ class Main {
     await git.commit(commitMessage);
     await git.removeRemote('origin');
     await git.addRemote('origin', process.env.GIT_REMOTE);
-    await git.push(['-u', 'origin', 'main']);
+    // await git.push(['-u', 'origin', 'main']);
     console.log(`Changes has commited to repo with message ${commitMessage}`);
   }
 
