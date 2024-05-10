@@ -25,6 +25,9 @@ query catalogQuery($locale:String, $count:Int, $start:Int, $country: String!, $s
         mappings {
           pageSlug
         }
+        offerMappings {
+          pageSlug
+        }
         seller {
           id
           name

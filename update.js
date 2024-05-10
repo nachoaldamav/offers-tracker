@@ -124,9 +124,26 @@ class Main {
           offer.keyImages.find((img) => img.type === 'Thumbnail');
 
         const hasMappings = Array.isArray(offer.mappings);
+        const hasOfferMappings = Array.isArray(offer.offerMappings);
 
-        const pageSlug =
-          hasMappings && offer.mappings.find((m) => m.pageSlug)?.pageSlug;
+        let pageSlug = undefined;
+        if (hasOfferMappings) {
+          for (const offerMapping of offer.offerMappings) {
+            if (offerMapping?.pageSlug) {
+              pageSlug = offerMapping.pageSlug;
+              break;
+            }
+          }
+        } else if (hasMappings) {
+          for (const mapping of offer.mappings) {
+            if (mapping?.pageSlug) {
+              if (pageSlug === undefined) {
+                pageSlug = mapping.pageSlug;
+                break;
+              }
+            }
+          }
+        }
 
         console.log(`Indexing ${offer.id}... (${pageSlug})`);
 
