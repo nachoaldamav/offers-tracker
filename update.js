@@ -213,7 +213,7 @@ class Main {
     await git.commit(commitMessage);
     await git.removeRemote('origin');
     await git.addRemote('origin', process.env.GIT_REMOTE);
-    // await git.push(['-u', 'origin', 'main']);
+    await git.push(['-u', 'origin', 'main']);
     console.log(`Changes has commited to repo with message ${commitMessage}`);
   }
 
