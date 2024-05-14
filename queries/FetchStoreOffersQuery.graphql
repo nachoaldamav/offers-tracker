@@ -17,9 +17,15 @@ query catalogQuery($locale:String, $count:Int, $start:Int, $country: String!, $s
         status
         productSlug
         urlSlug
+        offerType
         creationDate
         lastModifiedDate
         effectiveDate
+        pcReleaseDate
+        publisherDisplayName
+        countriesBlacklist
+        countriesWhitelist
+        refundType
         viewableDate
         developer
         mappings {
