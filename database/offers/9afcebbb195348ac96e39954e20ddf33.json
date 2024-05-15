@@ -9,11 +9,13 @@
   "urlSlug": "nautilusgeneralaudience",
   "offerType": "BASE_GAME",
   "creationDate": "2019-01-04T20:01:54.644Z",
-  "lastModifiedDate": "2024-05-14T08:34:47.751Z",
+  "lastModifiedDate": "2024-05-15T16:03:01.610Z",
   "effectiveDate": "2019-02-17T15:00:00.000Z",
   "pcReleaseDate": "2018-06-05T15:00:00.000Z",
   "publisherDisplayName": "Focus Entertainment",
-  "countriesBlacklist": null,
+  "countriesBlacklist": [
+    "SA"
+  ],
   "countriesWhitelist": null,
   "refundType": "SELF_REFUNDABLE",
   "viewableDate": null,
@@ -216,10 +218,6 @@
     }
   ],
   "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "{}"
-    },
     {
       "key": "com.epicgames.app.productSlug",
       "value": "vampyr"
