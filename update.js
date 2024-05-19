@@ -46,7 +46,7 @@ class Main {
         country: this.country,
         locale: this.language,
         sortBy: 'lastModifiedDate',
-        sortDir: 'DESC,DESC',
+        sortDir: 'DESC',
       },
       (result) => {
         return (result && result.Catalog && result.Catalog.searchStore) || {};
