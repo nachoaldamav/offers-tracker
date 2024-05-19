@@ -1,98 +1,95 @@
-query catalogQuery($locale:String, $count:Int, $start:Int, $country: String!, $sortBy: String, $sortDir: String) {
+query searchStoreQuery($allowCountries: String!, $count: Int!, $country: String!, $keywords: String!, $locale: String!, $sortBy: String!, $sortDir: String!, $start: Int!, $tag: String!) {
   Catalog {
-    searchStore (
-      locale: $locale,
+    searchStore(
+      allowCountries: $allowCountries
       count: $count
-      start: $start
       country: $country
+      keywords: $keywords
+      locale: $locale
       sortBy: $sortBy
       sortDir: $sortDir
+      start: $start
+      tag: $tag
     ) {
       elements {
+        title
         id
         namespace
-        title
         description
-        longDescription
-        status
-        productSlug
-        urlSlug
-        offerType
-        creationDate
-        lastModifiedDate
         effectiveDate
-        pcReleaseDate
-        publisherDisplayName
-        countriesBlacklist
-        countriesWhitelist
-        refundType
-        viewableDate
-        developer
-        mappings {
-          pageSlug
+        isCodeRedemptionOnly
+        keyImages {
+          type
+          url
         }
-        offerMappings {
-          pageSlug
-        }
+        currentPrice
         seller {
           id
           name
         }
-        linkedOfferId
-        isFeatured
-        ignoreOrder
-        freeDays
-        collectionOfferIds
-        technicalDetails
-        recurrence
-        
-        categories {
-          path
-        }
-        
+        productSlug
+        urlSlug
+        url
         tags {
           id
           name
-          namespace
-          aliases
-          operator
-          created
-          updated
-          status
-          referenceCount
-          comment
         }
-        
+        items {
+          id
+          namespace
+        }
         customAttributes {
           key
           value
         }
-        
-        keyImages {
-          type
-          url
-          md5
-          size
-          uploadedDate
-          width
-          height
+        categories {
+          path
         }
-        
-        items {
-          id
-        }
-
         catalogNs {
-          name
+          mappings {
+            pageSlug
+            pageType
+          }
         }
-        
-        # linkedOffer {
-        #   customAttributes {
-        #     key
-        #     value
-        #   }
-        # }
-
+        offerMappings {
+          pageSlug
+          pageType
+        }
+        developerDisplayName
+        publisherDisplayName
+        price(country: $country) {
+          totalPrice {
+            discountPrice
+            originalPrice
+            voucherDiscount
+            discount
+            currencyCode
+            currencyInfo {
+              decimals
+            }
+            fmtPrice {
+              originalPrice
+              discountPrice
+              intermediatePrice
+            }
+          }
+          lineOffers {
+            appliedRules {
+              id
+            }
+          }
+        }
+        prePurchase
+        releaseDate
+        pcReleaseDate
+        viewableDate
+        approximateReleasePlan {
+          day
+          month
+          quarter
+          year
+          releaseDateType
+        }
       }
       paging {
         count

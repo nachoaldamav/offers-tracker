@@ -39,6 +39,10 @@ class Main {
     await this.fetchAllOffers(
       FetchStoreOffersQuery,
       {
+        allowCountries: 'US',
+        keywords: '',
+        tag: '',
+        withPrice: true,
         country: this.country,
         locale: this.language,
         sortBy: 'lastModifiedDate',
