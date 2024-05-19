@@ -39,10 +39,14 @@ class Main {
     await this.fetchAllOffers(
       FetchStoreOffersQuery,
       {
+        allowCountries: 'US',
+        keywords: '',
+        tag: '',
+        withPrice: true,
         country: this.country,
         locale: this.language,
         sortBy: 'lastModifiedDate',
-        sortDir: 'DESC',
+        sortDir: 'DESC,DESC',
       },
       (result) => {
         return (result && result.Catalog && result.Catalog.searchStore) || {};
