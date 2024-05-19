@@ -1,47 +1,26 @@
 {
+  "title": "WigeonDevAudience",
   "id": "e3afb2e14a164f648de5eddd5f036835",
   "namespace": "6cec00f8934146508b884b0f139d55d0",
-  "title": "WigeonDevAudience",
   "description": "WigeonDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "widgeondevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-08-15T16:16:20.585Z",
-  "lastModifiedDate": "2019-11-12T14:57:08.070Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-jvpl9untxcrsellbhbwjb2ralrg9z9",
     "name": "Pillow Castle"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "widgeondevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "57f3ee8690264008901c8d4938521d93",
+      "namespace": "6cec00f8934146508b884b0f139d55d0"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -52,13 +31,50 @@
       "value": "Pillow Castle"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "57f3ee8690264008901c8d4938521d93"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "6cec00f8934146508b884b0f139d55d0"
-  }
+    "mappings": [
+      {
+        "pageSlug": "superliminal",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "superliminal--double-album-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

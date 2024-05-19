@@ -1,45 +1,35 @@
 {
+  "title": "StaticeDevAudience",
   "id": "c6453ff3d2534f299ba04814a0b5d452",
   "namespace": "530eeeaffca14275a451d7cff61ee6bb",
-  "title": "StaticeDevAudience",
   "description": "StaticeDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "staticedevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-08-24T06:23:21.146Z",
-  "lastModifiedDate": "2019-09-05T14:59:27.594Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/530eeeaffca14275a451d7cff61ee6bb/offer/CodeRedemption_TheEndisNigh-340x440-ad607bfe8e369571676c469d69d1ed2b.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/530eeeaffca14275a451d7cff61ee6bb/offer/CodeRedemption_TheEndisNigh-340x440-ad607bfe8e369571676c469d69d1ed2b.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-h8c7zcwt24ey84nvxfbgzqpvth9vpz",
     "name": "Edmund McMillen, Tyler Glaiel"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "staticedevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "12839678edd94bda8603e7f3eb59ba24",
+      "namespace": "530eeeaffca14275a451d7cff61ee6bb"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -50,32 +40,46 @@
       "value": "Edmund McMillen, Tyler Glaiel"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/530eeeaffca14275a451d7cff61ee6bb/offer/CodeRedemption_TheEndisNigh-340x440-ad607bfe8e369571676c469d69d1ed2b.jpg",
-      "md5": "ad607bfe8e369571676c469d69d1ed2b",
-      "size": 160891,
-      "uploadedDate": "2019-08-27T20:21:56.870Z",
-      "width": 340,
-      "height": 440
+      "path": "games"
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/530eeeaffca14275a451d7cff61ee6bb/offer/CodeRedemption_TheEndisNigh-340x440-ad607bfe8e369571676c469d69d1ed2b.jpg",
-      "md5": "ad607bfe8e369571676c469d69d1ed2b",
-      "size": 160891,
-      "uploadedDate": "2019-08-27T20:22:03.109Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "12839678edd94bda8603e7f3eb59ba24"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "530eeeaffca14275a451d7cff61ee6bb"
-  }
+    "mappings": [
+      {
+        "pageSlug": "the-end-is-nigh",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

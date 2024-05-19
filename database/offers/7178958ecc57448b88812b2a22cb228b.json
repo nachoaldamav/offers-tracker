@@ -1,36 +1,46 @@
 {
+  "title": "SHOWMAKER Mod Kit",
   "id": "7178958ecc57448b88812b2a22cb228b",
   "namespace": "showmaker",
-  "title": "SHOWMAKER Mod Kit",
   "description": "Create your own unique SHOWS!  Based on the Unreal Engine 4 Editor, the Mod Editor allows you to make further customizations to the stages, character models, effects...and more! Make special stage effects, or import your favorite characters to dance on the stages you have crea...",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "showmaker",
-  "urlSlug": "showmaker-dev-kit",
-  "offerType": "OTHERS",
-  "creationDate": "2018-08-27T14:25:23.500Z",
-  "lastModifiedDate": "2021-08-25T16:43:45.691Z",
   "effectiveDate": "2018-08-27T10:24:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/showmaker_White-3738x459-873fe388632f69e28e63f1d16270273c.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/showmaker/offer/Diesel_product_showmaker_Hero-Image-2580x1450-4d4c4cdd598c23bb9beac0c83ce8e09881c0db7b-2580x1450-f133d30d0789381ccc3c78801305ad0b.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-6scaa9jsj4mnlnn4dgcvdekny3xcag",
     "name": "Preapp Partners"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": "showmaker",
+  "urlSlug": "showmaker-dev-kit",
+  "url": null,
+  "tags": [
+    {
+      "id": "9559",
+      "name": "Editors"
+    }
+  ],
+  "items": [
+    {
+      "id": "4df854e1c928454db0c902254d55074b",
+      "namespace": "showmaker"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "showmaker"
+    }
+  ],
   "categories": [
     {
       "path": "engines"
@@ -42,52 +52,38 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "9559",
-      "name": "Editors",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T21:11:57.763Z",
-      "updated": "2023-06-28T21:16:34.903Z",
-      "status": "ACTIVE",
-      "referenceCount": 54,
-      "comment": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "showmaker"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/showmaker_White-3738x459-873fe388632f69e28e63f1d16270273c.png",
-      "md5": "873fe388632f69e28e63f1d16270273c",
-      "size": 163960,
-      "uploadedDate": "2018-11-14T00:53:13.172Z",
-      "width": 3738,
-      "height": 459
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/showmaker/offer/Diesel_product_showmaker_Hero-Image-2580x1450-4d4c4cdd598c23bb9beac0c83ce8e09881c0db7b-2580x1450-f133d30d0789381ccc3c78801305ad0b.jpg",
-      "md5": "f133d30d0789381ccc3c78801305ad0b",
-      "size": 269545,
-      "uploadedDate": "2020-02-28T17:51:44.492Z",
-      "width": 2580,
-      "height": 1450
-    }
-  ],
-  "items": [
-    {
-      "id": "4df854e1c928454db0c902254d55074b"
-    }
-  ],
   "catalogNs": {
-    "name": "showmaker"
-  }
+    "mappings": [
+      {
+        "pageSlug": "showmaker",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,36 +1,36 @@
 {
+  "title": "LavenderDevAudience",
   "id": "81b7a5bd4b364ef29480f969b2196ba6",
   "namespace": "lavender",
-  "title": "LavenderDevAudience",
   "description": "LavenderDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "lavenderdevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-01-29T17:42:17.812Z",
-  "lastModifiedDate": "2020-04-29T00:46:34.903Z",
   "effectiveDate": "2099-01-29T12:41:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/lavender/offer/Beyond_GameIcon-400x400-362c6839bb4a4c9c28afb2ea260f78cb.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/lavender/offer/Beyond_CodeRedemption-340x440-73f2454b4ae736f840f253d9d0c46888.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-m8v47d762atphw94knus7ezawefpcu",
     "name": "Quantic Dream"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "lavenderdevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "0d77417fa9e84b9687176807c45da7e0",
+      "namespace": "lavender"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "games"
@@ -39,34 +39,42 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/lavender/offer/Beyond_GameIcon-400x400-362c6839bb4a4c9c28afb2ea260f78cb.png",
-      "md5": "362c6839bb4a4c9c28afb2ea260f78cb",
-      "size": 273087,
-      "uploadedDate": "2019-03-20T12:55:03.046Z",
-      "width": 400,
-      "height": 400
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/lavender/offer/Beyond_CodeRedemption-340x440-73f2454b4ae736f840f253d9d0c46888.jpg",
-      "md5": "73f2454b4ae736f840f253d9d0c46888",
-      "size": 60477,
-      "uploadedDate": "2019-03-20T12:55:12.712Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "0d77417fa9e84b9687176807c45da7e0"
-    }
-  ],
   "catalogNs": {
-    "name": "lavender"
-  }
+    "mappings": [
+      {
+        "pageSlug": "beyond-two-souls--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "beyond-two-souls",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

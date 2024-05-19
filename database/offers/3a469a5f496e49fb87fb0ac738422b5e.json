@@ -1,45 +1,26 @@
 {
+  "title": "DevDoradoAudience",
   "id": "3a469a5f496e49fb87fb0ac738422b5e",
   "namespace": "1886704a76f94324ab964a4698db3e09",
-  "title": "DevDoradoAudience",
   "description": "DevDoradoAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "devdoradoaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2020-03-05T14:05:10.312Z",
-  "lastModifiedDate": "2020-03-23T12:45:31.666Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-6yyj9c6thav5wux5twnueant84zs3p",
     "name": "FJRD Interactive"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "devdoradoaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "5c59a99b561d41a3b9bd93f9730bfb0e",
+      "namespace": "1886704a76f94324ab964a4698db3e09"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -54,13 +35,50 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "5c59a99b561d41a3b9bd93f9730bfb0e"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "1886704a76f94324ab964a4698db3e09"
-  }
+    "mappings": [
+      {
+        "pageSlug": "among-trees",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "among-trees--early-access-faq",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

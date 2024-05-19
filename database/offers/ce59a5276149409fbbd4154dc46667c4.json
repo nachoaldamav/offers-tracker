@@ -1,50 +1,59 @@
 {
+  "title": "Fake Item",
   "id": "ce59a5276149409fbbd4154dc46667c4",
   "namespace": "ocn",
-  "title": "Fake Item",
   "description": "Fake Item",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "fake-item",
-  "offerType": "OTHERS",
-  "creationDate": "2016-07-06T23:50:38.850Z",
-  "lastModifiedDate": "2017-06-20T21:00:00.838Z",
   "effectiveDate": "2016-07-05T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": false,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
     "name": "Epic Games"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "fake-item",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "b36aee54fcb146de9e84b76fad034d08",
+      "namespace": "ocn"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "games"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "b36aee54fcb146de9e84b76fad034d08"
-    }
-  ],
   "catalogNs": {
-    "name": "ocn"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

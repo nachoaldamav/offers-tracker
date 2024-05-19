@@ -1,48 +1,26 @@
 {
+  "title": "ThrushDevAudience",
   "id": "afb67496d8ae41ecbc00e5468546f70d",
   "namespace": "0aaf0617ee0d47df87c0dc93509159dd",
-  "title": "ThrushDevAudience",
   "description": "ThrushDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "thrushdevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-08-24T05:55:20.147Z",
-  "lastModifiedDate": "2020-02-06T14:59:34.144Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR",
-    "CN"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
     "name": "Epic Dev Test Account"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "thrushdevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "5680d741272c4baea5698479a68db363",
+      "namespace": "0aaf0617ee0d47df87c0dc93509159dd"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -57,13 +35,66 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "5680d741272c4baea5698479a68db363"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "0aaf0617ee0d47df87c0dc93509159dd"
-  }
+    "mappings": [
+      {
+        "pageSlug": "carcassonne--the-river",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "carcassonne--traders-and-builders",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "carcassonne--inns-and-cathedrals",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "carcassonne--winter-and-gingerbread-man",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "carcassonne--the-princess-and-the-dragon",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "carcassonne",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

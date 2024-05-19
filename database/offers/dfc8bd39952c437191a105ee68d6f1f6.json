@@ -1,38 +1,41 @@
 {
+  "title": "AsterDevAudience",
   "id": "dfc8bd39952c437191a105ee68d6f1f6",
   "namespace": "aster",
-  "title": "AsterDevAudience",
   "description": "AsterDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "asterdevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-01-29T18:00:37.968Z",
-  "lastModifiedDate": "2020-04-29T00:38:20.317Z",
   "effectiveDate": "2099-01-29T13:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "AE"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/aster/offer/001_HEAVYRAIN_ICON-400x400-d6532494c9e1c90d07f2fcabf20e00b3.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/aster/offer/008_HEAVYRAIN_CODEREDEMPTION-340x440-a22b037e011ee5d81742f6b97e76dc59.jpg"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-m8v47d762atphw94knus7ezawefpcu",
     "name": "Quantic Dream"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "asterdevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "3a8b329f91794815b2dce62a8bef0f90",
+      "namespace": "aster"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Quantic Dream"
+    }
+  ],
   "categories": [
     {
       "path": "games"
@@ -41,39 +44,42 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "developerName",
-      "value": "Quantic Dream"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/aster/offer/001_HEAVYRAIN_ICON-400x400-d6532494c9e1c90d07f2fcabf20e00b3.png",
-      "md5": "d6532494c9e1c90d07f2fcabf20e00b3",
-      "size": 102366,
-      "uploadedDate": "2019-03-20T12:43:55.379Z",
-      "width": 400,
-      "height": 400
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/aster/offer/008_HEAVYRAIN_CODEREDEMPTION-340x440-a22b037e011ee5d81742f6b97e76dc59.jpg",
-      "md5": "a22b037e011ee5d81742f6b97e76dc59",
-      "size": 49889,
-      "uploadedDate": "2019-03-20T12:44:02.366Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "3a8b329f91794815b2dce62a8bef0f90"
-    }
-  ],
   "catalogNs": {
-    "name": "aster"
-  }
+    "mappings": [
+      {
+        "pageSlug": "heavy-rain",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "heavy-rain--demo",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

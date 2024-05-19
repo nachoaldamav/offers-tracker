@@ -1,65 +1,54 @@
 {
+  "title": "Shenmue 3 Pre-Purchase",
   "id": "9398542febe3487ba0f01074d87de3f7",
   "namespace": "5d582c08e31a43128a61093a2c3ff7f0",
-  "title": "Shenmue 3 Pre-Purchase",
   "description": "Shenmue 3 Pre-Purchase",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "shenmue-3-pre-purchase",
-  "offerType": "EDITION",
-  "creationDate": "2019-06-03T21:36:04.756Z",
-  "lastModifiedDate": "2023-08-03T15:16:08.347Z",
   "effectiveDate": "2019-06-07T18:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Shenmue-340x440-e05a68a36002a213611001ff73610531.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Shenmue-340x440-e05a68a36002a213611001ff73610531.png"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 4999,
   "seller": {
     "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
     "name": "Plaion"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "spthidden"
-    },
-    {
-      "path": "games"
-    },
-    {
-      "path": "spthidden/edition"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "shenmue-3-pre-purchase",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "102a3bf68d0640a08ec1347d738a5b65",
+      "namespace": "5d582c08e31a43128a61093a2c3ff7f0"
+    },
+    {
+      "id": "a3c366099f8242d2a6e63cfa9f08b93b",
+      "namespace": "5d582c08e31a43128a61093a2c3ff7f0"
+    },
+    {
+      "id": "6394cc0918ad4490a9b220291694868e",
+      "namespace": "5d582c08e31a43128a61093a2c3ff7f0"
+    },
+    {
+      "id": "7b59fc73111246159d9062a748baace0",
+      "namespace": "5d582c08e31a43128a61093a2c3ff7f0"
+    },
+    {
+      "id": "19a1a0c6ac7e46bf8bf0eebb47a6bf94",
+      "namespace": "5d582c08e31a43128a61093a2c3ff7f0"
     }
   ],
   "customAttributes": [
@@ -80,44 +69,72 @@
       "value": "YsNet"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Shenmue-340x440-e05a68a36002a213611001ff73610531.png",
-      "md5": "e05a68a36002a213611001ff73610531",
-      "size": 243020,
-      "uploadedDate": "2019-06-03T21:33:58.960Z",
-      "width": 340,
-      "height": 440
+      "path": "spthidden"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Shenmue-340x440-e05a68a36002a213611001ff73610531.png",
-      "md5": "e05a68a36002a213611001ff73610531",
-      "size": 243020,
-      "uploadedDate": "2019-06-03T21:34:07.279Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "102a3bf68d0640a08ec1347d738a5b65"
+      "path": "games"
     },
     {
-      "id": "a3c366099f8242d2a6e63cfa9f08b93b"
+      "path": "spthidden/edition"
     },
     {
-      "id": "6394cc0918ad4490a9b220291694868e"
-    },
-    {
-      "id": "7b59fc73111246159d9062a748baace0"
-    },
-    {
-      "id": "19a1a0c6ac7e46bf8bf0eebb47a6bf94"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "5d582c08e31a43128a61093a2c3ff7f0"
-  }
+    "mappings": [
+      {
+        "pageSlug": "shenmue-3--season-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "shenmue-3--story-quest-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "shenmue-3",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "shenmue-3--big-merry-cruise",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "shenmue-3--battle-rally",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "shenmue-3--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": true,
+  "releaseDate": "2019-11-19T15:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,85 +1,58 @@
 {
+  "title": "Crown Trick",
   "id": "53c89dbd32004d688edf212bc2140119",
   "namespace": "9b9b340c4dd449059df709c1f26db201",
-  "title": "Crown Trick",
   "description": "Enter a labyrinth that moves as you move, where mastering the elements is key to defeating enemies and uncovering the mysteries of this underground world. Let the power of the crown guide you!",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "91a4e721cc844cfb887a762bf825caa4",
-  "offerType": "BASE_GAME",
-  "creationDate": "2024-05-07T08:10:26.021Z",
-  "lastModifiedDate": "2024-05-07T08:10:26.021Z",
   "effectiveDate": "2024-05-09T16:00:00.000Z",
-  "pcReleaseDate": "2020-10-16T09:00:00.000Z",
-  "publisherDisplayName": "Team17",
-  "countriesBlacklist": [
-    "RU",
-    "KR"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2024-05-07T08:10:07.841Z",
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "crown-trick-11494d"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/d00b6378059747fd86e3689d39ce7865/crown-trick-1tgzh.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d00b6378059747fd86e3689d39ce7865/crown-trick-ydoci.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/spt-assets/d00b6378059747fd86e3689d39ce7865/crown-trick-ydoci.jpg"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "crown-trick-11494d"
-    }
-  ],
+  "currentPrice": 1999,
   "seller": {
     "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
     "name": "Team17 Digital Ltd"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games/edition/base"
-    },
-    {
-      "path": "games/edition"
-    },
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "91a4e721cc844cfb887a762bf825caa4",
+  "url": null,
   "tags": [
-    null,
+    {
+      "id": "21894",
+      "name": "Cloud Saves"
+    },
     {
       "id": "1386",
-      "name": "Turn-Based",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:30.372Z",
-      "updated": "2023-08-23T02:13:23.565Z",
-      "status": "ACTIVE",
-      "referenceCount": 188,
-      "comment": null
+      "name": "Turn-Based"
     },
-    null,
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1083",
-      "name": "Rogue-Lite",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:58:59.720Z",
-      "updated": "2023-08-23T05:17:12.960Z",
-      "status": "ACTIVE",
-      "referenceCount": 204,
-      "comment": null
+      "name": "Rogue-Lite"
+    }
+  ],
+  "items": [
+    {
+      "id": "edb39aba63814abaaad24d4118326aa3",
+      "namespace": "9b9b340c4dd449059df709c1f26db201"
     }
   ],
   "customAttributes": [
@@ -104,41 +77,54 @@
       "value": "false"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/d00b6378059747fd86e3689d39ce7865/crown-trick-1tgzh.jpg",
-      "md5": "1cb5ba4b579fc0426c79883c5511bc4c",
-      "size": 577431,
-      "uploadedDate": "2023-09-29T15:21:34.384Z",
-      "width": 2560,
-      "height": 1440
+      "path": "games/edition/base"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/d00b6378059747fd86e3689d39ce7865/crown-trick-ydoci.jpg",
-      "md5": "ee96dabe216587153231d0562cf12892",
-      "size": 451844,
-      "uploadedDate": "2023-09-29T15:21:41.804Z",
-      "width": 1200,
-      "height": 1600
+      "path": "games/edition"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/d00b6378059747fd86e3689d39ce7865/crown-trick-ydoci.jpg",
-      "md5": "ee96dabe216587153231d0562cf12892",
-      "size": 451844,
-      "uploadedDate": "2023-09-29T15:21:41.804Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "edb39aba63814abaaad24d4118326aa3"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "9b9b340c4dd449059df709c1f26db201"
-  }
+    "mappings": [
+      {
+        "pageSlug": "crown-trick-11494d",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "crown-trick-11494d",
+      "pageType": "productHome"
+    }
+  ],
+  "developerDisplayName": "NEXT Studios",
+  "publisherDisplayName": "Team17",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2024-05-09T16:00:00.000Z",
+  "pcReleaseDate": "2020-10-16T09:00:00.000Z",
+  "viewableDate": "2024-05-07T08:10:07.841Z",
+  "approximateReleasePlan": null
 }

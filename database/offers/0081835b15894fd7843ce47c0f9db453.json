@@ -1,47 +1,35 @@
 {
+  "title": "BeyondTSGTEST",
   "id": "0081835b15894fd7843ce47c0f9db453",
   "namespace": "lavender",
-  "title": "BeyondTSGTEST",
   "description": "BeyondTSGTEST",
-  "longDescription": "Grants TEST general audience post launch intended result",
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "beyondtsgtest",
-  "offerType": "OTHERS",
-  "creationDate": "2019-07-15T23:39:49.240Z",
-  "lastModifiedDate": "2020-04-27T13:42:44.908Z",
   "effectiveDate": "2099-07-01T23:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "CN"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/lavender/item/Diesel_product_ratings_RP_FOR_T_M_AO-842x404-e685858d6f01213bedf5b2abec53be94.png"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 1999,
   "seller": {
     "id": "o-m8v47d762atphw94knus7ezawefpcu",
     "name": "Quantic Dream"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "beyondtsgtest",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
+      "id": "7e7c8ffd975544878d0454c01d1b6fc4",
+      "namespace": "lavender"
     },
     {
-      "path": "applications"
+      "id": "5932738bb15f4ab99355f1e036eaa3a5",
+      "namespace": "lavender"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -52,26 +40,50 @@
       "value": "Quantic Dream"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/lavender/item/Diesel_product_ratings_RP_FOR_T_M_AO-842x404-e685858d6f01213bedf5b2abec53be94.png",
-      "md5": "e685858d6f01213bedf5b2abec53be94",
-      "size": 55379,
-      "uploadedDate": "2019-04-24T17:52:41.371Z",
-      "width": 842,
-      "height": 404
-    }
-  ],
-  "items": [
-    {
-      "id": "7e7c8ffd975544878d0454c01d1b6fc4"
+      "path": "games"
     },
     {
-      "id": "5932738bb15f4ab99355f1e036eaa3a5"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "lavender"
-  }
+    "mappings": [
+      {
+        "pageSlug": "beyond-two-souls--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "beyond-two-souls",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

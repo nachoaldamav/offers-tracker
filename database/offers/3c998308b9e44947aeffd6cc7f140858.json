@@ -1,45 +1,26 @@
 {
+  "title": "AlbatrossDevAudience",
   "id": "3c998308b9e44947aeffd6cc7f140858",
   "namespace": "78de1f402ddf486ebcbf9ba3009d6198",
-  "title": "AlbatrossDevAudience",
   "description": "AlbatrossDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "albatrossdevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-09-10T19:30:12.218Z",
-  "lastModifiedDate": "2020-05-01T16:41:05.980Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
     "name": "Epic Dev Test Account"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "albatrossdevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "df9cf604d5864d77bada8d71d496eb6f",
+      "namespace": "78de1f402ddf486ebcbf9ba3009d6198"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -54,13 +35,46 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "df9cf604d5864d77bada8d71d496eb6f"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "78de1f402ddf486ebcbf9ba3009d6198"
-  }
+    "mappings": [
+      {
+        "pageSlug": "huntdown",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

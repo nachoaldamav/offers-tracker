@@ -1,39 +1,41 @@
 {
+  "title": "Swimsuit",
   "id": "5c6712f3b82b453fb78b85be73daf0b3",
   "namespace": "cobra",
-  "title": "Swimsuit",
   "description": "Swimsuit",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "cobraswimsuit",
-  "offerType": "DLC",
-  "creationDate": "2020-03-04T15:13:14.239Z",
-  "lastModifiedDate": "2024-04-18T16:20:47.531Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": "Focus Home",
-  "countriesBlacklist": [
-    "RU",
-    "BY"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
     "name": "Focus Entertainment Publishing"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "cobraswimsuit",
+  "url": null,
+  "tags": [
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "fee1dd857f4149f396a0017a2cdaa97c",
+      "namespace": "cobra"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "Team17"
+    }
+  ],
   "categories": [
     {
       "path": "spthidden"
@@ -48,37 +50,38 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "[]"
-    },
-    {
-      "key": "developerName",
-      "value": "Team17"
-    }
-  ],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "fee1dd857f4149f396a0017a2cdaa97c"
-    }
-  ],
   "catalogNs": {
-    "name": "cobra"
-  }
+    "mappings": [
+      {
+        "pageSlug": "my-time-at-portia",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": "Focus Home",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

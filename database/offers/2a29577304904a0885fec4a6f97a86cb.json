@@ -1,36 +1,36 @@
 {
+  "title": "Fennel Dev Audience",
   "id": "2a29577304904a0885fec4a6f97a86cb",
   "namespace": "fennel",
-  "title": "Fennel Dev Audience",
   "description": "Fennel Dev Audience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "fenneldevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-03-22T22:31:44.184Z",
-  "lastModifiedDate": "2024-02-26T18:54:40.541Z",
   "effectiveDate": "2019-03-21T18:20:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SKYBOUND_TWDMICHONNE_CodeRedemption-340x383-321bfd2d9db6630fea6e42d867f77775.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SKYBOUND_TWDMICHONNE_G2_About_400x400-400x400-df086924ffea6eb52b26bbca28dcca47.png"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
     "name": "Skybound Game Studios, Inc."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "fenneldevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "34bfb437c0c040bca8a7d9a357423980",
+      "namespace": "fennel"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "games"
@@ -39,34 +39,38 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SKYBOUND_TWDMICHONNE_CodeRedemption-340x383-321bfd2d9db6630fea6e42d867f77775.png",
-      "md5": "321bfd2d9db6630fea6e42d867f77775",
-      "size": 66936,
-      "uploadedDate": "2019-03-22T22:31:12.300Z",
-      "width": 340,
-      "height": 383
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SKYBOUND_TWDMICHONNE_G2_About_400x400-400x400-df086924ffea6eb52b26bbca28dcca47.png",
-      "md5": "df086924ffea6eb52b26bbca28dcca47",
-      "size": 40092,
-      "uploadedDate": "2019-03-22T22:31:26.251Z",
-      "width": 400,
-      "height": 400
-    }
-  ],
-  "items": [
-    {
-      "id": "34bfb437c0c040bca8a7d9a357423980"
-    }
-  ],
   "catalogNs": {
-    "name": "fennel"
-  }
+    "mappings": [
+      {
+        "pageSlug": "walking-dead-michonne",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,51 +1,26 @@
 {
+  "title": "turtleDLCGeneralAudience",
   "id": "95c5a618a4cf4b999e06bea87612a000",
   "namespace": "turtle",
-  "title": "turtleDLCGeneralAudience",
   "description": "turtleDLCGeneralAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "turtledlcgeneralaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2020-08-27T02:26:37.519Z",
-  "lastModifiedDate": "2024-03-26T20:49:29.709Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
     "name": "Tripwire Interactive"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": "not a DLC",
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "turtledlcgeneralaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "spthidden"
-    },
-    {
-      "path": "games"
-    },
-    {
-      "path": "spthidden/demo"
-    },
-    {
-      "path": "applications"
+      "id": "7e58c737b46d41b0a9734debb6fd6184",
+      "namespace": "turtle"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -60,13 +35,60 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "7e58c737b46d41b0a9734debb6fd6184"
+      "path": "spthidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "spthidden/demo"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "turtle"
-  }
+    "mappings": [
+      {
+        "pageSlug": "maneater",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "maneater--apex-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "maneater--truth-quest",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

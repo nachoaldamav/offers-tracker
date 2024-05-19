@@ -1,38 +1,27 @@
 {
+  "title": "Fake offer",
   "id": "e842623f1d9a45aeb3647a1b88d48490",
   "namespace": "ocn",
-  "title": "Fake offer",
   "description": "gives fake item",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "sea-waffles",
-  "offerType": "OTHERS",
-  "creationDate": "2016-07-06T23:50:06.571Z",
-  "lastModifiedDate": "2017-06-20T21:00:00.841Z",
   "effectiveDate": "2016-07-05T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": false,
+  "keyImages": [],
+  "currentPrice": 100000,
   "seller": {
     "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
     "name": "Epic Games"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "sea-waffles",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "b36aee54fcb146de9e84b76fad034d08",
+      "namespace": "ocn"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "games"
@@ -41,15 +30,33 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "b36aee54fcb146de9e84b76fad034d08"
-    }
-  ],
   "catalogNs": {
-    "name": "ocn"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 100000,
+      "originalPrice": 100000,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

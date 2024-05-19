@@ -1,48 +1,26 @@
 {
+  "title": "BustardDevAudience",
   "id": "98d8eb6337a145a884aaff3eb2c2d7b1",
   "namespace": "400cc6605aee41de88f976b587a48aa0",
-  "title": "BustardDevAudience",
   "description": "BustardDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "bustarddevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-09-10T21:03:46.207Z",
-  "lastModifiedDate": "2019-12-29T14:55:38.235Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR",
-    "CN"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
     "name": "Devolver Digital, Inc."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "bustarddevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "597b9dd76dea43fc91c2e18124a514c1",
+      "namespace": "400cc6605aee41de88f976b587a48aa0"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -57,13 +35,46 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "597b9dd76dea43fc91c2e18124a514c1"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "400cc6605aee41de88f976b587a48aa0"
-  }
+    "mappings": [
+      {
+        "pageSlug": "the-talos-principle",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-12-01T12:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

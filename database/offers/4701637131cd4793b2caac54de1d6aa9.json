@@ -1,45 +1,26 @@
 {
+  "title": "FinchDevAudience",
   "id": "4701637131cd4793b2caac54de1d6aa9",
   "namespace": "affc33b82405457595a032f00284abd2",
-  "title": "FinchDevAudience",
   "description": "FinchDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "finchdevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-08-17T00:08:56.865Z",
-  "lastModifiedDate": "2020-07-09T14:57:59.607Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
     "name": "Tripwire Interactive"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "finchdevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "ffbfc930af644f52a72e28ca967fea97",
+      "namespace": "affc33b82405457595a032f00284abd2"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -54,13 +35,70 @@
       "value": "{}"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "ffbfc930af644f52a72e28ca967fea97"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "affc33b82405457595a032f00284abd2"
-  }
+    "mappings": [
+      {
+        "pageSlug": "killing-floor-2--armory-season-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "killing-floor-2--digital-deluxe-upgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "killing-floor-2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "killing-floor-2--armory-season-pass-2",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "killing-floor-2--ultimate-edition-upgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "killing-floor-2--ultimate-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "killing-floor-2--cosmetic-sseason-pass",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

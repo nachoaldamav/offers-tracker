@@ -1,36 +1,49 @@
 {
+  "title": "Superliminal Press",
   "id": "ea45243aaca347bc9c4acce9c15c041a",
   "namespace": "6cec00f8934146508b884b0f139d55d0",
-  "title": "Superliminal Press",
   "description": "Superliminal Press",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "superliminal-press",
-  "offerType": "OTHERS",
-  "creationDate": "2019-10-21T13:00:33.872Z",
-  "lastModifiedDate": "2024-03-26T20:33:18.452Z",
   "effectiveDate": "2019-10-21T08:58:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/6cec00f8934146508b884b0f139d55d0/Superliminal_Wishlist_3x4-860x1147-c7e7ddb321726412492143a56ddee8f5_860x1147-c7e7ddb321726412492143a56ddee8f5"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/6cec00f8934146508b884b0f139d55d0/Superliminal_Wishlist_3x4-860x1147-c7e7ddb321726412492143a56ddee8f5_860x1147-c7e7ddb321726412492143a56ddee8f5"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/6cec00f8934146508b884b0f139d55d0/Superliminal_Wishlist_16x9-2560x1440-cf7294dde9e86056dca71687ef7e3938_2560x1440-cf7294dde9e86056dca71687ef7e3938"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-jvpl9untxcrsellbhbwjb2ralrg9z9",
     "name": "Pillow Castle"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "superliminal-press",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "c187d3ac64e74632a67374310867cc0b",
+      "namespace": "6cec00f8934146508b884b0f139d55d0"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "Pillow Castle"
+    }
+  ],
   "categories": [
     {
       "path": "spthidden"
@@ -45,52 +58,42 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "{}"
-    },
-    {
-      "key": "developerName",
-      "value": "Pillow Castle"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/6cec00f8934146508b884b0f139d55d0/Superliminal_Wishlist_3x4-860x1147-c7e7ddb321726412492143a56ddee8f5_860x1147-c7e7ddb321726412492143a56ddee8f5",
-      "md5": "c7e7ddb321726412492143a56ddee8f5",
-      "size": 559753,
-      "uploadedDate": "2024-03-26T20:32:50.331Z",
-      "width": 860,
-      "height": 1147
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/6cec00f8934146508b884b0f139d55d0/Superliminal_Wishlist_3x4-860x1147-c7e7ddb321726412492143a56ddee8f5_860x1147-c7e7ddb321726412492143a56ddee8f5",
-      "md5": "c7e7ddb321726412492143a56ddee8f5",
-      "size": 559753,
-      "uploadedDate": "2024-03-26T20:33:04.320Z",
-      "width": 860,
-      "height": 1147
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/6cec00f8934146508b884b0f139d55d0/Superliminal_Wishlist_16x9-2560x1440-cf7294dde9e86056dca71687ef7e3938_2560x1440-cf7294dde9e86056dca71687ef7e3938",
-      "md5": "cf7294dde9e86056dca71687ef7e3938",
-      "size": 1371856,
-      "uploadedDate": "2024-03-26T20:33:12.505Z",
-      "width": 2560,
-      "height": 1440
-    }
-  ],
-  "items": [
-    {
-      "id": "c187d3ac64e74632a67374310867cc0b"
-    }
-  ],
   "catalogNs": {
-    "name": "6cec00f8934146508b884b0f139d55d0"
-  }
+    "mappings": [
+      {
+        "pageSlug": "superliminal",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "superliminal--double-album-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

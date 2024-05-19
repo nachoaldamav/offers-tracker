@@ -1,50 +1,26 @@
 {
+  "title": "TautogDevAudience",
   "id": "a6a7907c710842dbba3d5105505d9b08",
   "namespace": "cf87285950ba492bbdc370b9d265ea36",
-  "title": "TautogDevAudience",
   "description": "TautogDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "tautogdevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2020-01-24T17:49:47.052Z",
-  "lastModifiedDate": "2020-02-18T15:33:03.491Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "KR",
-    "BY",
-    "CN"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
     "name": "Epic Dev Test Account"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "tautogdevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "759b6298432b428eb47bf08636f6c4f7",
+      "namespace": "cf87285950ba492bbdc370b9d265ea36"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -59,13 +35,54 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "759b6298432b428eb47bf08636f6c4f7"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "cf87285950ba492bbdc370b9d265ea36"
-  }
+    "mappings": [
+      {
+        "pageSlug": "far-cry-4--gold-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "far-cry-4--season-pass",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "far-cry-4",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

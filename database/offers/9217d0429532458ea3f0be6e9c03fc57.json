@@ -1,45 +1,39 @@
 {
+  "title": "Atomicrops Alpha +",
   "id": "9217d0429532458ea3f0be6e9c03fc57",
   "namespace": "ff1cd8b38bda4f6281879c9bdb228ff1",
-  "title": "Atomicrops Alpha +",
   "description": "Atomicrops Alpha + General Audiences",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "atomicrops-alpha-01",
-  "offerType": "OTHERS",
-  "creationDate": "2019-07-31T17:23:03.507Z",
-  "lastModifiedDate": "2019-07-31T17:23:03.507Z",
   "effectiveDate": "2050-07-15T15:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Atomicrops-340x440-c8b07cc882b332bae541a823f23f4343.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Atomicrops-340x440-c8b07cc882b332bae541a823f23f4343.png"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
     "name": "Raw Fury"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "atomicrops-alpha-01",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
+      "id": "1a122b344102441da986e905fa4a5f47",
+      "namespace": "ff1cd8b38bda4f6281879c9bdb228ff1"
     },
     {
-      "path": "applications"
+      "id": "95a9b50044414b17946f273848af608f",
+      "namespace": "ff1cd8b38bda4f6281879c9bdb228ff1"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -54,35 +48,66 @@
       "value": "Bird Bath Games"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Atomicrops-340x440-c8b07cc882b332bae541a823f23f4343.png",
-      "md5": "c8b07cc882b332bae541a823f23f4343",
-      "size": 275956,
-      "uploadedDate": "2019-07-31T17:22:00.385Z",
-      "width": 340,
-      "height": 440
+      "path": "games"
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Atomicrops-340x440-c8b07cc882b332bae541a823f23f4343.png",
-      "md5": "c8b07cc882b332bae541a823f23f4343",
-      "size": 275956,
-      "uploadedDate": "2019-07-31T17:22:15.236Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "1a122b344102441da986e905fa4a5f47"
-    },
-    {
-      "id": "95a9b50044414b17946f273848af608f"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "ff1cd8b38bda4f6281879c9bdb228ff1"
-  }
+    "mappings": [
+      {
+        "pageSlug": "atomicrops--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "atomicrops",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "atomicrops--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "atomicrops--reap-what-you-crow",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "atomicrops--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "atomicrops--deerly-beloved",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

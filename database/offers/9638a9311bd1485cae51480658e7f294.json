@@ -1,59 +1,29 @@
 {
+  "title": "FangtoothDevAudience",
   "id": "9638a9311bd1485cae51480658e7f294",
   "namespace": "2f215955790d456b80c291bc2feaf7f7",
-  "title": "FangtoothDevAudience",
   "description": "FangtoothDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "fangtoothdevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-12-18T10:01:24.237Z",
-  "lastModifiedDate": "2022-12-05T14:16:26.024Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR",
-    "CN"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
     "name": "Daedalic Entertainment"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "fangtoothdevaudience",
+  "url": null,
   "tags": [
     {
       "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
-      "status": "ACTIVE",
-      "referenceCount": 3628,
-      "comment": ""
+      "name": "Achievements"
+    }
+  ],
+  "items": [
+    {
+      "id": "fc82616efaa64495bf62f75f42742654",
+      "namespace": "2f215955790d456b80c291bc2feaf7f7"
     }
   ],
   "customAttributes": [
@@ -70,13 +40,46 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "fc82616efaa64495bf62f75f42742654"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "2f215955790d456b80c291bc2feaf7f7"
-  }
+    "mappings": [
+      {
+        "pageSlug": "shadow-tactics",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

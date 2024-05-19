@@ -1,101 +1,54 @@
 {
+  "title": "Darksiders II Deathinitive Edition",
   "id": "4530e0cba368471fbee9107df203c2e4",
   "namespace": "epic",
-  "title": "Darksiders II Deathinitive Edition",
   "description": "Darksiders II Deathinitive Edition",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "darksiders2/home",
-  "urlSlug": "darksiders-ii-deathinitive-edition",
-  "offerType": "OTHERS",
-  "creationDate": "2019-12-19T21:49:08.783Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
   "effectiveDate": "2020-01-01T16:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Storefront_Landscape-2560x1440-aaf0b5a36c066638e2b3f0ebcf2885e0.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Storefront_Portrait-860x1148-79de1e63157da0a0af69d207703cec0a.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
     "name": "THQ Nordic GmbH"
   },
-  "linkedOfferId": "7285f8134497432fa68378ef9efe8dc2",
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": "darksiders2/home",
+  "urlSlug": "darksiders-ii-deathinitive-edition",
+  "url": null,
   "tags": [
     {
       "id": "1216",
-      "name": "Action",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-08-23T05:17:12.937Z",
-      "status": "ACTIVE",
-      "referenceCount": 2167,
-      "comment": null
+      "name": "Action"
     },
     {
       "id": "1367",
-      "name": "RPG",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2023-08-23T03:10:10.001Z",
-      "status": "ACTIVE",
-      "referenceCount": 1144,
-      "comment": null
+      "name": "RPG"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
     },
     {
       "id": "1117",
-      "name": "Adventure",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2023-08-23T02:16:39.269Z",
-      "status": "ACTIVE",
-      "referenceCount": 1473,
-      "comment": null
+      "name": "Adventure"
     },
     {
       "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-08-23T03:24:56.337Z",
-      "status": "ACTIVE",
-      "referenceCount": 2499,
-      "comment": null
+      "name": "Controller Support"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -120,32 +73,42 @@
       "value": "7285f8134497432fa68378ef9efe8dc2"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Storefront_Landscape-2560x1440-aaf0b5a36c066638e2b3f0ebcf2885e0.jpg",
-      "md5": "aaf0b5a36c066638e2b3f0ebcf2885e0",
-      "size": 778591,
-      "uploadedDate": "2019-12-19T21:46:47.542Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Storefront_Portrait-860x1148-79de1e63157da0a0af69d207703cec0a.jpg",
-      "md5": "79de1e63157da0a0af69d207703cec0a",
-      "size": 276640,
-      "uploadedDate": "2019-12-19T21:46:57.529Z",
-      "width": 860,
-      "height": 1148
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 749,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 2250,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "45ccfdf5dd8d4bf687a2427985761e2d"
+          }
+        ]
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2015-11-05T11:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

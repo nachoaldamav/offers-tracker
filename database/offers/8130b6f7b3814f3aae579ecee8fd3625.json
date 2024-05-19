@@ -1,36 +1,32 @@
 {
+  "title": "PhloxDevAudience",
   "id": "8130b6f7b3814f3aae579ecee8fd3625",
   "namespace": "phlox",
-  "title": "PhloxDevAudience",
   "description": "PhloxDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "phloxdevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-03-04T13:12:32.640Z",
-  "lastModifiedDate": "2020-04-29T00:38:16.102Z",
   "effectiveDate": "2022-03-04T11:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-6v5su732w3tnzud9lque2m7s4qzvjx",
     "name": "Klei Entertainment"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "phloxdevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "fb16872d795944ac9952b366e6d9e33a",
+      "namespace": "phlox"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Klei Entertainment"
+    }
+  ],
   "categories": [
     {
       "path": "games"
@@ -39,20 +35,46 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "developerName",
-      "value": "Klei Entertainment"
-    }
-  ],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "fb16872d795944ac9952b366e6d9e33a"
-    }
-  ],
   "catalogNs": {
-    "name": "phlox"
-  }
+    "mappings": [
+      {
+        "pageSlug": "griftlands--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "griftlands--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "griftlands",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,101 +1,54 @@
 {
+  "title": "Airborne Kingdom",
   "id": "d073051af330409394d8fd7cc6793bb4",
   "namespace": "epic",
-  "title": "Airborne Kingdom",
   "description": "Airborne Kingdom",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "airborne-kingdom/home",
-  "urlSlug": "airborne-kingdom",
-  "offerType": "OTHERS",
-  "creationDate": "2019-08-28T20:16:41.560Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
   "effectiveDate": "2050-08-01T10:05:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_AirborneKingdom_TheWanderingBan_S1-2560x1440-622868d9ba16337834baa187c1293188.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_AirborneKingdom_TheWanderingBan_S2-860x1148-73860673400d93eddfef753655cc55cf.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-64h79p2hud28hmlx8emazj2ccfe6ml",
     "name": "The Wandering Band LLC"
   },
-  "linkedOfferId": "433393b88dcc486facfed8075a48ee26",
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": "airborne-kingdom/home",
+  "urlSlug": "airborne-kingdom",
+  "url": null,
   "tags": [
     {
       "id": "1393",
-      "name": "Simulation",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2023-08-23T03:55:35.422Z",
-      "status": "ACTIVE",
-      "referenceCount": 943,
-      "comment": null
+      "name": "Simulation"
     },
     {
       "id": "1146",
-      "name": "City Builder",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:31.235Z",
-      "updated": "2023-08-22T23:07:49.565Z",
-      "status": "ACTIVE",
-      "referenceCount": 175,
-      "comment": null
+      "name": "City Builder"
     },
     {
       "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-23T05:17:12.951Z",
-      "status": "ACTIVE",
-      "referenceCount": 5001,
-      "comment": null
+      "name": "Single Player"
     },
     {
       "id": "1115",
-      "name": "Strategy",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2023-08-23T05:08:24.575Z",
-      "status": "ACTIVE",
-      "referenceCount": 1068,
-      "comment": null
+      "name": "Strategy"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -120,32 +73,38 @@
       "value": "433393b88dcc486facfed8075a48ee26"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_AirborneKingdom_TheWanderingBan_S1-2560x1440-622868d9ba16337834baa187c1293188.jpg",
-      "md5": "622868d9ba16337834baa187c1293188",
-      "size": 504114,
-      "uploadedDate": "2020-03-05T21:32:06.044Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_AirborneKingdom_TheWanderingBan_S2-860x1148-73860673400d93eddfef753655cc55cf.jpg",
-      "md5": "73860673400d93eddfef753655cc55cf",
-      "size": 496150,
-      "uploadedDate": "2020-03-05T21:32:20.193Z",
-      "width": 860,
-      "height": 1148
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-10-16T21:09:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

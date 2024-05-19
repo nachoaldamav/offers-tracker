@@ -1,36 +1,37 @@
 {
+  "title": "BogaDevAudience",
   "id": "987f1ee4b1dd4fe2823c0538d8c9ad3e",
   "namespace": "f4a904fcef2447439c35c4e6457f3027",
-  "title": "BogaDevAudience",
   "description": "BogaDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "bogadevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-11-06T16:32:47.446Z",
-  "lastModifiedDate": "2023-08-18T09:53:30.057Z",
   "effectiveDate": "2050-08-01T10:05:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/f4a904fcef2447439c35c4e6457f3027/offer/EGS_KojimaProductions_DeathStranding_S2-1280x1440-098f41b9ec3aa4489e085ed2110f3818.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
     "name": "505 Games"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "bogadevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "938a3893b1a04fd190fded9bb817d67d",
+      "namespace": "f4a904fcef2447439c35c4e6457f3027"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    }
+  ],
   "categories": [
     {
       "path": "games"
@@ -39,30 +40,42 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "{}"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/f4a904fcef2447439c35c4e6457f3027/offer/EGS_KojimaProductions_DeathStranding_S2-1280x1440-098f41b9ec3aa4489e085ed2110f3818.jpg",
-      "md5": "098f41b9ec3aa4489e085ed2110f3818",
-      "size": 458808,
-      "uploadedDate": "2019-11-06T19:12:55.367Z",
-      "width": 1280,
-      "height": 1440
-    }
-  ],
-  "items": [
-    {
-      "id": "938a3893b1a04fd190fded9bb817d67d"
-    }
-  ],
   "catalogNs": {
-    "name": "f4a904fcef2447439c35c4e6457f3027"
-  }
+    "mappings": [
+      {
+        "pageSlug": "death-stranding--technical-support",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "death-stranding",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

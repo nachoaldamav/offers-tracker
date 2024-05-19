@@ -1,47 +1,35 @@
 {
+  "title": "RobinDevAudience",
   "id": "2007a0b1b81c41c8a627cf297672d6be",
   "namespace": "bec57b5341ad4294b005a7dd18691419",
-  "title": "RobinDevAudience",
   "description": "RobinDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "yagadevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-06-14T18:13:11.431Z",
-  "lastModifiedDate": "2021-11-05T14:58:05.305Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/bec57b5341ad4294b005a7dd18691419/offer/CodeRedemption_Yaga-340x440-2f43c8e5f57e91cc8b63a9f548d1ec6d.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/bec57b5341ad4294b005a7dd18691419/offer/CodeRedemption_Yaga-340x440-2f43c8e5f57e91cc8b63a9f548d1ec6d.jpg"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
     "name": "Versus Evil"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "yagadevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "a82c3c5f0d864dd794501ec121fb7a16",
+      "namespace": "bec57b5341ad4294b005a7dd18691419"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -56,32 +44,62 @@
       "value": "Breadcrumbs"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/bec57b5341ad4294b005a7dd18691419/offer/CodeRedemption_Yaga-340x440-2f43c8e5f57e91cc8b63a9f548d1ec6d.jpg",
-      "md5": "2f43c8e5f57e91cc8b63a9f548d1ec6d",
-      "size": 67597,
-      "uploadedDate": "2019-09-10T19:12:20.593Z",
-      "width": 340,
-      "height": 440
+      "path": "games"
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/bec57b5341ad4294b005a7dd18691419/offer/CodeRedemption_Yaga-340x440-2f43c8e5f57e91cc8b63a9f548d1ec6d.jpg",
-      "md5": "2f43c8e5f57e91cc8b63a9f548d1ec6d",
-      "size": 67597,
-      "uploadedDate": "2019-09-10T19:12:27.157Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "a82c3c5f0d864dd794501ec121fb7a16"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "bec57b5341ad4294b005a7dd18691419"
-  }
+    "mappings": [
+      {
+        "pageSlug": "yaga--bad-luck-bundle",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "yaga",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "yaga--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "yaga--roots-of-evil",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "yaga--armful-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

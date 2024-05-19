@@ -1,80 +1,46 @@
 {
+  "title": "SMITE",
   "id": "32e2f79db2ce4c04a69c91b5c74b320f",
   "namespace": "epic",
-  "title": "SMITE",
   "description": "SMITE",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "smite",
-  "urlSlug": "smite",
-  "offerType": "OTHERS",
-  "creationDate": "2020-04-29T19:07:41.475Z",
-  "lastModifiedDate": "2020-04-29T19:07:41.475Z",
   "effectiveDate": "2020-03-20T10:28:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR",
-    "CN"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Smite-EGS-Season7Bellona-PortraitIMG-860x1148-f61c6d4d5ab16831b4b2ade06149c7ed.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Smite-EGS-Season7Bellona-LandscapeIMG-2560x1440-9d9933ff4111688ec8281528618d854c.jpg"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "currentPrice": 0,
   "seller": {
     "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
     "name": "Hi-Rez Studios"
   },
-  "linkedOfferId": "f57f2cf4b6aa49be84688e4ea571ccbe",
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": "smite",
+  "urlSlug": "smite",
+  "url": null,
   "tags": [
     {
       "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2024-03-28T21:49:29.573Z",
-      "status": "ACTIVE",
-      "referenceCount": 1846,
-      "comment": null
+      "name": "Multiplayer"
     },
     {
       "id": "1299",
-      "name": "Competitive",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:47.106Z",
-      "updated": "2023-08-23T04:55:54.821Z",
-      "status": "ACTIVE",
-      "referenceCount": 452,
-      "comment": null
+      "name": "Competitive"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -95,32 +61,38 @@
       "value": "f57f2cf4b6aa49be84688e4ea571ccbe"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Smite-EGS-Season7Bellona-PortraitIMG-860x1148-f61c6d4d5ab16831b4b2ade06149c7ed.jpg",
-      "md5": "f61c6d4d5ab16831b4b2ade06149c7ed",
-      "size": 367781,
-      "uploadedDate": "2020-04-29T19:06:19.185Z",
-      "width": 860,
-      "height": 1148
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Smite-EGS-Season7Bellona-LandscapeIMG-2560x1440-9d9933ff4111688ec8281528618d854c.jpg",
-      "md5": "9d9933ff4111688ec8281528618d854c",
-      "size": 441344,
-      "uploadedDate": "2020-04-29T19:06:29.370Z",
-      "width": 2560,
-      "height": 1440
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-03-20T10:28:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

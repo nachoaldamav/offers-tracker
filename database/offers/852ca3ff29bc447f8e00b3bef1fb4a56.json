@@ -1,64 +1,46 @@
 {
+  "title": "GrandChase - 60000 VP",
   "id": "852ca3ff29bc447f8e00b3bef1fb4a56",
   "namespace": "7973ee6548ab4863a815a208f8721f4f",
-  "title": "GrandChase - 60000 VP",
   "description": "An item that allows you to charge up 60000 VP.\nVP is the currency used to purchase Cash Items in GrandChase.",
-  "longDescription": "<!--textBlock-->\n<!--text-->\nAn item that allows you to charge up 60000 VP.\nVP is the currency used to purchase Cash Items in GrandChase.\n",
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "60000vp",
-  "offerType": "VIRTUAL_CURRENCY",
-  "creationDate": "2023-09-12T04:36:40.126Z",
-  "lastModifiedDate": "2023-11-16T10:25:12.844Z",
   "effectiveDate": "2023-11-15T02:00:00.000Z",
-  "pcReleaseDate": "2021-07-27T15:00:00.000Z",
-  "publisherDisplayName": "KOG",
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": "2023-11-02T16:00:00.000Z",
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "grandchase-60000vp-f780fe"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/5049bbc13f1140d99dba26c22eec7e44/grandchase-1c19c.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/5049bbc13f1140d99dba26c22eec7e44/grandchase-rklop.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/spt-assets/5049bbc13f1140d99dba26c22eec7e44/grandchase-rklop.jpg"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/5049bbc13f1140d99dba26c22eec7e44/grandchase-1j53h.jpg"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "grandchase-60000vp-f780fe"
-    }
-  ],
+  "currentPrice": 5880,
   "seller": {
     "id": "o-q6x6lm9tvykmfltm4jzzfav65x2zb8",
     "name": "KOG.CO.LTD"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "spthidden/consumable"
-    },
-    {
-      "path": "spthidden"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "60000vp",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "7ee33400b9784bf5a16dea1e6b13cb5d",
+      "namespace": "7973ee6548ab4863a815a208f8721f4f"
     }
   ],
   "customAttributes": [
@@ -79,50 +61,71 @@
       "value": "false"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/5049bbc13f1140d99dba26c22eec7e44/grandchase-1c19c.jpg",
-      "md5": "0f3ba59d65335af5566cbbdde73c76d3",
-      "size": 3925598,
-      "uploadedDate": "2023-10-23T02:29:32.788Z",
-      "width": 2560,
-      "height": 1440
+      "path": "spthidden/consumable"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/5049bbc13f1140d99dba26c22eec7e44/grandchase-rklop.jpg",
-      "md5": "2c4e0346e490179027f6aa1866d361dc",
-      "size": 3420035,
-      "uploadedDate": "2023-10-23T02:29:38.778Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/5049bbc13f1140d99dba26c22eec7e44/grandchase-rklop.jpg",
-      "md5": "2c4e0346e490179027f6aa1866d361dc",
-      "size": 3420035,
-      "uploadedDate": "2023-10-23T02:29:38.778Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/5049bbc13f1140d99dba26c22eec7e44/grandchase-1j53h.jpg",
-      "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 3525325,
-      "uploadedDate": "2023-10-23T02:32:14.032Z",
-      "width": 1920,
-      "height": 1080
-    }
-  ],
-  "items": [
-    {
-      "id": "7ee33400b9784bf5a16dea1e6b13cb5d"
+      "path": "spthidden"
     }
   ],
   "catalogNs": {
-    "name": "7973ee6548ab4863a815a208f8721f4f"
-  }
+    "mappings": [
+      {
+        "pageSlug": "grandchase-120000vp-4fc547",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "grandchase-60000vp-f780fe",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "grandchase-20000vp-70ac7d",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "grandchase-5000vp-c06f6b",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "grandchase-c03eb2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "grandchase-faq-7a157b",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "grandchase-60000vp-f780fe",
+      "pageType": "offer"
+    }
+  ],
+  "developerDisplayName": "KOG",
+  "publisherDisplayName": "KOG",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 5880,
+      "originalPrice": 5880,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2023-11-15T02:00:00.000Z",
+  "pcReleaseDate": "2021-07-27T15:00:00.000Z",
+  "viewableDate": "2023-11-02T16:00:00.000Z",
+  "approximateReleasePlan": null
 }

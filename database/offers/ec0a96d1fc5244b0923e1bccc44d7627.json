@@ -1,48 +1,26 @@
 {
+  "title": "DuckbillDevAudience",
   "id": "ec0a96d1fc5244b0923e1bccc44d7627",
   "namespace": "fa11862b1cfd42e3b3c6395af46efe3e",
-  "title": "DuckbillDevAudience",
   "description": "DuckbillDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "duckbilldevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-11-27T18:37:35.390Z",
-  "lastModifiedDate": "2019-12-31T15:44:54.009Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
     "name": "Team17 Digital Ltd"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "duckbilldevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "4d86eae2df204d0c83d311d04a62a9d7",
+      "namespace": "fa11862b1cfd42e3b3c6395af46efe3e"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -57,13 +35,62 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "4d86eae2df204d0c83d311d04a62a9d7"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "fa11862b1cfd42e3b3c6395af46efe3e"
-  }
+    "mappings": [
+      {
+        "pageSlug": "yooka-laylee-and-the-impossible-lair--trowzers-top-tonic-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "yooka-laylee-and-the-impossible-lair",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "yooka-laylee-and-the-impossible-lair--graphic-novel",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "yooka-laylee-and-the-impossible-lair--ost",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "yooka-laylee-and-the-impossible-lair--deluxe-ver",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2049-12-31T10:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,103 +1,54 @@
 {
+  "title": "Dauntless",
   "id": "6f37f05b306b48cdbab3db5e50633ebe",
   "namespace": "epic",
-  "title": "Dauntless",
   "description": "Dauntless",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "dauntless/home",
-  "urlSlug": "dauntless",
-  "offerType": "OTHERS",
-  "creationDate": "2019-01-28T20:53:53.816Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
   "effectiveDate": "2019-04-30T15:51:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S3-1360x766-f6001a460af951b3cdbb1bf562159348.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S4-510x680-e555c4296ba40636fd72db5ce5f56a95.jpg"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2019-01-30T13:20:00.000Z",
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "currentPrice": 0,
   "seller": {
     "id": "o-krlzxj88qrtb69fredeuaf887bl5az",
     "name": "Phoenix Labs"
   },
-  "linkedOfferId": "e64af2d6202d4b64b86abe428250dbff",
-  "isFeatured": true,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": "dauntless/home",
+  "urlSlug": "dauntless",
+  "url": null,
   "tags": [
     {
       "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2024-03-28T21:49:29.573Z",
-      "status": "ACTIVE",
-      "referenceCount": 1846,
-      "comment": null
+      "name": "Multiplayer"
     },
     {
       "id": "1141",
-      "name": "Free to Play",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:28.688Z",
-      "updated": "2023-08-16T14:13:34.540Z",
-      "status": "ACTIVE",
-      "referenceCount": 173,
-      "comment": null
+      "name": "Free to Play"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
     },
     {
       "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-08-23T03:24:56.337Z",
-      "status": "ACTIVE",
-      "referenceCount": 2499,
-      "comment": null
+      "name": "Controller Support"
     },
     {
       "id": "1279",
-      "name": "Vampire",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:37.207Z",
-      "updated": "2023-06-28T07:00:24.862Z",
-      "status": "ACTIVE",
-      "referenceCount": 227,
-      "comment": null
+      "name": "Vampire"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -122,32 +73,38 @@
       "value": "e64af2d6202d4b64b86abe428250dbff"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S3-1360x766-f6001a460af951b3cdbb1bf562159348.jpg",
-      "md5": "f6001a460af951b3cdbb1bf562159348",
-      "size": 465900,
-      "uploadedDate": "2020-03-18T14:58:13.139Z",
-      "width": 1360,
-      "height": 766
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S4-510x680-e555c4296ba40636fd72db5ce5f56a95.jpg",
-      "md5": "e555c4296ba40636fd72db5ce5f56a95",
-      "size": 200053,
-      "uploadedDate": "2020-03-18T14:58:46.382Z",
-      "width": 510,
-      "height": 680
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2019-05-21T15:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": "2019-01-30T13:20:00.000Z",
+  "approximateReleasePlan": null
 }

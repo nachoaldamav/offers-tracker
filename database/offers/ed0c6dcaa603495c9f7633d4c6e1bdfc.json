@@ -1,66 +1,50 @@
 {
+  "title": "Tom Clancy's The Division 2  Ultimate Edition",
   "id": "ed0c6dcaa603495c9f7633d4c6e1bdfc",
   "namespace": "impala",
-  "title": "Tom Clancy's The Division 2  Ultimate Edition",
   "description": "Tom Clancy's The Division 2  Ultimate Edition",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "impalaultimateaudience",
-  "offerType": "EDITION",
-  "creationDate": "2019-01-08T02:42:02.622Z",
-  "lastModifiedDate": "2023-08-03T01:03:11.257Z",
   "effectiveDate": "2019-03-15T17:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY",
-    "CN"
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/impala/offer/Diesel_product_tctd2_TCTD2_UCS7081_PC_BXSHT2D_ULT_US-1527x1939-d8751776d878a5276ec4bfcb72ed73b561853d30-1527x1939-fa2794c7515145f42045ca6501e822f4-1141x1450-9dad330b3b1cb2d5ae23e1a4b9efdea3.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/impala/offer/coderedemption-340x440-250e3415cb1c6432f219a7d43fdfbb42.jpg"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2019-01-07T11:56:00.000Z",
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 11999,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "spthidden"
-    },
-    {
-      "path": "games"
-    },
-    {
-      "path": "spthidden/edition"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "impalaultimateaudience",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "db5e601f86a0497fad1ef43340af2f00",
+      "namespace": "impala"
+    },
+    {
+      "id": "b5a4cf14f176476e904d0bb101fcb5f2",
+      "namespace": "impala"
+    },
+    {
+      "id": "fa4f4b89a3bd4beca10ad1480ed914a6",
+      "namespace": "impala"
+    },
+    {
+      "id": "033be27c70aa44c58cb5245cad2865db",
+      "namespace": "impala"
     }
   ],
   "customAttributes": [
@@ -77,41 +61,72 @@
       "value": "Massive Entertainment"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/impala/offer/Diesel_product_tctd2_TCTD2_UCS7081_PC_BXSHT2D_ULT_US-1527x1939-d8751776d878a5276ec4bfcb72ed73b561853d30-1527x1939-fa2794c7515145f42045ca6501e822f4-1141x1450-9dad330b3b1cb2d5ae23e1a4b9efdea3.jpg",
-      "md5": "9dad330b3b1cb2d5ae23e1a4b9efdea3",
-      "size": 471573,
-      "uploadedDate": "2019-01-09T15:10:05.087Z",
-      "width": 1141,
-      "height": 1450
+      "path": "spthidden"
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/impala/offer/coderedemption-340x440-250e3415cb1c6432f219a7d43fdfbb42.jpg",
-      "md5": "250e3415cb1c6432f219a7d43fdfbb42",
-      "size": 85899,
-      "uploadedDate": "2019-01-09T15:12:17.656Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "db5e601f86a0497fad1ef43340af2f00"
+      "path": "games"
     },
     {
-      "id": "b5a4cf14f176476e904d0bb101fcb5f2"
+      "path": "spthidden/edition"
     },
     {
-      "id": "fa4f4b89a3bd4beca10ad1480ed914a6"
-    },
-    {
-      "id": "033be27c70aa44c58cb5245cad2865db"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "impala"
-  }
+    "mappings": [
+      {
+        "pageSlug": "the-division-2--warlords-of-new-york-expansion",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-division-2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-division-2--warlords-of-new-york-ultimate-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-division-2--trial",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-division-2--one-time-offer-pack-y5s2",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-division-2--one-time-offer-pack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 11999,
+      "originalPrice": 11999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2019-03-15T15:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": "2019-01-07T11:56:00.000Z",
+  "approximateReleasePlan": null
 }

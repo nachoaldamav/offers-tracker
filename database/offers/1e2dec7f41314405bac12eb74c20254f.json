@@ -1,65 +1,42 @@
 {
+  "title": "Sludge Life",
   "id": "1e2dec7f41314405bac12eb74c20254f",
   "namespace": "epic",
-  "title": "Sludge Life",
   "description": "Sludge Life",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "sludge-life/home",
-  "urlSlug": "sludge-life",
-  "offerType": "OTHERS",
-  "creationDate": "2020-02-26T15:17:26.822Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
   "effectiveDate": "2020-02-27T16:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2020-02-27T15:00:00.000Z",
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SLUDGELIFE_TerriVellmannDoseone_S2-860x1148-7f59d1693efaf43bbab23d485b8d7a68.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SLUDGELIFE_TerriVellmannDoseone_S1-2560x1440-d9ff8e9ba3ea57e017f1e7b94290d290.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
     "name": "Devolver Digital, Inc."
   },
-  "linkedOfferId": "13f7f3e05e91444585e9be24b59fe536",
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": "sludge-life/home",
+  "urlSlug": "sludge-life",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
     },
     {
       "id": "1117",
-      "name": "Adventure",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2023-08-23T02:16:39.269Z",
-      "status": "ACTIVE",
-      "referenceCount": 1473,
-      "comment": null
+      "name": "Adventure"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -84,32 +61,42 @@
       "value": "13f7f3e05e91444585e9be24b59fe536"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SLUDGELIFE_TerriVellmannDoseone_S2-860x1148-7f59d1693efaf43bbab23d485b8d7a68.jpg",
-      "md5": "7f59d1693efaf43bbab23d485b8d7a68",
-      "size": 234275,
-      "uploadedDate": "2020-02-26T15:16:21.936Z",
-      "width": 860,
-      "height": 1148
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SLUDGELIFE_TerriVellmannDoseone_S1-2560x1440-d9ff8e9ba3ea57e017f1e7b94290d290.jpg",
-      "md5": "d9ff8e9ba3ea57e017f1e7b94290d290",
-      "size": 508632,
-      "uploadedDate": "2020-02-26T15:16:31.964Z",
-      "width": 2560,
-      "height": 1440
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 374,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 1125,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "7432af76502c41d39cef527d0368e8ec"
+          }
+        ]
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-04-08T16:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": "2020-02-27T15:00:00.000Z",
+  "approximateReleasePlan": null
 }

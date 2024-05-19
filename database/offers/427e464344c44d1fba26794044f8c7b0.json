@@ -1,99 +1,62 @@
 {
+  "title": "Dr. Finklestein's Marvelous Room",
   "id": "427e464344c44d1fba26794044f8c7b0",
   "namespace": "eee849a1ed424af5ae93554dd34fe980",
-  "title": "Dr. Finklestein's Marvelous Room",
   "description": "Dr. Finklestein's Marvelous Room is a community run experimental story game. With the end of the world fast approaching, Dr. Gumphrey Finklestein announces his plans for a groundbreaking scientific experiment. What will it entail? Does even he know?",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "01ecb81fa07f417885ccd9f6ac968e42",
-  "offerType": "BASE_GAME",
-  "creationDate": "2024-05-07T02:02:47.035Z",
-  "lastModifiedDate": "2024-05-07T02:02:47.035Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": "2024-12-31T00:00:00.000Z",
-  "publisherDisplayName": "DEVBEEF",
-  "countriesBlacklist": [
-    "BR",
-    "RU",
-    "AU",
-    "KR"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2024-05-07T02:02:28.785Z",
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "dr-finklesteins-marvelous-room-187563"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/f8e4a69698064325aa517561d908ad4b/dr-finklesteins-marvelous-room-1eq80.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f8e4a69698064325aa517561d908ad4b/dr-finklesteins-marvelous-room-1po53.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/spt-assets/f8e4a69698064325aa517561d908ad4b/dr-finklesteins-marvelous-room-1po53.png"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "dr-finklesteins-marvelous-room-187563"
-    }
-  ],
+  "currentPrice": 999,
   "seller": {
     "id": "o-e9tgebs6yt2tpyruhtd3mta3cp6w9t",
     "name": "DEVBEEF"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games/edition/base"
-    },
-    {
-      "path": "games/edition"
-    },
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "01ecb81fa07f417885ccd9f6ac968e42",
+  "url": null,
   "tags": [
     {
       "id": "1395",
-      "name": "Narration",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:34.825Z",
-      "updated": "2023-08-23T02:16:39.223Z",
-      "status": "ACTIVE",
-      "referenceCount": 207,
-      "comment": null
+      "name": "Narration"
     },
-    null,
-    null,
-    null,
+    {
+      "id": "21894",
+      "name": "Cloud Saves"
+    },
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-08-23T03:24:56.337Z",
-      "status": "ACTIVE",
-      "referenceCount": 2499,
-      "comment": null
+      "name": "Controller Support"
     },
     {
       "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-08-23T05:17:12.988Z",
-      "status": "ACTIVE",
-      "referenceCount": 1176,
-      "comment": null
+      "name": "Indie"
+    }
+  ],
+  "items": [
+    {
+      "id": "3d63950de1e64fbeb431058241d68ece",
+      "namespace": "eee849a1ed424af5ae93554dd34fe980"
     }
   ],
   "customAttributes": [
@@ -118,41 +81,64 @@
       "value": "false"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/f8e4a69698064325aa517561d908ad4b/dr-finklesteins-marvelous-room-1eq80.png",
-      "md5": "c5bf47589fec3332038fe655d2f18726",
-      "size": 2675992,
-      "uploadedDate": "2024-05-01T18:44:06.533Z",
-      "width": 2560,
-      "height": 1440
+      "path": "games/edition/base"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/f8e4a69698064325aa517561d908ad4b/dr-finklesteins-marvelous-room-1po53.png",
-      "md5": "bee4eb09c454d59cd5abe42d7875ccf8",
-      "size": 1327546,
-      "uploadedDate": "2024-05-01T18:44:07.992Z",
-      "width": 1200,
-      "height": 1600
+      "path": "games/edition"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/f8e4a69698064325aa517561d908ad4b/dr-finklesteins-marvelous-room-1po53.png",
-      "md5": "bee4eb09c454d59cd5abe42d7875ccf8",
-      "size": 1327546,
-      "uploadedDate": "2024-05-01T18:44:07.992Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "3d63950de1e64fbeb431058241d68ece"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "eee849a1ed424af5ae93554dd34fe980"
+    "mappings": [
+      {
+        "pageSlug": "dr-finklesteins-marvelous-room-dr-finklesteins-marvelous-room-demo-f2abea",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "dr-finklesteins-marvelous-room-187563",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "dr-finklesteins-marvelous-room-187563",
+      "pageType": "productHome"
+    }
+  ],
+  "developerDisplayName": "DEVBEEF",
+  "publisherDisplayName": "DEVBEEF",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2024-12-31T00:00:00.000Z",
+  "pcReleaseDate": "2024-12-31T00:00:00.000Z",
+  "viewableDate": "2024-05-07T02:02:28.785Z",
+  "approximateReleasePlan": {
+    "day": null,
+    "month": null,
+    "quarter": null,
+    "year": 2024,
+    "releaseDateType": "BY_YEAR"
   }
 }

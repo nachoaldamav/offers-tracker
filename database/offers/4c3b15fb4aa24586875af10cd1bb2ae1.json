@@ -1,62 +1,29 @@
 {
+  "title": "C_DLC3",
   "id": "4c3b15fb4aa24586875af10cd1bb2ae1",
   "namespace": "435aaec1220447efbcfeb4f2abeb1027",
-  "title": "C_DLC3",
   "description": "C_DLC3",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "c-dlc3generalaudience",
-  "offerType": "VIRTUAL_CURRENCY",
-  "creationDate": "2020-08-18T23:08:51.393Z",
-  "lastModifiedDate": "2023-08-03T00:55:27.891Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": false,
+  "keyImages": [],
+  "currentPrice": 999,
   "seller": {
     "id": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
     "name": "Bethesda Softworks LLC"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "spthidden/consumable"
-    },
-    {
-      "path": "spthidden"
-    },
-    {
-      "path": "games"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "c-dlc3generalaudience",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "61c26171ab2d4593bb9e141338e4d165",
+      "namespace": "435aaec1220447efbcfeb4f2abeb1027"
     }
   ],
   "customAttributes": [
@@ -73,13 +40,47 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "61c26171ab2d4593bb9e141338e4d165"
+      "path": "spthidden/consumable"
+    },
+    {
+      "path": "spthidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "435aaec1220447efbcfeb4f2abeb1027"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,36 +1,36 @@
 {
+  "title": "LilacDevAudience",
   "id": "05187ad3767e48819dccbef655dac38d",
   "namespace": "lilac",
-  "title": "LilacDevAudience",
   "description": "LilacDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "lilacdevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-01-16T13:16:34.131Z",
-  "lastModifiedDate": "2020-04-29T00:46:44.186Z",
   "effectiveDate": "2050-01-16T08:16:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/lilac/offer/TJPP2_CodeRedemption-340x440-3f8ef388e7349f608a79d61ee96b9b1a.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/lilac/offer/TJBPP2_Game Icon-400x400-7e3cd470e7b593604c7245cc8cafdeb7.png"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
     "name": "Jackbox Games, Inc."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "lilacdevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "6c0dca2bc78748c581722498bf08618e",
+      "namespace": "lilac"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "games"
@@ -39,34 +39,38 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/lilac/offer/TJPP2_CodeRedemption-340x440-3f8ef388e7349f608a79d61ee96b9b1a.jpg",
-      "md5": "3f8ef388e7349f608a79d61ee96b9b1a",
-      "size": 79039,
-      "uploadedDate": "2019-02-04T14:21:10.332Z",
-      "width": 340,
-      "height": 440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/lilac/offer/TJBPP2_Game Icon-400x400-7e3cd470e7b593604c7245cc8cafdeb7.png",
-      "md5": "7e3cd470e7b593604c7245cc8cafdeb7",
-      "size": 130806,
-      "uploadedDate": "2019-02-04T14:21:22.756Z",
-      "width": 400,
-      "height": 400
-    }
-  ],
-  "items": [
-    {
-      "id": "6c0dca2bc78748c581722498bf08618e"
-    }
-  ],
   "catalogNs": {
-    "name": "lilac"
-  }
+    "mappings": [
+      {
+        "pageSlug": "jackbox-party-pack-2",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

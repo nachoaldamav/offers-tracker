@@ -1,36 +1,41 @@
 {
+  "title": "JaguarDevAudience",
   "id": "e296ebc04b884153a141bf83ca495e9d",
   "namespace": "jaguar",
-  "title": "JaguarDevAudience",
   "description": "JaguarDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "jaguardevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2018-12-12T16:51:49.387Z",
-  "lastModifiedDate": "2020-04-29T00:38:38.497Z",
   "effectiveDate": "2018-12-12T11:51:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/jaguar/offer/20181120_SN_Epic_5_Portrait_Promo-1288x1450-67f4ca0e9f3906e8eabba048335963b8-1288x1450-67f4ca0e9f3906e8eabba048335963b8-1288x1450-67f4ca0e9f3906e8eabba048335963b8.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/jaguar/offer/20181120_SN_Epic_5_Portrait_Promo-1288x1450-67f4ca0e9f3906e8eabba048335963b8-340x440-887597aab0b08b00c006ace3435a91af.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-g4s9pbd6mu9e8uqn539s3xqk9yex92",
     "name": "Unknown Worlds Entertainment"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "jaguardevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "760fd4f4758443c4b54778a38194558d",
+      "namespace": "jaguar"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Unknown Worlds"
+    }
+  ],
   "categories": [
     {
       "path": "games"
@@ -39,39 +44,38 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "developerName",
-      "value": "Unknown Worlds"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/jaguar/offer/20181120_SN_Epic_5_Portrait_Promo-1288x1450-67f4ca0e9f3906e8eabba048335963b8-1288x1450-67f4ca0e9f3906e8eabba048335963b8-1288x1450-67f4ca0e9f3906e8eabba048335963b8.jpg",
-      "md5": "67f4ca0e9f3906e8eabba048335963b8",
-      "size": 284580,
-      "uploadedDate": "2018-12-14T15:45:48.088Z",
-      "width": 1288,
-      "height": 1450
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/jaguar/offer/20181120_SN_Epic_5_Portrait_Promo-1288x1450-67f4ca0e9f3906e8eabba048335963b8-340x440-887597aab0b08b00c006ace3435a91af.jpg",
-      "md5": "887597aab0b08b00c006ace3435a91af",
-      "size": 58033,
-      "uploadedDate": "2018-12-14T15:48:14.930Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "760fd4f4758443c4b54778a38194558d"
-    }
-  ],
   "catalogNs": {
-    "name": "jaguar"
-  }
+    "mappings": [
+      {
+        "pageSlug": "subnautica",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

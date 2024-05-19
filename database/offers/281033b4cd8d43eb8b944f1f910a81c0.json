@@ -1,50 +1,31 @@
 {
+  "title": "Tom Clancy's The Division 2 Open Beta",
   "id": "281033b4cd8d43eb8b944f1f910a81c0",
   "namespace": "impala",
-  "title": "Tom Clancy's The Division 2 Open Beta",
   "description": "Tom Clancy's The Division 2 Open Beta",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "tom-clancy-s-the-division-2-open-beta",
-  "offerType": "OTHERS",
-  "creationDate": "2019-02-25T20:52:09.457Z",
-  "lastModifiedDate": "2020-09-28T14:56:02.222Z",
   "effectiveDate": "2020-02-25T15:51:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "KR",
-    "BY",
-    "CN"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/impala/offer/TheDivision2_PurchaseCheckoutImage-1527x2808-3fff4cd384cbbd7c0abbbed8f38f470c.jpg"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "tom-clancy-s-the-division-2-open-beta",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "d437f076c518494a927ba5d35f901bc5",
+      "namespace": "impala"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "isUplay",
@@ -59,23 +40,66 @@
       "value": "true"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/impala/offer/TheDivision2_PurchaseCheckoutImage-1527x2808-3fff4cd384cbbd7c0abbbed8f38f470c.jpg",
-      "md5": "3fff4cd384cbbd7c0abbbed8f38f470c",
-      "size": 634427,
-      "uploadedDate": "2019-03-01T09:04:19.538Z",
-      "width": 1527,
-      "height": 2808
-    }
-  ],
-  "items": [
+      "path": "games"
+    },
     {
-      "id": "d437f076c518494a927ba5d35f901bc5"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "impala"
-  }
+    "mappings": [
+      {
+        "pageSlug": "the-division-2--warlords-of-new-york-expansion",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-division-2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-division-2--warlords-of-new-york-ultimate-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-division-2--trial",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-division-2--one-time-offer-pack-y5s2",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-division-2--one-time-offer-pack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-10-17T15:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

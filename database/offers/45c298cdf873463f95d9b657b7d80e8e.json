@@ -1,36 +1,32 @@
 {
+  "title": "MooseDevAudience",
   "id": "45c298cdf873463f95d9b657b7d80e8e",
   "namespace": "moose",
-  "title": "MooseDevAudience",
   "description": "MooseDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "moosedevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2018-12-12T17:27:48.573Z",
-  "lastModifiedDate": "2024-02-20T18:25:33.412Z",
   "effectiveDate": "2018-12-12T12:27:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-mj7q3aaq5djq6wuddnrr5mgqjsk2da",
     "name": "Team Meat"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "moosedevaudience",
+  "url": null,
+  "tags": [
+    {
+      "id": "19847",
+      "name": "Achievements"
+    }
+  ],
+  "items": [
+    {
+      "id": "38209bcb8fdd4514bdbb911911ad9390",
+      "namespace": "moose"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "games"
@@ -39,28 +35,38 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
-      "status": "ACTIVE",
-      "referenceCount": 3628,
-      "comment": ""
-    }
-  ],
-  "customAttributes": [],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "38209bcb8fdd4514bdbb911911ad9390"
-    }
-  ],
   "catalogNs": {
-    "name": "moose"
-  }
+    "mappings": [
+      {
+        "pageSlug": "super-meat-boy-forever",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

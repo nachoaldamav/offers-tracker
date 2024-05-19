@@ -1,45 +1,31 @@
 {
+  "title": "EmuDevAudience",
   "id": "616248760f544c3f864ca540ac790002",
   "namespace": "8a6a94901c8248fca1f5c78931c85cbd",
-  "title": "EmuDevAudience",
   "description": "EmuDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "emudevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-10-01T23:32:54.517Z",
-  "lastModifiedDate": "2024-03-07T17:46:05.393Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/8a6a94901c8248fca1f5c78931c85cbd/offer/SOMA_portrait-1280x1440-f87e5302e425c7fb4aec8cd79953c779.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-aclcw9pm582trqsqg66qfkfp9u9nw7",
     "name": "Frictional Games"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "emudevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "027edcac9e4a4d639f2c7ccdf9f6cabc",
+      "namespace": "8a6a94901c8248fca1f5c78931c85cbd"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -50,23 +36,46 @@
       "value": "Frictional Games"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/8a6a94901c8248fca1f5c78931c85cbd/offer/SOMA_portrait-1280x1440-f87e5302e425c7fb4aec8cd79953c779.jpg",
-      "md5": "f87e5302e425c7fb4aec8cd79953c779",
-      "size": 125843,
-      "uploadedDate": "2019-10-22T19:11:12.933Z",
-      "width": 1280,
-      "height": 1440
-    }
-  ],
-  "items": [
+      "path": "games"
+    },
     {
-      "id": "027edcac9e4a4d639f2c7ccdf9f6cabc"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "8a6a94901c8248fca1f5c78931c85cbd"
-  }
+    "mappings": [
+      {
+        "pageSlug": "soma",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

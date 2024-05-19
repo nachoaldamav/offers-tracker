@@ -1,39 +1,32 @@
 {
+  "title": "DevCherryAudience",
   "id": "3cebd18182e14a71a2a87dbbeb73e186",
   "namespace": "54090fbc182e44d79b2872f24994c190",
-  "title": "DevCherryAudience",
   "description": "DevCherryAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "devcherryaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2020-08-06T15:50:14.345Z",
-  "lastModifiedDate": "2021-03-11T15:18:57.269Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": "2099-01-01T00:00:00.000Z",
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "devcherryaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "b283845a359740299e9e6900895dd5ed",
+      "namespace": "54090fbc182e44d79b2872f24994c190"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    }
+  ],
   "categories": [
     {
       "path": "games"
@@ -42,20 +35,38 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "[]"
-    }
-  ],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "b283845a359740299e9e6900895dd5ed"
-    }
-  ],
   "catalogNs": {
-    "name": "54090fbc182e44d79b2872f24994c190"
-  }
+    "mappings": [
+      {
+        "pageSlug": "splinter-cell",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

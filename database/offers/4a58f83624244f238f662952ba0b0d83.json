@@ -1,65 +1,42 @@
 {
+  "title": "State of Decay 2: Juggernaut Edition",
   "id": "4a58f83624244f238f662952ba0b0d83",
   "namespace": "epic",
-  "title": "State of Decay 2: Juggernaut Edition",
   "description": "State of Decay 2: Juggernaut Edition",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "state-of-decay-2-juggernaut-edition/home",
-  "urlSlug": "state-of-decay",
-  "offerType": "OTHERS",
-  "creationDate": "2020-03-05T22:19:34.270Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
   "effectiveDate": "2020-03-05T16:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_StateofDecay2JuggernautEdition_UndeadLabs_S1-2560x1440-a511367776edbdaf619fc594bf173fc9.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_StateofDecay2JuggernautEdition_UndeadLabs_S2-860x1148-13ba1a38ea2f8c924cb636059bc28aec.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-f3qq8ygts6pglxx529jhgx5bmyj6bf",
     "name": "Microsoft"
   },
-  "linkedOfferId": "73fbe4d673504c2a80261cf6bfcff20f",
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": "state-of-decay-2-juggernaut-edition/home",
+  "urlSlug": "state-of-decay",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
     },
     {
       "id": "1117",
-      "name": "Adventure",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2023-08-23T02:16:39.269Z",
-      "status": "ACTIVE",
-      "referenceCount": 1473,
-      "comment": null
+      "name": "Adventure"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -84,32 +61,38 @@
       "value": "73fbe4d673504c2a80261cf6bfcff20f"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_StateofDecay2JuggernautEdition_UndeadLabs_S1-2560x1440-a511367776edbdaf619fc594bf173fc9.jpg",
-      "md5": "a511367776edbdaf619fc594bf173fc9",
-      "size": 409640,
-      "uploadedDate": "2020-03-05T22:19:15.188Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_StateofDecay2JuggernautEdition_UndeadLabs_S2-860x1148-13ba1a38ea2f8c924cb636059bc28aec.jpg",
-      "md5": "13ba1a38ea2f8c924cb636059bc28aec",
-      "size": 475611,
-      "uploadedDate": "2020-03-05T22:19:26.265Z",
-      "width": 860,
-      "height": 1148
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-03-04T16:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

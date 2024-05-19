@@ -1,38 +1,27 @@
 {
+  "title": "OCN Fake Offer",
   "id": "bb6b555da55b424d8fee405577586000",
   "namespace": "ocn",
-  "title": "OCN Fake Offer",
   "description": "OCN Fake Offer",
-  "longDescription": "",
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "ocndevplaytest",
-  "offerType": "OTHERS",
-  "creationDate": "2015-07-30T17:33:22.310Z",
-  "lastModifiedDate": "2017-06-20T21:00:00.816Z",
   "effectiveDate": "2015-07-30T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": "2015-07-30T00:00:00.000Z",
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": false,
+  "keyImages": [],
+  "currentPrice": 100000,
   "seller": {
     "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
     "name": "Epic Games"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "ocndevplaytest",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "b36aee54fcb146de9e84b76fad034d08",
+      "namespace": "ocn"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "games"
@@ -41,15 +30,33 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "b36aee54fcb146de9e84b76fad034d08"
-    }
-  ],
   "catalogNs": {
-    "name": "ocn"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 100000,
+      "originalPrice": 100000,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": "2015-07-30T00:00:00.000Z",
+  "approximateReleasePlan": null
 }

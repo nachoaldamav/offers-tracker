@@ -1,36 +1,41 @@
 {
+  "title": "MarmosetDevAudience",
   "id": "e519ba91d72f445e843c261787d0dfea",
   "namespace": "marmoset",
-  "title": "MarmosetDevAudience",
   "description": "MarmosetDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "marmosetdevaudience-01",
-  "offerType": "OTHERS",
-  "creationDate": "2019-02-14T03:39:29.204Z",
-  "lastModifiedDate": "2020-04-29T00:38:37.910Z",
   "effectiveDate": "2020-02-13T22:38:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/marmoset/offer/CodeRedemptionRebelGalaxyOutlaw-340x440-22d6b094c29e72bb55249f77f0ed2c09.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/marmoset/offer/CodeRedemptionRebelGalaxyOutlaw-340x440-22d6b094c29e72bb55249f77f0ed2c09.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-7kk95dlwa9mep5kfkubrgmp9qkwbt4",
     "name": "Double Damage Games, Inc"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "marmosetdevaudience-01",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "a816f967405946599b73165c552310d3",
+      "namespace": "marmoset"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Double Damage Games"
+    }
+  ],
   "categories": [
     {
       "path": "games"
@@ -39,39 +44,38 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "developerName",
-      "value": "Double Damage Games"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/marmoset/offer/CodeRedemptionRebelGalaxyOutlaw-340x440-22d6b094c29e72bb55249f77f0ed2c09.jpg",
-      "md5": "22d6b094c29e72bb55249f77f0ed2c09",
-      "size": 140524,
-      "uploadedDate": "2019-07-17T18:32:45.466Z",
-      "width": 340,
-      "height": 440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/marmoset/offer/CodeRedemptionRebelGalaxyOutlaw-340x440-22d6b094c29e72bb55249f77f0ed2c09.jpg",
-      "md5": "22d6b094c29e72bb55249f77f0ed2c09",
-      "size": 140524,
-      "uploadedDate": "2019-07-17T18:32:52.365Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "a816f967405946599b73165c552310d3"
-    }
-  ],
   "catalogNs": {
-    "name": "marmoset"
-  }
+    "mappings": [
+      {
+        "pageSlug": "rebel-galaxy-outlaw",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

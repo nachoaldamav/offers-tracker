@@ -1,56 +1,38 @@
 {
+  "title": "DLC1 Hoopoe Offer",
   "id": "824bccb1f4a94c06bd9f2c4aeefa592b",
   "namespace": "b9def67e597b4be7a16146146a044d02",
-  "title": "DLC1 Hoopoe Offer",
   "description": "DLC1 Hoopoe Offer",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "hoopoegeneralaudience-01",
-  "offerType": "BASE_GAME",
-  "creationDate": "2020-02-17T21:06:28.215Z",
-  "lastModifiedDate": "2020-02-17T21:12:36.572Z",
   "effectiveDate": "2019-12-09T11:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/item/RP_FOR_E-842x404-fce4fa7233ed80170a8e36079d1e1bde.png"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/item/S2-Store-Primary-Promo-1280x1440-9ed9999a41eda751681e392016d636ba.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-muad9pj32k67stc4ycpgpplwq84sgq",
     "name": "Piranha Games"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "hoopoegeneralaudience-01",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "edc16574364542a7b3ee7012f4b595fb",
+      "namespace": "b9def67e597b4be7a16146146a044d02"
     }
   ],
   "customAttributes": [
@@ -63,32 +45,86 @@
       "value": "Piranha Games"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/item/RP_FOR_E-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
-      "md5": "fce4fa7233ed80170a8e36079d1e1bde",
-      "size": 51194,
-      "uploadedDate": "2019-07-24T21:07:05.943Z",
-      "width": 842,
-      "height": 404
+      "path": "games"
     },
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/item/S2-Store-Primary-Promo-1280x1440-9ed9999a41eda751681e392016d636ba.jpg",
-      "md5": "9ed9999a41eda751681e392016d636ba",
-      "size": 381963,
-      "uploadedDate": "2019-10-22T09:41:44.790Z",
-      "width": 1280,
-      "height": 1440
-    }
-  ],
-  "items": [
-    {
-      "id": "edc16574364542a7b3ee7012f4b595fb"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "b9def67e597b4be7a16146146a044d02"
-  }
+    "mappings": [
+      {
+        "pageSlug": "mechwarrior-5--digital-extras",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "mechwarrior-5--mod-editor",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "mechwarrior-5",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "mechwarrior-5--legend-of-the-kestrel-lancers",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "mechwarrior-5--digital-deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "mechwarrior-5--jumpship-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "mechwarrior-5--heroes-of-the-inner-sphere",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "mechwarrior-5--call-to-arms",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "mechwarrior-5--rise-of-rasalhague",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "mechwarrior-5--the-dragons-gambit",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "mechwarrior-5--solaris-showdown",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2019-12-10T11:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

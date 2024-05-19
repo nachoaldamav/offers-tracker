@@ -1,75 +1,98 @@
 {
+  "title": "Viewable Date before now game2 with one tag",
   "id": "1a399e95e17843b8a7ae63a3c88946e8",
   "namespace": "SeaQA",
-  "title": "Viewable Date before now game2 with one tag",
   "description": "Viewable Date before now  game2 Desc",
-  "longDescription": "Viewable Date before now  game2 long desc",
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "create-item-for-priceengine-09",
-  "offerType": "BASE_GAME",
-  "creationDate": "2021-03-09T14:13:39.764Z",
-  "lastModifiedDate": "2024-04-16T05:35:38.479Z",
   "effectiveDate": "2029-12-27T16:00:00.000Z",
-  "pcReleaseDate": "2021-03-31T20:31:00.000Z",
-  "publisherDisplayName": "Viewable Date before now game2  Publisher Display Name",
-  "countriesBlacklist": [
-    "CN"
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/SeaQA/offer/CodeRedemptionTheCycle-340x440-025af08795b0b918ea20b39b850c830b-340x440-025af08795b0b918ea20b39b850c830b.png"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2020-04-23T18:53:00.000Z",
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 1599,
   "seller": {
     "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
     "name": "Epic Games"
   },
-  "linkedOfferId": null,
-  "isFeatured": true,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": "Viewable Date before now  game2 tech info",
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "create-item-for-priceengine-09",
+  "url": null,
+  "tags": [
+    {
+      "id": null,
+      "name": null
+    }
+  ],
+  "items": [
+    {
+      "id": "1040403ae8aa4a79be5ceb8570c20ca1",
+      "namespace": "SeaQA"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "testing"
     }
   ],
-  "tags": [
-    {
-      "id": null,
-      "name": null,
-      "namespace": null,
-      "aliases": null,
-      "operator": null,
-      "created": null,
-      "updated": null,
-      "status": null,
-      "referenceCount": null,
-      "comment": null
-    }
-  ],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/SeaQA/offer/CodeRedemptionTheCycle-340x440-025af08795b0b918ea20b39b850c830b-340x440-025af08795b0b918ea20b39b850c830b.png",
-      "md5": "025af08795b0b918ea20b39b850c830b",
-      "size": 296461,
-      "uploadedDate": "2019-10-26T19:01:25.414Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "1040403ae8aa4a79be5ceb8570c20ca1"
-    }
-  ],
   "catalogNs": {
-    "name": "SeaQA"
-  }
+    "mappings": [
+      {
+        "pageSlug": "test-test",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "hello-test",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hello-test0",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "testlkj",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "testlkj-i",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "testlkj-i-test",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "dev-test",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": "Viewable Date before now game2 Developer Display Name",
+  "publisherDisplayName": "Viewable Date before now game2  Publisher Display Name",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1599,
+      "originalPrice": 1599,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": false,
+  "releaseDate": "2030-03-19T16:58:00.000Z",
+  "pcReleaseDate": "2021-03-31T20:31:00.000Z",
+  "viewableDate": "2020-04-23T18:53:00.000Z",
+  "approximateReleasePlan": null
 }

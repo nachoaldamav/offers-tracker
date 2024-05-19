@@ -1,56 +1,32 @@
 {
+  "title": "4375 Realm Gold",
   "id": "01ad468e35394843b12669930a6972e9",
   "namespace": "315f40c8c7ae4f95ad7426f364a39194",
-  "title": "4375 Realm Gold",
   "description": "4375 Realm Gold",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "4375realmgold",
-  "offerType": "VIRTUAL_CURRENCY",
-  "creationDate": "2022-11-03T13:22:02.420Z",
-  "lastModifiedDate": "2023-08-03T00:11:51.506Z",
   "effectiveDate": "2022-11-30T18:00:00.000Z",
-  "pcReleaseDate": "2022-11-30T18:00:00.000Z",
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "MM",
-    "HK",
-    "TW",
-    "IN",
-    "JP",
-    "KR",
-    "CN",
-    "NZ",
-    "MY",
-    "BN",
-    "AU",
-    "SG",
-    "TH",
-    "LA",
-    "PH",
-    "VN",
-    "TL",
-    "ID",
-    "KH"
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/315f40c8c7ae4f95ad7426f364a39194/EGS_Fangs_HiddenLeafGames_S2_1200x1600-2424ccfe1312106fb878a7aefc3817c0"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": "2022-11-30T18:00:00.000Z",
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 3499,
   "seller": {
     "id": "o-a3s6znyqjjwdzbyzumkvna5lgghqfq",
     "name": "Hidden Leaf Studios"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "4375realmgold",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "c4d7e2f1386843bc85630d59c1f2b53f",
+      "namespace": "315f40c8c7ae4f95ad7426f364a39194"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "spthidden/consumable"
@@ -62,25 +38,42 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/315f40c8c7ae4f95ad7426f364a39194/EGS_Fangs_HiddenLeafGames_S2_1200x1600-2424ccfe1312106fb878a7aefc3817c0",
-      "md5": "2424ccfe1312106fb878a7aefc3817c0",
-      "size": 842142,
-      "uploadedDate": "2022-11-30T00:10:31.650Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "c4d7e2f1386843bc85630d59c1f2b53f"
-    }
-  ],
   "catalogNs": {
-    "name": "315f40c8c7ae4f95ad7426f364a39194"
-  }
+    "mappings": [
+      {
+        "pageSlug": "fangs--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "fangs",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3499,
+      "originalPrice": 3499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2022-11-30T18:00:00.000Z",
+  "pcReleaseDate": "2022-11-30T18:00:00.000Z",
+  "viewableDate": "2022-11-30T18:00:00.000Z",
+  "approximateReleasePlan": null
 }

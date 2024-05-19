@@ -1,36 +1,32 @@
 {
+  "title": "1000 Audience",
   "id": "42f3df8d4bef412b841e66e243ac2935",
   "namespace": "45baf6c4e5df46f0b21593d5b2268769",
-  "title": "1000 Audience",
   "description": "1000 Audience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "reykjavikgeneralaudience-02",
-  "offerType": "VIRTUAL_CURRENCY",
-  "creationDate": "2020-11-02T14:42:23.522Z",
-  "lastModifiedDate": "2023-08-03T00:21:53.349Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": "2099-01-01T00:00:00.000Z",
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": "2019-01-01T00:00:00.000Z",
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": false,
+  "keyImages": [],
+  "currentPrice": 660,
   "seller": {
     "id": "o-ryelu2twnhbef3b9dncwtqh38emq5n",
     "name": "Gaijin Distribution KFT"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "reykjavikgeneralaudience-02",
+  "url": null,
+  "tags": [
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "6b22619c9a12495d87bb4c1a1ed1b417",
+      "namespace": "45baf6c4e5df46f0b21593d5b2268769"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "spthidden/consumable"
@@ -45,28 +41,33 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
-    }
-  ],
-  "customAttributes": [],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "6b22619c9a12495d87bb4c1a1ed1b417"
-    }
-  ],
   "catalogNs": {
-    "name": "45baf6c4e5df46f0b21593d5b2268769"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 660,
+      "originalPrice": 660,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": "2019-01-01T00:00:00.000Z",
+  "approximateReleasePlan": null
 }

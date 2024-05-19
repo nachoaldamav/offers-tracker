@@ -1,68 +1,46 @@
 {
+  "title": "Random Rune",
   "id": "6335d70b05ff405cbca7d6346caede90",
   "namespace": "a702c4e086e143e39a95456fa7832719",
-  "title": "Random Rune",
   "description": "Grants one random rune.",
-  "longDescription": "<!--textBlock-->\n<!--title-->\n# Random Rune\n<!--text-->\nGrants one random rune.\n",
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "random-rune",
-  "offerType": "VIRTUAL_CURRENCY",
-  "creationDate": "2024-02-19T01:20:25.190Z",
-  "lastModifiedDate": "2024-03-14T22:45:49.957Z",
   "effectiveDate": "2024-03-05T16:00:00.000Z",
-  "pcReleaseDate": "2023-01-19T16:00:00.000Z",
-  "publisherDisplayName": "Marc Studio",
-  "countriesBlacklist": [
-    "BR",
-    "RU",
-    "AU"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": "2024-02-27T15:19:13.785Z",
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "hailot-random-rune-0f3980"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/fa33f0e7aebd433391060a932da266ee/hailot-1y8b3.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/fa33f0e7aebd433391060a932da266ee/hailot-18bph.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/spt-assets/fa33f0e7aebd433391060a932da266ee/hailot-18bph.png"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/fa33f0e7aebd433391060a932da266ee/hailot-1f0fw.png"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "hailot-random-rune-0f3980"
-    }
-  ],
+  "currentPrice": 329,
   "seller": {
     "id": "o-ccw8xp9vpahvpj4uxhx4hg6xfgjx75",
     "name": "Marc Studio"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "spthidden/consumable"
-    },
-    {
-      "path": "spthidden"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "random-rune",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "f383fb4e7649454fa46dd631e464a957",
+      "namespace": "a702c4e086e143e39a95456fa7832719"
     }
   ],
   "customAttributes": [
@@ -87,50 +65,107 @@
       "value": "false"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/fa33f0e7aebd433391060a932da266ee/hailot-1y8b3.png",
-      "md5": "481a6610611261e9a4e0d411ef9b665d",
-      "size": 281849,
-      "uploadedDate": "2024-02-19T08:05:46.115Z",
-      "width": 2560,
-      "height": 1440
+      "path": "spthidden/consumable"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/fa33f0e7aebd433391060a932da266ee/hailot-18bph.png",
-      "md5": "a9ffb2d12ec2caf53dc2f53ac61a0814",
-      "size": 264374,
-      "uploadedDate": "2024-02-19T08:05:46.978Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/fa33f0e7aebd433391060a932da266ee/hailot-18bph.png",
-      "md5": "a9ffb2d12ec2caf53dc2f53ac61a0814",
-      "size": 264374,
-      "uploadedDate": "2024-02-19T08:05:46.978Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/fa33f0e7aebd433391060a932da266ee/hailot-1f0fw.png",
-      "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 337114,
-      "uploadedDate": "2024-02-19T08:06:20.331Z",
-      "width": 1920,
-      "height": 1080
-    }
-  ],
-  "items": [
-    {
-      "id": "f383fb4e7649454fa46dd631e464a957"
+      "path": "spthidden"
     }
   ],
   "catalogNs": {
-    "name": "a702c4e086e143e39a95456fa7832719"
-  }
+    "mappings": [
+      {
+        "pageSlug": "hailot-7a5a5f",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "hailot-1200g-157162",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hailot-random-rune-0f3980",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hailot-faq-29cf75",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "hailot-60-gold-2ff511",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hailot-gnosis-scroll-9a16dd",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hailot-440-gold-4207fd",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hailot-premium-pass-765608",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hailot-enhance-arster-e53732",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hailot-2500-gold-561580",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hailot-rune-edition-7fea46",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hailot-210-gold-3a7646",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hailot-reroll-coin-691083",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hailot-1200-gold-4a5f74",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hailot-level-starter-89f22d",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "hailot-random-rune-0f3980",
+      "pageType": "offer"
+    }
+  ],
+  "developerDisplayName": "Marc Studio",
+  "publisherDisplayName": "Marc Studio",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 329,
+      "originalPrice": 329,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2024-03-05T16:00:00.000Z",
+  "pcReleaseDate": "2023-01-19T16:00:00.000Z",
+  "viewableDate": "2024-02-27T15:19:13.785Z",
+  "approximateReleasePlan": null
 }

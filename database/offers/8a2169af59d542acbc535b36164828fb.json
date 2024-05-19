@@ -1,36 +1,36 @@
 {
+  "title": "RUNE II ESDF Access",
   "id": "8a2169af59d542acbc535b36164828fb",
   "namespace": "cosmos",
-  "title": "RUNE II ESDF Access",
   "description": "RUNE II ESDF Access",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "cosmos-esdf-access",
-  "offerType": "OTHERS",
-  "creationDate": "2019-05-18T00:38:17.595Z",
-  "lastModifiedDate": "2023-08-18T09:54:57.669Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/cosmos/offer/CodeRedemption_Rune2-340x440-f08e22c1d9e2df849a51bbab19de7627-340x440-f08e22c1d9e2df849a51bbab19de7627.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/cosmos/offer/CodeRedemption_Rune2-340x440-f08e22c1d9e2df849a51bbab19de7627-340x440-f08e22c1d9e2df849a51bbab19de7627.png"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-peysvmw9hg6a5s86ehl8a5dbz8fddp",
     "name": "Ragnarok Game, LLC"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "cosmos-esdf-access",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "8a143b27d7204a28b27f75696aa4237a",
+      "namespace": "cosmos"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "games"
@@ -39,34 +39,62 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/cosmos/offer/CodeRedemption_Rune2-340x440-f08e22c1d9e2df849a51bbab19de7627-340x440-f08e22c1d9e2df849a51bbab19de7627.png",
-      "md5": "f08e22c1d9e2df849a51bbab19de7627",
-      "size": 222894,
-      "uploadedDate": "2019-05-29T22:59:27.023Z",
-      "width": 340,
-      "height": 440
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/cosmos/offer/CodeRedemption_Rune2-340x440-f08e22c1d9e2df849a51bbab19de7627-340x440-f08e22c1d9e2df849a51bbab19de7627.png",
-      "md5": "f08e22c1d9e2df849a51bbab19de7627",
-      "size": 222894,
-      "uploadedDate": "2019-05-29T22:59:33.705Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "8a143b27d7204a28b27f75696aa4237a"
-    }
-  ],
   "catalogNs": {
-    "name": "cosmos"
-  }
+    "mappings": [
+      {
+        "pageSlug": "rune-2--godslayer",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "rune-2--berserker",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "rune-2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "rune-2--god-slayer-upgrade-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "rune-2--wolf-gear-set",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "rune-2--berserker-rage-upgrade-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "rune-2--dragon-armor-set",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

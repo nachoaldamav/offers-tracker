@@ -1,46 +1,73 @@
 {
+  "title": "3DMark VRS feature test",
   "id": "192d38c8e90e41a7a7cb6fd935da7271",
   "namespace": "a3899e1cdcd643009009e119e9b955f7",
-  "title": "3DMark VRS feature test",
   "description": "This 3DMark feature test helps you compare differences in performance and image quality when using Tier 1 or Tier 2 Variable Rate Shading.  ",
-  "longDescription": "# About the 3DMark VRS feature test\n\nVariable Rate Shading (VRS) is a new feature in DirectX 12 that allows developers to improve performance by selectively reducing the level of detail in parts of the frame where there will be little noticeable effect on image quality.\n\nThere are two tiers of VRS support. With Tier 1, developers can specify a different shading rate for each draw call. Tier 2 adds more flexibility and control by allowing different shading rates within each draw call.\n\nThis 3DMark feature test helps you compare differences in performance and image quality when using Tier 1 or Tier 2 Variable Rate Shading. There is also an interactive mode for experimenting with different VRS settings and exporting frames for comparison.\n\n- Compare performance and image quality with Variable Rate Shading.\n- Separate tests for Tier 1 and Tier 2.\n- DirectX 12 API implementation for impartial results.\n- Interactive mode for experimenting with VRS settings.\n\n# VRS feature test system requirements\n\n**OS:** Windows 10 version 1903 or later\n**Processor: **Dual-core processor\n**Memory:** 4 GB\n**Graphics:** DirectX 12*\n**Video memory:** 1 GB\n**Storage:** 720 MB\n\n* To run the Tier 1 test you need a DirectX 12 GPU that supports Tier 1 Variable Rate Shading. You need a GPU that supports Tier 2 Variable Rate Shading to run the Tier 2 test.",
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "3dmark--vrs-feature-test",
-  "offerType": "DLC",
-  "creationDate": "2023-01-26T15:07:48.506Z",
-  "lastModifiedDate": "2023-06-26T13:19:36.162Z",
   "effectiveDate": "2023-06-20T13:00:00.000Z",
-  "pcReleaseDate": "2013-02-04T18:00:00.000Z",
-  "publisherDisplayName": "UL Solutions",
-  "countriesBlacklist": [
-    "RU"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "REFUNDABLE",
-  "viewableDate": "2023-06-20T13:00:00.000Z",
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "3dmark--vrs-feature-test"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkVRSfeaturetest_ULSolutions_DLC_S2_1200x1600-6c8ba360b2664f636235d82e1189545b"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkVRSfeaturetest_ULSolutions_DLC_S1_2560x1440-c32539450edacd35c5cca513ea5f31be"
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkVRSfeaturetest_ULSolutions_DLC_IC1_200x80-d5686412d10aa41d0733cd3f4d2fd8e5"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkVRSfeaturetest_ULSolutions_DLC_S2_1200x1600-6c8ba360b2664f636235d82e1189545b"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkVRSfeaturetest_ULSolutions_DLC_G1A_00_1920x1080-074c42b2d5d0cb093e23ae4fb1846d4d"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkVRSfeaturetest_ULSolutions_DLC_G1A_01_1920x1080-188a71485e034f43e1e79e59fa0d9064"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkVRSfeaturetest_ULSolutions_DLC_G1A_02_1920x1080-945d482d4c233239b70b8f2014852767"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkVRSfeaturetest_ULSolutions_DLC_G1A_03_1920x1080-f7e37ef1e61ae620985f9cfa750557f1"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkVRSfeaturetest_ULSolutions_DLC_G1A_04_1920x1080-870512a9605aaf6cd641c8c288a8695f"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkVRSfeaturetest_ULSolutions_DLC_G1A_05_1920x1080-a66c57a80354eb0bd8eafb2661f311d5"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "3dmark--vrs-feature-test"
-    }
-  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-8mezcp6bccb7t8n6k9m3mexen2yh99",
     "name": "UL"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "3dmark--vrs-feature-test",
+  "url": null,
+  "tags": [
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "cd61edc1a5af465087a62b1ae6f6d02b",
+      "namespace": "a3899e1cdcd643009009e119e9b955f7"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "addons"
@@ -52,119 +79,111 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
-    }
-  ],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkVRSfeaturetest_ULSolutions_DLC_S2_1200x1600-6c8ba360b2664f636235d82e1189545b",
-      "md5": "6c8ba360b2664f636235d82e1189545b",
-      "size": 779506,
-      "uploadedDate": "2023-05-08T11:38:13.632Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkVRSfeaturetest_ULSolutions_DLC_S1_2560x1440-c32539450edacd35c5cca513ea5f31be",
-      "md5": "c32539450edacd35c5cca513ea5f31be",
-      "size": 956107,
-      "uploadedDate": "2023-05-08T11:38:16.662Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "ProductLogo",
-      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkVRSfeaturetest_ULSolutions_DLC_IC1_200x80-d5686412d10aa41d0733cd3f4d2fd8e5",
-      "md5": "d5686412d10aa41d0733cd3f4d2fd8e5",
-      "size": 2832,
-      "uploadedDate": "2023-05-08T11:38:18.943Z",
-      "width": 200,
-      "height": 80
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkVRSfeaturetest_ULSolutions_DLC_S2_1200x1600-6c8ba360b2664f636235d82e1189545b",
-      "md5": "6c8ba360b2664f636235d82e1189545b",
-      "size": 779506,
-      "uploadedDate": "2023-05-08T11:38:22.621Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkVRSfeaturetest_ULSolutions_DLC_G1A_00_1920x1080-074c42b2d5d0cb093e23ae4fb1846d4d",
-      "md5": "074c42b2d5d0cb093e23ae4fb1846d4d",
-      "size": 767219,
-      "uploadedDate": "2023-05-08T11:38:25.241Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkVRSfeaturetest_ULSolutions_DLC_G1A_01_1920x1080-188a71485e034f43e1e79e59fa0d9064",
-      "md5": "188a71485e034f43e1e79e59fa0d9064",
-      "size": 888421,
-      "uploadedDate": "2023-05-08T11:38:27.905Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkVRSfeaturetest_ULSolutions_DLC_G1A_02_1920x1080-945d482d4c233239b70b8f2014852767",
-      "md5": "945d482d4c233239b70b8f2014852767",
-      "size": 534692,
-      "uploadedDate": "2023-05-08T11:38:31.166Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkVRSfeaturetest_ULSolutions_DLC_G1A_03_1920x1080-f7e37ef1e61ae620985f9cfa750557f1",
-      "md5": "f7e37ef1e61ae620985f9cfa750557f1",
-      "size": 681361,
-      "uploadedDate": "2023-05-08T11:38:33.840Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkVRSfeaturetest_ULSolutions_DLC_G1A_04_1920x1080-870512a9605aaf6cd641c8c288a8695f",
-      "md5": "870512a9605aaf6cd641c8c288a8695f",
-      "size": 731015,
-      "uploadedDate": "2023-05-08T11:38:36.453Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkVRSfeaturetest_ULSolutions_DLC_G1A_05_1920x1080-a66c57a80354eb0bd8eafb2661f311d5",
-      "md5": "a66c57a80354eb0bd8eafb2661f311d5",
-      "size": 724479,
-      "uploadedDate": "2023-05-08T11:38:38.994Z",
-      "width": 1920,
-      "height": 1080
-    }
-  ],
-  "items": [
-    {
-      "id": "cd61edc1a5af465087a62b1ae6f6d02b"
-    }
-  ],
   "catalogNs": {
-    "name": "a3899e1cdcd643009009e119e9b955f7"
-  }
+    "mappings": [
+      {
+        "pageSlug": "3dmark--port-royal",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--cpu-profile",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--wild-life",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--sampler-feedback-feature-test",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--cloud-gate",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--api-overhead-feature-test",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--storage",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--night-raid",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--speed-way",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--time-spy",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--vrs-feature-test",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--pci-express-feature-test",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--ice-storm",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--fire-strike",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--sky-diver",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--mesh-shader-feature-test",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "3dmark--solar-bay-benchmarks",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "3dmark--vrs-feature-test",
+      "pageType": "addon--cms-hybrid"
+    }
+  ],
+  "developerDisplayName": "UL Solutions",
+  "publisherDisplayName": "UL Solutions",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2023-06-20T13:00:00.000Z",
+  "pcReleaseDate": "2013-02-04T18:00:00.000Z",
+  "viewableDate": "2023-06-20T13:00:00.000Z",
+  "approximateReleasePlan": null
 }

@@ -1,40 +1,41 @@
 {
+  "title": "HibiscusDevAudience",
   "id": "d6f14687bdfe4e0c9f1e83bf885148d3",
   "namespace": "hibiscus",
-  "title": "HibiscusDevAudience",
   "description": "HibiscusDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "hibiscusdevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-01-29T20:52:11.214Z",
-  "lastModifiedDate": "2020-04-29T00:46:44.661Z",
   "effectiveDate": "2019-04-30T15:50:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY",
-    "KR"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/hibiscus/offer/Oxenfree_CodeRedemption_340_440-340x440-fc8de2104d92803ca36981722f362ca5.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/hibiscus/offer/Oxenfree_GameIcon-400x400-019409d73dc5cc58767c7b09f3ee42b7.png"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-8bhctnyt9qetgnjd4nssqse58c2589",
     "name": "Night School Studio, LLC"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "hibiscusdevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "1c6e0dc608e2470a8a737274eb0cab54",
+      "namespace": "hibiscus"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "SupportedPlatforms",
+      "value": "Windows,Mac"
+    }
+  ],
   "categories": [
     {
       "path": "games"
@@ -43,39 +44,38 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "SupportedPlatforms",
-      "value": "Windows,Mac"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/hibiscus/offer/Oxenfree_CodeRedemption_340_440-340x440-fc8de2104d92803ca36981722f362ca5.png",
-      "md5": "fc8de2104d92803ca36981722f362ca5",
-      "size": 156355,
-      "uploadedDate": "2019-03-04T18:50:37.635Z",
-      "width": 340,
-      "height": 440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/hibiscus/offer/Oxenfree_GameIcon-400x400-019409d73dc5cc58767c7b09f3ee42b7.png",
-      "md5": "019409d73dc5cc58767c7b09f3ee42b7",
-      "size": 44417,
-      "uploadedDate": "2019-03-04T18:50:45.748Z",
-      "width": 400,
-      "height": 400
-    }
-  ],
-  "items": [
-    {
-      "id": "1c6e0dc608e2470a8a737274eb0cab54"
-    }
-  ],
   "catalogNs": {
-    "name": "hibiscus"
-  }
+    "mappings": [
+      {
+        "pageSlug": "oxenfree",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

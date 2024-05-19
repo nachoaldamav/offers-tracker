@@ -1,101 +1,54 @@
 {
+  "title": "Predator: Hunting Grounds",
   "id": "4dcdadc910184b389b064f0454ee97bd",
   "namespace": "epic",
-  "title": "Predator: Hunting Grounds",
   "description": "Predator: Hunting Grounds",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "predator-hunting-grounds/home",
-  "urlSlug": "predator-hunting-grounds",
-  "offerType": "OTHERS",
-  "creationDate": "2019-12-09T18:42:58.001Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
   "effectiveDate": "2019-12-09T14:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/CRE1089_Predator_EpicStore_2560x1440_001-2560x1440-e62fa18a59b9ae27cd6ce93eb7935c6c.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/CRE1089_Predator_EpicStore_2560x1440_001-2560x1440-e62fa18a59b9ae27cd6ce93eb7935c6c.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
     "name": "Sony Interactive Entertainment"
   },
-  "linkedOfferId": "584b01b83de04d679c2340d8556f47f4",
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": "predator-hunting-grounds/home",
+  "urlSlug": "predator-hunting-grounds",
+  "url": null,
   "tags": [
     {
       "id": "1216",
-      "name": "Action",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-08-23T05:17:12.937Z",
-      "status": "ACTIVE",
-      "referenceCount": 2167,
-      "comment": null
+      "name": "Action"
     },
     {
       "id": "1090",
-      "name": "Tactical",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:03.235Z",
-      "updated": "2021-02-05T16:12:25.015Z",
-      "status": "ACTIVE",
-      "referenceCount": 1,
-      "comment": null
+      "name": "Tactical"
     },
     {
       "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2024-03-28T21:49:29.573Z",
-      "status": "ACTIVE",
-      "referenceCount": 1846,
-      "comment": null
+      "name": "Multiplayer"
     },
     {
       "id": "1210",
-      "name": "Shooter",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2023-08-23T00:14:55.836Z",
-      "status": "ACTIVE",
-      "referenceCount": 799,
-      "comment": null
+      "name": "Shooter"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -120,32 +73,38 @@
       "value": "584b01b83de04d679c2340d8556f47f4"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/CRE1089_Predator_EpicStore_2560x1440_001-2560x1440-e62fa18a59b9ae27cd6ce93eb7935c6c.jpg",
-      "md5": "e62fa18a59b9ae27cd6ce93eb7935c6c",
-      "size": 633252,
-      "uploadedDate": "2020-02-27T15:47:45.573Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/CRE1089_Predator_EpicStore_2560x1440_001-2560x1440-e62fa18a59b9ae27cd6ce93eb7935c6c.jpg",
-      "md5": "e62fa18a59b9ae27cd6ce93eb7935c6c",
-      "size": 633252,
-      "uploadedDate": "2020-02-27T15:48:15.501Z",
-      "width": 2560,
-      "height": 1440
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-12-31T12:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

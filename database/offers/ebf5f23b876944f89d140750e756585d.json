@@ -1,143 +1,78 @@
 {
+  "title": "Oxenfree",
   "id": "ebf5f23b876944f89d140750e756585d",
   "namespace": "hibiscus",
-  "title": "Oxenfree",
   "description": "Choose Your Fate…",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "oxenfree/home",
-  "urlSlug": "hibiscusgeneralaudience",
-  "offerType": "BASE_GAME",
-  "creationDate": "2024-04-10T21:48:28.515Z",
-  "lastModifiedDate": "2024-05-02T19:57:20.718Z",
   "effectiveDate": "2019-03-20T15:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": "Night School Studio",
-  "countriesBlacklist": [
-    "RU",
-    "KR",
-    "BY"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2024-05-02T19:57:11.430Z",
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "oxenfree"
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/hibiscus/Oxenfree_GamePagePromo_2580x1450-2580x1450-67e364067e5e51125d7d3343ff65e042_2560x1440-25922924568a1829d9416978602c1489"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/hibiscus/Oxenfree_CodeRedemption-340x440-fc8de2104d92803ca36981722f362ca5_1200x1600-4ba07296295c88cdc02a08ed17c3c293"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/hibiscus/Oxenfree_GamePagePromo_2580x1450-2580x1450-67e364067e5e51125d7d3343ff65e042_2560x1440-25922924568a1829d9416978602c1489"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/hibiscus/Oxenfree_CodeRedemption-340x440-fc8de2104d92803ca36981722f362ca5_1200x1600-4ba07296295c88cdc02a08ed17c3c293"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "oxenfree"
-    }
-  ],
+  "currentPrice": 999,
   "seller": {
     "id": "o-8bhctnyt9qetgnjd4nssqse58c2589",
     "name": "Night School Studio, LLC"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    },
-    {
-      "path": "games/edition"
-    },
-    {
-      "path": "games/edition/base"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": "oxenfree/home",
+  "urlSlug": "hibiscusgeneralaudience",
+  "url": null,
   "tags": [
     {
       "id": "1395",
-      "name": "Narration",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:34.825Z",
-      "updated": "2023-08-23T02:16:39.223Z",
-      "status": "ACTIVE",
-      "referenceCount": 207,
-      "comment": null
+      "name": "Narration"
     },
-    null,
-    null,
-    null,
+    {
+      "id": "21894",
+      "name": "Cloud Saves"
+    },
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "9548",
-      "name": "OSX",
-      "namespace": "epic",
-      "aliases": [
-        "OS X",
-        "MAC OS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-03-10T19:38:37.438Z",
-      "status": "ACTIVE",
-      "referenceCount": 79,
-      "comment": null
+      "name": "OSX"
     },
     {
       "id": "1117",
-      "name": "Adventure",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2023-08-23T02:16:39.269Z",
-      "status": "ACTIVE",
-      "referenceCount": 1473,
-      "comment": null
+      "name": "Adventure"
     },
     {
       "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-08-23T03:24:56.337Z",
-      "status": "ACTIVE",
-      "referenceCount": 2499,
-      "comment": null
+      "name": "Controller Support"
     },
     {
       "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-08-23T05:17:12.988Z",
-      "status": "ACTIVE",
-      "referenceCount": 1176,
-      "comment": null
+      "name": "Indie"
     },
     {
       "id": "10719",
-      "name": "Mac OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX",
-        "macOS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-08-23T05:08:24.605Z",
-      "status": "ACTIVE",
-      "referenceCount": 1146,
-      "comment": null
+      "name": "Mac OS"
+    }
+  ],
+  "items": [
+    {
+      "id": "14a36abdadb1447da150df326c939174",
+      "namespace": "hibiscus"
     }
   ],
   "customAttributes": [
@@ -170,50 +105,57 @@
       "value": "false"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/hibiscus/Oxenfree_GamePagePromo_2580x1450-2580x1450-67e364067e5e51125d7d3343ff65e042_2560x1440-25922924568a1829d9416978602c1489",
-      "md5": "25922924568a1829d9416978602c1489",
-      "size": 374155,
-      "uploadedDate": "2024-04-02T17:08:51.672Z",
-      "width": 2560,
-      "height": 1440
+      "path": "games"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/hibiscus/Oxenfree_CodeRedemption-340x440-fc8de2104d92803ca36981722f362ca5_1200x1600-4ba07296295c88cdc02a08ed17c3c293",
-      "md5": "4ba07296295c88cdc02a08ed17c3c293",
-      "size": 489707,
-      "uploadedDate": "2024-04-02T17:08:44.692Z",
-      "width": 1200,
-      "height": 1600
+      "path": "games/edition"
     },
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/hibiscus/Oxenfree_GamePagePromo_2580x1450-2580x1450-67e364067e5e51125d7d3343ff65e042_2560x1440-25922924568a1829d9416978602c1489",
-      "md5": "25922924568a1829d9416978602c1489",
-      "size": 374155,
-      "uploadedDate": "2024-04-02T17:08:51.672Z",
-      "width": 2560,
-      "height": 1440
+      "path": "games/edition/base"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/hibiscus/Oxenfree_CodeRedemption-340x440-fc8de2104d92803ca36981722f362ca5_1200x1600-4ba07296295c88cdc02a08ed17c3c293",
-      "md5": "4ba07296295c88cdc02a08ed17c3c293",
-      "size": 489707,
-      "uploadedDate": "2024-04-02T17:08:48.379Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "14a36abdadb1447da150df326c939174"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "hibiscus"
-  }
+    "mappings": [
+      {
+        "pageSlug": "oxenfree",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "oxenfree",
+      "pageType": "productHome"
+    }
+  ],
+  "developerDisplayName": "Night School Studio",
+  "publisherDisplayName": "Night School Studio",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2019-01-15T15:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": "2024-05-02T19:57:11.430Z",
+  "approximateReleasePlan": null
 }

@@ -1,36 +1,37 @@
 {
+  "title": "Oleander Dev DLC",
   "id": "25fb463aa7a342b5ab2477e3e11150f2",
   "namespace": "oleander",
-  "title": "Oleander Dev DLC",
   "description": "Oleander Dev DLC",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "oleanderdevaudience-02",
-  "offerType": "OTHERS",
-  "creationDate": "2020-03-18T18:33:58.730Z",
-  "lastModifiedDate": "2020-04-29T00:38:38.175Z",
   "effectiveDate": "2050-03-11T09:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/oleander/item/Diesel_product_ratings_RP_FOR_T_M_AO-842x404-ab4400e0f80829e7c317311ccf7988d92a7cb55c-842x404-e685858d6f01213bedf5b2abec53be94.png"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
     "name": "505 Games"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "oleanderdevaudience-02",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "7d8dad8132434284a61f1b2b7ab5e35b",
+      "namespace": "oleander"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "SupportedPlatforms",
+      "value": "Windows"
+    }
+  ],
   "categories": [
     {
       "path": "games"
@@ -39,30 +40,42 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "SupportedPlatforms",
-      "value": "Windows"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/oleander/item/Diesel_product_ratings_RP_FOR_T_M_AO-842x404-ab4400e0f80829e7c317311ccf7988d92a7cb55c-842x404-e685858d6f01213bedf5b2abec53be94.png",
-      "md5": "e685858d6f01213bedf5b2abec53be94",
-      "size": 55379,
-      "uploadedDate": "2019-04-23T21:34:58.747Z",
-      "width": 842,
-      "height": 404
-    }
-  ],
-  "items": [
-    {
-      "id": "7d8dad8132434284a61f1b2b7ab5e35b"
-    }
-  ],
   "catalogNs": {
-    "name": "oleander"
-  }
+    "mappings": [
+      {
+        "pageSlug": "journey-to-the-savage-planet--hot-garbage",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "journey-to-the-savage-planet",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2050-03-01T14:32:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

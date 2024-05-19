@@ -1,89 +1,50 @@
 {
+  "title": "Shadow Tactics",
   "id": "6711c1797f8a44c3a4307be7e7d52592",
   "namespace": "epic",
-  "title": "Shadow Tactics",
   "description": "Shadow Tactics",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "shadow-tactics/home",
-  "urlSlug": "shadow-tactics",
-  "offerType": "OTHERS",
-  "creationDate": "2019-12-20T02:13:22.910Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
   "effectiveDate": "2019-12-28T16:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_MimimiGames_ShadowTacticsBladesoftheShogun_S3-1360x766-216c2e04b177c6b7252f1f535edef030.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_MimimiGames_ShadowTacticsBladesoftheShogun_S4-510x680-f62935abb1b2bd42b2f19f9385da7fe7.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
     "name": "Daedalic Entertainment"
   },
-  "linkedOfferId": "aec117239abd49a08eddc9e75a981fa3",
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": "shadow-tactics/home",
+  "urlSlug": "shadow-tactics",
+  "url": null,
   "tags": [
     {
       "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-23T05:17:12.951Z",
-      "status": "ACTIVE",
-      "referenceCount": 5001,
-      "comment": null
+      "name": "Single Player"
     },
     {
       "id": "1115",
-      "name": "Strategy",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2023-08-23T05:08:24.575Z",
-      "status": "ACTIVE",
-      "referenceCount": 1068,
-      "comment": null
+      "name": "Strategy"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
     },
     {
       "id": "1084",
-      "name": "Stealth",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:00.299Z",
-      "updated": "2023-08-22T16:03:44.093Z",
-      "status": "ACTIVE",
-      "referenceCount": 148,
-      "comment": null
+      "name": "Stealth"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -108,32 +69,42 @@
       "value": "aec117239abd49a08eddc9e75a981fa3"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_MimimiGames_ShadowTacticsBladesoftheShogun_S3-1360x766-216c2e04b177c6b7252f1f535edef030.jpg",
-      "md5": "216c2e04b177c6b7252f1f535edef030",
-      "size": 492918,
-      "uploadedDate": "2019-12-20T02:04:05.070Z",
-      "width": 1360,
-      "height": 766
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_MimimiGames_ShadowTacticsBladesoftheShogun_S4-510x680-f62935abb1b2bd42b2f19f9385da7fe7.jpg",
-      "md5": "f62935abb1b2bd42b2f19f9385da7fe7",
-      "size": 233870,
-      "uploadedDate": "2019-12-20T02:04:16.207Z",
-      "width": 510,
-      "height": 680
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 3600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "45d893e6807c43c38bd34d5b23fd59e4"
+          }
+        ]
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2019-12-19T20:58:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

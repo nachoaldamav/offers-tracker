@@ -1,36 +1,32 @@
 {
+  "title": "CrocusGeneralAudience",
   "id": "90fb63f0760b4600a2b57611147ca7ca",
   "namespace": "crocus",
-  "title": "CrocusGeneralAudience",
   "description": "CrocusGeneralAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "crocusgeneralaudience",
-  "offerType": "BASE_GAME",
-  "creationDate": "2019-01-16T14:22:56.460Z",
-  "lastModifiedDate": "2020-04-29T00:38:16.978Z",
   "effectiveDate": "2050-01-16T09:22:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
     "name": "Jackbox Games, Inc."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "crocusgeneralaudience",
+  "url": null,
+  "tags": [
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "0ecceca919614855acee329378100d4c",
+      "namespace": "crocus"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "games"
@@ -39,28 +35,33 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
-    }
-  ],
-  "customAttributes": [],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "0ecceca919614855acee329378100d4c"
-    }
-  ],
   "catalogNs": {
-    "name": "crocus"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

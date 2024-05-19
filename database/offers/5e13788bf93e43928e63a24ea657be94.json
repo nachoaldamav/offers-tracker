@@ -1,36 +1,27 @@
 {
+  "title": "MorphoDevAudience",
   "id": "5e13788bf93e43928e63a24ea657be94",
   "namespace": "morpho",
-  "title": "MorphoDevAudience",
   "description": "MorphoDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "morphodevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2018-12-12T16:19:59.620Z",
-  "lastModifiedDate": "2020-04-29T00:38:36.810Z",
   "effectiveDate": "2018-12-12T11:19:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
     "name": "tinyBuild Games"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "morphodevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "be54b2d375114c42927ecb8d79ece5a2",
+      "namespace": "morpho"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "games"
@@ -39,15 +30,42 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "be54b2d375114c42927ecb8d79ece5a2"
-    }
-  ],
   "catalogNs": {
-    "name": "morpho"
-  }
+    "mappings": [
+      {
+        "pageSlug": "hello-neighbor-hide-and-seek--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hello-neighbor-hide-and-seek",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

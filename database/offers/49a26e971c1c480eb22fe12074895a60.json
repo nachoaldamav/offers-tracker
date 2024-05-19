@@ -1,39 +1,32 @@
 {
+  "title": "HelleboreDevAudience",
   "id": "49a26e971c1c480eb22fe12074895a60",
   "namespace": "hellebore",
-  "title": "HelleboreDevAudience",
   "description": "HelleboreDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "helleboredevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-02-08T20:48:40.152Z",
-  "lastModifiedDate": "2020-04-29T00:46:43.160Z",
   "effectiveDate": "2099-02-08T15:46:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "helleboredevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "8effb2ce07f14626a00f73fea6f2b05f",
+      "namespace": "hellebore"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Ubisoft Entertainment"
+    }
+  ],
   "categories": [
     {
       "path": "games"
@@ -42,20 +35,42 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "developerName",
-      "value": "Ubisoft Entertainment"
-    }
-  ],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "8effb2ce07f14626a00f73fea6f2b05f"
-    }
-  ],
   "catalogNs": {
-    "name": "hellebore"
-  }
+    "mappings": [
+      {
+        "pageSlug": "far-cry-3",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "far-cry-3--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,56 +1,29 @@
 {
+  "title": "DevCobiaAudience",
   "id": "a06d54dd4eaa435897c0f6e51666e5d6",
   "namespace": "c749cd78da34408d8434a46271f4bb79",
-  "title": "DevCobiaAudience",
   "description": "DevCobiaAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "devcobiaaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2020-03-19T20:34:51.831Z",
-  "lastModifiedDate": "2022-08-30T11:26:07.539Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-cjwnkas5rn476tzk72fbh2ftutnc2y",
     "name": "Santa Ragione"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "devcobiaaudience",
+  "url": null,
   "tags": [
     {
       "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
-      "status": "ACTIVE",
-      "referenceCount": 3628,
-      "comment": ""
+      "name": "Achievements"
+    }
+  ],
+  "items": [
+    {
+      "id": "f201d4ac069b4989b583413e112f5660",
+      "namespace": "c749cd78da34408d8434a46271f4bb79"
     }
   ],
   "customAttributes": [
@@ -67,13 +40,50 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "f201d4ac069b4989b583413e112f5660"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "c749cd78da34408d8434a46271f4bb79"
-  }
+    "mappings": [
+      {
+        "pageSlug": "saturnalia",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "saturnalia--soundtrack-and-artbook",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-03-23T09:20:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,42 +1,32 @@
 {
+  "title": "test10002-6,800 Tokens",
   "id": "b308d7d314b748c18e23157df99b03bf",
   "namespace": "d613614e082c4f648835a32f15c1d29b",
-  "title": "test10002-6,800 Tokens",
   "description": "test10002-6,800 Tokens",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "test10002-6800tokens",
-  "offerType": "VIRTUAL_CURRENCY",
-  "creationDate": "2022-09-29T03:59:51.603Z",
-  "lastModifiedDate": "2024-03-30T15:05:42.797Z",
   "effectiveDate": "2099-09-09T08:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BE",
-    "SY",
-    "VN",
-    "CN"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": false,
+  "keyImages": [],
+  "currentPrice": 6999,
   "seller": {
     "id": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
     "name": "Proxima Beta Europe B.V."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "test10002-6800tokens",
+  "url": null,
+  "tags": [
+    {
+      "id": "19847",
+      "name": "Achievements"
+    }
+  ],
+  "items": [
+    {
+      "id": "72fc0ce18f194ca59f48e0081af13a6b",
+      "namespace": "d613614e082c4f648835a32f15c1d29b"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "spthidden/consumable"
@@ -48,28 +38,50 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
-      "status": "ACTIVE",
-      "referenceCount": 3628,
-      "comment": ""
-    }
-  ],
-  "customAttributes": [],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "72fc0ce18f194ca59f48e0081af13a6b"
-    }
-  ],
   "catalogNs": {
-    "name": "d613614e082c4f648835a32f15c1d29b"
-  }
+    "mappings": [
+      {
+        "pageSlug": "synced",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "synced--welcome-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "synced--newbie-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "synced--winterfest-bundle",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 6999,
+      "originalPrice": 6999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

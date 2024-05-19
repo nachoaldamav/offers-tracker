@@ -1,62 +1,54 @@
 {
+  "title": "JTTSP : Pre-Purchase",
   "id": "4178a410d3764716a717d7c68dd55e29",
   "namespace": "oleander",
-  "title": "JTTSP : Pre-Purchase",
   "description": "JTTSP : Pre-Purchase",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "jttsp-pre-purchase-audience",
-  "offerType": "EDITION",
-  "creationDate": "2019-08-12T20:29:18.113Z",
-  "lastModifiedDate": "2023-09-07T15:06:35.034Z",
   "effectiveDate": "2019-08-02T17:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/oleander/offer/CodeRedemption_JTTSP-340x440-9ea78ab53cc23c54bd3f7d574c19e0de.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/oleander/offer/CodeRedemption_JTTSP-340x440-9ea78ab53cc23c54bd3f7d574c19e0de.jpg"
+    },
+    {
+      "type": "DieselGameBoxWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Primary promo-2580x1450-8f87796564b7043f5c2ca309de77b7f7.jpg"
+    }
+  ],
+  "currentPrice": 2999,
   "seller": {
     "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
     "name": "505 Games"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "spthidden"
-    },
-    {
-      "path": "games"
-    },
-    {
-      "path": "spthidden/edition"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "jttsp-pre-purchase-audience",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "9435b091621d4071bbec1ffa49029dd8",
+      "namespace": "oleander"
+    },
+    {
+      "id": "7086e30cad7744a88254de26685177b0",
+      "namespace": "oleander"
+    },
+    {
+      "id": "fea377ef29d54e67b8331ed5866987dc",
+      "namespace": "oleander"
+    },
+    {
+      "id": "2d5bff99883b46a2990c701e44157881",
+      "namespace": "oleander"
     }
   ],
   "customAttributes": [
@@ -77,50 +69,56 @@
       "value": "Typhoon Studios"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/oleander/offer/CodeRedemption_JTTSP-340x440-9ea78ab53cc23c54bd3f7d574c19e0de.jpg",
-      "md5": "9ea78ab53cc23c54bd3f7d574c19e0de",
-      "size": 151857,
-      "uploadedDate": "2019-08-19T13:13:16.201Z",
-      "width": 340,
-      "height": 440
+      "path": "spthidden"
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/oleander/offer/CodeRedemption_JTTSP-340x440-9ea78ab53cc23c54bd3f7d574c19e0de.jpg",
-      "md5": "9ea78ab53cc23c54bd3f7d574c19e0de",
-      "size": 151857,
-      "uploadedDate": "2019-08-19T13:13:24.510Z",
-      "width": 340,
-      "height": 440
+      "path": "games"
     },
     {
-      "type": "DieselGameBoxWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Primary promo-2580x1450-8f87796564b7043f5c2ca309de77b7f7.jpg",
-      "md5": "8f87796564b7043f5c2ca309de77b7f7",
-      "size": 1440379,
-      "uploadedDate": "2020-01-13T09:41:44.790Z",
-      "width": 2580,
-      "height": 1450
-    }
-  ],
-  "items": [
-    {
-      "id": "9435b091621d4071bbec1ffa49029dd8"
+      "path": "spthidden/edition"
     },
     {
-      "id": "7086e30cad7744a88254de26685177b0"
-    },
-    {
-      "id": "fea377ef29d54e67b8331ed5866987dc"
-    },
-    {
-      "id": "2d5bff99883b46a2990c701e44157881"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "oleander"
-  }
+    "mappings": [
+      {
+        "pageSlug": "journey-to-the-savage-planet--hot-garbage",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "journey-to-the-savage-planet",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": true,
+  "releaseDate": "2020-01-28T14:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

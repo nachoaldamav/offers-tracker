@@ -1,108 +1,54 @@
 {
+  "title": "Amigo Kebab Simulator",
   "id": "583695007f2d4c6cb3eebc64cc10e7ed",
   "namespace": "ce929d57694e45eba04876a0d6cf8c55",
-  "title": "Amigo Kebab Simulator",
   "description": "Friend!\nI need your help to run my Kebab store, take care of ordering, keep the place clean, serve the customers properly, try to get positive reviews, improve the place and watch out for sanitation!",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "54e2067774e348b6a57357027a282e9c",
-  "offerType": "BASE_GAME",
-  "creationDate": "2023-07-11T10:40:24.225Z",
-  "lastModifiedDate": "2023-08-16T07:20:02.141Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": "2023-04-03T17:00:00.000Z",
-  "publisherDisplayName": "Pigeon-G",
-  "countriesBlacklist": [
-    "BR",
-    "RU",
-    "AU",
-    "KR"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2023-06-10T11:30:00.000Z",
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "amigo-kebab-simulator-daf6c0"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/6e6b68f315804af0a033f563d2771017/amigo-kebab-simulator-1bcko.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/6e6b68f315804af0a033f563d2771017/amigo-kebab-simulator-d2bst.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/spt-assets/6e6b68f315804af0a033f563d2771017/amigo-kebab-simulator-d2bst.jpg"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "amigo-kebab-simulator-daf6c0"
-    }
-  ],
+  "currentPrice": 1099,
   "seller": {
     "id": "o-6j3u9mpf7f5k24sum49xennwvnaxxf",
     "name": "Pigeon-G"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games/edition/base"
-    },
-    {
-      "path": "games/edition"
-    },
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "54e2067774e348b6a57357027a282e9c",
+  "url": null,
   "tags": [
     {
       "id": "1393",
-      "name": "Simulation",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2023-08-23T03:55:35.422Z",
-      "status": "ACTIVE",
-      "referenceCount": 943,
-      "comment": null
+      "name": "Simulation"
     },
     {
       "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
-      "status": "ACTIVE",
-      "referenceCount": 3628,
-      "comment": ""
+      "name": "Achievements"
     },
     {
       "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-23T05:17:12.951Z",
-      "status": "ACTIVE",
-      "referenceCount": 5001,
-      "comment": null
+      "name": "Single Player"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "a50ee6adf01344d3a8dac2798bc82f35",
+      "namespace": "ce929d57694e45eba04876a0d6cf8c55"
     }
   ],
   "customAttributes": [
@@ -123,41 +69,60 @@
       "value": "false"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/6e6b68f315804af0a033f563d2771017/amigo-kebab-simulator-1bcko.jpg",
-      "md5": "8e7593a03ccd9c5b3ec96f2af21045a2",
-      "size": 513775,
-      "uploadedDate": "2023-06-10T11:56:49.025Z",
-      "width": 2560,
-      "height": 1440
+      "path": "games/edition/base"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/6e6b68f315804af0a033f563d2771017/amigo-kebab-simulator-d2bst.jpg",
-      "md5": "440d6ce066298b57ddc57055855a4f64",
-      "size": 380174,
-      "uploadedDate": "2023-06-10T11:58:46.228Z",
-      "width": 1200,
-      "height": 1600
+      "path": "games/edition"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/6e6b68f315804af0a033f563d2771017/amigo-kebab-simulator-d2bst.jpg",
-      "md5": "440d6ce066298b57ddc57055855a4f64",
-      "size": 380174,
-      "uploadedDate": "2023-06-10T11:58:46.228Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "a50ee6adf01344d3a8dac2798bc82f35"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "ce929d57694e45eba04876a0d6cf8c55"
+    "mappings": [
+      {
+        "pageSlug": "amigo-kebab-simulator-daf6c0",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "amigo-kebab-simulator-daf6c0",
+      "pageType": "productHome"
+    }
+  ],
+  "developerDisplayName": "Pigeon-G",
+  "publisherDisplayName": "Pigeon-G",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1099,
+      "originalPrice": 1099,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": "2023-04-03T17:00:00.000Z",
+  "viewableDate": "2023-06-10T11:30:00.000Z",
+  "approximateReleasePlan": {
+    "day": null,
+    "month": null,
+    "quarter": null,
+    "year": null,
+    "releaseDateType": "UNKNOWN"
   }
 }

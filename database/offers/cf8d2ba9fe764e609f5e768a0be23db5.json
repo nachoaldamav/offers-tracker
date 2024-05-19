@@ -1,45 +1,26 @@
 {
+  "title": "EagleDevAudience",
   "id": "cf8d2ba9fe764e609f5e768a0be23db5",
   "namespace": "bec822fb982843c3be794d440728336b",
-  "title": "EagleDevAudience",
   "description": "EagleDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "eagledevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-07-09T15:35:38.463Z",
-  "lastModifiedDate": "2023-03-10T19:12:14.442Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
     "name": "11 Bit Studios"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "eagledevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "ed1514d3b5a446e0838ca64f88fabbeb",
+      "namespace": "bec822fb982843c3be794d440728336b"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -54,13 +35,50 @@
       "value": "Digital Sun Games"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "ed1514d3b5a446e0838ca64f88fabbeb"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "bec822fb982843c3be794d440728336b"
-  }
+    "mappings": [
+      {
+        "pageSlug": "moonlighter--dlc",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "moonlighter",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

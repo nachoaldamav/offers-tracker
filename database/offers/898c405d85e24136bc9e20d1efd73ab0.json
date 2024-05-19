@@ -1,39 +1,50 @@
 {
+  "title": "Phoenix Point Backer Build",
   "id": "898c405d85e24136bc9e20d1efd73ab0",
   "namespace": "iris",
-  "title": "Phoenix Point Backer Build",
   "description": "Phoenix Point Backer Build",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "phoenixpointbackeraudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-03-25T21:16:42.371Z",
-  "lastModifiedDate": "2024-04-13T00:24:48.907Z",
   "effectiveDate": "2019-03-24T17:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR",
-    "CN"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/iris/item/PhoenixPoint_PrimaryPromo-1920x1079-1d5a04d67c44c162d1e3acf2df2f57e3.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/iris/item/PhoenixPoint_GameLogo_White-3220x432-7aca4b7a258e701731893afe68f4becb.png"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
     "name": "Snapshot Games"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "phoenixpointbackeraudience",
+  "url": null,
+  "tags": [
+    {
+      "id": "1370",
+      "name": "Single Player"
+    }
+  ],
+  "items": [
+    {
+      "id": "3cc732b7e5014e35847f568fcc5f0829",
+      "namespace": "iris"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Snapshot Games"
+    }
+  ],
   "categories": [
     {
       "path": "spthidden"
@@ -48,56 +59,62 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-23T05:17:12.951Z",
-      "status": "ACTIVE",
-      "referenceCount": 5001,
-      "comment": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
-    },
-    {
-      "key": "developerName",
-      "value": "Snapshot Games"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/iris/item/PhoenixPoint_PrimaryPromo-1920x1079-1d5a04d67c44c162d1e3acf2df2f57e3.jpg",
-      "md5": "1d5a04d67c44c162d1e3acf2df2f57e3",
-      "size": 162524,
-      "uploadedDate": "2019-03-25T21:11:45.244Z",
-      "width": 1920,
-      "height": 1079
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/iris/item/PhoenixPoint_GameLogo_White-3220x432-7aca4b7a258e701731893afe68f4becb.png",
-      "md5": "7aca4b7a258e701731893afe68f4becb",
-      "size": 118600,
-      "uploadedDate": "2019-03-25T21:12:00.250Z",
-      "width": 3220,
-      "height": 432
-    }
-  ],
-  "items": [
-    {
-      "id": "3cc732b7e5014e35847f568fcc5f0829"
-    }
-  ],
   "catalogNs": {
-    "name": "iris"
-  }
+    "mappings": [
+      {
+        "pageSlug": "phoenix-point--festering-skies",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "phoenix-point--yoe-upgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "phoenix-point--expansion-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "phoenix-point--corrupted-horizons",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "phoenix-point",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "phoenix-point--kaos-engines",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "phoenix-point--complete-edition-upgrade",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

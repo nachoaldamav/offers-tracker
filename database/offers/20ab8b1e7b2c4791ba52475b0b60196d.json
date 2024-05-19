@@ -1,36 +1,36 @@
 {
+  "title": "OcelotDevAudience",
   "id": "20ab8b1e7b2c4791ba52475b0b60196d",
   "namespace": "ocelot",
-  "title": "OcelotDevAudience",
   "description": "OcelotDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "ocelotdevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2018-12-13T22:26:25.135Z",
-  "lastModifiedDate": "2024-02-26T18:54:40.141Z",
   "effectiveDate": "2018-12-13T16:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ocelot/offer/thumbnail-1280x1420-223b26a43ddb24d89ea04dd9fe7a65ca.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ocelot/offer/coderedem-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
     "name": "Skybound Game Studios, Inc."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "ocelotdevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "7fdf12cf95f84b84854ace79f6662ba3",
+      "namespace": "ocelot"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "games"
@@ -39,34 +39,38 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ocelot/offer/thumbnail-1280x1420-223b26a43ddb24d89ea04dd9fe7a65ca.jpg",
-      "md5": "223b26a43ddb24d89ea04dd9fe7a65ca",
-      "size": 221415,
-      "uploadedDate": "2019-01-14T19:50:16.884Z",
-      "width": 1280,
-      "height": 1420
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/ocelot/offer/coderedem-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553.jpg",
-      "md5": "0d7e2e6fb18c7c12d81ebdb2e5e17553",
-      "size": 82425,
-      "uploadedDate": "2019-01-14T19:53:06.076Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "7fdf12cf95f84b84854ace79f6662ba3"
-    }
-  ],
   "catalogNs": {
-    "name": "ocelot"
-  }
+    "mappings": [
+      {
+        "pageSlug": "walking-dead-final-season",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

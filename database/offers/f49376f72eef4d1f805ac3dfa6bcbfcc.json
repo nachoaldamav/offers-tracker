@@ -1,50 +1,26 @@
 {
+  "title": "KakopoDevAudience",
   "id": "f49376f72eef4d1f805ac3dfa6bcbfcc",
   "namespace": "ba8062bdcc1342c0b78743e3c6242575",
-  "title": "KakopoDevAudience",
   "description": "KakopoDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "kakopodevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-09-11T21:16:27.973Z",
-  "lastModifiedDate": "2020-04-09T14:22:17.250Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "KR",
-    "BY",
-    "CN"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
     "name": "Square Enix"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "kakopodevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "7f81ef1d31104a3393cd478083c3d390",
+      "namespace": "ba8062bdcc1342c0b78743e3c6242575"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -59,13 +35,70 @@
       "value": "{}"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "7f81ef1d31104a3393cd478083c3d390"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "ba8062bdcc1342c0b78743e3c6242575"
-  }
+    "mappings": [
+      {
+        "pageSlug": "just-cause-4--reloaded-content-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "just-cause-4",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "just-cause-4--complete-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "just-cause-4--gold-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "just-cause-4--golden-gear-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "just-cause-4--black-market-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "just-cause-4--expansion-pass",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

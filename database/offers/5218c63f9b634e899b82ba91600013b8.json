@@ -1,68 +1,46 @@
 {
+  "title": "Buy Founder Pack",
   "id": "5218c63f9b634e899b82ba91600013b8",
   "namespace": "469efc19125a4c3fb518e4723ad3010e",
-  "title": "Buy Founder Pack",
   "description": "Founder Pack (24 Cards)",
-  "longDescription": "<!--textBlock-->\n<!--title-->\n# Buy Founder Pack\n<!--text-->\nFounder Pack (24 Cards)\n",
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "buy-founder-pack",
-  "offerType": "VIRTUAL_CURRENCY",
-  "creationDate": "2023-10-30T11:16:33.598Z",
-  "lastModifiedDate": "2024-01-13T15:11:51.275Z",
   "effectiveDate": "2023-12-29T05:00:00.000Z",
-  "pcReleaseDate": "2023-12-29T05:00:00.000Z",
-  "publisherDisplayName": "Jurval Corp",
-  "countriesBlacklist": [
-    "RU",
-    "KR",
-    "CN"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": "2023-10-16T07:30:00.000Z",
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "underground-waifus-tcg-buy-founder-pack-c89aa2"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/73f3d015c38945ba90979eeed0ca7ded/underground-waifus-tcg-1ce8u.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/73f3d015c38945ba90979eeed0ca7ded/underground-waifus-tcg-11z9z.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/spt-assets/73f3d015c38945ba90979eeed0ca7ded/underground-waifus-tcg-11z9z.png"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/73f3d015c38945ba90979eeed0ca7ded/underground-waifus-tcg-1ehaz.jpg"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "underground-waifus-tcg-buy-founder-pack-c89aa2"
-    }
-  ],
+  "currentPrice": 8390,
   "seller": {
     "id": "o-7j3e555gwshnmrtpgf7mfxdvvsh8q8",
     "name": "Jurval Corp SL"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "spthidden/consumable"
-    },
-    {
-      "path": "spthidden"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "buy-founder-pack",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "d1c44f4c1eae43bbb9a71fef793fbb50",
+      "namespace": "469efc19125a4c3fb518e4723ad3010e"
     }
   ],
   "customAttributes": [
@@ -83,50 +61,123 @@
       "value": "false"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/73f3d015c38945ba90979eeed0ca7ded/underground-waifus-tcg-1ce8u.png",
-      "md5": "aae09aafd65b474f38d21d9b5aa79468",
-      "size": 3373253,
-      "uploadedDate": "2023-10-31T09:57:49.511Z",
-      "width": 2560,
-      "height": 1440
+      "path": "spthidden/consumable"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/73f3d015c38945ba90979eeed0ca7ded/underground-waifus-tcg-11z9z.png",
-      "md5": "b432ba03cd203bb3b7b56dad8d49604a",
-      "size": 2128490,
-      "uploadedDate": "2023-10-31T09:57:59.972Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/73f3d015c38945ba90979eeed0ca7ded/underground-waifus-tcg-11z9z.png",
-      "md5": "b432ba03cd203bb3b7b56dad8d49604a",
-      "size": 2128490,
-      "uploadedDate": "2023-10-31T09:57:59.972Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/73f3d015c38945ba90979eeed0ca7ded/underground-waifus-tcg-1ehaz.jpg",
-      "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 405594,
-      "uploadedDate": "2023-10-30T11:43:06.179Z",
-      "width": 1920,
-      "height": 1080
-    }
-  ],
-  "items": [
-    {
-      "id": "d1c44f4c1eae43bbb9a71fef793fbb50"
+      "path": "spthidden"
     }
   ],
   "catalogNs": {
-    "name": "469efc19125a4c3fb518e4723ad3010e"
-  }
+    "mappings": [
+      {
+        "pageSlug": "underground-waifus-tcg-4c889b",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "underground-waifus-tcg-faq-6ec504",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "underground-waifus-tcg-buy-tickets-1-dafcae",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "underground-waifus-tcg-buy-founder-pack-c89aa2",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "underground-waifus-tcg-buy-silver-chest-a663d3",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "underground-waifus-tcg-buy-gold-20000-b2b95e",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "underground-waifus-tcg-buy-epic-pack-fc7fcf",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "underground-waifus-tcg-buy-gold-1000-4b95dd",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "underground-waifus-tcg-buy-legendary-pack-3daa8c",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "underground-waifus-tcg-buy-gold-chest-ee4acf",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "underground-waifus-tcg-buy-tickets-5-028dec",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "underground-waifus-tcg-buy-gold-5000-784f25",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "underground-waifus-tcg-buy-outerring-pack-778f26",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "underground-waifus-tcg-buy-rare-pack-cc8f95",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "underground-waifus-tcg-buy-common-pack-d0bc83",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "underground-waifus-tcg-buy-tickets-10-2dc0ba",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "underground-waifus-tcg-buy-tickets-50-5579f3",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "underground-waifus-tcg-buy-mystic-pack-6fb0cb",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "underground-waifus-tcg-buy-platinum-chest-226d0f",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "underground-waifus-tcg-buy-founder-pack-c89aa2",
+      "pageType": "offer"
+    }
+  ],
+  "developerDisplayName": "Jurval Corp",
+  "publisherDisplayName": "Jurval Corp",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 8390,
+      "originalPrice": 8390,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2023-12-29T05:00:00.000Z",
+  "pcReleaseDate": "2023-12-29T05:00:00.000Z",
+  "viewableDate": "2023-10-16T07:30:00.000Z",
+  "approximateReleasePlan": null
 }

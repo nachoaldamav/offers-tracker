@@ -1,57 +1,39 @@
 {
+  "title": "The Division 2 Demo",
   "id": "787e41aad39542f1bbc009d51e688c73",
   "namespace": "impala",
-  "title": "The Division 2 Demo",
   "description": "Play The Division 2 base game for free for 8 hours by downloading the trial! Your progression is saved if you decide to buy the game.",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "the-division-2/trial",
-  "urlSlug": "impalatrialaudiencedemo",
-  "offerType": "OTHERS",
-  "creationDate": "2020-04-16T17:44:08.694Z",
-  "lastModifiedDate": "2024-04-25T23:37:44.470Z",
   "effectiveDate": "2020-04-21T15:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY",
-    "CN"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "the-division-2--trial"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/impala/offer/Store-Landscape_2560x1440-2560x1440-e0ebafe906c0307e5814b0de2ced12c0.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/impala/offer/Store-Landscape_2560x1440-2560x1440-e0ebafe906c0307e5814b0de2ced12c0.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/impala/offer/Store-Landscape_Portrait-1280x1420-4f0c658d399e26d7120aa6b04d4f77a0.jpg"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "the-division-2--trial"
-    }
-  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": "the-division-2/trial",
+  "urlSlug": "impalatrialaudiencedemo",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "4ebab763055941939c81bb5bd00038b6",
+      "namespace": "impala"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -66,41 +48,71 @@
       "value": "the-division-2/trial"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/impala/offer/Store-Landscape_2560x1440-2560x1440-e0ebafe906c0307e5814b0de2ced12c0.jpg",
-      "md5": "e0ebafe906c0307e5814b0de2ced12c0",
-      "size": 824462,
-      "uploadedDate": "2020-04-20T19:02:05.713Z",
-      "width": 2560,
-      "height": 1440
+      "path": "games"
     },
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/impala/offer/Store-Landscape_2560x1440-2560x1440-e0ebafe906c0307e5814b0de2ced12c0.jpg",
-      "md5": "e0ebafe906c0307e5814b0de2ced12c0",
-      "size": 824462,
-      "uploadedDate": "2020-04-20T19:02:19.032Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/impala/offer/Store-Landscape_Portrait-1280x1420-4f0c658d399e26d7120aa6b04d4f77a0.jpg",
-      "md5": "4f0c658d399e26d7120aa6b04d4f77a0",
-      "size": 199408,
-      "uploadedDate": "2020-04-20T19:03:46.821Z",
-      "width": 1280,
-      "height": 1420
-    }
-  ],
-  "items": [
-    {
-      "id": "4ebab763055941939c81bb5bd00038b6"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "impala"
-  }
+    "mappings": [
+      {
+        "pageSlug": "the-division-2--warlords-of-new-york-expansion",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-division-2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-division-2--warlords-of-new-york-ultimate-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-division-2--trial",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-division-2--one-time-offer-pack-y5s2",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-division-2--one-time-offer-pack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "the-division-2--trial",
+      "pageType": "offer"
+    }
+  ],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

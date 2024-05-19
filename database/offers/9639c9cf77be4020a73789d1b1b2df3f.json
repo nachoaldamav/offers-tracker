@@ -1,38 +1,40 @@
 {
+  "title": "Test Pack 2",
   "id": "9639c9cf77be4020a73789d1b1b2df3f",
   "namespace": "azalea",
-  "title": "Test Pack 2",
   "description": "Test Pack 2",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "starter-pack-01",
-  "offerType": "OTHERS",
-  "creationDate": "2019-08-29T21:50:25.834Z",
-  "lastModifiedDate": "2021-04-08T16:05:28.258Z",
   "effectiveDate": "2050-08-29T17:49:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 2999,
   "seller": {
     "id": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
     "name": "YAGER"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "starter-pack-01",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "80318b116ba14200ad67025376d2ed15",
+      "namespace": "azalea"
+    },
+    {
+      "id": "bb98a1b68282464493f683080c3ff565",
+      "namespace": "azalea"
+    },
+    {
+      "id": "798661e7eb634bee956a0ff0f07df61b",
+      "namespace": "azalea"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    }
+  ],
   "categories": [
     {
       "path": "games"
@@ -41,26 +43,94 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "KR"
-    }
-  ],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "80318b116ba14200ad67025376d2ed15"
-    },
-    {
-      "id": "bb98a1b68282464493f683080c3ff565"
-    },
-    {
-      "id": "798661e7eb634bee956a0ff0f07df61b"
-    }
-  ],
   "catalogNs": {
-    "name": "azalea"
-  }
+    "mappings": [
+      {
+        "pageSlug": "thecycle--5000-aurum-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecycle--fortuna-survivor",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecycle--2800-aurum-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecycle--13500-aurum-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecycle--1000-aurum-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecycle--elite-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecycle--fortuna-veteran",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecyle--howler-tamer-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecycle--specialist-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecycle--initiate-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecycle--authority-peacekeeper-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecycle--vivid-party-style-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecycle--professional-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecyle--fresh-fortunes-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecycle--prime-time-bundle",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2050-08-29T17:49:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

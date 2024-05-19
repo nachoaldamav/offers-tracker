@@ -1,84 +1,46 @@
 {
+  "title": "UNFOLLOW",
   "id": "dddb9dce8dfc4b4e959304a43ae79ba4",
   "namespace": "89d646389bb544b4866e338426aefd41",
-  "title": "UNFOLLOW",
   "description": "UNFOLLOW is a surreal horror game that explores the dark impact of social media on mental health: body issues, obsession, and retaliation.",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "db0c01902ea946c1896433c406f6c432",
-  "offerType": "BASE_GAME",
-  "creationDate": "2023-03-25T14:38:38.918Z",
-  "lastModifiedDate": "2023-03-25T14:38:38.918Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": "2023-09-30T00:00:00.000Z",
-  "publisherDisplayName": "Serafini Productions",
-  "countriesBlacklist": [
-    "BR",
-    "RU",
-    "AU",
-    "KR"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2023-03-19T05:00:00.000Z",
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "unfollow-5ebfc0"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/78890362c1094b538b49251861f4650a/unfollow-e23ge.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/78890362c1094b538b49251861f4650a/unfollow-trgh4.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/spt-assets/78890362c1094b538b49251861f4650a/unfollow-trgh4.png"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "unfollow-5ebfc0"
-    }
-  ],
+  "currentPrice": 2999,
   "seller": {
     "id": "o-wnjre5sz9z8p2d2anuz27k5a2m9jcw",
     "name": "Serafini Productions"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games/edition/base"
-    },
-    {
-      "path": "games/edition"
-    },
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "db0c01902ea946c1896433c406f6c432",
+  "url": null,
   "tags": [
     {
       "id": "1218",
-      "name": "Horror",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:06.599Z",
-      "updated": "2023-08-22T19:55:04.197Z",
-      "status": "ACTIVE",
-      "referenceCount": 414,
-      "comment": null
+      "name": "Horror"
     },
     {
       "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-23T05:17:12.951Z",
-      "status": "ACTIVE",
-      "referenceCount": 5001,
-      "comment": null
+      "name": "Single Player"
+    }
+  ],
+  "items": [
+    {
+      "id": "eb32f64a55ae466ab04a4b5e3dc96e99",
+      "namespace": "89d646389bb544b4866e338426aefd41"
     }
   ],
   "customAttributes": [
@@ -99,41 +61,60 @@
       "value": "false"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/78890362c1094b538b49251861f4650a/unfollow-e23ge.png",
-      "md5": "10a3325c4e7a3d9d720a3d87e118a3e5",
-      "size": 1415034,
-      "uploadedDate": "2023-03-19T05:36:22.449Z",
-      "width": 2560,
-      "height": 1440
+      "path": "games/edition/base"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/78890362c1094b538b49251861f4650a/unfollow-trgh4.png",
-      "md5": "a909c40a3d199d4da250d14caf6b25e1",
-      "size": 2333246,
-      "uploadedDate": "2023-03-19T05:49:40.866Z",
-      "width": 1200,
-      "height": 1600
+      "path": "games/edition"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/78890362c1094b538b49251861f4650a/unfollow-trgh4.png",
-      "md5": "a909c40a3d199d4da250d14caf6b25e1",
-      "size": 2333246,
-      "uploadedDate": "2023-03-19T05:49:40.866Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "eb32f64a55ae466ab04a4b5e3dc96e99"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "89d646389bb544b4866e338426aefd41"
+    "mappings": [
+      {
+        "pageSlug": "unfollow-5ebfc0",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "unfollow-5ebfc0",
+      "pageType": "productHome"
+    }
+  ],
+  "developerDisplayName": "Serafini Productions",
+  "publisherDisplayName": "Serafini Productions",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2023-09-30T00:00:00.000Z",
+  "pcReleaseDate": "2023-09-30T00:00:00.000Z",
+  "viewableDate": "2023-03-19T05:00:00.000Z",
+  "approximateReleasePlan": {
+    "day": null,
+    "month": null,
+    "quarter": "q3",
+    "year": 2023,
+    "releaseDateType": "BY_QUARTER"
   }
 }

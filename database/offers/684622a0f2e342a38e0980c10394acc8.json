@@ -1,83 +1,54 @@
 {
+  "title": "Far Cry 5 Gold Edition",
   "id": "684622a0f2e342a38e0980c10394acc8",
   "namespace": "coriander",
-  "title": "Far Cry 5 Gold Edition",
   "description": "The Gold Edition includes the game, the Digital Deluxe Pack & the Season Pass which includes 3 new experiences.",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "far-cry-5/gold-edition",
-  "urlSlug": "coriander-gold-01",
-  "offerType": "EDITION",
-  "creationDate": "2022-06-30T18:24:17.325Z",
-  "lastModifiedDate": "2024-05-14T08:34:47.734Z",
   "effectiveDate": "2020-02-07T00:00:00.000Z",
-  "pcReleaseDate": "2018-03-27T10:00:00.000Z",
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY",
-    "CN"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2020-02-07T00:00:00.000Z",
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "far-cry-5--gold-edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/coriander/FCZ_StorePortrait_1200x1600_1200x1600-9cf7a6dd0c48d04ed608be78f0d0ad65"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/coriander/offer/FC5_GE_Edition_Capsule_1920X1080-1920x1080-cba18210717a2b6d1f7bb2cc8e339f3f8ca67548.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/coriander/offer/FC5_GE_Edition_Capsule_1920X1080-1920x1080-871db26ab326d8b5ddb4461826be617f.jpg"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "far-cry-5--gold-edition"
-    }
-  ],
+  "currentPrice": 8999,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    },
-    {
-      "path": "games/edition"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": "far-cry-5/gold-edition",
+  "urlSlug": "coriander-gold-01",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
     },
     {
       "id": "16011",
-      "name": "Epic MEGA Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-04-27T08:10:34.554Z",
-      "updated": "2024-05-16T14:58:02.941Z",
-      "status": "ACTIVE",
-      "referenceCount": 3048,
-      "comment": ""
+      "name": "Epic MEGA Sale"
+    }
+  ],
+  "items": [
+    {
+      "id": "4857b7e1690c4817a623c276d47dbc33",
+      "namespace": "hellebore"
+    },
+    {
+      "id": "7a189738c32c4b6298c7dc3d009a363b",
+      "namespace": "coriander"
+    },
+    {
+      "id": "d8db2eafe7cf48669ae2d1f0fc3411aa",
+      "namespace": "coriander"
     }
   ],
   "customAttributes": [
@@ -94,47 +65,78 @@
       "value": "far-cry-5/gold-edition"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/coriander/FCZ_StorePortrait_1200x1600_1200x1600-9cf7a6dd0c48d04ed608be78f0d0ad65",
-      "md5": "9cf7a6dd0c48d04ed608be78f0d0ad65",
-      "size": 979636,
-      "uploadedDate": "2023-03-30T14:51:48.164Z",
-      "width": 1200,
-      "height": 1600
+      "path": "games"
     },
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/coriander/offer/FC5_GE_Edition_Capsule_1920X1080-1920x1080-cba18210717a2b6d1f7bb2cc8e339f3f8ca67548.jpg",
-      "md5": "d8f7b77988ac03de64f57c4df7eb5853",
-      "size": 142206,
-      "uploadedDate": "2020-02-12T09:41:44.790Z",
-      "width": 1920,
-      "height": 1080
+      "path": "games/edition"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/coriander/offer/FC5_GE_Edition_Capsule_1920X1080-1920x1080-871db26ab326d8b5ddb4461826be617f.jpg",
-      "md5": "871db26ab326d8b5ddb4461826be617f",
-      "size": 1026368,
-      "uploadedDate": "2020-02-10T02:35:33.025Z",
-      "width": 1920,
-      "height": 1080
-    }
-  ],
-  "items": [
-    {
-      "id": "4857b7e1690c4817a623c276d47dbc33"
-    },
-    {
-      "id": "7a189738c32c4b6298c7dc3d009a363b"
-    },
-    {
-      "id": "d8db2eafe7cf48669ae2d1f0fc3411aa"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "coriander"
-  }
+    "mappings": [
+      {
+        "pageSlug": "far-cry-5--gold-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "far-cry-5--dead-living-zombies-dlc",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "far-cry-5--hours-of-darkness-dlc",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "far-cry-5",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "far-cry-5--lost-on-mars-dlc",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "far-cry-5--season-pass",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "far-cry-5--gold-edition",
+      "pageType": "offer"
+    }
+  ],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1349,
+      "originalPrice": 8999,
+      "voucherDiscount": 0,
+      "discount": 7650,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "8fde7321e8ad4e0bad3b1bb4af3461a8"
+          }
+        ]
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2018-03-27T10:00:00.000Z",
+  "pcReleaseDate": "2018-03-27T10:00:00.000Z",
+  "viewableDate": "2020-02-07T00:00:00.000Z",
+  "approximateReleasePlan": null
 }

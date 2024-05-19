@@ -1,94 +1,50 @@
 {
+  "title": "Street Pursuit",
   "id": "a15f18221ea14e4eba01517c5e114e60",
   "namespace": "d5dbb40723524c528b6a529f2a4f6b57",
-  "title": "Street Pursuit",
   "description": "Endless Runner PC Game",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "7acf14b25d524cd6bb238ebfa63745d1",
-  "offerType": "BASE_GAME",
-  "creationDate": "2023-08-30T23:10:27.498Z",
-  "lastModifiedDate": "2024-04-16T15:00:04.618Z",
   "effectiveDate": "2023-09-10T23:30:00.000Z",
-  "pcReleaseDate": "2023-09-10T23:30:00.000Z",
-  "publisherDisplayName": "Hazem",
-  "countriesBlacklist": [
-    "RU",
-    "KR"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2023-09-07T11:30:00.000Z",
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "streetpursuit-6a718e"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/a6653f7af0864fc7b5c713f08c00ec66/street-pursuit-o94o6.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/a6653f7af0864fc7b5c713f08c00ec66/street-pursuit-xb7qk.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/spt-assets/a6653f7af0864fc7b5c713f08c00ec66/street-pursuit-xb7qk.jpg"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "streetpursuit-6a718e"
-    }
-  ],
+  "currentPrice": 99,
   "seller": {
     "id": "o-lafe5ugbtf4n4pg9clbx74ss7p2jvk",
     "name": "Kongratz"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games/edition/base"
-    },
-    {
-      "path": "games/edition"
-    },
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "7acf14b25d524cd6bb238ebfa63745d1",
+  "url": null,
   "tags": [
     {
       "id": "1336",
-      "name": "Action-Adventure",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:05.439Z",
-      "updated": "2023-08-23T03:24:56.304Z",
-      "status": "ACTIVE",
-      "referenceCount": 519,
-      "comment": null
+      "name": "Action-Adventure"
     },
     {
       "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-23T05:17:12.951Z",
-      "status": "ACTIVE",
-      "referenceCount": 5001,
-      "comment": null
+      "name": "Single Player"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "f1cbc04d8c334aaea2fe95d7e825b9d1",
+      "namespace": "d5dbb40723524c528b6a529f2a4f6b57"
     }
   ],
   "customAttributes": [
@@ -109,41 +65,54 @@
       "value": "false"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/a6653f7af0864fc7b5c713f08c00ec66/street-pursuit-o94o6.png",
-      "md5": "6af9403d4abe0c92462027f719b1afe1",
-      "size": 1514556,
-      "uploadedDate": "2023-09-05T15:42:10.276Z",
-      "width": 2560,
-      "height": 1440
+      "path": "games/edition/base"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/a6653f7af0864fc7b5c713f08c00ec66/street-pursuit-xb7qk.jpg",
-      "md5": "5aaed0834fb4de3ab4fd8c09c40b86b9",
-      "size": 513718,
-      "uploadedDate": "2023-09-05T15:37:08.462Z",
-      "width": 1200,
-      "height": 1600
+      "path": "games/edition"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/a6653f7af0864fc7b5c713f08c00ec66/street-pursuit-xb7qk.jpg",
-      "md5": "5aaed0834fb4de3ab4fd8c09c40b86b9",
-      "size": 513718,
-      "uploadedDate": "2023-09-05T15:37:08.462Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "f1cbc04d8c334aaea2fe95d7e825b9d1"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "d5dbb40723524c528b6a529f2a4f6b57"
-  }
+    "mappings": [
+      {
+        "pageSlug": "streetpursuit-6a718e",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "streetpursuit-6a718e",
+      "pageType": "productHome"
+    }
+  ],
+  "developerDisplayName": "Hazem",
+  "publisherDisplayName": "Hazem",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 99,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2023-09-10T23:30:00.000Z",
+  "pcReleaseDate": "2023-09-10T23:30:00.000Z",
+  "viewableDate": "2023-09-07T11:30:00.000Z",
+  "approximateReleasePlan": null
 }

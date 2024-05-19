@@ -1,36 +1,46 @@
 {
+  "title": "Squad Editor",
   "id": "6bddda6e5d6c4fd8abcdd664b0f30f61",
   "namespace": "squad",
-  "title": "Squad Editor",
   "description": "COORDINATE · COMMUNICATE · CONQUER",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "squad",
-  "urlSlug": "squad-editor-general-audience",
-  "offerType": "OTHERS",
-  "creationDate": "2020-12-18T18:24:41.135Z",
-  "lastModifiedDate": "2023-11-13T15:42:24.308Z",
   "effectiveDate": "2016-06-09T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": "Offworld Industries Ltd.",
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Squad_White-1000x442-82ca7a87a9383a2953197e880242304b.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/squad/offer/squad_bg-430x250-3663a5db21502e545abd227b41c741e9-430x250-3663a5db21502e545abd227b41c741e9.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-8plqywts72wwm3wp3wjaqvclgn5dun",
     "name": "Offworld Industries Ltd."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": "squad",
+  "urlSlug": "squad-editor-general-audience",
+  "url": null,
+  "tags": [
+    {
+      "id": "9559",
+      "name": "Editors"
+    }
+  ],
+  "items": [
+    {
+      "id": "2bcae7bd648242b4a6e50040dc7e30ed",
+      "namespace": "squad"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "squad"
+    }
+  ],
   "categories": [
     {
       "path": "engines"
@@ -42,52 +52,38 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "9559",
-      "name": "Editors",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T21:11:57.763Z",
-      "updated": "2023-06-28T21:16:34.903Z",
-      "status": "ACTIVE",
-      "referenceCount": 54,
-      "comment": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "squad"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/Squad_White-1000x442-82ca7a87a9383a2953197e880242304b.png",
-      "md5": "82ca7a87a9383a2953197e880242304b",
-      "size": 56187,
-      "uploadedDate": "2018-11-14T00:49:17.105Z",
-      "width": 1000,
-      "height": 442
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/squad/offer/squad_bg-430x250-3663a5db21502e545abd227b41c741e9-430x250-3663a5db21502e545abd227b41c741e9.jpg",
-      "md5": "3663a5db21502e545abd227b41c741e9",
-      "size": 124849,
-      "uploadedDate": "2020-02-24T16:32:10.934Z",
-      "width": 430,
-      "height": 250
-    }
-  ],
-  "items": [
-    {
-      "id": "2bcae7bd648242b4a6e50040dc7e30ed"
-    }
-  ],
   "catalogNs": {
-    "name": "squad"
-  }
+    "mappings": [
+      {
+        "pageSlug": "squad",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": "Offworld Industries Ltd.",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2016-06-09T00:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

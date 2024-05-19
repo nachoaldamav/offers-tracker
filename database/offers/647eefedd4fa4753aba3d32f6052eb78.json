@@ -1,45 +1,35 @@
 {
+  "title": "CanaryDevAudience",
   "id": "647eefedd4fa4753aba3d32f6052eb78",
   "namespace": "6ac9ddab8e604e3ba2d4ea01e8f9fa7d",
-  "title": "CanaryDevAudience",
   "description": "CanaryDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "canarydevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-08-07T20:38:47.229Z",
-  "lastModifiedDate": "2019-09-27T23:41:53.355Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/6ac9ddab8e604e3ba2d4ea01e8f9fa7d/offer/CodeRedemption_Template-340x440-52c9e869bfeeb511896e9f2cf0f3a3cb.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/6ac9ddab8e604e3ba2d4ea01e8f9fa7d/offer/CodeRedemption_Template-340x440-52c9e869bfeeb511896e9f2cf0f3a3cb.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-ftmts7pjfvdywkby885rdzl4hdbtys",
     "name": "Iceberg Interactive"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "canarydevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "0006beb097ad4c31b837680bf6a524f1",
+      "namespace": "6ac9ddab8e604e3ba2d4ea01e8f9fa7d"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -54,32 +44,46 @@
       "value": "Zoetrope Interactive"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/6ac9ddab8e604e3ba2d4ea01e8f9fa7d/offer/CodeRedemption_Template-340x440-52c9e869bfeeb511896e9f2cf0f3a3cb.jpg",
-      "md5": "52c9e869bfeeb511896e9f2cf0f3a3cb",
-      "size": 123437,
-      "uploadedDate": "2019-09-03T18:14:31.429Z",
-      "width": 340,
-      "height": 440
+      "path": "games"
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/6ac9ddab8e604e3ba2d4ea01e8f9fa7d/offer/CodeRedemption_Template-340x440-52c9e869bfeeb511896e9f2cf0f3a3cb.jpg",
-      "md5": "52c9e869bfeeb511896e9f2cf0f3a3cb",
-      "size": 123437,
-      "uploadedDate": "2019-09-03T18:14:39.965Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "0006beb097ad4c31b837680bf6a524f1"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "6ac9ddab8e604e3ba2d4ea01e8f9fa7d"
-  }
+    "mappings": [
+      {
+        "pageSlug": "conarium",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

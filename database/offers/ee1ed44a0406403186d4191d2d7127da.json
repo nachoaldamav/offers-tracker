@@ -1,94 +1,50 @@
 {
+  "title": "Mall of Mayhem",
   "id": "ee1ed44a0406403186d4191d2d7127da",
   "namespace": "d635c59e9720449a996cb8753309e034",
-  "title": "Mall of Mayhem",
   "description": "Inspired by Iron Man, suit up and upgrade your arsenal to become a living weapon of mass destruction as you try to uncover your past.",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "75cdbbd127924019a217cd61e8853024",
-  "offerType": "BASE_GAME",
-  "creationDate": "2023-06-01T20:22:46.996Z",
-  "lastModifiedDate": "2023-12-31T21:49:00.841Z",
   "effectiveDate": "2023-06-15T18:30:00.000Z",
-  "pcReleaseDate": "2023-06-15T18:30:00.000Z",
-  "publisherDisplayName": "KomodoBit Games",
-  "countriesBlacklist": [
-    "RU",
-    "KR"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2023-06-15T18:00:00.000Z",
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "mallofmayhem-15344c"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/68eae0c8692b45dabfcb8d60f10874a9/mallofmayhem-idycx.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/68eae0c8692b45dabfcb8d60f10874a9/mallofmayhem-1eg6l.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/spt-assets/68eae0c8692b45dabfcb8d60f10874a9/mallofmayhem-1eg6l.png"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "mallofmayhem-15344c"
-    }
-  ],
+  "currentPrice": 799,
   "seller": {
     "id": "o-5l5tptvzbu4ymcr56w2yclhc6uaxfp",
     "name": "KomodoBit Games"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games/edition/base"
-    },
-    {
-      "path": "games/edition"
-    },
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "75cdbbd127924019a217cd61e8853024",
+  "url": null,
   "tags": [
     {
       "id": "1336",
-      "name": "Action-Adventure",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:05.439Z",
-      "updated": "2023-08-23T03:24:56.304Z",
-      "status": "ACTIVE",
-      "referenceCount": 519,
-      "comment": null
+      "name": "Action-Adventure"
     },
     {
       "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-23T05:17:12.951Z",
-      "status": "ACTIVE",
-      "referenceCount": 5001,
-      "comment": null
+      "name": "Single Player"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "3da2c383c6a3461d9556c6fceca84a5b",
+      "namespace": "d635c59e9720449a996cb8753309e034"
     }
   ],
   "customAttributes": [
@@ -109,41 +65,78 @@
       "value": "false"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/68eae0c8692b45dabfcb8d60f10874a9/mallofmayhem-idycx.png",
-      "md5": "c7ca9a8f81e25f3688fcb93455b0b98d",
-      "size": 2746024,
-      "uploadedDate": "2023-12-27T23:31:19.883Z",
-      "width": 2560,
-      "height": 1440
+      "path": "games/edition/base"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/68eae0c8692b45dabfcb8d60f10874a9/mallofmayhem-1eg6l.png",
-      "md5": "f91ddb680b153bd3276cce14d80eb11f",
-      "size": 2132928,
-      "uploadedDate": "2023-12-27T23:31:25.114Z",
-      "width": 1200,
-      "height": 1600
+      "path": "games/edition"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/68eae0c8692b45dabfcb8d60f10874a9/mallofmayhem-1eg6l.png",
-      "md5": "f91ddb680b153bd3276cce14d80eb11f",
-      "size": 2132928,
-      "uploadedDate": "2023-12-27T23:31:25.114Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "3da2c383c6a3461d9556c6fceca84a5b"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "d635c59e9720449a996cb8753309e034"
-  }
+    "mappings": [
+      {
+        "pageSlug": "mallofmayhem-super-skin-pack-mall-of-mayhem-d8cf35",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "mallofmayhem-digital-skin-pack-mall-of-mayhem-9117ae",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "mallofmayhem-all-skins-pack-mall-of-mayhem-9b0149",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "mallofmayhem-mall-of-mayhem-demo-79b84b",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "mallofmayhem-cosmic-skin-pack-mall-of-mayhem-f4ae54",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "mallofmayhem-15344c",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "mallofmayhem-faq-1f7623",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "mallofmayhem-15344c",
+      "pageType": "productHome"
+    }
+  ],
+  "developerDisplayName": "KomodoBit Games",
+  "publisherDisplayName": "KomodoBit Games",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 799,
+      "originalPrice": 799,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2023-06-15T18:30:00.000Z",
+  "pcReleaseDate": "2023-06-15T18:30:00.000Z",
+  "viewableDate": "2023-06-15T18:00:00.000Z",
+  "approximateReleasePlan": null
 }

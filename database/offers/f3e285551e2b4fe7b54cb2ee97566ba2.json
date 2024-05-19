@@ -1,48 +1,26 @@
 {
+  "title": "DevRubyAudience",
   "id": "f3e285551e2b4fe7b54cb2ee97566ba2",
   "namespace": "ceaa24233cdb4b678a1cf515e3a912e8",
-  "title": "DevRubyAudience",
   "description": "DevRubyAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "devrubyaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2020-06-30T02:37:51.979Z",
-  "lastModifiedDate": "2020-08-27T14:44:35.476Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": "2099-01-01T00:00:00.000Z",
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
     "name": "Techland"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "devrubyaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "60ddd0a88c654b4285a71f1298ed4ab1",
+      "namespace": "ceaa24233cdb4b678a1cf515e3a912e8"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -57,13 +35,54 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "60ddd0a88c654b4285a71f1298ed4ab1"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "ceaa24233cdb4b678a1cf515e3a912e8"
-  }
+    "mappings": [
+      {
+        "pageSlug": "gods-trigger--omg-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "gods-trigger",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "gods-trigger--omg-edition-extras",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

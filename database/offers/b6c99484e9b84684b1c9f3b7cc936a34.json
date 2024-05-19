@@ -1,58 +1,29 @@
 {
+  "title": "DevLisbonAudience",
   "id": "b6c99484e9b84684b1c9f3b7cc936a34",
   "namespace": "16fc138ed83846bc90d923fe0d87ad72",
-  "title": "DevLisbonAudience",
   "description": "DevLisbonAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "devlisbonaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2020-10-01T17:53:11.322Z",
-  "lastModifiedDate": "2023-12-13T18:50:37.026Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-rbx4uqtxzlz5fmxe82f2frtebbz92h",
     "name": "Passion Republic Games"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "devlisbonaudience",
+  "url": null,
   "tags": [
     {
       "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
-      "status": "ACTIVE",
-      "referenceCount": 3628,
-      "comment": ""
+      "name": "Achievements"
+    }
+  ],
+  "items": [
+    {
+      "id": "e4e2729135b5406eb47aa4e466b7a446",
+      "namespace": "16fc138ed83846bc90d923fe0d87ad72"
     }
   ],
   "customAttributes": [
@@ -69,13 +40,62 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "e4e2729135b5406eb47aa4e466b7a446"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "16fc138ed83846bc90d923fe0d87ad72"
-  }
+    "mappings": [
+      {
+        "pageSlug": "gigabash--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "gigabash--ultraman-4-characters-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "gigabash--godzilla-4-kaiju-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "gigabash",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "gigabash-gigabash-godzilla-nemesis-49f662",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

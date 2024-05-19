@@ -1,72 +1,54 @@
 {
+  "title": "Pinbot",
   "id": "8a2203da330e4cb9be9e702325ccabb1",
   "namespace": "2fb0f7c2c29041ea94464a263acfbeb7",
-  "title": "Pinbot",
   "description": "Pinbot reimagines the timeless breakout game in an immersive 3D setting. Traditional brick formations now morph into incubators nurturing alien robots, demanding swift destruction! In this robotic realm, every element is mechanized.",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "d1ed3fb72deb47128393a7500752de0d",
-  "offerType": "BASE_GAME",
-  "creationDate": "2024-01-09T21:33:00.970Z",
-  "lastModifiedDate": "2024-05-03T06:20:11.038Z",
   "effectiveDate": "2024-02-15T11:00:00.000Z",
-  "pcReleaseDate": "2024-01-24T00:00:00.000Z",
-  "publisherDisplayName": "sante76",
-  "countriesBlacklist": [
-    "KR"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2024-02-04T07:21:51.481Z",
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "pinbot-ad038d"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/3ad1024cef3949acb19abac93e7db1bc/pinbot-1909r.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/3ad1024cef3949acb19abac93e7db1bc/pinbot-1fvsh.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/spt-assets/3ad1024cef3949acb19abac93e7db1bc/pinbot-1fvsh.jpg"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "pinbot-ad038d"
-    }
-  ],
+  "currentPrice": 1499,
   "seller": {
     "id": "o-dma36vuv2k6vs87zwgt5u5v4ncjr8b",
     "name": "Santeramo Gianluca"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games/edition/base"
-    },
-    {
-      "path": "games/edition"
-    },
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "d1ed3fb72deb47128393a7500752de0d",
+  "url": null,
   "tags": [
-    null,
-    null,
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-08-23T05:17:12.988Z",
-      "status": "ACTIVE",
-      "referenceCount": 1176,
-      "comment": null
+      "name": "Indie"
+    }
+  ],
+  "items": [
+    {
+      "id": "95f9bd12bf2440ee8bce9a1b564f7ab1",
+      "namespace": "2fb0f7c2c29041ea94464a263acfbeb7"
     }
   ],
   "customAttributes": [
@@ -87,41 +69,58 @@
       "value": "false"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/3ad1024cef3949acb19abac93e7db1bc/pinbot-1909r.jpg",
-      "md5": "49f8486b6b6e539bdf33cfe008c4ca0f",
-      "size": 3354339,
-      "uploadedDate": "2024-01-27T09:53:07.920Z",
-      "width": 2560,
-      "height": 1440
+      "path": "games/edition/base"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/3ad1024cef3949acb19abac93e7db1bc/pinbot-1fvsh.jpg",
-      "md5": "1cca030f61b27bc5d03685f09fb49c2b",
-      "size": 1695809,
-      "uploadedDate": "2024-01-27T09:52:39.587Z",
-      "width": 1200,
-      "height": 1600
+      "path": "games/edition"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/3ad1024cef3949acb19abac93e7db1bc/pinbot-1fvsh.jpg",
-      "md5": "1cca030f61b27bc5d03685f09fb49c2b",
-      "size": 1695809,
-      "uploadedDate": "2024-01-27T09:52:39.587Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "95f9bd12bf2440ee8bce9a1b564f7ab1"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "2fb0f7c2c29041ea94464a263acfbeb7"
-  }
+    "mappings": [
+      {
+        "pageSlug": "pinbot-ad038d",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "pinbot-pinbot-demo-dd1aaf",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "pinbot-ad038d",
+      "pageType": "productHome"
+    }
+  ],
+  "developerDisplayName": "sante76",
+  "publisherDisplayName": "sante76",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2024-02-15T11:00:00.000Z",
+  "pcReleaseDate": "2024-01-24T00:00:00.000Z",
+  "viewableDate": "2024-02-04T07:21:51.481Z",
+  "approximateReleasePlan": null
 }

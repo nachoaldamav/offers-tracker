@@ -1,38 +1,78 @@
 {
+  "title": "The Jackbox Party Pack",
   "id": "f2546a46804147bfb6ab74937caf9295",
   "namespace": "feverfew",
-  "title": "The Jackbox Party Pack",
   "description": "For 1-100 players! Your phones or tablets are your controllers! The team behind YOU DON’T KNOW JACK presents FIVE guffaw-inducing party games in one pack!",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "jackbox-party-pack-1",
-  "urlSlug": "jackbox-party-pack",
-  "offerType": "BASE_GAME",
-  "creationDate": "2019-01-15T15:47:30.842Z",
-  "lastModifiedDate": "2024-05-14T08:34:47.815Z",
   "effectiveDate": "2019-01-24T16:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": "Jackbox Games",
-  "countriesBlacklist": [
-    "KR"
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/feverfew/PP1_TallImage_1200x1600-fe8ca9d7be58d90903ddf0d40d7b061c"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/feverfew/PP1_WideImage_2560x1440-dd7ac7ac9b76c2b1942a2d427fbf811a"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/feverfew/PP1_TallImage_1200x1600-fe8ca9d7be58d90903ddf0d40d7b061c"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2019-01-23T11:38:00.000Z",
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 2499,
   "seller": {
     "id": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
     "name": "Jackbox Games, Inc."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": "jackbox-party-pack-1",
+  "urlSlug": "jackbox-party-pack",
+  "url": null,
+  "tags": [
+    {
+      "id": "1296",
+      "name": "Casual"
+    },
+    {
+      "id": "1203",
+      "name": "Multiplayer"
+    },
+    {
+      "id": "1110",
+      "name": "Party"
+    },
+    {
+      "id": "1318",
+      "name": "Trivia"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS"
+    }
+  ],
+  "items": [
+    {
+      "id": "8736dc20cad7477d9c9d9473d1a7dcbd",
+      "namespace": "feverfew"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "jackbox-party-pack-1"
+    }
+  ],
   "categories": [
     {
       "path": "games"
@@ -47,140 +87,42 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "1296",
-      "name": "Casual",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:45.644Z",
-      "updated": "2023-08-23T04:55:54.798Z",
-      "status": "ACTIVE",
-      "referenceCount": 423,
-      "comment": null
-    },
-    {
-      "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2024-03-28T21:49:29.573Z",
-      "status": "ACTIVE",
-      "referenceCount": 1846,
-      "comment": null
-    },
-    {
-      "id": "1110",
-      "name": "Party",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:13.150Z",
-      "updated": "2023-08-23T04:55:54.831Z",
-      "status": "ACTIVE",
-      "referenceCount": 123,
-      "comment": null
-    },
-    {
-      "id": "1318",
-      "name": "Trivia",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:56.576Z",
-      "updated": "2023-07-29T14:59:59.710Z",
-      "status": "ACTIVE",
-      "referenceCount": 96,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
-    },
-    {
-      "id": "16011",
-      "name": "Epic MEGA Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-04-27T08:10:34.554Z",
-      "updated": "2024-05-16T14:58:02.941Z",
-      "status": "ACTIVE",
-      "referenceCount": 3048,
-      "comment": ""
-    },
-    {
-      "id": "10719",
-      "name": "Mac OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX",
-        "macOS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-08-23T05:08:24.605Z",
-      "status": "ACTIVE",
-      "referenceCount": 1146,
-      "comment": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "KR"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "jackbox-party-pack-1"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/feverfew/PP1_TallImage_1200x1600-fe8ca9d7be58d90903ddf0d40d7b061c",
-      "md5": "fe8ca9d7be58d90903ddf0d40d7b061c",
-      "size": 940698,
-      "uploadedDate": "2023-01-12T12:58:41.210Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/feverfew/PP1_WideImage_2560x1440-dd7ac7ac9b76c2b1942a2d427fbf811a",
-      "md5": "dd7ac7ac9b76c2b1942a2d427fbf811a",
-      "size": 992623,
-      "uploadedDate": "2023-01-12T12:58:38.333Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/feverfew/PP1_TallImage_1200x1600-fe8ca9d7be58d90903ddf0d40d7b061c",
-      "md5": "fe8ca9d7be58d90903ddf0d40d7b061c",
-      "size": 940698,
-      "uploadedDate": "2023-01-12T12:58:45.108Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "8736dc20cad7477d9c9d9473d1a7dcbd"
-    }
-  ],
   "catalogNs": {
-    "name": "feverfew"
-  }
+    "mappings": [
+      {
+        "pageSlug": "jackbox-party-pack-1",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": "Jackbox Games",
+  "publisherDisplayName": "Jackbox Games",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1124,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 1375,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "c46703b6147243cfab63e05420840a3a"
+          }
+        ]
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2014-11-18T15:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": "2019-01-23T11:38:00.000Z",
+  "approximateReleasePlan": null
 }

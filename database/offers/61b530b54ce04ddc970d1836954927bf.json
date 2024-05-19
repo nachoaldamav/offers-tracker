@@ -1,71 +1,51 @@
 {
+  "title": "The Cub",
   "id": "61b530b54ce04ddc970d1836954927bf",
   "namespace": "c3a896e5dfd740309a3069cb32835592",
-  "title": "The Cub",
   "description": "The Jungle Book meets the armageddon. A story-rich, old-school tough platformer inspired by SEGA classics but built for today. Platform parkour through the remains of humanity as smooth apocalypse-wave tunes and stories reveal more.",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "953050e2e93a41948674978eaf804423",
-  "offerType": "BASE_GAME",
-  "creationDate": "2022-03-24T20:05:55.138Z",
-  "lastModifiedDate": "2024-05-11T09:52:27.237Z",
   "effectiveDate": "2024-04-04T22:00:00.000Z",
-  "pcReleaseDate": "2024-04-04T22:00:00.000Z",
-  "publisherDisplayName": "Untold Tales S.A.",
-  "countriesBlacklist": [
-    "KR"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2024-03-31T22:00:00.000Z",
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "the-cub-158658"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/998c191f48cb425895338e0d849e40ae/the-cub-2na7h.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/998c191f48cb425895338e0d849e40ae/the-cub-dro84.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/spt-assets/998c191f48cb425895338e0d849e40ae/the-cub-dro84.jpg"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "the-cub-158658"
-    }
-  ],
+  "currentPrice": 1499,
   "seller": {
     "id": "o-fkvj29n26bsmb8vcze2g2lm3sk7cp2",
     "name": "Untold Tales S.A."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games/edition/base"
-    },
-    {
-      "path": "games/edition"
-    },
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "953050e2e93a41948674978eaf804423",
+  "url": null,
   "tags": [
     {
       "id": "1336",
-      "name": "Action-Adventure",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:05.439Z",
-      "updated": "2023-08-23T03:24:56.304Z",
-      "status": "ACTIVE",
-      "referenceCount": 519,
-      "comment": null
+      "name": "Action-Adventure"
     },
-    null
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "0ee0feb4a640462ca51137072fbf4426",
+      "namespace": "c3a896e5dfd740309a3069cb32835592"
+    }
   ],
   "customAttributes": [
     {
@@ -85,41 +65,54 @@
       "value": "false"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/998c191f48cb425895338e0d849e40ae/the-cub-2na7h.jpg",
-      "md5": "2518601a90b961e287927e8dcc50698e",
-      "size": 902298,
-      "uploadedDate": "2024-01-04T20:26:13.938Z",
-      "width": 2560,
-      "height": 1440
+      "path": "games/edition/base"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/998c191f48cb425895338e0d849e40ae/the-cub-dro84.jpg",
-      "md5": "92b44e8d1ba2eaa0352a5c442cb34f24",
-      "size": 568629,
-      "uploadedDate": "2024-01-04T20:26:23.600Z",
-      "width": 1200,
-      "height": 1600
+      "path": "games/edition"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/998c191f48cb425895338e0d849e40ae/the-cub-dro84.jpg",
-      "md5": "92b44e8d1ba2eaa0352a5c442cb34f24",
-      "size": 568629,
-      "uploadedDate": "2024-01-04T20:26:23.600Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "0ee0feb4a640462ca51137072fbf4426"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "c3a896e5dfd740309a3069cb32835592"
-  }
+    "mappings": [
+      {
+        "pageSlug": "the-cub-158658",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "the-cub-158658",
+      "pageType": "productHome"
+    }
+  ],
+  "developerDisplayName": "Demagog Studio",
+  "publisherDisplayName": "Untold Tales S.A.",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2024-04-04T22:00:00.000Z",
+  "pcReleaseDate": "2024-04-04T22:00:00.000Z",
+  "viewableDate": "2024-03-31T22:00:00.000Z",
+  "approximateReleasePlan": null
 }

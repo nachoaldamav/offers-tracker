@@ -1,56 +1,29 @@
 {
+  "title": "Map Pack 1 DLC",
   "id": "a067a1f09edf42c895a3f95161f7ebe5",
   "namespace": "wombat",
-  "title": "Map Pack 1 DLC",
   "description": "Map Pack 1 DLC",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "{}",
-  "urlSlug": "map-pack-1-dlc",
-  "offerType": "UNLOCKABLE",
-  "creationDate": "2020-04-09T00:57:43.525Z",
-  "lastModifiedDate": "2020-05-05T10:00:00.850Z",
   "effectiveDate": "2099-12-31T16:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-2xlz78ngz5ubvus9sff9blglee43uk",
     "name": "Saber Interactive"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": "{}",
+  "urlSlug": "map-pack-1-dlc",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "66e96f5638974479be08fc2d322c27d9",
+      "namespace": "wombat"
     }
   ],
   "customAttributes": [
@@ -67,13 +40,98 @@
       "value": "{}"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "66e96f5638974479be08fc2d322c27d9"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "wombat"
-  }
+    "mappings": [
+      {
+        "pageSlug": "world-war-z--aftermath-deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "world-war-z--aftermath-upgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "world-war-z--aftermath--raven-weapons-skin-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "world-war-z--aftermath-zeke-hunter-weapons-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "world-war-z--aftermath-explorer-weapons-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "world-war-z",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "world-war-z--goty-edition-upgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "world-war-z--aftermath-rat-packs-weapon-skins",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "world-war-z--aftermath-deadly-vice-weapon-skins",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "world-war-z--base-game",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "world-war-z--victory-lap-weapons-skin",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "world-war-z--pre-apocalypse-characters",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "world-war-z--valley-of-the-zeke",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "world-war-z--burning-skulls-weapons",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-12-31T16:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

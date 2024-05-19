@@ -1,41 +1,37 @@
 {
+  "title": "Genesis Alpha One: Pre-purchase Only",
   "id": "d61167b196e449aa90731ad8d95e56f2",
   "namespace": "puma",
-  "title": "Genesis Alpha One: Pre-purchase Only",
   "description": "Genesis Alpha One: Pre-purchase Only",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "genesis-alpha-one-pre-purchase-only",
-  "offerType": "BASE_GAME",
-  "creationDate": "2019-01-15T21:15:18.162Z",
-  "lastModifiedDate": "2024-03-28T16:02:53.397Z",
   "effectiveDate": "2019-01-15T16:13:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "KR",
-    "BY",
-    "CN"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
     "name": "Team17 Digital Ltd"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "genesis-alpha-one-pre-purchase-only",
+  "url": null,
+  "tags": [
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "43ed28e577ab4c2a8cea27d6b44bba18",
+      "namespace": "puma"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    }
+  ],
   "categories": [
     {
       "path": "spthidden"
@@ -50,33 +46,38 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
-    }
-  ],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "43ed28e577ab4c2a8cea27d6b44bba18"
-    }
-  ],
   "catalogNs": {
-    "name": "puma"
-  }
+    "mappings": [
+      {
+        "pageSlug": "genesis-alpha-one",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

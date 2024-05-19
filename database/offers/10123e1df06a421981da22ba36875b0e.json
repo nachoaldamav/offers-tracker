@@ -1,36 +1,49 @@
 {
+  "title": "Kine PAX Pre-Purchase",
   "id": "10123e1df06a421981da22ba36875b0e",
   "namespace": "rose",
-  "title": "Kine PAX Pre-Purchase",
   "description": "Kine PAX Pre-Purchase",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "kine-pax-pre-purchase",
-  "offerType": "OTHERS",
-  "creationDate": "2019-08-01T18:00:07.290Z",
-  "lastModifiedDate": "2024-03-22T15:54:04.678Z",
   "effectiveDate": "2050-05-13T08:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/rose/Kine_tall_1200x1600-edd893141f34b46b64c2b140778f7c6c1_1200x1600-b1b6654d1208a54ec95221000fc2198e"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/rose/Kine_wide_2560x1440-e617a391cf56f5d69c83262c3a5bfc8a_2560x1440-72deff7fef6a1ee64bfe5069bc33a6e5"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/rose/Kine_tall_1200x1600-edd893141f34b46b64c2b140778f7c6c1_1200x1600-b1b6654d1208a54ec95221000fc2198e"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-na388hs5k2ak86akfejt2es246vaa2",
     "name": "Gwen Frey"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "kine-pax-pre-purchase",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "8d31d407a7c04225ae63acff98d7780a",
+      "namespace": "rose"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Gwen Frey"
+    }
+  ],
   "categories": [
     {
       "path": "spthidden"
@@ -45,52 +58,38 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "KR"
-    },
-    {
-      "key": "developerName",
-      "value": "Gwen Frey"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/rose/Kine_tall_1200x1600-edd893141f34b46b64c2b140778f7c6c1_1200x1600-b1b6654d1208a54ec95221000fc2198e",
-      "md5": "b1b6654d1208a54ec95221000fc2198e",
-      "size": 385127,
-      "uploadedDate": "2024-03-22T15:53:29.131Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/rose/Kine_wide_2560x1440-e617a391cf56f5d69c83262c3a5bfc8a_2560x1440-72deff7fef6a1ee64bfe5069bc33a6e5",
-      "md5": "72deff7fef6a1ee64bfe5069bc33a6e5",
-      "size": 594298,
-      "uploadedDate": "2024-03-22T15:53:44.351Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/rose/Kine_tall_1200x1600-edd893141f34b46b64c2b140778f7c6c1_1200x1600-b1b6654d1208a54ec95221000fc2198e",
-      "md5": "b1b6654d1208a54ec95221000fc2198e",
-      "size": 385127,
-      "uploadedDate": "2024-03-22T15:53:58.946Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "8d31d407a7c04225ae63acff98d7780a"
-    }
-  ],
   "catalogNs": {
-    "name": "rose"
-  }
+    "mappings": [
+      {
+        "pageSlug": "kine",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

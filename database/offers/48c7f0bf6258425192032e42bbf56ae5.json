@@ -1,53 +1,38 @@
 {
+  "title": "ARK Editor",
   "id": "48c7f0bf6258425192032e42bbf56ae5",
   "namespace": "epic",
-  "title": "ARK Editor",
   "description": "Flavored Editor for ARK Development",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "ark",
-  "urlSlug": "ark-editor",
-  "offerType": "OTHERS",
-  "creationDate": "2018-11-06T00:40:12.066Z",
-  "lastModifiedDate": "2023-08-18T09:53:36.012Z",
   "effectiveDate": "2018-11-05T19:39:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2018-11-05T19:39:00.000Z",
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Ark__White-581x484-a285208638c26d9673c11c8ed7eb4728.png"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/epic/offer/ark_box-860x500-c2151574eae04d57b4d6246fe9efbf0f.png"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
     "name": "Studio Wildcard"
   },
-  "linkedOfferId": "6a0dadfed285488bafec6f01f30f67d0",
-  "isFeatured": true,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "engines"
-    }
-  ],
+  "productSlug": "ark",
+  "urlSlug": "ark-editor",
+  "url": null,
   "tags": [
     {
       "id": "9559",
-      "name": "Editors",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T21:11:57.763Z",
-      "updated": "2023-06-28T21:16:34.903Z",
-      "status": "ACTIVE",
-      "referenceCount": 54,
-      "comment": null
+      "name": "Editors"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -64,32 +49,38 @@
       "value": "ark"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/Ark__White-581x484-a285208638c26d9673c11c8ed7eb4728.png",
-      "md5": "a285208638c26d9673c11c8ed7eb4728",
-      "size": 37822,
-      "uploadedDate": "2018-11-14T00:43:46.410Z",
-      "width": 581,
-      "height": 484
-    },
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/epic/offer/ark_box-860x500-c2151574eae04d57b4d6246fe9efbf0f.png",
-      "md5": "c2151574eae04d57b4d6246fe9efbf0f",
-      "size": 231034,
-      "uploadedDate": "2019-03-27T16:08:41.314Z",
-      "width": 860,
-      "height": 500
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "engines"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2018-05-01T20:45:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": "2018-11-05T19:39:00.000Z",
+  "approximateReleasePlan": null
 }

@@ -1,36 +1,48 @@
 {
+  "title": "A Collector's Edition Retail",
   "id": "124f453548ad4fd688c7e0bc96cdcafb",
   "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
-  "title": "A Collector's Edition Retail",
   "description": "A Collector's Edition (Retail)",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "a-collector-s-edition-retail",
-  "offerType": "EDITION",
-  "creationDate": "2019-08-21T22:11:38.893Z",
-  "lastModifiedDate": "2023-08-03T01:02:12.664Z",
   "effectiveDate": "2050-08-01T10:05:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
     "name": "Nacon"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "a-collector-s-edition-retail",
+  "url": null,
+  "tags": [
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "d3d9c868997a46a7991f315b46829d27",
+      "namespace": "f6dcd5bf17c0469789292d1166bf91a1"
+    },
+    {
+      "id": "94de2397bf644f75827591858fdc6d26",
+      "namespace": "f6dcd5bf17c0469789292d1166bf91a1"
+    },
+    {
+      "id": "799937cf94e0432e83f322c07be65fea",
+      "namespace": "f6dcd5bf17c0469789292d1166bf91a1"
+    },
+    {
+      "id": "abbbc39fbfef4a01a07117629e729da6",
+      "namespace": "f6dcd5bf17c0469789292d1166bf91a1"
+    },
+    {
+      "id": "d416a8c6968f48e299a8f34ef8683c27",
+      "namespace": "f6dcd5bf17c0469789292d1166bf91a1"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "spthidden"
@@ -45,40 +57,66 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
-    }
-  ],
-  "customAttributes": [],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "d3d9c868997a46a7991f315b46829d27"
-    },
-    {
-      "id": "94de2397bf644f75827591858fdc6d26"
-    },
-    {
-      "id": "799937cf94e0432e83f322c07be65fea"
-    },
-    {
-      "id": "abbbc39fbfef4a01a07117629e729da6"
-    },
-    {
-      "id": "d416a8c6968f48e299a8f34ef8683c27"
-    }
-  ],
   "catalogNs": {
-    "name": "f6dcd5bf17c0469789292d1166bf91a1"
-  }
+    "mappings": [
+      {
+        "pageSlug": "wrc-8--wrc-8-legendary-car-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wrc-8--wrc-8-rwd-legends",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wrc-8--wrc-8-lancia-delta-hf-integrale-evoluzione",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wrc-8--wrc-8-alpine-a110",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wrc-8--wrc-8-ford-escort-mkii1800",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wrc-8--wrc-8-senior-staff-members-unlock",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wrc-8",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "wrc-8--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

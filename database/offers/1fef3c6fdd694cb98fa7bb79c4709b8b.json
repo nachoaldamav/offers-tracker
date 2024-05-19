@@ -1,101 +1,54 @@
 {
+  "title": "Overpass",
   "id": "1fef3c6fdd694cb98fa7bb79c4709b8b",
   "namespace": "epic",
-  "title": "Overpass",
   "description": "Overpass",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "overpass/home",
-  "urlSlug": "overpass",
-  "offerType": "OTHERS",
-  "creationDate": "2020-01-14T21:50:02.369Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
   "effectiveDate": "2020-01-16T17:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ZordixRacing_OVERPASS_S1-2560x1440-ab3cac65a84bb4090d7ada687c2d2465.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ZordixRacing_OVERPASS_S2-860x1148-3295107fd8e79a29354a174113ea787f.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
     "name": "Nacon"
   },
-  "linkedOfferId": "e3446d29202c46cdb827d35dc1fae75f",
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": "overpass/home",
+  "urlSlug": "overpass",
+  "url": null,
   "tags": [
     {
       "id": "1393",
-      "name": "Simulation",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2023-08-23T03:55:35.422Z",
-      "status": "ACTIVE",
-      "referenceCount": 943,
-      "comment": null
+      "name": "Simulation"
     },
     {
       "id": "1283",
-      "name": "Sports",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:39.226Z",
-      "updated": "2023-08-18T14:35:48.351Z",
-      "status": "ACTIVE",
-      "referenceCount": 148,
-      "comment": null
+      "name": "Sports"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
     },
     {
       "id": "1212",
-      "name": "Racing",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:03.663Z",
-      "updated": "2023-08-23T04:55:54.861Z",
-      "status": "ACTIVE",
-      "referenceCount": 244,
-      "comment": null
+      "name": "Racing"
     },
     {
       "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-08-23T03:24:56.337Z",
-      "status": "ACTIVE",
-      "referenceCount": 2499,
-      "comment": null
+      "name": "Controller Support"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -120,32 +73,38 @@
       "value": "e3446d29202c46cdb827d35dc1fae75f"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ZordixRacing_OVERPASS_S1-2560x1440-ab3cac65a84bb4090d7ada687c2d2465.jpg",
-      "md5": "ab3cac65a84bb4090d7ada687c2d2465",
-      "size": 385614,
-      "uploadedDate": "2020-01-14T21:47:37.228Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ZordixRacing_OVERPASS_S2-860x1148-3295107fd8e79a29354a174113ea787f.jpg",
-      "md5": "3295107fd8e79a29354a174113ea787f",
-      "size": 171839,
-      "uploadedDate": "2020-01-14T21:47:48.398Z",
-      "width": 860,
-      "height": 1148
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": false,
+  "releaseDate": "2020-02-27T16:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

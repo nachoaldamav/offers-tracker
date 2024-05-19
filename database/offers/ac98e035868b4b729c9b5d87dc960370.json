@@ -1,60 +1,46 @@
 {
+  "title": "Operencia Humble Bundle",
   "id": "ac98e035868b4b729c9b5d87dc960370",
   "namespace": "lily",
-  "title": "Operencia Humble Bundle",
   "description": "Operencia Humble Bundle",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "operencia-humble-bundle-audience",
-  "offerType": "BASE_GAME",
-  "creationDate": "2019-05-14T19:48:33.132Z",
-  "lastModifiedDate": "2019-08-05T08:36:44.071Z",
   "effectiveDate": "2019-05-13T12:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "KR",
-    "BY"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/lily/item/Operencia-842x404-3511747173090e0e069515a713196792.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Operencia_CodeRedemption-330x440-4b8d45d3326b8c7d616f837afaf5dfe6.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Operencia_CodeRedemption-330x440-4b8d45d3326b8c7d616f837afaf5dfe6.png"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
     "name": "Zen Studios"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "operencia-humble-bundle-audience",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "fc15955c090644f78cfc309b722995a2",
+      "namespace": "lily"
+    },
+    {
+      "id": "20073cda15ff4d2fb0cd7b1cdce00f06",
+      "namespace": "lily"
     }
   ],
   "customAttributes": [
@@ -67,44 +53,54 @@
       "value": "Zen Studios"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/lily/item/Operencia-842x404-3511747173090e0e069515a713196792.png",
-      "md5": "3511747173090e0e069515a713196792",
-      "size": 46247,
-      "uploadedDate": "2019-05-14T19:36:18.234Z",
-      "width": 842,
-      "height": 404
+      "path": "games"
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Operencia_CodeRedemption-330x440-4b8d45d3326b8c7d616f837afaf5dfe6.png",
-      "md5": "4b8d45d3326b8c7d616f837afaf5dfe6",
-      "size": 72768,
-      "uploadedDate": "2019-05-14T19:46:17.421Z",
-      "width": 330,
-      "height": 440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Operencia_CodeRedemption-330x440-4b8d45d3326b8c7d616f837afaf5dfe6.png",
-      "md5": "4b8d45d3326b8c7d616f837afaf5dfe6",
-      "size": 72768,
-      "uploadedDate": "2019-05-14T19:46:37.135Z",
-      "width": 330,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "fc15955c090644f78cfc309b722995a2"
-    },
-    {
-      "id": "20073cda15ff4d2fb0cd7b1cdce00f06"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "lily"
-  }
+    "mappings": [
+      {
+        "pageSlug": "operencia--explorers-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "operencia",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "operencia--explorers-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

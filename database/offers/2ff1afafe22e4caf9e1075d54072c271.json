@@ -1,39 +1,45 @@
 {
+  "title": "Pepper DLC Bundle",
   "id": "2ff1afafe22e4caf9e1075d54072c271",
   "namespace": "5d582c08e31a43128a61093a2c3ff7f0",
-  "title": "Pepper DLC Bundle",
   "description": "Pepper DLC Bundle",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "pepper-dlc-bundle",
-  "offerType": "ADD_ON",
-  "creationDate": "2019-08-20T07:22:34.346Z",
-  "lastModifiedDate": "2023-08-03T01:02:43.101Z",
   "effectiveDate": "2050-09-24T03:20:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/item/ESRB_Shenmue3-842x404-b3b61b50e41756a3c15abdbd27349ce9.jpg"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
     "name": "Plaion"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "pepper-dlc-bundle",
+  "url": null,
+  "tags": [
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "b23eee4fe10944abb154dd845ebb1497",
+      "namespace": "5d582c08e31a43128a61093a2c3ff7f0"
+    },
+    {
+      "id": "b4eafd935fac4fada84047333b54e7e7",
+      "namespace": "5d582c08e31a43128a61093a2c3ff7f0"
+    },
+    {
+      "id": "0f89bb61e3b04d559e8c22c8c4efe2b5",
+      "namespace": "5d582c08e31a43128a61093a2c3ff7f0"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "spthidden"
@@ -48,44 +54,58 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
-    }
-  ],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/item/ESRB_Shenmue3-842x404-b3b61b50e41756a3c15abdbd27349ce9.jpg",
-      "md5": "b3b61b50e41756a3c15abdbd27349ce9",
-      "size": 114627,
-      "uploadedDate": "2019-07-29T16:25:27.434Z",
-      "width": 842,
-      "height": 404
-    }
-  ],
-  "items": [
-    {
-      "id": "b23eee4fe10944abb154dd845ebb1497"
-    },
-    {
-      "id": "b4eafd935fac4fada84047333b54e7e7"
-    },
-    {
-      "id": "0f89bb61e3b04d559e8c22c8c4efe2b5"
-    }
-  ],
   "catalogNs": {
-    "name": "5d582c08e31a43128a61093a2c3ff7f0"
-  }
+    "mappings": [
+      {
+        "pageSlug": "shenmue-3--season-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "shenmue-3--story-quest-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "shenmue-3",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "shenmue-3--big-merry-cruise",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "shenmue-3--battle-rally",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "shenmue-3--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

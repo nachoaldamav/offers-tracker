@@ -1,39 +1,53 @@
 {
+  "title": "Shakedown: Hawaii Beta Audience",
   "id": "985a24868c6c4958a4d25fb39f9ee54c",
   "namespace": "plumeria",
-  "title": "Shakedown: Hawaii Beta Audience",
   "description": "Shakedown: Hawaii Beta Audience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "plumeriabetaaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-02-08T21:24:40.766Z",
-  "lastModifiedDate": "2024-03-21T14:48:14.214Z",
   "effectiveDate": "2019-02-08T16:22:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR",
-    "CN"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/plumeria/offer/CodeRedemtion-340x440-920657788b75b43bceb99d6edf145542.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/plumeria/Epic_SH_1280x1420_Alt_1-1280x1420-07fbe7847c3a580b7f68d30245f4d6921_1200x1600-32ca4bf24907bfd2e557cd6e0d815487"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/plumeria/SH_StreetScene_Carjack_Crop_Wide-1800x1013-45ef216a455fba424059f0a68b723325_2560x1440-886a0342fc41d474e5d5c264f8f53f21"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/plumeria/CodeRedemtion-340x440-920657788b75b43bceb99d6edf145542_1200x1600-8c732a4700b152c36769b30279068d95"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-xyhkq3r6skdr6tbhalgcbp3264asl3",
     "name": "Vblank Entertainment"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "plumeriabetaaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "d1cdb9641c2e4f6fb1daa52805d7f6a8",
+      "namespace": "plumeria"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Vblank Entertainment"
+    }
+  ],
   "categories": [
     {
       "path": "spthidden"
@@ -48,61 +62,38 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
-    },
-    {
-      "key": "developerName",
-      "value": "Vblank Entertainment"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/plumeria/offer/CodeRedemtion-340x440-920657788b75b43bceb99d6edf145542.png",
-      "md5": "920657788b75b43bceb99d6edf145542",
-      "size": 289766,
-      "uploadedDate": "2019-03-05T15:11:38.750Z",
-      "width": 340,
-      "height": 440
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/plumeria/Epic_SH_1280x1420_Alt_1-1280x1420-07fbe7847c3a580b7f68d30245f4d6921_1200x1600-32ca4bf24907bfd2e557cd6e0d815487",
-      "md5": "32ca4bf24907bfd2e557cd6e0d815487",
-      "size": 540120,
-      "uploadedDate": "2024-03-21T14:47:48.145Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/plumeria/SH_StreetScene_Carjack_Crop_Wide-1800x1013-45ef216a455fba424059f0a68b723325_2560x1440-886a0342fc41d474e5d5c264f8f53f21",
-      "md5": "886a0342fc41d474e5d5c264f8f53f21",
-      "size": 1195398,
-      "uploadedDate": "2024-03-21T14:48:09.432Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/plumeria/CodeRedemtion-340x440-920657788b75b43bceb99d6edf145542_1200x1600-8c732a4700b152c36769b30279068d95",
-      "md5": "8c732a4700b152c36769b30279068d95",
-      "size": 646946,
-      "uploadedDate": "2024-03-21T14:47:33.949Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "d1cdb9641c2e4f6fb1daa52805d7f6a8"
-    }
-  ],
   "catalogNs": {
-    "name": "plumeria"
-  }
+    "mappings": [
+      {
+        "pageSlug": "shakedown-hawaii",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

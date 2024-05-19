@@ -1,62 +1,34 @@
 {
+  "title": "Tier 6 Limited Pack 4",
   "id": "8d40dceac92d4e0fa11fcdcf0122775e",
   "namespace": "1fe9a1a33a8b4df8bd8dd3b9269f8153",
-  "title": "Tier 6 Limited Pack 4",
   "description": "Tier 6 Limited Pack 4",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "dlc5004",
-  "offerType": "DLC",
-  "creationDate": "2021-09-14T19:45:57.188Z",
-  "lastModifiedDate": "2024-03-29T19:48:49.238Z",
   "effectiveDate": "2021-10-04T17:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "KR"
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AnimationThrowdownTheQuestforCards_Kongregate_S2_1200x1600-a760979bd1363d6f507e9f0325efe95e"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 4999,
   "seller": {
     "id": "o-ztdpxjrm7lyemkjl4967l76k4vzxfr",
     "name": "Kongregate"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "spthidden"
-    },
-    {
-      "path": "spthidden/consumable"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "dlc5004",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "78eabda0fed640fa92af10ab78617580",
+      "namespace": "1fe9a1a33a8b4df8bd8dd3b9269f8153"
     }
   ],
   "customAttributes": [
@@ -73,23 +45,53 @@
       "value": "Kongregate"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AnimationThrowdownTheQuestforCards_Kongregate_S2_1200x1600-a760979bd1363d6f507e9f0325efe95e",
-      "md5": "a760979bd1363d6f507e9f0325efe95e",
-      "size": 1008154,
-      "uploadedDate": "2021-10-04T17:42:15.808Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
+      "path": "spthidden"
+    },
     {
-      "id": "78eabda0fed640fa92af10ab78617580"
+      "path": "spthidden/consumable"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "1fe9a1a33a8b4df8bd8dd3b9269f8153"
-  }
+    "mappings": [
+      {
+        "pageSlug": "animation-throwdown-the-quest-for-cards",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "animation-throwdown-the-quest-for-cards-825-gem-pack-d13492",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2021-10-04T17:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

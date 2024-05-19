@@ -1,36 +1,32 @@
 {
+  "title": "MinNightly DevAudience",
   "id": "23f7f0b20b3147b1b1745c916d8e6e5a",
   "namespace": "min",
-  "title": "MinNightly DevAudience",
   "description": "MinNightly",
-  "longDescription": "MinNightly",
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "minnightly",
-  "offerType": "OTHERS",
-  "creationDate": "2018-11-15T19:04:10.501Z",
-  "lastModifiedDate": "2024-04-03T18:53:36.789Z",
   "effectiveDate": "2018-11-15T14:03:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": "2018-11-15T14:03:00.000Z",
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-vwkp2e2azz3ybr7ckg7pfnxhwezd4a",
     "name": "Supergiant Games LLC"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "minnightly",
+  "url": null,
+  "tags": [
+    {
+      "id": "19847",
+      "name": "Achievements"
+    }
+  ],
+  "items": [
+    {
+      "id": "5e12a24365634025bcfe8fcb6f87d940",
+      "namespace": "min"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "games"
@@ -39,28 +35,42 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
-      "status": "ACTIVE",
-      "referenceCount": 3628,
-      "comment": ""
-    }
-  ],
-  "customAttributes": [],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "5e12a24365634025bcfe8fcb6f87d940"
-    }
-  ],
   "catalogNs": {
-    "name": "min"
-  }
+    "mappings": [
+      {
+        "pageSlug": "hades--hades-original-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "hades",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2018-12-06T09:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": "2018-11-15T14:03:00.000Z",
+  "approximateReleasePlan": null
 }

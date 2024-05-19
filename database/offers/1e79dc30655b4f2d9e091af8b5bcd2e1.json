@@ -1,95 +1,110 @@
 {
+  "title": "SnapdragonMKTGAudience",
   "id": "1e79dc30655b4f2d9e091af8b5bcd2e1",
   "namespace": "snapdragon",
-  "title": "SnapdragonMKTGAudience",
   "description": "SnapdragonMKTGAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "snapdragonmktgaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-02-04T16:49:29.413Z",
-  "lastModifiedDate": "2023-03-06T17:20:12.820Z",
   "effectiveDate": "2019-02-04T11:49:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/snapdragon/offer/ME_icon-400x400-732cd6de7626f196b52c3675520f704b.png"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/snapdragon/offer/MetroExodus_GameLogo_Update-2850x1450-b14f454728dc4a768250d3bd6f6bb05f.png"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/snapdragon/offer/Metro_PrimaryPromo_update-2580x1450-0e5b7a55fb64f2b4ab1a46455a9293e0.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/snapdragon/offer/m3_codeRedemption_standardedition-330x440-f6c6f4a56befc8ebab8e9546a6b699cf.png"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
     "name": "Plaion"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "snapdragonmktgaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
+      "id": "a1455267ae8a49eb8f76d25ecbb4e3fa",
+      "namespace": "snapdragon"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
       "value": "{}"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/snapdragon/offer/ME_icon-400x400-732cd6de7626f196b52c3675520f704b.png",
-      "md5": "732cd6de7626f196b52c3675520f704b",
-      "size": 68919,
-      "uploadedDate": "2019-02-14T22:44:55.801Z",
-      "width": 400,
-      "height": 400
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/snapdragon/offer/MetroExodus_GameLogo_Update-2850x1450-b14f454728dc4a768250d3bd6f6bb05f.png",
-      "md5": "b14f454728dc4a768250d3bd6f6bb05f",
-      "size": 605487,
-      "uploadedDate": "2019-02-14T22:45:04.037Z",
-      "width": 2850,
-      "height": 1450
-    },
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/snapdragon/offer/Metro_PrimaryPromo_update-2580x1450-0e5b7a55fb64f2b4ab1a46455a9293e0.jpg",
-      "md5": "0e5b7a55fb64f2b4ab1a46455a9293e0",
-      "size": 580337,
-      "uploadedDate": "2019-02-14T22:45:10.848Z",
-      "width": 2580,
-      "height": 1450
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/snapdragon/offer/m3_codeRedemption_standardedition-330x440-f6c6f4a56befc8ebab8e9546a6b699cf.png",
-      "md5": "f6c6f4a56befc8ebab8e9546a6b699cf",
-      "size": 222029,
-      "uploadedDate": "2019-02-14T22:45:17.814Z",
-      "width": 330,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "a1455267ae8a49eb8f76d25ecbb4e3fa"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "snapdragon"
-  }
+    "mappings": [
+      {
+        "pageSlug": "metro-exodus--sams-story",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "metro-exodus--expansion-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "metro-exodus--sdk",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "metro-exodus--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "metro-exodus--the-two-colonels",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "metro-exodus",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "metro-exodus--gold-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

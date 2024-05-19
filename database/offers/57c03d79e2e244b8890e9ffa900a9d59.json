@@ -1,36 +1,32 @@
 {
+  "title": "9200 Gems",
   "id": "57c03d79e2e244b8890e9ffa900a9d59",
   "namespace": "5fdcc0dc67294af3be740f362bd976fd",
-  "title": "9200 Gems",
   "description": "9200 Gems",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "9200-gems",
-  "offerType": "VIRTUAL_CURRENCY",
-  "creationDate": "2019-11-06T01:30:31.262Z",
-  "lastModifiedDate": "2023-08-03T01:02:40.847Z",
   "effectiveDate": "2050-08-05T15:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 4999,
   "seller": {
     "id": "o-xlb74ml56wsa5dcfcgrpvu4ywndlmm",
     "name": "Wizards of the Coast"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "9200-gems",
+  "url": null,
+  "tags": [
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "85dfb257945f418fbd59301edbbff1e9",
+      "namespace": "5fdcc0dc67294af3be740f362bd976fd"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "spthidden/consumable"
@@ -45,28 +41,38 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
-    }
-  ],
-  "customAttributes": [],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "85dfb257945f418fbd59301edbbff1e9"
-    }
-  ],
   "catalogNs": {
-    "name": "5fdcc0dc67294af3be740f362bd976fd"
-  }
+    "mappings": [
+      {
+        "pageSlug": "mtg-arena",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-02-07T14:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,101 +1,54 @@
 {
+  "title": "Rune II",
   "id": "d91e4455d68a4483a4afe530c22f5e6a",
   "namespace": "epic",
-  "title": "Rune II",
   "description": "Rune 2",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "rune-2/home",
-  "urlSlug": "cosmos",
-  "offerType": "OTHERS",
-  "creationDate": "2019-03-04T20:28:42.128Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
   "effectiveDate": "2050-03-04T16:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/510x680-510x680-a8ffffcc77efa3eba9dc19cbfa043c7f.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/1360x766-1360x766-a182e19ca442354278094d960f139fe6.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-peysvmw9hg6a5s86ehl8a5dbz8fddp",
     "name": "Ragnarok Game, LLC"
   },
-  "linkedOfferId": "ce274c51740c4bc189fc4701e41b5584",
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": "rune-2/home",
+  "urlSlug": "cosmos",
+  "url": null,
   "tags": [
     {
       "id": "1216",
-      "name": "Action",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-08-23T05:17:12.937Z",
-      "status": "ACTIVE",
-      "referenceCount": 2167,
-      "comment": null
+      "name": "Action"
     },
     {
       "id": "1264",
-      "name": "Co-op",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.700Z",
-      "updated": "2023-08-23T03:55:35.380Z",
-      "status": "ACTIVE",
-      "referenceCount": 1166,
-      "comment": null
+      "name": "Co-op"
     },
     {
       "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2024-03-28T21:49:29.573Z",
-      "status": "ACTIVE",
-      "referenceCount": 1846,
-      "comment": null
+      "name": "Multiplayer"
     },
     {
       "id": "1367",
-      "name": "RPG",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2023-08-23T03:10:10.001Z",
-      "status": "ACTIVE",
-      "referenceCount": 1144,
-      "comment": null
+      "name": "RPG"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -128,32 +81,38 @@
       "value": "ce274c51740c4bc189fc4701e41b5584"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/510x680-510x680-a8ffffcc77efa3eba9dc19cbfa043c7f.jpg",
-      "md5": "a8ffffcc77efa3eba9dc19cbfa043c7f",
-      "size": 302073,
-      "uploadedDate": "2019-11-06T20:32:56.037Z",
-      "width": 510,
-      "height": 680
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/1360x766-1360x766-a182e19ca442354278094d960f139fe6.jpg",
-      "md5": "a182e19ca442354278094d960f139fe6",
-      "size": 701340,
-      "uploadedDate": "2019-11-06T20:33:39.672Z",
-      "width": 1360,
-      "height": 766
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2019-11-12T15:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,59 +1,29 @@
 {
+  "title": "ViolaDevAudience",
   "id": "2ce930211af24673869ba8d010b4ffd0",
   "namespace": "viola",
-  "title": "ViolaDevAudience",
   "description": "ViolaDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "violadevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-02-21T17:40:03.475Z",
-  "lastModifiedDate": "2022-11-15T18:56:14.986Z",
   "effectiveDate": "2022-02-21T12:38:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
     "name": "Plaion"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "violadevaudience",
+  "url": null,
   "tags": [
     {
       "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
-      "status": "ACTIVE",
-      "referenceCount": 3628,
-      "comment": ""
+      "name": "Achievements"
+    }
+  ],
+  "items": [
+    {
+      "id": "dc64e4961c70483d856e80cfc10a732b",
+      "namespace": "viola"
     }
   ],
   "customAttributes": [
@@ -70,13 +40,58 @@
       "value": "Nine Dots Studio"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "dc64e4961c70483d856e80cfc10a732b"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "viola"
-  }
+    "mappings": [
+      {
+        "pageSlug": "outward--the-three-brothers",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "outward--the-soroboreans",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "outward--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "outward",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-02-19T19:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

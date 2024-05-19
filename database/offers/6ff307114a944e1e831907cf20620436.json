@@ -1,65 +1,46 @@
 {
+  "title": "Dangerous Driving Pre-Purchase",
   "id": "6ff307114a944e1e831907cf20620436",
   "namespace": "pansy",
-  "title": "Dangerous Driving Pre-Purchase",
   "description": "Dangerous Driving Pre-Purchase",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "pansygeneralaudience",
-  "offerType": "EDITION",
-  "creationDate": "2019-03-04T18:19:05.136Z",
-  "lastModifiedDate": "2024-03-22T15:15:08.159Z",
   "effectiveDate": "2019-03-04T13:17:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR",
-    "CN"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/pansy/offer/DangerousDriving_CodeRedemption-340x440-f7b08ee51f6d420374fb74fa25b8f549.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/pansy/dangerousdriving_tall_1200x1600-86c4322d70d66fcca241df9f437c4df5"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/pansy/dangerousdriving_wide_2580x1450-cdfd9dd9975af50c39fc8c1f2395ffce"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/pansy/dangerousdriving_tall_1200x1600-86c4322d70d66fcca241df9f437c4df5"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 2999,
   "seller": {
     "id": "o-f82s3dr485xfmhuuzc2ubtc2j2mdpj",
     "name": "Three Fields Entertainment"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "spthidden"
-    },
-    {
-      "path": "games"
-    },
-    {
-      "path": "spthidden/edition"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "pansygeneralaudience",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "ddfc8b08e00b4f4898dcb8a93677d06d",
+      "namespace": "pansy"
     }
   ],
   "customAttributes": [
@@ -80,50 +61,52 @@
       "value": "Three Fields Entertainment"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/pansy/offer/DangerousDriving_CodeRedemption-340x440-f7b08ee51f6d420374fb74fa25b8f549.jpg",
-      "md5": "f7b08ee51f6d420374fb74fa25b8f549",
-      "size": 106797,
-      "uploadedDate": "2019-03-19T15:55:02.686Z",
-      "width": 340,
-      "height": 440
+      "path": "spthidden"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/pansy/dangerousdriving_tall_1200x1600-86c4322d70d66fcca241df9f437c4df5",
-      "md5": "86c4322d70d66fcca241df9f437c4df5",
-      "size": 2579000,
-      "uploadedDate": "2024-03-22T15:14:36.150Z",
-      "width": 1200,
-      "height": 1600
+      "path": "games"
     },
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/pansy/dangerousdriving_wide_2580x1450-cdfd9dd9975af50c39fc8c1f2395ffce",
-      "md5": "cdfd9dd9975af50c39fc8c1f2395ffce",
-      "size": 454659,
-      "uploadedDate": "2024-03-22T15:15:03.199Z",
-      "width": 2580,
-      "height": 1450
+      "path": "spthidden/edition"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/pansy/dangerousdriving_tall_1200x1600-86c4322d70d66fcca241df9f437c4df5",
-      "md5": "86c4322d70d66fcca241df9f437c4df5",
-      "size": 2579000,
-      "uploadedDate": "2024-03-22T15:14:52.633Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "ddfc8b08e00b4f4898dcb8a93677d06d"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "pansy"
-  }
+    "mappings": [
+      {
+        "pageSlug": "dangerous-driving",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": true,
+  "releaseDate": "2019-04-09T14:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

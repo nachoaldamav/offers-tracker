@@ -1,83 +1,58 @@
 {
+  "title": "Truck",
   "id": "1d356328c3b2421ea403ec7699851531",
   "namespace": "c33afcc65c264c81aa8e2537b7580690",
-  "title": "Truck",
   "description": "Survive endless hordes of zombies by driving over them and upgrading your truck with weapons. The only way out is to keep driving. Survive 30 minutes in each of the five maps, collect coins and unlock new trucks!",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "7a3a18ba5f2c4dcb9ebd206371dd34dc",
-  "offerType": "BASE_GAME",
-  "creationDate": "2024-05-10T05:58:19.174Z",
-  "lastModifiedDate": "2024-05-12T15:51:05.182Z",
   "effectiveDate": "2024-05-12T21:00:00.000Z",
-  "pcReleaseDate": "2024-04-30T15:00:00.000Z",
-  "publisherDisplayName": "Molance Games",
-  "countriesBlacklist": [
-    "KR"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2024-05-11T16:34:02.791Z",
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "truck-502523"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/9ac2732a45154cc585d37e90846c8e48/truck-akxkg.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/9ac2732a45154cc585d37e90846c8e48/truck-1ija4.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/spt-assets/9ac2732a45154cc585d37e90846c8e48/truck-1ija4.png"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "truck-502523"
-    }
-  ],
+  "currentPrice": 299,
   "seller": {
     "id": "o-h7ab8bjms2xan6aygpujwrxsfcpg8z",
     "name": "Molance Games"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    },
-    {
-      "path": "games/edition"
-    },
-    {
-      "path": "games/edition/base"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "7a3a18ba5f2c4dcb9ebd206371dd34dc",
+  "url": null,
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
     {
       "id": "1296",
-      "name": "Casual",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:45.644Z",
-      "updated": "2023-08-23T04:55:54.798Z",
-      "status": "ACTIVE",
-      "referenceCount": 423,
-      "comment": null
+      "name": "Casual"
     },
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
     {
       "id": "1083",
-      "name": "Rogue-Lite",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:58:59.720Z",
-      "updated": "2023-08-23T05:17:12.960Z",
-      "status": "ACTIVE",
-      "referenceCount": 204,
-      "comment": null
+      "name": "Rogue-Lite"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "7d5d4cabb15e4e818e2fda9622f43a3d",
+      "namespace": "c33afcc65c264c81aa8e2537b7580690"
     }
   ],
   "customAttributes": [
@@ -102,41 +77,54 @@
       "value": "false"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/9ac2732a45154cc585d37e90846c8e48/truck-akxkg.png",
-      "md5": "2b919ffd489ae8a4dceba9a609df8acf",
-      "size": 579233,
-      "uploadedDate": "2024-05-10T06:41:05.699Z",
-      "width": 2560,
-      "height": 1440
+      "path": "games"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/9ac2732a45154cc585d37e90846c8e48/truck-1ija4.png",
-      "md5": "cb8278e7b25efd20ace586d8f531aad5",
-      "size": 282199,
-      "uploadedDate": "2024-05-10T06:44:03.844Z",
-      "width": 1200,
-      "height": 1600
+      "path": "games/edition"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/9ac2732a45154cc585d37e90846c8e48/truck-1ija4.png",
-      "md5": "cb8278e7b25efd20ace586d8f531aad5",
-      "size": 282199,
-      "uploadedDate": "2024-05-10T06:44:03.844Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "7d5d4cabb15e4e818e2fda9622f43a3d"
+      "path": "games/edition/base"
     }
   ],
   "catalogNs": {
-    "name": "c33afcc65c264c81aa8e2537b7580690"
-  }
+    "mappings": [
+      {
+        "pageSlug": "truck-502523",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "truck-502523",
+      "pageType": "productHome"
+    }
+  ],
+  "developerDisplayName": "Molance Games",
+  "publisherDisplayName": "Molance Games",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 299,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2024-05-12T00:00:00.000Z",
+  "pcReleaseDate": "2024-04-30T15:00:00.000Z",
+  "viewableDate": "2024-05-11T16:34:02.791Z",
+  "approximateReleasePlan": null
 }

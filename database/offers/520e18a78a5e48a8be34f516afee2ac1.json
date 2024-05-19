@@ -1,132 +1,62 @@
 {
+  "title": "Game Room",
   "id": "520e18a78a5e48a8be34f516afee2ac1",
   "namespace": "40712343dccb4c8183c34eda1c034c17",
-  "title": "Game Room",
   "description": "Sports indie simulator of board games and arcade machines",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "4e2e3f609a54489d9daee3dfe8f8c518",
-  "offerType": "BASE_GAME",
-  "creationDate": "2023-12-19T15:28:27.157Z",
-  "lastModifiedDate": "2023-12-19T15:28:27.157Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": "2099-01-01T00:00:00.000Z",
-  "publisherDisplayName": "Games For Humans",
-  "countriesBlacklist": [
-    "BR",
-    "RU",
-    "AU",
-    "KR"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2023-12-19T15:28:09.200Z",
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "gameroom-962862"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/edf98245b9c24aed82722e519e7413f4/gameroom-n4qqu.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/edf98245b9c24aed82722e519e7413f4/gameroom-98trq.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/spt-assets/edf98245b9c24aed82722e519e7413f4/gameroom-98trq.jpg"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "gameroom-962862"
-    }
-  ],
+  "currentPrice": 99,
   "seller": {
     "id": "o-28ljg62g5rbztddrmsbeykymrf6c7h",
     "name": "Games For Humans"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games/edition/base"
-    },
-    {
-      "path": "games/edition"
-    },
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "4e2e3f609a54489d9daee3dfe8f8c518",
+  "url": null,
   "tags": [
     {
       "id": "1393",
-      "name": "Simulation",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2023-08-23T03:55:35.422Z",
-      "status": "ACTIVE",
-      "referenceCount": 943,
-      "comment": null
+      "name": "Simulation"
     },
     {
       "id": "31313",
-      "name": "First Run",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2023-10-03T19:30:05.570Z",
-      "updated": "2023-12-04T19:06:05.172Z",
-      "status": "ACTIVE",
-      "referenceCount": 202,
-      "comment": ""
+      "name": "First Run"
     },
     {
       "id": "1283",
-      "name": "Sports",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:39.226Z",
-      "updated": "2023-08-18T14:35:48.351Z",
-      "status": "ACTIVE",
-      "referenceCount": 148,
-      "comment": null
+      "name": "Sports"
     },
     {
       "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-23T05:17:12.951Z",
-      "status": "ACTIVE",
-      "referenceCount": 5001,
-      "comment": null
+      "name": "Single Player"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
     },
     {
       "id": "1294",
-      "name": "First Person",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:44.596Z",
-      "updated": "2023-08-23T00:14:55.884Z",
-      "status": "ACTIVE",
-      "referenceCount": 481,
-      "comment": null
+      "name": "First Person"
+    }
+  ],
+  "items": [
+    {
+      "id": "f2210230e2eb470ea4f1f1d4506446dd",
+      "namespace": "40712343dccb4c8183c34eda1c034c17"
     }
   ],
   "customAttributes": [
@@ -147,41 +77,60 @@
       "value": "false"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/edf98245b9c24aed82722e519e7413f4/gameroom-n4qqu.jpg",
-      "md5": "c5aa58d421baccc14789b3c5829c29d6",
-      "size": 564447,
-      "uploadedDate": "2023-12-09T21:19:43.783Z",
-      "width": 2560,
-      "height": 1440
+      "path": "games/edition/base"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/edf98245b9c24aed82722e519e7413f4/gameroom-98trq.jpg",
-      "md5": "969fb958db50d9f8c1cec8a5176d18c4",
-      "size": 363502,
-      "uploadedDate": "2023-12-09T21:19:52.220Z",
-      "width": 1200,
-      "height": 1600
+      "path": "games/edition"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/edf98245b9c24aed82722e519e7413f4/gameroom-98trq.jpg",
-      "md5": "969fb958db50d9f8c1cec8a5176d18c4",
-      "size": 363502,
-      "uploadedDate": "2023-12-09T21:19:52.220Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "f2210230e2eb470ea4f1f1d4506446dd"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "40712343dccb4c8183c34eda1c034c17"
+    "mappings": [
+      {
+        "pageSlug": "gameroom-962862",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "gameroom-962862",
+      "pageType": "productHome"
+    }
+  ],
+  "developerDisplayName": "Games For Humans",
+  "publisherDisplayName": "Games For Humans",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 99,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": "2023-12-19T15:28:09.200Z",
+  "approximateReleasePlan": {
+    "day": null,
+    "month": null,
+    "quarter": null,
+    "year": null,
+    "releaseDateType": "UNKNOWN"
   }
 }

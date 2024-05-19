@@ -1,47 +1,35 @@
 {
+  "title": "BegoniaDevAudience",
   "id": "074a97c9368542aab4c06860d36f76b4",
   "namespace": "begonia",
-  "title": "BegoniaDevAudience",
   "description": "BegoniaDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "begonia-01",
-  "offerType": "OTHERS",
-  "creationDate": "2019-03-08T18:38:38.119Z",
-  "lastModifiedDate": "2024-02-26T18:54:40.353Z",
   "effectiveDate": "2019-03-26T16:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/begonia/offer/TWD3_CodeRedemption-MRating-400x634-d3f5cdcc97e254425e66baa5c9094546.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/begonia/offer/TWD3_CodeRedemption-330x440-e2be4cfbef4806a30b82ae1a42d4ca80.png"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
     "name": "Skybound Game Studios, Inc."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "begonia-01",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "da5c38c6bf104e2e85a03098b91ec348",
+      "namespace": "begonia"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -52,32 +40,46 @@
       "value": "Skybound Interactive"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/begonia/offer/TWD3_CodeRedemption-MRating-400x634-d3f5cdcc97e254425e66baa5c9094546.jpg",
-      "md5": "d3f5cdcc97e254425e66baa5c9094546",
-      "size": 39242,
-      "uploadedDate": "2019-03-26T02:07:54.952Z",
-      "width": 400,
-      "height": 634
+      "path": "games"
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/begonia/offer/TWD3_CodeRedemption-330x440-e2be4cfbef4806a30b82ae1a42d4ca80.png",
-      "md5": "e2be4cfbef4806a30b82ae1a42d4ca80",
-      "size": 91143,
-      "uploadedDate": "2019-03-26T02:08:02.741Z",
-      "width": 330,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "da5c38c6bf104e2e85a03098b91ec348"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "begonia"
-  }
+    "mappings": [
+      {
+        "pageSlug": "walking-dead-a-new-frontier",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

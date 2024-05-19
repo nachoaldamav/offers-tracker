@@ -1,56 +1,29 @@
 {
+  "title": "DevCaracalAudience",
   "id": "38d9688ed7bb4a1dafa8527f1c0639fb",
   "namespace": "fbab831cc1c94385b4e311f47f6fdc4f",
-  "title": "DevCaracalAudience",
   "description": "DevCaracalAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "devcaracalaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2020-05-08T16:47:02.865Z",
-  "lastModifiedDate": "2022-12-01T15:44:04.262Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": "2099-01-01T00:00:00.000Z",
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
     "name": "Stardock Entertainment, Inc"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "devcaracalaudience",
+  "url": null,
   "tags": [
     {
       "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
-      "status": "ACTIVE",
-      "referenceCount": 3628,
-      "comment": ""
+      "name": "Achievements"
+    }
+  ],
+  "items": [
+    {
+      "id": "b052554d7f6f4e60b9c444bde6af18e1",
+      "namespace": "fbab831cc1c94385b4e311f47f6fdc4f"
     }
   ],
   "customAttributes": [
@@ -67,13 +40,54 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "b052554d7f6f4e60b9c444bde6af18e1"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "fbab831cc1c94385b4e311f47f6fdc4f"
-  }
+    "mappings": [
+      {
+        "pageSlug": "galactic-civilizations-iv--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "galactic-civilizations-iv",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "galactic-civilizations-iv--supernova-upgrade",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

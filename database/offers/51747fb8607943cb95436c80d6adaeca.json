@@ -1,86 +1,37 @@
 {
+  "title": "DevMtForakerAudience",
   "id": "51747fb8607943cb95436c80d6adaeca",
   "namespace": "bbb19a1dae4d4a46991533cfabd04383",
-  "title": "DevMtForakerAudience",
   "description": "DevMtForakerAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "devmtforakeraudience",
-  "offerType": "BASE_GAME",
-  "creationDate": "2020-09-24T13:56:31.953Z",
-  "lastModifiedDate": "2024-03-24T20:52:57.976Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-8pv5kd3ajhqts3vsxmekxpd754szgj",
     "name": "Major League Baseball"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    },
-    {
-      "path": "games/edition"
-    },
-    {
-      "path": "games/edition/base"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "devmtforakeraudience",
+  "url": null,
   "tags": [
     {
       "id": "1283",
-      "name": "Sports",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:39.226Z",
-      "updated": "2023-08-18T14:35:48.351Z",
-      "status": "ACTIVE",
-      "referenceCount": 148,
-      "comment": null
+      "name": "Sports"
     },
     {
       "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-23T05:17:12.951Z",
-      "status": "ACTIVE",
-      "referenceCount": 5001,
-      "comment": null
+      "name": "Single Player"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "ff2ed515b405489db0a209e95fbfa8dc",
+      "namespace": "bbb19a1dae4d4a46991533cfabd04383"
     }
   ],
   "customAttributes": [
@@ -97,13 +48,52 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "ff2ed515b405489db0a209e95fbfa8dc"
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "bbb19a1dae4d4a46991533cfabd04383"
-  }
+    "mappings": [
+      {
+        "pageSlug": "rbi-baseball-21",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,47 +1,34 @@
 {
+  "title": "BeyondTSPPTEST",
   "id": "0336d4ff94ab4db08c3f9c8c8472b0a1",
   "namespace": "lavender",
-  "title": "BeyondTSPPTEST",
   "description": "BeyondTSPPTEST",
-  "longDescription": "Grants the TEST audience for Pre Purchase and General at launch",
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "beyondtspptest",
-  "offerType": "OTHERS",
-  "creationDate": "2019-07-15T23:36:07.586Z",
-  "lastModifiedDate": "2020-04-27T13:42:44.908Z",
   "effectiveDate": "2050-07-01T23:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "CN"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 1999,
   "seller": {
     "id": "o-m8v47d762atphw94knus7ezawefpcu",
     "name": "Quantic Dream"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "beyondtspptest",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
+      "id": "7e7c8ffd975544878d0454c01d1b6fc4",
+      "namespace": "lavender"
     },
     {
-      "path": "applications"
+      "id": "cc1e38f006924a0a85dd82c5aacec142",
+      "namespace": "lavender"
+    },
+    {
+      "id": "5932738bb15f4ab99355f1e036eaa3a5",
+      "namespace": "lavender"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -60,19 +47,50 @@
       "value": "Quantic Dream"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "7e7c8ffd975544878d0454c01d1b6fc4"
+      "path": "games"
     },
     {
-      "id": "cc1e38f006924a0a85dd82c5aacec142"
-    },
-    {
-      "id": "5932738bb15f4ab99355f1e036eaa3a5"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "lavender"
-  }
+    "mappings": [
+      {
+        "pageSlug": "beyond-two-souls--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "beyond-two-souls",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

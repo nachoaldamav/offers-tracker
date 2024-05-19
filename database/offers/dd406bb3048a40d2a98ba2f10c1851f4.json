@@ -1,66 +1,42 @@
 {
+  "title": "Pre-Purchase Bonus",
   "id": "dd406bb3048a40d2a98ba2f10c1851f4",
   "namespace": "middlemist",
-  "title": "Pre-Purchase Bonus",
   "description": "Pre-Purchase Bonus",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "pre-purchase-bonus",
-  "offerType": "UNLOCKABLE",
-  "creationDate": "2019-06-04T16:29:58.107Z",
-  "lastModifiedDate": "2024-03-27T13:05:52.820Z",
   "effectiveDate": "2050-06-03T12:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "BR",
-    "RU",
-    "AU"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_BIGBEN_Standard-840x1000-ba36ff60d4a74fb8e32254c580673817.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_BIGBEN_Standard-840x1000-ba36ff60d4a74fb8e32254c580673817.png"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-rlw9u3sem84g2hc3ur36dqnp7wul3j",
     "name": "Frogwares"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "spthidden"
-    },
-    {
-      "path": "games"
-    },
-    {
-      "path": "spthidden/durable"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "pre-purchase-bonus",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "7366baa18fee41d7ab5aabb8e5521e97",
+      "namespace": "middlemist"
+    },
+    {
+      "id": "be143142bd66446e9b9ba3faac023593",
+      "namespace": "middlemist"
     }
   ],
   "customAttributes": [
@@ -81,35 +57,80 @@
       "value": "Windows"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_BIGBEN_Standard-840x1000-ba36ff60d4a74fb8e32254c580673817.png",
-      "md5": "ba36ff60d4a74fb8e32254c580673817",
-      "size": 401713,
-      "uploadedDate": "2019-06-04T16:28:36.312Z",
-      "width": 840,
-      "height": 1000
+      "path": "spthidden"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_BIGBEN_Standard-840x1000-ba36ff60d4a74fb8e32254c580673817.png",
-      "md5": "ba36ff60d4a74fb8e32254c580673817",
-      "size": 401713,
-      "uploadedDate": "2019-06-04T16:28:47.730Z",
-      "width": 840,
-      "height": 1000
-    }
-  ],
-  "items": [
-    {
-      "id": "7366baa18fee41d7ab5aabb8e5521e97"
+      "path": "games"
     },
     {
-      "id": "be143142bd66446e9b9ba3faac023593"
+      "path": "spthidden/durable"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "middlemist"
-  }
+    "mappings": [
+      {
+        "pageSlug": "the-sinking-city--chicago-organ-grinder",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-sinking-city--worshippers-of-the-necronomicon-dlc",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-sinking-city--artbook-and-ost",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-sinking-city--merciful-madness",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-sinking-city--experience-boost",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-sinking-city--investigator-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-sinking-city",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-sinking-city--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

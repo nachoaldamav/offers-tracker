@@ -1,36 +1,40 @@
 {
+  "title": "Beyond Two Souls Demo Regional SKU Test",
   "id": "e9622abb6248493c82c2fcbf372d28e3",
   "namespace": "lavender",
-  "title": "Beyond Two Souls Demo Regional SKU Test",
   "description": "Beyond Two Souls Demo Regional SKU Test",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "beyond-two-souls-demo-regional-sku-testing",
-  "offerType": "OTHERS",
-  "creationDate": "2019-06-10T11:24:49.827Z",
-  "lastModifiedDate": "2020-04-29T00:46:34.903Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/lavender/offer/Beyond_PortraitPromo-1280x1420-5c246b28fdc821c471257c69db3f5dd7.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/lavender/offer/B2S_LavenderDEMO-2560x1440-4b48da4ded604842192f173afadca6a0.png"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-m8v47d762atphw94knus7ezawefpcu",
     "name": "Quantic Dream"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "beyond-two-souls-demo-regional-sku-testing",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "4710a9e344cb43739ad0d6be1f7cb3b8",
+      "namespace": "lavender"
+    },
+    {
+      "id": "6d3ab56d84624cd0a6579c8a38f47d9c",
+      "namespace": "lavender"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "games"
@@ -39,37 +43,42 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/lavender/offer/Beyond_PortraitPromo-1280x1420-5c246b28fdc821c471257c69db3f5dd7.jpg",
-      "md5": "5c246b28fdc821c471257c69db3f5dd7",
-      "size": 113550,
-      "uploadedDate": "2019-06-26T13:38:45.955Z",
-      "width": 1280,
-      "height": 1420
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/lavender/offer/B2S_LavenderDEMO-2560x1440-4b48da4ded604842192f173afadca6a0.png",
-      "md5": "4b48da4ded604842192f173afadca6a0",
-      "size": 957832,
-      "uploadedDate": "2019-06-26T13:38:54.962Z",
-      "width": 2560,
-      "height": 1440
-    }
-  ],
-  "items": [
-    {
-      "id": "4710a9e344cb43739ad0d6be1f7cb3b8"
-    },
-    {
-      "id": "6d3ab56d84624cd0a6579c8a38f47d9c"
-    }
-  ],
   "catalogNs": {
-    "name": "lavender"
-  }
+    "mappings": [
+      {
+        "pageSlug": "beyond-two-souls--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "beyond-two-souls",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

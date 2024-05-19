@@ -1,36 +1,27 @@
 {
+  "title": "SatisfactoryPressAudience",
   "id": "9df87acc51e34f07a13785f74c8fbb7a",
   "namespace": "crab",
-  "title": "SatisfactoryPressAudience",
   "description": "SatisfactoryPressAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "satisfactorypressaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-03-13T20:32:02.404Z",
-  "lastModifiedDate": "2020-04-29T00:46:52.268Z",
   "effectiveDate": "2019-03-13T23:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-9r9hp69ccnr39qp9f9mgpsznznu4as",
     "name": "Coffee Stain Publishing"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "satisfactorypressaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "b7b63289034c44aab862832f7494382a",
+      "namespace": "crab"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "games"
@@ -39,15 +30,46 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "b7b63289034c44aab862832f7494382a"
-    }
-  ],
   "catalogNs": {
-    "name": "crab"
-  }
+    "mappings": [
+      {
+        "pageSlug": "satisfactory",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "satisfactory--dedicated-server",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "satisfactory--early-access-weekend",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

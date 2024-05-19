@@ -1,36 +1,46 @@
 {
+  "title": "PixArk Mod Kit",
   "id": "1f218730f7ab425fa436404799fa224f",
   "namespace": "pixark",
-  "title": "PixArk Mod Kit",
   "description": "Create your own voxel based world with the PixARK Dev Kit! Integrated with the Steam workshop for distribution, bring your modifications to life with our Dev Kit! PixARK is a mix of creature taming with elements of magic and firearms combat. We've also left some surprises in t...",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "pixark",
-  "urlSlug": "pixark",
-  "offerType": "OTHERS",
-  "creationDate": "2018-06-25T17:28:28.468Z",
-  "lastModifiedDate": "2021-08-25T16:43:44.423Z",
   "effectiveDate": "2018-06-25T13:28:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/pixarklogo-1474x1152-05711a730aff9fbf94b42ef162111664.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/pixark/offer/pixark tile-516x290-d1652d229b096efdbd5422476fddd406-516x290-edcb0ca76ab3f92bbe26d9c35ffc40a8.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
     "name": "Epic Games"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": "pixark",
+  "urlSlug": "pixark",
+  "url": null,
+  "tags": [
+    {
+      "id": "9559",
+      "name": "Editors"
+    }
+  ],
+  "items": [
+    {
+      "id": "9490dd48752d408aad3108677c3b4158",
+      "namespace": "pixark"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "pixark"
+    }
+  ],
   "categories": [
     {
       "path": "engines"
@@ -42,52 +52,38 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "9559",
-      "name": "Editors",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T21:11:57.763Z",
-      "updated": "2023-06-28T21:16:34.903Z",
-      "status": "ACTIVE",
-      "referenceCount": 54,
-      "comment": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "pixark"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/pixarklogo-1474x1152-05711a730aff9fbf94b42ef162111664.png",
-      "md5": "05711a730aff9fbf94b42ef162111664",
-      "size": 38616,
-      "uploadedDate": "2018-11-15T17:28:26.626Z",
-      "width": 1474,
-      "height": 1152
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/pixark/offer/pixark tile-516x290-d1652d229b096efdbd5422476fddd406-516x290-edcb0ca76ab3f92bbe26d9c35ffc40a8.jpg",
-      "md5": "edcb0ca76ab3f92bbe26d9c35ffc40a8",
-      "size": 60375,
-      "uploadedDate": "2020-02-24T16:01:47.735Z",
-      "width": 516,
-      "height": 290
-    }
-  ],
-  "items": [
-    {
-      "id": "9490dd48752d408aad3108677c3b4158"
-    }
-  ],
   "catalogNs": {
-    "name": "pixark"
-  }
+    "mappings": [
+      {
+        "pageSlug": "pixark",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

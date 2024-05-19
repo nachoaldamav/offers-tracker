@@ -1,47 +1,31 @@
 {
+  "title": "AstrapiaDevAudience",
   "id": "b1bd343ed0a44c289f2f17484f2dcf35",
   "namespace": "4fece418b513465d9416a700db869585",
-  "title": "AstrapiaDevAudience",
   "description": "AstrapiaDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "astrapiadevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-10-03T21:16:37.071Z",
-  "lastModifiedDate": "2019-10-17T14:03:08.515Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/4fece418b513465d9416a700db869585/offer/CodeRedemption_JPP6-340x440-a522dfeaaad56a989c3b569d4d30b69f.jpg"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
     "name": "Jackbox Games, Inc."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "astrapiadevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "10b6a0382f8c4d25ab868e5c4aac36a1",
+      "namespace": "4fece418b513465d9416a700db869585"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -52,23 +36,46 @@
       "value": "Jackbox Games"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/4fece418b513465d9416a700db869585/offer/CodeRedemption_JPP6-340x440-a522dfeaaad56a989c3b569d4d30b69f.jpg",
-      "md5": "a522dfeaaad56a989c3b569d4d30b69f",
-      "size": 140626,
-      "uploadedDate": "2019-10-14T19:43:09.921Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
+      "path": "games"
+    },
     {
-      "id": "10b6a0382f8c4d25ab868e5c4aac36a1"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "4fece418b513465d9416a700db869585"
-  }
+    "mappings": [
+      {
+        "pageSlug": "jackbox-party-pack-6",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

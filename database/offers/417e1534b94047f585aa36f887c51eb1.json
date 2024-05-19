@@ -1,91 +1,54 @@
 {
+  "title": "Auto Chess",
   "id": "417e1534b94047f585aa36f887c51eb1",
   "namespace": "epic",
-  "title": "Auto Chess",
   "description": "Auto Chess autochess Autochess",
-  "longDescription": "",
-  "status": "ACTIVE",
-  "productSlug": "auto-chess/home",
-  "urlSlug": "auto-chess",
-  "offerType": "OTHERS",
-  "creationDate": "2019-06-09T21:56:04.909Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Autochess-portrait-1280x1440-af5c1a2e01a45aceacbb2d0dfd9355f4.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Autochess-promo-2560x1440-f041c389dafd6ff1466999a9bf804f3c.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Autochess-LOGO-339x129-730a07c18c3f7f159abf6592873bbc55.png"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "currentPrice": 0,
   "seller": {
     "id": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
     "name": "Dragonest Game"
   },
-  "linkedOfferId": "791e1ab4a2664ca0b66331d5b1ec4d89",
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": "auto-chess/home",
+  "urlSlug": "auto-chess",
+  "url": null,
   "tags": [
     {
       "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2024-03-28T21:49:29.573Z",
-      "status": "ACTIVE",
-      "referenceCount": 1846,
-      "comment": null
+      "name": "Multiplayer"
     },
     {
       "id": "1141",
-      "name": "Free to Play",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:28.688Z",
-      "updated": "2023-08-16T14:13:34.540Z",
-      "status": "ACTIVE",
-      "referenceCount": 173,
-      "comment": null
+      "name": "Free to Play"
     },
     {
       "id": "1115",
-      "name": "Strategy",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2023-08-23T05:08:24.575Z",
-      "status": "ACTIVE",
-      "referenceCount": 1068,
-      "comment": null
+      "name": "Strategy"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -110,41 +73,38 @@
       "value": "791e1ab4a2664ca0b66331d5b1ec4d89"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Autochess-portrait-1280x1440-af5c1a2e01a45aceacbb2d0dfd9355f4.jpg",
-      "md5": "af5c1a2e01a45aceacbb2d0dfd9355f4",
-      "size": 99475,
-      "uploadedDate": "2019-06-09T21:53:41.791Z",
-      "width": 1280,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Autochess-promo-2560x1440-f041c389dafd6ff1466999a9bf804f3c.jpg",
-      "md5": "f041c389dafd6ff1466999a9bf804f3c",
-      "size": 243162,
-      "uploadedDate": "2019-06-09T21:53:50.339Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Autochess-LOGO-339x129-730a07c18c3f7f159abf6592873bbc55.png",
-      "md5": "730a07c18c3f7f159abf6592873bbc55",
-      "size": 3642,
-      "uploadedDate": "2019-06-09T21:54:01.411Z",
-      "width": 339,
-      "height": 129
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2019-11-18T12:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

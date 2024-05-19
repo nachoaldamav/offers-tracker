@@ -1,59 +1,39 @@
 {
+  "title": "ReadySet Heroes Pre-Purchase",
   "id": "3497d92460cc4bc39d1d99db07377c4d",
   "namespace": "7f498fbf0a4e43239d58eee6615ae806",
-  "title": "ReadySet Heroes Pre-Purchase",
   "description": "ReadySet Heroes Pre-Purchase",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "readyset-heroes-pre-purchase",
-  "offerType": "BASE_GAME",
-  "creationDate": "2019-08-14T21:22:44.173Z",
-  "lastModifiedDate": "2021-11-02T21:25:26.764Z",
   "effectiveDate": "2019-08-09T17:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "CN"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/7f498fbf0a4e43239d58eee6615ae806/offer/RSH Master Image Thumbnail (1024x1024)-1024x1024-740e52b0bfde3215a614c027175dc9a9.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/7f498fbf0a4e43239d58eee6615ae806/offer/RSH Master Image Thumbnail (1024x1024)-1024x1024-740e52b0bfde3215a614c027175dc9a9.jpg"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 1999,
   "seller": {
     "id": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
     "name": "Sony Interactive Entertainment"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "readyset-heroes-pre-purchase",
+  "url": null,
+  "tags": [
+    null
+  ],
+  "items": [
     {
-      "path": "games"
+      "id": "43cdc4ebe0ec46f49b61ec5cc5f436ba",
+      "namespace": "7f498fbf0a4e43239d58eee6615ae806"
     },
     {
-      "path": "applications"
-    }
-  ],
-  "tags": [
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "id": "db4430c5dfa04ea08138b2d735b63189",
+      "namespace": "7f498fbf0a4e43239d58eee6615ae806"
     }
   ],
   "customAttributes": [
@@ -78,35 +58,46 @@
       "value": "Robot Entertainment"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/7f498fbf0a4e43239d58eee6615ae806/offer/RSH Master Image Thumbnail (1024x1024)-1024x1024-740e52b0bfde3215a614c027175dc9a9.jpg",
-      "md5": "740e52b0bfde3215a614c027175dc9a9",
-      "size": 89371,
-      "uploadedDate": "2019-10-28T18:09:31.576Z",
-      "width": 1024,
-      "height": 1024
+      "path": "games"
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/7f498fbf0a4e43239d58eee6615ae806/offer/RSH Master Image Thumbnail (1024x1024)-1024x1024-740e52b0bfde3215a614c027175dc9a9.jpg",
-      "md5": "740e52b0bfde3215a614c027175dc9a9",
-      "size": 89371,
-      "uploadedDate": "2019-10-28T18:09:47.836Z",
-      "width": 1024,
-      "height": 1024
-    }
-  ],
-  "items": [
-    {
-      "id": "43cdc4ebe0ec46f49b61ec5cc5f436ba"
-    },
-    {
-      "id": "db4430c5dfa04ea08138b2d735b63189"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "7f498fbf0a4e43239d58eee6615ae806"
-  }
+    "mappings": [
+      {
+        "pageSlug": "readyset-heroes",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": true,
+  "releaseDate": "2019-10-29T14:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

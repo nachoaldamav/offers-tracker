@@ -1,39 +1,41 @@
 {
+  "title": "HyacinthDevAudience",
   "id": "47556fe89efa4c869a5d4e5e27ec5bf5",
   "namespace": "hyacinth",
-  "title": "HyacinthDevAudience",
   "description": "HyacinthDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "hyacinthdevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-02-10T16:38:39.108Z",
-  "lastModifiedDate": "2020-04-29T00:46:40.140Z",
   "effectiveDate": "2099-02-10T11:37:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/hyacinth/offer/GhostReconWildlands_GamePagePromo-1920x1080-f0e23870dd6468664ad99339e75086c2.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/hyacinth/offer/GhostReconWildlands_GameLogo-1920x454-8e94e01a4a07a0667705af81313d2f56.png"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "hyacinthdevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "74e6fcc1ef614fb1867c05f621761d74",
+      "namespace": "hyacinth"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Ubisoft Entertainment"
+    }
+  ],
   "categories": [
     {
       "path": "games"
@@ -42,39 +44,58 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "developerName",
-      "value": "Ubisoft Entertainment"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/hyacinth/offer/GhostReconWildlands_GamePagePromo-1920x1080-f0e23870dd6468664ad99339e75086c2.jpg",
-      "md5": "f0e23870dd6468664ad99339e75086c2",
-      "size": 443304,
-      "uploadedDate": "2019-02-13T14:26:37.868Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/hyacinth/offer/GhostReconWildlands_GameLogo-1920x454-8e94e01a4a07a0667705af81313d2f56.png",
-      "md5": "8e94e01a4a07a0667705af81313d2f56",
-      "size": 1916094,
-      "uploadedDate": "2019-02-13T14:26:49.900Z",
-      "width": 1920,
-      "height": 454
-    }
-  ],
-  "items": [
-    {
-      "id": "74e6fcc1ef614fb1867c05f621761d74"
-    }
-  ],
   "catalogNs": {
-    "name": "hyacinth"
-  }
+    "mappings": [
+      {
+        "pageSlug": "ghost-recon-wildlands--ultimate-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ghost-recon-wildlands--year-1-pass",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ghost-recon-wildlands--gold-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ghost-recon-wildlands--year-2-pass",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ghost-recon-wildlands",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "ghost-recon-wildlands--fallen-ghosts-dlc",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

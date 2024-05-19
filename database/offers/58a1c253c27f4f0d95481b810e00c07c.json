@@ -1,45 +1,31 @@
 {
+  "title": "Rail Press Offer",
   "id": "58a1c253c27f4f0d95481b810e00c07c",
   "namespace": "0fb229f35a3f4eb788b05ae91419a214",
-  "title": "Rail Press Offer",
   "description": "Rail Press Offer",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "raildevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-08-22T22:25:56.288Z",
-  "lastModifiedDate": "2019-12-03T15:58:47.700Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/0fb229f35a3f4eb788b05ae91419a214/offer/CodeRedemption_Arise-340x440-ff8d3a4244719472f9db3f1e13ffca71.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
     "name": "Techland"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "raildevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "01b79d4c55bf4c39affe49e13b931a84",
+      "namespace": "0fb229f35a3f4eb788b05ae91419a214"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -54,23 +40,46 @@
       "value": "Piccolo"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/0fb229f35a3f4eb788b05ae91419a214/offer/CodeRedemption_Arise-340x440-ff8d3a4244719472f9db3f1e13ffca71.jpg",
-      "md5": "ff8d3a4244719472f9db3f1e13ffca71",
-      "size": 87953,
-      "uploadedDate": "2019-09-27T20:04:55.594Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
+      "path": "games"
+    },
     {
-      "id": "01b79d4c55bf4c39affe49e13b931a84"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "0fb229f35a3f4eb788b05ae91419a214"
-  }
+    "mappings": [
+      {
+        "pageSlug": "arise-a-simple-story",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2019-11-27T10:58:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

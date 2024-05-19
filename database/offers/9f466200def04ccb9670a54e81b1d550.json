@@ -1,56 +1,38 @@
 {
+  "title": "SpringbokDevAudience",
   "id": "9f466200def04ccb9670a54e81b1d550",
   "namespace": "springbok",
-  "title": "SpringbokDevAudience",
   "description": "SpringbokDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "darksidersiiidevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2018-12-12T16:08:43.712Z",
-  "lastModifiedDate": "2023-12-13T08:54:28.645Z",
   "effectiveDate": "2018-12-12T11:08:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/springbok/offer/Portrait-Promo-1288x1450-864bba556f317c24eb047db8ee19a260-1288x1450-864bba556f317c24eb047db8ee19a260-1288x1450-864bba556f317c24eb047db8ee19a260.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/springbok/offer/coderedemption-340x440-e43ab51858d0c4fdcb74a63590343ef5.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
     "name": "THQ Nordic GmbH"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "darksidersiiidevaudience",
+  "url": null,
   "tags": [
     {
       "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
-      "status": "ACTIVE",
-      "referenceCount": 3628,
-      "comment": ""
+      "name": "Achievements"
+    }
+  ],
+  "items": [
+    {
+      "id": "9897c41b360b4e4cadd733a6e814bc7e",
+      "namespace": "springbok"
     }
   ],
   "customAttributes": [
@@ -63,32 +45,54 @@
       "value": "Gunfire Games"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/springbok/offer/Portrait-Promo-1288x1450-864bba556f317c24eb047db8ee19a260-1288x1450-864bba556f317c24eb047db8ee19a260-1288x1450-864bba556f317c24eb047db8ee19a260.jpg",
-      "md5": "864bba556f317c24eb047db8ee19a260",
-      "size": 178886,
-      "uploadedDate": "2018-12-14T15:51:38.166Z",
-      "width": 1288,
-      "height": 1450
+      "path": "games"
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/springbok/offer/coderedemption-340x440-e43ab51858d0c4fdcb74a63590343ef5.jpg",
-      "md5": "e43ab51858d0c4fdcb74a63590343ef5",
-      "size": 78086,
-      "uploadedDate": "2018-12-14T15:51:45.328Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "9897c41b360b4e4cadd733a6e814bc7e"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "springbok"
-  }
+    "mappings": [
+      {
+        "pageSlug": "darksiders3--dlc-2",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "darksiders3--dlc",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "darksiders3",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

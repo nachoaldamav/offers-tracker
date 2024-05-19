@@ -1,48 +1,35 @@
 {
+  "title": "AmaranthDevAudience",
   "id": "2a39e6288b52486c92275de31d41763e",
   "namespace": "amaranth",
-  "title": "AmaranthDevAudience",
   "description": "AmaranthDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "amaranthdevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-03-18T04:06:45.698Z",
-  "lastModifiedDate": "2020-04-29T00:38:46.243Z",
   "effectiveDate": "2022-03-18T00:05:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/amaranth/offer/CodeRedemptionTemplate_Ancestors-340x440-6a3f6376dd574528443e600c6c20556c.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/amaranth/offer/CodeRedemptionTemplate_Ancestors-340x440-6a3f6376dd574528443e600c6c20556c.png"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-6emrb2lpzacm9ued3z37u42x56wkaz",
     "name": "Private Division"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "amaranthdevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "35bea6aa8851430eb50eb7b5d3a655ba",
+      "namespace": "amaranth"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "publisherName",
@@ -53,32 +40,54 @@
       "value": "Panache Digital Games"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/amaranth/offer/CodeRedemptionTemplate_Ancestors-340x440-6a3f6376dd574528443e600c6c20556c.png",
-      "md5": "6a3f6376dd574528443e600c6c20556c",
-      "size": 283235,
-      "uploadedDate": "2019-05-23T18:33:39.780Z",
-      "width": 340,
-      "height": 440
+      "path": "games"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/amaranth/offer/CodeRedemptionTemplate_Ancestors-340x440-6a3f6376dd574528443e600c6c20556c.png",
-      "md5": "6a3f6376dd574528443e600c6c20556c",
-      "size": 283235,
-      "uploadedDate": "2019-05-23T18:33:46.001Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "35bea6aa8851430eb50eb7b5d3a655ba"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "amaranth"
-  }
+    "mappings": [
+      {
+        "pageSlug": "ancestors--soundtrack-bundle",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ancestors--soundtrack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ancestors",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

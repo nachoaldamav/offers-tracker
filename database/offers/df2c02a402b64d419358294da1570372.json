@@ -1,56 +1,33 @@
 {
+  "title": "DevCitrineAudience",
   "id": "df2c02a402b64d419358294da1570372",
   "namespace": "0a4fc789eb0143c29296de79df5387ab",
-  "title": "DevCitrineAudience",
   "description": "DevCitrineAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "devcitrineaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2020-06-30T15:50:20.834Z",
-  "lastModifiedDate": "2023-05-19T10:51:53.608Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": "2099-01-01T00:00:00.000Z",
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-pldxyabsslnt6jth2z634mmr2pw8lu",
     "name": "Humble Bundle"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "devcitrineaudience",
+  "url": null,
   "tags": [
     {
       "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
-      "status": "ACTIVE",
-      "referenceCount": 3628,
-      "comment": ""
+      "name": "Achievements"
+    }
+  ],
+  "items": [
+    {
+      "id": "5bd8700f4889432ca03b0f581844a680",
+      "namespace": "0a4fc789eb0143c29296de79df5387ab"
+    },
+    {
+      "id": "dd27793d4dc942ffbeec88497376a761",
+      "namespace": "0a4fc789eb0143c29296de79df5387ab"
     }
   ],
   "customAttributes": [
@@ -67,16 +44,54 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "5bd8700f4889432ca03b0f581844a680"
+      "path": "games"
     },
     {
-      "id": "dd27793d4dc942ffbeec88497376a761"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "0a4fc789eb0143c29296de79df5387ab"
-  }
+    "mappings": [
+      {
+        "pageSlug": "crying-suns--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "crying-suns--digital-artbook",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "crying-suns",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

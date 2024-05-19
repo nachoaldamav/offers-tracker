@@ -1,36 +1,27 @@
 {
+  "title": "Atomicrops Press",
   "id": "428ca33d5ec34188baf1db4f0abae22c",
   "namespace": "ff1cd8b38bda4f6281879c9bdb228ff1",
-  "title": "Atomicrops Press",
   "description": "Atomicrops Press",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "atomicrops-press",
-  "offerType": "OTHERS",
-  "creationDate": "2019-08-27T01:07:31.206Z",
-  "lastModifiedDate": "2019-09-05T13:59:31.763Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
     "name": "Raw Fury"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "atomicrops-press",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "8228505605324ad1a0cf36a550c5c437",
+      "namespace": "ff1cd8b38bda4f6281879c9bdb228ff1"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "games"
@@ -39,15 +30,58 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "8228505605324ad1a0cf36a550c5c437"
-    }
-  ],
   "catalogNs": {
-    "name": "ff1cd8b38bda4f6281879c9bdb228ff1"
-  }
+    "mappings": [
+      {
+        "pageSlug": "atomicrops--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "atomicrops",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "atomicrops--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "atomicrops--reap-what-you-crow",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "atomicrops--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "atomicrops--deerly-beloved",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

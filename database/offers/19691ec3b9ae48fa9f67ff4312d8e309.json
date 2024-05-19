@@ -1,66 +1,46 @@
 {
+  "title": "1000 Bux",
   "id": "19691ec3b9ae48fa9f67ff4312d8e309",
   "namespace": "67731d377b774fb8a09ce635295b2d66",
-  "title": "1000 Bux",
   "description": "Purchase 1000 Bux and exchange them for Gold, which you can use to acquire items.",
-  "longDescription": "<!--textBlock-->\n<!--title-->\n# 1000 Bux\n<!--text-->\nPurchase 1000 Bux and exchange them for Gold, which you can use to acquire items.\n",
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "1000-bux",
-  "offerType": "VIRTUAL_CURRENCY",
-  "creationDate": "2023-11-01T06:00:20.483Z",
-  "lastModifiedDate": "2023-11-01T06:00:20.483Z",
   "effectiveDate": "2023-11-01T06:00:00.000Z",
-  "pcReleaseDate": "2023-11-01T06:00:00.000Z",
-  "publisherDisplayName": "BurningGalaxy US, Inc",
-  "countriesBlacklist": [
-    "KR"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": "2023-11-01T06:00:00.000Z",
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "anotherearth-1000-bux-fcbaaa"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/366a8a676ddb47228e6ce9921cd35624/anotherearth-nmk9l.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/366a8a676ddb47228e6ce9921cd35624/anotherearth-1lsqr.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/spt-assets/366a8a676ddb47228e6ce9921cd35624/anotherearth-1lsqr.jpg"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/366a8a676ddb47228e6ce9921cd35624/anotherearth-1ewmy.jpg"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "anotherearth-1000-bux-fcbaaa"
-    }
-  ],
+  "currentPrice": 9999,
   "seller": {
     "id": "o-tmkn8slr9dqklweg3pfh8y4bmeg7x2",
     "name": "BurningGalaxy US, Inc"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "addons"
-    },
-    {
-      "path": "addons/consumable"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "1000-bux",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "088a8239e52044888c336edea6dff752",
+      "namespace": "67731d377b774fb8a09ce635295b2d66"
     }
   ],
   "customAttributes": [
@@ -81,50 +61,57 @@
       "value": "false"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/366a8a676ddb47228e6ce9921cd35624/anotherearth-nmk9l.jpg",
-      "md5": "a65d601befebce47d1dd9bf7e95c4e40",
-      "size": 2104499,
-      "uploadedDate": "2023-10-24T08:19:30.624Z",
-      "width": 2560,
-      "height": 1440
+      "path": "addons"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/366a8a676ddb47228e6ce9921cd35624/anotherearth-1lsqr.jpg",
-      "md5": "58e3a1b7c4ee52201a84ed915d6064f0",
-      "size": 1213764,
-      "uploadedDate": "2023-10-24T09:23:23.632Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/366a8a676ddb47228e6ce9921cd35624/anotherearth-1lsqr.jpg",
-      "md5": "58e3a1b7c4ee52201a84ed915d6064f0",
-      "size": 1213764,
-      "uploadedDate": "2023-10-24T09:23:23.632Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/366a8a676ddb47228e6ce9921cd35624/anotherearth-1ewmy.jpg",
-      "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 1155872,
-      "uploadedDate": "2023-10-24T09:30:56.581Z",
-      "width": 1920,
-      "height": 1080
-    }
-  ],
-  "items": [
-    {
-      "id": "088a8239e52044888c336edea6dff752"
+      "path": "addons/consumable"
     }
   ],
   "catalogNs": {
-    "name": "67731d377b774fb8a09ce635295b2d66"
-  }
+    "mappings": [
+      {
+        "pageSlug": "anotherearth-ee1a1d",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "anotherearth-노바스톤-100개-200468",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "anotherearth-faq-452b58",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "anotherearth-500-bux-e1a97e",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "anotherearth-50-bux-29daaa",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "anotherearth-200-bux-52a652",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "anotherearth-100-bux-08aca3",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "anotherearth-1000-bux-fcbaaa",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": null,
+  "developerDisplayName": "BurningGalaxy US, Inc",
+  "publisherDisplayName": "BurningGalaxy US, Inc",
+  "price": null,
+  "prePurchase": null,
+  "releaseDate": "2023-11-01T06:00:00.000Z",
+  "pcReleaseDate": "2023-11-01T06:00:00.000Z",
+  "viewableDate": "2023-11-01T06:00:00.000Z",
+  "approximateReleasePlan": null
 }

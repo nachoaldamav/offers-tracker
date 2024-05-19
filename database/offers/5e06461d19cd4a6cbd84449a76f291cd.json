@@ -1,45 +1,26 @@
 {
+  "title": "NightlyPampasGeneralAudience",
   "id": "5e06461d19cd4a6cbd84449a76f291cd",
   "namespace": "c2594740866d4be69d38fcf08ef0176d",
-  "title": "NightlyPampasGeneralAudience",
   "description": "NightlyPampasGeneralAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "nightlypampasgeneralaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2020-11-02T18:50:49.288Z",
-  "lastModifiedDate": "2020-11-02T20:28:55.293Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": null,
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
     "name": "SEGA of Europe"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "nightlypampasgeneralaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "62656ba75e8f4285b798037cbde6390b",
+      "namespace": "c2594740866d4be69d38fcf08ef0176d"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -54,13 +35,54 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "62656ba75e8f4285b798037cbde6390b"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "c2594740866d4be69d38fcf08ef0176d"
-  }
+    "mappings": [
+      {
+        "pageSlug": "football-manager-2021--in-game-editor",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "football-manager-2021",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "football-manager-2021--demo",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

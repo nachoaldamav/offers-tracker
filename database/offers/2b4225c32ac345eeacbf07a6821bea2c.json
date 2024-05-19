@@ -1,42 +1,37 @@
 {
+  "title": "Spring Festival Bundle",
   "id": "2b4225c32ac345eeacbf07a6821bea2c",
   "namespace": "d613614e082c4f648835a32f15c1d29b",
-  "title": "Spring Festival Bundle",
   "description": "Spring Festival Bundle",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "springfestivalbundle",
-  "offerType": "IN_GAME_PURCHASE",
-  "creationDate": "2023-11-10T21:19:58.888Z",
-  "lastModifiedDate": "2024-03-30T15:04:54.742Z",
   "effectiveDate": "2023-12-14T00:00:00.000Z",
-  "pcReleaseDate": "2023-12-14T00:00:00.000Z",
-  "publisherDisplayName": "Level Infinite",
-  "countriesBlacklist": [
-    "RU",
-    "BE",
-    "SY",
-    "VN",
-    "CN"
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/d613614e082c4f648835a32f15c1d29b/SpringFestivalBundle-synced_1200x1600-095cd865b81bb4480fc4eafd2d91b677"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": "2023-12-14T00:00:00.000Z",
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 3999,
   "seller": {
     "id": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
     "name": "Proxima Beta Europe B.V."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "springfestivalbundle",
+  "url": null,
+  "tags": [
+    {
+      "id": "19847",
+      "name": "Achievements"
+    }
+  ],
+  "items": [
+    {
+      "id": "162ee1afffaa47a38c275d35026e2909",
+      "namespace": "d613614e082c4f648835a32f15c1d29b"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "spthidden"
@@ -48,38 +43,50 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
-      "status": "ACTIVE",
-      "referenceCount": 3628,
-      "comment": ""
-    }
-  ],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/d613614e082c4f648835a32f15c1d29b/SpringFestivalBundle-synced_1200x1600-095cd865b81bb4480fc4eafd2d91b677",
-      "md5": "095cd865b81bb4480fc4eafd2d91b677",
-      "size": 68518,
-      "uploadedDate": "2023-12-08T14:44:16.454Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "162ee1afffaa47a38c275d35026e2909"
-    }
-  ],
   "catalogNs": {
-    "name": "d613614e082c4f648835a32f15c1d29b"
-  }
+    "mappings": [
+      {
+        "pageSlug": "synced",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "synced--welcome-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "synced--newbie-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "synced--winterfest-bundle",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": "NExT Studios",
+  "publisherDisplayName": "Level Infinite",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2023-12-14T00:00:00.000Z",
+  "pcReleaseDate": "2023-12-14T00:00:00.000Z",
+  "viewableDate": "2023-12-14T00:00:00.000Z",
+  "approximateReleasePlan": null
 }

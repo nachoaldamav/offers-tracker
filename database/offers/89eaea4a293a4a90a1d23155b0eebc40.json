@@ -1,46 +1,69 @@
 {
+  "title": "3DMark Solar Bay",
   "id": "89eaea4a293a4a90a1d23155b0eebc40",
   "namespace": "a3899e1cdcd643009009e119e9b955f7",
-  "title": "3DMark Solar Bay",
   "description": "3DMark Solar Bay tests how Windows and Android devices perform when gaming with ray tracing. Results can be compared between platforms. The Solar Bay stress test shows how performance changes over extended gaming sessions. ",
-  "longDescription": "# About 3DMark Solar Bay\n\n3DMark Solar Bay tests how Windows and Android devices perform when gaming with ray tracing. Results can be compared between platforms. The Solar Bay stress test shows how performance changes over extended gaming sessions.\nReal-time ray tracing brings new levels of realism to in-game graphics. Solar Bay uses Vulkan 1.1 ray tracing to generate realistic real-time reflections on devices running Android or Windows.\n\nSolar Bay’s ray traced workload increases over three stages, with each section increasing linearly by 100%. On PC, Solar Bay complements our heavier ray tracing benchmarks Port Royal and Speed Way. With it’s three ray tracing benchmarks and the Raytracing feature test, 3DMark covers a wide range of ray tracing workloads, making it an excellent way to measure how your PC’s ray tracing performance scales. \n\n# Solar Bay Stress Test\n\nThe Solar Bay stress test is a longer test that shows how a device will perform over extended periods of ray traced gaming. It is designed to mirror a longer session of ray-traced gaming and runs the Solar Bay workload in a loop for twenty minutes. \nInstead of producing a single score, the main result from the stress test is a chart that shows you how the device’s performance changed during the test. This chart can help you understand how your device manages performance and heat during heavy use.\n\n# Solar Bay system requirements\n\n**OS: **Windows 10, 64-bit or Windows 11, 64-bit \n**Processor:** 1.8 GHz dual-core\n**Memory:** 4GB RAM\n**Graphics:** Vulkan 1.1 Compatible with support for Vulkan ray tracing pipeline *****\n**Storage:** 120 MB space\n*****For systems with integrated GPUs, you need at least 6GB system RAM, as the iGPU shares system RAM. \n\n# Detailed Vulkan requirements:\n\n**Vulkan Extensions**\n- VK_KHR_acceleration_structure\n- VK_KHR_ray_tracing_pipeline or VK_KHR_ray_query\n- VK_KHR_buffer_device_address\n- VK_EXT_descriptor_indexing\n\n**Vulkan Limits**\n- maxSamplerAnisotropy >= 16\n- maxBoundDescriptorSets >= 8\n- maxDescriptorSetS\n\n**Vulkan Features**\n- samplerAnisotropy\n- Quad ops in fragment shaders\n\n",
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "3dmark--solar-bay-benchmarks",
-  "offerType": "DLC",
-  "creationDate": "2023-01-26T15:08:28.418Z",
-  "lastModifiedDate": "2023-08-17T20:46:26.991Z",
   "effectiveDate": "2023-08-14T17:00:00.000Z",
-  "pcReleaseDate": "2023-08-14T17:00:00.000Z",
-  "publisherDisplayName": "UL Solutions",
-  "countriesBlacklist": [
-    "RU"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "REFUNDABLE",
-  "viewableDate": "2023-08-14T17:00:00.000Z",
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "3dmark--solar-bay-benchmarks"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkSolarBayBenchmarks_ULSolutions_DLC_S2_1200x1600-2fd94cc6cae2c8963c4e6a40f4e70001"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkSolarBayBenchmarks_ULSolutions_DLC_S1_2560x1440-cf65523bcf82d581d8306d41d745da14"
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkSolarBayBenchmarks_ULSolutions_DLC_IC1_200x80-d5686412d10aa41d0733cd3f4d2fd8e5"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkSolarBayBenchmarks_ULSolutions_DLC_S2_1200x1600-2fd94cc6cae2c8963c4e6a40f4e70001"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkSolarBayBenchmarks_ULSolutions_DLC_G1A_04_1920x1080-3aa200dae39e62e6242ea5c3b3b64d7a"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkSolarBayBenchmarks_ULSolutions_DLC_G1A_03_1920x1080-3ff6fe4720d485e7c706804ecbdfc37e"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkSolarBayBenchmarks_ULSolutions_DLC_G1A_02_1920x1080-0041bd8be3b702a11c6d11cc1e80dcb1"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkSolarBayBenchmarks_ULSolutions_DLC_G1A_01_1920x1080-7f50a24ea9f48897be9693ea5f95bf6f"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkSolarBayBenchmarks_ULSolutions_DLC_G1A_00_1920x1080-1901b051f7bc52918b09d3a4f4db7de2"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "3dmark--solar-bay-benchmarks"
-    }
-  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-8mezcp6bccb7t8n6k9m3mexen2yh99",
     "name": "UL"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "3dmark--solar-bay-benchmarks",
+  "url": null,
+  "tags": [
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "d8ec720ee0cf463b87a19b682ae66b30",
+      "namespace": "a3899e1cdcd643009009e119e9b955f7"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "addons"
@@ -55,110 +78,111 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
-    }
-  ],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkSolarBayBenchmarks_ULSolutions_DLC_S2_1200x1600-2fd94cc6cae2c8963c4e6a40f4e70001",
-      "md5": "2fd94cc6cae2c8963c4e6a40f4e70001",
-      "size": 441832,
-      "uploadedDate": "2023-07-19T19:04:12.175Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkSolarBayBenchmarks_ULSolutions_DLC_S1_2560x1440-cf65523bcf82d581d8306d41d745da14",
-      "md5": "cf65523bcf82d581d8306d41d745da14",
-      "size": 887442,
-      "uploadedDate": "2023-07-19T19:04:04.075Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "ProductLogo",
-      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkSolarBayBenchmarks_ULSolutions_DLC_IC1_200x80-d5686412d10aa41d0733cd3f4d2fd8e5",
-      "md5": "d5686412d10aa41d0733cd3f4d2fd8e5",
-      "size": 2832,
-      "uploadedDate": "2023-07-19T19:03:57.693Z",
-      "width": 200,
-      "height": 80
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkSolarBayBenchmarks_ULSolutions_DLC_S2_1200x1600-2fd94cc6cae2c8963c4e6a40f4e70001",
-      "md5": "2fd94cc6cae2c8963c4e6a40f4e70001",
-      "size": 441832,
-      "uploadedDate": "2023-07-19T19:03:51.506Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkSolarBayBenchmarks_ULSolutions_DLC_G1A_04_1920x1080-3aa200dae39e62e6242ea5c3b3b64d7a",
-      "md5": "3aa200dae39e62e6242ea5c3b3b64d7a",
-      "size": 605915,
-      "uploadedDate": "2023-07-19T19:03:09.426Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkSolarBayBenchmarks_ULSolutions_DLC_G1A_03_1920x1080-3ff6fe4720d485e7c706804ecbdfc37e",
-      "md5": "3ff6fe4720d485e7c706804ecbdfc37e",
-      "size": 572930,
-      "uploadedDate": "2023-07-19T19:03:15.750Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkSolarBayBenchmarks_ULSolutions_DLC_G1A_02_1920x1080-0041bd8be3b702a11c6d11cc1e80dcb1",
-      "md5": "0041bd8be3b702a11c6d11cc1e80dcb1",
-      "size": 481714,
-      "uploadedDate": "2023-07-19T19:03:21.201Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkSolarBayBenchmarks_ULSolutions_DLC_G1A_01_1920x1080-7f50a24ea9f48897be9693ea5f95bf6f",
-      "md5": "7f50a24ea9f48897be9693ea5f95bf6f",
-      "size": 511675,
-      "uploadedDate": "2023-07-19T19:03:28.422Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkSolarBayBenchmarks_ULSolutions_DLC_G1A_00_1920x1080-1901b051f7bc52918b09d3a4f4db7de2",
-      "md5": "1901b051f7bc52918b09d3a4f4db7de2",
-      "size": 496995,
-      "uploadedDate": "2023-07-19T19:03:34.278Z",
-      "width": 1920,
-      "height": 1080
-    }
-  ],
-  "items": [
-    {
-      "id": "d8ec720ee0cf463b87a19b682ae66b30"
-    }
-  ],
   "catalogNs": {
-    "name": "a3899e1cdcd643009009e119e9b955f7"
-  }
+    "mappings": [
+      {
+        "pageSlug": "3dmark--port-royal",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--cpu-profile",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--wild-life",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--sampler-feedback-feature-test",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--cloud-gate",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--api-overhead-feature-test",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--storage",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--night-raid",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--speed-way",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--time-spy",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--vrs-feature-test",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--pci-express-feature-test",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--ice-storm",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--fire-strike",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--sky-diver",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--mesh-shader-feature-test",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "3dmark--solar-bay-benchmarks",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "3dmark--solar-bay-benchmarks",
+      "pageType": "addon--cms-hybrid"
+    }
+  ],
+  "developerDisplayName": "UL Solutions",
+  "publisherDisplayName": "UL Solutions",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2023-08-14T17:00:00.000Z",
+  "pcReleaseDate": "2023-08-14T17:00:00.000Z",
+  "viewableDate": "2023-08-14T17:00:00.000Z",
+  "approximateReleasePlan": null
 }

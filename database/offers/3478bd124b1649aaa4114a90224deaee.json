@@ -1,36 +1,44 @@
 {
+  "title": "CorydalisDevAudience",
   "id": "3478bd124b1649aaa4114a90224deaee",
   "namespace": "corydalis",
-  "title": "CorydalisDevAudience",
   "description": "CorydalisDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "corydalisdevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-02-18T19:49:08.188Z",
-  "lastModifiedDate": "2020-04-29T00:46:50.385Z",
   "effectiveDate": "2050-02-18T14:48:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/corydalis/offer/Slime-Rancher_Game-Icon-400x400-38f64e82c5c7b0dd11a4c60a0ef2b3be.png"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/corydalis/offer/SlimeRancher_Logo-4000x1527-4464ca1018834321dfcad9ef70fd984c.png"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/corydalis/offer/SlimeRancher_PrimaryPromo-2580x1450-aa9041a93e7a01a7baa60c5fba6a1758.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/corydalis/offer/SlimeRancher_CodeRedemption-340x440-1fa08fcea64a85d6c182415b62a63565.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-zaqwbfdrp3pwhlqsnwvjfsmjdpsj3a",
     "name": "Monomi Park"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "corydalisdevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "f7c81f0b26414d03a74ddc95898a8805",
+      "namespace": "corydalis"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "games"
@@ -39,52 +47,50 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/corydalis/offer/Slime-Rancher_Game-Icon-400x400-38f64e82c5c7b0dd11a4c60a0ef2b3be.png",
-      "md5": "38f64e82c5c7b0dd11a4c60a0ef2b3be",
-      "size": 16035,
-      "uploadedDate": "2019-02-19T14:19:48.644Z",
-      "width": 400,
-      "height": 400
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/corydalis/offer/SlimeRancher_Logo-4000x1527-4464ca1018834321dfcad9ef70fd984c.png",
-      "md5": "4464ca1018834321dfcad9ef70fd984c",
-      "size": 351336,
-      "uploadedDate": "2019-02-27T19:55:23.819Z",
-      "width": 4000,
-      "height": 1527
-    },
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/corydalis/offer/SlimeRancher_PrimaryPromo-2580x1450-aa9041a93e7a01a7baa60c5fba6a1758.jpg",
-      "md5": "aa9041a93e7a01a7baa60c5fba6a1758",
-      "size": 242370,
-      "uploadedDate": "2019-02-27T19:55:34.290Z",
-      "width": 2580,
-      "height": 1450
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/corydalis/offer/SlimeRancher_CodeRedemption-340x440-1fa08fcea64a85d6c182415b62a63565.jpg",
-      "md5": "1fa08fcea64a85d6c182415b62a63565",
-      "size": 69415,
-      "uploadedDate": "2019-02-27T19:59:50.215Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "f7c81f0b26414d03a74ddc95898a8805"
-    }
-  ],
   "catalogNs": {
-    "name": "corydalis"
-  }
+    "mappings": [
+      {
+        "pageSlug": "slime-rancher",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "slime-rancher--secret-style-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "slime-rancher--original-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "slime-rancher--game-and-soundtrack-bundle",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

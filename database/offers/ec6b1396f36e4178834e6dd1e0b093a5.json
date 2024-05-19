@@ -1,52 +1,59 @@
 {
+  "title": "VIP Pass",
   "id": "ec6b1396f36e4178834e6dd1e0b093a5",
   "namespace": "ocn",
-  "title": "VIP Pass",
   "description": "Get 100 Gems each day for 28 days!  Bonus - Get Double FREE DRAWS!  More than 200% Value!",
-  "longDescription": "Get 100 Gems each day for 28 days!  Bonus - Get Double FREE DRAWS!  More than 200% Value!",
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "standard-subscription",
-  "offerType": "OTHERS",
-  "creationDate": "2017-05-09T21:31:53.893Z",
-  "lastModifiedDate": "2020-03-12T19:23:08.992Z",
   "effectiveDate": "2017-05-09T15:28:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": false,
+  "keyImages": [],
+  "currentPrice": 999,
   "seller": {
     "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
     "name": "Epic Games"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "standard-subscription",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "c72c32fa205c4de88d503cb8f9efc138",
+      "namespace": "ocn"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "mtx-packages"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "c72c32fa205c4de88d503cb8f9efc138"
-    }
-  ],
   "catalogNs": {
-    "name": "ocn"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

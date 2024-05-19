@@ -1,39 +1,49 @@
 {
+  "title": "PumaDevAudience",
   "id": "11f58d32918d48498af228f191433add",
   "namespace": "puma",
-  "title": "PumaDevAudience",
   "description": "PumaDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "pumadevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2018-12-12T16:16:42.346Z",
-  "lastModifiedDate": "2020-04-29T00:38:45.861Z",
   "effectiveDate": "2099-12-08T16:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/puma/offer/dieselbox-2580x1456-214b84a12a664c4955a9b5628bc85dec-2580x1456-214b84a12a664c4955a9b5628bc85dec.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/puma/offer/Genesis_Alpha_One_diesel-6782x1640-3687549254bfb07ad237b59f5e61e3e5-6782x1640-3687549254bfb07ad237b59f5e61e3e5-6782x1640-3687549254bfb07ad237b59f5e61e3e5.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/puma/offer/genesisthumbnail-1288x1450-e60ed54f91302f2a920372b8b34789d3-1288x1450-e60ed54f91302f2a920372b8b34789d3.jpg"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
     "name": "Team17 Digital Ltd"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "pumadevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "2a899cb94a8f452a8b43c258b9039dd0",
+      "namespace": "puma"
+    },
+    {
+      "id": "43ed28e577ab4c2a8cea27d6b44bba18",
+      "namespace": "puma"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Team17"
+    }
+  ],
   "categories": [
     {
       "path": "games"
@@ -42,51 +52,38 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "developerName",
-      "value": "Team17"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/puma/offer/dieselbox-2580x1456-214b84a12a664c4955a9b5628bc85dec-2580x1456-214b84a12a664c4955a9b5628bc85dec.jpg",
-      "md5": "214b84a12a664c4955a9b5628bc85dec",
-      "size": 8196497,
-      "uploadedDate": "2018-12-12T20:57:01.726Z",
-      "width": 2580,
-      "height": 1456
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/puma/offer/Genesis_Alpha_One_diesel-6782x1640-3687549254bfb07ad237b59f5e61e3e5-6782x1640-3687549254bfb07ad237b59f5e61e3e5-6782x1640-3687549254bfb07ad237b59f5e61e3e5.png",
-      "md5": "3687549254bfb07ad237b59f5e61e3e5",
-      "size": 500862,
-      "uploadedDate": "2018-12-12T20:57:13.248Z",
-      "width": 6782,
-      "height": 1640
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/puma/offer/genesisthumbnail-1288x1450-e60ed54f91302f2a920372b8b34789d3-1288x1450-e60ed54f91302f2a920372b8b34789d3.jpg",
-      "md5": "e60ed54f91302f2a920372b8b34789d3",
-      "size": 7953457,
-      "uploadedDate": "2018-12-12T20:57:26.499Z",
-      "width": 1288,
-      "height": 1450
-    }
-  ],
-  "items": [
-    {
-      "id": "2a899cb94a8f452a8b43c258b9039dd0"
-    },
-    {
-      "id": "43ed28e577ab4c2a8cea27d6b44bba18"
-    }
-  ],
   "catalogNs": {
-    "name": "puma"
-  }
+    "mappings": [
+      {
+        "pageSlug": "genesis-alpha-one",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-12-08T16:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,104 +1,54 @@
 {
+  "title": "Saturnalia",
   "id": "f3d2286a03c94613b5e7f40fef99837f",
   "namespace": "epic",
-  "title": "Saturnalia",
   "description": "Saturnalia",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "saturnalia/home",
-  "urlSlug": "saturnalia",
-  "offerType": "OTHERS",
-  "creationDate": "2020-03-19T20:42:59.066Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
   "effectiveDate": "2020-03-23T15:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Saturnalia_SantaRagionesrl_S1-2560x1440-62a841e178df1331230c2f8ed09087fa.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Portrait_860x1148_UPDATED1-860x1148-aa1f30b72e6cd8b2199cc64ab7b2005e.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-cjwnkas5rn476tzk72fbh2ftutnc2y",
     "name": "Santa Ragione"
   },
-  "linkedOfferId": "275d5915ebd2479f983f51025b22a1b8",
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": "saturnalia/home",
+  "urlSlug": "saturnalia",
+  "url": null,
   "tags": [
     {
       "id": "1218",
-      "name": "Horror",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:06.599Z",
-      "updated": "2023-08-22T19:55:04.197Z",
-      "status": "ACTIVE",
-      "referenceCount": 414,
-      "comment": null
+      "name": "Horror"
     },
     {
       "id": "1127",
-      "name": "Investigation",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:21.604Z",
-      "updated": "2023-05-03T14:53:37.759Z",
-      "status": "ACTIVE",
-      "referenceCount": 69,
-      "comment": null
+      "name": "Investigation"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
     },
     {
       "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-08-23T05:17:12.988Z",
-      "status": "ACTIVE",
-      "referenceCount": 1176,
-      "comment": null
+      "name": "Indie"
     },
     {
       "id": "10719",
-      "name": "Mac OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX",
-        "macOS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-08-23T05:08:24.605Z",
-      "status": "ACTIVE",
-      "referenceCount": 1146,
-      "comment": null
+      "name": "Mac OS"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -123,32 +73,42 @@
       "value": "275d5915ebd2479f983f51025b22a1b8"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Saturnalia_SantaRagionesrl_S1-2560x1440-62a841e178df1331230c2f8ed09087fa.jpg",
-      "md5": "62a841e178df1331230c2f8ed09087fa",
-      "size": 502376,
-      "uploadedDate": "2020-03-19T20:41:32.043Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Portrait_860x1148_UPDATED1-860x1148-aa1f30b72e6cd8b2199cc64ab7b2005e.jpg",
-      "md5": "aa1f30b72e6cd8b2199cc64ab7b2005e",
-      "size": 462078,
-      "uploadedDate": "2020-03-19T20:55:50.445Z",
-      "width": 860,
-      "height": 1148
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 899,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1100,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "3978575a084d4814bae1750bdb98ce76"
+          }
+        ]
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-03-23T15:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,96 +1,50 @@
 {
+  "title": "King of Avalon",
   "id": "cd7215ac860e4b24abc7d99b7e05b7ec",
   "namespace": "61f59d5d7e054ba7964ba6364772a31c",
-  "title": "King of Avalon",
   "description": "Summon your Dragon and be the King of Frost and Flame in Avalon!",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "0c9faf89abf9488793c6ca50ffe71057",
-  "offerType": "BASE_GAME",
-  "creationDate": "2023-12-06T06:08:49.547Z",
-  "lastModifiedDate": "2023-12-06T06:18:00.392Z",
   "effectiveDate": "2023-12-06T06:30:00.000Z",
-  "pcReleaseDate": "2023-12-08T09:00:00.000Z",
-  "publisherDisplayName": "FunPlus International AG",
-  "countriesBlacklist": [
-    "BR",
-    "RU",
-    "AU",
-    "KR"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2023-12-06T06:08:31.300Z",
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "king-of-avalon-113d24"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/af5bf2402b714a468e9b44d914d105f1/king-of-avalon-ir78d.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/af5bf2402b714a468e9b44d914d105f1/king-of-avalon-j3qrm.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/spt-assets/af5bf2402b714a468e9b44d914d105f1/king-of-avalon-j3qrm.png"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "king-of-avalon-113d24"
-    }
-  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-kqt248e59yf4582wv8xy4kzhbqtm6a",
     "name": "Funplus International"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games/edition/base"
-    },
-    {
-      "path": "games/edition"
-    },
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "0c9faf89abf9488793c6ca50ffe71057",
+  "url": null,
   "tags": [
     {
       "id": "22775",
-      "name": "MMO",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-09-13T16:48:03.250Z",
-      "updated": "2023-08-22T10:15:49.955Z",
-      "status": "ACTIVE",
-      "referenceCount": 235,
-      "comment": ""
+      "name": "MMO"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
     },
     {
       "id": "1115",
-      "name": "Strategy",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2023-08-23T05:08:24.575Z",
-      "status": "ACTIVE",
-      "referenceCount": 1068,
-      "comment": null
+      "name": "Strategy"
+    }
+  ],
+  "items": [
+    {
+      "id": "bfed4db8b2d24bf785f8184ab86da17a",
+      "namespace": "61f59d5d7e054ba7964ba6364772a31c"
     }
   ],
   "customAttributes": [
@@ -111,41 +65,58 @@
       "value": "false"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/af5bf2402b714a468e9b44d914d105f1/king-of-avalon-ir78d.png",
-      "md5": "9b20432eda484a073108ca3234fabfaa",
-      "size": 3953989,
-      "uploadedDate": "2023-09-13T07:50:53.125Z",
-      "width": 2560,
-      "height": 1440
+      "path": "games/edition/base"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/af5bf2402b714a468e9b44d914d105f1/king-of-avalon-j3qrm.png",
-      "md5": "9f801a67bd75ba8e45f6f8c2b2e5c8ca",
-      "size": 2860414,
-      "uploadedDate": "2023-09-13T07:50:58.459Z",
-      "width": 1200,
-      "height": 1600
+      "path": "games/edition"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/af5bf2402b714a468e9b44d914d105f1/king-of-avalon-j3qrm.png",
-      "md5": "9f801a67bd75ba8e45f6f8c2b2e5c8ca",
-      "size": 2860414,
-      "uploadedDate": "2023-09-13T07:50:58.459Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "bfed4db8b2d24bf785f8184ab86da17a"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "61f59d5d7e054ba7964ba6364772a31c"
-  }
+    "mappings": [
+      {
+        "pageSlug": "king-of-avalon-113d24",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "king-of-avalon-faq-40e079",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "king-of-avalon-113d24",
+      "pageType": "productHome"
+    }
+  ],
+  "developerDisplayName": "FunPlus International AG",
+  "publisherDisplayName": "FunPlus International AG",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2023-12-06T06:30:00.000Z",
+  "pcReleaseDate": "2023-12-08T09:00:00.000Z",
+  "viewableDate": "2023-12-06T06:08:31.300Z",
+  "approximateReleasePlan": null
 }

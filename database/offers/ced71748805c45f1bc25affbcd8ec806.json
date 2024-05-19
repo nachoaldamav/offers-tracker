@@ -1,60 +1,77 @@
 {
+  "title": "Satisfactory Nightly",
   "id": "ced71748805c45f1bc25affbcd8ec806",
   "namespace": "crab",
-  "title": "Satisfactory Nightly",
   "description": "CrabNightly CrabNightly",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "satisfactory-nightly",
-  "offerType": "OTHERS",
-  "creationDate": "2018-10-24T16:49:45.241Z",
-  "lastModifiedDate": "2020-04-29T00:46:52.268Z",
   "effectiveDate": "2018-10-24T12:48:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/sat_off-340x440-87d85bf8e95544134940b67bf12c1822.png"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
     "name": "Epic Games"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "satisfactory-nightly",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "295aba9fb83f4921bfce2f33392b92f6",
+      "namespace": "crab"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "games"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/sat_off-340x440-87d85bf8e95544134940b67bf12c1822.png",
-      "md5": "87d85bf8e95544134940b67bf12c1822",
-      "size": 245210,
-      "uploadedDate": "2018-10-24T16:49:37.052Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "295aba9fb83f4921bfce2f33392b92f6"
-    }
-  ],
   "catalogNs": {
-    "name": "crab"
-  }
+    "mappings": [
+      {
+        "pageSlug": "satisfactory",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "satisfactory--dedicated-server",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "satisfactory--early-access-weekend",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

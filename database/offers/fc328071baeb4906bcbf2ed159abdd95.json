@@ -1,59 +1,42 @@
 {
+  "title": "The Outer Worlds Retail",
   "id": "fc328071baeb4906bcbf2ed159abdd95",
   "namespace": "rosemallow",
-  "title": "The Outer Worlds Retail",
   "description": "The Outer Worlds Retail",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "the-outer-worlds-general-audience",
-  "offerType": "BASE_GAME",
-  "creationDate": "2019-10-09T22:59:47.024Z",
-  "lastModifiedDate": "2020-04-27T04:15:06.304Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/rosemallow/item/TOW_ESRB_M_content_m-688x366-3cad213ee7c926f03d1d88a34a4ddffd.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/TOW_FOB_PC_ESRB-1461x1840-f1accbd172759cb257d81b170cb952f0.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/TOW_FOB_PC_ESRB-1461x1840-f1accbd172759cb257d81b170cb952f0.jpg"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 2999,
   "seller": {
     "id": "o-6emrb2lpzacm9ued3z37u42x56wkaz",
     "name": "Private Division"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "the-outer-worlds-general-audience",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "fcf496d7382341fcaf3c2b583f116e2c",
+      "namespace": "rosemallow"
     }
   ],
   "customAttributes": [
@@ -62,41 +45,66 @@
       "value": "[]"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/rosemallow/item/TOW_ESRB_M_content_m-688x366-3cad213ee7c926f03d1d88a34a4ddffd.png",
-      "md5": "3cad213ee7c926f03d1d88a34a4ddffd",
-      "size": 26599,
-      "uploadedDate": "2019-08-21T13:46:31.734Z",
-      "width": 688,
-      "height": 366
+      "path": "games"
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/rosemallow/offer/TOW_FOB_PC_ESRB-1461x1840-f1accbd172759cb257d81b170cb952f0.jpg",
-      "md5": "f1accbd172759cb257d81b170cb952f0",
-      "size": 1850244,
-      "uploadedDate": "2019-10-26T02:24:59.588Z",
-      "width": 1461,
-      "height": 1840
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/rosemallow/offer/TOW_FOB_PC_ESRB-1461x1840-f1accbd172759cb257d81b170cb952f0.jpg",
-      "md5": "f1accbd172759cb257d81b170cb952f0",
-      "size": 1850244,
-      "uploadedDate": "2019-10-26T02:25:07.870Z",
-      "width": 1461,
-      "height": 1840
-    }
-  ],
-  "items": [
-    {
-      "id": "fcf496d7382341fcaf3c2b583f116e2c"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "rosemallow"
-  }
+    "mappings": [
+      {
+        "pageSlug": "the-outer-worlds--non-mandatory-corporate-sponsored-bundle",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-outer-worlds",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-outer-worlds--murder-on-eridanos",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-outer-worlds--expansion-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-outer-worlds--original-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-outer-worlds--peril-on-gorgon",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

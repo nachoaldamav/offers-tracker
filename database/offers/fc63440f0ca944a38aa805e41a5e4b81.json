@@ -1,56 +1,29 @@
 {
+  "title": "DevZeusAudience",
   "id": "fc63440f0ca944a38aa805e41a5e4b81",
   "namespace": "0208da63c74542c99e8a0837e4e688c3",
-  "title": "DevZeusAudience",
   "description": "DevZeusAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "devzeusaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2020-10-22T20:36:57.368Z",
-  "lastModifiedDate": "2024-04-18T16:20:48.083Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": "Focus Entertainment",
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
     "name": "Focus Entertainment Publishing"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "devzeusaudience",
+  "url": null,
   "tags": [
     {
       "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
-      "status": "ACTIVE",
-      "referenceCount": 3628,
-      "comment": ""
+      "name": "Achievements"
+    }
+  ],
+  "items": [
+    {
+      "id": "409706843b1a4526977cf4ace8c94280",
+      "namespace": "0208da63c74542c99e8a0837e4e688c3"
     }
   ],
   "customAttributes": [
@@ -59,13 +32,62 @@
       "value": "KR,CN"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "409706843b1a4526977cf4ace8c94280"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "0208da63c74542c99e8a0837e4e688c3"
-  }
+    "mappings": [
+      {
+        "pageSlug": "hardspace-shipbreaker",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "hardspace-shipbreaker--original-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "hardspace-shipbreaker--ost-bundle",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hardspace-shipbreaker--digital-artbook",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "hardspace-shipbreaker--game-ost-artbook",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": "",
+  "publisherDisplayName": "Focus Entertainment",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,43 +1,27 @@
 {
+  "title": "Monthly Pass",
   "id": "9c671d1c72c94e8092f08aa06186f7ce",
   "namespace": "d613614e082c4f648835a32f15c1d29b",
-  "title": "Monthly Pass",
   "description": "Monthly Pass",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "monthlypass",
-  "offerType": "IN_GAME_PURCHASE",
-  "creationDate": "2023-07-24T21:36:56.350Z",
-  "lastModifiedDate": "2024-03-30T15:11:58.837Z",
   "effectiveDate": "2023-09-08T04:00:00.000Z",
-  "pcReleaseDate": "2023-09-08T04:00:00.000Z",
-  "publisherDisplayName": "Level Infinite",
-  "countriesBlacklist": [
-    "BE",
-    "RU",
-    "KP",
-    "SY",
-    "VN",
-    "CN"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": "2023-09-08T04:00:00.000Z",
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": false,
+  "keyImages": [],
+  "currentPrice": 499,
   "seller": {
     "id": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
     "name": "Proxima Beta Europe B.V."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "monthlypass",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "f860618ed14948629832e86dc8dcb017",
+      "namespace": "d613614e082c4f648835a32f15c1d29b"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "spthidden/consumable"
@@ -49,15 +33,50 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "f860618ed14948629832e86dc8dcb017"
-    }
-  ],
   "catalogNs": {
-    "name": "d613614e082c4f648835a32f15c1d29b"
-  }
+    "mappings": [
+      {
+        "pageSlug": "synced",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "synced--welcome-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "synced--newbie-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "synced--winterfest-bundle",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": "NExT Studio",
+  "publisherDisplayName": "Level Infinite",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2023-09-08T04:00:00.000Z",
+  "pcReleaseDate": "2023-09-08T04:00:00.000Z",
+  "viewableDate": "2023-09-08T04:00:00.000Z",
+  "approximateReleasePlan": null
 }

@@ -1,50 +1,35 @@
 {
+  "title": "KiwiDevAudience",
   "id": "05c3b420e11f4ee98faa284a43632aad",
   "namespace": "76339caf9e8e4d24b62761c736e82b42",
-  "title": "KiwiDevAudience",
   "description": "KiwiDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "kiwidevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-06-19T18:45:17.080Z",
-  "lastModifiedDate": "2021-08-18T04:00:33.850Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "AR",
-    "KR",
-    "TR",
-    "CR"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/offer/CodeRedemptionTemplate-340x440-ce806284f86ad1a87375e9dcd5c6bc66.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/offer/CodeRedemptionTemplate-340x440-ce806284f86ad1a87375e9dcd5c6bc66.jpg"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-4bn3uqfwdgdmnx9yfdauv57gqcjzqn",
     "name": "Enhance, Inc."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "kiwidevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "3a72b50da57d44d996f90c56d62d53a1",
+      "namespace": "76339caf9e8e4d24b62761c736e82b42"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -59,32 +44,70 @@
       "value": "[]"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/offer/CodeRedemptionTemplate-340x440-ce806284f86ad1a87375e9dcd5c6bc66.jpg",
-      "md5": "ce806284f86ad1a87375e9dcd5c6bc66",
-      "size": 241405,
-      "uploadedDate": "2019-07-12T18:36:50.698Z",
-      "width": 340,
-      "height": 440
+      "path": "games"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/offer/CodeRedemptionTemplate-340x440-ce806284f86ad1a87375e9dcd5c6bc66.jpg",
-      "md5": "ce806284f86ad1a87375e9dcd5c6bc66",
-      "size": 241405,
-      "uploadedDate": "2019-07-12T18:36:58.044Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "3a72b50da57d44d996f90c56d62d53a1"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "76339caf9e8e4d24b62761c736e82b42"
-  }
+    "mappings": [
+      {
+        "pageSlug": "tetris-effect--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "tetris-effect-kiwidlc1-77df8a",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "tetris-effect-tetris-effect-digital-deluxe-edition-6ea478",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "tetris-effect-rating-for-kiwi-c464fc",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "tetris-effect-kiwiqatest-f17791",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "tetris-effect-tetris-effect-connected-beta-test-95ffc7",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "tetris-effect",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

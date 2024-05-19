@@ -1,45 +1,35 @@
 {
+  "title": "SwanDevAudience",
   "id": "d063018bb5e2482f854cc1997de17f06",
   "namespace": "ff1cd8b38bda4f6281879c9bdb228ff1",
-  "title": "SwanDevAudience",
   "description": "SwanDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "swandevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-06-06T19:39:05.582Z",
-  "lastModifiedDate": "2019-09-27T23:15:48.071Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/offer/CodeRedemption_Atomicrops-340x437-95735b33f8dc9f5500cc6bc1acd4016e.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/offer/CodeRedemption_Atomicrops-340x437-95735b33f8dc9f5500cc6bc1acd4016e.png"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
     "name": "Raw Fury"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "swandevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "aaee7f6ca2ab4b9ab561fca5f0559b88",
+      "namespace": "ff1cd8b38bda4f6281879c9bdb228ff1"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -54,32 +44,66 @@
       "value": "Bird Bath Games"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/offer/CodeRedemption_Atomicrops-340x437-95735b33f8dc9f5500cc6bc1acd4016e.png",
-      "md5": "95735b33f8dc9f5500cc6bc1acd4016e",
-      "size": 276170,
-      "uploadedDate": "2019-06-08T03:34:27.203Z",
-      "width": 340,
-      "height": 437
+      "path": "games"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/offer/CodeRedemption_Atomicrops-340x437-95735b33f8dc9f5500cc6bc1acd4016e.png",
-      "md5": "95735b33f8dc9f5500cc6bc1acd4016e",
-      "size": 276170,
-      "uploadedDate": "2019-06-08T03:34:33.994Z",
-      "width": 340,
-      "height": 437
-    }
-  ],
-  "items": [
-    {
-      "id": "aaee7f6ca2ab4b9ab561fca5f0559b88"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "ff1cd8b38bda4f6281879c9bdb228ff1"
-  }
+    "mappings": [
+      {
+        "pageSlug": "atomicrops--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "atomicrops",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "atomicrops--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "atomicrops--reap-what-you-crow",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "atomicrops--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "atomicrops--deerly-beloved",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

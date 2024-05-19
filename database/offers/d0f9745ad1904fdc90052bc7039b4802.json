@@ -1,49 +1,31 @@
 {
+  "title": "AnchovyDevAudience",
   "id": "d0f9745ad1904fdc90052bc7039b4802",
   "namespace": "fc8d1547232045f6a23257cfd04ef3e8",
-  "title": "AnchovyDevAudience",
   "description": "AnchovyDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "anchovydevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-10-23T17:43:37.633Z",
-  "lastModifiedDate": "2019-11-21T15:45:12.214Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY",
-    "CN"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/fc8d1547232045f6a23257cfd04ef3e8/offer/RL---S2-1280x1440-43c9f252840c081e58f80134f17da19f.jpg"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "anchovydevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "ee8eb8a244a04bedbea1248f446fbdf6",
+      "namespace": "fc8d1547232045f6a23257cfd04ef3e8"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -58,23 +40,46 @@
       "value": "[]"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/fc8d1547232045f6a23257cfd04ef3e8/offer/RL---S2-1280x1440-43c9f252840c081e58f80134f17da19f.jpg",
-      "md5": "43c9f252840c081e58f80134f17da19f",
-      "size": 495610,
-      "uploadedDate": "2019-11-21T13:56:55.113Z",
-      "width": 1280,
-      "height": 1440
-    }
-  ],
-  "items": [
+      "path": "games"
+    },
     {
-      "id": "ee8eb8a244a04bedbea1248f446fbdf6"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "fc8d1547232045f6a23257cfd04ef3e8"
-  }
+    "mappings": [
+      {
+        "pageSlug": "rayman-legends",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

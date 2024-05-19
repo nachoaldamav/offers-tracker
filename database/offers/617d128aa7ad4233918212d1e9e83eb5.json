@@ -1,104 +1,54 @@
 {
+  "title": "Offworld Trading Company",
   "id": "617d128aa7ad4233918212d1e9e83eb5",
   "namespace": "epic",
-  "title": "Offworld Trading Company",
   "description": "Offworld Trading Company",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "offworld-trading-company/home",
-  "urlSlug": "offworld-trading-company",
-  "offerType": "OTHERS",
-  "creationDate": "2020-02-24T15:49:25.912Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
   "effectiveDate": "2020-03-04T16:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2020-02-26T16:00:00.000Z",
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_MohawkGames_OffworldTradingCompany_S4-510x680-5c715e53a4447c2dc5429fc0c76d74f6.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_MohawkGames_OffworldTradingCompany_S3-1360x766-d93f4d942f88635933d16cfc7dab4983.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-uw2qbn4nh26vxscergml2f7du26bvk",
     "name": "Mohawk Games"
   },
-  "linkedOfferId": "4531b00fcf354680bf68d138b7155fda",
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": "offworld-trading-company/home",
+  "urlSlug": "offworld-trading-company",
+  "url": null,
   "tags": [
     {
       "id": "1299",
-      "name": "Competitive",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:47.106Z",
-      "updated": "2023-08-23T04:55:54.821Z",
-      "status": "ACTIVE",
-      "referenceCount": 452,
-      "comment": null
+      "name": "Competitive"
     },
     {
       "id": "1115",
-      "name": "Strategy",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2023-08-23T05:08:24.575Z",
-      "status": "ACTIVE",
-      "referenceCount": 1068,
-      "comment": null
+      "name": "Strategy"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
     },
     {
       "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-08-23T05:17:12.988Z",
-      "status": "ACTIVE",
-      "referenceCount": 1176,
-      "comment": null
+      "name": "Indie"
     },
     {
       "id": "10719",
-      "name": "Mac OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX",
-        "macOS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-08-23T05:08:24.605Z",
-      "status": "ACTIVE",
-      "referenceCount": 1146,
-      "comment": null
+      "name": "Mac OS"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -123,32 +73,42 @@
       "value": "4531b00fcf354680bf68d138b7155fda"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_MohawkGames_OffworldTradingCompany_S4-510x680-5c715e53a4447c2dc5429fc0c76d74f6.jpg",
-      "md5": "5c715e53a4447c2dc5429fc0c76d74f6",
-      "size": 179934,
-      "uploadedDate": "2020-02-24T15:45:13.300Z",
-      "width": 510,
-      "height": 680
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_MohawkGames_OffworldTradingCompany_S3-1360x766-d93f4d942f88635933d16cfc7dab4983.jpg",
-      "md5": "d93f4d942f88635933d16cfc7dab4983",
-      "size": 402658,
-      "uploadedDate": "2020-02-24T15:45:51.048Z",
-      "width": 1360,
-      "height": 766
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1019,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 1980,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "7fd4ce60b0d1471a89ee702c78c10c42"
+          }
+        ]
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-03-05T16:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": "2020-02-26T16:00:00.000Z",
+  "approximateReleasePlan": null
 }

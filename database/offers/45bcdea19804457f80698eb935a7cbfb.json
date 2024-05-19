@@ -1,36 +1,27 @@
 {
+  "title": "Test 4",
   "id": "45bcdea19804457f80698eb935a7cbfb",
   "namespace": "475fb98e3a14457b8d3ad34f1e8dc654",
-  "title": "Test 4",
   "description": "Test 4",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "test-4-audience",
-  "offerType": "VIRTUAL_CURRENCY",
-  "creationDate": "2022-08-09T20:53:43.515Z",
-  "lastModifiedDate": "2023-08-03T00:49:44.133Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": false,
+  "keyImages": [],
+  "currentPrice": 99,
   "seller": {
     "id": "o-wct448k64rpcjqfxbrhd3zleztl663",
     "name": "Embark Studios AB"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "test-4-audience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "fe47d3cb537c48d5bc6839cf2a480769",
+      "namespace": "475fb98e3a14457b8d3ad34f1e8dc654"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "spthidden/consumable"
@@ -42,15 +33,33 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "fe47d3cb537c48d5bc6839cf2a480769"
-    }
-  ],
   "catalogNs": {
-    "name": "475fb98e3a14457b8d3ad34f1e8dc654"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 99,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,38 +1,40 @@
 {
+  "title": "Crowns 2200",
   "id": "2a8da54322d440ca844a58c366276edb",
   "namespace": "5fcf6f3031c547f789e29c18b422ca67",
-  "title": "Crowns 2200",
   "description": "Crowns 2200",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "realm-royale--crowns-2200",
-  "offerType": "VIRTUAL_CURRENCY",
-  "creationDate": "2022-07-08T14:58:47.237Z",
-  "lastModifiedDate": "2023-07-17T14:00:01.896Z",
   "effectiveDate": "2022-08-22T11:00:00.000Z",
-  "pcReleaseDate": "2022-08-22T11:00:00.000Z",
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR"
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/5fcf6f3031c547f789e29c18b422ca67/S2_860x1148-d0dacba2a13d826da03e7044814f79e7"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/5fcf6f3031c547f789e29c18b422ca67/S1_2560x1440-e8bf7f4aab0e5241de4cc40b8e18f793"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": "2022-08-22T11:00:00.000Z",
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 1999,
   "seller": {
     "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
     "name": "Hi-Rez Studios"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "realm-royale--crowns-2200",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "52463df8dff6441daffef92b4a311fe7",
+      "namespace": "5fcf6f3031c547f789e29c18b422ca67"
+    },
+    {
+      "id": "fcca44d20803489ab1f12553ea6b32b7",
+      "namespace": "5fcf6f3031c547f789e29c18b422ca67"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "games"
@@ -41,37 +43,50 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/5fcf6f3031c547f789e29c18b422ca67/S2_860x1148-d0dacba2a13d826da03e7044814f79e7",
-      "md5": "d0dacba2a13d826da03e7044814f79e7",
-      "size": 417268,
-      "uploadedDate": "2022-08-18T17:09:18.702Z",
-      "width": 860,
-      "height": 1148
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/5fcf6f3031c547f789e29c18b422ca67/S1_2560x1440-e8bf7f4aab0e5241de4cc40b8e18f793",
-      "md5": "e8bf7f4aab0e5241de4cc40b8e18f793",
-      "size": 287121,
-      "uploadedDate": "2022-08-18T17:09:22.322Z",
-      "width": 2560,
-      "height": 1440
-    }
-  ],
-  "items": [
-    {
-      "id": "52463df8dff6441daffef92b4a311fe7"
-    },
-    {
-      "id": "fcca44d20803489ab1f12553ea6b32b7"
-    }
-  ],
   "catalogNs": {
-    "name": "5fcf6f3031c547f789e29c18b422ca67"
-  }
+    "mappings": [
+      {
+        "pageSlug": "realm-royale-reforged--epic-launch-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "realm-royale-reforged",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "realm-royale-reforged--bass-drop-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "realm-royale-reforged--cute-but-deadly-pack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2022-08-22T11:00:00.000Z",
+  "pcReleaseDate": "2022-08-22T11:00:00.000Z",
+  "viewableDate": "2022-08-22T11:00:00.000Z",
+  "approximateReleasePlan": null
 }

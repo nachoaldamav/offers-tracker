@@ -1,45 +1,31 @@
 {
+  "title": "GruntDevAudience",
   "id": "b3843700792e427f9035345537c8569b",
   "namespace": "5b325322a4c04b9e9e780b9a1e9b2d70",
-  "title": "GruntDevAudience",
   "description": "GruntDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "gruntdevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-12-05T20:51:44.081Z",
-  "lastModifiedDate": "2020-02-06T15:12:04.337Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/5b325322a4c04b9e9e780b9a1e9b2d70/offer/EGS_TeamColorblind_Aztez_S2-860x1148-0d2b32f59c7ce18bdb7f2c538c4cb3fa.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-ndzqj36dmhqmfklcq44yywpgfnbmbd",
     "name": "Team Colorblind"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "gruntdevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "d12f90fee3dd4f8294ecc88acae1ba59",
+      "namespace": "5b325322a4c04b9e9e780b9a1e9b2d70"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -50,23 +36,46 @@
       "value": "Team Colorblind"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/5b325322a4c04b9e9e780b9a1e9b2d70/offer/EGS_TeamColorblind_Aztez_S2-860x1148-0d2b32f59c7ce18bdb7f2c538c4cb3fa.jpg",
-      "md5": "0d2b32f59c7ce18bdb7f2c538c4cb3fa",
-      "size": 192699,
-      "uploadedDate": "2020-02-05T17:39:36.275Z",
-      "width": 860,
-      "height": 1148
-    }
-  ],
-  "items": [
+      "path": "games"
+    },
     {
-      "id": "d12f90fee3dd4f8294ecc88acae1ba59"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "5b325322a4c04b9e9e780b9a1e9b2d70"
-  }
+    "mappings": [
+      {
+        "pageSlug": "aztez",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-02-13T12:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

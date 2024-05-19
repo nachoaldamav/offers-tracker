@@ -1,36 +1,46 @@
 {
+  "title": "Dark and Light Editor",
   "id": "74447ad08cc34e2e8ca18a2651abacae",
   "namespace": "darkandlight",
-  "title": "Dark and Light Editor",
   "description": "Forge your own Dark and Light realms!! With the Dark and Light Dev Kit, a streamlined version of the Unreal Engine 4 Editor, you have the power to create and distribute your own designs within the environs of Archos. We can’t wait to see what amazing worlds you create! (The Ki...",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "dark-and-light",
-  "urlSlug": "dark-and-light-editor",
-  "offerType": "OTHERS",
-  "creationDate": "2018-03-06T20:17:32.231Z",
-  "lastModifiedDate": "2021-08-25T16:43:39.269Z",
   "effectiveDate": "2018-03-06T15:16:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/DarkLight__White-993x398-81593dccc12d9dddebfbfe9fb3309e13.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/darkandlight/offer/Diesel_product_darkandlight_HighresScreenshot00057-1920x1080-2b389915fee892d321685d7c14298fbab047de43-1920x1080-b8c5c7c66ab8d1d01e2c3cde1702a8a6.png"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-33w3pktcfkzsmhns2qwp7mmr3z4nht",
     "name": "Snail Games USA"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": "dark-and-light",
+  "urlSlug": "dark-and-light-editor",
+  "url": null,
+  "tags": [
+    {
+      "id": "9559",
+      "name": "Editors"
+    }
+  ],
+  "items": [
+    {
+      "id": "d9e2844f41154a6986b9ef6d11811726",
+      "namespace": "darkandlight"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "dark-and-light"
+    }
+  ],
   "categories": [
     {
       "path": "engines"
@@ -42,52 +52,38 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "9559",
-      "name": "Editors",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T21:11:57.763Z",
-      "updated": "2023-06-28T21:16:34.903Z",
-      "status": "ACTIVE",
-      "referenceCount": 54,
-      "comment": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "dark-and-light"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/DarkLight__White-993x398-81593dccc12d9dddebfbfe9fb3309e13.png",
-      "md5": "81593dccc12d9dddebfbfe9fb3309e13",
-      "size": 47472,
-      "uploadedDate": "2018-11-14T00:48:11.488Z",
-      "width": 993,
-      "height": 398
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/darkandlight/offer/Diesel_product_darkandlight_HighresScreenshot00057-1920x1080-2b389915fee892d321685d7c14298fbab047de43-1920x1080-b8c5c7c66ab8d1d01e2c3cde1702a8a6.png",
-      "md5": "b8c5c7c66ab8d1d01e2c3cde1702a8a6",
-      "size": 661108,
-      "uploadedDate": "2020-02-27T15:04:19.238Z",
-      "width": 1920,
-      "height": 1080
-    }
-  ],
-  "items": [
-    {
-      "id": "d9e2844f41154a6986b9ef6d11811726"
-    }
-  ],
   "catalogNs": {
-    "name": "darkandlight"
-  }
+    "mappings": [
+      {
+        "pageSlug": "dark-and-light",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

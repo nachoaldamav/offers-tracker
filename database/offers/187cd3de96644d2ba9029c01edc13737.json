@@ -1,39 +1,27 @@
 {
+  "title": "Petunia: Press Audience",
   "id": "187cd3de96644d2ba9029c01edc13737",
   "namespace": "petunia",
-  "title": "Petunia: Press Audience",
   "description": "Petunia: Press Audience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "petunia-pressaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-01-29T15:27:17.767Z",
-  "lastModifiedDate": "2022-09-20T14:59:58.766Z",
   "effectiveDate": "2099-01-29T10:26:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
     "name": "Plaion"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "petunia-pressaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "372fdd881a254a24b984a18cc4acaa68",
+      "namespace": "petunia"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "games"
@@ -42,15 +30,38 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "372fdd881a254a24b984a18cc4acaa68"
-    }
-  ],
   "catalogNs": {
-    "name": "petunia"
-  }
+    "mappings": [
+      {
+        "pageSlug": "metro-2033-redux",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-05-13T17:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

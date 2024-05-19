@@ -1,81 +1,54 @@
 {
+  "title": "Itch.io",
   "id": "87bef1a6aaeb4723925b663f1226987b",
   "namespace": "5688a1fee5204ee4968b96e70c75f50b",
-  "title": "Itch.io",
   "description": "The itch.io app, itch, lets you effortlessly download and run games and software from itch.io. All of your downloads are kept in a single place and are automatically updated. Access your collections and purchases, or browse for new games via the in-app browser",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "itch-io",
-  "urlSlug": "parmesan-general-audience",
-  "offerType": "OTHERS",
-  "creationDate": "2021-04-08T17:48:48.907Z",
-  "lastModifiedDate": "2021-08-25T16:43:41.754Z",
   "effectiveDate": "2021-04-22T13:45:00.000Z",
-  "pcReleaseDate": "2013-03-03T15:00:00.000Z",
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR"
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_itch_itchio_S1_2560x1440-1f57f016693b447e7759918f54aea344"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_itch_itchio_S2_1200x1600-a6b5e8f4b70c45a7758ad780826a99e4"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_itch_itchio_S2_1200x1600-a6b5e8f4b70c45a7758ad780826a99e4"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_itch_itchio_S2_1200x1600-a6b5e8f4b70c45a7758ad780826a99e4"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_itch_itchio_S1_2560x1440-1f57f016693b447e7759918f54aea344"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_itch_itchio_S2_1200x1600-a6b5e8f4b70c45a7758ad780826a99e4"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2021-04-22T13:45:00.000Z",
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-ygg2pglfxmrfb897utdyrwnt434qbx",
     "name": "Itch Corp."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "software"
-    },
-    {
-      "path": "software/edition"
-    },
-    {
-      "path": "software/edition/base"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": "itch-io",
+  "urlSlug": "parmesan-general-audience",
+  "url": null,
   "tags": [
     {
       "id": "15909",
-      "name": "App",
-      "namespace": null,
-      "aliases": [
-        "application",
-        "software",
-        "apps",
-        "applications"
-      ],
-      "operator": null,
-      "created": "2021-04-15T01:05:31.194Z",
-      "updated": "2023-08-03T16:59:33.693Z",
-      "status": "ACTIVE",
-      "referenceCount": 34,
-      "comment": ""
-    },
+      "name": "App"
+    }
+  ],
+  "items": [
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "id": "f1f425f573714821a7265f8ac0c9c1d0",
+      "namespace": "5688a1fee5204ee4968b96e70c75f50b"
     }
   ],
   "customAttributes": [
@@ -96,68 +69,52 @@
       "value": "itch-io"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_itch_itchio_S1_2560x1440-1f57f016693b447e7759918f54aea344",
-      "md5": "1f57f016693b447e7759918f54aea344",
-      "size": 491233,
-      "uploadedDate": "2021-04-19T00:37:03.500Z",
-      "width": 2560,
-      "height": 1440
+      "path": "software"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_itch_itchio_S2_1200x1600-a6b5e8f4b70c45a7758ad780826a99e4",
-      "md5": "a6b5e8f4b70c45a7758ad780826a99e4",
-      "size": 284885,
-      "uploadedDate": "2021-04-19T00:37:11.520Z",
-      "width": 1200,
-      "height": 1600
+      "path": "software/edition"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_itch_itchio_S2_1200x1600-a6b5e8f4b70c45a7758ad780826a99e4",
-      "md5": "a6b5e8f4b70c45a7758ad780826a99e4",
-      "size": 284885,
-      "uploadedDate": "2021-04-19T00:37:39.236Z",
-      "width": 1200,
-      "height": 1600
+      "path": "software/edition/base"
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_itch_itchio_S2_1200x1600-a6b5e8f4b70c45a7758ad780826a99e4",
-      "md5": "a6b5e8f4b70c45a7758ad780826a99e4",
-      "size": 284885,
-      "uploadedDate": "2021-04-19T00:37:45.586Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_itch_itchio_S1_2560x1440-1f57f016693b447e7759918f54aea344",
-      "md5": "1f57f016693b447e7759918f54aea344",
-      "size": 491233,
-      "uploadedDate": "2021-04-19T00:37:55.853Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_itch_itchio_S2_1200x1600-a6b5e8f4b70c45a7758ad780826a99e4",
-      "md5": "a6b5e8f4b70c45a7758ad780826a99e4",
-      "size": 284885,
-      "uploadedDate": "2021-04-19T00:38:05.811Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "f1f425f573714821a7265f8ac0c9c1d0"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "5688a1fee5204ee4968b96e70c75f50b"
-  }
+    "mappings": [
+      {
+        "pageSlug": "itch-io",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2021-04-22T13:45:00.000Z",
+  "pcReleaseDate": "2013-03-03T15:00:00.000Z",
+  "viewableDate": "2021-04-22T13:45:00.000Z",
+  "approximateReleasePlan": null
 }

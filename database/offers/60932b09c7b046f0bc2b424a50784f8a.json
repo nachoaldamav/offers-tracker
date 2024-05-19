@@ -1,39 +1,41 @@
 {
+  "title": "Viewable Date before now game1 with two tags",
   "id": "60932b09c7b046f0bc2b424a50784f8a",
   "namespace": "SeaQA",
-  "title": "Viewable Date before now game1 with two tags",
   "description": "Viewable Date before now game1 Desc",
-  "longDescription": "Viewable Date before now  game1 long desc",
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "create-item-for-priceengine-08",
-  "offerType": "BUNDLE",
-  "creationDate": "2021-03-09T14:03:22.250Z",
-  "lastModifiedDate": "2024-04-16T05:35:24.902Z",
   "effectiveDate": "2020-12-16T16:00:00.000Z",
-  "pcReleaseDate": "2021-03-01T20:31:00.000Z",
-  "publisherDisplayName": "Viewable Date before now game1 Publisher Display Name",
-  "countriesBlacklist": [
-    "JP",
-    "CN"
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/SeaQA/offer/CodeRedemptionTheCycle-340x440-025af08795b0b918ea20b39b850c830b-340x440-025af08795b0b918ea20b39b850c830b.png"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "REFUNDABLE",
-  "viewableDate": "2020-04-21T18:53:00.000Z",
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 1999,
   "seller": {
     "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
     "name": "Epic Games"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": "Viewable Date before now  game1 tech info",
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "create-item-for-priceengine-08",
+  "url": null,
+  "tags": [
+    {
+      "id": null,
+      "name": null
+    },
+    {
+      "id": null,
+      "name": null
+    }
+  ],
+  "items": [
+    {
+      "id": "1040403ae8aa4a79be5ceb8570c20ca1",
+      "namespace": "SeaQA"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "testing"
@@ -42,50 +44,62 @@
       "path": "testing/test1"
     }
   ],
-  "tags": [
-    {
-      "id": null,
-      "name": null,
-      "namespace": null,
-      "aliases": null,
-      "operator": null,
-      "created": null,
-      "updated": null,
-      "status": null,
-      "referenceCount": null,
-      "comment": null
-    },
-    {
-      "id": null,
-      "name": null,
-      "namespace": null,
-      "aliases": null,
-      "operator": null,
-      "created": null,
-      "updated": null,
-      "status": null,
-      "referenceCount": null,
-      "comment": null
-    }
-  ],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/SeaQA/offer/CodeRedemptionTheCycle-340x440-025af08795b0b918ea20b39b850c830b-340x440-025af08795b0b918ea20b39b850c830b.png",
-      "md5": "025af08795b0b918ea20b39b850c830b",
-      "size": 296461,
-      "uploadedDate": "2019-10-26T19:01:25.414Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "1040403ae8aa4a79be5ceb8570c20ca1"
-    }
-  ],
   "catalogNs": {
-    "name": "SeaQA"
-  }
+    "mappings": [
+      {
+        "pageSlug": "test-test",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "hello-test",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hello-test0",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "testlkj",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "testlkj-i",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "testlkj-i-test",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "dev-test",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": "Viewable Date before now game1 Developer Display Name",
+  "publisherDisplayName": "Viewable Date before now game1 Publisher Display Name",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": true,
+  "releaseDate": "2021-01-06T16:00:00.000Z",
+  "pcReleaseDate": "2021-03-01T20:31:00.000Z",
+  "viewableDate": "2020-04-21T18:53:00.000Z",
+  "approximateReleasePlan": null
 }

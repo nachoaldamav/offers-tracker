@@ -1,45 +1,26 @@
 {
+  "title": "DevAliceBlueAudience",
   "id": "b9e95646bd41438bb3c5f40340918492",
   "namespace": "6b753bd045604be89d9779e741c604b1",
-  "title": "DevAliceBlueAudience",
   "description": "DevAliceBlueAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "devaliceblueaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2021-04-30T17:48:42.120Z",
-  "lastModifiedDate": "2021-08-12T14:20:46.835Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-pldxyabsslnt6jth2z634mmr2pw8lu",
     "name": "Humble Bundle"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "devaliceblueaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "895c74028a0c477294d8e4fedc1c7744",
+      "namespace": "6b753bd045604be89d9779e741c604b1"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -54,13 +35,50 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "895c74028a0c477294d8e4fedc1c7744"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "6b753bd045604be89d9779e741c604b1"
-  }
+    "mappings": [
+      {
+        "pageSlug": "void-bastards--bang-tydy",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "void-bastards",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

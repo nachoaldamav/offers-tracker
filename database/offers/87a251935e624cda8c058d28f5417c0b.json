@@ -1,62 +1,29 @@
 {
+  "title": "Test Pallas DLC",
   "id": "87a251935e624cda8c058d28f5417c0b",
   "namespace": "c1ccf2ba1bc1473abb6ca5168e1a670c",
-  "title": "Test Pallas DLC",
   "description": "PallasGeneralAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "pallas-dlc-test",
-  "offerType": "ADD_ON",
-  "creationDate": "2020-07-14T16:11:18.767Z",
-  "lastModifiedDate": "2023-08-03T00:53:53.585Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": false,
+  "keyImages": [],
+  "currentPrice": 499,
   "seller": {
     "id": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
     "name": "SEGA of Europe"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "spthidden"
-    },
-    {
-      "path": "games"
-    },
-    {
-      "path": "spthidden/durable"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "pallas-dlc-test",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "50fe7f6c9bbd4450b6850fe1ec350c0a",
+      "namespace": "c1ccf2ba1bc1473abb6ca5168e1a670c"
     }
   ],
   "customAttributes": [
@@ -73,13 +40,56 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "50fe7f6c9bbd4450b6850fe1ec350c0a"
+      "path": "spthidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "spthidden/durable"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "c1ccf2ba1bc1473abb6ca5168e1a670c"
-  }
+    "mappings": [
+      {
+        "pageSlug": "football-manager-2020--in-game-editor",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "football-manager-2020",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,44 +1,78 @@
 {
+  "title": "World War Z",
   "id": "3f459a6ca66245eba62819d656dd6178",
   "namespace": "wombat",
-  "title": "World War Z",
   "description": "World War Z",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "world-war-z--base-game",
-  "urlSlug": "world-war-z--base-game",
-  "offerType": "EDITION",
-  "creationDate": "2019-04-04T19:02:30.025Z",
-  "lastModifiedDate": "2024-03-19T15:00:03.559Z",
   "effectiveDate": "2019-04-15T12:00:00.000Z",
-  "pcReleaseDate": "2019-04-16T14:00:00.000Z",
-  "publisherDisplayName": "Saber Interactive",
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2023-04-26T13:00:00.000Z",
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "world-war-z--base-game"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/wombat/egs-worldwarz-saberinteractive-editions-s2-1200x1600-cbb1c018a329_1200x1600-18cf46496180a43842d33fcad8fe50c4"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/wombat/egs-worldwarz-saberinteractive-editions-s2-1200x1600-cbb1c018a329_1200x1600-18cf46496180a43842d33fcad8fe50c4"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/wombat/egs-worldwarz-saberinteractive-editions-s1-2560x1440-42943dd8b40b_2560x1440-1b13176dd36d98254551b7358a9239a5"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "world-war-z--base-game"
-    }
-  ],
+  "currentPrice": 2999,
   "seller": {
     "id": "o-2xlz78ngz5ubvus9sff9blglee43uk",
     "name": "Saber Interactive"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": "world-war-z--base-game",
+  "urlSlug": "world-war-z--base-game",
+  "url": null,
+  "tags": [
+    {
+      "id": "1216",
+      "name": "Action"
+    },
+    {
+      "id": "1264",
+      "name": "Co-op"
+    },
+    {
+      "id": "1203",
+      "name": "Multiplayer"
+    },
+    {
+      "id": "1210",
+      "name": "Shooter"
+    },
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
+    {
+      "id": "1279",
+      "name": "Vampire"
+    }
+  ],
+  "items": [
+    {
+      "id": "6bfa6e8187ed4caba71f9d6e2319ea50",
+      "namespace": "wombat"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "world-war-z--base-game"
+    }
+  ],
   "categories": [
     {
       "path": "games"
@@ -50,145 +84,95 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "1216",
-      "name": "Action",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-08-23T05:17:12.937Z",
-      "status": "ACTIVE",
-      "referenceCount": 2167,
-      "comment": null
-    },
-    {
-      "id": "1264",
-      "name": "Co-op",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.700Z",
-      "updated": "2023-08-23T03:55:35.380Z",
-      "status": "ACTIVE",
-      "referenceCount": 1166,
-      "comment": null
-    },
-    {
-      "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2024-03-28T21:49:29.573Z",
-      "status": "ACTIVE",
-      "referenceCount": 1846,
-      "comment": null
-    },
-    {
-      "id": "1210",
-      "name": "Shooter",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2023-08-23T00:14:55.836Z",
-      "status": "ACTIVE",
-      "referenceCount": 799,
-      "comment": null
-    },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-23T05:17:12.951Z",
-      "status": "ACTIVE",
-      "referenceCount": 5001,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-08-23T03:24:56.337Z",
-      "status": "ACTIVE",
-      "referenceCount": 2499,
-      "comment": null
-    },
-    {
-      "id": "1279",
-      "name": "Vampire",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:37.207Z",
-      "updated": "2023-06-28T07:00:24.862Z",
-      "status": "ACTIVE",
-      "referenceCount": 227,
-      "comment": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "world-war-z--base-game"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/wombat/egs-worldwarz-saberinteractive-editions-s2-1200x1600-cbb1c018a329_1200x1600-18cf46496180a43842d33fcad8fe50c4",
-      "md5": "18cf46496180a43842d33fcad8fe50c4",
-      "size": 132986,
-      "uploadedDate": "2023-04-19T14:51:23.328Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/wombat/egs-worldwarz-saberinteractive-editions-s2-1200x1600-cbb1c018a329_1200x1600-18cf46496180a43842d33fcad8fe50c4",
-      "md5": "18cf46496180a43842d33fcad8fe50c4",
-      "size": 132986,
-      "uploadedDate": "2023-04-19T14:51:26.194Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/wombat/egs-worldwarz-saberinteractive-editions-s1-2560x1440-42943dd8b40b_2560x1440-1b13176dd36d98254551b7358a9239a5",
-      "md5": "1b13176dd36d98254551b7358a9239a5",
-      "size": 171346,
-      "uploadedDate": "2023-04-19T14:51:28.985Z",
-      "width": 2560,
-      "height": 1440
-    }
-  ],
-  "items": [
-    {
-      "id": "6bfa6e8187ed4caba71f9d6e2319ea50"
-    }
-  ],
   "catalogNs": {
-    "name": "wombat"
-  }
+    "mappings": [
+      {
+        "pageSlug": "world-war-z--aftermath-deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "world-war-z--aftermath-upgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "world-war-z--aftermath--raven-weapons-skin-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "world-war-z--aftermath-zeke-hunter-weapons-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "world-war-z--aftermath-explorer-weapons-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "world-war-z",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "world-war-z--goty-edition-upgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "world-war-z--aftermath-rat-packs-weapon-skins",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "world-war-z--aftermath-deadly-vice-weapon-skins",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "world-war-z--base-game",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "world-war-z--victory-lap-weapons-skin",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "world-war-z--pre-apocalypse-characters",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "world-war-z--valley-of-the-zeke",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "world-war-z--burning-skulls-weapons",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "world-war-z--base-game",
+      "pageType": "offer"
+    }
+  ],
+  "developerDisplayName": "Saber Interactive",
+  "publisherDisplayName": "Saber Interactive",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2019-04-16T14:00:00.000Z",
+  "pcReleaseDate": "2019-04-16T14:00:00.000Z",
+  "viewableDate": "2023-04-26T13:00:00.000Z",
+  "approximateReleasePlan": null
 }

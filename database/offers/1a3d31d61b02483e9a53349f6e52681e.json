@@ -1,104 +1,54 @@
 {
+  "title": "Ape Out",
   "id": "1a3d31d61b02483e9a53349f6e52681e",
   "namespace": "epic",
-  "title": "Ape Out",
   "description": "Ape Out",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "ape-out/home",
-  "urlSlug": "ape-out",
-  "offerType": "OTHERS",
-  "creationDate": "2019-12-17T22:51:39.684Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
   "effectiveDate": "2037-12-17T18:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_GabeCuzzilloBennettFoddyMattBoch_APEOUT_S3-1360x766-ea97ba30d154f6a543e7909cbcfb7f65.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_GabeCuzzilloBennettFoddyMattBoch_APEOUT_S4-510x680-b80b1a6001781729aa30c2d3456b63fb.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
     "name": "Devolver Digital, Inc."
   },
-  "linkedOfferId": "d3a6b8379b864097b2c92d14ebfab190",
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": "ape-out/home",
+  "urlSlug": "ape-out",
+  "url": null,
   "tags": [
     {
       "id": "1216",
-      "name": "Action",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-08-23T05:17:12.937Z",
-      "status": "ACTIVE",
-      "referenceCount": 2167,
-      "comment": null
+      "name": "Action"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
     },
     {
       "id": "9548",
-      "name": "OSX",
-      "namespace": "epic",
-      "aliases": [
-        "OS X",
-        "MAC OS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-03-10T19:38:37.438Z",
-      "status": "ACTIVE",
-      "referenceCount": 79,
-      "comment": null
+      "name": "OSX"
     },
     {
       "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-08-23T03:24:56.337Z",
-      "status": "ACTIVE",
-      "referenceCount": 2499,
-      "comment": null
+      "name": "Controller Support"
     },
     {
       "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-08-23T05:17:12.988Z",
-      "status": "ACTIVE",
-      "referenceCount": 1176,
-      "comment": null
+      "name": "Indie"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -123,32 +73,42 @@
       "value": "d3a6b8379b864097b2c92d14ebfab190"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_GabeCuzzilloBennettFoddyMattBoch_APEOUT_S3-1360x766-ea97ba30d154f6a543e7909cbcfb7f65.jpg",
-      "md5": "ea97ba30d154f6a543e7909cbcfb7f65",
-      "size": 508544,
-      "uploadedDate": "2019-12-17T22:49:00.140Z",
-      "width": 1360,
-      "height": 766
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_GabeCuzzilloBennettFoddyMattBoch_APEOUT_S4-510x680-b80b1a6001781729aa30c2d3456b63fb.jpg",
-      "md5": "b80b1a6001781729aa30c2d3456b63fb",
-      "size": 174411,
-      "uploadedDate": "2019-12-17T22:49:07.896Z",
-      "width": 510,
-      "height": 680
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 374,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 1125,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "93821dc928414149ae4f9809cb720218"
+          }
+        ]
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2019-02-28T11:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,38 +1,50 @@
 {
+  "title": "300 Genesis Crystals",
   "id": "6727bb5a90484542a6f388b092a27033",
   "namespace": "879b0d8776ab46a59a129983ba78f0ce",
-  "title": "300 Genesis Crystals",
   "description": "300 Genesis Crystals\n",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "tantalumgeneralaudience-01",
-  "offerType": "VIRTUAL_CURRENCY",
-  "creationDate": "2021-03-23T18:35:57.025Z",
-  "lastModifiedDate": "2023-08-02T23:30:33.990Z",
   "effectiveDate": "2021-11-18T05:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "CN"
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/879b0d8776ab46a59a129983ba78f0ce/DLC 002-300 Genesis Crystals-2_1200x1600-8ed137a2a9efc1bf400b3c50bcc12ede"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/879b0d8776ab46a59a129983ba78f0ce/DLC 002-300 Genesis Crystals-2_1200x1600-8ed137a2a9efc1bf400b3c50bcc12ede"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/879b0d8776ab46a59a129983ba78f0ce/DLC 002-300 Genesis Crystals-1_2560x1440-044638a9cd7ef95d1252f3a12a23d43c"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 499,
   "seller": {
     "id": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
     "name": "Cognosphere"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "tantalumgeneralaudience-01",
+  "url": null,
+  "tags": [
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "e2930b29d0344bb3ad2bf0a37d4d8edd",
+      "namespace": "879b0d8776ab46a59a129983ba78f0ce"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "IOS"
+    }
+  ],
   "categories": [
     {
       "path": "spthidden/consumable"
@@ -44,61 +56,46 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "IOS"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/879b0d8776ab46a59a129983ba78f0ce/DLC 002-300 Genesis Crystals-2_1200x1600-8ed137a2a9efc1bf400b3c50bcc12ede",
-      "md5": "8ed137a2a9efc1bf400b3c50bcc12ede",
-      "size": 125850,
-      "uploadedDate": "2021-11-08T18:22:49.481Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/879b0d8776ab46a59a129983ba78f0ce/DLC 002-300 Genesis Crystals-2_1200x1600-8ed137a2a9efc1bf400b3c50bcc12ede",
-      "md5": "8ed137a2a9efc1bf400b3c50bcc12ede",
-      "size": 125850,
-      "uploadedDate": "2021-11-08T18:23:10.396Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/879b0d8776ab46a59a129983ba78f0ce/DLC 002-300 Genesis Crystals-1_2560x1440-044638a9cd7ef95d1252f3a12a23d43c",
-      "md5": "044638a9cd7ef95d1252f3a12a23d43c",
-      "size": 697235,
-      "uploadedDate": "2021-11-08T18:23:15.544Z",
-      "width": 2560,
-      "height": 1440
-    }
-  ],
-  "items": [
-    {
-      "id": "e2930b29d0344bb3ad2bf0a37d4d8edd"
-    }
-  ],
   "catalogNs": {
-    "name": "879b0d8776ab46a59a129983ba78f0ce"
-  }
+    "mappings": [
+      {
+        "pageSlug": "genshin-impact",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "genshin-impact--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "genshin-impact--mega-sale-bundle",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2021-11-18T05:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

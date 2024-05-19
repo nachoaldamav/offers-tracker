@@ -1,36 +1,50 @@
 {
+  "title": "Walking Dead Final Season Press",
   "id": "c14a1fa6b05846a697f159a14394c047",
   "namespace": "ocelot",
-  "title": "Walking Dead Final Season Press",
   "description": "Walking Dead Final Season Press",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "walking-dead-final-season-press",
-  "offerType": "ADD_ON",
-  "creationDate": "2019-01-12T00:00:01.742Z",
-  "lastModifiedDate": "2024-02-26T18:54:40.266Z",
   "effectiveDate": "2019-01-11T18:58:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ocelot/offer/coderedem-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ocelot/offer/coderedem-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
     "name": "Skybound Game Studios, Inc."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "walking-dead-final-season-press",
+  "url": null,
+  "tags": [
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "59d28a668cfc4c5ca91d40990f04f37e",
+      "namespace": "ocelot"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Skybound Games"
+    },
+    {
+      "key": "developerName",
+      "value": "Telltale Games"
+    }
+  ],
   "categories": [
     {
       "path": "spthidden"
@@ -45,56 +59,38 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "publisherName",
-      "value": "Skybound Games"
-    },
-    {
-      "key": "developerName",
-      "value": "Telltale Games"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/ocelot/offer/coderedem-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553.jpg",
-      "md5": "0d7e2e6fb18c7c12d81ebdb2e5e17553",
-      "size": 82425,
-      "uploadedDate": "2019-01-12T19:53:20.679Z",
-      "width": 340,
-      "height": 440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ocelot/offer/coderedem-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553.jpg",
-      "md5": "0d7e2e6fb18c7c12d81ebdb2e5e17553",
-      "size": 82425,
-      "uploadedDate": "2019-04-23T21:07:01.416Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "59d28a668cfc4c5ca91d40990f04f37e"
-    }
-  ],
   "catalogNs": {
-    "name": "ocelot"
-  }
+    "mappings": [
+      {
+        "pageSlug": "walking-dead-final-season",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

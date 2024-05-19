@@ -1,104 +1,54 @@
 {
+  "title": "A Short Hike",
   "id": "f3ffb4578e294383b902536e131841bc",
   "namespace": "epic",
-  "title": "A Short Hike",
   "description": "A Short Hike",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "a-short-hike/home",
-  "urlSlug": "a-short-hike",
-  "offerType": "OTHERS",
-  "creationDate": "2020-03-04T18:42:46.211Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
   "effectiveDate": "2020-03-05T16:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2020-03-05T05:00:00.000Z",
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_AShortHike_AdamRobinsonYu_S1-2560x1440-614ee8b90f19e64c5a04f7e6a5939880.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_AShortHike_AdamRobinsonYu_S2-860x1148-cd5bb99336010e748745f1b33f45670d.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-x6pmn2h8elkycylakfrdw79xp2hrpv",
     "name": "Whippoorwill"
   },
-  "linkedOfferId": "e97596b69a334eb896d3567ffad85093",
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": "a-short-hike/home",
+  "urlSlug": "a-short-hike",
+  "url": null,
   "tags": [
     {
       "id": "1296",
-      "name": "Casual",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:45.644Z",
-      "updated": "2023-08-23T04:55:54.798Z",
-      "status": "ACTIVE",
-      "referenceCount": 423,
-      "comment": null
+      "name": "Casual"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
     },
     {
       "id": "1151",
-      "name": "Platformer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:33.743Z",
-      "updated": "2023-08-23T04:44:32.409Z",
-      "status": "ACTIVE",
-      "referenceCount": 392,
-      "comment": null
+      "name": "Platformer"
     },
     {
       "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-08-23T05:17:12.988Z",
-      "status": "ACTIVE",
-      "referenceCount": 1176,
-      "comment": null
+      "name": "Indie"
     },
     {
       "id": "10719",
-      "name": "Mac OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX",
-        "macOS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-08-23T05:08:24.605Z",
-      "status": "ACTIVE",
-      "referenceCount": 1146,
-      "comment": null
+      "name": "Mac OS"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -123,32 +73,38 @@
       "value": "e97596b69a334eb896d3567ffad85093"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_AShortHike_AdamRobinsonYu_S1-2560x1440-614ee8b90f19e64c5a04f7e6a5939880.jpg",
-      "md5": "614ee8b90f19e64c5a04f7e6a5939880",
-      "size": 505925,
-      "uploadedDate": "2020-03-04T18:40:48.797Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_AShortHike_AdamRobinsonYu_S2-860x1148-cd5bb99336010e748745f1b33f45670d.jpg",
-      "md5": "cd5bb99336010e748745f1b33f45670d",
-      "size": 98938,
-      "uploadedDate": "2020-03-04T18:40:56.787Z",
-      "width": 860,
-      "height": 1148
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 799,
+      "originalPrice": 799,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-03-04T16:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": "2020-03-05T05:00:00.000Z",
+  "approximateReleasePlan": null
 }

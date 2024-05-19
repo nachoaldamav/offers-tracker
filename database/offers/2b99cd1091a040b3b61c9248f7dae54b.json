@@ -1,115 +1,58 @@
 {
+  "title": "Anno 1800",
   "id": "2b99cd1091a040b3b61c9248f7dae54b",
   "namespace": "epic",
-  "title": "Anno 1800",
   "description": "Anno 1800",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "anno-1800/home",
-  "urlSlug": "anno",
-  "offerType": "OTHERS",
-  "creationDate": "2019-03-29T16:16:18.493Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
   "effectiveDate": "2019-05-29T18:12:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "CN"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Store_Primary_Promo_1860x1050_GAME-1868x1050-5a0b0930c75a4a09e9120e8c6df952bd.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Anno1800Portrait2-1280x1420-101b24aa4b7fdf7596648edd9cc4caba.png"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2019-05-29T18:18:00.000Z",
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "currentPrice": 0,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "linkedOfferId": "eed4647340be4921ae5547a0fe0de421",
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": "anno-1800/home",
+  "urlSlug": "anno",
+  "url": null,
   "tags": [
     {
       "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2024-03-28T21:49:29.573Z",
-      "status": "ACTIVE",
-      "referenceCount": 1846,
-      "comment": null
+      "name": "Multiplayer"
     },
     {
       "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-23T05:17:12.951Z",
-      "status": "ACTIVE",
-      "referenceCount": 5001,
-      "comment": null
+      "name": "Single Player"
     },
     {
       "id": "1386",
-      "name": "Turn-Based",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:30.372Z",
-      "updated": "2023-08-23T02:13:23.565Z",
-      "status": "ACTIVE",
-      "referenceCount": 188,
-      "comment": null
+      "name": "Turn-Based"
     },
     {
       "id": "1146",
-      "name": "City Builder",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:31.235Z",
-      "updated": "2023-08-22T23:07:49.565Z",
-      "status": "ACTIVE",
-      "referenceCount": 175,
-      "comment": null
+      "name": "City Builder"
     },
     {
       "id": "1115",
-      "name": "Strategy",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2023-08-23T05:08:24.575Z",
-      "status": "ACTIVE",
-      "referenceCount": 1068,
-      "comment": null
+      "name": "Strategy"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -134,32 +77,42 @@
       "value": "eed4647340be4921ae5547a0fe0de421"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Store_Primary_Promo_1860x1050_GAME-1868x1050-5a0b0930c75a4a09e9120e8c6df952bd.jpg",
-      "md5": "5a0b0930c75a4a09e9120e8c6df952bd",
-      "size": 306629,
-      "uploadedDate": "2019-03-29T17:22:38.458Z",
-      "width": 1868,
-      "height": 1050
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Anno1800Portrait2-1280x1420-101b24aa4b7fdf7596648edd9cc4caba.png",
-      "md5": "101b24aa4b7fdf7596648edd9cc4caba",
-      "size": 3213153,
-      "uploadedDate": "2020-02-05T16:44:09.134Z",
-      "width": 1280,
-      "height": 1420
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 5999,
+      "voucherDiscount": 0,
+      "discount": 4500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "ef03eaf323a3459a8a7668d974a423d5"
+          }
+        ]
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2019-05-30T15:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": "2019-05-29T18:18:00.000Z",
+  "approximateReleasePlan": null
 }

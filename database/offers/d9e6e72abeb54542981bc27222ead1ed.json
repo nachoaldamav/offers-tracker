@@ -1,36 +1,32 @@
 {
+  "title": "Pouch of crowns",
   "id": "d9e6e72abeb54542981bc27222ead1ed",
   "namespace": "bd46d4ce259349e5bd8b3ded20274737",
-  "title": "Pouch of crowns",
   "description": "Pouch of crowns",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "puch-of-crowns",
-  "offerType": "VIRTUAL_CURRENCY",
-  "creationDate": "2020-06-03T22:35:30.450Z",
-  "lastModifiedDate": "2024-01-11T08:16:33.674Z",
   "effectiveDate": "2021-06-08T15:00:00.000Z",
-  "pcReleaseDate": "2021-06-08T15:00:00.000Z",
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": false,
+  "keyImages": [],
+  "currentPrice": 1099,
   "seller": {
     "id": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
     "name": "Tripwire Interactive"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "puch-of-crowns",
+  "url": null,
+  "tags": [
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "aff06fe14732467fa92a032ad55e9031",
+      "namespace": "bd46d4ce259349e5bd8b3ded20274737"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "spthidden/consumable"
@@ -42,28 +38,54 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
-    }
-  ],
-  "customAttributes": [],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "aff06fe14732467fa92a032ad55e9031"
-    }
-  ],
   "catalogNs": {
-    "name": "bd46d4ce259349e5bd8b3ded20274737"
-  }
+    "mappings": [
+      {
+        "pageSlug": "chivalry-2--special-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "chivalry-2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "chivalry-2--kings-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "chivalry-2--special-edition-content",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "chivalry-2--kings-edition-content",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1099,
+      "originalPrice": 1099,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2021-06-08T15:00:00.000Z",
+  "pcReleaseDate": "2021-06-08T15:00:00.000Z",
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

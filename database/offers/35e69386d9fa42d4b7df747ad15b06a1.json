@@ -1,67 +1,42 @@
 {
+  "title": "Trackmania Turbo",
   "id": "35e69386d9fa42d4b7df747ad15b06a1",
   "namespace": "epic",
-  "title": "Trackmania Turbo",
   "description": "Trackmania Turbo",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "trackmania-turbo/home",
-  "urlSlug": "trackmania-turbo",
-  "offerType": "OTHERS",
-  "creationDate": "2020-03-26T23:41:54.921Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
   "effectiveDate": "2020-04-02T15:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "CN"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/TM2C_Store_Landscape_2580x1450-2580x1450-83d02c833425736410c8d9a95b2164b9.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/TM2C_Store_Portrait_1280x1420-1280x1420-4cd4eff606caa725b4c1eb43735d41b8.png"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2020-03-12T15:00:00.000Z",
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "currentPrice": 0,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "linkedOfferId": "f7246f00b7c44619974b60aa276fa606",
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": "trackmania-turbo/home",
+  "urlSlug": "trackmania-turbo",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
     },
     {
       "id": "1212",
-      "name": "Racing",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:03.663Z",
-      "updated": "2023-08-23T04:55:54.861Z",
-      "status": "ACTIVE",
-      "referenceCount": 244,
-      "comment": null
+      "name": "Racing"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -86,32 +61,38 @@
       "value": "trackmania-turbo/home"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/TM2C_Store_Landscape_2580x1450-2580x1450-83d02c833425736410c8d9a95b2164b9.png",
-      "md5": "83d02c833425736410c8d9a95b2164b9",
-      "size": 8220320,
-      "uploadedDate": "2020-03-26T23:42:41.026Z",
-      "width": 2580,
-      "height": 1450
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/TM2C_Store_Portrait_1280x1420-1280x1420-4cd4eff606caa725b4c1eb43735d41b8.png",
-      "md5": "4cd4eff606caa725b4c1eb43735d41b8",
-      "size": 3941452,
-      "uploadedDate": "2020-03-26T23:42:52.497Z",
-      "width": 1280,
-      "height": 1420
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2016-03-24T15:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": "2020-03-12T15:00:00.000Z",
+  "approximateReleasePlan": null
 }

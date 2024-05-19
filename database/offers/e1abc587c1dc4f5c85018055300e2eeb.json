@@ -1,36 +1,36 @@
 {
+  "title": "SnowdropDevAudience",
   "id": "e1abc587c1dc4f5c85018055300e2eeb",
   "namespace": "snowdrop",
-  "title": "SnowdropDevAudience",
   "description": "SnowdropDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "snowdropdevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-01-16T13:59:42.375Z",
-  "lastModifiedDate": "2020-04-29T00:46:43.583Z",
   "effectiveDate": "2050-01-16T08:59:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/snowdrop/offer/Game Icon-400x400-1c50f21645c4b97145a0510cc9b9445f.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/snowdrop/offer/JPP4_CodeRedemption-330x440-401c71473ef35005deb3e56c000581e1.png"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
     "name": "Jackbox Games, Inc."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "snowdropdevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "68e10b72781d46e0a22c2d1e44f39594",
+      "namespace": "snowdrop"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "games"
@@ -39,34 +39,38 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/snowdrop/offer/Game Icon-400x400-1c50f21645c4b97145a0510cc9b9445f.png",
-      "md5": "1c50f21645c4b97145a0510cc9b9445f",
-      "size": 32187,
-      "uploadedDate": "2019-02-06T21:11:21.660Z",
-      "width": 400,
-      "height": 400
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/snowdrop/offer/JPP4_CodeRedemption-330x440-401c71473ef35005deb3e56c000581e1.png",
-      "md5": "401c71473ef35005deb3e56c000581e1",
-      "size": 69179,
-      "uploadedDate": "2019-02-06T21:11:44.145Z",
-      "width": 330,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "68e10b72781d46e0a22c2d1e44f39594"
-    }
-  ],
   "catalogNs": {
-    "name": "snowdrop"
-  }
+    "mappings": [
+      {
+        "pageSlug": "jackbox-party-pack-4",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

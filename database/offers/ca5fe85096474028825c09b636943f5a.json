@@ -1,38 +1,27 @@
 {
+  "title": "gooseberry Mana Bag Audience",
   "id": "ca5fe85096474028825c09b636943f5a",
   "namespace": "3ef2ef153b5649aaa8f0de5b5805dcce",
-  "title": "gooseberry Mana Bag Audience",
   "description": "gooseberry Mana Bag Audience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "gooseberry-mana-bag-audience",
-  "offerType": "IN_GAME_PURCHASE",
-  "creationDate": "2022-04-07T16:54:38.095Z",
-  "lastModifiedDate": "2024-03-30T14:39:06.233Z",
   "effectiveDate": "2099-04-30T08:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": "NIS America, Inc.",
-  "countriesBlacklist": [
-    "KR"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": false,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-24ec9efll733ggh8wybar3x8zetflu",
     "name": "NIS America, Inc."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "gooseberry-mana-bag-audience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "fbda61c298274842ae40827ee20040fa",
+      "namespace": "3ef2ef153b5649aaa8f0de5b5805dcce"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "spthidden/consumable"
@@ -44,15 +33,50 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "fbda61c298274842ae40827ee20040fa"
-    }
-  ],
   "catalogNs": {
-    "name": "3ef2ef153b5649aaa8f0de5b5805dcce"
-  }
+    "mappings": [
+      {
+        "pageSlug": "disgaea-6-complete",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "disgaea-6-complete--digital-dood-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "disgaea-6-complete--hololive-collaboration-set",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "disgaea-6-complete--digital-art-book",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": "Nippon Ichi Software, Inc.",
+  "publisherDisplayName": "NIS America, Inc.",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,91 +1,54 @@
 {
+  "title": "Heavy Rain",
   "id": "9dd87f45b11b40cbabf382a6dd1f71fd",
   "namespace": "epic",
-  "title": "Heavy Rain",
   "description": "Heavy Rain",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "heavy-rain/home",
-  "urlSlug": "heavy-rain",
-  "offerType": "OTHERS",
-  "creationDate": "2019-03-14T14:24:47.173Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
   "effectiveDate": "2019-03-31T10:20:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "CN"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/001_HEAVYRAIN_GAMEPAGE_PROMOIMAGE-2580x1450-e0f4b3c529d3d52b8ca27aaa312d2faa.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/001_HEAVYRAIN_STOREPORTRAIT-1280x1420-ebf00856b579e7862182118d30139c8d.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/HeavyRain_Logo-1850x304-ec8f52cec09a80616d999851098de28e.png"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "currentPrice": 0,
   "seller": {
     "id": "o-m8v47d762atphw94knus7ezawefpcu",
     "name": "Quantic Dream"
   },
-  "linkedOfferId": "b1f5e946cb694968849f5b4331f27db5",
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": "heavy-rain/home",
+  "urlSlug": "heavy-rain",
+  "url": null,
   "tags": [
     {
       "id": "1216",
-      "name": "Action",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-08-23T05:17:12.937Z",
-      "status": "ACTIVE",
-      "referenceCount": 2167,
-      "comment": null
+      "name": "Action"
     },
     {
       "id": "1395",
-      "name": "Narration",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:34.825Z",
-      "updated": "2023-08-23T02:16:39.223Z",
-      "status": "ACTIVE",
-      "referenceCount": 207,
-      "comment": null
+      "name": "Narration"
     },
     {
       "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-23T05:17:12.951Z",
-      "status": "ACTIVE",
-      "referenceCount": 5001,
-      "comment": null
+      "name": "Single Player"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -110,41 +73,38 @@
       "value": "b1f5e946cb694968849f5b4331f27db5"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/001_HEAVYRAIN_GAMEPAGE_PROMOIMAGE-2580x1450-e0f4b3c529d3d52b8ca27aaa312d2faa.jpg",
-      "md5": "e0f4b3c529d3d52b8ca27aaa312d2faa",
-      "size": 156678,
-      "uploadedDate": "2019-03-14T14:21:30.972Z",
-      "width": 2580,
-      "height": 1450
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/001_HEAVYRAIN_STOREPORTRAIT-1280x1420-ebf00856b579e7862182118d30139c8d.jpg",
-      "md5": "ebf00856b579e7862182118d30139c8d",
-      "size": 115360,
-      "uploadedDate": "2019-03-14T14:21:48.462Z",
-      "width": 1280,
-      "height": 1420
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/HeavyRain_Logo-1850x304-ec8f52cec09a80616d999851098de28e.png",
-      "md5": "ec8f52cec09a80616d999851098de28e",
-      "size": 48662,
-      "uploadedDate": "2019-08-02T19:15:42.337Z",
-      "width": 1850,
-      "height": 304
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2019-06-24T15:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

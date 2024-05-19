@@ -1,45 +1,43 @@
 {
+  "title": "Hydrangea Dev Audience",
   "id": "3d7ab74112014de298eec78fc988069b",
   "namespace": "d0d1b5541a6540d5a81daacb3324639b",
-  "title": "Hydrangea Dev Audience",
   "description": "Hydrangea Dev Audience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "hydrangea-dev-audience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-04-23T17:50:58.181Z",
-  "lastModifiedDate": "2020-04-29T00:46:34.252Z",
   "effectiveDate": "2022-04-27T14:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/d0d1b5541a6540d5a81daacb3324639b/offer/RiME_Primary_Promo-2580x1450-83b92395e5753cd4d2a7f34ee25990e3.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/d0d1b5541a6540d5a81daacb3324639b/offer/tw_rime_logo_[black]-3508x1395-df55dc8fe81e06d504f524aa3c2e7fa9.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/d0d1b5541a6540d5a81daacb3324639b/offer/RiME_Icon-400x400-7455728199b4b81ec9beefe6042d2184.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/d0d1b5541a6540d5a81daacb3324639b/offer/CodeRedemption_RiME-330x440-1e8975d97fbe80e9126417796970d494.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-6mhfcl7z7ky6l2r698xk7mhmlmtur8",
     "name": "Six Foot"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "hydrangea-dev-audience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "15998224458e48f9b71fa4056f6059cf",
+      "namespace": "d0d1b5541a6540d5a81daacb3324639b"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "publisherName",
@@ -50,50 +48,46 @@
       "value": "Tequila Works"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/d0d1b5541a6540d5a81daacb3324639b/offer/RiME_Primary_Promo-2580x1450-83b92395e5753cd4d2a7f34ee25990e3.jpg",
-      "md5": "83b92395e5753cd4d2a7f34ee25990e3",
-      "size": 192128,
-      "uploadedDate": "2019-05-15T17:48:23.608Z",
-      "width": 2580,
-      "height": 1450
+      "path": "games"
     },
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/d0d1b5541a6540d5a81daacb3324639b/offer/tw_rime_logo_[black]-3508x1395-df55dc8fe81e06d504f524aa3c2e7fa9.png",
-      "md5": "df55dc8fe81e06d504f524aa3c2e7fa9",
-      "size": 38896,
-      "uploadedDate": "2019-05-15T17:48:34.315Z",
-      "width": 3508,
-      "height": 1395
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/d0d1b5541a6540d5a81daacb3324639b/offer/RiME_Icon-400x400-7455728199b4b81ec9beefe6042d2184.png",
-      "md5": "7455728199b4b81ec9beefe6042d2184",
-      "size": 38930,
-      "uploadedDate": "2019-05-15T17:48:50.808Z",
-      "width": 400,
-      "height": 400
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/d0d1b5541a6540d5a81daacb3324639b/offer/CodeRedemption_RiME-330x440-1e8975d97fbe80e9126417796970d494.jpg",
-      "md5": "1e8975d97fbe80e9126417796970d494",
-      "size": 20103,
-      "uploadedDate": "2019-05-15T17:49:11.382Z",
-      "width": 330,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "15998224458e48f9b71fa4056f6059cf"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "d0d1b5541a6540d5a81daacb3324639b"
-  }
+    "mappings": [
+      {
+        "pageSlug": "rime",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

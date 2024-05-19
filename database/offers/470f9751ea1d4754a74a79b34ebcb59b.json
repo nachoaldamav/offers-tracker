@@ -1,48 +1,35 @@
 {
+  "title": "doveDevAudience",
   "id": "470f9751ea1d4754a74a79b34ebcb59b",
   "namespace": "ed355406eacb4633a648f682ddb492b8",
-  "title": "doveDevAudience",
   "description": "doveDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "dovedevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-06-03T18:28:27.064Z",
-  "lastModifiedDate": "2020-04-02T21:27:56.803Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/offer/CodeRedemption_CastleStorm2-340x440-d825cb8e1d1cff1f6e05bd722d42a07e.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/offer/CodeRedemption_CastleStorm2-340x440-d825cb8e1d1cff1f6e05bd722d42a07e.png"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
     "name": "Zen Studios"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "dovedevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "abe2516a3f044f3ba75fd208828def5b",
+      "namespace": "ed355406eacb4633a648f682ddb492b8"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -53,32 +40,46 @@
       "value": "Zen Studios"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/offer/CodeRedemption_CastleStorm2-340x440-d825cb8e1d1cff1f6e05bd722d42a07e.png",
-      "md5": "d825cb8e1d1cff1f6e05bd722d42a07e",
-      "size": 163143,
-      "uploadedDate": "2019-06-03T18:59:48.252Z",
-      "width": 340,
-      "height": 440
+      "path": "games"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/offer/CodeRedemption_CastleStorm2-340x440-d825cb8e1d1cff1f6e05bd722d42a07e.png",
-      "md5": "d825cb8e1d1cff1f6e05bd722d42a07e",
-      "size": 163143,
-      "uploadedDate": "2019-06-03T18:59:54.897Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "abe2516a3f044f3ba75fd208828def5b"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "ed355406eacb4633a648f682ddb492b8"
-  }
+    "mappings": [
+      {
+        "pageSlug": "castlestorm2",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

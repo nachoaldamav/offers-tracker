@@ -1,36 +1,45 @@
 {
+  "title": "1100 Bonds",
   "id": "0968059ed53d49ee9e72f5431b353b9e",
   "namespace": "eca9a86adffa4605b8250d383fc01098",
-  "title": "1100 Bonds",
   "description": "1100 Bonds",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "1100bonds",
-  "offerType": "VIRTUAL_CURRENCY",
-  "creationDate": "2022-11-14T20:42:46.032Z",
-  "lastModifiedDate": "2024-04-09T19:04:16.037Z",
   "effectiveDate": "2023-04-26T13:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": "2023-04-26T13:00:00.000Z",
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/eca9a86adffa4605b8250d383fc01098/DI_EPIC_ShopThumb_Bonds_1100_Portrait_1200x1600-a8c558eeffb8a1d668006cc581b7b3dc"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/eca9a86adffa4605b8250d383fc01098/DI_EPIC_ShopThumb_Bonds_1100_Landscape_2560x1440-32cd4a743cb8c233117b12a3ba157df71_2560x1440-8cd4b583629908caa23b564e64c20a54"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/eca9a86adffa4605b8250d383fc01098/DI_EPIC_ShopThumb_Bonds_1100_Portrait_1200x1600-a8c558eeffb8a1d668006cc581b7b3dc"
+    }
+  ],
+  "currentPrice": 999,
   "seller": {
     "id": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
     "name": "Tripwire Interactive"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "1100bonds",
+  "url": null,
+  "tags": [
+    {
+      "id": "19847",
+      "name": "Achievements"
+    }
+  ],
+  "items": [
+    {
+      "id": "efa67aeb2d1b4521a404215a81555527",
+      "namespace": "eca9a86adffa4605b8250d383fc01098"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "spthidden"
@@ -39,56 +48,50 @@
       "path": "spthidden/consumable"
     }
   ],
-  "tags": [
-    {
-      "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
-      "status": "ACTIVE",
-      "referenceCount": 3628,
-      "comment": ""
-    }
-  ],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/eca9a86adffa4605b8250d383fc01098/DI_EPIC_ShopThumb_Bonds_1100_Portrait_1200x1600-a8c558eeffb8a1d668006cc581b7b3dc",
-      "md5": "a8c558eeffb8a1d668006cc581b7b3dc",
-      "size": 2745200,
-      "uploadedDate": "2023-04-24T21:38:48.341Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/eca9a86adffa4605b8250d383fc01098/DI_EPIC_ShopThumb_Bonds_1100_Landscape_2560x1440-32cd4a743cb8c233117b12a3ba157df71_2560x1440-8cd4b583629908caa23b564e64c20a54",
-      "md5": "8cd4b583629908caa23b564e64c20a54",
-      "size": 2184540,
-      "uploadedDate": "2024-03-30T16:10:06.143Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/eca9a86adffa4605b8250d383fc01098/DI_EPIC_ShopThumb_Bonds_1100_Portrait_1200x1600-a8c558eeffb8a1d668006cc581b7b3dc",
-      "md5": "a8c558eeffb8a1d668006cc581b7b3dc",
-      "size": 2745200,
-      "uploadedDate": "2023-04-24T21:38:40.359Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "efa67aeb2d1b4521a404215a81555527"
-    }
-  ],
   "catalogNs": {
-    "name": "eca9a86adffa4605b8250d383fc01098"
-  }
+    "mappings": [
+      {
+        "pageSlug": "deceive-inc",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "deceive-inc--black-tie-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "deceive-inc--black-tie-dlc",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "deceive-inc--free-weekend",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2023-04-26T13:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": "2023-04-26T13:00:00.000Z",
+  "approximateReleasePlan": null
 }

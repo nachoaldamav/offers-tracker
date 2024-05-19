@@ -1,36 +1,86 @@
 {
+  "title": "Human Resource Machine",
   "id": "fa12d8a775a14c29863354f05999e621",
   "namespace": "basil",
-  "title": "Human Resource Machine",
   "description": "The Machines Are Coming... For Your Job",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "human-resource-machine/home",
-  "urlSlug": "basilgeneralaudience",
-  "offerType": "BASE_GAME",
-  "creationDate": "2019-02-15T17:38:12.957Z",
-  "lastModifiedDate": "2024-05-14T08:34:47.759Z",
   "effectiveDate": "2019-05-13T08:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": "Tomorrow Corporation",
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/basil/EGS_HumanResourceMachine_TomorrowCorporation_S2_1200x1600-cc77f5a73a9488836ae8fa580f09454c"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/basil/EGS_HumanResourceMachine_TomorrowCorporation_S1_2560x1440-ea1281073444d2f46978ebe18b69f54a"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/offer/basil/EGS_HumanResourceMachine_TomorrowCorporation_S2_1200x1600-cc77f5a73a9488836ae8fa580f09454c"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/basil/EGS_HumanResourceMachine_TomorrowCorporation_S2_1200x1600-cc77f5a73a9488836ae8fa580f09454c"
+    }
+  ],
+  "currentPrice": 1499,
   "seller": {
     "id": "o-46fvj3lpt7r9n79axbrl8tkgfbe2j8",
     "name": "Tomorrow Corporation"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": "human-resource-machine/home",
+  "urlSlug": "basilgeneralaudience",
+  "url": null,
+  "tags": [
+    {
+      "id": "1298",
+      "name": "Puzzle"
+    },
+    {
+      "id": "21894",
+      "name": "Cloud Saves"
+    },
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
+      "id": "1102",
+      "name": "Programming"
+    },
+    {
+      "id": "21150",
+      "name": "Challenging Puzzles"
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS"
+    },
+    {
+      "id": "1263",
+      "name": "Indie"
+    }
+  ],
+  "items": [
+    {
+      "id": "b84938915d924da0b018c7aa6d13c138",
+      "namespace": "basil"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "human-resource-machine/home"
+    }
+  ],
   "categories": [
     {
       "path": "games"
@@ -45,169 +95,42 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "1298",
-      "name": "Puzzle",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:46.616Z",
-      "updated": "2023-08-22T09:59:03.727Z",
-      "status": "ACTIVE",
-      "referenceCount": 412,
-      "comment": null
-    },
-    {
-      "id": "21894",
-      "name": "Cloud Saves",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-07-07T16:11:08.589Z",
-      "updated": "2023-08-23T02:20:12.228Z",
-      "status": "ACTIVE",
-      "referenceCount": 1775,
-      "comment": ""
-    },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-23T05:17:12.951Z",
-      "status": "ACTIVE",
-      "referenceCount": 5001,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
-    },
-    {
-      "id": "16011",
-      "name": "Epic MEGA Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-04-27T08:10:34.554Z",
-      "updated": "2024-05-16T14:58:02.941Z",
-      "status": "ACTIVE",
-      "referenceCount": 3048,
-      "comment": ""
-    },
-    {
-      "id": "1102",
-      "name": "Programming",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:09.264Z",
-      "updated": "2023-06-20T12:28:24.892Z",
-      "status": "ACTIVE",
-      "referenceCount": 14,
-      "comment": null
-    },
-    {
-      "id": "21150",
-      "name": "Challenging Puzzles",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:41:25.625Z",
-      "updated": "2023-08-02T15:40:09.702Z",
-      "status": "ACTIVE",
-      "referenceCount": 23,
-      "comment": ""
-    },
-    {
-      "id": "10719",
-      "name": "Mac OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX",
-        "macOS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-08-23T05:08:24.605Z",
-      "status": "ACTIVE",
-      "referenceCount": 1146,
-      "comment": null
-    },
-    {
-      "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-08-23T05:17:12.988Z",
-      "status": "ACTIVE",
-      "referenceCount": 1176,
-      "comment": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "human-resource-machine/home"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/basil/EGS_HumanResourceMachine_TomorrowCorporation_S2_1200x1600-cc77f5a73a9488836ae8fa580f09454c",
-      "md5": "cc77f5a73a9488836ae8fa580f09454c",
-      "size": 1035107,
-      "uploadedDate": "2022-11-01T18:21:49.765Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/basil/EGS_HumanResourceMachine_TomorrowCorporation_S1_2560x1440-ea1281073444d2f46978ebe18b69f54a",
-      "md5": "ea1281073444d2f46978ebe18b69f54a",
-      "size": 962828,
-      "uploadedDate": "2022-11-01T18:21:52.485Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/offer/basil/EGS_HumanResourceMachine_TomorrowCorporation_S2_1200x1600-cc77f5a73a9488836ae8fa580f09454c",
-      "md5": "cc77f5a73a9488836ae8fa580f09454c",
-      "size": 1035107,
-      "uploadedDate": "2022-11-01T18:21:54.878Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/basil/EGS_HumanResourceMachine_TomorrowCorporation_S2_1200x1600-cc77f5a73a9488836ae8fa580f09454c",
-      "md5": "cc77f5a73a9488836ae8fa580f09454c",
-      "size": 1035107,
-      "uploadedDate": "2022-11-01T18:21:57.288Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "b84938915d924da0b018c7aa6d13c138"
-    }
-  ],
   "catalogNs": {
-    "name": "basil"
-  }
+    "mappings": [
+      {
+        "pageSlug": "human-resource-machine",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": "Tomorrow Corporation",
+  "publisherDisplayName": "Tomorrow Corporation",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 749,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 750,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "fae74ef970f4470dac6c3ddfe98b483c"
+          }
+        ]
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2015-10-15T15:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

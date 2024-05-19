@@ -1,50 +1,35 @@
 {
+  "title": "Control [Demo]",
   "id": "b4e89e16a25f4391ba2e11babfe37ccf",
   "namespace": "calluna",
-  "title": "Control [Demo]",
   "description": "Control {Demo}",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "control-demo",
-  "offerType": "OTHERS",
-  "creationDate": "2019-06-24T19:34:16.665Z",
-  "lastModifiedDate": "2020-04-29T00:38:47.490Z",
   "effectiveDate": "2050-07-08T16:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "MO",
-    "HK",
-    "TW",
-    "CN"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Control-330x440-1d64eca071c7ad6f9d3171c9c05c681a.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Control-330x440-1d64eca071c7ad6f9d3171c9c05c681a.png"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
     "name": "505 Games"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "control-demo",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "c0708dbd75954d9daa76458041e45ee0",
+      "namespace": "calluna"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -59,32 +44,62 @@
       "value": "Remedy Entertainment Plc"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Control-330x440-1d64eca071c7ad6f9d3171c9c05c681a.png",
-      "md5": "1d64eca071c7ad6f9d3171c9c05c681a",
-      "size": 241250,
-      "uploadedDate": "2019-06-24T19:34:05.192Z",
-      "width": 330,
-      "height": 440
+      "path": "games"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Control-330x440-1d64eca071c7ad6f9d3171c9c05c681a.png",
-      "md5": "1d64eca071c7ad6f9d3171c9c05c681a",
-      "size": 241250,
-      "uploadedDate": "2019-06-24T19:34:12.021Z",
-      "width": 330,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "c0708dbd75954d9daa76458041e45ee0"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "calluna"
-  }
+    "mappings": [
+      {
+        "pageSlug": "control",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "control--the-foundation",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "control--season-pass",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "control--awe",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "control--ultimate-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-01-27T16:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

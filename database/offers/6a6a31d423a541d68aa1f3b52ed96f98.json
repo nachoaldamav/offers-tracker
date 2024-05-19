@@ -1,45 +1,26 @@
 {
+  "title": "RavenDevAudience",
   "id": "6a6a31d423a541d68aa1f3b52ed96f98",
   "namespace": "c0783fd957634390af33808d1a1f56dd",
-  "title": "RavenDevAudience",
   "description": "RavenDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "ravendevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-08-27T21:10:02.333Z",
-  "lastModifiedDate": "2023-02-13T16:14:27.444Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-gcm88kddcs2t3gtypyq9tvlx64bzyw",
     "name": "Sold Out"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "ravendevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "74347fd154484764a56aaf1eefc46329",
+      "namespace": "c0783fd957634390af33808d1a1f56dd"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -54,13 +35,50 @@
       "value": "Metronomik"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "74347fd154484764a56aaf1eefc46329"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "c0783fd957634390af33808d1a1f56dd"
-  }
+    "mappings": [
+      {
+        "pageSlug": "no-straight-roads",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "no-straight-roads--mother-and-child-demo",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

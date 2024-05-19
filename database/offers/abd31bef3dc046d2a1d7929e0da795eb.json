@@ -1,66 +1,39 @@
 {
+  "title": "Ubisoft Sale",
   "id": "abd31bef3dc046d2a1d7929e0da795eb",
   "namespace": "epic",
-  "title": "Ubisoft Sale",
   "description": "Ubisoft Sale",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "ubisoft-sale",
-  "urlSlug": "ubi-sale",
-  "offerType": "OTHERS",
-  "creationDate": "2019-08-19T23:31:09.387Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
   "effectiveDate": "2019-08-18T19:17:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2020-02-24T10:15:00.000Z",
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Launcher_GamescomSale_S1_wide-2560x1440-1771f754f44ae73a47b7706111b87617.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Launcher_GamescomSale_S2_tall-1280x1440-80ef2bdd82dce6bd4f430b73848805de.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/-EN_EGS_Launcher_GamescomSale_IC1_Sale-200x200-727cff52c259f1e996bf9abe5e87ca9e.png"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
     "name": "Epic Dev Test Account"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [
-    "f835527adf3e42c489e8606f957f1007",
-    "ba4b7ba700b6432690f78c5cf27f6d4e",
-    "ffeb0b8577a642deb377c0603cad40d7",
-    "2b99cd1091a040b3b61c9248f7dae54b",
-    "a1872bb7a6244fd4ae46c57917068b6c",
-    "634a34e6116f4397bee478374708de9b",
-    "49abc68c4a364704824736002f065600",
-    "b79c0521c5d147598b20f78b8f4918a1",
-    "35235d9f50a246edbfa670bdcf847d3c",
-    "acb1580495e9479bb7e92dffb2cab7ec",
-    "1ce540ccb5dc413780931468235ac813",
-    "d9abe2371ab64987906aff81a0ee0e61",
-    "e5e7b5fcc99c484b85f80dbee446710a",
-    "6f535e05446742a8961d2f231e6e7410",
-    "58bd2df659ad40fe969f65c5f858be59",
-    "4db76762e1364e4b8025584541b7dd1b",
-    "41bc6f9760b544a6a4907ba001ab41b3",
-    "1d2d37ffabdf4d97b10577499238b487",
-    "6afa79a2c6ed4df88eabe58f26cafbe2",
-    "d7874f1989e3463ca5dc0a5636da84e3",
-    "7e486898119b4ed3a57764e4033f77b2",
-    "04ade1b81a304b2d9505897351d46898",
-    "02950ab2195f44dbb665264229b015c7"
-  ],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": "ubisoft-sale",
+  "urlSlug": "ubi-sale",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "collections"
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.weight",
@@ -167,41 +140,21 @@
       "value": "634a34e6116f4397bee478374708de9b"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Launcher_GamescomSale_S1_wide-2560x1440-1771f754f44ae73a47b7706111b87617.jpg",
-      "md5": "1771f754f44ae73a47b7706111b87617",
-      "size": 2117494,
-      "uploadedDate": "2019-08-22T13:27:59.230Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Launcher_GamescomSale_S2_tall-1280x1440-80ef2bdd82dce6bd4f430b73848805de.jpg",
-      "md5": "80ef2bdd82dce6bd4f430b73848805de",
-      "size": 1485106,
-      "uploadedDate": "2019-08-22T13:28:13.469Z",
-      "width": 1280,
-      "height": 1440
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/-EN_EGS_Launcher_GamescomSale_IC1_Sale-200x200-727cff52c259f1e996bf9abe5e87ca9e.png",
-      "md5": "727cff52c259f1e996bf9abe5e87ca9e",
-      "size": 4980,
-      "uploadedDate": "2019-08-22T13:28:50.195Z",
-      "width": 200,
-      "height": 200
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "collections"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": null,
+  "prePurchase": null,
+  "releaseDate": "2020-02-24T10:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": "2020-02-24T10:15:00.000Z",
+  "approximateReleasePlan": null
 }

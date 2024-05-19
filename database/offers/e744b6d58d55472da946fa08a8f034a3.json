@@ -1,48 +1,26 @@
 {
+  "title": "PelicanDevAudience",
   "id": "e744b6d58d55472da946fa08a8f034a3",
   "namespace": "854ca270c7f04fe483212a35811e9189",
-  "title": "PelicanDevAudience",
   "description": "PelicanDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "pelicandevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-08-01T19:10:35.054Z",
-  "lastModifiedDate": "2019-09-27T23:37:58.622Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR",
-    "CN"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-bb6gmtc2ysnxtvxulaxsqe7bgtzkz7",
     "name": "David OReilly"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "pelicandevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "da97a9da36914bbfa6db00f1d61d05f6",
+      "namespace": "854ca270c7f04fe483212a35811e9189"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -53,13 +31,46 @@
       "value": "David OReilly"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "da97a9da36914bbfa6db00f1d61d05f6"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "854ca270c7f04fe483212a35811e9189"
-  }
+    "mappings": [
+      {
+        "pageSlug": "everything",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

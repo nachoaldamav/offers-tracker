@@ -1,101 +1,54 @@
 {
+  "title": "Close to the Sun",
   "id": "5354dc63819f416a80ef712d9d410351",
   "namespace": "epic",
-  "title": "Close to the Sun",
   "description": "Close to the Sun",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "close-to-the-sun/home",
-  "urlSlug": "silene",
-  "offerType": "OTHERS",
-  "creationDate": "2019-02-19T21:33:51.737Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
   "effectiveDate": "2020-04-09T15:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/CTTS_keyart_1080p-1920x1080-8c8a438ac89caec5ae1b4ab1bc1e57f6.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/CTTS_keyart_Portrait-1280x1420-bb3fa978410a243939f19bcb8c0d4806.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-r83qbqhwd8y5y5r6e9x62vtrsd9mqm",
     "name": "Wired Productions"
   },
-  "linkedOfferId": "bfcf7ca20e57436d8cc33e6d20cbac76",
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": "close-to-the-sun/home",
+  "urlSlug": "silene",
+  "url": null,
   "tags": [
     {
       "id": "1218",
-      "name": "Horror",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:06.599Z",
-      "updated": "2023-08-22T19:55:04.197Z",
-      "status": "ACTIVE",
-      "referenceCount": 414,
-      "comment": null
+      "name": "Horror"
     },
     {
       "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-23T05:17:12.951Z",
-      "status": "ACTIVE",
-      "referenceCount": 5001,
-      "comment": null
+      "name": "Single Player"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
     },
     {
       "id": "1117",
-      "name": "Adventure",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2023-08-23T02:16:39.269Z",
-      "status": "ACTIVE",
-      "referenceCount": 1473,
-      "comment": null
+      "name": "Adventure"
     },
     {
       "id": "1294",
-      "name": "First Person",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:44.596Z",
-      "updated": "2023-08-23T00:14:55.884Z",
-      "status": "ACTIVE",
-      "referenceCount": 481,
-      "comment": null
+      "name": "First Person"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -120,32 +73,38 @@
       "value": "close-to-the-sun/home"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/CTTS_keyart_1080p-1920x1080-8c8a438ac89caec5ae1b4ab1bc1e57f6.jpg",
-      "md5": "8c8a438ac89caec5ae1b4ab1bc1e57f6",
-      "size": 2032265,
-      "uploadedDate": "2020-04-01T20:33:59.871Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/CTTS_keyart_Portrait-1280x1420-bb3fa978410a243939f19bcb8c0d4806.jpg",
-      "md5": "bb3fa978410a243939f19bcb8c0d4806",
-      "size": 1518658,
-      "uploadedDate": "2020-04-01T20:34:14.008Z",
-      "width": 1280,
-      "height": 1420
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2019-05-02T14:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

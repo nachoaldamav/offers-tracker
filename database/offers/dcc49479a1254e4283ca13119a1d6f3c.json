@@ -1,61 +1,29 @@
 {
+  "title": "shoebillDevAudience",
   "id": "dcc49479a1254e4283ca13119a1d6f3c",
   "namespace": "e509c16d53714b13ba8e393966507255",
-  "title": "shoebillDevAudience",
   "description": "shoebillDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "shoebilldevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-09-26T21:03:15.955Z",
-  "lastModifiedDate": "2023-07-27T16:11:14.594Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "KR",
-    "BY",
-    "CN"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
     "name": "Electronic Arts"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "shoebilldevaudience",
+  "url": null,
   "tags": [
     {
       "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
-      "status": "ACTIVE",
-      "referenceCount": 3628,
-      "comment": ""
+      "name": "Achievements"
+    }
+  ],
+  "items": [
+    {
+      "id": "60eae46f73b24ced9f69f709a43790c9",
+      "namespace": "e509c16d53714b13ba8e393966507255"
     }
   ],
   "customAttributes": [
@@ -72,13 +40,50 @@
       "value": "{}"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "60eae46f73b24ced9f69f709a43790c9"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "e509c16d53714b13ba8e393966507255"
-  }
+    "mappings": [
+      {
+        "pageSlug": "star-wars-jedi-fallen-order--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "star-wars-jedi-fallen-order",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,39 +1,58 @@
 {
+  "title": "Reward Pack Bundle 4",
   "id": "5bdd4117a8524f8ba0a0b33ece0fde26",
   "namespace": "5d582c08e31a43128a61093a2c3ff7f0",
-  "title": "Reward Pack Bundle 4",
   "description": "Reward Pack Bundle 4",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "reward-pack-bundle-04",
-  "offerType": "DLC",
-  "creationDate": "2019-11-04T14:07:28.896Z",
-  "lastModifiedDate": "2023-08-03T01:02:45.796Z",
   "effectiveDate": "2019-11-03T09:05:00.000Z",
-  "pcReleaseDate": "2019-12-03T10:49:00.000Z",
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY"
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Shenmue-340x440-e05a68a36002a213611001ff73610531-340x440-e05a68a36002a213611001ff73610531.png"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
     "name": "Plaion"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "reward-pack-bundle-04",
+  "url": null,
+  "tags": [
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "0e8977fbae314f95901c358e8c81d087",
+      "namespace": "5d582c08e31a43128a61093a2c3ff7f0"
+    },
+    {
+      "id": "bc41cf152fac4a779f2c79da0aefbea2",
+      "namespace": "5d582c08e31a43128a61093a2c3ff7f0"
+    },
+    {
+      "id": "983b7da5d707494581483332310d895f",
+      "namespace": "5d582c08e31a43128a61093a2c3ff7f0"
+    },
+    {
+      "id": "7d03d52fd1784b5f8b441c55b57a8fe4",
+      "namespace": "5d582c08e31a43128a61093a2c3ff7f0"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Deep Silver"
+    },
+    {
+      "key": "developerName",
+      "value": "YsNet"
+    }
+  ],
   "categories": [
     {
       "path": "spthidden"
@@ -48,56 +67,58 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "publisherName",
-      "value": "Deep Silver"
-    },
-    {
-      "key": "developerName",
-      "value": "YsNet"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Shenmue-340x440-e05a68a36002a213611001ff73610531-340x440-e05a68a36002a213611001ff73610531.png",
-      "md5": "e05a68a36002a213611001ff73610531",
-      "size": 243020,
-      "uploadedDate": "2019-11-04T14:06:13.079Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "0e8977fbae314f95901c358e8c81d087"
-    },
-    {
-      "id": "bc41cf152fac4a779f2c79da0aefbea2"
-    },
-    {
-      "id": "983b7da5d707494581483332310d895f"
-    },
-    {
-      "id": "7d03d52fd1784b5f8b441c55b57a8fe4"
-    }
-  ],
   "catalogNs": {
-    "name": "5d582c08e31a43128a61093a2c3ff7f0"
-  }
+    "mappings": [
+      {
+        "pageSlug": "shenmue-3--season-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "shenmue-3--story-quest-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "shenmue-3",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "shenmue-3--big-merry-cruise",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "shenmue-3--battle-rally",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "shenmue-3--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2019-12-03T10:49:00.000Z",
+  "pcReleaseDate": "2019-12-03T10:49:00.000Z",
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

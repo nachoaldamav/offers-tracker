@@ -1,85 +1,62 @@
 {
+  "title": "Atari Mania",
   "id": "52eac894ae944155b10ea1bb9fd0468b",
   "namespace": "0d45b83911e0403e92394fa48bf990f0",
-  "title": "Atari Mania",
   "description": "A wild journey through videogame history, Atari Mania is a microgame collection wrapped in an hilarious retro-driven narrative of exploration and surprise.",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "d73dffc7e99843719377069c7c2b3063",
-  "offerType": "BASE_GAME",
-  "creationDate": "2022-03-08T20:16:30.720Z",
-  "lastModifiedDate": "2024-05-14T08:34:47.713Z",
   "effectiveDate": "2022-10-13T07:00:00.000Z",
-  "pcReleaseDate": "2022-10-13T07:00:00.000Z",
-  "publisherDisplayName": "Atari",
-  "countriesBlacklist": [
-    "KR"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2022-09-21T05:00:00.000Z",
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "atari-mania-702c68"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/5746db3ba7f6444297c956754e1838af/atari-mania-offer-1v8ay.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/5746db3ba7f6444297c956754e1838af/download-atari-mania-offer-1cbij.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/spt-assets/5746db3ba7f6444297c956754e1838af/download-atari-mania-offer-1cbij.png"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "atari-mania-702c68"
-    }
-  ],
+  "currentPrice": 2499,
   "seller": {
     "id": "o-bhpk86rgthezed539g3hb5avacecqt",
     "name": "Atari"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games/edition/base"
-    },
-    {
-      "path": "games/edition"
-    },
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "d73dffc7e99843719377069c7c2b3063",
+  "url": null,
   "tags": [
-    null,
-    null,
-    null,
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
     {
       "id": "1117",
-      "name": "Adventure",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2023-08-23T02:16:39.269Z",
-      "status": "ACTIVE",
-      "referenceCount": 1473,
-      "comment": null
+      "name": "Adventure"
     },
     {
       "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-08-23T03:24:56.337Z",
-      "status": "ACTIVE",
-      "referenceCount": 2499,
-      "comment": null
+      "name": "Controller Support"
+    }
+  ],
+  "items": [
+    {
+      "id": "317ae2b6776543a49a6fa32705058241",
+      "namespace": "0d45b83911e0403e92394fa48bf990f0"
     }
   ],
   "customAttributes": [
@@ -96,41 +73,58 @@
       "value": "false"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/5746db3ba7f6444297c956754e1838af/atari-mania-offer-1v8ay.png",
-      "md5": "9f548672fc9ecdfbc0ed0871f8e2232c",
-      "size": 1100776,
-      "uploadedDate": "2022-05-31T16:29:56.846Z",
-      "width": 2560,
-      "height": 1440
+      "path": "games/edition/base"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/5746db3ba7f6444297c956754e1838af/download-atari-mania-offer-1cbij.png",
-      "md5": "586ee0b464a49f84bc16d2ec9d7468b0",
-      "size": 1417896,
-      "uploadedDate": "2022-05-31T16:30:00.802Z",
-      "width": 1200,
-      "height": 1600
+      "path": "games/edition"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/5746db3ba7f6444297c956754e1838af/download-atari-mania-offer-1cbij.png",
-      "md5": "586ee0b464a49f84bc16d2ec9d7468b0",
-      "size": 1417896,
-      "uploadedDate": "2022-05-31T16:30:00.802Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "317ae2b6776543a49a6fa32705058241"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "0d45b83911e0403e92394fa48bf990f0"
-  }
+    "mappings": [
+      {
+        "pageSlug": "atari-mania-702c68",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "atari-mania-702c68",
+      "pageType": "productHome"
+    }
+  ],
+  "developerDisplayName": "iLLOGIKA Studios",
+  "publisherDisplayName": "Atari",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1249,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 1250,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "94b8d7e9d1724d74807b33e5305733c7"
+          }
+        ]
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2022-10-13T07:00:00.000Z",
+  "pcReleaseDate": "2022-10-13T07:00:00.000Z",
+  "viewableDate": "2022-09-21T05:00:00.000Z",
+  "approximateReleasePlan": null
 }

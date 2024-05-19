@@ -1,45 +1,26 @@
 {
+  "title": "DevCastleAudience",
   "id": "55b7c1b99dec4b72933760a620c13da0",
   "namespace": "2ed7ed64d8604265924b85bbd5670220",
-  "title": "DevCastleAudience",
   "description": "DevCastleAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "devcastleaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2020-12-10T17:28:05.525Z",
-  "lastModifiedDate": "2021-05-19T00:33:03.053Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
     "name": "Headup Gmbh"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "devcastleaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "325b376109414fb58b694dd135bd255b",
+      "namespace": "2ed7ed64d8604265924b85bbd5670220"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -54,13 +35,54 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "325b376109414fb58b694dd135bd255b"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "2ed7ed64d8604265924b85bbd5670220"
-  }
+    "mappings": [
+      {
+        "pageSlug": "aerial-knights-never-yield--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "aerial-knights-never-yield",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "aerial-knights-never-yield--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

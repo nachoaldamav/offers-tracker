@@ -1,36 +1,32 @@
 {
+  "title": "Oleander Dev Game",
   "id": "e1b3ca453bf5409a853de5d0d2f9b185",
   "namespace": "oleander",
-  "title": "Oleander Dev Game",
   "description": "Oleander Dev Game",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "oleanderdevaudience-03",
-  "offerType": "OTHERS",
-  "creationDate": "2020-03-18T18:34:50.347Z",
-  "lastModifiedDate": "2023-08-18T09:53:30.283Z",
   "effectiveDate": "2050-03-11T09:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
     "name": "505 Games"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "oleanderdevaudience-03",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "1434d9b5e822411abcfb0ae2a1c89efa",
+      "namespace": "oleander"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "SupportedPlatforms",
+      "value": "Windows"
+    }
+  ],
   "categories": [
     {
       "path": "games"
@@ -39,20 +35,42 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "SupportedPlatforms",
-      "value": "Windows"
-    }
-  ],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "1434d9b5e822411abcfb0ae2a1c89efa"
-    }
-  ],
   "catalogNs": {
-    "name": "oleander"
-  }
+    "mappings": [
+      {
+        "pageSlug": "journey-to-the-savage-planet--hot-garbage",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "journey-to-the-savage-planet",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2050-03-01T14:32:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

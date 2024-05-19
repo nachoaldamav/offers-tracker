@@ -1,38 +1,50 @@
 {
+  "title": "Gnostic Hymn",
   "id": "3d16c426b6fc4bc1894ffdb7814af421",
   "namespace": "879b0d8776ab46a59a129983ba78f0ce",
-  "title": "Gnostic Hymn",
   "description": "Gnostic Hymn\n",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "dlc08",
-  "offerType": "VIRTUAL_CURRENCY",
-  "creationDate": "2021-06-22T04:58:52.532Z",
-  "lastModifiedDate": "2023-08-02T23:30:35.317Z",
   "effectiveDate": "2021-11-18T05:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "CN"
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/879b0d8776ab46a59a129983ba78f0ce/DLC 008-Gnostic Hymn-2_1200x1600-98dd3c8b5b4ca7bfe827262d72dcb499"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/879b0d8776ab46a59a129983ba78f0ce/DLC 008-Gnostic Hymn-2_1200x1600-98dd3c8b5b4ca7bfe827262d72dcb499"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/879b0d8776ab46a59a129983ba78f0ce/DLC 008-Gnostic Hymn-1_2560x1440-95039e441dcf8ad47714a94e2178934e"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 999,
   "seller": {
     "id": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
     "name": "Cognosphere"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "dlc08",
+  "url": null,
+  "tags": [
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "036f9732b9f545fb9fe18da345574a0c",
+      "namespace": "879b0d8776ab46a59a129983ba78f0ce"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "IOS"
+    }
+  ],
   "categories": [
     {
       "path": "spthidden/consumable"
@@ -44,61 +56,46 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "IOS"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/879b0d8776ab46a59a129983ba78f0ce/DLC 008-Gnostic Hymn-2_1200x1600-98dd3c8b5b4ca7bfe827262d72dcb499",
-      "md5": "98dd3c8b5b4ca7bfe827262d72dcb499",
-      "size": 797707,
-      "uploadedDate": "2021-11-08T18:41:04.052Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/879b0d8776ab46a59a129983ba78f0ce/DLC 008-Gnostic Hymn-2_1200x1600-98dd3c8b5b4ca7bfe827262d72dcb499",
-      "md5": "98dd3c8b5b4ca7bfe827262d72dcb499",
-      "size": 797707,
-      "uploadedDate": "2021-11-08T18:41:08.370Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/879b0d8776ab46a59a129983ba78f0ce/DLC 008-Gnostic Hymn-1_2560x1440-95039e441dcf8ad47714a94e2178934e",
-      "md5": "95039e441dcf8ad47714a94e2178934e",
-      "size": 942124,
-      "uploadedDate": "2021-11-08T18:41:13.208Z",
-      "width": 2560,
-      "height": 1440
-    }
-  ],
-  "items": [
-    {
-      "id": "036f9732b9f545fb9fe18da345574a0c"
-    }
-  ],
   "catalogNs": {
-    "name": "879b0d8776ab46a59a129983ba78f0ce"
-  }
+    "mappings": [
+      {
+        "pageSlug": "genshin-impact",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "genshin-impact--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "genshin-impact--mega-sale-bundle",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2021-11-18T05:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

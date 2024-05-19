@@ -1,45 +1,35 @@
 {
+  "title": "BluebirdDevAudience",
   "id": "1d586d9632ea4c66a186775477e7cdeb",
   "namespace": "41f47fd0d3e248bc938a5815d6d64daa",
-  "title": "BluebirdDevAudience",
   "description": "BluebirdDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "bluebirddevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-08-09T14:07:34.888Z",
-  "lastModifiedDate": "2019-09-27T23:45:09.678Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/41f47fd0d3e248bc938a5815d6d64daa/offer/CodeRedemption_Fez-340x440-e651ae15b59006538b4b32272349ae8e.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/41f47fd0d3e248bc938a5815d6d64daa/offer/CodeRedemption_Fez-340x440-e651ae15b59006538b4b32272349ae8e.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-yh6xe9ws2y6xcgrbr27lvspn3ulb5e",
     "name": "Polytron Corporation, Inc"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "bluebirddevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "9e1ce73dbab34868925f23a3d1ae14af",
+      "namespace": "41f47fd0d3e248bc938a5815d6d64daa"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -50,32 +40,46 @@
       "value": "Polytron Corporation, Inc"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/41f47fd0d3e248bc938a5815d6d64daa/offer/CodeRedemption_Fez-340x440-e651ae15b59006538b4b32272349ae8e.jpg",
-      "md5": "e651ae15b59006538b4b32272349ae8e",
-      "size": 213417,
-      "uploadedDate": "2019-08-14T13:51:05.898Z",
-      "width": 340,
-      "height": 440
+      "path": "games"
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/41f47fd0d3e248bc938a5815d6d64daa/offer/CodeRedemption_Fez-340x440-e651ae15b59006538b4b32272349ae8e.jpg",
-      "md5": "e651ae15b59006538b4b32272349ae8e",
-      "size": 213417,
-      "uploadedDate": "2019-08-14T13:51:13.308Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "9e1ce73dbab34868925f23a3d1ae14af"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "41f47fd0d3e248bc938a5815d6d64daa"
-  }
+    "mappings": [
+      {
+        "pageSlug": "fez",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,49 +1,26 @@
 {
+  "title": "AlbacoreDevAudience",
   "id": "b5f59b5219f54326a9d9079adda40108",
   "namespace": "c9be94273fe244c08032ca493ad87434",
-  "title": "AlbacoreDevAudience",
   "description": "AlbacoreDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "albacoredevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-11-06T21:37:52.306Z",
-  "lastModifiedDate": "2020-02-17T15:48:36.993Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY",
-    "CN"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "albacoredevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "a96c6f2536ec47f69c925f7fbe4591fd",
+      "namespace": "c9be94273fe244c08032ca493ad87434"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -54,13 +31,66 @@
       "value": "Ubisoft"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "a96c6f2536ec47f69c925f7fbe4591fd"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "c9be94273fe244c08032ca493ad87434"
-  }
+    "mappings": [
+      {
+        "pageSlug": "assassins-creed-syndicate",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "assassins-creed-syndicate--the-dreadful-crimes",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-syndicate--jack-the-ripper",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-syndicate--gold-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-syndicate--season-pass",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-syndicate--the-last-maharaja",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

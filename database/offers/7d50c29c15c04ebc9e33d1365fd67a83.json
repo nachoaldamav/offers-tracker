@@ -1,68 +1,46 @@
 {
+  "title": "Assassin's Creed Odyssey - Trial",
   "id": "7d50c29c15c04ebc9e33d1365fd67a83",
   "namespace": "clary",
-  "title": "Assassin's Creed Odyssey - Trial",
   "description": "Assassin's Creed Odyssey - Trial",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "clarytrialaudience",
-  "offerType": "BASE_GAME",
-  "creationDate": "2020-03-03T05:01:23.733Z",
-  "lastModifiedDate": "2020-03-23T15:57:32.903Z",
   "effectiveDate": "2099-03-18T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY",
-    "CN"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
     {
-      "pageSlug": "assassins-creed-odyssey--free-trial"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/clary/offer/HeroBanner-3840x2160-87a72f83066f6148f708053c998e4f1e.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/clary/offer/HeroBanner-3840x2160-87a72f83066f6148f708053c998e4f1e.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/clary/offer/IM_Pop_Up-611x829-4f08c8a328928cdf91496e4d48cd55bd.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/clary/offer/IM_Pop_Up-611x829-4f08c8a328928cdf91496e4d48cd55bd.png"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "assassins-creed-odyssey--free-trial"
-    }
-  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "clarytrialaudience",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "42154b411d56416daa4b73b8268f5bf8",
+      "namespace": "clary"
     }
   ],
   "customAttributes": [
@@ -75,50 +53,79 @@
       "value": "Ubisoft"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/clary/offer/HeroBanner-3840x2160-87a72f83066f6148f708053c998e4f1e.jpg",
-      "md5": "87a72f83066f6148f708053c998e4f1e",
-      "size": 11331255,
-      "uploadedDate": "2020-03-16T16:56:06.676Z",
-      "width": 3840,
-      "height": 2160
+      "path": "games"
     },
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/clary/offer/HeroBanner-3840x2160-87a72f83066f6148f708053c998e4f1e.jpg",
-      "md5": "87a72f83066f6148f708053c998e4f1e",
-      "size": 11331255,
-      "uploadedDate": "2020-03-16T16:56:31.928Z",
-      "width": 3840,
-      "height": 2160
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/clary/offer/IM_Pop_Up-611x829-4f08c8a328928cdf91496e4d48cd55bd.png",
-      "md5": "4f08c8a328928cdf91496e4d48cd55bd",
-      "size": 935466,
-      "uploadedDate": "2020-03-17T18:49:20.530Z",
-      "width": 611,
-      "height": 829
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/clary/offer/IM_Pop_Up-611x829-4f08c8a328928cdf91496e4d48cd55bd.png",
-      "md5": "4f08c8a328928cdf91496e4d48cd55bd",
-      "size": 935466,
-      "uploadedDate": "2020-03-17T18:49:36.217Z",
-      "width": 611,
-      "height": 829
-    }
-  ],
-  "items": [
-    {
-      "id": "42154b411d56416daa4b73b8268f5bf8"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "clary"
-  }
+    "mappings": [
+      {
+        "pageSlug": "assassins-creed-odyssey--free-trial",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-odyssey--ultimate-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-odyssey--dlc-1",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-odyssey--dlc-2",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-odyssey--gold-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-odyssey--season-pass",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-odyssey",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "assassins-creed-odyssey--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "assassins-creed-odyssey--free-trial",
+      "pageType": "offer"
+    }
+  ],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-03-19T00:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

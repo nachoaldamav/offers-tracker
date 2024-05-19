@@ -1,58 +1,42 @@
 {
+  "title": "Griftlands Pre-Purchase",
   "id": "2eaa5d220fff40ce85cadc3748135452",
   "namespace": "phlox",
-  "title": "Griftlands Pre-Purchase",
   "description": "Griftlands Pre-Purchase",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "griftlands-pre-purchase-audience",
-  "offerType": "BASE_GAME",
-  "creationDate": "2019-06-13T18:01:48.977Z",
-  "lastModifiedDate": "2019-10-30T23:47:40.113Z",
   "effectiveDate": "2019-06-13T12:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/phlox/offer/CodeRedemptionGriftlands-340x440-92c02eaa2f7b24281e1f26e349841b22.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/phlox/offer/CodeRedemptionGriftlands-340x440-92c02eaa2f7b24281e1f26e349841b22.png"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 1499,
   "seller": {
     "id": "o-6v5su732w3tnzud9lque2m7s4qzvjx",
     "name": "Klei Entertainment"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "griftlands-pre-purchase-audience",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "c7aa70a73473478d92ecc0013a3d0488",
+      "namespace": "phlox"
+    },
+    {
+      "id": "8c0a42f43b4a409584e1b00026afa37f",
+      "namespace": "phlox"
     }
   ],
   "customAttributes": [
@@ -73,35 +57,54 @@
       "value": "Klei Entertainment"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/phlox/offer/CodeRedemptionGriftlands-340x440-92c02eaa2f7b24281e1f26e349841b22.png",
-      "md5": "92c02eaa2f7b24281e1f26e349841b22",
-      "size": 283847,
-      "uploadedDate": "2019-07-11T18:47:35.896Z",
-      "width": 340,
-      "height": 440
+      "path": "games"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/phlox/offer/CodeRedemptionGriftlands-340x440-92c02eaa2f7b24281e1f26e349841b22.png",
-      "md5": "92c02eaa2f7b24281e1f26e349841b22",
-      "size": 283847,
-      "uploadedDate": "2019-07-11T18:47:45.802Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "c7aa70a73473478d92ecc0013a3d0488"
-    },
-    {
-      "id": "8c0a42f43b4a409584e1b00026afa37f"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "phlox"
-  }
+    "mappings": [
+      {
+        "pageSlug": "griftlands--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "griftlands--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "griftlands",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": true,
+  "releaseDate": "2019-07-11T15:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

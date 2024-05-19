@@ -1,48 +1,26 @@
 {
+  "title": "Garlic Dev Audience",
   "id": "4e7dd06c32ae4ea1aa297295d50b32ac",
   "namespace": "be13f6c4fb11427fbf3313ce93b97cc0",
-  "title": "Garlic Dev Audience",
   "description": "Garlic Dev Audience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "garlicdevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-05-30T21:56:59.582Z",
-  "lastModifiedDate": "2019-09-27T23:26:36.255Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR",
-    "CN"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
     "name": "Devolver Digital, Inc."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "garlicdevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "b3852a16933f4d1eb613da6c161433ce",
+      "namespace": "be13f6c4fb11427fbf3313ce93b97cc0"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -57,13 +35,46 @@
       "value": "Dodge Roll"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "b3852a16933f4d1eb613da6c161433ce"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "be13f6c4fb11427fbf3313ce93b97cc0"
-  }
+    "mappings": [
+      {
+        "pageSlug": "enter-the-gungeon",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

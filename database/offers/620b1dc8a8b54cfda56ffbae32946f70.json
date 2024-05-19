@@ -1,55 +1,99 @@
 {
+  "title": "SmokeTestOfferTitleEN",
   "id": "620b1dc8a8b54cfda56ffbae32946f70",
   "namespace": "SeaQA",
-  "title": "SmokeTestOfferTitleEN",
   "description": "SmokeTestOfferDescriptionEN",
-  "longDescription": "TestItemLongDescriptionEN",
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "ww-05",
-  "offerType": "Bundle",
-  "creationDate": "2021-07-29T08:40:04.792Z",
-  "lastModifiedDate": "2024-05-07T03:18:19.218Z",
   "effectiveDate": "2015-04-29T00:00:00.000Z",
-  "pcReleaseDate": "2020-08-18T16:00:00.000Z",
-  "publisherDisplayName": "PublisherDisplayName",
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": "2020-08-18T16:00:00.000Z",
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 100,
   "seller": {
     "id": "9cdc32abc22b45c7ab6a291d60d51863",
     "name": "Landy Tian US"
   },
-  "linkedOfferId": null,
-  "isFeatured": true,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": "technical informationEN",
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "ww-05",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "testing"
+      "id": "5c342732d6844d7d960ab272b5b4a806",
+      "namespace": "SeaQA"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "grade",
       "value": "0a41A71696"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "5c342732d6844d7d960ab272b5b4a806"
+      "path": "testing"
     }
   ],
   "catalogNs": {
-    "name": "SeaQA"
+    "mappings": [
+      {
+        "pageSlug": "test-test",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "hello-test",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hello-test0",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "testlkj",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "testlkj-i",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "testlkj-i-test",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "dev-test",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": "DeveloperDisplayName",
+  "publisherDisplayName": "PublisherDisplayName",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 100,
+      "originalPrice": 100,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": true,
+  "releaseDate": "2022-10-18T00:00:00.000Z",
+  "pcReleaseDate": "2020-08-18T16:00:00.000Z",
+  "viewableDate": "2020-08-18T16:00:00.000Z",
+  "approximateReleasePlan": {
+    "day": null,
+    "month": null,
+    "quarter": null,
+    "year": null,
+    "releaseDateType": "UNKNOWN"
   }
 }

@@ -1,77 +1,50 @@
 {
+  "title": "The Pathless",
   "id": "97f147f54d084f75907a47a2108c5d66",
   "namespace": "epic",
-  "title": "The Pathless",
   "description": "The Pathless",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "the-pathless/home",
-  "urlSlug": "the-pathless",
-  "offerType": "OTHERS",
-  "creationDate": "2019-05-13T20:50:04.108Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
   "effectiveDate": "2019-05-12T17:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2019-05-12T17:00:00.000Z",
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/thepathless_StorePrimaryPromo-1800x1012-6c37c31d560f010e2b4cee5c362d5b6d.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/thepathless_StorePortraitPromo-1623x1800-93859815e4b2bc614511ae7a97bee8b9.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/ThePathlessLogo-2650x671-c2b3413fdb59ddeb44a369f1850009f3.png"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
     "name": "Annapurna Interactive"
   },
-  "linkedOfferId": "6820f3467b8a4d2aa9b7d76d0fa9f441",
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": "the-pathless/home",
+  "urlSlug": "the-pathless",
+  "url": null,
   "tags": [
     {
       "id": "1367",
-      "name": "RPG",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2023-08-23T03:10:10.001Z",
-      "status": "ACTIVE",
-      "referenceCount": 1144,
-      "comment": null
+      "name": "RPG"
     },
     {
       "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-23T05:17:12.951Z",
-      "status": "ACTIVE",
-      "referenceCount": 5001,
-      "comment": null
+      "name": "Single Player"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -96,41 +69,42 @@
       "value": "6820f3467b8a4d2aa9b7d76d0fa9f441"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/thepathless_StorePrimaryPromo-1800x1012-6c37c31d560f010e2b4cee5c362d5b6d.jpg",
-      "md5": "6c37c31d560f010e2b4cee5c362d5b6d",
-      "size": 545305,
-      "uploadedDate": "2019-05-13T20:39:56.497Z",
-      "width": 1800,
-      "height": 1012
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/thepathless_StorePortraitPromo-1623x1800-93859815e4b2bc614511ae7a97bee8b9.jpg",
-      "md5": "93859815e4b2bc614511ae7a97bee8b9",
-      "size": 544082,
-      "uploadedDate": "2019-05-13T20:40:27.446Z",
-      "width": 1623,
-      "height": 1800
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/ThePathlessLogo-2650x671-c2b3413fdb59ddeb44a369f1850009f3.png",
-      "md5": "c2b3413fdb59ddeb44a369f1850009f3",
-      "size": 200297,
-      "uploadedDate": "2019-08-02T18:49:09.380Z",
-      "width": 2650,
-      "height": 671
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1599,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 2400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "c47ccd954e55422d8c2f8134b2515e9a"
+          }
+        ]
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2019-10-16T20:54:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": "2019-05-12T17:00:00.000Z",
+  "approximateReleasePlan": null
 }

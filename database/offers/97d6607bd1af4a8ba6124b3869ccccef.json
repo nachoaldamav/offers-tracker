@@ -1,45 +1,26 @@
 {
+  "title": "DevCamelAudience",
   "id": "97d6607bd1af4a8ba6124b3869ccccef",
   "namespace": "ae51a606e31f409bac9e0216f3e757a2",
-  "title": "DevCamelAudience",
   "description": "DevCamelAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "devcamelaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2021-05-05T18:27:48.708Z",
-  "lastModifiedDate": "2023-01-20T20:10:20.443Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-ze7grkplqlrzc92lepkjv4xpaj7gn8",
     "name": "Another Indie Studio Limited"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "devcamelaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "e82fc4fb77cf4141a83f8f13d2a79b57",
+      "namespace": "ae51a606e31f409bac9e0216f3e757a2"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -58,13 +39,46 @@
       "value": "null"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "e82fc4fb77cf4141a83f8f13d2a79b57"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "ae51a606e31f409bac9e0216f3e757a2"
-  }
+    "mappings": [
+      {
+        "pageSlug": "yuppie-psycho",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

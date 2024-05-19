@@ -1,48 +1,26 @@
 {
+  "title": "DoryDevAudience",
   "id": "54d8ff174ef042fc854486e2496e410b",
   "namespace": "908bed122ba84c4a908ee1e14da401c3",
-  "title": "DoryDevAudience",
   "description": "DoryDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "dorydevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-11-25T22:50:55.406Z",
-  "lastModifiedDate": "2020-10-25T18:06:39.598Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR",
-    "CN"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-yagrrjhn9gf4ul3h4a5vuaxh29v8qd",
     "name": "SUPERHOT Sp. z.o.o"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "dorydevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "3c7c248c35704591bc733100b7df9d0f",
+      "namespace": "908bed122ba84c4a908ee1e14da401c3"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -57,13 +35,50 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "3c7c248c35704591bc733100b7df9d0f"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "908bed122ba84c4a908ee1e14da401c3"
-  }
+    "mappings": [
+      {
+        "pageSlug": "superhot",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "superhot--faq",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

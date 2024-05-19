@@ -1,55 +1,38 @@
 {
+  "title": "Unreal Tournament Editor",
   "id": "5a61584bafd1403d852a0cd721742c71",
   "namespace": "epic",
-  "title": "Unreal Tournament Editor",
   "description": "Unreal Tournament Editor",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "unreal-tournament/modkit",
-  "urlSlug": "unreal-tournament-editor-01",
-  "offerType": "OTHERS",
-  "creationDate": "2018-11-28T01:49:08.023Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
   "effectiveDate": "2018-11-27T20:46:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/unrealTournament_logo-310x93-15f8643a30de94e235c6b9873d0cd536.png"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/epic/offer/UT_box-960x540-ebef3eed8d1b5504f6b3477096274afd.png"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2018-11-27T20:46:00.000Z",
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "currentPrice": 0,
   "seller": {
     "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
     "name": "Epic Games"
   },
-  "linkedOfferId": "86911468c5d04a1d8a4e78eb45ceb955",
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "engines"
-    }
-  ],
+  "productSlug": "unreal-tournament/modkit",
+  "urlSlug": "unreal-tournament-editor-01",
+  "url": null,
   "tags": [
     {
       "id": "9559",
-      "name": "Editors",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T21:11:57.763Z",
-      "updated": "2023-06-28T21:16:34.903Z",
-      "status": "ACTIVE",
-      "referenceCount": 54,
-      "comment": null
+      "name": "Editors"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -70,32 +53,38 @@
       "value": "86911468c5d04a1d8a4e78eb45ceb955"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/unrealTournament_logo-310x93-15f8643a30de94e235c6b9873d0cd536.png",
-      "md5": "15f8643a30de94e235c6b9873d0cd536",
-      "size": 16659,
-      "uploadedDate": "2018-11-28T02:20:39.424Z",
-      "width": 310,
-      "height": 93
-    },
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/epic/offer/UT_box-960x540-ebef3eed8d1b5504f6b3477096274afd.png",
-      "md5": "ebef3eed8d1b5504f6b3477096274afd",
-      "size": 254640,
-      "uploadedDate": "2019-03-27T15:38:16.490Z",
-      "width": 960,
-      "height": 540
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "engines"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2018-10-16T20:46:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": "2018-11-27T20:46:00.000Z",
+  "approximateReleasePlan": null
 }

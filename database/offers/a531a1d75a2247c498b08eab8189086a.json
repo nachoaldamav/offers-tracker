@@ -1,48 +1,26 @@
 {
+  "title": "CorianderDevAudience",
   "id": "a531a1d75a2247c498b08eab8189086a",
   "namespace": "coriander",
-  "title": "CorianderDevAudience",
   "description": "CorianderDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "corianderdevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-04-02T20:32:24.673Z",
-  "lastModifiedDate": "2020-04-29T00:38:41.504Z",
   "effectiveDate": "2029-04-02T16:30:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
     "name": "Epic Dev Test Account"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "corianderdevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "c27bdf89a8804294b58911370f138834",
+      "namespace": "coriander"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "publisherName",
@@ -53,13 +31,66 @@
       "value": "U"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "c27bdf89a8804294b58911370f138834"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "coriander"
-  }
+    "mappings": [
+      {
+        "pageSlug": "far-cry-5--gold-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "far-cry-5--dead-living-zombies-dlc",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "far-cry-5--hours-of-darkness-dlc",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "far-cry-5",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "far-cry-5--lost-on-mars-dlc",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "far-cry-5--season-pass",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

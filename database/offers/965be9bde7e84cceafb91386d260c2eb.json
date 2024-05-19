@@ -1,53 +1,38 @@
 {
+  "title": "PixArk",
   "id": "965be9bde7e84cceafb91386d260c2eb",
   "namespace": "epic",
-  "title": "PixArk",
   "description": "PixArk",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "pixark",
-  "urlSlug": "pixark",
-  "offerType": "OTHERS",
-  "creationDate": "2018-10-31T23:50:43.368Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
   "effectiveDate": "2018-10-31T19:50:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2018-10-31T19:50:00.000Z",
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/pixarklogo-1474x1152-05711a730aff9fbf94b42ef162111664.png"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/epic/offer/pixark tile-516x290-d1652d229b096efdbd5422476fddd406.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-33w3pktcfkzsmhns2qwp7mmr3z4nht",
     "name": "Snail Games USA"
   },
-  "linkedOfferId": "1f218730f7ab425fa436404799fa224f",
-  "isFeatured": true,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "engines"
-    }
-  ],
+  "productSlug": "pixark",
+  "urlSlug": "pixark",
+  "url": null,
   "tags": [
     {
       "id": "9559",
-      "name": "Editors",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T21:11:57.763Z",
-      "updated": "2023-06-28T21:16:34.903Z",
-      "status": "ACTIVE",
-      "referenceCount": 54,
-      "comment": null
+      "name": "Editors"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -64,32 +49,38 @@
       "value": "1f218730f7ab425fa436404799fa224f"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/pixarklogo-1474x1152-05711a730aff9fbf94b42ef162111664.png",
-      "md5": "05711a730aff9fbf94b42ef162111664",
-      "size": 38616,
-      "uploadedDate": "2018-11-15T17:28:26.626Z",
-      "width": 1474,
-      "height": 1152
-    },
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/epic/offer/pixark tile-516x290-d1652d229b096efdbd5422476fddd406.jpg",
-      "md5": "d1652d229b096efdbd5422476fddd406",
-      "size": 98732,
-      "uploadedDate": "2018-12-05T01:57:44.397Z",
-      "width": 516,
-      "height": 290
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "engines"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2019-09-10T20:44:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": "2018-10-31T19:50:00.000Z",
+  "approximateReleasePlan": null
 }

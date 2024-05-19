@@ -1,48 +1,26 @@
 {
+  "title": "Dev QA Audience",
   "id": "cd740d0b11c84d0db9eac1c7c4cc1fd5",
   "namespace": "fa0c74ef7780498fb222dcd099bf82a2",
-  "title": "Dev QA Audience",
   "description": "Dev QA",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "orioledevaudience-01",
-  "offerType": "OTHERS",
-  "creationDate": "2020-03-19T17:27:15.500Z",
-  "lastModifiedDate": "2024-03-27T16:12:16.690Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR",
-    "CN"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-v3fdwkgaukftabrpt9292vr5tcwj2p",
     "name": "Good Shepherd Entertainment"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "orioledevaudience-01",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "f1dce65c4bf34b93bdaf2c2ef785c1cc",
+      "namespace": "fa0c74ef7780498fb222dcd099bf82a2"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -57,13 +35,46 @@
       "value": "ACE Team"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "f1dce65c4bf34b93bdaf2c2ef785c1cc"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "fa0c74ef7780498fb222dcd099bf82a2"
-  }
+    "mappings": [
+      {
+        "pageSlug": "the-eternal-cylinder",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-03-18T14:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

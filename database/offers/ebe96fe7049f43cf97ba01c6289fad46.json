@@ -1,46 +1,77 @@
 {
+  "title": "3DMark Port Royal",
   "id": "ebe96fe7049f43cf97ba01c6289fad46",
   "namespace": "a3899e1cdcd643009009e119e9b955f7",
-  "title": "3DMark Port Royal",
   "description": "3DMark Port Royal is the world’s first real-time ray tracing benchmark for gamers. \n\nThis DLC also includes the DirectX Raytracing feature test, the NVIDIA DLSS feature test, and the Intel XeSS feature test. ",
-  "longDescription": "# About Port Royal\n\n3DMark Port Royal is the world’s first real-time ray tracing benchmark for gamers. It shows you how well your PC handles ray tracing effects in real-time. Use Port Royal to benchmark graphics cards that support Microsoft DirectX Raytracing. Compare Port Royal benchmark scores to see how overclocking affects ray-tracing performance. Find your PC's performance limits with custom benchmark settings and detailed hardware monitoring charts.\n\n3DMark Port Royal was developed with input from AMD, Intel, NVIDIA, and other leading technology companies. We worked especially closely with Microsoft to create a first-class implementation of the DirectX Raytracing API.\n\n# Port Royal Stress Test\n\nCheck the reliability and stability of your system after buying or building a new PC, upgrading your graphics card or overclocking your GPU. Stress testing can also identify faulty hardware and a need for better cooling.\n\n# DirectX Raytracing feature test\n\nMeasure the pure ray-tracing performance of your graphics card with the 3DMark DirectX Raytracing feature test. Instead of relying on traditional rendering, the whole scene is ray-traced and drawn in one pass. The result of the test depends entirely on ray-tracing performance. You can use this test to compare the performance of dedicated ray-tracing hardware in the latest graphics cards.\n\nThe test includes an interactive mode that lets you move freely around the scene and take screenshots. You can control the focus point and aperture of the camera to explore different depth of field effects using ray tracing.\n\n# NVIDIA DLSS feature test\n\nThis feature test was developed in partnership with NVIDIA Deep Learning Super Sampling (DLSS) is an NVIDIA RTX technology that uses the power of deep learning and AI to improve game performance while maintaining visual quality. This feature test helps you compare performance and image quality with and without DLSS.\n\nWith DLSS 2 and 3, you can select between three quality modes—Quality, Performance and Ultra Performance—and a range of resolutions, from Full HD up to 8K. With DLSS 3, DLSS Frame Generation uses AI to boost frame rates by generating additional high-quality frames, all while optimizing responsiveness with NVIDIA Reflex.\n\n# Intel XeSS feature test\n\nThis feature test was developed in partnership with Intel.XeSS (Xe Super Sampling) is an Intel graphics technology that uses AI-enhanced upscaling to improve performance while maintaining high image fidelity. XeSS renders each frame at a lower resolution to boost performance and then uses AI upscaling to generate frames at the target output resolution.\n\nThe 3DMark Intel XeSS feature test shows you how Intel XeSS affects performance. The 3DMark frame inspector tool helps you compare image quality with a side-by-side view of XeSS and native-resolution rendering.\n\n# Port Royal system requirements\n\n**OS:** Windows 10, 64-bit with October 2018 Update (version 1809)\n**Processor:** 1.8 GHz dual-core with SSSE3 support\n**Memory:** 4 GB RAM\n**Graphics:** DirectX 12 with DirectX Raytracing support*\n**Video memory:** 6 GB\n**Storage:** 1.3 GB space\n\n* To run Port Royal, you must have a graphics card with drivers that support Microsoft DirectX Raytracing.\n\n* To run the DirectX Raytracing feature test, you need Windows 10 version 2004 or later and a graphics card with drivers that support Microsoft DirectX Raytracing Tier 1.1.\n\n* To run the NVIDIA DLSS feature test, you must have a graphics card with drivers that support NVIDIA DLSS technology. DLSS 3 Frame Generation requires an NVIDIA GeForce RTX 40 series GPU and hardware-accelerated GPU scheduling to be enabled in Windows settings.\n\n*To run the Intel XeSS feature test, you must have a GPU that supports Intel XeSS and Microsoft DirectX Raytracing Tier 1.1. XeSS compatible GPUs include Intel Arc GPUs, as well as AMD Radeon and NVIDIA GeForce GPUs with Shader Model 6.4 support. You also need Windows 11 or Windows 10 64-bit, version 20H2 or newer.",
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "3dmark--port-royal",
-  "offerType": "DLC",
-  "creationDate": "2023-01-26T15:03:04.918Z",
-  "lastModifiedDate": "2023-06-26T13:17:30.085Z",
   "effectiveDate": "2023-06-20T13:00:00.000Z",
-  "pcReleaseDate": "2019-01-08T18:00:00.000Z",
-  "publisherDisplayName": "UL Solutions",
-  "countriesBlacklist": [
-    "RU"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "REFUNDABLE",
-  "viewableDate": "2023-06-20T13:00:00.000Z",
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "3dmark--port-royal"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkPortRoyalbenchmarks_ULSolutions_DLC_S2_1200x1600-f76fc0770a8b6ac2b2a0517debf17bae"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkPortRoyalbenchmarks_ULSolutions_DLC_S1_2560x1440-c97a2d27659a7c76138b15178e322a06"
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkPortRoyalbenchmarks_ULSolutions_DLC_IC1_200x80-d5686412d10aa41d0733cd3f4d2fd8e5"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkPortRoyalbenchmarks_ULSolutions_DLC_S2_1200x1600-f76fc0770a8b6ac2b2a0517debf17bae"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkPortRoyalbenchmarks_ULSolutions_DLC_G1A_00_1920x1080-b41d7e4a8ca86b59130e5532d8685374"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkPortRoyalbenchmarks_ULSolutions_DLC_G1A_01_1920x1080-4eed198102e3374fca2b3746da271141"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkPortRoyalbenchmarks_ULSolutions_DLC_G1A_02_1920x1080-6bc509193db9ab0c51daba727a0eb180"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkPortRoyalbenchmarks_ULSolutions_DLC_G1A_03_1920x1080-4f9223232866f535de4d10db1ffd3265"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkPortRoyalbenchmarks_ULSolutions_DLC_G1A_04_1920x1080-98c02e4e9d8f1582048f4e3670b9d397"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkPortRoyalbenchmarks_ULSolutions_DLC_G1A_05_1920x1080-46298ed522c748156f3e01efd139859d"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkPortRoyalbenchmarks_ULSolutions_DLC_G1A_06_1920x1080-ff3097721fcdff79d27d11184ccfe756"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "3dmark--port-royal"
-    }
-  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-8mezcp6bccb7t8n6k9m3mexen2yh99",
     "name": "UL"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "3dmark--port-royal",
+  "url": null,
+  "tags": [
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "d2679ce629994823bb7dae73687775af",
+      "namespace": "a3899e1cdcd643009009e119e9b955f7"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "addons"
@@ -52,128 +83,111 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
-    }
-  ],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkPortRoyalbenchmarks_ULSolutions_DLC_S2_1200x1600-f76fc0770a8b6ac2b2a0517debf17bae",
-      "md5": "f76fc0770a8b6ac2b2a0517debf17bae",
-      "size": 300185,
-      "uploadedDate": "2023-05-08T11:23:24.991Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkPortRoyalbenchmarks_ULSolutions_DLC_S1_2560x1440-c97a2d27659a7c76138b15178e322a06",
-      "md5": "c97a2d27659a7c76138b15178e322a06",
-      "size": 554871,
-      "uploadedDate": "2023-05-08T11:23:28.108Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "ProductLogo",
-      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkPortRoyalbenchmarks_ULSolutions_DLC_IC1_200x80-d5686412d10aa41d0733cd3f4d2fd8e5",
-      "md5": "d5686412d10aa41d0733cd3f4d2fd8e5",
-      "size": 2832,
-      "uploadedDate": "2023-05-08T11:23:33.331Z",
-      "width": 200,
-      "height": 80
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkPortRoyalbenchmarks_ULSolutions_DLC_S2_1200x1600-f76fc0770a8b6ac2b2a0517debf17bae",
-      "md5": "f76fc0770a8b6ac2b2a0517debf17bae",
-      "size": 300185,
-      "uploadedDate": "2023-05-08T11:23:30.805Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkPortRoyalbenchmarks_ULSolutions_DLC_G1A_00_1920x1080-b41d7e4a8ca86b59130e5532d8685374",
-      "md5": "b41d7e4a8ca86b59130e5532d8685374",
-      "size": 316874,
-      "uploadedDate": "2023-05-08T11:23:35.865Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkPortRoyalbenchmarks_ULSolutions_DLC_G1A_01_1920x1080-4eed198102e3374fca2b3746da271141",
-      "md5": "4eed198102e3374fca2b3746da271141",
-      "size": 352211,
-      "uploadedDate": "2023-05-08T11:23:38.950Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkPortRoyalbenchmarks_ULSolutions_DLC_G1A_02_1920x1080-6bc509193db9ab0c51daba727a0eb180",
-      "md5": "6bc509193db9ab0c51daba727a0eb180",
-      "size": 382893,
-      "uploadedDate": "2023-05-08T11:23:41.648Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkPortRoyalbenchmarks_ULSolutions_DLC_G1A_03_1920x1080-4f9223232866f535de4d10db1ffd3265",
-      "md5": "4f9223232866f535de4d10db1ffd3265",
-      "size": 368597,
-      "uploadedDate": "2023-05-08T11:23:44.302Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkPortRoyalbenchmarks_ULSolutions_DLC_G1A_04_1920x1080-98c02e4e9d8f1582048f4e3670b9d397",
-      "md5": "98c02e4e9d8f1582048f4e3670b9d397",
-      "size": 421108,
-      "uploadedDate": "2023-05-08T11:23:47.774Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkPortRoyalbenchmarks_ULSolutions_DLC_G1A_05_1920x1080-46298ed522c748156f3e01efd139859d",
-      "md5": "46298ed522c748156f3e01efd139859d",
-      "size": 431812,
-      "uploadedDate": "2023-05-08T11:23:50.454Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkPortRoyalbenchmarks_ULSolutions_DLC_G1A_06_1920x1080-ff3097721fcdff79d27d11184ccfe756",
-      "md5": "ff3097721fcdff79d27d11184ccfe756",
-      "size": 518490,
-      "uploadedDate": "2023-05-08T11:23:54.173Z",
-      "width": 1920,
-      "height": 1080
-    }
-  ],
-  "items": [
-    {
-      "id": "d2679ce629994823bb7dae73687775af"
-    }
-  ],
   "catalogNs": {
-    "name": "a3899e1cdcd643009009e119e9b955f7"
-  }
+    "mappings": [
+      {
+        "pageSlug": "3dmark--port-royal",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--cpu-profile",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--wild-life",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--sampler-feedback-feature-test",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--cloud-gate",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--api-overhead-feature-test",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--storage",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--night-raid",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--speed-way",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--time-spy",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--vrs-feature-test",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--pci-express-feature-test",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--ice-storm",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--fire-strike",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--sky-diver",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark--mesh-shader-feature-test",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "3dmark",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "3dmark--solar-bay-benchmarks",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "3dmark--port-royal",
+      "pageType": "addon--cms-hybrid"
+    }
+  ],
+  "developerDisplayName": "UL Solutions",
+  "publisherDisplayName": "UL Solutions",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2023-06-20T13:00:00.000Z",
+  "pcReleaseDate": "2019-01-08T18:00:00.000Z",
+  "viewableDate": "2023-06-20T13:00:00.000Z",
+  "approximateReleasePlan": null
 }

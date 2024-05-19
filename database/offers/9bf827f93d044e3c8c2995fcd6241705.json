@@ -1,48 +1,35 @@
 {
+  "title": "LorikeetDevAudience",
   "id": "9bf827f93d044e3c8c2995fcd6241705",
   "namespace": "015763e579d4479cb1ef7780bf91804f",
-  "title": "LorikeetDevAudience",
   "description": "LorikeetDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "lorikeetdevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-07-12T21:26:47.821Z",
-  "lastModifiedDate": "2019-10-18T12:58:56.589Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR",
-    "CN"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/CodeRedemption_ManifoldGarden-340x440-5cfad92fc2eb5a69ed9600b3964b8e53.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/CodeRedemption_ManifoldGarden-340x440-5cfad92fc2eb5a69ed9600b3964b8e53.jpg"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-9j6lnh9adzvfntd9d8ypjc39wb9d3k",
     "name": "William Chyr Studio"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "lorikeetdevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "f47b1a9fbcd34709ba0f59d2178d4fc3",
+      "namespace": "015763e579d4479cb1ef7780bf91804f"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -53,32 +40,50 @@
       "value": "William Chyr Studio"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/CodeRedemption_ManifoldGarden-340x440-5cfad92fc2eb5a69ed9600b3964b8e53.jpg",
-      "md5": "5cfad92fc2eb5a69ed9600b3964b8e53",
-      "size": 232757,
-      "uploadedDate": "2019-08-28T15:04:42.366Z",
-      "width": 340,
-      "height": 440
+      "path": "games"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/CodeRedemption_ManifoldGarden-340x440-5cfad92fc2eb5a69ed9600b3964b8e53.jpg",
-      "md5": "5cfad92fc2eb5a69ed9600b3964b8e53",
-      "size": 232757,
-      "uploadedDate": "2019-08-28T15:04:49.616Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "f47b1a9fbcd34709ba0f59d2178d4fc3"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "015763e579d4479cb1ef7780bf91804f"
-  }
+    "mappings": [
+      {
+        "pageSlug": "manifold-garden",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "manifold-garden--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

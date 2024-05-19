@@ -1,36 +1,36 @@
 {
+  "title": "GeraniumDevAudience",
   "id": "c71a65a4932b4b059b4cb876aafed1cb",
   "namespace": "geranium",
-  "title": "GeraniumDevAudience",
   "description": "GeraniumDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "geraniumdevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-01-16T14:09:44.485Z",
-  "lastModifiedDate": "2020-04-29T00:38:18.599Z",
   "effectiveDate": "2050-01-16T09:09:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/geranium/offer/TJBPP5_Game Icon-400x400-83b64b456879949176c498467a656d3a.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/geranium/offer/JPP5_CodeRedemption-330x440-31fd6d61ff388d95adfce9855ce9dc74.png"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
     "name": "Jackbox Games, Inc."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "geraniumdevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "4af3857c6b0144a9be5618d255e99049",
+      "namespace": "geranium"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "games"
@@ -39,34 +39,38 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/geranium/offer/TJBPP5_Game Icon-400x400-83b64b456879949176c498467a656d3a.png",
-      "md5": "83b64b456879949176c498467a656d3a",
-      "size": 68320,
-      "uploadedDate": "2019-02-06T21:16:16.440Z",
-      "width": 400,
-      "height": 400
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/geranium/offer/JPP5_CodeRedemption-330x440-31fd6d61ff388d95adfce9855ce9dc74.png",
-      "md5": "31fd6d61ff388d95adfce9855ce9dc74",
-      "size": 66797,
-      "uploadedDate": "2019-02-06T21:16:50.960Z",
-      "width": 330,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "4af3857c6b0144a9be5618d255e99049"
-    }
-  ],
   "catalogNs": {
-    "name": "geranium"
-  }
+    "mappings": [
+      {
+        "pageSlug": "jackbox-party-pack-5",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

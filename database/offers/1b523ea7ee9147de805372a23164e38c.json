@@ -1,47 +1,26 @@
 {
+  "title": "TRDS - Press Deluxe",
   "id": "1b523ea7ee9147de805372a23164e38c",
   "namespace": "52b90f9a982a404781b189f6a7903226",
-  "title": "TRDS - Press Deluxe",
   "description": "TRDS - Press Deluxe",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "hoatzindeluxeaudience-01",
-  "offerType": "OTHERS",
-  "creationDate": "2020-03-23T19:59:15.107Z",
-  "lastModifiedDate": "2020-07-29T18:54:00.127Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
     "name": "tinyBuild Games"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "hoatzindeluxeaudience-01",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "29d61ce76cf7422d8c7217ef5786715d",
+      "namespace": "52b90f9a982a404781b189f6a7903226"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -56,13 +35,66 @@
       "value": "We're Five Games"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "29d61ce76cf7422d8c7217ef5786715d"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "52b90f9a982a404781b189f6a7903226"
-  }
+    "mappings": [
+      {
+        "pageSlug": "totally-reliable-delivery-service--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "totally-reliable-delivery-service--stunt-sets",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "totally-reliable-delivery-service--cyberfunk",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "totally-reliable-delivery-service--express-package",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "totally-reliable-delivery-service--dress-code",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "totally-reliable-delivery-service",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-03-05T15:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

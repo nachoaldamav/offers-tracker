@@ -1,40 +1,27 @@
 {
+  "title": "GP VC 100",
   "id": "1113bd312d9e4557b6aca4fff7715879",
   "namespace": "920fd14e9d90478ba2e9b5a5ae987b02",
-  "title": "GP VC 100",
   "description": "GP VC 100",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "gpvc100",
-  "offerType": "VIRTUAL_CURRENCY",
-  "creationDate": "2022-08-09T19:35:01.383Z",
-  "lastModifiedDate": "2023-08-03T01:00:21.009Z",
   "effectiveDate": "2099-08-10T08:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "KR",
-    "BY"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": false,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-4182fad898be4907b36f756ddc8218",
     "name": "2K Games CoreTech"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "gpvc100",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "21a0e4bd83d645f4aa9742c283938f40",
+      "namespace": "920fd14e9d90478ba2e9b5a5ae987b02"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "spthidden/consumable"
@@ -46,15 +33,33 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "21a0e4bd83d645f4aa9742c283938f40"
-    }
-  ],
   "catalogNs": {
-    "name": "920fd14e9d90478ba2e9b5a5ae987b02"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

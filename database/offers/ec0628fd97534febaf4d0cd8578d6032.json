@@ -1,39 +1,32 @@
 {
+  "title": "AngeloniaDevAudience",
   "id": "ec0628fd97534febaf4d0cd8578d6032",
   "namespace": "angelonia",
-  "title": "AngeloniaDevAudience",
   "description": "AngeloniaDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "angeloniadevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-02-10T17:04:45.066Z",
-  "lastModifiedDate": "2020-04-29T00:38:45.250Z",
   "effectiveDate": "2099-02-10T12:04:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "angeloniadevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "aaa521dc52da4b46b9d87b79a258d229",
+      "namespace": "angelonia"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Ubisoft Entertainment"
+    }
+  ],
   "categories": [
     {
       "path": "games"
@@ -42,20 +35,50 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "developerName",
-      "value": "Ubisoft Entertainment"
-    }
-  ],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "aaa521dc52da4b46b9d87b79a258d229"
-    }
-  ],
   "catalogNs": {
-    "name": "angelonia"
-  }
+    "mappings": [
+      {
+        "pageSlug": "watch-dogs-2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "watch-dogs-2--gold-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "watch-dogs-2--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "watch-dogs-2--season-pass",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

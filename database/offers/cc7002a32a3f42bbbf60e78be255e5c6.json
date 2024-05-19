@@ -1,67 +1,34 @@
 {
+  "title": "Tetris® Effect Pre-Purchase",
   "id": "cc7002a32a3f42bbbf60e78be255e5c6",
   "namespace": "76339caf9e8e4d24b62761c736e82b42",
-  "title": "Tetris® Effect Pre-Purchase",
   "description": "Tetris® Effect Pre-Purchase",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "kiwi-pre-purchase",
-  "offerType": "EDITION",
-  "creationDate": "2019-07-12T19:08:07.567Z",
-  "lastModifiedDate": "2024-05-14T16:56:12.989Z",
   "effectiveDate": "2019-07-15T15:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "AR",
-    "KR",
-    "TR",
-    "CR"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/offer/CodeRedemptionTemplate-340x440-ce806284f86ad1a87375e9dcd5c6bc66.jpg"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 3999,
   "seller": {
     "id": "o-4bn3uqfwdgdmnx9yfdauv57gqcjzqn",
     "name": "Enhance, Inc."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "spthidden"
-    },
-    {
-      "path": "games"
-    },
-    {
-      "path": "spthidden/edition"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "kiwi-pre-purchase",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "9e3f8f852f4e4dd0be34892ca17a3dd8",
+      "namespace": "76339caf9e8e4d24b62761c736e82b42"
     }
   ],
   "customAttributes": [
@@ -82,23 +49,76 @@
       "value": "Monstars Inc. and Resonair"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/offer/CodeRedemptionTemplate-340x440-ce806284f86ad1a87375e9dcd5c6bc66.jpg",
-      "md5": "ce806284f86ad1a87375e9dcd5c6bc66",
-      "size": 241405,
-      "uploadedDate": "2019-07-12T19:13:12.281Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
+      "path": "spthidden"
+    },
     {
-      "id": "9e3f8f852f4e4dd0be34892ca17a3dd8"
+      "path": "games"
+    },
+    {
+      "path": "spthidden/edition"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "76339caf9e8e4d24b62761c736e82b42"
-  }
+    "mappings": [
+      {
+        "pageSlug": "tetris-effect--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "tetris-effect-kiwidlc1-77df8a",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "tetris-effect-tetris-effect-digital-deluxe-edition-6ea478",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "tetris-effect-rating-for-kiwi-c464fc",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "tetris-effect-kiwiqatest-f17791",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "tetris-effect-tetris-effect-connected-beta-test-95ffc7",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "tetris-effect",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": true,
+  "releaseDate": "2019-07-23T15:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

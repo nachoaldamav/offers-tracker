@@ -1,68 +1,42 @@
 {
+  "title": "Mount & Blade II: Bannerlord",
   "id": "edc039f38f614739bcbc3d6c7a04633e",
   "namespace": "epic",
-  "title": "Mount & Blade II: Bannerlord",
   "description": "Mount & Blade II: Bannerlord, Mount and Blade 2",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "mount-and-blade-2/home",
-  "urlSlug": "mountandbladeii",
-  "offerType": "OTHERS",
-  "creationDate": "2020-02-19T01:29:53.880Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
   "effectiveDate": "2049-02-18T16:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_MountBladeIIBannerlord_TaleWorldsEntertainment_S2-860x1148-7422df7d13d925d3d0140e59678d0712.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_MountBladeIIBannerlord_TaleWorldsEntertainment_S1-2560x1440-3455b2c51f7d0ac8837d0ea4ddfe8ba3.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-e2fanamv6wpuy3gpyyscsnzjth7hrg",
     "name": "TaleWorlds Entertainment"
   },
-  "linkedOfferId": "1dcce12230b64066a988c06cdd5f653e",
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": "mount-and-blade-2/home",
+  "urlSlug": "mountandbladeii",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
     },
     {
       "id": "10719",
-      "name": "Mac OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX",
-        "macOS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-08-23T05:08:24.605Z",
-      "status": "ACTIVE",
-      "referenceCount": 1146,
-      "comment": null
+      "name": "Mac OS"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -87,32 +61,38 @@
       "value": "1dcce12230b64066a988c06cdd5f653e"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_MountBladeIIBannerlord_TaleWorldsEntertainment_S2-860x1148-7422df7d13d925d3d0140e59678d0712.jpg",
-      "md5": "7422df7d13d925d3d0140e59678d0712",
-      "size": 509459,
-      "uploadedDate": "2020-02-19T01:27:22.134Z",
-      "width": 860,
-      "height": 1148
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_MountBladeIIBannerlord_TaleWorldsEntertainment_S1-2560x1440-3455b2c51f7d0ac8837d0ea4ddfe8ba3.jpg",
-      "md5": "3455b2c51f7d0ac8837d0ea4ddfe8ba3",
-      "size": 475246,
-      "uploadedDate": "2020-02-19T01:27:34.164Z",
-      "width": 2560,
-      "height": 1440
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-03-31T16:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

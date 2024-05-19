@@ -1,45 +1,31 @@
 {
+  "title": "JayDevAudience",
   "id": "15bd29fe5acd46c6810d22ef9dbe905c",
   "namespace": "752368fdba244e9386023cfb2b9d6ceb",
-  "title": "JayDevAudience",
   "description": "JayDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "jaydevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-09-10T14:24:53.364Z",
-  "lastModifiedDate": "2019-11-14T15:47:13.095Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/752368fdba244e9386023cfb2b9d6ceb/offer/EGS_Sabotage_TheMessenger_Portrait-1280x1440-39da361d51204d1d3c9707bfd3b9b2ea.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
     "name": "Devolver Digital, Inc."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "jaydevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "dac9e4a0d2fc4572bf754a2ae3112d84",
+      "namespace": "752368fdba244e9386023cfb2b9d6ceb"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -54,23 +40,50 @@
       "value": "Sabotage Studios"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/752368fdba244e9386023cfb2b9d6ceb/offer/EGS_Sabotage_TheMessenger_Portrait-1280x1440-39da361d51204d1d3c9707bfd3b9b2ea.jpg",
-      "md5": "39da361d51204d1d3c9707bfd3b9b2ea",
-      "size": 306683,
-      "uploadedDate": "2019-11-06T22:40:33.014Z",
-      "width": 1280,
-      "height": 1440
-    }
-  ],
-  "items": [
+      "path": "games"
+    },
     {
-      "id": "dac9e4a0d2fc4572bf754a2ae3112d84"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "752368fdba244e9386023cfb2b9d6ceb"
-  }
+    "mappings": [
+      {
+        "pageSlug": "the-messenger--picnic-panic",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-messenger",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

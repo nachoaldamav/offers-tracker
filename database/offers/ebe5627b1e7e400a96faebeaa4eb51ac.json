@@ -1,36 +1,44 @@
 {
+  "title": "Nutmeg External",
   "id": "ebe5627b1e7e400a96faebeaa4eb51ac",
   "namespace": "nutmeg",
-  "title": "Nutmeg External",
   "description": "Nutmeg External Audience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "nutmeg-external",
-  "offerType": "OTHERS",
-  "creationDate": "2019-07-26T13:27:24.858Z",
-  "lastModifiedDate": "2024-03-21T17:57:41.504Z",
   "effectiveDate": "2050-07-26T09:24:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/nutmeg/offer/SupermashEGS_L1 (1)-2560x1440-8d74801223d662459cfb79d19fb7f2bf.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/nutmeg/supersmash_tall_1200x1600-2bcd29265270fe864adc5c663891bbf4"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/nutmeg/supersmash_wide_2560x1440-435a6a2f7e0f4f41bcc58a130b20df7f"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/nutmeg/supersmash_tall_1200x1600-2bcd29265270fe864adc5c663891bbf4"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-qb7ry6eblsrnt28hxlcuw8w5j5t7y3",
     "name": "Digital Continue"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "nutmeg-external",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "e09446f3954a4297aa7887967603f47e",
+      "namespace": "nutmeg"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "spthidden"
@@ -45,52 +53,38 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/nutmeg/offer/SupermashEGS_L1 (1)-2560x1440-8d74801223d662459cfb79d19fb7f2bf.jpg",
-      "md5": "8d74801223d662459cfb79d19fb7f2bf",
-      "size": 1248638,
-      "uploadedDate": "2019-08-15T13:25:43.815Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/nutmeg/supersmash_tall_1200x1600-2bcd29265270fe864adc5c663891bbf4",
-      "md5": "2bcd29265270fe864adc5c663891bbf4",
-      "size": 1832574,
-      "uploadedDate": "2024-03-21T17:57:04.989Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/nutmeg/supersmash_wide_2560x1440-435a6a2f7e0f4f41bcc58a130b20df7f",
-      "md5": "435a6a2f7e0f4f41bcc58a130b20df7f",
-      "size": 2922983,
-      "uploadedDate": "2024-03-21T17:57:36.945Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/nutmeg/supersmash_tall_1200x1600-2bcd29265270fe864adc5c663891bbf4",
-      "md5": "2bcd29265270fe864adc5c663891bbf4",
-      "size": 1832574,
-      "uploadedDate": "2024-03-21T17:57:18.509Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "e09446f3954a4297aa7887967603f47e"
-    }
-  ],
   "catalogNs": {
-    "name": "nutmeg"
-  }
+    "mappings": [
+      {
+        "pageSlug": "supermash",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

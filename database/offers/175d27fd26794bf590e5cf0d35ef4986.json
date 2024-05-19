@@ -1,53 +1,38 @@
 {
+  "title": "VR Funhouse Editor",
   "id": "175d27fd26794bf590e5cf0d35ef4986",
   "namespace": "epic",
-  "title": "VR Funhouse Editor",
   "description": "Nvidia VR Funhouse Development Kit",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "vr-funhouse",
-  "urlSlug": "vr-funhouse-editor",
-  "offerType": "OTHERS",
-  "creationDate": "2018-10-31T23:46:28.836Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
   "effectiveDate": "2018-10-31T19:45:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2018-10-31T19:45:00.000Z",
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/vrfunhouse/item/vrfunhouse_bg-430x250-57255897027311603ba44be29809e86b.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/VRFun_White_updated-1524x806-c84231b103834f4fffba22943d1bd92c.png"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-defd2xb4j9vjkp63ysxzpqljrvd74d",
     "name": "NVIDIA Lightspeed Studios"
   },
-  "linkedOfferId": "f00a248b062a4adca9360c2c7d679237",
-  "isFeatured": true,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "engines"
-    }
-  ],
+  "productSlug": "vr-funhouse",
+  "urlSlug": "vr-funhouse-editor",
+  "url": null,
   "tags": [
     {
       "id": "9559",
-      "name": "Editors",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T21:11:57.763Z",
-      "updated": "2023-06-28T21:16:34.903Z",
-      "status": "ACTIVE",
-      "referenceCount": 54,
-      "comment": null
+      "name": "Editors"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -64,32 +49,38 @@
       "value": "f00a248b062a4adca9360c2c7d679237"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/vrfunhouse/item/vrfunhouse_bg-430x250-57255897027311603ba44be29809e86b.jpg",
-      "md5": "57255897027311603ba44be29809e86b",
-      "size": 113047,
-      "uploadedDate": "2018-09-17T20:54:24.907Z",
-      "width": 430,
-      "height": 250
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/VRFun_White_updated-1524x806-c84231b103834f4fffba22943d1bd92c.png",
-      "md5": "c84231b103834f4fffba22943d1bd92c",
-      "size": 152029,
-      "uploadedDate": "2018-11-16T00:53:17.851Z",
-      "width": 1524,
-      "height": 806
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "engines"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-01-01T20:42:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": "2018-10-31T19:45:00.000Z",
+  "approximateReleasePlan": null
 }

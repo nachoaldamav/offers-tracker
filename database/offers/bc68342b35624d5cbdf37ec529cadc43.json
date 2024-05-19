@@ -1,103 +1,54 @@
 {
+  "title": "Before We Leave",
   "id": "bc68342b35624d5cbdf37ec529cadc43",
   "namespace": "epic",
-  "title": "Before We Leave",
   "description": "Before We Leave",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "before-we-leave/home",
-  "urlSlug": "before-we-leave",
-  "offerType": "OTHERS",
-  "creationDate": "2019-12-05T20:35:54.794Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_BalancingMonkeyGames_BeforeWeLeave_S4-510x680-e99086b2cd816c9110f0c43843e3f515.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_BalancingMonkeyGames_BeforeWeLeave_S5-1205x900-b459c8e48cb7f5be802849a3448c1fb1.png"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "currentPrice": 0,
   "seller": {
     "id": "o-4tx8h9e6ugw2546feb637euqzbmkpa",
     "name": "Balancing Monkey Games"
   },
-  "linkedOfferId": "957e4d4d60634f7bad2047d257a49f73",
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": "before-we-leave/home",
+  "urlSlug": "before-we-leave",
+  "url": null,
   "tags": [
     {
       "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-23T05:17:12.951Z",
-      "status": "ACTIVE",
-      "referenceCount": 5001,
-      "comment": null
+      "name": "Single Player"
     },
     {
       "id": "1146",
-      "name": "City Builder",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:31.235Z",
-      "updated": "2023-08-22T23:07:49.565Z",
-      "status": "ACTIVE",
-      "referenceCount": 175,
-      "comment": null
+      "name": "City Builder"
     },
     {
       "id": "1115",
-      "name": "Strategy",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2023-08-23T05:08:24.575Z",
-      "status": "ACTIVE",
-      "referenceCount": 1068,
-      "comment": null
+      "name": "Strategy"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
     },
     {
       "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-08-23T05:17:12.988Z",
-      "status": "ACTIVE",
-      "referenceCount": 1176,
-      "comment": null
+      "name": "Indie"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -122,32 +73,42 @@
       "value": "957e4d4d60634f7bad2047d257a49f73"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_BalancingMonkeyGames_BeforeWeLeave_S4-510x680-e99086b2cd816c9110f0c43843e3f515.jpg",
-      "md5": "e99086b2cd816c9110f0c43843e3f515",
-      "size": 59224,
-      "uploadedDate": "2019-12-05T20:31:56.488Z",
-      "width": 510,
-      "height": 680
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_BalancingMonkeyGames_BeforeWeLeave_S5-1205x900-b459c8e48cb7f5be802849a3448c1fb1.png",
-      "md5": "b459c8e48cb7f5be802849a3448c1fb1",
-      "size": 456642,
-      "uploadedDate": "2019-12-05T20:32:13.844Z",
-      "width": 1205,
-      "height": 900
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "1da44815d2874be99aef3bcbefe648a8"
+          }
+        ]
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

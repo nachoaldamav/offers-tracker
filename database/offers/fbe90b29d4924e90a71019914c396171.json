@@ -1,52 +1,72 @@
 {
+  "title": "test_Express Supply Pass",
   "id": "fbe90b29d4924e90a71019914c396171",
   "namespace": "a2dcbb9e34204bda9da8415f97b3f4ea",
-  "title": "test_Express Supply Pass",
   "description": "test_Express Supply Pass",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "test-expresssupplypass",
-  "offerType": "IN_GAME_PURCHASE",
-  "creationDate": "2023-07-18T18:48:14.838Z",
-  "lastModifiedDate": "2023-08-11T14:32:44.185Z",
   "effectiveDate": "2099-07-22T08:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "CN"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": false,
+  "keyImages": [],
+  "currentPrice": 499,
   "seller": {
     "id": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
     "name": "Cognosphere"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "test-expresssupplypass",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "e1cdbcc90fe94ca99cdb6cfd43a50fb3",
+      "namespace": "a2dcbb9e34204bda9da8415f97b3f4ea"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "e1cdbcc90fe94ca99cdb6cfd43a50fb3"
-    }
-  ],
   "catalogNs": {
-    "name": "a2dcbb9e34204bda9da8415f97b3f4ea"
-  }
+    "mappings": [
+      {
+        "pageSlug": "honkai-star-rail",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "honkai-star-rail--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "honkai-star-rail--epic-mega-sale-event-bundle",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

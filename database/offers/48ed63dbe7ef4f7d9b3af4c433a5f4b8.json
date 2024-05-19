@@ -1,48 +1,26 @@
 {
+  "title": "DevKurilianAudience",
   "id": "48ed63dbe7ef4f7d9b3af4c433a5f4b8",
   "namespace": "14ee004dadc142faaaece5a6270fb628",
-  "title": "DevKurilianAudience",
   "description": "DevKurilianAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "devkurilianaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2020-04-28T15:35:25.965Z",
-  "lastModifiedDate": "2020-05-13T16:53:26.013Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-x2vdjaf7cfakvlsgz8qf2gx8bkplcc",
     "name": "CD PROJEKT RED"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "devkurilianaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "f58252dd6c73484aadf7ee8b52e557a0",
+      "namespace": "14ee004dadc142faaaece5a6270fb628"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -57,13 +35,50 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "f58252dd6c73484aadf7ee8b52e557a0"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "14ee004dadc142faaaece5a6270fb628"
-  }
+    "mappings": [
+      {
+        "pageSlug": "the-witcher-3-wild-hunt",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-witcher-3-wild-hunt--redkit",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

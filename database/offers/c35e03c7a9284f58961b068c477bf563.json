@@ -1,49 +1,32 @@
 {
+  "title": "Outfit Pack",
   "id": "c35e03c7a9284f58961b068c477bf563",
   "namespace": "b47d3947087147baa8e1665680aefc11",
-  "title": "Outfit Pack",
   "description": "Outfit Pack",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "outfitpack",
-  "offerType": "IN_GAME_PURCHASE",
-  "creationDate": "2023-11-30T21:00:14.761Z",
-  "lastModifiedDate": "2024-03-30T15:47:10.470Z",
   "effectiveDate": "2023-12-07T16:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "AR",
-    "MO",
-    "HK",
-    "TW",
-    "BE",
-    "UY",
-    "IN",
-    "KR",
-    "VN",
-    "CN",
-    "UA",
-    "CR"
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/b47d3947087147baa8e1665680aefc11/TOF_1200x1600-20e453b8900575d4c2585458fce0252d_1200x1600-20e453b8900575d4c2585458fce0252d"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 999,
   "seller": {
     "id": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
     "name": "Proxima Beta Europe B.V."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "outfitpack",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "27af947da1c44822b39ef005e11b56f9",
+      "namespace": "b47d3947087147baa8e1665680aefc11"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "spthidden"
@@ -55,25 +38,42 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/b47d3947087147baa8e1665680aefc11/TOF_1200x1600-20e453b8900575d4c2585458fce0252d_1200x1600-20e453b8900575d4c2585458fce0252d",
-      "md5": "20e453b8900575d4c2585458fce0252d",
-      "size": 687268,
-      "uploadedDate": "2023-11-30T21:10:55.267Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "27af947da1c44822b39ef005e11b56f9"
-    }
-  ],
   "catalogNs": {
-    "name": "b47d3947087147baa8e1665680aefc11"
-  }
+    "mappings": [
+      {
+        "pageSlug": "tower-of-fantasy",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "tower-of-fantasy--faq",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

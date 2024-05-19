@@ -1,56 +1,46 @@
 {
+  "title": "Batman Arkham - Trilogy",
   "id": "235b15e2497241e688081c209bcf8709",
   "namespace": "86ce9e7a94704e8eb1f9dbe16310e701",
-  "title": "Batman Arkham - Trilogy",
   "description": "Batman Arkham - Trilogy",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "owletgeneralaudience",
-  "offerType": "BASE_GAME",
-  "creationDate": "2019-09-17T21:45:07.381Z",
-  "lastModifiedDate": "2020-05-13T19:22:14.791Z",
   "effectiveDate": "2019-09-18T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/86ce9e7a94704e8eb1f9dbe16310e701/offer/Arkham_Collection_Titled-1200x672-791aa13af243c741f1614e934b7629bc.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/86ce9e7a94704e8eb1f9dbe16310e701/offer/Arkham_Collection_Titled-1200x671-35bc0291a1ec1f9f1e15330fe69c31d3.jpg"
+    }
+  ],
+  "currentPrice": 5997,
   "seller": {
     "id": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
     "name": "Warner Bros."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "owletgeneralaudience",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "fdf017976cec48d9823344aad4cfd773",
+      "namespace": "40c34bea9cd0460589c867f6a7246342"
+    },
+    {
+      "id": "a49a2c6e027c49b49976f8753e11b837",
+      "namespace": "5f7c811695f14b8fa3a8e1ea35713d23"
+    },
+    {
+      "id": "ae43eab8317d43c9acc5a93468dadf63",
+      "namespace": "e5e30c728f1947759251eb5283ffa6e3"
     }
   ],
   "customAttributes": [
@@ -67,38 +57,41 @@
       "value": "Rocksteady Studios"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/86ce9e7a94704e8eb1f9dbe16310e701/offer/Arkham_Collection_Titled-1200x672-791aa13af243c741f1614e934b7629bc.jpg",
-      "md5": "791aa13af243c741f1614e934b7629bc",
-      "size": 252870,
-      "uploadedDate": "2019-09-18T22:03:20.650Z",
-      "width": 1200,
-      "height": 672
+      "path": "games"
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/86ce9e7a94704e8eb1f9dbe16310e701/offer/Arkham_Collection_Titled-1200x671-35bc0291a1ec1f9f1e15330fe69c31d3.jpg",
-      "md5": "35bc0291a1ec1f9f1e15330fe69c31d3",
-      "size": 252856,
-      "uploadedDate": "2019-09-18T22:03:56.229Z",
-      "width": 1200,
-      "height": 671
-    }
-  ],
-  "items": [
-    {
-      "id": "fdf017976cec48d9823344aad4cfd773"
-    },
-    {
-      "id": "a49a2c6e027c49b49976f8753e11b837"
-    },
-    {
-      "id": "ae43eab8317d43c9acc5a93468dadf63"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "86ce9e7a94704e8eb1f9dbe16310e701"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 5997,
+      "originalPrice": 5997,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2019-09-18T00:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

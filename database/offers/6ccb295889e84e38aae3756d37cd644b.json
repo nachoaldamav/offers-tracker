@@ -1,94 +1,50 @@
 {
+  "title": "Mobilization",
   "id": "6ccb295889e84e38aae3756d37cd644b",
   "namespace": "9df3ec873af34f9ab4e6e13fb4a17248",
-  "title": "Mobilization",
   "description": "First person shooter. Light humor, dynamics and action will allow you to return to the atmosphere of first-person shooters of the 90s.",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "9de95b50caf84bdb9570bb04ef0df654",
-  "offerType": "BASE_GAME",
-  "creationDate": "2023-05-11T12:05:37.128Z",
-  "lastModifiedDate": "2024-01-16T16:00:03.734Z",
   "effectiveDate": "2023-05-12T08:00:00.000Z",
-  "pcReleaseDate": "2023-04-21T10:00:00.000Z",
-  "publisherDisplayName": "Grin Igor",
-  "countriesBlacklist": [
-    "RU",
-    "KR"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2023-05-11T07:00:00.000Z",
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "mobilisation-78891a"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/741bc3674a9842ca8a2a8e5fb0b1d444/mobilization-xtgrh.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/741bc3674a9842ca8a2a8e5fb0b1d444/mobilization-10wop.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/spt-assets/741bc3674a9842ca8a2a8e5fb0b1d444/mobilization-10wop.jpg"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "mobilisation-78891a"
-    }
-  ],
+  "currentPrice": 599,
   "seller": {
     "id": "o-at2w3j4pr2ggtmnwl3qqkgmcgwgcjs",
     "name": "Individual"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games/edition/base"
-    },
-    {
-      "path": "games/edition"
-    },
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "9de95b50caf84bdb9570bb04ef0df654",
+  "url": null,
   "tags": [
     {
       "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-23T05:17:12.951Z",
-      "status": "ACTIVE",
-      "referenceCount": 5001,
-      "comment": null
+      "name": "Single Player"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
     },
     {
       "id": "1294",
-      "name": "First Person",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:44.596Z",
-      "updated": "2023-08-23T00:14:55.884Z",
-      "status": "ACTIVE",
-      "referenceCount": 481,
-      "comment": null
+      "name": "First Person"
+    }
+  ],
+  "items": [
+    {
+      "id": "c6fa88059efd46daa0c4642f0657b6f6",
+      "namespace": "9df3ec873af34f9ab4e6e13fb4a17248"
     }
   ],
   "customAttributes": [
@@ -109,41 +65,54 @@
       "value": "false"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/741bc3674a9842ca8a2a8e5fb0b1d444/mobilization-xtgrh.jpg",
-      "md5": "872697d327df95fd5beef19cc3c6454c",
-      "size": 2340090,
-      "uploadedDate": "2023-05-08T07:01:03.632Z",
-      "width": 2560,
-      "height": 1440
+      "path": "games/edition/base"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/741bc3674a9842ca8a2a8e5fb0b1d444/mobilization-10wop.jpg",
-      "md5": "4a29f756949f0f615a8da359d3632fda",
-      "size": 1408596,
-      "uploadedDate": "2023-05-08T07:59:50.316Z",
-      "width": 1200,
-      "height": 1600
+      "path": "games/edition"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/741bc3674a9842ca8a2a8e5fb0b1d444/mobilization-10wop.jpg",
-      "md5": "4a29f756949f0f615a8da359d3632fda",
-      "size": 1408596,
-      "uploadedDate": "2023-05-08T07:59:50.316Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "c6fa88059efd46daa0c4642f0657b6f6"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "9df3ec873af34f9ab4e6e13fb4a17248"
-  }
+    "mappings": [
+      {
+        "pageSlug": "mobilisation-78891a",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "mobilisation-78891a",
+      "pageType": "productHome"
+    }
+  ],
+  "developerDisplayName": "Grin Igor",
+  "publisherDisplayName": "Grin Igor",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 599,
+      "originalPrice": 599,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2023-05-12T08:00:00.000Z",
+  "pcReleaseDate": "2023-04-21T10:00:00.000Z",
+  "viewableDate": "2023-05-11T07:00:00.000Z",
+  "approximateReleasePlan": null
 }

@@ -1,62 +1,46 @@
 {
+  "title": "Paranoia Happiness is Mandatory Ultraviolet Edition",
   "id": "20ee0c3b99294d2bb639896cd16bcb54",
   "namespace": "52613245bcd34a8eb99078f423620a4d",
-  "title": "Paranoia Happiness is Mandatory Ultraviolet Edition",
   "description": "Paranoia Happiness is Mandatory Ultraviolet Edition",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "paranoia-happiness-is-mandatory-ultraviolet-edition",
-  "offerType": "EDITION",
-  "creationDate": "2019-09-19T21:34:14.196Z",
-  "lastModifiedDate": "2023-08-03T01:01:01.382Z",
   "effectiveDate": "2099-08-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Bigben_Paranoia_Carousel-2560x1440-2b790d8aebc355955f45e55ab58f68ac.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Bigben_Paranoia_Carousel-2560x1440-2b790d8aebc355955f45e55ab58f68ac.jpg"
+    }
+  ],
+  "currentPrice": 3499,
   "seller": {
     "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
     "name": "Nacon"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "spthidden"
-    },
-    {
-      "path": "games"
-    },
-    {
-      "path": "spthidden/edition"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "paranoia-happiness-is-mandatory-ultraviolet-edition",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "ec30fa9bdb09478d89ff1827025f05f8",
+      "namespace": "52613245bcd34a8eb99078f423620a4d"
+    },
+    {
+      "id": "6e59b4668c4b43c1a241df1088b7267a",
+      "namespace": "52613245bcd34a8eb99078f423620a4d"
+    },
+    {
+      "id": "b03e87d8bdfd4e9280ba0293f7b2b798",
+      "namespace": "52613245bcd34a8eb99078f423620a4d"
     }
   ],
   "customAttributes": [
@@ -73,38 +57,52 @@
       "value": "Black Shamrock & Cyanide"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Bigben_Paranoia_Carousel-2560x1440-2b790d8aebc355955f45e55ab58f68ac.jpg",
-      "md5": "2b790d8aebc355955f45e55ab58f68ac",
-      "size": 1766240,
-      "uploadedDate": "2019-09-19T21:33:54.760Z",
-      "width": 2560,
-      "height": 1440
+      "path": "spthidden"
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Bigben_Paranoia_Carousel-2560x1440-2b790d8aebc355955f45e55ab58f68ac.jpg",
-      "md5": "2b790d8aebc355955f45e55ab58f68ac",
-      "size": 1766240,
-      "uploadedDate": "2019-09-19T21:34:04.120Z",
-      "width": 2560,
-      "height": 1440
-    }
-  ],
-  "items": [
-    {
-      "id": "ec30fa9bdb09478d89ff1827025f05f8"
+      "path": "games"
     },
     {
-      "id": "6e59b4668c4b43c1a241df1088b7267a"
+      "path": "spthidden/edition"
     },
     {
-      "id": "b03e87d8bdfd4e9280ba0293f7b2b798"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "52613245bcd34a8eb99078f423620a4d"
-  }
+    "mappings": [
+      {
+        "pageSlug": "paranoia",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3499,
+      "originalPrice": 3499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-11-14T14:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

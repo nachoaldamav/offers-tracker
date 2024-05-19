@@ -1,59 +1,29 @@
 {
+  "title": "IrisDevAudience",
   "id": "3235a8c45538417199b8a656ab5ffe37",
   "namespace": "iris",
-  "title": "IrisDevAudience",
   "description": "IrisDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "irisdevaudience-01",
-  "offerType": "OTHERS",
-  "creationDate": "2019-02-15T16:27:08.662Z",
-  "lastModifiedDate": "2024-04-13T00:24:48.907Z",
   "effectiveDate": "2022-02-15T11:26:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR",
-    "CN"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
     "name": "Snapshot Games"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "irisdevaudience-01",
+  "url": null,
   "tags": [
     {
       "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-23T05:17:12.951Z",
-      "status": "ACTIVE",
-      "referenceCount": 5001,
-      "comment": null
+      "name": "Single Player"
+    }
+  ],
+  "items": [
+    {
+      "id": "8d191697a975457bbaff9f2df563399a",
+      "namespace": "iris"
     }
   ],
   "customAttributes": [
@@ -66,13 +36,70 @@
       "value": "Snapshot Games"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "8d191697a975457bbaff9f2df563399a"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "iris"
-  }
+    "mappings": [
+      {
+        "pageSlug": "phoenix-point--festering-skies",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "phoenix-point--yoe-upgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "phoenix-point--expansion-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "phoenix-point--corrupted-horizons",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "phoenix-point",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "phoenix-point--kaos-engines",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "phoenix-point--complete-edition-upgrade",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2019-12-03T18:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

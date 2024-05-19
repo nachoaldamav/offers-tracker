@@ -1,84 +1,54 @@
 {
+  "title": "KunKunBeauty",
   "id": "a806e11ac52246b2892cfdf498fa60e6",
   "namespace": "af444610040a42bcb06c7be325a4e32b",
-  "title": "KunKunBeauty",
   "description": "Game background: The story of Brother Chicken and Ms. Chao on the day of 520.\nGame status: Continuously updating.\nThis story is purely fictitious and any similarity is purely coincidental.",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "f91fb54cc2564439839d776425822077",
-  "offerType": "BASE_GAME",
-  "creationDate": "2023-12-01T07:19:53.426Z",
-  "lastModifiedDate": "2024-04-30T15:00:05.483Z",
   "effectiveDate": "2023-12-19T00:00:00.000Z",
-  "pcReleaseDate": "2023-12-19T00:00:00.000Z",
-  "publisherDisplayName": "ikun",
-  "countriesBlacklist": [
-    "BR",
-    "RU",
-    "AU",
-    "KR"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2023-12-18T00:00:00.000Z",
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "chickenbeauty-08b149"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/ada42ba5200f4d42bf2cc34cbfee8221/kunkunbeauty-1tma2.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ada42ba5200f4d42bf2cc34cbfee8221/chickenbeauty-1x3bg.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/spt-assets/ada42ba5200f4d42bf2cc34cbfee8221/chickenbeauty-1x3bg.png"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "chickenbeauty-08b149"
-    }
-  ],
+  "currentPrice": 249,
   "seller": {
     "id": "o-mpgnzn3abnbsqlrg6sql595u4q3v25",
     "name": "GameOfLife"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    },
-    {
-      "path": "games/edition"
-    },
-    {
-      "path": "games/edition/base"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "f91fb54cc2564439839d776425822077",
+  "url": null,
   "tags": [
     {
       "id": "1296",
-      "name": "Casual",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:45.644Z",
-      "updated": "2023-08-23T04:55:54.798Z",
-      "status": "ACTIVE",
-      "referenceCount": 423,
-      "comment": null
+      "name": "Casual"
     },
     {
       "id": "1336",
-      "name": "Action-Adventure",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:05.439Z",
-      "updated": "2023-08-23T03:24:56.304Z",
-      "status": "ACTIVE",
-      "referenceCount": 519,
-      "comment": null
+      "name": "Action-Adventure"
+    },
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "9c0d2d231bff4d1794cf43f3f7bd951a",
+      "namespace": "af444610040a42bcb06c7be325a4e32b"
     }
   ],
   "customAttributes": [
@@ -99,41 +69,54 @@
       "value": "false"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/ada42ba5200f4d42bf2cc34cbfee8221/kunkunbeauty-1tma2.png",
-      "md5": "de4955cdc7c6bc3d32c3b03cd23a39e5",
-      "size": 2343957,
-      "uploadedDate": "2023-12-16T13:40:31.541Z",
-      "width": 2560,
-      "height": 1440
+      "path": "games"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/ada42ba5200f4d42bf2cc34cbfee8221/chickenbeauty-1x3bg.png",
-      "md5": "732920278cfc5bffbdd44261b8d023e3",
-      "size": 1292990,
-      "uploadedDate": "2023-12-13T19:48:13.056Z",
-      "width": 1200,
-      "height": 1600
+      "path": "games/edition"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/ada42ba5200f4d42bf2cc34cbfee8221/chickenbeauty-1x3bg.png",
-      "md5": "732920278cfc5bffbdd44261b8d023e3",
-      "size": 1292990,
-      "uploadedDate": "2023-12-13T19:48:13.056Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "9c0d2d231bff4d1794cf43f3f7bd951a"
+      "path": "games/edition/base"
     }
   ],
   "catalogNs": {
-    "name": "af444610040a42bcb06c7be325a4e32b"
-  }
+    "mappings": [
+      {
+        "pageSlug": "chickenbeauty-08b149",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "chickenbeauty-08b149",
+      "pageType": "productHome"
+    }
+  ],
+  "developerDisplayName": "ikun",
+  "publisherDisplayName": "ikun",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 249,
+      "originalPrice": 249,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2023-12-18T00:00:00.000Z",
+  "pcReleaseDate": "2023-12-19T00:00:00.000Z",
+  "viewableDate": "2023-12-18T00:00:00.000Z",
+  "approximateReleasePlan": null
 }

@@ -1,62 +1,42 @@
 {
+  "title": "Trover Saves The Universe Pre-Purchase",
   "id": "56977421bfe34830876f719463665105",
   "namespace": "sweetpea",
-  "title": "Trover Saves The Universe Pre-Purchase",
   "description": "Trover Saves The Universe Pre-Purchase",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "trover-saves-the-universe-pre-purchase-audience",
-  "offerType": "EDITION",
-  "creationDate": "2019-03-26T01:22:59.064Z",
-  "lastModifiedDate": "2023-08-03T01:00:20.097Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/sweetpea/offer/CodeRedemption_TSTU-330x440-4551db803c8efe6aac66d26e61640c62-330x440-4551db803c8efe6aac66d26e61640c62.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/sweetpea/offer/CodeRedemption_TSTU-330x440-4551db803c8efe6aac66d26e61640c62-330x440-4551db803c8efe6aac66d26e61640c62.png"
+    }
+  ],
+  "currentPrice": 2999,
   "seller": {
     "id": "o-n2p7jejpaawba9jzcfpryscpj3uh6w",
     "name": "Squanch Games"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "spthidden"
-    },
-    {
-      "path": "games"
-    },
-    {
-      "path": "spthidden/edition"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "trover-saves-the-universe-pre-purchase-audience",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "9e151a69a81a42f4b0a01b6539bf6b9b",
+      "namespace": "sweetpea"
+    },
+    {
+      "id": "7f7e428a5f704722ad7c007acc91f9d0",
+      "namespace": "sweetpea"
     }
   ],
   "customAttributes": [
@@ -73,35 +53,56 @@
       "value": "Squanch Games"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/sweetpea/offer/CodeRedemption_TSTU-330x440-4551db803c8efe6aac66d26e61640c62-330x440-4551db803c8efe6aac66d26e61640c62.png",
-      "md5": "4551db803c8efe6aac66d26e61640c62",
-      "size": 38225,
-      "uploadedDate": "2019-06-03T14:13:58.656Z",
-      "width": 330,
-      "height": 440
+      "path": "spthidden"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/sweetpea/offer/CodeRedemption_TSTU-330x440-4551db803c8efe6aac66d26e61640c62-330x440-4551db803c8efe6aac66d26e61640c62.png",
-      "md5": "4551db803c8efe6aac66d26e61640c62",
-      "size": 38225,
-      "uploadedDate": "2019-06-03T14:14:10.930Z",
-      "width": 330,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "9e151a69a81a42f4b0a01b6539bf6b9b"
+      "path": "games"
     },
     {
-      "id": "7f7e428a5f704722ad7c007acc91f9d0"
+      "path": "spthidden/edition"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "sweetpea"
-  }
+    "mappings": [
+      {
+        "pageSlug": "trover-saves-the-universe--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "trover-saves-the-universe",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": true,
+  "releaseDate": "2019-06-04T15:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

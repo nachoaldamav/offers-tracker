@@ -1,93 +1,50 @@
 {
+  "title": "The Abbey",
   "id": "e17075e71506496dbcd23c1412db1e6d",
   "namespace": "e1b25c47966441e2971f57523a29756e",
-  "title": "The Abbey",
   "description": "Thou shalt not kill!",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "4141fd1b58584cca94e19951e0caa859",
-  "offerType": "BASE_GAME",
-  "creationDate": "2022-10-24T22:46:05.412Z",
-  "lastModifiedDate": "2023-04-06T08:10:02.132Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": "2008-08-25T04:00:00.000Z",
-  "publisherDisplayName": "Strategy First",
-  "countriesBlacklist": [
-    "KR"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2022-10-24T04:00:00.000Z",
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "the-abbey-b6fbc4"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/b25f8af6c17f489ab7926a658e7648de/the-abbey-xg4mj.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b25f8af6c17f489ab7926a658e7648de/the-abbey-1atf5.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/spt-assets/b25f8af6c17f489ab7926a658e7648de/the-abbey-1atf5.png"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "the-abbey-b6fbc4"
-    }
-  ],
+  "currentPrice": 999,
   "seller": {
     "id": "o-a3vefcg43bn6j4lwc7qs8n5y38jm7k",
     "name": "Strategy First"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games/edition/base"
-    },
-    {
-      "path": "games/edition"
-    },
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "4141fd1b58584cca94e19951e0caa859",
+  "url": null,
   "tags": [
     {
       "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-23T05:17:12.951Z",
-      "status": "ACTIVE",
-      "referenceCount": 5001,
-      "comment": null
+      "name": "Single Player"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
     },
     {
       "id": "1117",
-      "name": "Adventure",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2023-08-23T02:16:39.269Z",
-      "status": "ACTIVE",
-      "referenceCount": 1473,
-      "comment": null
+      "name": "Adventure"
+    }
+  ],
+  "items": [
+    {
+      "id": "a0e235c6dfbe4097891c6506b6cb929f",
+      "namespace": "e1b25c47966441e2971f57523a29756e"
     }
   ],
   "customAttributes": [
@@ -100,41 +57,60 @@
       "value": "true"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/b25f8af6c17f489ab7926a658e7648de/the-abbey-xg4mj.png",
-      "md5": "778a3be5a313f5ffd1923687b2a58a97",
-      "size": 3914320,
-      "uploadedDate": "2022-10-20T18:08:55.168Z",
-      "width": 2560,
-      "height": 1440
+      "path": "games/edition/base"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/b25f8af6c17f489ab7926a658e7648de/the-abbey-1atf5.png",
-      "md5": "b42f97c9d5f62b285021c681ce24197f",
-      "size": 1295347,
-      "uploadedDate": "2022-10-20T18:08:57.191Z",
-      "width": 1200,
-      "height": 1600
+      "path": "games/edition"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/b25f8af6c17f489ab7926a658e7648de/the-abbey-1atf5.png",
-      "md5": "b42f97c9d5f62b285021c681ce24197f",
-      "size": 1295347,
-      "uploadedDate": "2022-10-20T18:08:57.191Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "a0e235c6dfbe4097891c6506b6cb929f"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "e1b25c47966441e2971f57523a29756e"
+    "mappings": [
+      {
+        "pageSlug": "the-abbey-b6fbc4",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "the-abbey-b6fbc4",
+      "pageType": "productHome"
+    }
+  ],
+  "developerDisplayName": "Crimson Cow",
+  "publisherDisplayName": "Strategy First",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2022-10-31T00:00:00.000Z",
+  "pcReleaseDate": "2008-08-25T04:00:00.000Z",
+  "viewableDate": "2022-10-24T04:00:00.000Z",
+  "approximateReleasePlan": {
+    "day": null,
+    "month": 10,
+    "quarter": null,
+    "year": 2022,
+    "releaseDateType": "BY_MONTH"
   }
 }

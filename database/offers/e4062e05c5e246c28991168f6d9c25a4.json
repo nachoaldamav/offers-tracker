@@ -1,45 +1,26 @@
 {
+  "title": "DevBoronAudience",
   "id": "e4062e05c5e246c28991168f6d9c25a4",
   "namespace": "c556d22537ed4a14a454813c9faedd3a",
-  "title": "DevBoronAudience",
   "description": "DevBoronAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "devboronaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2020-12-01T23:30:07.683Z",
-  "lastModifiedDate": "2021-09-23T00:38:19.648Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-5p7vmece7eqgvdyjqvene54arynxxh",
     "name": "Toplitz Productions GmbH"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "devboronaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "0aeba71ef10e4be193e5e4af1ecc2886",
+      "namespace": "c556d22537ed4a14a454813c9faedd3a"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -54,13 +35,50 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "0aeba71ef10e4be193e5e4af1ecc2886"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "c556d22537ed4a14a454813c9faedd3a"
-  }
+    "mappings": [
+      {
+        "pageSlug": "medieval-dynasty",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "medieval-dynasty--digital-supporter-pack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

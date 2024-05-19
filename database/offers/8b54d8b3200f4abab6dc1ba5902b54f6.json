@@ -1,61 +1,29 @@
 {
+  "title": "50 IAP",
   "id": "8b54d8b3200f4abab6dc1ba5902b54f6",
   "namespace": "7e011bb3fb724959b2a132aef9bf27fc",
-  "title": "50 IAP",
   "description": "50 IAP",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "theanacrusis-general-audience-02",
-  "offerType": "VIRTUAL_CURRENCY",
-  "creationDate": "2021-05-06T17:03:33.370Z",
-  "lastModifiedDate": "2023-08-02T23:12:11.798Z",
   "effectiveDate": "2099-02-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-fmt2nwtsc6lz7eujkdp3mkrdm64z8h",
     "name": "Stray Bombay Company"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "spthidden/consumable"
-    },
-    {
-      "path": "spthidden"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "theanacrusis-general-audience-02",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "375a10f7ca9e43089904cd83e4c1869b",
+      "namespace": "7e011bb3fb724959b2a132aef9bf27fc"
     }
   ],
   "customAttributes": [
@@ -68,13 +36,49 @@
       "value": "Stray Bombay Company"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "375a10f7ca9e43089904cd83e4c1869b"
+      "path": "spthidden/consumable"
+    },
+    {
+      "path": "spthidden"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "7e011bb3fb724959b2a132aef9bf27fc"
-  }
+    "mappings": [
+      {
+        "pageSlug": "the-anacrusis",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-02-01T00:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

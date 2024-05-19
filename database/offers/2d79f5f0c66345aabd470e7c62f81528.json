@@ -1,36 +1,44 @@
 {
+  "title": "DaisyDevAudience",
   "id": "2d79f5f0c66345aabd470e7c62f81528",
   "namespace": "daisy",
-  "title": "DaisyDevAudience",
   "description": "DaisyDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "daisydevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-01-29T19:21:13.814Z",
-  "lastModifiedDate": "2019-08-05T08:35:12.561Z",
   "effectiveDate": "2050-04-01T14:18:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/daisy/offer/Drawful2_Logo-1180x1035-ac2814fad78ad10f96a37ffc6ca4cf9d.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/daisy/offer/Drawful2_Icon-400x400-8c2006c8dc78feace8c5306821d60221.png"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/daisy/offer/Drawful2_Hero_Landscape-2580x1450-0fb79148be5e4c7d08901d27b7051e2c.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/daisy/offer/D2_CodeRedemption-340x440-334699afca713a058eb5643da9984c56.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
     "name": "Jackbox Games, Inc."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "daisydevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "40ece0e20b224dc69d310b9bb35d8f2a",
+      "namespace": "daisy"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "games"
@@ -39,52 +47,38 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/daisy/offer/Drawful2_Logo-1180x1035-ac2814fad78ad10f96a37ffc6ca4cf9d.png",
-      "md5": "ac2814fad78ad10f96a37ffc6ca4cf9d",
-      "size": 112577,
-      "uploadedDate": "2019-02-05T16:01:31.710Z",
-      "width": 1180,
-      "height": 1035
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/daisy/offer/Drawful2_Icon-400x400-8c2006c8dc78feace8c5306821d60221.png",
-      "md5": "8c2006c8dc78feace8c5306821d60221",
-      "size": 207612,
-      "uploadedDate": "2019-02-05T16:01:37.796Z",
-      "width": 400,
-      "height": 400
-    },
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/daisy/offer/Drawful2_Hero_Landscape-2580x1450-0fb79148be5e4c7d08901d27b7051e2c.jpg",
-      "md5": "0fb79148be5e4c7d08901d27b7051e2c",
-      "size": 348727,
-      "uploadedDate": "2019-02-05T16:02:00.587Z",
-      "width": 2580,
-      "height": 1450
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/daisy/offer/D2_CodeRedemption-340x440-334699afca713a058eb5643da9984c56.jpg",
-      "md5": "334699afca713a058eb5643da9984c56",
-      "size": 75339,
-      "uploadedDate": "2019-02-06T21:22:04.633Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "40ece0e20b224dc69d310b9bb35d8f2a"
-    }
-  ],
   "catalogNs": {
-    "name": "daisy"
-  }
+    "mappings": [
+      {
+        "pageSlug": "drawful-2",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,36 +1,36 @@
 {
+  "title": "Detroit Become Human Press Audience",
   "id": "071884ab226d4211aa9670b208765245",
   "namespace": "columbine",
-  "title": "Detroit Become Human Press Audience",
   "description": "Detroit Become Human Press Audience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "detroit-become-human-press-audience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-06-13T22:50:24.114Z",
-  "lastModifiedDate": "2020-04-29T00:38:42.006Z",
   "effectiveDate": "2019-06-12T19:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-m8v47d762atphw94knus7ezawefpcu",
     "name": "Quantic Dream"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "detroit-become-human-press-audience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "d06994b57f8d4487a39d259b9e88bbb4",
+      "namespace": "columbine"
+    },
+    {
+      "id": "3ebe3a6566804e19bcf7623d499e8190",
+      "namespace": "columbine"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "SupportedPlatforms",
+      "value": "Windows"
+    }
+  ],
   "categories": [
     {
       "path": "games"
@@ -39,23 +39,42 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "SupportedPlatforms",
-      "value": "Windows"
-    }
-  ],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "d06994b57f8d4487a39d259b9e88bbb4"
-    },
-    {
-      "id": "3ebe3a6566804e19bcf7623d499e8190"
-    }
-  ],
   "catalogNs": {
-    "name": "columbine"
-  }
+    "mappings": [
+      {
+        "pageSlug": "detroit-become-human--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "detroit-become-human",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2019-12-12T13:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

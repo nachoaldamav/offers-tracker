@@ -1,36 +1,27 @@
 {
+  "title": "StarfishDevAudience",
   "id": "d2e519516f574d5296623c64ad4f1485",
   "namespace": "starfish",
-  "title": "StarfishDevAudience",
   "description": "StarfishDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "starfishdevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2018-12-12T16:38:15.519Z",
-  "lastModifiedDate": "2020-04-29T00:46:46.197Z",
   "effectiveDate": "2018-12-12T11:38:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
     "name": "Annapurna Interactive"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "starfishdevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "bdfe66a289ef43b0a47e2ddc379bfa64",
+      "namespace": "starfish"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "games"
@@ -39,15 +30,46 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "bdfe66a289ef43b0a47e2ddc379bfa64"
-    }
-  ],
   "catalogNs": {
-    "name": "starfish"
-  }
+    "mappings": [
+      {
+        "pageSlug": "outerwilds--echoes-of-the-eye",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "outerwilds",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "outerwilds--archaeologist-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

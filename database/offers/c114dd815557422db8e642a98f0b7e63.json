@@ -1,49 +1,32 @@
 {
+  "title": "Novice Pass",
   "id": "c114dd815557422db8e642a98f0b7e63",
   "namespace": "b47d3947087147baa8e1665680aefc11",
-  "title": "Novice Pass",
   "description": "Novice Pass",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "novicepass",
-  "offerType": "IN_GAME_PURCHASE",
-  "creationDate": "2023-10-11T10:57:55.503Z",
-  "lastModifiedDate": "2024-03-30T15:49:09.302Z",
   "effectiveDate": "2023-10-19T05:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "AR",
-    "MO",
-    "HK",
-    "TW",
-    "BE",
-    "UY",
-    "IN",
-    "KR",
-    "VN",
-    "CN",
-    "UA",
-    "CR"
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/b47d3947087147baa8e1665680aefc11/toweroffantasy_1200x1600-29a25c15ec7e65da526e8ab77dee6a98"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": "2023-10-19T05:00:00.000Z",
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 999,
   "seller": {
     "id": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
     "name": "Proxima Beta Europe B.V."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "novicepass",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "9d32c4d0335c45708bb21e2f52ed82cd",
+      "namespace": "b47d3947087147baa8e1665680aefc11"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "spthidden"
@@ -55,25 +38,42 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/b47d3947087147baa8e1665680aefc11/toweroffantasy_1200x1600-29a25c15ec7e65da526e8ab77dee6a98",
-      "md5": "29a25c15ec7e65da526e8ab77dee6a98",
-      "size": 588281,
-      "uploadedDate": "2024-03-30T15:49:05.796Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "9d32c4d0335c45708bb21e2f52ed82cd"
-    }
-  ],
   "catalogNs": {
-    "name": "b47d3947087147baa8e1665680aefc11"
-  }
+    "mappings": [
+      {
+        "pageSlug": "tower-of-fantasy",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "tower-of-fantasy--faq",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2023-10-19T05:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": "2023-10-19T05:00:00.000Z",
+  "approximateReleasePlan": null
 }

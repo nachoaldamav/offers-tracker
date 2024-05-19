@@ -1,48 +1,35 @@
 {
+  "title": "Detroit: Become Human QA Access",
   "id": "8ba212740e774e8c8b6b8950a2e3666c",
   "namespace": "columbine",
-  "title": "Detroit: Become Human QA Access",
   "description": "Detroit: Become Human QA Access",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "detroit-become-human-qa-access",
-  "offerType": "OTHERS",
-  "creationDate": "2019-04-03T17:20:18.370Z",
-  "lastModifiedDate": "2020-04-29T00:38:42.006Z",
   "effectiveDate": "2019-04-02T13:13:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR",
-    "CN"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/DETROIT_CODEREDEMPTION-340x440-cb780dc13c0bcb26dde9d6cd21f78aba (1)-340x440-cb780dc13c0bcb26dde9d6cd21f78aba.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/001_DETROIT_ICON-400x400-89235dc9bca813586e778f735e08364e-400x400-89235dc9bca813586e778f735e08364e.png"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-m8v47d762atphw94knus7ezawefpcu",
     "name": "Quantic Dream"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "detroit-become-human-qa-access",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "58e0b4a5a5c24d4cb6ca0fe789499d02",
+      "namespace": "columbine"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -53,32 +40,50 @@
       "value": "Quantic Dream"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/DETROIT_CODEREDEMPTION-340x440-cb780dc13c0bcb26dde9d6cd21f78aba (1)-340x440-cb780dc13c0bcb26dde9d6cd21f78aba.jpg",
-      "md5": "cb780dc13c0bcb26dde9d6cd21f78aba",
-      "size": 78513,
-      "uploadedDate": "2019-04-03T17:19:08.407Z",
-      "width": 340,
-      "height": 440
+      "path": "games"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/undefined/offer/001_DETROIT_ICON-400x400-89235dc9bca813586e778f735e08364e-400x400-89235dc9bca813586e778f735e08364e.png",
-      "md5": "89235dc9bca813586e778f735e08364e",
-      "size": 63882,
-      "uploadedDate": "2019-04-03T17:19:15.253Z",
-      "width": 400,
-      "height": 400
-    }
-  ],
-  "items": [
-    {
-      "id": "58e0b4a5a5c24d4cb6ca0fe789499d02"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "columbine"
-  }
+    "mappings": [
+      {
+        "pageSlug": "detroit-become-human--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "detroit-become-human",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-12-01T18:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

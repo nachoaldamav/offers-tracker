@@ -1,45 +1,26 @@
 {
+  "title": "DevCopenhagenAudience",
   "id": "2694f03c4fc74b62990cc2fd34a005ad",
   "namespace": "0f7039ef44ad4ee18f16f19d96cf2a6b",
-  "title": "DevCopenhagenAudience",
   "description": "DevCopenhagenAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "devcopenhagenaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2020-07-01T18:09:49.925Z",
-  "lastModifiedDate": "2022-02-18T23:45:38.381Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
     "name": "Headup Gmbh"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "devcopenhagenaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "550fdda8a2d14cad9d58003758137eb5",
+      "namespace": "0f7039ef44ad4ee18f16f19d96cf2a6b"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -54,13 +35,62 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "550fdda8a2d14cad9d58003758137eb5"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "0f7039ef44ad4ee18f16f19d96cf2a6b"
-  }
+    "mappings": [
+      {
+        "pageSlug": "the-textorcist",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-textorcist--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-textorcist--the-village-dlc",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-textorcist--the-village-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-textorcist--amen-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

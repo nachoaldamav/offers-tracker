@@ -1,104 +1,54 @@
 {
+  "title": "Gone Home",
   "id": "4912eaae888848759e857df35ed8f756",
   "namespace": "epic",
-  "title": "Gone Home",
   "description": "Gone Home",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "gone-home/home",
-  "urlSlug": "gone-home",
-  "offerType": "OTHERS",
-  "creationDate": "2020-03-14T06:29:50.495Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
   "effectiveDate": "2020-03-26T15:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2020-03-26T15:00:00.000Z",
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_GoneHome_TheFullbrightCompany_S3-1360x766-c3959ec4baf129daced01135bc89b1aa.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_GoneHome_TheFullbrightCompany_S4-510x680-3f3615932db3d3822e5f5da78b2dcd74.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-3nbn496fvhxljkjn7fwgvhaq4znt37",
     "name": "The Fullbright Company"
   },
-  "linkedOfferId": "56b3f851cc664490a9911040da23a611",
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": "gone-home/home",
+  "urlSlug": "gone-home",
+  "url": null,
   "tags": [
     {
       "id": "1216",
-      "name": "Action",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-08-23T05:17:12.937Z",
-      "status": "ACTIVE",
-      "referenceCount": 2167,
-      "comment": null
+      "name": "Action"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
     },
     {
       "id": "1117",
-      "name": "Adventure",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2023-08-23T02:16:39.269Z",
-      "status": "ACTIVE",
-      "referenceCount": 1473,
-      "comment": null
+      "name": "Adventure"
     },
     {
       "id": "1294",
-      "name": "First Person",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:44.596Z",
-      "updated": "2023-08-23T00:14:55.884Z",
-      "status": "ACTIVE",
-      "referenceCount": 481,
-      "comment": null
+      "name": "First Person"
     },
     {
       "id": "10719",
-      "name": "Mac OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX",
-        "macOS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-08-23T05:08:24.605Z",
-      "status": "ACTIVE",
-      "referenceCount": 1146,
-      "comment": null
+      "name": "Mac OS"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -123,32 +73,42 @@
       "value": "56b3f851cc664490a9911040da23a611"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_GoneHome_TheFullbrightCompany_S3-1360x766-c3959ec4baf129daced01135bc89b1aa.jpg",
-      "md5": "c3959ec4baf129daced01135bc89b1aa",
-      "size": 184476,
-      "uploadedDate": "2020-03-14T06:28:49.105Z",
-      "width": 1360,
-      "height": 766
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_GoneHome_TheFullbrightCompany_S4-510x680-3f3615932db3d3822e5f5da78b2dcd74.jpg",
-      "md5": "3f3615932db3d3822e5f5da78b2dcd74",
-      "size": 98870,
-      "uploadedDate": "2020-03-14T06:28:59.301Z",
-      "width": 510,
-      "height": 680
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 359,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 1140,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "7a3de53bf066450d932e2eb9d8a93af8"
+          }
+        ]
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-03-26T15:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": "2020-03-26T15:00:00.000Z",
+  "approximateReleasePlan": null
 }

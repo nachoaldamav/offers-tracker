@@ -1,96 +1,50 @@
 {
+  "title": "BoxR",
   "id": "d8e2c7aa1c40435cb7fd42292c6f6fd0",
   "namespace": "149c9c27b21f41d59b124443042dbfb4",
-  "title": "BoxR",
   "description": "Jump on the top of boxes without letting the sides hit you, simple... right?",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "8e964894d3ba4f4b8582ce4590fa2aa6",
-  "offerType": "BASE_GAME",
-  "creationDate": "2023-04-03T01:25:11.841Z",
-  "lastModifiedDate": "2023-04-12T21:32:51.192Z",
   "effectiveDate": "2023-04-12T22:00:00.000Z",
-  "pcReleaseDate": "2023-04-19T08:00:00.000Z",
-  "publisherDisplayName": "Bartimus",
-  "countriesBlacklist": [
-    "BR",
-    "RU",
-    "AU",
-    "KR"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2023-04-11T23:00:00.000Z",
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "boxr-62411f"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/1d9a4913a9de4febbe838de9660931b1/boxr-h2aj9.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/1d9a4913a9de4febbe838de9660931b1/boxr-1kwd5.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/spt-assets/1d9a4913a9de4febbe838de9660931b1/boxr-1kwd5.png"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "boxr-62411f"
-    }
-  ],
+  "currentPrice": 199,
   "seller": {
     "id": "o-6h8k7p7uhtyn6snee9tz5ladzez3tg",
     "name": "Bartimus"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games/edition/base"
-    },
-    {
-      "path": "games/edition"
-    },
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "8e964894d3ba4f4b8582ce4590fa2aa6",
+  "url": null,
   "tags": [
     {
       "id": "1336",
-      "name": "Action-Adventure",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:05.439Z",
-      "updated": "2023-08-23T03:24:56.304Z",
-      "status": "ACTIVE",
-      "referenceCount": 519,
-      "comment": null
+      "name": "Action-Adventure"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
     },
     {
       "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-08-23T03:24:56.337Z",
-      "status": "ACTIVE",
-      "referenceCount": 2499,
-      "comment": null
+      "name": "Controller Support"
+    }
+  ],
+  "items": [
+    {
+      "id": "abf835c22e2941d48f07ca5412ba53f8",
+      "namespace": "149c9c27b21f41d59b124443042dbfb4"
     }
   ],
   "customAttributes": [
@@ -111,41 +65,54 @@
       "value": "false"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/1d9a4913a9de4febbe838de9660931b1/boxr-h2aj9.png",
-      "md5": "bb017c0673dd71a1e08e87d1807aa03f",
-      "size": 37531,
-      "uploadedDate": "2023-04-05T01:56:16.084Z",
-      "width": 2560,
-      "height": 1440
+      "path": "games/edition/base"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/1d9a4913a9de4febbe838de9660931b1/boxr-1kwd5.png",
-      "md5": "8179fe7ee0430fd01a0c50f0c2013362",
-      "size": 30310,
-      "uploadedDate": "2023-04-05T01:57:05.661Z",
-      "width": 1200,
-      "height": 1600
+      "path": "games/edition"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/1d9a4913a9de4febbe838de9660931b1/boxr-1kwd5.png",
-      "md5": "8179fe7ee0430fd01a0c50f0c2013362",
-      "size": 30310,
-      "uploadedDate": "2023-04-05T01:57:05.661Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "abf835c22e2941d48f07ca5412ba53f8"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "149c9c27b21f41d59b124443042dbfb4"
-  }
+    "mappings": [
+      {
+        "pageSlug": "boxr-62411f",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "boxr-62411f",
+      "pageType": "productHome"
+    }
+  ],
+  "developerDisplayName": "Bartimus",
+  "publisherDisplayName": "Bartimus",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 199,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2023-04-12T22:00:00.000Z",
+  "pcReleaseDate": "2023-04-19T08:00:00.000Z",
+  "viewableDate": "2023-04-11T23:00:00.000Z",
+  "approximateReleasePlan": null
 }

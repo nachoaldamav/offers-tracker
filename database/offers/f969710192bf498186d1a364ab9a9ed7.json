@@ -1,59 +1,26 @@
 {
+  "title": "Test Currency Pack",
   "id": "f969710192bf498186d1a364ab9a9ed7",
   "namespace": "azalea",
-  "title": "Test Currency Pack",
   "description": "Test Currency Pack",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "test-currency-pack",
-  "offerType": "UNLOCKABLE",
-  "creationDate": "2019-08-29T22:25:34.470Z",
-  "lastModifiedDate": "2021-04-08T16:05:28.385Z",
   "effectiveDate": "2050-08-29T18:23:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR",
-    "CN"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 10,
   "seller": {
     "id": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
     "name": "YAGER"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "test-currency-pack",
+  "url": null,
   "tags": [
+    null
+  ],
+  "items": [
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "id": "c663705216c145ed9a65ad10d4023857",
+      "namespace": "azalea"
     }
   ],
   "customAttributes": [
@@ -62,13 +29,102 @@
       "value": "KR,CN"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "c663705216c145ed9a65ad10d4023857"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "azalea"
-  }
+    "mappings": [
+      {
+        "pageSlug": "thecycle--5000-aurum-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecycle--fortuna-survivor",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecycle--2800-aurum-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecycle--13500-aurum-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecycle--1000-aurum-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecycle--elite-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecycle--fortuna-veteran",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecyle--howler-tamer-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecycle--specialist-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecycle--initiate-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecycle--authority-peacekeeper-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecycle--vivid-party-style-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecycle--professional-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecyle--fresh-fortunes-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecycle--prime-time-bundle",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 10,
+      "originalPrice": 10,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

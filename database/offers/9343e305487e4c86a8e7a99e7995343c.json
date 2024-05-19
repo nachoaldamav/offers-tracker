@@ -1,56 +1,38 @@
 {
+  "title": "Paranoia Happiness is Mandatory Deluxe Pack",
   "id": "9343e305487e4c86a8e7a99e7995343c",
   "namespace": "52613245bcd34a8eb99078f423620a4d",
-  "title": "Paranoia Happiness is Mandatory Deluxe Pack",
   "description": "Paranoia Happiness is Mandatory Deluxe Pack",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "paranoia-happiness-is-mandatory-deluxe-pack",
-  "offerType": "UNLOCKABLE",
-  "creationDate": "2019-09-19T21:42:09.657Z",
-  "lastModifiedDate": "2020-01-24T18:43:06.458Z",
   "effectiveDate": "2099-09-20T10:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Paranoia_Store-Library-Promo_2560x1440_with_logo-2560x1440-1aa1af8ea054319ff32bb4ead1508d4a.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Paranoia_Store-Library-Promo_2560x1440_with_logo-2560x1440-1aa1af8ea054319ff32bb4ead1508d4a.jpg"
+    }
+  ],
+  "currentPrice": 999,
   "seller": {
     "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
     "name": "Nacon"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "paranoia-happiness-is-mandatory-deluxe-pack",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "b03e87d8bdfd4e9280ba0293f7b2b798",
+      "namespace": "52613245bcd34a8eb99078f423620a4d"
     }
   ],
   "customAttributes": [
@@ -67,32 +49,46 @@
       "value": "Black Shamrock & Cyanide"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Paranoia_Store-Library-Promo_2560x1440_with_logo-2560x1440-1aa1af8ea054319ff32bb4ead1508d4a.jpg",
-      "md5": "1aa1af8ea054319ff32bb4ead1508d4a",
-      "size": 989598,
-      "uploadedDate": "2019-09-19T21:40:36.410Z",
-      "width": 2560,
-      "height": 1440
+      "path": "games"
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Paranoia_Store-Library-Promo_2560x1440_with_logo-2560x1440-1aa1af8ea054319ff32bb4ead1508d4a.jpg",
-      "md5": "1aa1af8ea054319ff32bb4ead1508d4a",
-      "size": 989598,
-      "uploadedDate": "2019-09-19T21:40:48.094Z",
-      "width": 2560,
-      "height": 1440
-    }
-  ],
-  "items": [
-    {
-      "id": "b03e87d8bdfd4e9280ba0293f7b2b798"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "52613245bcd34a8eb99078f423620a4d"
-  }
+    "mappings": [
+      {
+        "pageSlug": "paranoia",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": false,
+  "releaseDate": "2099-11-14T15:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

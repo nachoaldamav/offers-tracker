@@ -1,49 +1,26 @@
 {
+  "title": "PheasantDevAudience",
   "id": "a69036e75e5445db980d07a2cf7a2e5c",
   "namespace": "4b35838425c74992ad42e1276b2161ca",
-  "title": "PheasantDevAudience",
   "description": "PheasantDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "pheasantdevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-06-08T17:13:02.718Z",
-  "lastModifiedDate": "2021-04-22T00:50:03.347Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY",
-    "CN"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "pheasantdevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "e8921a38461e4fc59670d8181f1bd59e",
+      "namespace": "4b35838425c74992ad42e1276b2161ca"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -54,13 +31,78 @@
       "value": "Ubisoft"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "e8921a38461e4fc59670d8181f1bd59e"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "4b35838425c74992ad42e1276b2161ca"
-  }
+    "mappings": [
+      {
+        "pageSlug": "immortals-fenyx-rising--myths-of-the-eastern-realm",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "immortals-fenyx-rising--ulimate-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "immortals-fenyx-rising--season-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "immortals-fenyx-rising--the-lost-gods",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "immortals-fenyx-rising--a-new-god",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "immortals-fenyx-rising--starter-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "immortals-fenyx-rising",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "immortals-fenyx-rising--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "immortals-fenyx-rising--gold-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

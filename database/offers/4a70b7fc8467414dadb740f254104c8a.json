@@ -1,66 +1,46 @@
 {
+  "title": "20 GXP [Karos Classic]",
   "id": "4a70b7fc8467414dadb740f254104c8a",
   "namespace": "0aab4b93b04d4b23bd8ea803d0a481d7",
-  "title": "20 GXP [Karos Classic]",
   "description": "GXP - coins that you can spend in the GameXP game store.",
-  "longDescription": "<!--textBlock-->\n<!--text-->\nBuy 20 GXP the in-game currency that can be spent in Karos. You can purchase items!\n",
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "20-gxp-karos-classic",
-  "offerType": "VIRTUAL_CURRENCY",
-  "creationDate": "2024-01-16T10:57:37.119Z",
-  "lastModifiedDate": "2024-02-11T02:30:43.182Z",
   "effectiveDate": "2024-02-11T05:00:00.000Z",
-  "pcReleaseDate": "2014-12-23T21:00:00.000Z",
-  "publisherDisplayName": "GameXP.com",
-  "countriesBlacklist": [
-    "KR"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": "2024-02-06T08:45:26.000Z",
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "karos-classic-20-gxp-karos-classic-0f613b"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/94fe45e50ae149528020aee8c795b171/karos-classic-yddtm.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/94fe45e50ae149528020aee8c795b171/karos-classic-3vhhn.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/spt-assets/94fe45e50ae149528020aee8c795b171/karos-classic-3vhhn.jpg"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/94fe45e50ae149528020aee8c795b171/karos-classic-1bc1i.jpg"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "karos-classic-20-gxp-karos-classic-0f613b"
-    }
-  ],
+  "currentPrice": 999,
   "seller": {
     "id": "o-lwwmk63umymke6fewq6dhrt4a2s9rf",
     "name": "Fun Factory LLC"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "addons"
-    },
-    {
-      "path": "addons/consumable"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "20-gxp-karos-classic",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "36c37e4a0cfa41a8b1dc5e735ce31170",
+      "namespace": "0aab4b93b04d4b23bd8ea803d0a481d7"
     }
   ],
   "customAttributes": [
@@ -81,50 +61,79 @@
       "value": "false"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/94fe45e50ae149528020aee8c795b171/karos-classic-yddtm.jpg",
-      "md5": "ed3b1a7db02a21d7afeeeb59c98bc782",
-      "size": 860111,
-      "uploadedDate": "2024-01-16T12:30:45.557Z",
-      "width": 2560,
-      "height": 1440
+      "path": "addons"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/94fe45e50ae149528020aee8c795b171/karos-classic-3vhhn.jpg",
-      "md5": "6cded0f930546200802ece99cee309e0",
-      "size": 576256,
-      "uploadedDate": "2024-01-16T12:30:19.160Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/94fe45e50ae149528020aee8c795b171/karos-classic-3vhhn.jpg",
-      "md5": "6cded0f930546200802ece99cee309e0",
-      "size": 576256,
-      "uploadedDate": "2024-01-16T12:30:19.160Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/94fe45e50ae149528020aee8c795b171/karos-classic-1bc1i.jpg",
-      "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 558242,
-      "uploadedDate": "2024-01-16T12:43:47.573Z",
-      "width": 1920,
-      "height": 1080
-    }
-  ],
-  "items": [
-    {
-      "id": "36c37e4a0cfa41a8b1dc5e735ce31170"
+      "path": "addons/consumable"
     }
   ],
   "catalogNs": {
-    "name": "0aab4b93b04d4b23bd8ea803d0a481d7"
-  }
+    "mappings": [
+      {
+        "pageSlug": "karos-classic-faq-7510b1",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "karos-classic-250-gxp-karos-classic-298bb0",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "karos-classic-20-gxp-karos-classic-0f613b",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "karos-classic-500-gxp-karos-classic-323e19",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "karos-classic-100-gxp-karos-classic-20a36a",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "karos-classic-50-gxp-karos-classic-16b107",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "karos-classic-10-gxp-karos-classic-f8df0e",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "karos-classic-93c08d",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "karos-classic-20-gxp-karos-classic-0f613b",
+      "pageType": "offer"
+    }
+  ],
+  "developerDisplayName": "GameXP.com, Galaxy Gate",
+  "publisherDisplayName": "GameXP.com",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2024-02-11T05:00:00.000Z",
+  "pcReleaseDate": "2014-12-23T21:00:00.000Z",
+  "viewableDate": "2024-02-06T08:45:26.000Z",
+  "approximateReleasePlan": null
 }

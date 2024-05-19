@@ -1,38 +1,36 @@
 {
+  "title": "Test Pack 1",
   "id": "51e9249ad6bd49f793495cc57dd41ace",
   "namespace": "azalea",
-  "title": "Test Pack 1",
   "description": "Test Pack 1",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "starter-pack",
-  "offerType": "OTHERS",
-  "creationDate": "2019-08-29T21:48:59.300Z",
-  "lastModifiedDate": "2021-04-08T16:05:28.115Z",
   "effectiveDate": "2050-08-29T17:46:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 999,
   "seller": {
     "id": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
     "name": "YAGER"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "starter-pack",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "80318b116ba14200ad67025376d2ed15",
+      "namespace": "azalea"
+    },
+    {
+      "id": "59ba2394f33a4861a7773d7ebc8b5fe4",
+      "namespace": "azalea"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    }
+  ],
   "categories": [
     {
       "path": "games"
@@ -41,23 +39,94 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "KR"
-    }
-  ],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "80318b116ba14200ad67025376d2ed15"
-    },
-    {
-      "id": "59ba2394f33a4861a7773d7ebc8b5fe4"
-    }
-  ],
   "catalogNs": {
-    "name": "azalea"
-  }
+    "mappings": [
+      {
+        "pageSlug": "thecycle--5000-aurum-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecycle--fortuna-survivor",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecycle--2800-aurum-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecycle--13500-aurum-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecycle--1000-aurum-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecycle--elite-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecycle--fortuna-veteran",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecyle--howler-tamer-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecycle--specialist-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecycle--initiate-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecycle--authority-peacekeeper-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecycle--vivid-party-style-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecycle--professional-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecyle--fresh-fortunes-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "thecycle--prime-time-bundle",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2050-08-29T17:46:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,45 +1,35 @@
 {
+  "title": "MarigoldDevAudience",
   "id": "86268a1339994714831933bb84f9ed1e",
   "namespace": "13bb5776b9e1424d84ce42d9ba61c0ca",
-  "title": "MarigoldDevAudience",
   "description": "MarigoldDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "marigolddevaudience",
-  "offerType": "BASE_GAME",
-  "creationDate": "2019-06-14T16:20:24.917Z",
-  "lastModifiedDate": "2019-09-27T23:50:01.610Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/13bb5776b9e1424d84ce42d9ba61c0ca/offer/CodeRedemption_INSIDE-340x440-ff7811f23232dbbd8aaadb4d8d067b83.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/13bb5776b9e1424d84ce42d9ba61c0ca/offer/CodeRedemption_INSIDE-340x440-ff7811f23232dbbd8aaadb4d8d067b83.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-t88sw9ly7ajm3wz7tll53xt3cmypx8",
     "name": "Playdead"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "marigolddevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "b3d1cbb2079b48f2985426734f35eb6b",
+      "namespace": "13bb5776b9e1424d84ce42d9ba61c0ca"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -50,32 +40,46 @@
       "value": "Playdead"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/13bb5776b9e1424d84ce42d9ba61c0ca/offer/CodeRedemption_INSIDE-340x440-ff7811f23232dbbd8aaadb4d8d067b83.jpg",
-      "md5": "ff7811f23232dbbd8aaadb4d8d067b83",
-      "size": 67777,
-      "uploadedDate": "2019-08-15T13:48:28.062Z",
-      "width": 340,
-      "height": 440
+      "path": "games"
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/13bb5776b9e1424d84ce42d9ba61c0ca/offer/CodeRedemption_INSIDE-340x440-ff7811f23232dbbd8aaadb4d8d067b83.jpg",
-      "md5": "ff7811f23232dbbd8aaadb4d8d067b83",
-      "size": 67777,
-      "uploadedDate": "2019-08-15T13:48:36.373Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "b3d1cbb2079b48f2985426734f35eb6b"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "13bb5776b9e1424d84ce42d9ba61c0ca"
-  }
+    "mappings": [
+      {
+        "pageSlug": "inside",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

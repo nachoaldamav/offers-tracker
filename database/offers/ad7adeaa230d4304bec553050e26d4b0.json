@@ -1,39 +1,49 @@
 {
+  "title": "Genesis Alpha One",
   "id": "ad7adeaa230d4304bec553050e26d4b0",
   "namespace": "puma",
-  "title": "Genesis Alpha One",
   "description": "Genesis Alpha One",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "genesis-alpha-one-01",
-  "offerType": "OTHERS",
-  "creationDate": "2019-01-28T16:52:03.358Z",
-  "lastModifiedDate": "2024-03-28T15:53:45.843Z",
   "effectiveDate": "2019-01-29T04:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/puma/offer/Diesel_productv2_genesis-alpha-one_home_EGS_RadiationBlue_GenesisAlphaOne_S7-1360x766-1a02acd24e5a53d0bd1c3b95fa733d6f8c4847ea-1360x766-444c641053f37b9e3aac1cbd6a93fdf3.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/puma/offer/Diesel_productv2_genesis-alpha-one_home_EGS_RadiationBlue_GenesisAlphaOne_S4-510x680-90391006fac41c8fba1d0fab7ad27ed5d619caee-510x680-070cfd3d72d0026e9ffff536f9d04b9d.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/genesis_alpha_one_wide-900x508-cff8a8996968f56b38cdb6d2e15ce774.jpg"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 2999,
   "seller": {
     "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
     "name": "Team17 Digital Ltd"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "genesis-alpha-one-01",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "1c8aef66d1cc479b80fb2a268c87f1bf",
+      "namespace": "puma"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "Team17"
+    }
+  ],
   "categories": [
     {
       "path": "spthidden"
@@ -48,52 +58,38 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "[]"
-    },
-    {
-      "key": "developerName",
-      "value": "Team17"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/puma/offer/Diesel_productv2_genesis-alpha-one_home_EGS_RadiationBlue_GenesisAlphaOne_S7-1360x766-1a02acd24e5a53d0bd1c3b95fa733d6f8c4847ea-1360x766-444c641053f37b9e3aac1cbd6a93fdf3.jpg",
-      "md5": "444c641053f37b9e3aac1cbd6a93fdf3",
-      "size": 130868,
-      "uploadedDate": "2020-02-25T14:17:08.125Z",
-      "width": 1360,
-      "height": 766
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/puma/offer/Diesel_productv2_genesis-alpha-one_home_EGS_RadiationBlue_GenesisAlphaOne_S4-510x680-90391006fac41c8fba1d0fab7ad27ed5d619caee-510x680-070cfd3d72d0026e9ffff536f9d04b9d.jpg",
-      "md5": "070cfd3d72d0026e9ffff536f9d04b9d",
-      "size": 127279,
-      "uploadedDate": "2020-02-25T14:17:16.458Z",
-      "width": 510,
-      "height": 680
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/genesis_alpha_one_wide-900x508-cff8a8996968f56b38cdb6d2e15ce774.jpg",
-      "md5": "cff8a8996968f56b38cdb6d2e15ce774",
-      "size": 295534,
-      "uploadedDate": "2020-02-11T09:41:44.790Z",
-      "width": 900,
-      "height": 508
-    }
-  ],
-  "items": [
-    {
-      "id": "1c8aef66d1cc479b80fb2a268c87f1bf"
-    }
-  ],
   "catalogNs": {
-    "name": "puma"
-  }
+    "mappings": [
+      {
+        "pageSlug": "genesis-alpha-one",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2019-01-29T04:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

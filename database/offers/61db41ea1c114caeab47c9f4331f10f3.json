@@ -1,62 +1,77 @@
 {
+  "title": "Oneiric Shard ×3280",
   "id": "61db41ea1c114caeab47c9f4331f10f3",
   "namespace": "a2dcbb9e34204bda9da8415f97b3f4ea",
-  "title": "Oneiric Shard ×3280",
   "description": "Oneiric Shard ×3280",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "oneiricshard3280",
-  "offerType": "IN_GAME_PURCHASE",
-  "creationDate": "2023-07-18T18:47:01.926Z",
-  "lastModifiedDate": "2023-10-12T08:34:21.613Z",
   "effectiveDate": "2023-07-14T08:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": "Mihoyo",
-  "countriesBlacklist": [
-    "CN"
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/a2dcbb9e34204bda9da8415f97b3f4ea/32804_1200x1600-ada2fa7e6f801375c4f65309a6b7a10b"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 4999,
   "seller": {
     "id": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
     "name": "Cognosphere"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "oneiricshard3280",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "6d45c503d62544c8bedbc70ad7211baa",
+      "namespace": "a2dcbb9e34204bda9da8415f97b3f4ea"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/a2dcbb9e34204bda9da8415f97b3f4ea/32804_1200x1600-ada2fa7e6f801375c4f65309a6b7a10b",
-      "md5": "ada2fa7e6f801375c4f65309a6b7a10b",
-      "size": 358805,
-      "uploadedDate": "2023-10-12T08:26:39.683Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "6d45c503d62544c8bedbc70ad7211baa"
-    }
-  ],
   "catalogNs": {
-    "name": "a2dcbb9e34204bda9da8415f97b3f4ea"
-  }
+    "mappings": [
+      {
+        "pageSlug": "honkai-star-rail",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "honkai-star-rail--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "honkai-star-rail--epic-mega-sale-event-bundle",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": "Mihoyo",
+  "publisherDisplayName": "Mihoyo",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

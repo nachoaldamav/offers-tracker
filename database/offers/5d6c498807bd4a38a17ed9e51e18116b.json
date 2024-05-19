@@ -1,98 +1,66 @@
 {
+  "title": "Maneater Pre-Purchase",
   "id": "5d6c498807bd4a38a17ed9e51e18116b",
   "namespace": "turtle",
-  "title": "Maneater Pre-Purchase",
   "description": "Maneater Pre-Purchase",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "maneater",
-  "urlSlug": "maneater-pre-purchase",
-  "offerType": "OTHERS",
-  "creationDate": "2019-07-25T18:10:33.802Z",
-  "lastModifiedDate": "2024-04-10T17:43:12.625Z",
   "effectiveDate": "2019-07-25T11:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/turtle/offer/Maneater_EGS_Landscape_2560x1440-2560x1440-cf27e86a8daeeb2915a49a8b4c954dbd.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/turtle/offer/ManEater_860x1148V2-860x1148-48b03ebe57bf02e8d7c8f95e1407be5d.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/turtle/offer/ManEater_2560x1440-2560x1440-f5766a42fd82257bf5a8ea93ab0ead7d.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/turtle/Maneater_EGS_1200x1600_1200x1600-64753fed67a14f055ee4e7150fe34daf_1200x1600-64753fed67a14f055ee4e7150fe34daf"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/turtle/Maneater_EGS_Landscape_2560x1440-2560x1440-cf27e86a8daeeb2915a49a8b4c954dbd_2560x1440-73fc4959c67434d944d8b9cdabe3ffdf"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/turtle/Maneater_EGS_1200x1600_1200x1600-64753fed67a14f055ee4e7150fe34daf_1200x1600-64753fed67a14f055ee4e7150fe34daf"
+    }
+  ],
+  "currentPrice": 3999,
   "seller": {
     "id": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
     "name": "Tripwire Interactive"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "spthidden"
-    },
-    {
-      "path": "games"
-    },
-    {
-      "path": "spthidden/edition"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": "maneater",
+  "urlSlug": "maneater-pre-purchase",
+  "url": null,
   "tags": [
     {
       "id": "1216",
-      "name": "Action",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-08-23T05:17:12.937Z",
-      "status": "ACTIVE",
-      "referenceCount": 2167,
-      "comment": null
+      "name": "Action"
     },
     {
       "id": "1367",
-      "name": "RPG",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2023-08-23T03:10:10.001Z",
-      "status": "ACTIVE",
-      "referenceCount": 1144,
-      "comment": null
+      "name": "RPG"
     },
     {
       "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-23T05:17:12.951Z",
-      "status": "ACTIVE",
-      "referenceCount": 5001,
-      "comment": null
+      "name": "Single Player"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "a750519ac62d4c469185f7c2bc5670a1",
+      "namespace": "turtle"
     }
   ],
   "customAttributes": [
@@ -113,68 +81,60 @@
       "value": "maneater"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/turtle/offer/Maneater_EGS_Landscape_2560x1440-2560x1440-cf27e86a8daeeb2915a49a8b4c954dbd.png",
-      "md5": "cf27e86a8daeeb2915a49a8b4c954dbd",
-      "size": 6665841,
-      "uploadedDate": "2020-03-11T22:02:34.879Z",
-      "width": 2560,
-      "height": 1440
+      "path": "spthidden"
     },
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/turtle/offer/ManEater_860x1148V2-860x1148-48b03ebe57bf02e8d7c8f95e1407be5d.jpg",
-      "md5": "48b03ebe57bf02e8d7c8f95e1407be5d",
-      "size": 460563,
-      "uploadedDate": "2020-05-07T20:01:03.391Z",
-      "width": 860,
-      "height": 1148
+      "path": "games"
     },
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/turtle/offer/ManEater_2560x1440-2560x1440-f5766a42fd82257bf5a8ea93ab0ead7d.jpg",
-      "md5": "f5766a42fd82257bf5a8ea93ab0ead7d",
-      "size": 3812232,
-      "uploadedDate": "2020-05-07T20:01:17.009Z",
-      "width": 2560,
-      "height": 1440
+      "path": "spthidden/edition"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/turtle/Maneater_EGS_1200x1600_1200x1600-64753fed67a14f055ee4e7150fe34daf_1200x1600-64753fed67a14f055ee4e7150fe34daf",
-      "md5": "64753fed67a14f055ee4e7150fe34daf",
-      "size": 830357,
-      "uploadedDate": "2024-03-28T20:13:12.344Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/turtle/Maneater_EGS_Landscape_2560x1440-2560x1440-cf27e86a8daeeb2915a49a8b4c954dbd_2560x1440-73fc4959c67434d944d8b9cdabe3ffdf",
-      "md5": "73fc4959c67434d944d8b9cdabe3ffdf",
-      "size": 1465481,
-      "uploadedDate": "2024-03-28T20:13:03.507Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/turtle/Maneater_EGS_1200x1600_1200x1600-64753fed67a14f055ee4e7150fe34daf_1200x1600-64753fed67a14f055ee4e7150fe34daf",
-      "md5": "64753fed67a14f055ee4e7150fe34daf",
-      "size": 830357,
-      "uploadedDate": "2024-03-28T20:13:00.653Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "a750519ac62d4c469185f7c2bc5670a1"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "turtle"
-  }
+    "mappings": [
+      {
+        "pageSlug": "maneater",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "maneater--apex-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "maneater--truth-quest",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": true,
+  "releaseDate": "2020-05-22T09:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

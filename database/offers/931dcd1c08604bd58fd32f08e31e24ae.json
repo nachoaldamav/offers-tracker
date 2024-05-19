@@ -1,36 +1,32 @@
 {
+  "title": "Standard 2020 Bundle Audience",
   "id": "931dcd1c08604bd58fd32f08e31e24ae",
   "namespace": "5fdcc0dc67294af3be740f362bd976fd",
-  "title": "Standard 2020 Bundle Audience",
   "description": "Standard 2020 Bundle Audience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "standard-2020-bundle-audience",
-  "offerType": "DLC",
-  "creationDate": "2019-11-06T01:59:19.613Z",
-  "lastModifiedDate": "2023-08-03T01:02:39.680Z",
   "effectiveDate": "2099-08-05T15:00:00.000Z",
-  "pcReleaseDate": "2099-08-05T15:00:00.000Z",
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 999,
   "seller": {
     "id": "o-xlb74ml56wsa5dcfcgrpvu4ywndlmm",
     "name": "Wizards of the Coast"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "standard-2020-bundle-audience",
+  "url": null,
+  "tags": [
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "9e5e0f034e4d4403bb2eb9c55c9a162e",
+      "namespace": "5fdcc0dc67294af3be740f362bd976fd"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "spthidden"
@@ -45,28 +41,38 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
-    }
-  ],
-  "customAttributes": [],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "9e5e0f034e4d4403bb2eb9c55c9a162e"
-    }
-  ],
   "catalogNs": {
-    "name": "5fdcc0dc67294af3be740f362bd976fd"
-  }
+    "mappings": [
+      {
+        "pageSlug": "mtg-arena",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-08-05T15:00:00.000Z",
+  "pcReleaseDate": "2099-08-05T15:00:00.000Z",
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

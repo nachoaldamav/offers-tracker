@@ -1,82 +1,58 @@
 {
+  "title": "Lizard Slayer",
   "id": "bb09d785bd084b3cb606343b9b47ad17",
   "namespace": "c41d2880cc784e3ab5744177cf90a603",
-  "title": "Lizard Slayer",
   "description": "Evil anthropomorphic lizards have attacked your lands. You need to solve this problem. Choose a character and go slash lizards!",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "b9923abdd70e42e089903b3a17a55b5e",
-  "offerType": "BASE_GAME",
-  "creationDate": "2024-05-10T23:48:38.812Z",
-  "lastModifiedDate": "2024-05-10T23:48:38.812Z",
   "effectiveDate": "2024-05-14T05:00:00.000Z",
-  "pcReleaseDate": "2024-05-14T05:00:00.000Z",
-  "publisherDisplayName": "Astra Playroom",
-  "countriesBlacklist": [
-    "KR"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2024-05-10T23:48:19.799Z",
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "lizard-slayer-5c25ba"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/9ca6b01bd10b43aeb45d094143ca280a/lizard-slayer-1i3dv.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/9ca6b01bd10b43aeb45d094143ca280a/lizard-slayer-1y44v.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/spt-assets/9ca6b01bd10b43aeb45d094143ca280a/lizard-slayer-1y44v.jpg"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "lizard-slayer-5c25ba"
-    }
-  ],
+  "currentPrice": 99,
   "seller": {
     "id": "o-xybrw9pfw3ecdxu37xkwadtv6vjmcv",
     "name": "Astra Studio"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games/edition/base"
-    },
-    {
-      "path": "games/edition"
-    },
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "b9923abdd70e42e089903b3a17a55b5e",
+  "url": null,
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
     {
       "id": "1287",
-      "name": "Fantasy",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:41.164Z",
-      "updated": "2023-08-23T02:59:53.929Z",
-      "status": "ACTIVE",
-      "referenceCount": 95,
-      "comment": null
+      "name": "Fantasy"
     },
     {
       "id": "1367",
-      "name": "RPG",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2023-08-23T03:10:10.001Z",
-      "status": "ACTIVE",
-      "referenceCount": 1144,
-      "comment": null
+      "name": "RPG"
+    },
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "1fd94ceabf344fda92cf5ad89b044781",
+      "namespace": "c41d2880cc784e3ab5744177cf90a603"
     }
   ],
   "customAttributes": [
@@ -101,41 +77,58 @@
       "value": "false"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/9ca6b01bd10b43aeb45d094143ca280a/lizard-slayer-1i3dv.jpg",
-      "md5": "359cff1a407d2f5a002475a2d9030755",
-      "size": 1079680,
-      "uploadedDate": "2024-05-07T19:09:24.155Z",
-      "width": 2560,
-      "height": 1440
+      "path": "games/edition/base"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/9ca6b01bd10b43aeb45d094143ca280a/lizard-slayer-1y44v.jpg",
-      "md5": "bf6c25c8a94198bf0ea9e444b225c457",
-      "size": 672570,
-      "uploadedDate": "2024-05-07T19:09:27.637Z",
-      "width": 1200,
-      "height": 1600
+      "path": "games/edition"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/9ca6b01bd10b43aeb45d094143ca280a/lizard-slayer-1y44v.jpg",
-      "md5": "bf6c25c8a94198bf0ea9e444b225c457",
-      "size": 672570,
-      "uploadedDate": "2024-05-07T19:09:27.637Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "1fd94ceabf344fda92cf5ad89b044781"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "c41d2880cc784e3ab5744177cf90a603"
-  }
+    "mappings": [
+      {
+        "pageSlug": "lizard-slayer-5c25ba",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "lizard-slayer-5c25ba",
+      "pageType": "productHome"
+    }
+  ],
+  "developerDisplayName": "Astra Playroom",
+  "publisherDisplayName": "Astra Playroom",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 59,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 40,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "dc9782b10bd64896be2128f6d394fd2c"
+          }
+        ]
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2024-05-14T05:00:00.000Z",
+  "pcReleaseDate": "2024-05-14T05:00:00.000Z",
+  "viewableDate": "2024-05-10T23:48:19.799Z",
+  "approximateReleasePlan": null
 }

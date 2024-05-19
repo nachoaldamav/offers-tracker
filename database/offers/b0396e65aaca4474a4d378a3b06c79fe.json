@@ -1,38 +1,50 @@
 {
+  "title": "Gnostic Chorus",
   "id": "b0396e65aaca4474a4d378a3b06c79fe",
   "namespace": "879b0d8776ab46a59a129983ba78f0ce",
-  "title": "Gnostic Chorus",
   "description": "Gnostic Chorus\n",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "dlc07",
-  "offerType": "VIRTUAL_CURRENCY",
-  "creationDate": "2021-06-22T04:58:23.593Z",
-  "lastModifiedDate": "2023-08-02T23:30:35.567Z",
   "effectiveDate": "2021-11-18T05:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": "Cognosphere",
-  "countriesBlacklist": [
-    "CN"
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/879b0d8776ab46a59a129983ba78f0ce/DLC 007-Gnostic Chorus-2_1200x1600-98dd3c8b5b4ca7bfe827262d72dcb499"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/879b0d8776ab46a59a129983ba78f0ce/DLC 007-Gnostic Chorus-2_1200x1600-98dd3c8b5b4ca7bfe827262d72dcb499"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/879b0d8776ab46a59a129983ba78f0ce/DLC 007-Gnostic Chorus-1_2560x1440-95039e441dcf8ad47714a94e2178934e"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 1999,
   "seller": {
     "id": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
     "name": "Cognosphere"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "dlc07",
+  "url": null,
+  "tags": [
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "8baa8c10f4524c30afd290eb65226e35",
+      "namespace": "879b0d8776ab46a59a129983ba78f0ce"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "IOS"
+    }
+  ],
   "categories": [
     {
       "path": "spthidden/consumable"
@@ -44,61 +56,46 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "IOS"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/879b0d8776ab46a59a129983ba78f0ce/DLC 007-Gnostic Chorus-2_1200x1600-98dd3c8b5b4ca7bfe827262d72dcb499",
-      "md5": "98dd3c8b5b4ca7bfe827262d72dcb499",
-      "size": 797707,
-      "uploadedDate": "2021-11-08T18:37:27.511Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/879b0d8776ab46a59a129983ba78f0ce/DLC 007-Gnostic Chorus-2_1200x1600-98dd3c8b5b4ca7bfe827262d72dcb499",
-      "md5": "98dd3c8b5b4ca7bfe827262d72dcb499",
-      "size": 797707,
-      "uploadedDate": "2021-11-08T18:37:48.135Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/879b0d8776ab46a59a129983ba78f0ce/DLC 007-Gnostic Chorus-1_2560x1440-95039e441dcf8ad47714a94e2178934e",
-      "md5": "95039e441dcf8ad47714a94e2178934e",
-      "size": 942124,
-      "uploadedDate": "2021-11-08T18:37:54.495Z",
-      "width": 2560,
-      "height": 1440
-    }
-  ],
-  "items": [
-    {
-      "id": "8baa8c10f4524c30afd290eb65226e35"
-    }
-  ],
   "catalogNs": {
-    "name": "879b0d8776ab46a59a129983ba78f0ce"
-  }
+    "mappings": [
+      {
+        "pageSlug": "genshin-impact",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "genshin-impact--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "genshin-impact--mega-sale-bundle",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": "miHoYo Limited  ",
+  "publisherDisplayName": "Cognosphere",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2021-11-18T05:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

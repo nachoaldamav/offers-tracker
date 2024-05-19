@@ -1,91 +1,54 @@
 {
+  "title": "Griftlands",
   "id": "d2aee293beac4aa09d34affec5e9dc1b",
   "namespace": "epic",
-  "title": "Griftlands",
   "description": "Griftlands",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "griftlands/home",
-  "urlSlug": "griftlands",
-  "offerType": "OTHERS",
-  "creationDate": "2019-06-07T14:49:47.698Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
   "effectiveDate": "2050-06-03T11:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Alpha_Promo-2048x1152-54d1a976be4e3d14b6cdca591bc9bddc.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Alpha_Logo-1854x960-9201c864e7ebdf0d25db61c29fd6eb92.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Portrait-Promo-1280x1420-dd4a52c217495ed847f43ef59d115f3a.jpg"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "currentPrice": 0,
   "seller": {
     "id": "o-6v5su732w3tnzud9lque2m7s4qzvjx",
     "name": "Klei Entertainment"
   },
-  "linkedOfferId": "3299949f391a4dbb9e0c4b28b683992c",
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": "griftlands/home",
+  "urlSlug": "griftlands",
+  "url": null,
   "tags": [
     {
       "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-23T05:17:12.951Z",
-      "status": "ACTIVE",
-      "referenceCount": 5001,
-      "comment": null
+      "name": "Single Player"
     },
     {
       "id": "1083",
-      "name": "Rogue-Lite",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:58:59.720Z",
-      "updated": "2023-08-23T05:17:12.960Z",
-      "status": "ACTIVE",
-      "referenceCount": 204,
-      "comment": null
+      "name": "Rogue-Lite"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
     },
     {
       "id": "1181",
-      "name": "Card Game",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:48.401Z",
-      "updated": "2023-08-22T18:09:40.663Z",
-      "status": "ACTIVE",
-      "referenceCount": 95,
-      "comment": null
+      "name": "Card Game"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -110,41 +73,38 @@
       "value": "3299949f391a4dbb9e0c4b28b683992c"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Alpha_Promo-2048x1152-54d1a976be4e3d14b6cdca591bc9bddc.jpg",
-      "md5": "54d1a976be4e3d14b6cdca591bc9bddc",
-      "size": 1999947,
-      "uploadedDate": "2019-07-09T19:38:29.930Z",
-      "width": 2048,
-      "height": 1152
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/Alpha_Logo-1854x960-9201c864e7ebdf0d25db61c29fd6eb92.png",
-      "md5": "9201c864e7ebdf0d25db61c29fd6eb92",
-      "size": 179298,
-      "uploadedDate": "2019-07-09T19:38:38.317Z",
-      "width": 1854,
-      "height": 960
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Portrait-Promo-1280x1420-dd4a52c217495ed847f43ef59d115f3a.jpg",
-      "md5": "dd4a52c217495ed847f43ef59d115f3a",
-      "size": 1515830,
-      "uploadedDate": "2019-07-11T18:37:14.941Z",
-      "width": 1280,
-      "height": 1420
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2019-07-11T15:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

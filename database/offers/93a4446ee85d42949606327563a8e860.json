@@ -1,48 +1,26 @@
 {
+  "title": "AI_ReleaseGeneralAudience",
   "id": "93a4446ee85d42949606327563a8e860",
   "namespace": "df37f065c3f14eadbf011177396e2966",
-  "title": "AI_ReleaseGeneralAudience",
   "description": "AI_ReleaseGeneralAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "ai-releasegeneralaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2020-10-26T21:23:27.493Z",
-  "lastModifiedDate": "2020-12-18T16:36:49.483Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
     "name": "SEGA of Europe"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "ai-releasegeneralaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "91ca888480474880bc5198469a00aece",
+      "namespace": "df37f065c3f14eadbf011177396e2966"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -57,13 +35,74 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "91ca888480474880bc5198469a00aece"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "df37f065c3f14eadbf011177396e2966"
-  }
+    "mappings": [
+      {
+        "pageSlug": "alien-isolation--last-survivor",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "alien-isolation--safe-haven",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "alien-isolation--trauma",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "alien-isolation--the-trigger",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "alien-isolation",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "alien-isolation--corporate-lockdown",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "alien-isolation--crew-expendable",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "alien-isolation--lost-contact",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

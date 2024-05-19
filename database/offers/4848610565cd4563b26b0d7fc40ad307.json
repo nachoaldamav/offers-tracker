@@ -1,91 +1,50 @@
 {
+  "title": "Monopoly PLUS",
   "id": "4848610565cd4563b26b0d7fc40ad307",
   "namespace": "epic",
-  "title": "Monopoly PLUS",
   "description": "Monopoly PLUS",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "monopoly-plus/home",
-  "urlSlug": "monopoly-plus",
-  "offerType": "OTHERS",
-  "creationDate": "2020-03-16T23:26:40.183Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
   "effectiveDate": "2020-03-16T15:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "CN"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/MONO_Store_Landscape_2580x1450-2580x1450-1e1903ade34d96681eb0dfa6898848ad.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/MONO_Store_Portrait_1280x1420-1280x1420-6ffbae51e3a24abe0181750e526f2410.png"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2019-05-29T18:18:00.000Z",
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "currentPrice": 0,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "linkedOfferId": "c12806e289d94b1180fde0221c13c70d",
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": "monopoly-plus/home",
+  "urlSlug": "monopoly-plus",
+  "url": null,
   "tags": [
     {
       "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2024-03-28T21:49:29.573Z",
-      "status": "ACTIVE",
-      "referenceCount": 1846,
-      "comment": null
+      "name": "Multiplayer"
     },
     {
       "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-23T05:17:12.951Z",
-      "status": "ACTIVE",
-      "referenceCount": 5001,
-      "comment": null
+      "name": "Single Player"
     },
     {
       "id": "1386",
-      "name": "Turn-Based",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:30.372Z",
-      "updated": "2023-08-23T02:13:23.565Z",
-      "status": "ACTIVE",
-      "referenceCount": 188,
-      "comment": null
+      "name": "Turn-Based"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -110,32 +69,42 @@
       "value": "c12806e289d94b1180fde0221c13c70d"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/MONO_Store_Landscape_2580x1450-2580x1450-1e1903ade34d96681eb0dfa6898848ad.jpg",
-      "md5": "1e1903ade34d96681eb0dfa6898848ad",
-      "size": 2074850,
-      "uploadedDate": "2020-03-16T23:25:38.567Z",
-      "width": 2580,
-      "height": 1450
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/MONO_Store_Portrait_1280x1420-1280x1420-6ffbae51e3a24abe0181750e526f2410.png",
-      "md5": "6ffbae51e3a24abe0181750e526f2410",
-      "size": 2445721,
-      "uploadedDate": "2020-03-16T23:25:49.763Z",
-      "width": 1280,
-      "height": 1420
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 599,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 900,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "297fd7f60c0243eea345fadbe2144cd7"
+          }
+        ]
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-03-16T15:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": "2019-05-29T18:18:00.000Z",
+  "approximateReleasePlan": null
 }

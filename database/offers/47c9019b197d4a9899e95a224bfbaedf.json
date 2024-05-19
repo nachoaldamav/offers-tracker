@@ -1,89 +1,54 @@
 {
+  "title": "Maneater",
   "id": "47c9019b197d4a9899e95a224bfbaedf",
   "namespace": "epic",
-  "title": "Maneater",
   "description": "Maneater",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "maneater",
-  "urlSlug": "maneater",
-  "offerType": "OTHERS",
-  "creationDate": "2018-11-27T01:16:37.857Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
   "effectiveDate": "2019-11-26T20:12:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2018-11-26T20:12:00.000Z",
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Maneater_Logo-1200x661-09de7acd5f074c912994a55fd878893b.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Manater_Epic_PrimaryPromo2580x1456-2580x1456-a66dd2422bbbb9feef9304933254bb78.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Manater_Epic_PortraitPromo1288x1450 (1)-1288x1450-3f3224ed80617513f63a140ee53a4aff.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
     "name": "Tripwire Interactive"
   },
-  "linkedOfferId": "5d6c498807bd4a38a17ed9e51e18116b",
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": "maneater",
+  "urlSlug": "maneater",
+  "url": null,
   "tags": [
     {
       "id": "1216",
-      "name": "Action",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-08-23T05:17:12.937Z",
-      "status": "ACTIVE",
-      "referenceCount": 2167,
-      "comment": null
+      "name": "Action"
     },
     {
       "id": "1367",
-      "name": "RPG",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2023-08-23T03:10:10.001Z",
-      "status": "ACTIVE",
-      "referenceCount": 1144,
-      "comment": null
+      "name": "RPG"
     },
     {
       "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-23T05:17:12.951Z",
-      "status": "ACTIVE",
-      "referenceCount": 5001,
-      "comment": null
+      "name": "Single Player"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -104,41 +69,38 @@
       "value": "5d6c498807bd4a38a17ed9e51e18116b"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/Maneater_Logo-1200x661-09de7acd5f074c912994a55fd878893b.png",
-      "md5": "09de7acd5f074c912994a55fd878893b",
-      "size": 43561,
-      "uploadedDate": "2019-07-29T23:35:14.335Z",
-      "width": 1200,
-      "height": 661
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Manater_Epic_PrimaryPromo2580x1456-2580x1456-a66dd2422bbbb9feef9304933254bb78.jpg",
-      "md5": "a66dd2422bbbb9feef9304933254bb78",
-      "size": 414334,
-      "uploadedDate": "2019-07-29T23:35:59.684Z",
-      "width": 2580,
-      "height": 1456
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Manater_Epic_PortraitPromo1288x1450 (1)-1288x1450-3f3224ed80617513f63a140ee53a4aff.jpg",
-      "md5": "3f3224ed80617513f63a140ee53a4aff",
-      "size": 233776,
-      "uploadedDate": "2019-07-30T13:40:31.137Z",
-      "width": 1288,
-      "height": 1450
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-05-22T09:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": "2018-11-26T20:12:00.000Z",
+  "approximateReleasePlan": null
 }

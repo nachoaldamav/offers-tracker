@@ -1,65 +1,50 @@
 {
+  "title": "Afterparty Pre-Purchase",
   "id": "bdad3b4ed9d54608953e0e46000e9981",
   "namespace": "adenium",
-  "title": "Afterparty Pre-Purchase",
   "description": "Afterparty Pre-Purchase",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "afterparty-pre-purchase",
-  "offerType": "BASE_GAME",
-  "creationDate": "2019-05-14T14:53:47.565Z",
-  "lastModifiedDate": "2024-04-02T17:00:28.844Z",
   "effectiveDate": "2019-05-14T15:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "KR"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_NightSchoolStudio_Afterparty_S3_1280x1420-1280x1420-bbc32f6efd9af95af60a380acdba6e1a.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/adenium/Afterparty_PortraitPromoImage_1280x1420_FrontPage-1280x1420-b6e39c5bbbdeae68f7df6a33f51a0f4f_1200x1600-42236f6a338efbd70a175e081e499171"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/adenium/Afterparty_PrimaryPromoImage_2580x1450-2580x1450-be4bf4f974e89762d519cc2f2a289d3a-2580x1450-be4bf4f974e89762d519cc2f2a289d3a_2560x1440-6aa2369be94f6dd9a43f68696c0f1a8e"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/adenium/Afterparty_PortraitPromoImage_1280x1420_FrontPage-1280x1420-b6e39c5bbbdeae68f7df6a33f51a0f4f_1200x1600-42236f6a338efbd70a175e081e499171"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 1999,
   "seller": {
     "id": "o-8bhctnyt9qetgnjd4nssqse58c2589",
     "name": "Night School Studio, LLC"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "spthidden"
-    },
-    {
-      "path": "games"
-    },
-    {
-      "path": "spthidden/edition"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "afterparty-pre-purchase",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "b92955d717a644c893492dda5b893de3",
+      "namespace": "adenium"
+    },
+    {
+      "id": "b3ac5c3f2d65458e941929069ed9c081",
+      "namespace": "adenium"
     }
   ],
   "customAttributes": [
@@ -76,53 +61,52 @@
       "value": "Night School Studio, LLC"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_NightSchoolStudio_Afterparty_S3_1280x1420-1280x1420-bbc32f6efd9af95af60a380acdba6e1a.jpg",
-      "md5": "bbc32f6efd9af95af60a380acdba6e1a",
-      "size": 163927,
-      "uploadedDate": "2019-05-14T14:51:47.684Z",
-      "width": 1280,
-      "height": 1420
+      "path": "spthidden"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/adenium/Afterparty_PortraitPromoImage_1280x1420_FrontPage-1280x1420-b6e39c5bbbdeae68f7df6a33f51a0f4f_1200x1600-42236f6a338efbd70a175e081e499171",
-      "md5": "42236f6a338efbd70a175e081e499171",
-      "size": 253580,
-      "uploadedDate": "2024-04-02T16:58:34.269Z",
-      "width": 1200,
-      "height": 1600
+      "path": "games"
     },
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/adenium/Afterparty_PrimaryPromoImage_2580x1450-2580x1450-be4bf4f974e89762d519cc2f2a289d3a-2580x1450-be4bf4f974e89762d519cc2f2a289d3a_2560x1440-6aa2369be94f6dd9a43f68696c0f1a8e",
-      "md5": "6aa2369be94f6dd9a43f68696c0f1a8e",
-      "size": 707358,
-      "uploadedDate": "2024-04-02T17:00:24.038Z",
-      "width": 2560,
-      "height": 1440
+      "path": "spthidden/edition"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/adenium/Afterparty_PortraitPromoImage_1280x1420_FrontPage-1280x1420-b6e39c5bbbdeae68f7df6a33f51a0f4f_1200x1600-42236f6a338efbd70a175e081e499171",
-      "md5": "42236f6a338efbd70a175e081e499171",
-      "size": 253580,
-      "uploadedDate": "2024-04-02T16:58:40.565Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "b92955d717a644c893492dda5b893de3"
-    },
-    {
-      "id": "b3ac5c3f2d65458e941929069ed9c081"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "adenium"
-  }
+    "mappings": [
+      {
+        "pageSlug": "afterparty",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": true,
+  "releaseDate": "2019-10-29T13:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

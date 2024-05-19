@@ -1,36 +1,44 @@
 {
+  "title": "Journey Press Access",
   "id": "7aec496aa35d45cd9b45e0d0ba6d96ab",
   "namespace": "lemur",
-  "title": "Journey Press Access",
   "description": "Journey Press Access",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "journey-press-access",
-  "offerType": "OTHERS",
-  "creationDate": "2019-06-05T18:25:39.149Z",
-  "lastModifiedDate": "2024-04-10T18:22:20.572Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Journey_CodeRedemption-330x440-0347f691acfea0a60655a94dc8065a92-330x440-0347f691acfea0a60655a94dc8065a92.png"
+    },
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/lemur/item/Journey-842x404-d904ae38991eabe3f91a160feb7e147a-842x404-d904ae38991eabe3f91a160feb7e147a.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/lemur/Journey_tall-853x960-857c2689f49d11d93ab146d73f74e850_1200x1600-c144166c74c54876dcfbb96fa2f4deb7"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
     "name": "Annapurna Interactive"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "journey-press-access",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "cab94ef6d05c4641916346969ccd2b28",
+      "namespace": "lemur"
+    },
+    {
+      "id": "42be1a5941724a34a523fae531956d7e",
+      "namespace": "lemur"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "spthidden"
@@ -45,46 +53,38 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Journey_CodeRedemption-330x440-0347f691acfea0a60655a94dc8065a92-330x440-0347f691acfea0a60655a94dc8065a92.png",
-      "md5": "0347f691acfea0a60655a94dc8065a92",
-      "size": 39956,
-      "uploadedDate": "2019-06-05T18:25:21.271Z",
-      "width": 330,
-      "height": 440
-    },
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/lemur/item/Journey-842x404-d904ae38991eabe3f91a160feb7e147a-842x404-d904ae38991eabe3f91a160feb7e147a.png",
-      "md5": "d904ae38991eabe3f91a160feb7e147a",
-      "size": 51113,
-      "uploadedDate": "2019-06-05T18:22:46.751Z",
-      "width": 842,
-      "height": 404
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/lemur/Journey_tall-853x960-857c2689f49d11d93ab146d73f74e850_1200x1600-c144166c74c54876dcfbb96fa2f4deb7",
-      "md5": "c144166c74c54876dcfbb96fa2f4deb7",
-      "size": 257295,
-      "uploadedDate": "2024-04-10T18:22:17.083Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "cab94ef6d05c4641916346969ccd2b28"
-    },
-    {
-      "id": "42be1a5941724a34a523fae531956d7e"
-    }
-  ],
   "catalogNs": {
-    "name": "lemur"
-  }
+    "mappings": [
+      {
+        "pageSlug": "journey",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

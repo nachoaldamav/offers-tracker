@@ -1,36 +1,45 @@
 {
+  "title": "Chess Box M",
   "id": "702cb9d7183c4af984d80c3c9ab2ffbd",
   "namespace": "37baf50c268d47779020d73143bb02b0",
-  "title": "Chess Box M",
   "description": "Chess Box M",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "chess-box-m",
-  "offerType": "IN_GAME_PURCHASE",
-  "creationDate": "2020-01-08T16:58:26.874Z",
-  "lastModifiedDate": "2023-08-03T01:02:29.297Z",
   "effectiveDate": "2020-01-07T12:00:00.000Z",
-  "pcReleaseDate": "2020-01-07T12:00:00.000Z",
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/2560X1440-2560x1440-f766cb41f82456b617bdc816d1814901.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/1200x1600-1200x1600-5cf35c0e90ea6f266577be0d40f48761.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/1200x1600-1200x1600-5cf35c0e90ea6f266577be0d40f48761.jpg"
+    }
+  ],
+  "currentPrice": 99,
   "seller": {
     "id": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
     "name": "Dragonest Game"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "chess-box-m",
+  "url": null,
+  "tags": [
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "0460574fdcda4f049d650aed808673a6",
+      "namespace": "37baf50c268d47779020d73143bb02b0"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "spthidden/consumable"
@@ -45,56 +54,38 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
-    }
-  ],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/2560X1440-2560x1440-f766cb41f82456b617bdc816d1814901.jpg",
-      "md5": "5c27935e08a2986ace4a2fea3de9eda1",
-      "size": 397041,
-      "uploadedDate": "2020-04-29T21:18:59.790Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/1200x1600-1200x1600-5cf35c0e90ea6f266577be0d40f48761.jpg",
-      "md5": "05fd25a305dd028ce38d9b4f8d88d38a",
-      "size": 239718,
-      "uploadedDate": "2020-04-29T21:22:52.067Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/1200x1600-1200x1600-5cf35c0e90ea6f266577be0d40f48761.jpg",
-      "md5": "05fd25a305dd028ce38d9b4f8d88d38a",
-      "size": 239718,
-      "uploadedDate": "2020-04-29T21:22:58.350Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "0460574fdcda4f049d650aed808673a6"
-    }
-  ],
   "catalogNs": {
-    "name": "37baf50c268d47779020d73143bb02b0"
-  }
+    "mappings": [
+      {
+        "pageSlug": "auto-chess",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 99,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-01-07T12:00:00.000Z",
+  "pcReleaseDate": "2020-01-07T12:00:00.000Z",
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

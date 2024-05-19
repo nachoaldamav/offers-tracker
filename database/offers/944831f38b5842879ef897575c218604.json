@@ -1,36 +1,32 @@
 {
+  "title": "WeaverDevAudience",
   "id": "944831f38b5842879ef897575c218604",
   "namespace": "weaver",
-  "title": "WeaverDevAudience",
   "description": "WeaverDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "weaverdevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-02-14T03:59:11.439Z",
-  "lastModifiedDate": "2020-04-29T00:46:40.837Z",
   "effectiveDate": "2020-02-13T22:58:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-7kk95dlwa9mep5kfkubrgmp9qkwbt4",
     "name": "Double Damage Games, Inc"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "weaverdevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "ddd9d584a1994e359c23624a77b8200b",
+      "namespace": "weaver"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Double Damage Games, Inc"
+    }
+  ],
   "categories": [
     {
       "path": "games"
@@ -39,20 +35,38 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "developerName",
-      "value": "Double Damage Games, Inc"
-    }
-  ],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "ddd9d584a1994e359c23624a77b8200b"
-    }
-  ],
   "catalogNs": {
-    "name": "weaver"
-  }
+    "mappings": [
+      {
+        "pageSlug": "rebel-galaxy",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

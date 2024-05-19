@@ -1,36 +1,40 @@
 {
+  "title": "Free Game Collection",
   "id": "b11584f1703543b295ee68e3e7439ce5",
   "namespace": "be13f6c4fb11427fbf3313ce93b97cc0",
-  "title": "Free Game Collection",
   "description": "Free Game Collection",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "free-game-collection",
-  "offerType": "OTHERS",
-  "creationDate": "2019-05-31T15:18:17.553Z",
-  "lastModifiedDate": "2024-03-27T15:37:13.624Z",
   "effectiveDate": "2019-05-29T11:16:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/be13f6c4fb11427fbf3313ce93b97cc0/EnterTheGungeon_S2_1200x1600_1200x1600-4d79aae1e860c191c706e4e8bfdef244_1200x1600-125549821fa047f76b5f85f630e8c4fe"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/be13f6c4fb11427fbf3313ce93b97cc0/EnterTheGungeon_S2_1200x1600_1200x1600-4d79aae1e860c191c706e4e8bfdef244_1200x1600-125549821fa047f76b5f85f630e8c4fe"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/be13f6c4fb11427fbf3313ce93b97cc0/EnterTheGungeon_S1_2560x1440_2560x1440-305a800f501f139c617c539c3a6176e6_2560x1440-d9f9a0c4a78a2a89775987c2626732a0"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
     "name": "Epic Dev Test Account"
   },
-  "linkedOfferId": null,
-  "isFeatured": true,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "free-game-collection",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "b1789c25ab964cad8155e41e74e8b3b7",
+      "namespace": "be13f6c4fb11427fbf3313ce93b97cc0"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "spthidden"
@@ -45,43 +49,38 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/be13f6c4fb11427fbf3313ce93b97cc0/EnterTheGungeon_S2_1200x1600_1200x1600-4d79aae1e860c191c706e4e8bfdef244_1200x1600-125549821fa047f76b5f85f630e8c4fe",
-      "md5": "125549821fa047f76b5f85f630e8c4fe",
-      "size": 368708,
-      "uploadedDate": "2024-03-27T15:36:58.795Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/be13f6c4fb11427fbf3313ce93b97cc0/EnterTheGungeon_S2_1200x1600_1200x1600-4d79aae1e860c191c706e4e8bfdef244_1200x1600-125549821fa047f76b5f85f630e8c4fe",
-      "md5": "125549821fa047f76b5f85f630e8c4fe",
-      "size": 368708,
-      "uploadedDate": "2024-03-27T15:37:02.241Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/be13f6c4fb11427fbf3313ce93b97cc0/EnterTheGungeon_S1_2560x1440_2560x1440-305a800f501f139c617c539c3a6176e6_2560x1440-d9f9a0c4a78a2a89775987c2626732a0",
-      "md5": "d9f9a0c4a78a2a89775987c2626732a0",
-      "size": 554284,
-      "uploadedDate": "2024-03-27T15:37:06.102Z",
-      "width": 2560,
-      "height": 1440
-    }
-  ],
-  "items": [
-    {
-      "id": "b1789c25ab964cad8155e41e74e8b3b7"
-    }
-  ],
   "catalogNs": {
-    "name": "be13f6c4fb11427fbf3313ce93b97cc0"
-  }
+    "mappings": [
+      {
+        "pageSlug": "enter-the-gungeon",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-05-13T16:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

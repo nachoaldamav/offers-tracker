@@ -1,56 +1,39 @@
 {
+  "title": "Beyond Two Souls DEMO",
   "id": "8b334ca100054b84bfaac65b27cd1bf7",
   "namespace": "lavender",
-  "title": "Beyond Two Souls DEMO",
   "description": "Experience Jodie’s extraordinary life and her connection with a powerful supernatural entity in the free Demo, available now.",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "beyond-two-souls/demo",
-  "urlSlug": "beyond-two-souls-demo-audience-02",
-  "offerType": "OTHERS",
-  "creationDate": "2019-08-21T07:21:03.934Z",
-  "lastModifiedDate": "2022-06-10T15:21:03.984Z",
   "effectiveDate": "2019-10-16T15:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "beyond-two-souls--demo"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/lavender/offer/B2S_LavenderDEMO-2560x1440-2560x1440-4b48da4ded604842192f173afadca6a0.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/lavender/BEYOND2-860x1148-1e66455c8afe406002542c681abcd2fa_860x1148-1e66455c8afe406002542c681abcd2fa"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/lavender/B2S_LavenderDEMO-2560x1440-2560x1440-4b48da4ded604842192f173afadca6a0_2560x1440-4b48da4ded604842192f173afadca6a0"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "beyond-two-souls--demo"
-    }
-  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-m8v47d762atphw94knus7ezawefpcu",
     "name": "Quantic Dream"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": "beyond-two-souls/demo",
+  "urlSlug": "beyond-two-souls-demo-audience-02",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "games/demo"
-    },
-    {
-      "path": "applications"
+      "id": "9f87b55a99b048c8a7c4ca8c9991cf8e",
+      "namespace": "lavender"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -65,41 +48,58 @@
       "value": "beyond-two-souls/demo"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/lavender/offer/B2S_LavenderDEMO-2560x1440-2560x1440-4b48da4ded604842192f173afadca6a0.png",
-      "md5": "4b48da4ded604842192f173afadca6a0",
-      "size": 957832,
-      "uploadedDate": "2019-10-09T21:25:46.843Z",
-      "width": 2560,
-      "height": 1440
+      "path": "games"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/lavender/BEYOND2-860x1148-1e66455c8afe406002542c681abcd2fa_860x1148-1e66455c8afe406002542c681abcd2fa",
-      "md5": "1e66455c8afe406002542c681abcd2fa",
-      "size": 243634,
-      "uploadedDate": "2022-06-10T15:20:59.401Z",
-      "width": 860,
-      "height": 1148
+      "path": "games/demo"
     },
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/lavender/B2S_LavenderDEMO-2560x1440-2560x1440-4b48da4ded604842192f173afadca6a0_2560x1440-4b48da4ded604842192f173afadca6a0",
-      "md5": "4b48da4ded604842192f173afadca6a0",
-      "size": 957832,
-      "uploadedDate": "2022-06-10T15:20:55.651Z",
-      "width": 2560,
-      "height": 1440
-    }
-  ],
-  "items": [
-    {
-      "id": "9f87b55a99b048c8a7c4ca8c9991cf8e"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "lavender"
-  }
+    "mappings": [
+      {
+        "pageSlug": "beyond-two-souls--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "beyond-two-souls",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "beyond-two-souls--demo",
+      "pageType": "offer"
+    }
+  ],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2019-10-16T15:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

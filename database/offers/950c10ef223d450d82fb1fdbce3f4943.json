@@ -1,48 +1,26 @@
 {
+  "title": "TrogonDevAudience",
   "id": "950c10ef223d450d82fb1fdbce3f4943",
   "namespace": "1093790870b043cdbae03d91d76d9ae6",
-  "title": "TrogonDevAudience",
   "description": "TrogonDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "trogondevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-09-19T18:20:55.569Z",
-  "lastModifiedDate": "2022-01-20T04:27:18.780Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "trogondevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "6e484a712e76406a9e617340d9fbfee3",
+      "namespace": "1093790870b043cdbae03d91d76d9ae6"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -57,13 +35,58 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "6e484a712e76406a9e617340d9fbfee3"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "1093790870b043cdbae03d91d76d9ae6"
-  }
+    "mappings": [
+      {
+        "pageSlug": "rainbow-six-extraction",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "rainbow-six-extraction--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "rainbow-six-extraction--react-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "rainbow-six-extraction--demo",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

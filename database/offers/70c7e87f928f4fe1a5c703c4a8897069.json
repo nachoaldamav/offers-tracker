@@ -1,39 +1,32 @@
 {
+  "title": "PepperDevAudience",
   "id": "70c7e87f928f4fe1a5c703c4a8897069",
   "namespace": "5d582c08e31a43128a61093a2c3ff7f0",
-  "title": "PepperDevAudience",
   "description": "PepperDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "pepperdevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-04-19T18:00:12.372Z",
-  "lastModifiedDate": "2022-09-20T14:49:53.151Z",
   "effectiveDate": "2050-04-22T13:59:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
     "name": "Plaion"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "pepperdevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "fc039ec37d6c42df8e4d783f3b08b88d",
+      "namespace": "5d582c08e31a43128a61093a2c3ff7f0"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Sega"
+    }
+  ],
   "categories": [
     {
       "path": "games"
@@ -42,20 +35,58 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "developerName",
-      "value": "Sega"
-    }
-  ],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "fc039ec37d6c42df8e4d783f3b08b88d"
-    }
-  ],
   "catalogNs": {
-    "name": "5d582c08e31a43128a61093a2c3ff7f0"
-  }
+    "mappings": [
+      {
+        "pageSlug": "shenmue-3--season-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "shenmue-3--story-quest-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "shenmue-3",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "shenmue-3--big-merry-cruise",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "shenmue-3--battle-rally",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "shenmue-3--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

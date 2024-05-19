@@ -1,38 +1,27 @@
 {
+  "title": "gooseberry HL Bag Audience",
   "id": "37092bac044e481cae26d1dc16888912",
   "namespace": "3ef2ef153b5649aaa8f0de5b5805dcce",
-  "title": "gooseberry HL Bag Audience",
   "description": "gooseberry HL Bag Audience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "gooseberryhlbag",
-  "offerType": "IN_GAME_PURCHASE",
-  "creationDate": "2022-04-07T16:47:15.311Z",
-  "lastModifiedDate": "2024-03-30T14:39:51.401Z",
   "effectiveDate": "2099-04-30T08:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": "NIS America, Inc.",
-  "countriesBlacklist": [
-    "KR"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": false,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-24ec9efll733ggh8wybar3x8zetflu",
     "name": "NIS America, Inc."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "gooseberryhlbag",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "d17b40f026374507a96072bb15426a9e",
+      "namespace": "3ef2ef153b5649aaa8f0de5b5805dcce"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "spthidden/consumable"
@@ -44,15 +33,50 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "d17b40f026374507a96072bb15426a9e"
-    }
-  ],
   "catalogNs": {
-    "name": "3ef2ef153b5649aaa8f0de5b5805dcce"
-  }
+    "mappings": [
+      {
+        "pageSlug": "disgaea-6-complete",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "disgaea-6-complete--digital-dood-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "disgaea-6-complete--hololive-collaboration-set",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "disgaea-6-complete--digital-art-book",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": "Nippon Ichi Software, Inc.",
+  "publisherDisplayName": "NIS America, Inc.",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

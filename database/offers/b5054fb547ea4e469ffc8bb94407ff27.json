@@ -1,56 +1,38 @@
 {
+  "title": "Overpass Standard Ediiton - Retail",
   "id": "b5054fb547ea4e469ffc8bb94407ff27",
   "namespace": "90c3f58497da48d789cc39bff57dc2f4",
-  "title": "Overpass Standard Ediiton - Retail",
   "description": "Overpass Standard Ediiton - Retail",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "sandpipergeneralaudience-retail",
-  "offerType": "BASE_GAME",
-  "creationDate": "2020-01-28T18:44:59.830Z",
-  "lastModifiedDate": "2020-02-27T15:58:08.210Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/Old_Portrait_Image-860x1148-8cd7d9f16ff40f77021d88ff9b2611ae.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/Old_EGS_Bigben_OVERPASS_FullGame_DesktopHorizontal-1360x766-3dc29ccdca7577ef4232c24f189bb962.JPG"
+    }
+  ],
+  "currentPrice": 3999,
   "seller": {
     "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
     "name": "Nacon"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "sandpipergeneralaudience-retail",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "508964795add4b538323d9d0157cbfab",
+      "namespace": "90c3f58497da48d789cc39bff57dc2f4"
     }
   ],
   "customAttributes": [
@@ -67,32 +49,66 @@
       "value": "Zordix Racing"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/Old_Portrait_Image-860x1148-8cd7d9f16ff40f77021d88ff9b2611ae.jpg",
-      "md5": "8cd7d9f16ff40f77021d88ff9b2611ae",
-      "size": 846996,
-      "uploadedDate": "2020-01-15T21:53:40.006Z",
-      "width": 860,
-      "height": 1148
+      "path": "games"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/Old_EGS_Bigben_OVERPASS_FullGame_DesktopHorizontal-1360x766-3dc29ccdca7577ef4232c24f189bb962.JPG",
-      "md5": "3dc29ccdca7577ef4232c24f189bb962",
-      "size": 731346,
-      "uploadedDate": "2020-01-15T21:54:00.080Z",
-      "width": 1360,
-      "height": 766
-    }
-  ],
-  "items": [
-    {
-      "id": "508964795add4b538323d9d0157cbfab"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "90c3f58497da48d789cc39bff57dc2f4"
-  }
+    "mappings": [
+      {
+        "pageSlug": "overpass--yamaha-special-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "overpass--expert-vehicles-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "overpass--smart-start-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "overpass--drive-with-style",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "overpass",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "overpass--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-01-01T13:59:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

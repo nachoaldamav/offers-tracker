@@ -1,36 +1,37 @@
 {
+  "title": "Dill Dev Audience Access",
   "id": "5c14c395f12147c5afd99d5f83e92b69",
   "namespace": "bc81d1e7d1794d3a94e4dbf26e92166d",
-  "title": "Dill Dev Audience Access",
   "description": "Dill Dev Access",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "dill-dev-access",
-  "offerType": "OTHERS",
-  "creationDate": "2019-04-04T01:52:28.496Z",
-  "lastModifiedDate": "2024-04-03T16:11:37.893Z",
   "effectiveDate": "2019-04-30T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Transistor_About-1000x840-85db29d6095a4c7ddd195d5998a311f9.png"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-vwkp2e2azz3ybr7ckg7pfnxhwezd4a",
     "name": "Supergiant Games LLC"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "dill-dev-access",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "dd3a0be06cdf4445a894523d614e7843",
+      "namespace": "bc81d1e7d1794d3a94e4dbf26e92166d"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Supergiant Games LLC"
+    }
+  ],
   "categories": [
     {
       "path": "application"
@@ -39,30 +40,38 @@
       "path": "games"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "developerName",
-      "value": "Supergiant Games LLC"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Transistor_About-1000x840-85db29d6095a4c7ddd195d5998a311f9.png",
-      "md5": "85db29d6095a4c7ddd195d5998a311f9",
-      "size": 95756,
-      "uploadedDate": "2019-04-04T01:52:22.142Z",
-      "width": 1000,
-      "height": 840
-    }
-  ],
-  "items": [
-    {
-      "id": "dd3a0be06cdf4445a894523d614e7843"
-    }
-  ],
   "catalogNs": {
-    "name": "bc81d1e7d1794d3a94e4dbf26e92166d"
-  }
+    "mappings": [
+      {
+        "pageSlug": "transistor",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

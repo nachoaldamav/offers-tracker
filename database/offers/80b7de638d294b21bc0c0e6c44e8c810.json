@@ -1,79 +1,32 @@
 {
+  "title": "DokkenVC5",
   "id": "80b7de638d294b21bc0c0e6c44e8c810",
   "namespace": "3a212c0da4f1438e840c21565df4b6fe",
-  "title": "DokkenVC5",
   "description": "DokkenVC5",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "dokkenvc5",
-  "offerType": "VIRTUAL_CURRENCY",
-  "creationDate": "2022-06-06T20:28:00.951Z",
-  "lastModifiedDate": "2023-08-02T23:14:46.803Z",
   "effectiveDate": "2099-01-01T08:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "BD",
-    "NP",
-    "HK",
-    "TW",
-    "RU",
-    "JP",
-    "BN",
-    "BT",
-    "SG",
-    "BV",
-    "SJ",
-    "UM",
-    "ID",
-    "KG",
-    "KH",
-    "MM",
-    "MN",
-    "MO",
-    "IN",
-    "UZ",
-    "AF",
-    "KP",
-    "IO",
-    "KR",
-    "IR",
-    "MV",
-    "CN",
-    "MY",
-    "GS",
-    "KZ",
-    "AQ",
-    "TF",
-    "TH",
-    "LA",
-    "TJ",
-    "PF",
-    "PH",
-    "VN",
-    "TL",
-    "TM",
-    "PK",
-    "LK"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": false,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
     "name": "Warner Bros."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "dokkenvc5",
+  "url": null,
+  "tags": [
+    {
+      "id": "19847",
+      "name": "Achievements"
+    }
+  ],
+  "items": [
+    {
+      "id": "27dc640446bd49c0af012bd22d3a6025",
+      "namespace": "3a212c0da4f1438e840c21565df4b6fe"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "spthidden/consumable"
@@ -85,28 +38,38 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
-      "status": "ACTIVE",
-      "referenceCount": 3628,
-      "comment": ""
-    }
-  ],
-  "customAttributes": [],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "27dc640446bd49c0af012bd22d3a6025"
-    }
-  ],
   "catalogNs": {
-    "name": "3a212c0da4f1438e840c21565df4b6fe"
-  }
+    "mappings": [
+      {
+        "pageSlug": "multiversus",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

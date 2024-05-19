@@ -1,48 +1,26 @@
 {
+  "title": "dlc_test_iap_pack_3",
   "id": "c9ae7cd146e04453be449f7c63c18d17",
   "namespace": "ed8a79694c054f70a6350cb2c8c45316",
-  "title": "dlc_test_iap_pack_3",
   "description": "dlc_test_iap_pack_3",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "test-entry--dlc-test-iap-pack3",
-  "offerType": "ADD_ON",
-  "creationDate": "2021-03-24T18:20:30.346Z",
-  "lastModifiedDate": "2023-08-03T00:06:40.941Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": false,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
     "name": "Gameloft SE"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "test-entry--dlc-test-iap-pack3",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "spthidden"
-    },
-    {
-      "path": "spthidden/durable"
-    },
-    {
-      "path": "applications"
+      "id": "320baa815433471d8795af25842e2b4b",
+      "namespace": "ed8a79694c054f70a6350cb2c8c45316"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -57,13 +35,44 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "320baa815433471d8795af25842e2b4b"
+      "path": "spthidden"
+    },
+    {
+      "path": "spthidden/durable"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "ed8a79694c054f70a6350cb2c8c45316"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

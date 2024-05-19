@@ -1,101 +1,54 @@
 {
+  "title": "A Knights Quest",
   "id": "4e4d6984f3ba4a2e9ca517453291dd00",
   "namespace": "epic",
-  "title": "A Knights Quest",
   "description": "A Knights Quest Knight's",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "a-knights-quest/home",
-  "urlSlug": "a-knights-quest",
-  "offerType": "OTHERS",
-  "creationDate": "2019-09-27T17:44:15.047Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Sky9Games_AKnightsQuest_S3-1360x766-94882ecd4e4c56a13555a21feb04f774.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Sky9Games_AKnightsQuest_S4-510x680-8503a34123c72a896117d22b0bbaa6f6.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-ws89bsbfb8trgdl3zmerugg4rsuvvt",
     "name": "Curve Digital"
   },
-  "linkedOfferId": "12ab853cde4d4f209749ab7ab2070189",
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": "a-knights-quest/home",
+  "urlSlug": "a-knights-quest",
+  "url": null,
   "tags": [
     {
       "id": "1216",
-      "name": "Action",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-08-23T05:17:12.937Z",
-      "status": "ACTIVE",
-      "referenceCount": 2167,
-      "comment": null
+      "name": "Action"
     },
     {
       "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-23T05:17:12.951Z",
-      "status": "ACTIVE",
-      "referenceCount": 5001,
-      "comment": null
+      "name": "Single Player"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
     },
     {
       "id": "1117",
-      "name": "Adventure",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2023-08-23T02:16:39.269Z",
-      "status": "ACTIVE",
-      "referenceCount": 1473,
-      "comment": null
+      "name": "Adventure"
     },
     {
       "id": "1151",
-      "name": "Platformer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:33.743Z",
-      "updated": "2023-08-23T04:44:32.409Z",
-      "status": "ACTIVE",
-      "referenceCount": 392,
-      "comment": null
+      "name": "Platformer"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -120,32 +73,38 @@
       "value": "12ab853cde4d4f209749ab7ab2070189"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Sky9Games_AKnightsQuest_S3-1360x766-94882ecd4e4c56a13555a21feb04f774.jpg",
-      "md5": "94882ecd4e4c56a13555a21feb04f774",
-      "size": 504692,
-      "uploadedDate": "2019-12-17T16:27:36.737Z",
-      "width": 1360,
-      "height": 766
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Sky9Games_AKnightsQuest_S4-510x680-8503a34123c72a896117d22b0bbaa6f6.jpg",
-      "md5": "8503a34123c72a896117d22b0bbaa6f6",
-      "size": 415769,
-      "uploadedDate": "2019-12-17T16:27:47.099Z",
-      "width": 510,
-      "height": 680
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2019-11-01T11:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

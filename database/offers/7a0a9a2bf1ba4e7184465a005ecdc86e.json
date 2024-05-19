@@ -1,59 +1,29 @@
 {
+  "title": "dlc_standalone",
   "id": "7a0a9a2bf1ba4e7184465a005ecdc86e",
   "namespace": "ed8a79694c054f70a6350cb2c8c45316",
-  "title": "dlc_standalone",
   "description": "dlc_standalone",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "test-entry--dlcstandalone",
-  "offerType": "DLC",
-  "creationDate": "2021-03-23T22:06:01.568Z",
-  "lastModifiedDate": "2023-08-03T00:06:40.196Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": false,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
     "name": "Gameloft SE"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "spthidden"
-    },
-    {
-      "path": "spthidden/seasonpass"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "test-entry--dlcstandalone",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "ddf18556e38a40ca858a1b152bc3bcc2",
+      "namespace": "ed8a79694c054f70a6350cb2c8c45316"
     }
   ],
   "customAttributes": [
@@ -70,13 +40,44 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "ddf18556e38a40ca858a1b152bc3bcc2"
+      "path": "spthidden"
+    },
+    {
+      "path": "spthidden/seasonpass"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "ed8a79694c054f70a6350cb2c8c45316"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

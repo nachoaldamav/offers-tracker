@@ -1,104 +1,54 @@
 {
+  "title": "Wheels of Aurelia",
   "id": "3443dbe85c43483f8205fdff619c4286",
   "namespace": "epic",
-  "title": "Wheels of Aurelia",
   "description": "Wheels of Aurelia",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "wheels-of-aurelia/home",
-  "urlSlug": "saturnalia-01",
-  "offerType": "OTHERS",
-  "creationDate": "2020-03-27T18:41:11.190Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
   "effectiveDate": "2020-04-16T15:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2020-04-09T15:00:00.000Z",
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_WheelsofAurelia_SantaRagionesrl_S1-2560x1440-2300b1f380bd473bda7ab0c4c867fbce.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_WheelsofAurelia_SantaRagionesrl_S2-860x1148-58a8a085aa5193c0fb2f95bb36e12c8c.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-cjwnkas5rn476tzk72fbh2ftutnc2y",
     "name": "Santa Ragione"
   },
-  "linkedOfferId": "ae212a8d9bda47228596f6ce38e5c597",
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": "wheels-of-aurelia/home",
+  "urlSlug": "saturnalia-01",
+  "url": null,
   "tags": [
     {
       "id": "1218",
-      "name": "Horror",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:06.599Z",
-      "updated": "2023-08-22T19:55:04.197Z",
-      "status": "ACTIVE",
-      "referenceCount": 414,
-      "comment": null
+      "name": "Horror"
     },
     {
       "id": "1127",
-      "name": "Investigation",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:21.604Z",
-      "updated": "2023-05-03T14:53:37.759Z",
-      "status": "ACTIVE",
-      "referenceCount": 69,
-      "comment": null
+      "name": "Investigation"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
     },
     {
       "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-08-23T05:17:12.988Z",
-      "status": "ACTIVE",
-      "referenceCount": 1176,
-      "comment": null
+      "name": "Indie"
     },
     {
       "id": "10719",
-      "name": "Mac OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX",
-        "macOS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-08-23T05:08:24.605Z",
-      "status": "ACTIVE",
-      "referenceCount": 1146,
-      "comment": null
+      "name": "Mac OS"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -123,32 +73,42 @@
       "value": "ae212a8d9bda47228596f6ce38e5c597"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_WheelsofAurelia_SantaRagionesrl_S1-2560x1440-2300b1f380bd473bda7ab0c4c867fbce.jpg",
-      "md5": "2300b1f380bd473bda7ab0c4c867fbce",
-      "size": 468203,
-      "uploadedDate": "2020-03-27T18:40:19.354Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_WheelsofAurelia_SantaRagionesrl_S2-860x1148-58a8a085aa5193c0fb2f95bb36e12c8c.jpg",
-      "md5": "58a8a085aa5193c0fb2f95bb36e12c8c",
-      "size": 388208,
-      "uploadedDate": "2020-03-27T18:40:33.993Z",
-      "width": 860,
-      "height": 1148
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 374,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 1125,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "5118dd6d16b94c6b9ebe27ed9dcf411b"
+          }
+        ]
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-04-16T15:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": "2020-04-09T15:00:00.000Z",
+  "approximateReleasePlan": null
 }

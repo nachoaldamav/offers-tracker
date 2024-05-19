@@ -1,36 +1,49 @@
 {
+  "title": "Kine Review",
   "id": "9693d7b9a9a84342840e2b220eaa5de8",
   "namespace": "rose",
-  "title": "Kine Review",
   "description": "Kine Review",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "rosereview",
-  "offerType": "OTHERS",
-  "creationDate": "2019-09-13T21:57:27.518Z",
-  "lastModifiedDate": "2024-03-22T15:58:04.260Z",
   "effectiveDate": "2019-09-10T17:55:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/rose/Kine_tall_1200x1600-edd893141f34b46b64c2b140778f7c6c1_1200x1600-b1b6654d1208a54ec95221000fc2198e"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/rose/Kine_wide_2560x1440-e617a391cf56f5d69c83262c3a5bfc8a_2560x1440-72deff7fef6a1ee64bfe5069bc33a6e5"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/rose/Kine_tall_1200x1600-edd893141f34b46b64c2b140778f7c6c1_1200x1600-b1b6654d1208a54ec95221000fc2198e"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-na388hs5k2ak86akfejt2es246vaa2",
     "name": "Gwen Frey"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "rosereview",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "36df71bea659419daca3d8df0b666fe1",
+      "namespace": "rose"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "Rose"
+    }
+  ],
   "categories": [
     {
       "path": "spthidden"
@@ -45,52 +58,38 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "{}"
-    },
-    {
-      "key": "developerName",
-      "value": "Rose"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/rose/Kine_tall_1200x1600-edd893141f34b46b64c2b140778f7c6c1_1200x1600-b1b6654d1208a54ec95221000fc2198e",
-      "md5": "b1b6654d1208a54ec95221000fc2198e",
-      "size": 385127,
-      "uploadedDate": "2024-03-22T15:57:42.447Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/rose/Kine_wide_2560x1440-e617a391cf56f5d69c83262c3a5bfc8a_2560x1440-72deff7fef6a1ee64bfe5069bc33a6e5",
-      "md5": "72deff7fef6a1ee64bfe5069bc33a6e5",
-      "size": 594298,
-      "uploadedDate": "2024-03-22T15:57:49.989Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/rose/Kine_tall_1200x1600-edd893141f34b46b64c2b140778f7c6c1_1200x1600-b1b6654d1208a54ec95221000fc2198e",
-      "md5": "b1b6654d1208a54ec95221000fc2198e",
-      "size": 385127,
-      "uploadedDate": "2024-03-22T15:57:59.135Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "36df71bea659419daca3d8df0b666fe1"
-    }
-  ],
   "catalogNs": {
-    "name": "rose"
-  }
+    "mappings": [
+      {
+        "pageSlug": "kine",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

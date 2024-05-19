@@ -1,77 +1,46 @@
 {
+  "title": "WRC 8 FIA World Rally Championship",
   "id": "2fd14d0d1f7745639f83597a8bd884f3",
   "namespace": "epic",
-  "title": "WRC 8 FIA World Rally Championship",
   "description": "WRC 8 FIA World Rally Championship",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "wrc-8/home",
-  "urlSlug": "wrc-8-fia-world-rally-championship",
-  "offerType": "OTHERS",
-  "creationDate": "2019-08-31T02:21:35.321Z",
-  "lastModifiedDate": "2023-03-31T19:01:16.032Z",
   "effectiveDate": "2030-08-30T15:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/offer/epic/WRC8_Wishlist_Landscape-2560x1440-e3fd00ac3c4fce20a808e8897cadfeaf_2560x1440-e3fd00ac3c4fce20a808e8897cadfeaf"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/offer/epic/CodeRedemption_WRC8-340x440-5d61091860d976273aeefd283524e5d7-340x440-5d61091860d976273aeefd283524e5d7_340x440-5d61091860d976273aeefd283524e5d7"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
     "name": "Nacon"
   },
-  "linkedOfferId": "e1cd6be4e19f4248b58048c1f3154a29",
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": "wrc-8/home",
+  "urlSlug": "wrc-8-fia-world-rally-championship",
+  "url": null,
   "tags": [
     {
       "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2024-03-28T21:49:29.573Z",
-      "status": "ACTIVE",
-      "referenceCount": 1846,
-      "comment": null
+      "name": "Multiplayer"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
     },
     {
       "id": "1212",
-      "name": "Racing",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:03.663Z",
-      "updated": "2023-08-23T04:55:54.861Z",
-      "status": "ACTIVE",
-      "referenceCount": 244,
-      "comment": null
+      "name": "Racing"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -96,32 +65,42 @@
       "value": "wrc-8/home"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/offer/epic/WRC8_Wishlist_Landscape-2560x1440-e3fd00ac3c4fce20a808e8897cadfeaf_2560x1440-e3fd00ac3c4fce20a808e8897cadfeaf",
-      "md5": "e3fd00ac3c4fce20a808e8897cadfeaf",
-      "size": 2783991,
-      "uploadedDate": "2023-03-31T19:01:10.234Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/offer/epic/CodeRedemption_WRC8-340x440-5d61091860d976273aeefd283524e5d7-340x440-5d61091860d976273aeefd283524e5d7_340x440-5d61091860d976273aeefd283524e5d7",
-      "md5": "5d61091860d976273aeefd283524e5d7",
-      "size": 136239,
-      "uploadedDate": "2023-03-31T19:01:13.673Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 2700,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "b7685903a22e4ce2926e8edc7f01e1a1"
+          }
+        ]
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2019-09-05T15:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

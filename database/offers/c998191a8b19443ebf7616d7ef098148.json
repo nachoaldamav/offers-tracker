@@ -1,36 +1,37 @@
 {
+  "title": "QA DLC 1",
   "id": "c998191a8b19443ebf7616d7ef098148",
   "namespace": "2bfd5ca43ef443739ada168e017e1b78",
-  "title": "QA DLC 1",
   "description": "Duck QA DLC 1 Audience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "qa-dlc",
-  "offerType": "DLC",
-  "creationDate": "2019-11-23T02:22:54.571Z",
-  "lastModifiedDate": "2024-04-02T16:55:05.127Z",
   "effectiveDate": "2099-03-18T17:08:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Yaga_S3_Store_Portrait_REF-1280x1440-19d2291a8636b3ce1f246d68045411d8.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
     "name": "Versus Evil"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "qa-dlc",
+  "url": null,
+  "tags": [
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "3e3711fd2a914528810bbb48a464636f",
+      "namespace": "2bfd5ca43ef443739ada168e017e1b78"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "spthidden"
@@ -45,38 +46,50 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
-    }
-  ],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Yaga_S3_Store_Portrait_REF-1280x1440-19d2291a8636b3ce1f246d68045411d8.jpg",
-      "md5": "19d2291a8636b3ce1f246d68045411d8",
-      "size": 476971,
-      "uploadedDate": "2019-11-23T02:22:35.413Z",
-      "width": 1280,
-      "height": 1440
-    }
-  ],
-  "items": [
-    {
-      "id": "3e3711fd2a914528810bbb48a464636f"
-    }
-  ],
   "catalogNs": {
-    "name": "2bfd5ca43ef443739ada168e017e1b78"
-  }
+    "mappings": [
+      {
+        "pageSlug": "cardpocalypse--soundtrack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "cardpocalypse",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "cardpocalypse--out-of-time",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "cardpocalypse--time-warp-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,36 +1,37 @@
 {
+  "title": "PuffinDevAudience",
   "id": "b36c8b99e3034a98a81374c60321fd64",
   "namespace": "puffin",
-  "title": "PuffinDevAudience",
   "description": "PuffinDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "puffindevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-01-24T12:51:25.297Z",
-  "lastModifiedDate": "2019-08-05T08:36:42.682Z",
   "effectiveDate": "2020-01-24T07:49:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/puffin/offer/Icon-400x400-f8988a9efb3ecb9b399c5b0fce2a4e1e.png"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
     "name": "Epic Dev Test Account"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "puffindevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "1723f87d7d9e40a3895feacfa2aa51fa",
+      "namespace": "puffin"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Thomas Happ Games LLC"
+    }
+  ],
   "categories": [
     {
       "path": "games"
@@ -39,30 +40,38 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "developerName",
-      "value": "Thomas Happ Games LLC"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/puffin/offer/Icon-400x400-f8988a9efb3ecb9b399c5b0fce2a4e1e.png",
-      "md5": "f8988a9efb3ecb9b399c5b0fce2a4e1e",
-      "size": 132277,
-      "uploadedDate": "2019-01-24T13:05:26.931Z",
-      "width": 400,
-      "height": 400
-    }
-  ],
-  "items": [
-    {
-      "id": "1723f87d7d9e40a3895feacfa2aa51fa"
-    }
-  ],
   "catalogNs": {
-    "name": "puffin"
-  }
+    "mappings": [
+      {
+        "pageSlug": "axiom-verge",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

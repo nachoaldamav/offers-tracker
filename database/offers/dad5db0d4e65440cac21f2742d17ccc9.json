@@ -1,63 +1,61 @@
 {
+  "title": "Test Consumable 1",
   "id": "dad5db0d4e65440cac21f2742d17ccc9",
   "namespace": "1cc95b0cf6d04955a7d71adf51323021",
-  "title": "Test Consumable 1",
   "description": "Test Consumable 1",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "test-consumable1",
-  "offerType": "VIRTUAL_CURRENCY",
-  "creationDate": "2021-06-11T19:36:32.145Z",
-  "lastModifiedDate": "2021-06-11T19:38:40.266Z",
   "effectiveDate": "2099-02-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": false,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-438fcen8cynq3wykna2293ms58gcjp",
     "name": "GoldenBrown"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "test-consumable1",
+  "url": null,
+  "tags": [
+    null
+  ],
+  "items": [
+    {
+      "id": "a0874c48e89145d3935bbb79fe08f665",
+      "namespace": "1cc95b0cf6d04955a7d71adf51323021"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
-    }
-  ],
-  "customAttributes": [],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "a0874c48e89145d3935bbb79fe08f665"
-    }
-  ],
   "catalogNs": {
-    "name": "1cc95b0cf6d04955a7d71adf51323021"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-02-01T00:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,36 +1,45 @@
 {
+  "title": "6480 Donuts",
   "id": "65bec7ba5f72496d8ab940faa35972ab",
   "namespace": "37baf50c268d47779020d73143bb02b0",
-  "title": "6480 Donuts",
   "description": "6480 Donuts",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "6688-donuts",
-  "offerType": "VIRTUAL_CURRENCY",
-  "creationDate": "2020-01-08T16:23:47.630Z",
-  "lastModifiedDate": "2023-08-03T01:02:32.012Z",
   "effectiveDate": "2020-01-07T11:00:00.000Z",
-  "pcReleaseDate": "2020-01-07T11:00:00.000Z",
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/1200x1600-1200x1600-5cf35c0e90ea6f266577be0d40f48761.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/1200x1600-1200x1600-5cf35c0e90ea6f266577be0d40f48761.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/2560X1440-2560x1440-f766cb41f82456b617bdc816d1814901.jpg"
+    }
+  ],
+  "currentPrice": 9999,
   "seller": {
     "id": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
     "name": "Dragonest Game"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "6688-donuts",
+  "url": null,
+  "tags": [
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "29e19cbf568e437d8ba73e2342428894",
+      "namespace": "37baf50c268d47779020d73143bb02b0"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "spthidden/consumable"
@@ -45,56 +54,38 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
-    }
-  ],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/1200x1600-1200x1600-5cf35c0e90ea6f266577be0d40f48761.jpg",
-      "md5": "05fd25a305dd028ce38d9b4f8d88d38a",
-      "size": 239718,
-      "uploadedDate": "2020-04-29T21:17:18.799Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/1200x1600-1200x1600-5cf35c0e90ea6f266577be0d40f48761.jpg",
-      "md5": "05fd25a305dd028ce38d9b4f8d88d38a",
-      "size": 239718,
-      "uploadedDate": "2020-04-29T21:17:27.596Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/2560X1440-2560x1440-f766cb41f82456b617bdc816d1814901.jpg",
-      "md5": "5c27935e08a2986ace4a2fea3de9eda1",
-      "size": 397041,
-      "uploadedDate": "2020-04-29T21:17:40.925Z",
-      "width": 2560,
-      "height": 1440
-    }
-  ],
-  "items": [
-    {
-      "id": "29e19cbf568e437d8ba73e2342428894"
-    }
-  ],
   "catalogNs": {
-    "name": "37baf50c268d47779020d73143bb02b0"
-  }
+    "mappings": [
+      {
+        "pageSlug": "auto-chess",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 9999,
+      "originalPrice": 9999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-01-07T11:00:00.000Z",
+  "pcReleaseDate": "2020-01-07T11:00:00.000Z",
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

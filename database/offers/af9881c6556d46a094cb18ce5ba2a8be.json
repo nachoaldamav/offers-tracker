@@ -1,48 +1,26 @@
 {
+  "title": "JasperDevAudience",
   "id": "af9881c6556d46a094cb18ce5ba2a8be",
   "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
-  "title": "JasperDevAudience",
   "description": "JasperDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "jasperdevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2020-02-13T19:28:26.531Z",
-  "lastModifiedDate": "2020-03-19T13:50:36.562Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
     "name": "Epic Dev Test Account"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "jasperdevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "378915183f494efaa0e2f128d6dd1f79",
+      "namespace": "ecebf45065bc4993abfe0e84c40ff18e"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -57,13 +35,66 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "378915183f494efaa0e2f128d6dd1f79"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "ecebf45065bc4993abfe0e84c40ff18e"
-  }
+    "mappings": [
+      {
+        "pageSlug": "watch-dogs--bad-blood-dlc",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "watch-dogs--season-pass",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "watch-dogs--access-granted-dlc",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "watch-dogs",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "watch-dogs--complete-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "watch-dogs--conspiracy-dlc",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,39 +1,41 @@
 {
+  "title": "NPC Attire Package",
   "id": "31359e1c3f6d4998820a908ab066966b",
   "namespace": "cobra",
-  "title": "NPC Attire Package",
   "description": "NPC Attire Package",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "cobranpcattire",
-  "offerType": "DLC",
-  "creationDate": "2020-03-04T15:12:21.452Z",
-  "lastModifiedDate": "2024-04-18T16:20:47.514Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": "Focus Home",
-  "countriesBlacklist": [
-    "RU",
-    "BY"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 399,
   "seller": {
     "id": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
     "name": "Focus Entertainment Publishing"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "cobranpcattire",
+  "url": null,
+  "tags": [
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "c8d5eb6a3bff4e2f89a64f5f5c260c70",
+      "namespace": "cobra"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "Team17"
+    }
+  ],
   "categories": [
     {
       "path": "spthidden"
@@ -48,37 +50,38 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "[]"
-    },
-    {
-      "key": "developerName",
-      "value": "Team17"
-    }
-  ],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "c8d5eb6a3bff4e2f89a64f5f5c260c70"
-    }
-  ],
   "catalogNs": {
-    "name": "cobra"
-  }
+    "mappings": [
+      {
+        "pageSlug": "my-time-at-portia",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": "Focus Home",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 399,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

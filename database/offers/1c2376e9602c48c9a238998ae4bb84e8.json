@@ -1,46 +1,39 @@
 {
+  "title": "SnapdragonDevAudience",
   "id": "1c2376e9602c48c9a238998ae4bb84e8",
   "namespace": "snapdragon",
-  "title": "SnapdragonDevAudience",
   "description": "SnapdragonDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "snapdragondevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-01-11T14:23:20.479Z",
-  "lastModifiedDate": "2023-03-06T17:20:12.773Z",
   "effectiveDate": "2099-01-22T15:02:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "KR",
-    "BY"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/snapdragon/metro_exodus_epic_tile_1200x1600_1200x1600-bfecd8f57c04dac1b5a772d050bcfc39"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/snapdragon/metro_exodus_epic_tile_1200x1600_1200x1600-bfecd8f57c04dac1b5a772d050bcfc39"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
     "name": "Plaion"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "snapdragondevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
+      "id": "955df4b62aad4844b98d880f79f11fa1",
+      "namespace": "snapdragon"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -55,41 +48,67 @@
       "value": "4A Games"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/snapdragon/metro_exodus_epic_tile_1200x1600_1200x1600-bfecd8f57c04dac1b5a772d050bcfc39",
-      "md5": "bfecd8f57c04dac1b5a772d050bcfc39",
-      "size": 3676665,
-      "uploadedDate": "2022-11-21T18:57:14.456Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/undefined",
-      "md5": "6fdc4878c639d022e1dfc1851623594a",
-      "size": 6065760,
-      "uploadedDate": "2022-11-21T18:57:11.166Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/snapdragon/metro_exodus_epic_tile_1200x1600_1200x1600-bfecd8f57c04dac1b5a772d050bcfc39",
-      "md5": "bfecd8f57c04dac1b5a772d050bcfc39",
-      "size": 3676665,
-      "uploadedDate": "2022-11-21T18:57:05.859Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "955df4b62aad4844b98d880f79f11fa1"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "snapdragon"
-  }
+    "mappings": [
+      {
+        "pageSlug": "metro-exodus--sams-story",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "metro-exodus--expansion-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "metro-exodus--sdk",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "metro-exodus--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "metro-exodus--the-two-colonels",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "metro-exodus",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "metro-exodus--gold-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

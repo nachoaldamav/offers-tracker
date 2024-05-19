@@ -1,79 +1,46 @@
 {
+  "title": "Omen of Sorrow",
   "id": "68471ffa1abb488aaa6d7c04bd5eff85",
   "namespace": "epic",
-  "title": "Omen of Sorrow",
   "description": "Omen of Sorrow",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "omen-of-sorrow/home",
-  "urlSlug": "omen-of-sorrow",
-  "offerType": "OTHERS",
-  "creationDate": "2019-06-03T13:46:21.933Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
   "effectiveDate": "2019-06-07T10:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/portrait_epicgames_full-860x1148-90c34fae2eec55fed474ad3c11e9fbb0.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/background_epic_fullgame-2560x1440-222352d2f6b8b99f5607adc1ed01befe.png"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "currentPrice": 0,
   "seller": {
     "id": "o-ee2mpv5fbfg9j22arjrh7vjmypew5q",
     "name": "AOne Games"
   },
-  "linkedOfferId": "31c654e6b48a4d7288371cbaea5d7f61",
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": "omen-of-sorrow/home",
+  "urlSlug": "omen-of-sorrow",
+  "url": null,
   "tags": [
     {
       "id": "1344",
-      "name": "Fighting",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:09.322Z",
-      "updated": "2023-08-22T18:49:21.482Z",
-      "status": "ACTIVE",
-      "referenceCount": 129,
-      "comment": null
+      "name": "Fighting"
     },
     {
       "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2024-03-28T21:49:29.573Z",
-      "status": "ACTIVE",
-      "referenceCount": 1846,
-      "comment": null
+      "name": "Multiplayer"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -98,32 +65,38 @@
       "value": "31c654e6b48a4d7288371cbaea5d7f61"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/portrait_epicgames_full-860x1148-90c34fae2eec55fed474ad3c11e9fbb0.png",
-      "md5": "90c34fae2eec55fed474ad3c11e9fbb0",
-      "size": 1894768,
-      "uploadedDate": "2020-04-21T13:41:39.057Z",
-      "width": 860,
-      "height": 1148
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/background_epic_fullgame-2560x1440-222352d2f6b8b99f5607adc1ed01befe.png",
-      "md5": "222352d2f6b8b99f5607adc1ed01befe",
-      "size": 4517531,
-      "uploadedDate": "2020-04-21T13:41:53.697Z",
-      "width": 2560,
-      "height": 1440
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2019-06-07T15:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

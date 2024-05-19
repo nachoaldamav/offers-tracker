@@ -1,62 +1,29 @@
 {
+  "title": "DLC 005 - In-game Currency 005",
   "id": "e56bcbe61dde4d86bed72445352471a2",
   "namespace": "42ec8b08da634e5eb72459a8ec7d973b",
-  "title": "DLC 005 - In-game Currency 005",
   "description": "DLC 005 - In-game Currency 005",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "sq-bridgedlc005",
-  "offerType": "VIRTUAL_CURRENCY",
-  "creationDate": "2021-04-27T20:09:28.291Z",
-  "lastModifiedDate": "2023-08-02T23:20:57.342Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": "2099-01-01T00:00:00.000Z",
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": "2021-05-18T16:32:12.000Z",
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": false,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-xbmhhs32ajtuszar863dprgnwtvedk",
     "name": "Square Enix (Japan)"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "spthidden/consumable"
-    },
-    {
-      "path": "spthidden"
-    },
-    {
-      "path": "consumable"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "sq-bridgedlc005",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "9b96615262aa4d6ab7ef9bb303fdf2cb",
+      "namespace": "42ec8b08da634e5eb72459a8ec7d973b"
     }
   ],
   "customAttributes": [
@@ -73,13 +40,47 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "9b96615262aa4d6ab7ef9bb303fdf2cb"
+      "path": "spthidden/consumable"
+    },
+    {
+      "path": "spthidden"
+    },
+    {
+      "path": "consumable"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "42ec8b08da634e5eb72459a8ec7d973b"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": "2021-05-18T16:32:12.000Z",
+  "approximateReleasePlan": null
 }

@@ -1,62 +1,46 @@
 {
+  "title": "Overpass Deluxe Edition Pre-Purchase",
   "id": "621018656f584f5f8a569a8be531ac8f",
   "namespace": "90c3f58497da48d789cc39bff57dc2f4",
-  "title": "Overpass Deluxe Edition Pre-Purchase",
   "description": "Overpass Deluxe Edition Pre-Purchase",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "sandpiper-deluxe-edition-pre-purchase",
-  "offerType": "EDITION",
-  "creationDate": "2020-01-09T21:04:45.365Z",
-  "lastModifiedDate": "2023-08-03T15:22:14.925Z",
   "effectiveDate": "2020-01-15T15:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/EGS_Bigben_Overpass_MobileVertical-510x680-101a7e9adece32ccdf8e23280f053025.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/EGS_Overpass_DesktopHorizontal-1360x766-8f99ba72dfbff47153fdec87b66ce21d.jpg"
+    }
+  ],
+  "currentPrice": 4999,
   "seller": {
     "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
     "name": "Nacon"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "spthidden"
-    },
-    {
-      "path": "games"
-    },
-    {
-      "path": "spthidden/edition"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "sandpiper-deluxe-edition-pre-purchase",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "345e602010834075ab1c1bb378ef10b5",
+      "namespace": "90c3f58497da48d789cc39bff57dc2f4"
+    },
+    {
+      "id": "0cc51a090b004445b4240103e77b8cba",
+      "namespace": "90c3f58497da48d789cc39bff57dc2f4"
+    },
+    {
+      "id": "508964795add4b538323d9d0157cbfab",
+      "namespace": "90c3f58497da48d789cc39bff57dc2f4"
     }
   ],
   "customAttributes": [
@@ -77,38 +61,72 @@
       "value": "Zordix Racing"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/EGS_Bigben_Overpass_MobileVertical-510x680-101a7e9adece32ccdf8e23280f053025.jpg",
-      "md5": "101a7e9adece32ccdf8e23280f053025",
-      "size": 340489,
-      "uploadedDate": "2020-01-15T20:23:32.382Z",
-      "width": 510,
-      "height": 680
+      "path": "spthidden"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/EGS_Overpass_DesktopHorizontal-1360x766-8f99ba72dfbff47153fdec87b66ce21d.jpg",
-      "md5": "8f99ba72dfbff47153fdec87b66ce21d",
-      "size": 658152,
-      "uploadedDate": "2020-01-15T20:23:53.342Z",
-      "width": 1360,
-      "height": 766
-    }
-  ],
-  "items": [
-    {
-      "id": "345e602010834075ab1c1bb378ef10b5"
+      "path": "games"
     },
     {
-      "id": "0cc51a090b004445b4240103e77b8cba"
+      "path": "spthidden/edition"
     },
     {
-      "id": "508964795add4b538323d9d0157cbfab"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "90c3f58497da48d789cc39bff57dc2f4"
-  }
+    "mappings": [
+      {
+        "pageSlug": "overpass--yamaha-special-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "overpass--expert-vehicles-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "overpass--smart-start-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "overpass--drive-with-style",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "overpass",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "overpass--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": true,
+  "releaseDate": "2020-02-27T16:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

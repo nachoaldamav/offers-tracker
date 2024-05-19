@@ -1,45 +1,35 @@
 {
+  "title": "HeronDevAudience",
   "id": "758217bf43b14f7a970495afd9fcc6a1",
   "namespace": "00b9ec358e1f46daa4f8e1194d5081d8",
-  "title": "HeronDevAudience",
   "description": "HeronDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "herondevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-07-22T19:13:35.371Z",
-  "lastModifiedDate": "2019-08-02T14:56:25.732Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/00b9ec358e1f46daa4f8e1194d5081d8/offer/Alan_Wake_Game_Page_promotion_2580x1450-2580x1450-3b4f3ab0ced63b27e8a3eb4a3eb68dfd.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/00b9ec358e1f46daa4f8e1194d5081d8/offer/CodeRedemption_AlanWake-330x440-b17ccebacb35402ab0df230a59d44cd3.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-sdmmvl8pftrkwfy86bjp286kuwhnsq",
     "name": "Remedy Entertainment"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "herondevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "e53fc37ef4654a19bb78dfb0590f123f",
+      "namespace": "00b9ec358e1f46daa4f8e1194d5081d8"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -50,32 +40,46 @@
       "value": "Remedy Entertainment"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/00b9ec358e1f46daa4f8e1194d5081d8/offer/Alan_Wake_Game_Page_promotion_2580x1450-2580x1450-3b4f3ab0ced63b27e8a3eb4a3eb68dfd.jpg",
-      "md5": "3b4f3ab0ced63b27e8a3eb4a3eb68dfd",
-      "size": 243130,
-      "uploadedDate": "2019-07-22T21:41:39.334Z",
-      "width": 2580,
-      "height": 1450
+      "path": "games"
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/00b9ec358e1f46daa4f8e1194d5081d8/offer/CodeRedemption_AlanWake-330x440-b17ccebacb35402ab0df230a59d44cd3.jpg",
-      "md5": "b17ccebacb35402ab0df230a59d44cd3",
-      "size": 51987,
-      "uploadedDate": "2019-07-22T21:41:52.002Z",
-      "width": 330,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "e53fc37ef4654a19bb78dfb0590f123f"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "00b9ec358e1f46daa4f8e1194d5081d8"
-  }
+    "mappings": [
+      {
+        "pageSlug": "alan-wake",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

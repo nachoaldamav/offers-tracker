@@ -1,53 +1,47 @@
 {
+  "title": "Observation Humble Bundle DevAudience",
   "id": "ec657440106b44e4b7da05f971e691b6",
   "namespace": "allium",
-  "title": "Observation Humble Bundle DevAudience",
   "description": "Observation Humble Bundle Audience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "observation-humble-bundle",
-  "offerType": "OTHERS",
-  "creationDate": "2019-05-21T17:18:40.787Z",
-  "lastModifiedDate": "2024-04-10T18:36:23.558Z",
   "effectiveDate": "2019-05-20T13:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Observation_CodeRedemption-340x440-28a09a7bc027c314c49e0328c305cbe0.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/allium/Tall_1200x1600-646c78ac0e1fbdfd385bd47e818ade7e"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/allium/Wide_1920x1080-6dfe300a2a6e1f16410267103c8e5a2e"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/allium/Tall_1200x1600-646c78ac0e1fbdfd385bd47e818ade7e"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
     "name": "Devolver Digital, Inc."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "observation-humble-bundle",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "spthidden"
+      "id": "f1c91cdb410446fe82bc81bd5206a20f",
+      "namespace": "allium"
     },
     {
-      "path": "games"
-    },
-    {
-      "path": "spthidden/edition"
-    },
-    {
-      "path": "applications"
+      "id": "7340f4df71194aafbef6e575cc544bed",
+      "namespace": "allium"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -62,53 +56,52 @@
       "value": "NoCode"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Observation_CodeRedemption-340x440-28a09a7bc027c314c49e0328c305cbe0.jpg",
-      "md5": "28a09a7bc027c314c49e0328c305cbe0",
-      "size": 66637,
-      "uploadedDate": "2019-05-21T17:16:55.053Z",
-      "width": 340,
-      "height": 440
+      "path": "spthidden"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/allium/Tall_1200x1600-646c78ac0e1fbdfd385bd47e818ade7e",
-      "md5": "646c78ac0e1fbdfd385bd47e818ade7e",
-      "size": 311704,
-      "uploadedDate": "2024-04-10T18:36:16.821Z",
-      "width": 1200,
-      "height": 1600
+      "path": "games"
     },
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/allium/Wide_1920x1080-6dfe300a2a6e1f16410267103c8e5a2e",
-      "md5": "6dfe300a2a6e1f16410267103c8e5a2e",
-      "size": 256272,
-      "uploadedDate": "2024-04-10T18:36:14.394Z",
-      "width": 1920,
-      "height": 1080
+      "path": "spthidden/edition"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/allium/Tall_1200x1600-646c78ac0e1fbdfd385bd47e818ade7e",
-      "md5": "646c78ac0e1fbdfd385bd47e818ade7e",
-      "size": 311704,
-      "uploadedDate": "2024-04-10T18:36:10.614Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "f1c91cdb410446fe82bc81bd5206a20f"
-    },
-    {
-      "id": "7340f4df71194aafbef6e575cc544bed"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "allium"
-  }
+    "mappings": [
+      {
+        "pageSlug": "observation",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2019-05-21T15:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

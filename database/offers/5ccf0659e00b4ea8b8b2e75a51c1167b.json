@@ -1,56 +1,38 @@
 {
+  "title": "Journey To The Savage Planet Retail Offer",
   "id": "5ccf0659e00b4ea8b8b2e75a51c1167b",
   "namespace": "oleander",
-  "title": "Journey To The Savage Planet Retail Offer",
   "description": "Journey To The Savage Planet",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "jttspgeneralaudience",
-  "offerType": "BASE_GAME",
-  "creationDate": "2020-01-26T22:44:13.921Z",
-  "lastModifiedDate": "2020-03-18T18:54:42.797Z",
   "effectiveDate": "2050-03-10T09:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/oleander/offer/CodeRedemption_JTTSP-340x440-9ea78ab53cc23c54bd3f7d574c19e0de.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/oleander/offer/CodeRedemption_JTTSP-340x440-9ea78ab53cc23c54bd3f7d574c19e0de.jpg"
+    }
+  ],
+  "currentPrice": 2999,
   "seller": {
     "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
     "name": "505 Games"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "jttspgeneralaudience",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "7086e30cad7744a88254de26685177b0",
+      "namespace": "oleander"
     }
   ],
   "customAttributes": [
@@ -63,32 +45,50 @@
       "value": "Typhoon Studios"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/oleander/offer/CodeRedemption_JTTSP-340x440-9ea78ab53cc23c54bd3f7d574c19e0de.jpg",
-      "md5": "9ea78ab53cc23c54bd3f7d574c19e0de",
-      "size": 151857,
-      "uploadedDate": "2019-08-19T13:13:59.446Z",
-      "width": 340,
-      "height": 440
+      "path": "games"
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/oleander/offer/CodeRedemption_JTTSP-340x440-9ea78ab53cc23c54bd3f7d574c19e0de.jpg",
-      "md5": "9ea78ab53cc23c54bd3f7d574c19e0de",
-      "size": 151857,
-      "uploadedDate": "2019-08-19T13:14:06.605Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "7086e30cad7744a88254de26685177b0"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "oleander"
-  }
+    "mappings": [
+      {
+        "pageSlug": "journey-to-the-savage-planet--hot-garbage",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "journey-to-the-savage-planet",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-01-28T15:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

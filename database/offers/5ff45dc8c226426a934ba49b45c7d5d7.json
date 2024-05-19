@@ -1,39 +1,40 @@
 {
+  "title": "Ghost Recon Breakpoint - Closed Beta [SAC]",
   "id": "5ff45dc8c226426a934ba49b45c7d5d7",
   "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
-  "title": "Ghost Recon Breakpoint - Closed Beta [SAC]",
   "description": "Ghost Recon Breakpoint - Closed Beta [SAC]",
-  "longDescription": "",
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "ghost-recon-breakpoint-beta",
-  "offerType": "OTHERS",
-  "creationDate": "2019-08-29T14:42:07.363Z",
-  "lastModifiedDate": "2019-09-20T17:07:25.625Z",
   "effectiveDate": "2099-09-03T10:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/item/Diesel_product_ratings_RP_FOR_T_M_AO-842x404-e685858d6f01213bedf5b2abec53be94.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemptionTCGRB-330x440-70b00886176ffa2e22b86eaa389c7a50.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemptionTCGRB-330x440-70b00886176ffa2e22b86eaa389c7a50.png"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": "This will eventually be for the open beta and SAC,  the upcoming beta closed beta is actually for Ultimate and Gold editions.",
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "ghost-recon-breakpoint-beta",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "11cf8a5f961d45c48e5d3b399104d7aa",
+      "namespace": "2dbd2f64abdc4bbab077424d5c85e01b"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "games"
@@ -42,43 +43,58 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/item/Diesel_product_ratings_RP_FOR_T_M_AO-842x404-e685858d6f01213bedf5b2abec53be94.png",
-      "md5": "e685858d6f01213bedf5b2abec53be94",
-      "size": 55379,
-      "uploadedDate": "2019-05-09T04:36:42.916Z",
-      "width": 842,
-      "height": 404
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemptionTCGRB-330x440-70b00886176ffa2e22b86eaa389c7a50.png",
-      "md5": "70b00886176ffa2e22b86eaa389c7a50",
-      "size": 325115,
-      "uploadedDate": "2019-08-29T14:41:47.022Z",
-      "width": 330,
-      "height": 440
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemptionTCGRB-330x440-70b00886176ffa2e22b86eaa389c7a50.png",
-      "md5": "70b00886176ffa2e22b86eaa389c7a50",
-      "size": 325115,
-      "uploadedDate": "2019-08-29T14:42:04.439Z",
-      "width": 330,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "11cf8a5f961d45c48e5d3b399104d7aa"
-    }
-  ],
   "catalogNs": {
-    "name": "2dbd2f64abdc4bbab077424d5c85e01b"
-  }
+    "mappings": [
+      {
+        "pageSlug": "ghost-recon-breakpoint--gold-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ghost-recon-breakpoint",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "ghost-recon-breakpoint--free-demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ghost-recon-breakpoint--year-one-pass",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ghost-recon-breakpoint--ultimate-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ghost-recon-breakpoint--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

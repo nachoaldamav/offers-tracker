@@ -1,36 +1,36 @@
 {
+  "title": "Allium Dev Audience",
   "id": "2f3b18d5a9fe42fb854938fe06f17b63",
   "namespace": "allium",
-  "title": "Allium Dev Audience",
   "description": "Allium Dev Audience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "alliumdevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-03-25T22:34:41.929Z",
-  "lastModifiedDate": "2020-04-29T00:38:34.973Z",
   "effectiveDate": "2019-03-24T18:25:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Observation_CodeRedemption-340x440-28a09a7bc027c314c49e0328c305cbe0.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Observation_GameIcon-400x400-978d721b3d16cabd51a3d1c62bc6f7c5.png"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
     "name": "Devolver Digital, Inc."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "alliumdevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "118977a888de4068b33bf35bca297a20",
+      "namespace": "allium"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "games"
@@ -39,34 +39,38 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Observation_CodeRedemption-340x440-28a09a7bc027c314c49e0328c305cbe0.jpg",
-      "md5": "28a09a7bc027c314c49e0328c305cbe0",
-      "size": 66637,
-      "uploadedDate": "2019-03-25T22:31:14.505Z",
-      "width": 340,
-      "height": 440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Observation_GameIcon-400x400-978d721b3d16cabd51a3d1c62bc6f7c5.png",
-      "md5": "978d721b3d16cabd51a3d1c62bc6f7c5",
-      "size": 73950,
-      "uploadedDate": "2019-03-25T22:31:27.015Z",
-      "width": 400,
-      "height": 400
-    }
-  ],
-  "items": [
-    {
-      "id": "118977a888de4068b33bf35bca297a20"
-    }
-  ],
   "catalogNs": {
-    "name": "allium"
-  }
+    "mappings": [
+      {
+        "pageSlug": "observation",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

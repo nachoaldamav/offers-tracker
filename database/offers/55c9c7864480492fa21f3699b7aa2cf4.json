@@ -1,83 +1,50 @@
 {
+  "title": "Assassin's Creed Syndicate Gold Edition",
   "id": "55c9c7864480492fa21f3699b7aa2cf4",
   "namespace": "c9be94273fe244c08032ca493ad87434",
-  "title": "Assassin's Creed Syndicate Gold Edition",
   "description": "The Assassin’s Creed Syndicate - Gold Edition includes the Special Edition and the Season Pass.",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "assassins-creed-syndicate/gold-edition",
-  "urlSlug": "albacoregoldaudience",
-  "offerType": "EDITION",
-  "creationDate": "2020-02-10T04:37:52.893Z",
-  "lastModifiedDate": "2024-05-14T08:34:47.839Z",
   "effectiveDate": "2020-02-27T16:00:00.000Z",
-  "pcReleaseDate": "2015-10-23T00:00:00.000Z",
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY",
-    "CN"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "assassins-creed-syndicate--gold-edition"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/c9be94273fe244c08032ca493ad87434/offer/GameName_Edition_Capsule_1920X1080-1920x1080-b09a607c7a73e17e96a76aebececebe65c3700e7.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/c9be94273fe244c08032ca493ad87434/ACSyndicateGoldPortrait_1200x1600-f9d03c39b099ec18cc08d2468f961cce"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "assassins-creed-syndicate--gold-edition"
-    }
-  ],
+  "currentPrice": 5999,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    },
-    {
-      "path": "games/edition"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": "assassins-creed-syndicate/gold-edition",
+  "urlSlug": "albacoregoldaudience",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
     },
     {
       "id": "16011",
-      "name": "Epic MEGA Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-04-27T08:10:34.554Z",
-      "updated": "2024-05-16T14:58:02.941Z",
-      "status": "ACTIVE",
-      "referenceCount": 3048,
-      "comment": ""
+      "name": "Epic MEGA Sale"
+    }
+  ],
+  "items": [
+    {
+      "id": "df40b68948244e0493561f2a65956f50",
+      "namespace": "c9be94273fe244c08032ca493ad87434"
+    },
+    {
+      "id": "b2ce5dd6399d472eb91a9b5631dca4ab",
+      "namespace": "c9be94273fe244c08032ca493ad87434"
+    },
+    {
+      "id": "d000c585f57342148677def9cd754613",
+      "namespace": "c9be94273fe244c08032ca493ad87434"
     }
   ],
   "customAttributes": [
@@ -94,38 +61,78 @@
       "value": "assassins-creed-syndicate/gold-edition"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/c9be94273fe244c08032ca493ad87434/offer/GameName_Edition_Capsule_1920X1080-1920x1080-b09a607c7a73e17e96a76aebececebe65c3700e7.jpg",
-      "md5": "95628c7779d373031f6478d7b04d9407",
-      "size": 83455,
-      "uploadedDate": "2020-02-12T09:41:44.790Z",
-      "width": 1920,
-      "height": 1080
+      "path": "games"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/c9be94273fe244c08032ca493ad87434/ACSyndicateGoldPortrait_1200x1600-f9d03c39b099ec18cc08d2468f961cce",
-      "md5": "f9d03c39b099ec18cc08d2468f961cce",
-      "size": 311370,
-      "uploadedDate": "2022-11-18T17:05:04.691Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "df40b68948244e0493561f2a65956f50"
+      "path": "games/edition"
     },
     {
-      "id": "b2ce5dd6399d472eb91a9b5631dca4ab"
-    },
-    {
-      "id": "d000c585f57342148677def9cd754613"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "c9be94273fe244c08032ca493ad87434"
-  }
+    "mappings": [
+      {
+        "pageSlug": "assassins-creed-syndicate",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "assassins-creed-syndicate--the-dreadful-crimes",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-syndicate--jack-the-ripper",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-syndicate--gold-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-syndicate--season-pass",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-syndicate--the-last-maharaja",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "assassins-creed-syndicate--gold-edition",
+      "pageType": "offer"
+    }
+  ],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 5999,
+      "voucherDiscount": 0,
+      "discount": 4500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "defb9087117d4e70b00b1a007148882c"
+          }
+        ]
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-02-27T16:00:00.000Z",
+  "pcReleaseDate": "2015-10-23T00:00:00.000Z",
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,56 +1,42 @@
 {
+  "title": "Satisfactory Pre-Purchase",
   "id": "e5b211c14c5f4751a09b4832a09bd295",
   "namespace": "crab",
-  "title": "Satisfactory Pre-Purchase",
   "description": "Satisfactory Pre-Purchase",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "satisfactoryprepurchase",
-  "offerType": "BASE_GAME",
-  "creationDate": "2019-03-06T14:13:03.996Z",
-  "lastModifiedDate": "2023-08-03T15:21:52.393Z",
   "effectiveDate": "2019-03-06T16:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/crab/offer/Satisfactory_GameLogo-1920x459-5f61794ee125fd7ed1582887325c7ed0.png"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/crab/offer/EGS_COFFEESTAIN_SATISFACTORY_S2_Update1KeyArt-2560x1440-806be3347a375a0d81455eb3c8e64f2f.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/crab/offer/EGS_COFFEESTAIN_SATISFACTORY_S3_Update1KeyArt-1280x1440-aa1587cde6c5f2ab6973941937f80007.jpg"
+    }
+  ],
+  "currentPrice": 2995,
   "seller": {
     "id": "o-9r9hp69ccnr39qp9f9mgpsznznu4as",
     "name": "Coffee Stain Publishing"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "satisfactoryprepurchase",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "484f450430e34071b52833ac63e670d2",
+      "namespace": "crab"
     }
   ],
   "customAttributes": [
@@ -67,41 +53,54 @@
       "value": "Coffee Stain Studios"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/crab/offer/Satisfactory_GameLogo-1920x459-5f61794ee125fd7ed1582887325c7ed0.png",
-      "md5": "5f61794ee125fd7ed1582887325c7ed0",
-      "size": 64367,
-      "uploadedDate": "2019-03-06T14:23:34.862Z",
-      "width": 1920,
-      "height": 459
+      "path": "games"
     },
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/crab/offer/EGS_COFFEESTAIN_SATISFACTORY_S2_Update1KeyArt-2560x1440-806be3347a375a0d81455eb3c8e64f2f.jpg",
-      "md5": "806be3347a375a0d81455eb3c8e64f2f",
-      "size": 201248,
-      "uploadedDate": "2019-05-13T21:43:20.632Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/crab/offer/EGS_COFFEESTAIN_SATISFACTORY_S3_Update1KeyArt-1280x1440-aa1587cde6c5f2ab6973941937f80007.jpg",
-      "md5": "aa1587cde6c5f2ab6973941937f80007",
-      "size": 126957,
-      "uploadedDate": "2019-05-13T21:43:34.351Z",
-      "width": 1280,
-      "height": 1440
-    }
-  ],
-  "items": [
-    {
-      "id": "484f450430e34071b52833ac63e670d2"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "crab"
-  }
+    "mappings": [
+      {
+        "pageSlug": "satisfactory",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "satisfactory--dedicated-server",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "satisfactory--early-access-weekend",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2995,
+      "originalPrice": 2995,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": true,
+  "releaseDate": "2019-03-19T14:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,45 +1,26 @@
 {
+  "title": "TanzaniteDevAudience",
   "id": "6c09c67308a34a8ab76c70351bb8cc85",
   "namespace": "395be8a9aed24142b30b6abb2778e995",
-  "title": "TanzaniteDevAudience",
   "description": "TanzaniteDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "tanzanitedevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2020-02-17T07:12:13.469Z",
-  "lastModifiedDate": "2020-03-12T14:40:11.510Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-lj8mtqmxvzj3vay37vhmwu2ptycae8",
     "name": "Analgesic Productions"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "tanzanitedevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "a7e5bd829a1f42c384b9ea26bf726a38",
+      "namespace": "395be8a9aed24142b30b6abb2778e995"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -54,13 +35,54 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "a7e5bd829a1f42c384b9ea26bf726a38"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "395be8a9aed24142b30b6abb2778e995"
-  }
+    "mappings": [
+      {
+        "pageSlug": "anodyne-2-return-to-dust",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "anodyne-2-return-to-dust--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "anodyne-2-return-to-dust--game-and-soundtrack-bundle",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

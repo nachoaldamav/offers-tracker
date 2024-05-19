@@ -1,68 +1,46 @@
 {
+  "title": "GoNNER",
   "id": "cefa7f9e970d4b93b828831d05f4e7ae",
   "namespace": "epic",
-  "title": "GoNNER",
   "description": "GoNNER",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "gonner/home",
-  "urlSlug": "gonner",
-  "offerType": "OTHERS",
-  "creationDate": "2020-02-25T19:50:47.920Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
   "effectiveDate": "2020-03-05T16:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2020-02-26T16:00:00.000Z",
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_ART_IN_HEART_GONNER_S1_DESCRIPTION-2560x1440-06254a47f26133e9c50c36b9ba5a4539.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_ART_IN_HEART_GONNER_S2_DESCRIPTION-1280x1440-27d8b7fa65e5b130cbcf759a6c1204a9.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_ART_IN_HEART_GONNER_IC1_DESCRIPTION-1500x500-1e41f75b20f643158b9f78a80b3ffc2c.png"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
     "name": "Raw Fury"
   },
-  "linkedOfferId": "bef777f5e5e74f6a942384638c41cc51",
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": "gonner/home",
+  "urlSlug": "gonner",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
     },
     {
       "id": "10719",
-      "name": "Mac OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX",
-        "macOS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-08-23T05:08:24.605Z",
-      "status": "ACTIVE",
-      "referenceCount": 1146,
-      "comment": null
+      "name": "Mac OS"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -87,41 +65,38 @@
       "value": "gonner/home"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_ART_IN_HEART_GONNER_S1_DESCRIPTION-2560x1440-06254a47f26133e9c50c36b9ba5a4539.jpg",
-      "md5": "06254a47f26133e9c50c36b9ba5a4539",
-      "size": 2831632,
-      "uploadedDate": "2020-02-25T19:49:50.559Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_ART_IN_HEART_GONNER_S2_DESCRIPTION-1280x1440-27d8b7fa65e5b130cbcf759a6c1204a9.jpg",
-      "md5": "27d8b7fa65e5b130cbcf759a6c1204a9",
-      "size": 1233722,
-      "uploadedDate": "2020-02-25T19:50:02.003Z",
-      "width": 1280,
-      "height": 1440
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_ART_IN_HEART_GONNER_IC1_DESCRIPTION-1500x500-1e41f75b20f643158b9f78a80b3ffc2c.png",
-      "md5": "1e41f75b20f643158b9f78a80b3ffc2c",
-      "size": 264887,
-      "uploadedDate": "2020-02-25T19:50:14.851Z",
-      "width": 1500,
-      "height": 500
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-03-05T16:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": "2020-02-26T16:00:00.000Z",
+  "approximateReleasePlan": null
 }

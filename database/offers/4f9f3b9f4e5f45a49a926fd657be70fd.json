@@ -1,36 +1,41 @@
 {
+  "title": "LotusDevelopmentAudience",
   "id": "4f9f3b9f4e5f45a49a926fd657be70fd",
   "namespace": "lotus",
-  "title": "LotusDevelopmentAudience",
   "description": "LotusDevelopmentAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "lotusdevelopmentaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-02-04T20:26:16.671Z",
-  "lastModifiedDate": "2024-04-02T18:56:01.238Z",
   "effectiveDate": "2099-02-04T15:24:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/lotus/offer/OxygenNotIncluded_CodeRedemption-340x440-6a5ecf39084d4e1e876668d7b8eaedc2.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/lotus/EGS_OxygenNotIncluded_KleiEntertainment_S2-1200x1600-f8fd3fc155826031220cb8f73acf49a3_1200x1600-f8fd3fc155826031220cb8f73acf49a3"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-6v5su732w3tnzud9lque2m7s4qzvjx",
     "name": "Klei Entertainment"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "lotusdevelopmentaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "62e348a8c59a43ee846b567da54eb010",
+      "namespace": "lotus"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Klei Entertainment"
+    }
+  ],
   "categories": [
     {
       "path": "games"
@@ -39,39 +44,42 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "developerName",
-      "value": "Klei Entertainment"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/lotus/offer/OxygenNotIncluded_CodeRedemption-340x440-6a5ecf39084d4e1e876668d7b8eaedc2.jpg",
-      "md5": "6a5ecf39084d4e1e876668d7b8eaedc2",
-      "size": 95942,
-      "uploadedDate": "2019-02-19T15:38:28.153Z",
-      "width": 340,
-      "height": 440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/lotus/EGS_OxygenNotIncluded_KleiEntertainment_S2-1200x1600-f8fd3fc155826031220cb8f73acf49a3_1200x1600-f8fd3fc155826031220cb8f73acf49a3",
-      "md5": "f8fd3fc155826031220cb8f73acf49a3",
-      "size": 962578,
-      "uploadedDate": "2024-04-02T18:55:57.172Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "62e348a8c59a43ee846b567da54eb010"
-    }
-  ],
   "catalogNs": {
-    "name": "lotus"
-  }
+    "mappings": [
+      {
+        "pageSlug": "oxygen-not-included",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "oxygen-not-included--spaced-out",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

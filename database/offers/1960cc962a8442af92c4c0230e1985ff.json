@@ -1,38 +1,36 @@
 {
+  "title": "Yaga Press",
   "id": "1960cc962a8442af92c4c0230e1985ff",
   "namespace": "bec57b5341ad4294b005a7dd18691419",
-  "title": "Yaga Press",
   "description": "Yaga Press",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "yaga-press",
-  "offerType": "OTHERS",
-  "creationDate": "2019-09-23T22:12:11.194Z",
-  "lastModifiedDate": "2024-04-02T18:56:00.407Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
     "name": "Versus Evil"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "yaga-press",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "eeb68bebe2ea49c8845639a8d2d9e981",
+      "namespace": "bec57b5341ad4294b005a7dd18691419"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Versus Evil"
+    }
+  ],
   "categories": [
     {
       "path": "spthidden"
@@ -47,24 +45,54 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "KR"
-    },
-    {
-      "key": "publisherName",
-      "value": "Versus Evil"
-    }
-  ],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "eeb68bebe2ea49c8845639a8d2d9e981"
-    }
-  ],
   "catalogNs": {
-    "name": "bec57b5341ad4294b005a7dd18691419"
-  }
+    "mappings": [
+      {
+        "pageSlug": "yaga--bad-luck-bundle",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "yaga",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "yaga--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "yaga--roots-of-evil",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "yaga--armful-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

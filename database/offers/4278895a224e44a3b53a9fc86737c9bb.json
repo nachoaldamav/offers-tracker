@@ -1,36 +1,32 @@
 {
+  "title": "PlumeriaDevAudience",
   "id": "4278895a224e44a3b53a9fc86737c9bb",
   "namespace": "plumeria",
-  "title": "PlumeriaDevAudience",
   "description": "PlumeriaDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "plumeriadevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-01-29T20:27:11.254Z",
-  "lastModifiedDate": "2019-08-05T08:35:12.980Z",
   "effectiveDate": "2099-01-29T15:26:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-xyhkq3r6skdr6tbhalgcbp3264asl3",
     "name": "Vblank Entertainment"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "plumeriadevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "7eef8e80a92a4831b87fc1540da6f967",
+      "namespace": "plumeria"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Vblank Entertainment"
+    }
+  ],
   "categories": [
     {
       "path": "games"
@@ -39,20 +35,38 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "developerName",
-      "value": "Vblank Entertainment"
-    }
-  ],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "7eef8e80a92a4831b87fc1540da6f967"
-    }
-  ],
   "catalogNs": {
-    "name": "plumeria"
-  }
+    "mappings": [
+      {
+        "pageSlug": "shakedown-hawaii",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

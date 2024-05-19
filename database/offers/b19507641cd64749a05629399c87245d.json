@@ -1,60 +1,29 @@
 {
+  "title": "Phoenix Collectors Edition",
   "id": "b19507641cd64749a05629399c87245d",
   "namespace": "e97659b501af4e3981d5430dad170911",
-  "title": "Phoenix Collectors Edition",
   "description": "Phoenix Collectors Edition",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "[]",
-  "urlSlug": "phoenixgeneralaudience-01-02",
-  "offerType": "OTHERS",
-  "creationDate": "2022-04-11T17:10:18.801Z",
-  "lastModifiedDate": "2023-03-20T23:57:21.959Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "KR",
-    "BY"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": false,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
     "name": "Warner Bros."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": "[]",
+  "urlSlug": "phoenixgeneralaudience-01-02",
+  "url": null,
   "tags": [
     {
       "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
-      "status": "ACTIVE",
-      "referenceCount": 3628,
-      "comment": ""
+      "name": "Achievements"
+    }
+  ],
+  "items": [
+    {
+      "id": "f4cef894764142a0af5a2efe65484cee",
+      "namespace": "e97659b501af4e3981d5430dad170911"
     }
   ],
   "customAttributes": [
@@ -63,13 +32,54 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "f4cef894764142a0af5a2efe65484cee"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "e97659b501af4e3981d5430dad170911"
-  }
+    "mappings": [
+      {
+        "pageSlug": "hogwarts-legacy--digital-deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hogwarts-legacy",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "hogwarts-legacy--dark-arts-pack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

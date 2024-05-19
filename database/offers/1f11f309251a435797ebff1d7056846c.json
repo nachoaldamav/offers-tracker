@@ -1,36 +1,36 @@
 {
+  "title": "Beyond Two Souls (Japanese Demo) - Sunset",
   "id": "1f11f309251a435797ebff1d7056846c",
   "namespace": "lavender",
-  "title": "Beyond Two Souls (Japanese Demo) - Sunset",
   "description": "Beyond Two Souls (Japanese Demo) - Sunset",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "beyond-two-souls-japanese-demo",
-  "offerType": "OTHERS",
-  "creationDate": "2019-06-26T16:29:34.199Z",
-  "lastModifiedDate": "2020-04-29T00:46:34.903Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/lavender/item/Diesel_product_ratings_RP_FOR_T_M_AO-842x404-e685858d6f01213bedf5b2abec53be94.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/B2S_LavenderDEMO-2560x1440-4b48da4ded604842192f173afadca6a0.png"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-m8v47d762atphw94knus7ezawefpcu",
     "name": "Quantic Dream"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "beyond-two-souls-japanese-demo",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "4ee9b5b343354b0f9db175fd17c5a8b1",
+      "namespace": "lavender"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "games"
@@ -39,34 +39,42 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/lavender/item/Diesel_product_ratings_RP_FOR_T_M_AO-842x404-e685858d6f01213bedf5b2abec53be94.png",
-      "md5": "e685858d6f01213bedf5b2abec53be94",
-      "size": 55379,
-      "uploadedDate": "2019-04-24T17:51:54.653Z",
-      "width": 842,
-      "height": 404
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/undefined/offer/B2S_LavenderDEMO-2560x1440-4b48da4ded604842192f173afadca6a0.png",
-      "md5": "4b48da4ded604842192f173afadca6a0",
-      "size": 957832,
-      "uploadedDate": "2019-06-26T16:29:23.220Z",
-      "width": 2560,
-      "height": 1440
-    }
-  ],
-  "items": [
-    {
-      "id": "4ee9b5b343354b0f9db175fd17c5a8b1"
-    }
-  ],
   "catalogNs": {
-    "name": "lavender"
-  }
+    "mappings": [
+      {
+        "pageSlug": "beyond-two-souls--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "beyond-two-souls",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

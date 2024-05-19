@@ -1,45 +1,26 @@
 {
+  "title": "LupineDevAudience",
   "id": "cbc43f4d5528441db33be1d9d2365b65",
   "namespace": "lupine",
-  "title": "LupineDevAudience",
   "description": "LupineDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "lupinedevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-02-27T01:44:46.174Z",
-  "lastModifiedDate": "2020-04-29T00:38:50.097Z",
   "effectiveDate": "2050-02-18T18:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
     "name": "Annapurna Interactive"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "lupinedevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "c36a1ddd0e4d404aa1797d06bd7c89f2",
+      "namespace": "lupine"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "publisherName",
@@ -50,13 +31,46 @@
       "value": "Funomena"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "c36a1ddd0e4d404aa1797d06bd7c89f2"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "lupine"
-  }
+    "mappings": [
+      {
+        "pageSlug": "wattam",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

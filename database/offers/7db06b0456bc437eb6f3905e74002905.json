@@ -1,45 +1,35 @@
 {
+  "title": "OstrichDevAudience",
   "id": "7db06b0456bc437eb6f3905e74002905",
   "namespace": "413361d2d5db4912ac2dfbcf27a38141",
-  "title": "OstrichDevAudience",
   "description": "OstrichDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "ostrichdevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-08-01T20:44:27.239Z",
-  "lastModifiedDate": "2019-09-27T23:45:21.711Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/413361d2d5db4912ac2dfbcf27a38141/offer/CodeRedemption_Ooblets-340x440-aa238e743113669296c8c6ef3c331603.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/413361d2d5db4912ac2dfbcf27a38141/offer/CodeRedemption_Ooblets-340x440-aa238e743113669296c8c6ef3c331603.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-q293du8hx3hhcjbqzrmfz6cz48hk6x",
     "name": "Glumberland"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "ostrichdevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "2f02dae1be704a9e8612f5116a656950",
+      "namespace": "413361d2d5db4912ac2dfbcf27a38141"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -50,32 +40,50 @@
       "value": "Glumberland"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/413361d2d5db4912ac2dfbcf27a38141/offer/CodeRedemption_Ooblets-340x440-aa238e743113669296c8c6ef3c331603.jpg",
-      "md5": "aa238e743113669296c8c6ef3c331603",
-      "size": 102882,
-      "uploadedDate": "2019-08-19T18:28:48.954Z",
-      "width": 340,
-      "height": 440
+      "path": "games"
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/413361d2d5db4912ac2dfbcf27a38141/offer/CodeRedemption_Ooblets-340x440-aa238e743113669296c8c6ef3c331603.jpg",
-      "md5": "aa238e743113669296c8c6ef3c331603",
-      "size": 102882,
-      "uploadedDate": "2019-08-19T18:28:57.769Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "2f02dae1be704a9e8612f5116a656950"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "413361d2d5db4912ac2dfbcf27a38141"
-  }
+    "mappings": [
+      {
+        "pageSlug": "ooblets--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "ooblets",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,36 +1,41 @@
 {
+  "title": "Oleander Test",
   "id": "fdcd6b67eac84222853f6c47e766212d",
   "namespace": "oleander",
-  "title": "Oleander Test",
   "description": "Oleander Test",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "oleanderdevaudience-01",
-  "offerType": "OTHERS",
-  "creationDate": "2020-02-12T22:16:53.384Z",
-  "lastModifiedDate": "2020-04-29T00:38:38.175Z",
   "effectiveDate": "2050-03-11T09:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_JTSP-330x440-213c07937aea3c9837424bad25f57f22.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/kindred_rocket-400x400-4cd9d793c178449af102ecd7d8b029c3.png"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
     "name": "505 Games"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "oleanderdevaudience-01",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "2399f1e8e26444f7ad64bb9e57a75753",
+      "namespace": "oleander"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "SupportedPlatforms",
+      "value": "Windows"
+    }
+  ],
   "categories": [
     {
       "path": "games"
@@ -39,39 +44,42 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "SupportedPlatforms",
-      "value": "Windows"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_JTSP-330x440-213c07937aea3c9837424bad25f57f22.png",
-      "md5": "213c07937aea3c9837424bad25f57f22",
-      "size": 262217,
-      "uploadedDate": "2019-03-11T19:56:46.075Z",
-      "width": 330,
-      "height": 440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/undefined/offer/kindred_rocket-400x400-4cd9d793c178449af102ecd7d8b029c3.png",
-      "md5": "4cd9d793c178449af102ecd7d8b029c3",
-      "size": 12367,
-      "uploadedDate": "2019-03-11T19:59:08.336Z",
-      "width": 400,
-      "height": 400
-    }
-  ],
-  "items": [
-    {
-      "id": "2399f1e8e26444f7ad64bb9e57a75753"
-    }
-  ],
   "catalogNs": {
-    "name": "oleander"
-  }
+    "mappings": [
+      {
+        "pageSlug": "journey-to-the-savage-planet--hot-garbage",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "journey-to-the-savage-planet",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2050-02-11T17:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

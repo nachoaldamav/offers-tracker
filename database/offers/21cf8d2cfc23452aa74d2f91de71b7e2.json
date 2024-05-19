@@ -1,39 +1,32 @@
 {
+  "title": "Trials Rising Demo",
   "id": "21cf8d2cfc23452aa74d2f91de71b7e2",
   "namespace": "argyle",
-  "title": "Trials Rising Demo",
   "description": "Trials Rising Demo",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "argyle-demo",
-  "offerType": "OTHERS",
-  "creationDate": "2019-09-03T22:14:41.851Z",
-  "lastModifiedDate": "2020-11-18T15:58:58.646Z",
   "effectiveDate": "2020-12-31T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/argyle/offer/TR_Demo_Edition_Capsule_355x150-355x150-5bc8b7b347022ef50906662e050a7664.jpg"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "argyle-demo",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "795208dc36484e228646e267753c6d59",
+      "namespace": "argyle"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "games"
@@ -42,25 +35,62 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/argyle/offer/TR_Demo_Edition_Capsule_355x150-355x150-5bc8b7b347022ef50906662e050a7664.jpg",
-      "md5": "5bc8b7b347022ef50906662e050a7664",
-      "size": 85324,
-      "uploadedDate": "2019-09-10T04:56:22.745Z",
-      "width": 355,
-      "height": 150
-    }
-  ],
-  "items": [
-    {
-      "id": "795208dc36484e228646e267753c6d59"
-    }
-  ],
   "catalogNs": {
-    "name": "argyle"
-  }
+    "mappings": [
+      {
+        "pageSlug": "trials-rising",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "trials-rising--expansion-pass",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "trials-rising--starter-pack-02",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "trials-rising--crash-n-sunburn",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "trials-rising--sixty-six",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "trials-rising--starter-pack-01",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "trials-rising--gold-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

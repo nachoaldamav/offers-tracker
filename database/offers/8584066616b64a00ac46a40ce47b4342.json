@@ -1,72 +1,73 @@
 {
+  "title": "PetuniaDevAudience",
   "id": "8584066616b64a00ac46a40ce47b4342",
   "namespace": "petunia",
-  "title": "PetuniaDevAudience",
   "description": "PetuniaDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "petuniadevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-01-29T15:28:36.093Z",
-  "lastModifiedDate": "2022-09-20T15:00:04.542Z",
   "effectiveDate": "2099-01-29T10:28:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/petunia/offer/Metro2033_CodeRedemption-340x440-da9dad9def478a87c85e006f7a2e6bef.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/petunia/offer/Metro2033_CodeRedemption-340x440-da9dad9def478a87c85e006f7a2e6bef.jpg"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
     "name": "Plaion"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "petuniadevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "f2c91919e18f4df0a6c7cecdf5cb2c3f",
+      "namespace": "petunia"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "games"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/petunia/offer/Metro2033_CodeRedemption-340x440-da9dad9def478a87c85e006f7a2e6bef.jpg",
-      "md5": "da9dad9def478a87c85e006f7a2e6bef",
-      "size": 153544,
-      "uploadedDate": "2019-05-07T19:28:56.739Z",
-      "width": 340,
-      "height": 440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/petunia/offer/Metro2033_CodeRedemption-340x440-da9dad9def478a87c85e006f7a2e6bef.jpg",
-      "md5": "da9dad9def478a87c85e006f7a2e6bef",
-      "size": 153544,
-      "uploadedDate": "2019-05-07T19:29:07.851Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "f2c91919e18f4df0a6c7cecdf5cb2c3f"
-    }
-  ],
   "catalogNs": {
-    "name": "petunia"
-  }
+    "mappings": [
+      {
+        "pageSlug": "metro-2033-redux",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-05-13T17:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

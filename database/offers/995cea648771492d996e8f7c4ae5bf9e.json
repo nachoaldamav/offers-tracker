@@ -1,56 +1,46 @@
 {
+  "title": "John Wick Hex Pre-Purchase",
   "id": "995cea648771492d996e8f7c4ae5bf9e",
   "namespace": "a9cb15d3362d43d585b8a5b13b8a4513",
-  "title": "John Wick Hex Pre-Purchase",
   "description": "John Wick Hex Pre-Purchase",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "john-wick-hex-pre-purchase",
-  "offerType": "BASE_GAME",
-  "creationDate": "2019-05-14T15:27:25.858Z",
-  "lastModifiedDate": "2020-04-27T06:08:11.352Z",
   "effectiveDate": "2019-05-14T10:58:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/a9cb15d3362d43d585b8a5b13b8a4513/item/Diesel_product_ratings_RP_FOR_T_M_AO-842x404-ab4400e0f80829e7c317311ccf7988d92a7cb55c-842x404-e685858d6f01213bedf5b2abec53be94.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_BITHELL GAMES_JOHN WICK HEX_S3_STOREPORTRAIT-1280x1440-e470d19adfff5df32fba4fe7cbc1451e.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_BITHELL GAMES_JOHN WICK HEX_S3_STOREPORTRAIT-1280x1440-e470d19adfff5df32fba4fe7cbc1451e.jpg"
+    }
+  ],
+  "currentPrice": 1999,
   "seller": {
     "id": "o-v3fdwkgaukftabrpt9292vr5tcwj2p",
     "name": "Good Shepherd Entertainment"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "john-wick-hex-pre-purchase",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "643878c5dd8e4028aff0895eeab04060",
+      "namespace": "a9cb15d3362d43d585b8a5b13b8a4513"
+    },
+    {
+      "id": "c08c891950394c38b8b2e79835067399",
+      "namespace": "a9cb15d3362d43d585b8a5b13b8a4513"
     }
   ],
   "customAttributes": [
@@ -71,44 +61,46 @@
       "value": "Windows,Mac"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/a9cb15d3362d43d585b8a5b13b8a4513/item/Diesel_product_ratings_RP_FOR_T_M_AO-842x404-ab4400e0f80829e7c317311ccf7988d92a7cb55c-842x404-e685858d6f01213bedf5b2abec53be94.png",
-      "md5": "e685858d6f01213bedf5b2abec53be94",
-      "size": 55379,
-      "uploadedDate": "2019-05-14T14:01:25.367Z",
-      "width": 842,
-      "height": 404
+      "path": "games"
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_BITHELL GAMES_JOHN WICK HEX_S3_STOREPORTRAIT-1280x1440-e470d19adfff5df32fba4fe7cbc1451e.jpg",
-      "md5": "e470d19adfff5df32fba4fe7cbc1451e",
-      "size": 111162,
-      "uploadedDate": "2019-05-14T15:22:54.182Z",
-      "width": 1280,
-      "height": 1440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_BITHELL GAMES_JOHN WICK HEX_S3_STOREPORTRAIT-1280x1440-e470d19adfff5df32fba4fe7cbc1451e.jpg",
-      "md5": "e470d19adfff5df32fba4fe7cbc1451e",
-      "size": 111162,
-      "uploadedDate": "2019-05-14T15:23:01.125Z",
-      "width": 1280,
-      "height": 1440
-    }
-  ],
-  "items": [
-    {
-      "id": "643878c5dd8e4028aff0895eeab04060"
-    },
-    {
-      "id": "c08c891950394c38b8b2e79835067399"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "a9cb15d3362d43d585b8a5b13b8a4513"
-  }
+    "mappings": [
+      {
+        "pageSlug": "johnwickhex",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2019-10-08T15:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

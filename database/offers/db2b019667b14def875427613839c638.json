@@ -1,36 +1,40 @@
 {
+  "title": "PansyPrePurchaseAudience_test",
   "id": "db2b019667b14def875427613839c638",
   "namespace": "pansy",
-  "title": "PansyPrePurchaseAudience_test",
   "description": "PansyPrePurchaseAudience_test",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "pansyprepurchaseaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-03-13T23:52:15.720Z",
-  "lastModifiedDate": "2024-03-22T15:16:46.139Z",
   "effectiveDate": "2019-03-19T19:50:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/pansy/dangerousdriving_tall_1200x1600-86c4322d70d66fcca241df9f437c4df5"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/pansy/dangerousdriving_tall_1200x1600-86c4322d70d66fcca241df9f437c4df5"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/pansy/dangerousdriving_wide_2580x1450-cdfd9dd9975af50c39fc8c1f2395ffce"
+    }
+  ],
+  "currentPrice": 2999,
   "seller": {
     "id": "o-f82s3dr485xfmhuuzc2ubtc2j2mdpj",
     "name": "Three Fields Entertainment"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "pansyprepurchaseaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "ddfc8b08e00b4f4898dcb8a93677d06d",
+      "namespace": "pansy"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "spthidden"
@@ -45,43 +49,38 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/pansy/dangerousdriving_tall_1200x1600-86c4322d70d66fcca241df9f437c4df5",
-      "md5": "86c4322d70d66fcca241df9f437c4df5",
-      "size": 2579000,
-      "uploadedDate": "2024-03-22T15:16:10.479Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/pansy/dangerousdriving_tall_1200x1600-86c4322d70d66fcca241df9f437c4df5",
-      "md5": "86c4322d70d66fcca241df9f437c4df5",
-      "size": 2579000,
-      "uploadedDate": "2024-03-22T15:16:24.665Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/pansy/dangerousdriving_wide_2580x1450-cdfd9dd9975af50c39fc8c1f2395ffce",
-      "md5": "cdfd9dd9975af50c39fc8c1f2395ffce",
-      "size": 454659,
-      "uploadedDate": "2024-03-22T15:16:41.364Z",
-      "width": 2580,
-      "height": 1450
-    }
-  ],
-  "items": [
-    {
-      "id": "ddfc8b08e00b4f4898dcb8a93677d06d"
-    }
-  ],
   "catalogNs": {
-    "name": "pansy"
-  }
+    "mappings": [
+      {
+        "pageSlug": "dangerous-driving",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-05-13T15:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,44 +1,145 @@
 {
+  "title": "Unreal Editor For Fortnite",
   "id": "38a7aa439bad42fa8c708bf80e47ed8b",
   "namespace": "fn",
-  "title": "Unreal Editor For Fortnite",
   "description": "Unreal Editor for Fortnite (UEFN) is a PC application for designing, developing, and publishing games and experiences directly into Fortnite.",
-  "longDescription": "*You need to have [Fortnite](/p/fortnite) to get UEFN.*\n\nUnreal Editor for Fortnite (UEFN) is a PC application for designing, developing, and publishing games and experiences directly into Fortnite. With many of Unreal Engine 5’s powerful tools and workflows at your fingertips, as well as the Verse programming language, you have a whole new world of options for producing and publishing games and experiences for Fortnite that can be enjoyed by millions of players.\n\n**What can you do with UEFN?**\n\nWith this Beta version of UEFN, you’ll be able to:\n\n- Create custom content with Modeling and Material tools.\n- Import meshes, textures, animations, and audio.\n- Use Niagara to create VFX effects.\n- Animate with Control Rig and Sequencer.\n- Design gameplay with Verse\n- Use multiple camera types.\n- Create and animate high-fidelity NPCs using MetaHuman\n- Build Landscapes to create the environment.\n- Create larger experiences with World Partition.\n- Use Fab (Alpha) to discover and import assets.\n- Use Live Edit to collaborate in real time with others.\n- Integrated collaboration with Unreal Revision Control.\n- Build islands using LEGO® Templates, props, consumables, items, and more\n- Use racetrack templates and devices for building Rocket Racing islands\n\n**How is UEFN different from Fortnite Creative?**\n\nUEFN is a PC-only editor that enables 3D viewport workstyles with the creation tools (“devices”) found in Fortnite Creative. Unlike in Fortnite Creative, where you build and edit your islands inside Fortnite, developers have access to a range of tools and workflows from the PC-based Unreal Editor, with many similarities to those used by Epic Games to develop Fortnite Battle Royale.\n\n**How is UEFN different from Unreal Engine 5?**\n\nUEFN is designed to create experiences for Fortnite. This means every experience you create can be published to the Fortnite platform, reaching a built-in audience of millions. To do this, UEFN combines the creation tools from Fortnite Creative with the Unreal Editor, enabling Unreal Engine creators to develop content for Fortnite using a familiar interface.\n\nUEFN will continue to evolve through the Beta to add more functionality creators are familiar with from the Unreal Editor, give creators control over even more aspects of their Fortnite experiences, and expand the capabilities of the Verse API and framework.",
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "fortnite--uefn",
-  "offerType": "DLC",
-  "creationDate": "2023-02-15T22:41:20.621Z",
-  "lastModifiedDate": "2024-03-22T23:37:29.318Z",
   "effectiveDate": "2023-03-22T16:00:00.000Z",
-  "pcReleaseDate": "2023-03-22T16:00:00.000Z",
-  "publisherDisplayName": "Epic Games",
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2023-03-16T12:50:00.000Z",
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "fortnite--uefn"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/fn/UEFN_29-01_EGS_UEFN_Assets_S2OfferImage_1200x1600_1200x1600-ad0410dce2ef92f4dca09bcb63056be4"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/fn/UEFN_29-01_EGS_UEFN_Assets_S1OfferImage_2560x1440_2560x1440-bc992b49496068f859100ec4cc6e0f3c"
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/offer/fn/UEFN_29-01_EGS_UEFN_Assets_UEFNLogo_400x58_400x58-9d15a70d11746a9c61b2292fa8740a27"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/fn/UEFN_29-01_EGS_UEFN_Assets_S2OfferImage_1200x1600_1200x1600-ad0410dce2ef92f4dca09bcb63056be4"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/fn/012_1920x1080-ea3d93d62049d6b98adb71a5a660ac7e"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/fn/022_1920x1080-fa17e28287d4c3f726945978d6423990"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/fn/032_1920x1080-9bee2710bfd29f1c5bb3da9cfc211cbe"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/fn/042_2560x1440-3320da947c1eedbde8854ddbf5cf00e9"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/fn/052_2560x1440-a8356f76aae71847f4de3fac6c580ce5"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/fn/062_1920x1080-3a604effdb5ed5d78efdd6d17d9625de"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/fn/072_2560x1440-b4848ed2f57ddf8d2e62f679a13bcb59"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/fn/082_2560x1440-6cade0073bb774de78a2edd3afefc2ce"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/fn/09_2560x1440-77559f78340e132d3725a1240bfe109f"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/fn/10_2560x1440-c5be009a8effe395e4604b81852c68f5"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "fortnite--uefn"
-    }
-  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
     "name": "Epic Games"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": "testing visibility",
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "fortnite--uefn",
+  "url": null,
+  "tags": [
+    {
+      "id": "1216",
+      "name": "Action"
+    },
+    {
+      "id": "21122",
+      "name": "Diverse Characters"
+    },
+    {
+      "id": "21125",
+      "name": "Competitive Community"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "1264",
+      "name": "Co-op"
+    },
+    {
+      "id": "21138",
+      "name": "Recommend this Game"
+    },
+    {
+      "id": "1203",
+      "name": "Multiplayer"
+    },
+    {
+      "id": "1299",
+      "name": "Competitive"
+    },
+    {
+      "id": "21139",
+      "name": "Amazing Characters"
+    },
+    {
+      "id": "21140",
+      "name": "Amazing Storytelling"
+    },
+    {
+      "id": "1141",
+      "name": "Free to Play"
+    },
+    {
+      "id": "21141",
+      "name": "Extremely Fun"
+    },
+    {
+      "id": "1210",
+      "name": "Shooter"
+    },
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
+    {
+      "id": "21149",
+      "name": "Quickly Understand the Controls"
+    }
+  ],
+  "items": [
+    {
+      "id": "045a89e535a1419ba1f790b7e1954af8",
+      "namespace": "fn"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "addons/launchable"
@@ -59,323 +160,387 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "1216",
-      "name": "Action",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-08-23T05:17:12.937Z",
-      "status": "ACTIVE",
-      "referenceCount": 2167,
-      "comment": null
-    },
-    {
-      "id": "21122",
-      "name": "Diverse Characters",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:12:59.057Z",
-      "updated": "2023-08-18T16:27:44.549Z",
-      "status": "ACTIVE",
-      "referenceCount": 342,
-      "comment": ""
-    },
-    {
-      "id": "21125",
-      "name": "Competitive Community",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:16:32.830Z",
-      "updated": "2023-09-26T16:06:19.633Z",
-      "status": "ACTIVE",
-      "referenceCount": 93,
-      "comment": ""
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
-    },
-    {
-      "id": "1264",
-      "name": "Co-op",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.700Z",
-      "updated": "2023-08-23T03:55:35.380Z",
-      "status": "ACTIVE",
-      "referenceCount": 1166,
-      "comment": null
-    },
-    {
-      "id": "21138",
-      "name": "Recommend this Game",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:29:17.831Z",
-      "updated": "2023-08-22T10:58:47.687Z",
-      "status": "ACTIVE",
-      "referenceCount": 454,
-      "comment": ""
-    },
-    {
-      "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2024-03-28T21:49:29.573Z",
-      "status": "ACTIVE",
-      "referenceCount": 1846,
-      "comment": null
-    },
-    {
-      "id": "1299",
-      "name": "Competitive",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:47.106Z",
-      "updated": "2023-08-23T04:55:54.821Z",
-      "status": "ACTIVE",
-      "referenceCount": 452,
-      "comment": null
-    },
-    {
-      "id": "21139",
-      "name": "Amazing Characters",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:30:04.563Z",
-      "updated": "2023-08-22T10:58:47.673Z",
-      "status": "ACTIVE",
-      "referenceCount": 416,
-      "comment": ""
-    },
-    {
-      "id": "21140",
-      "name": "Amazing Storytelling",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:30:46.453Z",
-      "updated": "2023-08-22T14:02:04.254Z",
-      "status": "ACTIVE",
-      "referenceCount": 420,
-      "comment": ""
-    },
-    {
-      "id": "1141",
-      "name": "Free to Play",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:28.688Z",
-      "updated": "2023-08-16T14:13:34.540Z",
-      "status": "ACTIVE",
-      "referenceCount": 173,
-      "comment": null
-    },
-    {
-      "id": "21141",
-      "name": "Extremely Fun",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:31:30.352Z",
-      "updated": "2023-08-22T20:28:22.857Z",
-      "status": "ACTIVE",
-      "referenceCount": 440,
-      "comment": ""
-    },
-    {
-      "id": "1210",
-      "name": "Shooter",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2023-08-23T00:14:55.836Z",
-      "status": "ACTIVE",
-      "referenceCount": 799,
-      "comment": null
-    },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-23T05:17:12.951Z",
-      "status": "ACTIVE",
-      "referenceCount": 5001,
-      "comment": null
-    },
-    {
-      "id": "21149",
-      "name": "Quickly Understand the Controls",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:39:57.117Z",
-      "updated": "2023-08-22T10:58:47.694Z",
-      "status": "ACTIVE",
-      "referenceCount": 437,
-      "comment": ""
-    }
-  ],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/fn/UEFN_29-01_EGS_UEFN_Assets_S2OfferImage_1200x1600_1200x1600-ad0410dce2ef92f4dca09bcb63056be4",
-      "md5": "ad0410dce2ef92f4dca09bcb63056be4",
-      "size": 313973,
-      "uploadedDate": "2024-03-19T19:54:52.539Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/fn/UEFN_29-01_EGS_UEFN_Assets_S1OfferImage_2560x1440_2560x1440-bc992b49496068f859100ec4cc6e0f3c",
-      "md5": "bc992b49496068f859100ec4cc6e0f3c",
-      "size": 605897,
-      "uploadedDate": "2024-03-19T19:54:55.804Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "ProductLogo",
-      "url": "https://cdn1.epicgames.com/offer/fn/UEFN_29-01_EGS_UEFN_Assets_UEFNLogo_400x58_400x58-9d15a70d11746a9c61b2292fa8740a27",
-      "md5": "9d15a70d11746a9c61b2292fa8740a27",
-      "size": 8783,
-      "uploadedDate": "2024-03-19T19:57:40.482Z",
-      "width": 400,
-      "height": 58
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/fn/UEFN_29-01_EGS_UEFN_Assets_S2OfferImage_1200x1600_1200x1600-ad0410dce2ef92f4dca09bcb63056be4",
-      "md5": "ad0410dce2ef92f4dca09bcb63056be4",
-      "size": 313973,
-      "uploadedDate": "2024-03-19T19:54:49.233Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/fn/012_1920x1080-ea3d93d62049d6b98adb71a5a660ac7e",
-      "md5": "ea3d93d62049d6b98adb71a5a660ac7e",
-      "size": 336665,
-      "uploadedDate": "2024-03-19T19:58:11.003Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/fn/022_1920x1080-fa17e28287d4c3f726945978d6423990",
-      "md5": "fa17e28287d4c3f726945978d6423990",
-      "size": 559837,
-      "uploadedDate": "2024-03-19T20:01:42.001Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/fn/032_1920x1080-9bee2710bfd29f1c5bb3da9cfc211cbe",
-      "md5": "9bee2710bfd29f1c5bb3da9cfc211cbe",
-      "size": 520977,
-      "uploadedDate": "2024-03-19T20:01:45.414Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/fn/042_2560x1440-3320da947c1eedbde8854ddbf5cf00e9",
-      "md5": "3320da947c1eedbde8854ddbf5cf00e9",
-      "size": 603022,
-      "uploadedDate": "2024-03-19T20:01:48.832Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/fn/052_2560x1440-a8356f76aae71847f4de3fac6c580ce5",
-      "md5": "a8356f76aae71847f4de3fac6c580ce5",
-      "size": 814575,
-      "uploadedDate": "2024-03-19T20:01:52.010Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/fn/062_1920x1080-3a604effdb5ed5d78efdd6d17d9625de",
-      "md5": "3a604effdb5ed5d78efdd6d17d9625de",
-      "size": 308152,
-      "uploadedDate": "2024-03-19T20:01:55.162Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/fn/072_2560x1440-b4848ed2f57ddf8d2e62f679a13bcb59",
-      "md5": "b4848ed2f57ddf8d2e62f679a13bcb59",
-      "size": 473708,
-      "uploadedDate": "2024-03-19T20:01:58.567Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/fn/082_2560x1440-6cade0073bb774de78a2edd3afefc2ce",
-      "md5": "6cade0073bb774de78a2edd3afefc2ce",
-      "size": 1347078,
-      "uploadedDate": "2024-03-19T20:02:02.439Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/fn/09_2560x1440-77559f78340e132d3725a1240bfe109f",
-      "md5": "77559f78340e132d3725a1240bfe109f",
-      "size": 673517,
-      "uploadedDate": "2024-03-19T20:02:05.625Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/fn/10_2560x1440-c5be009a8effe395e4604b81852c68f5",
-      "md5": "c5be009a8effe395e4604b81852c68f5",
-      "size": 1163704,
-      "uploadedDate": "2024-03-19T20:02:09.023Z",
-      "width": 2560,
-      "height": 1440
-    }
-  ],
-  "items": [
-    {
-      "id": "045a89e535a1419ba1f790b7e1954af8"
-    }
-  ],
   "catalogNs": {
-    "name": "fn"
-  }
+    "mappings": [
+      {
+        "pageSlug": "fortnite--bassassin-quest-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--fallen-love-ranger-quest-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--skull-squad-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--fully-realized-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--robo-ray-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "fortnite--deep-freeze-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--strange-transmissions-quest-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--snakes-and-stones-challenge-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "fortnite--batman-caped-crusader-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--1000-v-bucks",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--vox-hunters-quest-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--13500-v-bucks",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--fallen-light-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--2800-v-bucks",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--graveyard-drift-quest-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--5000-v-bucks",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--breakpoints-quest-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--the-last-laugh-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--sapphire-hagiri-quest-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "fortnite--lok-bot-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--magma-masters-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--shadows-rising-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--operation-brite-starter-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--mainframe-break-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--perfect-execution-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--vinderman-2-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--minty-legends-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--polar-legends-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--the-lars-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--derby-dynamo-quest-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--witching-wing-quest-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--mecha-pop-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--marvel-royalty-warriors-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--robo-kevin-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--voidlander-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--rogue-alias-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--goldenbane-guardian-quest-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--ned-the-eternal-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--anime-legends",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--uefn",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--guardians-of-the-galaxy-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--lava-legends-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--cross-comms-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--fuse-starter-quest-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--shrieking-star-quest-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--summer-legends-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--skate-park-royalty-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--hiss-clique-quest-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--overclocked-combo-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--koi-kingdom-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--coldest-circles-quest-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--intrepid-engines-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--full-clip-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--wish-set-match-quest-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "fortnite--frozen-legends-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--golden-touch-quest-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--final-reckoning-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--saint-academy-quest-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--untaskd-courier-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--extinction-code-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--infernos-quest-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--crossmark-operative-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--dark-reflections-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--corrupted-legends",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--p-1000-quest-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--tech-future-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--the-high-stakes-club-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--mainframe-throwback-quest-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--metalcore-mina-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--darkfire-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--checkered-past-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--transformers-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--bioluminesence-quest-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--heartbreak-royale-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--infinite-drift-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--battle-royale",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "fortnite--agency-renegades-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--stw-quest-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--lego",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "fortnite--rocket-racing",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "fortnite--festival",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "fortnite--rogue-scout-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--chill-vibez-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--gilded-elites-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fortnite--voidlands-exile-quest-pack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "fortnite--uefn",
+      "pageType": "addon--cms-hybrid"
+    }
+  ],
+  "developerDisplayName": "Epic Games",
+  "publisherDisplayName": "Epic Games",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2023-03-22T16:00:00.000Z",
+  "pcReleaseDate": "2023-03-22T16:00:00.000Z",
+  "viewableDate": "2023-03-16T12:50:00.000Z",
+  "approximateReleasePlan": null
 }

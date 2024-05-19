@@ -1,39 +1,45 @@
 {
+  "title": "Genesis Alpha One Press",
   "id": "bfc11d786d49422f899d37b1e33287d4",
   "namespace": "puma",
-  "title": "Genesis Alpha One Press",
   "description": "Genesis Alpha One Press",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "puma-pressaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-01-15T16:24:03.386Z",
-  "lastModifiedDate": "2024-03-28T16:01:14.175Z",
   "effectiveDate": "2099-01-13T16:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/puma/offer/gao_thumb-644x725-d8ebcb333f4a90d9b6a730160e35269e.jpg"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
     "name": "Team17 Digital Ltd"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "puma-pressaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "43ed28e577ab4c2a8cea27d6b44bba18",
+      "namespace": "puma"
+    },
+    {
+      "id": "3aaa1d46d15d467281faa2dce576db04",
+      "namespace": "puma"
+    },
+    {
+      "id": "1c8aef66d1cc479b80fb2a268c87f1bf",
+      "namespace": "puma"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    }
+  ],
   "categories": [
     {
       "path": "spthidden"
@@ -48,36 +54,38 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "[]"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/puma/offer/gao_thumb-644x725-d8ebcb333f4a90d9b6a730160e35269e.jpg",
-      "md5": "d8ebcb333f4a90d9b6a730160e35269e",
-      "size": 149682,
-      "uploadedDate": "2019-01-23T19:14:52.183Z",
-      "width": 644,
-      "height": 725
-    }
-  ],
-  "items": [
-    {
-      "id": "43ed28e577ab4c2a8cea27d6b44bba18"
-    },
-    {
-      "id": "3aaa1d46d15d467281faa2dce576db04"
-    },
-    {
-      "id": "1c8aef66d1cc479b80fb2a268c87f1bf"
-    }
-  ],
   "catalogNs": {
-    "name": "puma"
-  }
+    "mappings": [
+      {
+        "pageSlug": "genesis-alpha-one",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

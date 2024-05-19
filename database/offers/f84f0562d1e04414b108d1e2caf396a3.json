@@ -1,66 +1,46 @@
 {
+  "title": "Rare Skin",
   "id": "f84f0562d1e04414b108d1e2caf396a3",
   "namespace": "8acd1f98795f45b5bb8c16556e1fc7ae",
-  "title": "Rare Skin",
   "description": "Purchase Rare Skin",
-  "longDescription": "<!--textBlock-->\n<!--title-->\n# Rare Skin\n<!--text-->\nPurchase Rare Skin\n",
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "rare-skin",
-  "offerType": "VIRTUAL_CURRENCY",
-  "creationDate": "2023-09-15T16:33:56.345Z",
-  "lastModifiedDate": "2023-09-15T16:33:56.345Z",
   "effectiveDate": "2023-09-22T17:00:00.000Z",
-  "pcReleaseDate": "2023-03-30T10:00:00.000Z",
-  "publisherDisplayName": "Battle of Guardians, Good Games Guild",
-  "countriesBlacklist": [
-    "KR"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": "2023-09-17T08:00:00.000Z",
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
     {
-      "pageSlug": "battle-of-guardians-rare-skin-33a43e"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/21dfccc1c96d45859032b52dc42582fa/battle-of-guardians-fx7li.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/21dfccc1c96d45859032b52dc42582fa/battle-of-guardians-1mla4.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/spt-assets/21dfccc1c96d45859032b52dc42582fa/battle-of-guardians-1mla4.jpg"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/21dfccc1c96d45859032b52dc42582fa/battle-of-guardians-1e1mz.jpg"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "battle-of-guardians-rare-skin-33a43e"
-    }
-  ],
+  "currentPrice": 99,
   "seller": {
     "id": "o-l89rbv2nxxl6bwppk8knbxdd77hk2v",
     "name": "Battle of Guardians"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "spthidden/consumable"
-    },
-    {
-      "path": "spthidden"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "rare-skin",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "3897283ec1a14d82ad078d74869ee10e",
+      "namespace": "8acd1f98795f45b5bb8c16556e1fc7ae"
     }
   ],
   "customAttributes": [
@@ -81,50 +61,67 @@
       "value": "false"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/21dfccc1c96d45859032b52dc42582fa/battle-of-guardians-fx7li.jpg",
-      "md5": "c2515b28a6f52526c03dd74d6ac4d773",
-      "size": 2746302,
-      "uploadedDate": "2023-08-24T09:46:38.474Z",
-      "width": 2560,
-      "height": 1440
+      "path": "spthidden/consumable"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/21dfccc1c96d45859032b52dc42582fa/battle-of-guardians-1mla4.jpg",
-      "md5": "74e0053603a9f83f40acd2c751ad8818",
-      "size": 1338891,
-      "uploadedDate": "2023-08-24T09:46:39.263Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/21dfccc1c96d45859032b52dc42582fa/battle-of-guardians-1mla4.jpg",
-      "md5": "74e0053603a9f83f40acd2c751ad8818",
-      "size": 1338891,
-      "uploadedDate": "2023-08-24T09:46:39.263Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/21dfccc1c96d45859032b52dc42582fa/battle-of-guardians-1e1mz.jpg",
-      "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 1735912,
-      "uploadedDate": "2023-08-24T09:45:54.147Z",
-      "width": 1920,
-      "height": 1080
-    }
-  ],
-  "items": [
-    {
-      "id": "3897283ec1a14d82ad078d74869ee10e"
+      "path": "spthidden"
     }
   ],
   "catalogNs": {
-    "name": "8acd1f98795f45b5bb8c16556e1fc7ae"
-  }
+    "mappings": [
+      {
+        "pageSlug": "battle-of-guardians-4fbdcb",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "battle-of-guardians-battle-of-guardians-bundle-1-14b6d6",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "battle-of-guardians-ultra-rare-skin-556a54",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "battle-of-guardians-rare-skin-33a43e",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "battle-of-guardians-faq-56a626",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "battle-of-guardians-rare-skin-33a43e",
+      "pageType": "offer"
+    }
+  ],
+  "developerDisplayName": "Miracle Gates Entertainment",
+  "publisherDisplayName": "Battle of Guardians, Good Games Guild",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 99,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2023-09-22T17:00:00.000Z",
+  "pcReleaseDate": "2023-03-30T10:00:00.000Z",
+  "viewableDate": "2023-09-17T08:00:00.000Z",
+  "approximateReleasePlan": null
 }

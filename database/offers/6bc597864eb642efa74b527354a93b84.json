@@ -1,53 +1,34 @@
 {
+  "title": "Showmaker Dev Kit",
   "id": "6bc597864eb642efa74b527354a93b84",
   "namespace": "epic",
-  "title": "Showmaker Dev Kit",
   "description": "Showmaker Dev Kit",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "showmaker",
-  "urlSlug": "showmaker-dev-kit",
-  "offerType": "OTHERS",
-  "creationDate": "2018-10-31T23:52:04.735Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
   "effectiveDate": "2018-10-31T19:51:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2018-10-31T19:51:00.000Z",
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/showmaker_White-3738x459-873fe388632f69e28e63f1d16270273c.png"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-6scaa9jsj4mnlnn4dgcvdekny3xcag",
     "name": "Preapp Partners"
   },
-  "linkedOfferId": "7178958ecc57448b88812b2a22cb228b",
-  "isFeatured": true,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "engines"
-    }
-  ],
+  "productSlug": "showmaker",
+  "urlSlug": "showmaker-dev-kit",
+  "url": null,
   "tags": [
     {
       "id": "9559",
-      "name": "Editors",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T21:11:57.763Z",
-      "updated": "2023-06-28T21:16:34.903Z",
-      "status": "ACTIVE",
-      "referenceCount": 54,
-      "comment": null
+      "name": "Editors"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -64,23 +45,38 @@
       "value": "7178958ecc57448b88812b2a22cb228b"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/showmaker_White-3738x459-873fe388632f69e28e63f1d16270273c.png",
-      "md5": "873fe388632f69e28e63f1d16270273c",
-      "size": 163960,
-      "uploadedDate": "2018-11-14T00:53:13.172Z",
-      "width": 3738,
-      "height": 459
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "engines"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2019-07-10T20:44:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": "2018-10-31T19:51:00.000Z",
+  "approximateReleasePlan": null
 }

@@ -1,36 +1,49 @@
 {
+  "title": "Paranoia Happiness is Mandatory - Press",
   "id": "5477cbff98f94e928c7019bc447e0846",
   "namespace": "52613245bcd34a8eb99078f423620a4d",
-  "title": "Paranoia Happiness is Mandatory - Press",
   "description": "Paranoia Happiness is Mandatory - Press",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "flamingo-press",
-  "offerType": "OTHERS",
-  "creationDate": "2019-09-17T19:11:27.363Z",
-  "lastModifiedDate": "2019-12-06T15:18:11.594Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/52613245bcd34a8eb99078f423620a4d/offer/Paranoia_Tall-2560x1440-d7def6bb186bab4a007ed5e02e39d162.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/52613245bcd34a8eb99078f423620a4d/offer/Paranoia_Tall-2560x1440-d7def6bb186bab4a007ed5e02e39d162.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
     "name": "Nacon"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "flamingo-press",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "6e59b4668c4b43c1a241df1088b7267a",
+      "namespace": "52613245bcd34a8eb99078f423620a4d"
+    },
+    {
+      "id": "426b2d9ce38f46549aebd870655ba631",
+      "namespace": "52613245bcd34a8eb99078f423620a4d"
+    },
+    {
+      "id": "b03e87d8bdfd4e9280ba0293f7b2b798",
+      "namespace": "52613245bcd34a8eb99078f423620a4d"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    }
+  ],
   "categories": [
     {
       "path": "games"
@@ -39,45 +52,38 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "{}"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/52613245bcd34a8eb99078f423620a4d/offer/Paranoia_Tall-2560x1440-d7def6bb186bab4a007ed5e02e39d162.jpg",
-      "md5": "d7def6bb186bab4a007ed5e02e39d162",
-      "size": 1785751,
-      "uploadedDate": "2019-11-08T18:20:56.345Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/52613245bcd34a8eb99078f423620a4d/offer/Paranoia_Tall-2560x1440-d7def6bb186bab4a007ed5e02e39d162.jpg",
-      "md5": "d7def6bb186bab4a007ed5e02e39d162",
-      "size": 1785751,
-      "uploadedDate": "2019-11-08T18:21:07.251Z",
-      "width": 2560,
-      "height": 1440
-    }
-  ],
-  "items": [
-    {
-      "id": "6e59b4668c4b43c1a241df1088b7267a"
-    },
-    {
-      "id": "426b2d9ce38f46549aebd870655ba631"
-    },
-    {
-      "id": "b03e87d8bdfd4e9280ba0293f7b2b798"
-    }
-  ],
   "catalogNs": {
-    "name": "52613245bcd34a8eb99078f423620a4d"
-  }
+    "mappings": [
+      {
+        "pageSlug": "paranoia",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2019-12-06T10:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

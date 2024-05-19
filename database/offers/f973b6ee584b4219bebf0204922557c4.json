@@ -1,47 +1,47 @@
 {
+  "title": "Dauntless Press Audience",
   "id": "f973b6ee584b4219bebf0204922557c4",
   "namespace": "jackal",
-  "title": "Dauntless Press Audience",
   "description": "Dauntless Press Audience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "dauntless-press-audience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-05-17T17:46:35.143Z",
-  "lastModifiedDate": "2020-09-17T16:58:56.689Z",
   "effectiveDate": "2019-05-16T15:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S1-2560x1440-5eafbc727fe4728c9cb742b03abc6043.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2-1200x1600-ccc3d7de46f53b47a0574274ecd30a34.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2-1200x1600-ccc3d7de46f53b47a0574274ecd30a34.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2-1200x1600-ccc3d7de46f53b47a0574274ecd30a34.jpg"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-krlzxj88qrtb69fredeuaf887bl5az",
     "name": "Phoenix Labs"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "dauntless-press-audience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
+      "id": "75cf1b4f9d2d45bbbd96579b476f5198",
+      "namespace": "jackal"
     },
     {
-      "path": "applications"
+      "id": "f6d74ba69af641e3b32c41d49e7986f1",
+      "namespace": "jackal"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -52,53 +52,166 @@
       "value": "Phoenix Labs"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S1-2560x1440-5eafbc727fe4728c9cb742b03abc6043.jpg",
-      "md5": "5eafbc727fe4728c9cb742b03abc6043",
-      "size": 664943,
-      "uploadedDate": "2020-09-15T18:38:18.984Z",
-      "width": 2560,
-      "height": 1440
+      "path": "games"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2-1200x1600-ccc3d7de46f53b47a0574274ecd30a34.jpg",
-      "md5": "ccc3d7de46f53b47a0574274ecd30a34",
-      "size": 431629,
-      "uploadedDate": "2020-09-15T18:38:26.433Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2-1200x1600-ccc3d7de46f53b47a0574274ecd30a34.jpg",
-      "md5": "ccc3d7de46f53b47a0574274ecd30a34",
-      "size": 431629,
-      "uploadedDate": "2020-09-15T18:38:36.596Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2-1200x1600-ccc3d7de46f53b47a0574274ecd30a34.jpg",
-      "md5": "ccc3d7de46f53b47a0574274ecd30a34",
-      "size": 431629,
-      "uploadedDate": "2020-09-15T18:38:45.326Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "75cf1b4f9d2d45bbbd96579b476f5198"
-    },
-    {
-      "id": "f6d74ba69af641e3b32c41d49e7986f1"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "jackal"
-  }
+    "mappings": [
+      {
+        "pageSlug": "dauntless--morningtide-maul-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "dauntless--voidcore-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "dauntless--lightsworn-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "dauntless--overseer-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "dauntless--account-linking-faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "dauntless--dauntless-doomslayer-of-krolach-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "dauntless--dauntless-the-red-kings-wrath-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "dauntless--epic-slayer-kit",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "dauntless--overseer-taskblades-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "dauntless--dauntless-timely-arrival-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "dauntless--dauntless-crimson-cavalier-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "dauntless--dauntless-500-platinum",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "dauntless--dauntless-skyhunters-kit-riptalon",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "dauntless--dauntless-arcslayer-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "dauntless--dauntless-disciple-of-death-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "dauntless--dauntless-burning-soul-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "dauntless--dauntless-winters-bite-booster-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "dauntless--heartgem-armour-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "dauntless--shining-maul-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "dauntless--shining-ripper-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "dauntless--ancient-destroyer-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "dauntless--elite-slayer-kit",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "dauntless--serendipitys-songblade-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "dauntless--firelight-phoenix-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "dauntless--rites-of-spring-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "dauntless--golden-drakes-eye-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "dauntless--desperado-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "dauntless",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "dauntless--unseen-armour-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "dauntless--iron-nikola-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "dauntless--faq",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-03-23T14:27:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,45 +1,35 @@
 {
+  "title": "ChiliDevAudience",
   "id": "39ea84150491461186ced325c845b7ad",
   "namespace": "935fa66c485e4c988eb939f86dc458b5",
-  "title": "ChiliDevAudience",
   "description": "ChiliDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "chilidevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-06-08T15:15:17.013Z",
-  "lastModifiedDate": "2020-11-16T22:54:49.048Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/935fa66c485e4c988eb939f86dc458b5/offer/CodeRedemption_PhantomBr-330x440-e205f2a9b59579d0377926bec54585b3.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/935fa66c485e4c988eb939f86dc458b5/offer/CodeRedemption_PhantomBr-330x440-e205f2a9b59579d0377926bec54585b3.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-5y95w2k7uu469v8lr4dyzeff447wfm",
     "name": "Brace Yourself Games"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "chilidevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "4a7f36085d974ee3a687c30947b77720",
+      "namespace": "935fa66c485e4c988eb939f86dc458b5"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -50,32 +40,50 @@
       "value": "Brace Yourself Games"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/935fa66c485e4c988eb939f86dc458b5/offer/CodeRedemption_PhantomBr-330x440-e205f2a9b59579d0377926bec54585b3.jpg",
-      "md5": "e205f2a9b59579d0377926bec54585b3",
-      "size": 52473,
-      "uploadedDate": "2019-06-25T15:44:33.353Z",
-      "width": 330,
-      "height": 440
+      "path": "games"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/935fa66c485e4c988eb939f86dc458b5/offer/CodeRedemption_PhantomBr-330x440-e205f2a9b59579d0377926bec54585b3.jpg",
-      "md5": "e205f2a9b59579d0377926bec54585b3",
-      "size": 52473,
-      "uploadedDate": "2019-06-25T15:44:39.814Z",
-      "width": 330,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "4a7f36085d974ee3a687c30947b77720"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "935fa66c485e4c988eb939f86dc458b5"
-  }
+    "mappings": [
+      {
+        "pageSlug": "phantom-brigade",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "phantom-brigade--early-access-faq",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

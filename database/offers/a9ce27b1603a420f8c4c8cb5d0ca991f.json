@@ -1,45 +1,26 @@
 {
+  "title": "DevArsenicAudience",
   "id": "a9ce27b1603a420f8c4c8cb5d0ca991f",
   "namespace": "3dd7b519d7ab4631ae96d3efa8588514",
-  "title": "DevArsenicAudience",
   "description": "DevArsenicAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "devarsenicaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2021-01-21T18:27:14.135Z",
-  "lastModifiedDate": "2021-02-11T15:15:53.710Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-nfrzd5cr4auuxqxmyzuezwhahtmstc",
     "name": "Massive Damage"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "devarsenicaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "7580590dd87645b0b0de9182b3a8b67d",
+      "namespace": "3dd7b519d7ab4631ae96d3efa8588514"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -54,13 +35,58 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "7580590dd87645b0b0de9182b3a8b67d"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "3dd7b519d7ab4631ae96d3efa8588514"
-  }
+    "mappings": [
+      {
+        "pageSlug": "halcyon-6",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "halcyon-6--artbook",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "halcyon-6--the-precursor-legacy",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "halcyon-6--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

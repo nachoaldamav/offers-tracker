@@ -1,48 +1,35 @@
 {
+  "title": "SageDevAudience",
   "id": "f11faebebd8445b1af7eb9958160697c",
   "namespace": "4561b40e52584ac2bcf34bbd5c401480",
-  "title": "SageDevAudience",
   "description": "SageDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "sagedevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-06-14T04:01:59.542Z",
-  "lastModifiedDate": "2019-09-27T23:44:50.811Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/4561b40e52584ac2bcf34bbd5c401480/offer/Overcooked-portrait-1280x1440-9bcad6d74ed9e54433c84f933aecf0f0.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/4561b40e52584ac2bcf34bbd5c401480/offer/CodeRedemption_Overcooked-330x440-8d9f059d57ef37c100098ff7fa870987.jpg"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
     "name": "Team17 Digital Ltd"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "sagedevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "4c9bae2b35c34223aeddd1652f43e60d",
+      "namespace": "4561b40e52584ac2bcf34bbd5c401480"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -57,32 +44,46 @@
       "value": "Ghost Town Games Ltd."
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/4561b40e52584ac2bcf34bbd5c401480/offer/Overcooked-portrait-1280x1440-9bcad6d74ed9e54433c84f933aecf0f0.jpg",
-      "md5": "9bcad6d74ed9e54433c84f933aecf0f0",
-      "size": 104216,
-      "uploadedDate": "2019-06-25T18:18:06.495Z",
-      "width": 1280,
-      "height": 1440
+      "path": "games"
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/4561b40e52584ac2bcf34bbd5c401480/offer/CodeRedemption_Overcooked-330x440-8d9f059d57ef37c100098ff7fa870987.jpg",
-      "md5": "8d9f059d57ef37c100098ff7fa870987",
-      "size": 61885,
-      "uploadedDate": "2019-06-25T18:18:14.048Z",
-      "width": 330,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "4c9bae2b35c34223aeddd1652f43e60d"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "4561b40e52584ac2bcf34bbd5c401480"
-  }
+    "mappings": [
+      {
+        "pageSlug": "overcooked",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

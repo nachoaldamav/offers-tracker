@@ -1,140 +1,70 @@
 {
+  "title": "World of Goo",
   "id": "5f82cbea3fdd42e2b9b9dfe8439b96b3",
   "namespace": "anemone",
-  "title": "World of Goo",
   "description": "You Can't Stop Progress",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "world-of-goo/home",
-  "urlSlug": "worldofgoogeneralaudience",
-  "offerType": "BASE_GAME",
-  "creationDate": "2019-02-14T19:45:23.511Z",
-  "lastModifiedDate": "2024-04-02T20:20:07.345Z",
   "effectiveDate": "2019-05-01T15:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/anemone/offer/WOGCodeRedemption-340x440-ad8816b6f96f722badb84b0f8e66016d.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/anemone/WoG_TallImage_1200x1600_1200x1600-7aa4a3d559274eec6732608a89cb483b"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/anemone/WoG_WideImage_2560x1440_2560x1440-06ff8bbf3e6f98fad7b428b6b34eeba5"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/anemone/WoG_TallImage_1200x1600_1200x1600-7aa4a3d559274eec6732608a89cb483b"
+    }
+  ],
+  "currentPrice": 1499,
   "seller": {
     "id": "o-fdxn5bcapezptpk6s97ksd6hg6rkls",
     "name": "2D Boy"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    },
-    {
-      "path": "games/edition"
-    },
-    {
-      "path": "games/edition/base"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": "world-of-goo/home",
+  "urlSlug": "worldofgoogeneralaudience",
+  "url": null,
   "tags": [
     {
       "id": "1298",
-      "name": "Puzzle",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:46.616Z",
-      "updated": "2023-08-22T09:59:03.727Z",
-      "status": "ACTIVE",
-      "referenceCount": 412,
-      "comment": null
+      "name": "Puzzle"
     },
     {
       "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-23T05:17:12.951Z",
-      "status": "ACTIVE",
-      "referenceCount": 5001,
-      "comment": null
+      "name": "Single Player"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
     },
     {
       "id": "9548",
-      "name": "OSX",
-      "namespace": "epic",
-      "aliases": [
-        "OS X",
-        "MAC OS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-03-10T19:38:37.438Z",
-      "status": "ACTIVE",
-      "referenceCount": 79,
-      "comment": null
+      "name": "OSX"
     },
     {
       "id": "1117",
-      "name": "Adventure",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2023-08-23T02:16:39.269Z",
-      "status": "ACTIVE",
-      "referenceCount": 1473,
-      "comment": null
+      "name": "Adventure"
     },
     {
       "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-08-23T05:17:12.988Z",
-      "status": "ACTIVE",
-      "referenceCount": 1176,
-      "comment": null
+      "name": "Indie"
     },
     {
       "id": "10719",
-      "name": "Mac OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX",
-        "macOS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-08-23T05:08:24.605Z",
-      "status": "ACTIVE",
-      "referenceCount": 1146,
-      "comment": null
+      "name": "Mac OS"
+    }
+  ],
+  "items": [
+    {
+      "id": "0a79aa46e68644a0b57eb0f061121ded",
+      "namespace": "anemone"
     }
   ],
   "customAttributes": [
@@ -151,50 +81,52 @@
       "value": "world-of-goo/home"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/anemone/offer/WOGCodeRedemption-340x440-ad8816b6f96f722badb84b0f8e66016d.png",
-      "md5": "ad8816b6f96f722badb84b0f8e66016d",
-      "size": 86847,
-      "uploadedDate": "2019-04-17T18:51:29.516Z",
-      "width": 340,
-      "height": 440
+      "path": "games"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/anemone/WoG_TallImage_1200x1600_1200x1600-7aa4a3d559274eec6732608a89cb483b",
-      "md5": "7aa4a3d559274eec6732608a89cb483b",
-      "size": 459354,
-      "uploadedDate": "2023-02-01T01:02:18.884Z",
-      "width": 1200,
-      "height": 1600
+      "path": "games/edition"
     },
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/anemone/WoG_WideImage_2560x1440_2560x1440-06ff8bbf3e6f98fad7b428b6b34eeba5",
-      "md5": "06ff8bbf3e6f98fad7b428b6b34eeba5",
-      "size": 1149398,
-      "uploadedDate": "2023-02-01T01:02:21.533Z",
-      "width": 2560,
-      "height": 1440
+      "path": "games/edition/base"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/anemone/WoG_TallImage_1200x1600_1200x1600-7aa4a3d559274eec6732608a89cb483b",
-      "md5": "7aa4a3d559274eec6732608a89cb483b",
-      "size": 459354,
-      "uploadedDate": "2024-04-02T19:55:44.912Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "0a79aa46e68644a0b57eb0f061121ded"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "anemone"
-  }
+    "mappings": [
+      {
+        "pageSlug": "world-of-goo",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2008-10-13T15:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

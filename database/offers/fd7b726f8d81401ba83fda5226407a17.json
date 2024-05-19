@@ -1,61 +1,38 @@
 {
+  "title": "Mars 2030 Editor",
   "id": "fd7b726f8d81401ba83fda5226407a17",
   "namespace": "mars2030",
-  "title": "Mars 2030 Editor",
   "description": "The Mars 2030 Editor is an open source version of Mars 2030 that contains all of the content and systems found in the VR project to develop your own space concepts using real NASA data! Build your own space habitat designs, create your own robotic NPC companion using NASA’s Va...",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "mars-2030",
-  "urlSlug": "mars-2030-editor",
-  "offerType": "OTHERS",
-  "creationDate": "2018-02-08T16:29:38.313Z",
-  "lastModifiedDate": "2021-08-25T16:43:43.097Z",
   "effectiveDate": "2018-02-08T11:28:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "CN"
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Mars_White-783x105-e7c151a7b1e06d0181a2c18f78965ed5.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/mars2030/offer/mars2030_bg-430x250-261a916534206de2029fc4577384447a-430x250-261a916534206de2029fc4577384447a.jpg"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-v8ctg8jgjafjpj27mwqxqzcmgmkzrf",
     "name": "Fusion Media Group"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "engines"
-    },
-    {
-      "path": "editors"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": "mars-2030",
+  "urlSlug": "mars-2030-editor",
+  "url": null,
   "tags": [
     {
       "id": "9559",
-      "name": "Editors",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T21:11:57.763Z",
-      "updated": "2023-06-28T21:16:34.903Z",
-      "status": "ACTIVE",
-      "referenceCount": 54,
-      "comment": null
+      "name": "Editors"
+    }
+  ],
+  "items": [
+    {
+      "id": "6b73eb7d981d45d6825c794a78985f72",
+      "namespace": "mars2030"
     }
   ],
   "customAttributes": [
@@ -68,32 +45,49 @@
       "value": "mars-2030"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/Mars_White-783x105-e7c151a7b1e06d0181a2c18f78965ed5.png",
-      "md5": "e7c151a7b1e06d0181a2c18f78965ed5",
-      "size": 11955,
-      "uploadedDate": "2018-11-14T00:49:46.110Z",
-      "width": 783,
-      "height": 105
+      "path": "engines"
     },
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/mars2030/offer/mars2030_bg-430x250-261a916534206de2029fc4577384447a-430x250-261a916534206de2029fc4577384447a.jpg",
-      "md5": "261a916534206de2029fc4577384447a",
-      "size": 117425,
-      "uploadedDate": "2020-02-24T15:58:15.081Z",
-      "width": 430,
-      "height": 250
-    }
-  ],
-  "items": [
+      "path": "editors"
+    },
     {
-      "id": "6b73eb7d981d45d6825c794a78985f72"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "mars2030"
-  }
+    "mappings": [
+      {
+        "pageSlug": "mars-2030",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-02-08T12:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

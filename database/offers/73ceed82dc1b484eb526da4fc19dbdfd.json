@@ -1,89 +1,54 @@
 {
+  "title": "The Stanley Parable",
   "id": "73ceed82dc1b484eb526da4fc19dbdfd",
   "namespace": "epic",
-  "title": "The Stanley Parable",
   "description": "The Stanley Parable",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "the-stanley-parable/home",
-  "urlSlug": "the-stanley-parable",
-  "offerType": "OTHERS",
-  "creationDate": "2020-03-10T17:55:34.382Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
   "effectiveDate": "2020-03-12T15:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2020-03-12T15:00:00.000Z",
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_TheStanleyParable_GalacticCafe_S1-2560x1440-5f0af4355ae6d621a945ca3391d6aa71.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_TheStanleyParable_GalacticCafe_S2-860x1148-e1c75d36ca3e834ed0a1249c07efc302.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_TheStanleyParable_GalacticCafe_IC1-200x200-15ebab2f01fa1a5d78569c42c49ef41a.png"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-yrlbfhj5bvd3fce3zfcq47jev35gx4",
     "name": "Galactic Cafe"
   },
-  "linkedOfferId": "ba1f4fa2618046a0a8d71588cd0c2a68",
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": "the-stanley-parable/home",
+  "urlSlug": "the-stanley-parable",
+  "url": null,
   "tags": [
     {
       "id": "1395",
-      "name": "Narration",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:34.825Z",
-      "updated": "2023-08-23T02:16:39.223Z",
-      "status": "ACTIVE",
-      "referenceCount": 207,
-      "comment": null
+      "name": "Narration"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
     },
     {
       "id": "1116",
-      "name": "Comedy",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:16.126Z",
-      "updated": "2023-08-23T03:10:10.044Z",
-      "status": "ACTIVE",
-      "referenceCount": 162,
-      "comment": null
+      "name": "Comedy"
     },
     {
       "id": "1117",
-      "name": "Adventure",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2023-08-23T02:16:39.269Z",
-      "status": "ACTIVE",
-      "referenceCount": 1473,
-      "comment": null
+      "name": "Adventure"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -108,41 +73,38 @@
       "value": "ba1f4fa2618046a0a8d71588cd0c2a68"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_TheStanleyParable_GalacticCafe_S1-2560x1440-5f0af4355ae6d621a945ca3391d6aa71.jpg",
-      "md5": "5f0af4355ae6d621a945ca3391d6aa71",
-      "size": 190499,
-      "uploadedDate": "2020-03-10T17:55:08.953Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_TheStanleyParable_GalacticCafe_S2-860x1148-e1c75d36ca3e834ed0a1249c07efc302.jpg",
-      "md5": "e1c75d36ca3e834ed0a1249c07efc302",
-      "size": 331907,
-      "uploadedDate": "2020-03-10T17:55:18.868Z",
-      "width": 860,
-      "height": 1148
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_TheStanleyParable_GalacticCafe_IC1-200x200-15ebab2f01fa1a5d78569c42c49ef41a.png",
-      "md5": "15ebab2f01fa1a5d78569c42c49ef41a",
-      "size": 20543,
-      "uploadedDate": "2020-03-10T17:55:28.310Z",
-      "width": 200,
-      "height": 200
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-03-12T15:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": "2020-03-12T15:00:00.000Z",
+  "approximateReleasePlan": null
 }

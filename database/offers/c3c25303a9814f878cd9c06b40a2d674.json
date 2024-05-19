@@ -1,50 +1,26 @@
 {
+  "title": "HussarDevAudience",
   "id": "c3c25303a9814f878cd9c06b40a2d674",
   "namespace": "ca93b6d41a4e41af864942d8f0a2a826",
-  "title": "HussarDevAudience",
   "description": "HussarDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "hussardevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2020-01-13T15:49:35.302Z",
-  "lastModifiedDate": "2021-01-28T16:10:32.582Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "KR",
-    "BY",
-    "CN"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
     "name": "Epic Dev Test Account"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "hussardevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "c47ec9926f624a8fb07d897bc466d4c6",
+      "namespace": "ca93b6d41a4e41af864942d8f0a2a826"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -59,13 +35,78 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "c47ec9926f624a8fb07d897bc466d4c6"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "ca93b6d41a4e41af864942d8f0a2a826"
-  }
+    "mappings": [
+      {
+        "pageSlug": "uno",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "uno--just-dance-theme-dlc",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "uno--flip-dlc",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "uno--rayman-theme-dlc",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "uno--fenyxs-quest",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "uno--50th-anniversary-dlc",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "uno--ultimate-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "uno--the-call-of-yara-dlc",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "uno--valhalla-dlc",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

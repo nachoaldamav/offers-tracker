@@ -1,59 +1,46 @@
 {
+  "title": "Satisfactory Dev Audience",
   "id": "de9279a62ca940248838f016dfe36e48",
   "namespace": "crab",
-  "title": "Satisfactory Dev Audience",
   "description": "Satisfactory",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "satisfactory",
-  "offerType": "BASE_GAME",
-  "creationDate": "2018-12-06T03:18:36.258Z",
-  "lastModifiedDate": "2024-04-25T21:35:33.940Z",
   "effectiveDate": "2099-12-04T10:59:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR",
-    "CN"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/crab/item/PrimaryPromo-2580x1456-5d555f56d733aed084d5612071018c9d.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/crab/item/Satisfactory_GameLogo-01-1508x270-4d7086d38e0ea6dc152ce1c7a3d923cb.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/PortraitPromo-1288x1450-64ab5a9df84466cba65c0632b6c2587f.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/PrimaryPromo-2580x1456-5d555f56d733aed084d5612071018c9d.jpg"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-9r9hp69ccnr39qp9f9mgpsznznu4as",
     "name": "Coffee Stain Publishing"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "satisfactory",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "484f450430e34071b52833ac63e670d2",
+      "namespace": "crab"
     }
   ],
   "customAttributes": [
@@ -66,50 +53,54 @@
       "value": "Coffee Stain"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/crab/item/PrimaryPromo-2580x1456-5d555f56d733aed084d5612071018c9d.jpg",
-      "md5": "5d555f56d733aed084d5612071018c9d",
-      "size": 1662649,
-      "uploadedDate": "2018-12-06T03:07:34.306Z",
-      "width": 2580,
-      "height": 1456
+      "path": "games"
     },
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/crab/item/Satisfactory_GameLogo-01-1508x270-4d7086d38e0ea6dc152ce1c7a3d923cb.png",
-      "md5": "4d7086d38e0ea6dc152ce1c7a3d923cb",
-      "size": 20905,
-      "uploadedDate": "2018-12-06T03:07:50.774Z",
-      "width": 1508,
-      "height": 270
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/PortraitPromo-1288x1450-64ab5a9df84466cba65c0632b6c2587f.jpg",
-      "md5": "64ab5a9df84466cba65c0632b6c2587f",
-      "size": 1250312,
-      "uploadedDate": "2018-12-06T03:17:39.457Z",
-      "width": 1288,
-      "height": 1450
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/PrimaryPromo-2580x1456-5d555f56d733aed084d5612071018c9d.jpg",
-      "md5": "5d555f56d733aed084d5612071018c9d",
-      "size": 1662649,
-      "uploadedDate": "2018-12-06T03:17:52.615Z",
-      "width": 2580,
-      "height": 1456
-    }
-  ],
-  "items": [
-    {
-      "id": "484f450430e34071b52833ac63e670d2"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "crab"
-  }
+    "mappings": [
+      {
+        "pageSlug": "satisfactory",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "satisfactory--dedicated-server",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "satisfactory--early-access-weekend",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

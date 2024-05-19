@@ -1,36 +1,49 @@
 {
+  "title": "Observation Influencer Dev Audience",
   "id": "108ccf1229fd45a8a3bbc8f090e41ae7",
   "namespace": "allium",
-  "title": "Observation Influencer Dev Audience",
   "description": "Observation Influencer",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "observation-influencer-audience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-05-02T20:51:46.969Z",
-  "lastModifiedDate": "2024-04-10T18:25:24.021Z",
   "effectiveDate": "2019-05-02T17:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Observation_CodeRedemption-340x440-28a09a7bc027c314c49e0328c305cbe0.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Observation_CodeRedemption-340x440-28a09a7bc027c314c49e0328c305cbe0.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
     "name": "Devolver Digital, Inc."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "observation-influencer-audience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "7340f4df71194aafbef6e575cc544bed",
+      "namespace": "allium"
+    },
+    {
+      "id": "12704613decb45e49e1df7add133e8e8",
+      "namespace": "allium"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Devolver Digital"
+    },
+    {
+      "key": "developerName",
+      "value": "NoCode"
+    }
+  ],
   "categories": [
     {
       "path": "spthidden"
@@ -45,46 +58,38 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "publisherName",
-      "value": "Devolver Digital"
-    },
-    {
-      "key": "developerName",
-      "value": "NoCode"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Observation_CodeRedemption-340x440-28a09a7bc027c314c49e0328c305cbe0.jpg",
-      "md5": "28a09a7bc027c314c49e0328c305cbe0",
-      "size": 66637,
-      "uploadedDate": "2019-05-02T20:51:40.802Z",
-      "width": 340,
-      "height": 440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Observation_CodeRedemption-340x440-28a09a7bc027c314c49e0328c305cbe0.jpg",
-      "md5": "28a09a7bc027c314c49e0328c305cbe0",
-      "size": 66637,
-      "uploadedDate": "2019-05-02T20:51:21.368Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "7340f4df71194aafbef6e575cc544bed"
-    },
-    {
-      "id": "12704613decb45e49e1df7add133e8e8"
-    }
-  ],
   "catalogNs": {
-    "name": "allium"
-  }
+    "mappings": [
+      {
+        "pageSlug": "observation",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

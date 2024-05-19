@@ -1,45 +1,26 @@
 {
+  "title": "HazelnutDevAudience",
   "id": "55c8c8ac86214886bb9c20a4fedad9ce",
   "namespace": "92053006068e4aa9b1ad413f72090f5e",
-  "title": "HazelnutDevAudience",
   "description": "HazelnutDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "hazelnutdevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-06-14T15:50:45.514Z",
-  "lastModifiedDate": "2019-09-27T23:35:35.861Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-t88sw9ly7ajm3wz7tll53xt3cmypx8",
     "name": "Playdead"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "hazelnutdevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "dbfd268a82dc4133abee788e45f53285",
+      "namespace": "92053006068e4aa9b1ad413f72090f5e"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -50,13 +31,46 @@
       "value": "Playdead"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "dbfd268a82dc4133abee788e45f53285"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "92053006068e4aa9b1ad413f72090f5e"
-  }
+    "mappings": [
+      {
+        "pageSlug": "limbo",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

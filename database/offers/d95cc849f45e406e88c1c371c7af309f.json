@@ -1,159 +1,70 @@
 {
+  "title": "Backpack Hero",
   "id": "d95cc849f45e406e88c1c371c7af309f",
   "namespace": "0dc17d69dbfa4dd7b4eeb480d3adad6d",
-  "title": "Backpack Hero",
   "description": "The inventory management roguelike! Collect rare items, organize your backpack, and vanquish your foes!",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "fbdf104eda71436d8ed4d50e65e42d33",
-  "offerType": "BASE_GAME",
-  "creationDate": "2023-03-10T15:00:15.725Z",
-  "lastModifiedDate": "2024-03-26T14:59:25.755Z",
   "effectiveDate": "2023-11-14T18:00:00.000Z",
-  "pcReleaseDate": "2023-11-14T18:00:00.000Z",
-  "publisherDisplayName": "Different Tales",
-  "countriesBlacklist": [
-    "BR",
-    "RU",
-    "AU",
-    "KR"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2023-11-14T18:00:00.000Z",
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "backpack-hero-449c5e"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/da842a6b6e324c39b54b16910856bdb3/backpack-hero-15jsl.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/da842a6b6e324c39b54b16910856bdb3/backpack-hero-k5abu.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/spt-assets/da842a6b6e324c39b54b16910856bdb3/backpack-hero-k5abu.png"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "backpack-hero-449c5e"
-    }
-  ],
+  "currentPrice": 1999,
   "seller": {
     "id": "o-j8dsgh9bnmwgkjuyts7cyffpkfc3yk",
     "name": "Different Tales S.A."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games/edition/base"
-    },
-    {
-      "path": "games/edition"
-    },
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "fbdf104eda71436d8ed4d50e65e42d33",
+  "url": null,
   "tags": [
     {
       "id": "1265",
-      "name": "Dungeon Crawler",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:30.259Z",
-      "updated": "2023-08-23T02:59:53.917Z",
-      "status": "ACTIVE",
-      "referenceCount": 775,
-      "comment": null
+      "name": "Dungeon Crawler"
     },
     {
       "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
-      "status": "ACTIVE",
-      "referenceCount": 3628,
-      "comment": ""
+      "name": "Achievements"
     },
     {
       "id": "1386",
-      "name": "Turn-Based",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:30.372Z",
-      "updated": "2023-08-23T02:13:23.565Z",
-      "status": "ACTIVE",
-      "referenceCount": 188,
-      "comment": null
+      "name": "Turn-Based"
     },
     {
       "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-23T05:17:12.951Z",
-      "status": "ACTIVE",
-      "referenceCount": 5001,
-      "comment": null
+      "name": "Single Player"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
     },
     {
       "id": "1083",
-      "name": "Rogue-Lite",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:58:59.720Z",
-      "updated": "2023-08-23T05:17:12.960Z",
-      "status": "ACTIVE",
-      "referenceCount": 204,
-      "comment": null
+      "name": "Rogue-Lite"
     },
     {
       "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-08-23T03:24:56.337Z",
-      "status": "ACTIVE",
-      "referenceCount": 2499,
-      "comment": null
+      "name": "Controller Support"
     },
     {
       "id": "10719",
-      "name": "Mac OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX",
-        "macOS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-08-23T05:08:24.605Z",
-      "status": "ACTIVE",
-      "referenceCount": 1146,
-      "comment": null
+      "name": "Mac OS"
+    }
+  ],
+  "items": [
+    {
+      "id": "58447d497aef42858188a7b2b6869cd2",
+      "namespace": "0dc17d69dbfa4dd7b4eeb480d3adad6d"
     }
   ],
   "customAttributes": [
@@ -174,41 +85,54 @@
       "value": "false"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/da842a6b6e324c39b54b16910856bdb3/backpack-hero-15jsl.jpg",
-      "md5": "6a7301d957067ce9bff02a5aa0a28a50",
-      "size": 1204386,
-      "uploadedDate": "2023-11-06T16:57:05.459Z",
-      "width": 2560,
-      "height": 1440
+      "path": "games/edition/base"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/da842a6b6e324c39b54b16910856bdb3/backpack-hero-k5abu.png",
-      "md5": "54a8686d67c86ab6fbb53fc6932ed084",
-      "size": 2557059,
-      "uploadedDate": "2023-11-06T16:56:08.847Z",
-      "width": 1200,
-      "height": 1600
+      "path": "games/edition"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/da842a6b6e324c39b54b16910856bdb3/backpack-hero-k5abu.png",
-      "md5": "54a8686d67c86ab6fbb53fc6932ed084",
-      "size": 2557059,
-      "uploadedDate": "2023-11-06T16:56:08.847Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "58447d497aef42858188a7b2b6869cd2"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "0dc17d69dbfa4dd7b4eeb480d3adad6d"
-  }
+    "mappings": [
+      {
+        "pageSlug": "backpack-hero-449c5e",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "backpack-hero-449c5e",
+      "pageType": "productHome"
+    }
+  ],
+  "developerDisplayName": "Jaspel",
+  "publisherDisplayName": "Different Tales",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2023-11-14T18:00:00.000Z",
+  "pcReleaseDate": "2023-11-14T18:00:00.000Z",
+  "viewableDate": "2023-11-14T18:00:00.000Z",
+  "approximateReleasePlan": null
 }

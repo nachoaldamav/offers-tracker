@@ -1,45 +1,26 @@
 {
+  "title": "FalconDevAudience",
   "id": "783b7fbd8d8045fea2f7425a82824d70",
   "namespace": "4756b80eb0f74d45b77922e54052cfed",
-  "title": "FalconDevAudience",
   "description": "FalconDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "falcondevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-07-29T21:14:33.429Z",
-  "lastModifiedDate": "2019-08-15T14:59:31.181Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
     "name": "Funcom Oslo AS"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "falcondevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "ac216dfd95554b5a918f89a134e86627",
+      "namespace": "4756b80eb0f74d45b77922e54052cfed"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -54,13 +35,50 @@
       "value": "The Bearded Ladies"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "ac216dfd95554b5a918f89a134e86627"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "4756b80eb0f74d45b77922e54052cfed"
-  }
+    "mappings": [
+      {
+        "pageSlug": "mutant-year-zero--dlc-1",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "mutant-year-zero",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

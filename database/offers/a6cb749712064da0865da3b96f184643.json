@@ -1,36 +1,45 @@
 {
+  "title": "bisque ID 2 Offer",
   "id": "a6cb749712064da0865da3b96f184643",
   "namespace": "d34cf6aeceb94c579af0236fe1185b79",
-  "title": "bisque ID 2 Offer",
   "description": "bisque ID 2 Offer",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "bisque-in-game-2-audience",
-  "offerType": "IN_GAME_PURCHASE",
-  "creationDate": "2021-09-09T17:48:46.495Z",
-  "lastModifiedDate": "2024-04-10T17:41:36.801Z",
   "effectiveDate": "2099-02-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 295,
   "seller": {
     "id": "o-48w8whx3gtk4g452567d6vll4sfsxu",
     "name": "1939 Games"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "bisque-in-game-2-audience",
+  "url": null,
+  "tags": [
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "272afe09753e44408a05dd24e8479252",
+      "namespace": "d34cf6aeceb94c579af0236fe1185b79"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "1939 Games"
+    },
+    {
+      "key": "developerName",
+      "value": "1939 Games"
+    }
+  ],
   "categories": [
     {
       "path": "spthidden"
@@ -48,41 +57,42 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "[]"
-    },
-    {
-      "key": "publisherName",
-      "value": "1939 Games"
-    },
-    {
-      "key": "developerName",
-      "value": "1939 Games"
-    }
-  ],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "272afe09753e44408a05dd24e8479252"
-    }
-  ],
   "catalogNs": {
-    "name": "d34cf6aeceb94c579af0236fe1185b79"
-  }
+    "mappings": [
+      {
+        "pageSlug": "kards-the-world-war-ii-card-game",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "kards-the-world-war-ii-card-game--starter-pack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 295,
+      "originalPrice": 295,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-02-01T00:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

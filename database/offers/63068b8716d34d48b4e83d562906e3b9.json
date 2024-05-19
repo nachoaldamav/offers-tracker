@@ -1,47 +1,39 @@
 {
+  "title": "World War Z Early Access",
   "id": "63068b8716d34d48b4e83d562906e3b9",
   "namespace": "wombat",
-  "title": "World War Z Early Access",
   "description": "World War Z Early Access",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "wombat-early-access-audience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-04-08T14:59:00.793Z",
-  "lastModifiedDate": "2020-04-29T00:38:38.726Z",
   "effectiveDate": "2019-04-08T10:55:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/wwz_logo_400x400-400x400-cdbe8a4526d2ef1a48c6fc1348c3120b.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/wombat/offer/WWZ_CodeRedemption-340x440-d243a578a983bf3faa0415bbf06dce82.jpg"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-2xlz78ngz5ubvus9sff9blglee43uk",
     "name": "Saber Interactive"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "wombat-early-access-audience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
+      "id": "6bfa6e8187ed4caba71f9d6e2319ea50",
+      "namespace": "wombat"
     },
     {
-      "path": "applications"
+      "id": "31a2bd335d2e47889ee3e6e7fc3d7a91",
+      "namespace": "wombat"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -52,35 +44,98 @@
       "value": "Saber Interactive"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/undefined/offer/wwz_logo_400x400-400x400-cdbe8a4526d2ef1a48c6fc1348c3120b.png",
-      "md5": "cdbe8a4526d2ef1a48c6fc1348c3120b",
-      "size": 11144,
-      "uploadedDate": "2019-04-08T14:58:55.024Z",
-      "width": 400,
-      "height": 400
+      "path": "games"
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/wombat/offer/WWZ_CodeRedemption-340x440-d243a578a983bf3faa0415bbf06dce82.jpg",
-      "md5": "d243a578a983bf3faa0415bbf06dce82",
-      "size": 82636,
-      "uploadedDate": "2019-04-08T15:39:19.415Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "6bfa6e8187ed4caba71f9d6e2319ea50"
-    },
-    {
-      "id": "31a2bd335d2e47889ee3e6e7fc3d7a91"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "wombat"
-  }
+    "mappings": [
+      {
+        "pageSlug": "world-war-z--aftermath-deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "world-war-z--aftermath-upgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "world-war-z--aftermath--raven-weapons-skin-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "world-war-z--aftermath-zeke-hunter-weapons-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "world-war-z--aftermath-explorer-weapons-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "world-war-z",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "world-war-z--goty-edition-upgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "world-war-z--aftermath-rat-packs-weapon-skins",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "world-war-z--aftermath-deadly-vice-weapon-skins",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "world-war-z--base-game",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "world-war-z--victory-lap-weapons-skin",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "world-war-z--pre-apocalypse-characters",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "world-war-z--valley-of-the-zeke",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "world-war-z--burning-skulls-weapons",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2019-04-16T15:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,38 +1,49 @@
 {
+  "title": "Dangerous Driving - Car for Pre-Purchase - Humble",
   "id": "6e219feb717f427f8e1d8abe2484ffa6",
   "namespace": "pansy",
-  "title": "Dangerous Driving - Car for Pre-Purchase - Humble",
   "description": "Dangerous Driving - Car for Pre-Purchase - Humble",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "dangerous-driving-car-for-pre-purchase-humble",
-  "offerType": "OTHERS",
-  "creationDate": "2019-04-09T21:46:29.730Z",
-  "lastModifiedDate": "2024-03-22T15:17:44.298Z",
   "effectiveDate": "2019-04-07T17:43:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/pansy/dangerousdriving_tall_1200x1600-86c4322d70d66fcca241df9f437c4df5"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/pansy/dangerousdriving_wide_2580x1450-cdfd9dd9975af50c39fc8c1f2395ffce"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/pansy/dangerousdriving_tall_1200x1600-86c4322d70d66fcca241df9f437c4df5"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-f82s3dr485xfmhuuzc2ubtc2j2mdpj",
     "name": "Three Fields Entertainment"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "dangerous-driving-car-for-pre-purchase-humble",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "ddfc8b08e00b4f4898dcb8a93677d06d",
+      "namespace": "pansy"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Three Fields Entertainment"
+    }
+  ],
   "categories": [
     {
       "path": "spthidden"
@@ -47,52 +58,38 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "KR"
-    },
-    {
-      "key": "developerName",
-      "value": "Three Fields Entertainment"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/pansy/dangerousdriving_tall_1200x1600-86c4322d70d66fcca241df9f437c4df5",
-      "md5": "86c4322d70d66fcca241df9f437c4df5",
-      "size": 2579000,
-      "uploadedDate": "2024-03-22T15:17:14.486Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/pansy/dangerousdriving_wide_2580x1450-cdfd9dd9975af50c39fc8c1f2395ffce",
-      "md5": "cdfd9dd9975af50c39fc8c1f2395ffce",
-      "size": 454659,
-      "uploadedDate": "2024-03-22T15:17:24.645Z",
-      "width": 2580,
-      "height": 1450
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/pansy/dangerousdriving_tall_1200x1600-86c4322d70d66fcca241df9f437c4df5",
-      "md5": "86c4322d70d66fcca241df9f437c4df5",
-      "size": 2579000,
-      "uploadedDate": "2024-03-22T15:17:39.916Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "ddfc8b08e00b4f4898dcb8a93677d06d"
-    }
-  ],
   "catalogNs": {
-    "name": "pansy"
-  }
+    "mappings": [
+      {
+        "pageSlug": "dangerous-driving",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

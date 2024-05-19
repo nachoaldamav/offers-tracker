@@ -1,45 +1,39 @@
 {
+  "title": "Overpass Standard Edition Pre-Purchase",
   "id": "3d1b248041ad4777bd8e46af696b37a5",
   "namespace": "90c3f58497da48d789cc39bff57dc2f4",
-  "title": "Overpass Standard Edition Pre-Purchase",
   "description": "Overpass Standard Edition Pre-Purchase",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "sandpiper-standard-edition-pre-purchase",
-  "offerType": "OTHERS",
-  "creationDate": "2020-01-09T21:02:37.530Z",
-  "lastModifiedDate": "2023-08-03T15:22:15.344Z",
   "effectiveDate": "2020-01-15T15:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/EGS_ZordixRacing_OVERPASS_S2-860x1148-3295107fd8e79a29354a174113ea787f.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/EGS_ZordixRacing_OVERPASS_S1-2560x1440-ab3cac65a84bb4090d7ada687c2d2465.jpg"
+    }
+  ],
+  "currentPrice": 3999,
   "seller": {
     "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
     "name": "Nacon"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "sandpiper-standard-edition-pre-purchase",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
+      "id": "0cc51a090b004445b4240103e77b8cba",
+      "namespace": "90c3f58497da48d789cc39bff57dc2f4"
     },
     {
-      "path": "applications"
+      "id": "508964795add4b538323d9d0157cbfab",
+      "namespace": "90c3f58497da48d789cc39bff57dc2f4"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -62,35 +56,66 @@
       "value": "Zordix Racing"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/EGS_ZordixRacing_OVERPASS_S2-860x1148-3295107fd8e79a29354a174113ea787f.jpg",
-      "md5": "3295107fd8e79a29354a174113ea787f",
-      "size": 171839,
-      "uploadedDate": "2020-01-14T21:56:58.711Z",
-      "width": 860,
-      "height": 1148
+      "path": "games"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/EGS_ZordixRacing_OVERPASS_S1-2560x1440-ab3cac65a84bb4090d7ada687c2d2465.jpg",
-      "md5": "ab3cac65a84bb4090d7ada687c2d2465",
-      "size": 385614,
-      "uploadedDate": "2020-01-14T21:57:16.753Z",
-      "width": 2560,
-      "height": 1440
-    }
-  ],
-  "items": [
-    {
-      "id": "0cc51a090b004445b4240103e77b8cba"
-    },
-    {
-      "id": "508964795add4b538323d9d0157cbfab"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "90c3f58497da48d789cc39bff57dc2f4"
-  }
+    "mappings": [
+      {
+        "pageSlug": "overpass--yamaha-special-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "overpass--expert-vehicles-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "overpass--smart-start-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "overpass--drive-with-style",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "overpass",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "overpass--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": true,
+  "releaseDate": "2020-02-27T16:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

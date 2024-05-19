@@ -1,40 +1,53 @@
 {
+  "title": "Pheasant Ultimate Edition",
   "id": "b23ae1b8af7f475bb439ad59d0c01e39",
   "namespace": "4b35838425c74992ad42e1276b2161ca",
-  "title": "Pheasant Ultimate Edition",
   "description": "Pheasant Ultimate Edition",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "pheasantultimateaudience",
-  "offerType": "EDITION",
-  "creationDate": "2019-06-08T17:50:09.982Z",
-  "lastModifiedDate": "2023-08-03T01:02:27.152Z",
   "effectiveDate": "2050-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY",
-    "CN"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "pheasantultimateaudience",
+  "url": null,
+  "tags": [
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "b2aaf50259434c8c9e5aaf8a00354414",
+      "namespace": "4b35838425c74992ad42e1276b2161ca"
+    },
+    {
+      "id": "0679f61321564625b2cd4ed131c571a5",
+      "namespace": "4b35838425c74992ad42e1276b2161ca"
+    },
+    {
+      "id": "b24a5651b1674abf9a76d2c5e2ee1ae1",
+      "namespace": "4b35838425c74992ad42e1276b2161ca"
+    },
+    {
+      "id": "8c267a50f4ad4aacb6706d94e5d572b9",
+      "namespace": "4b35838425c74992ad42e1276b2161ca"
+    },
+    {
+      "id": "bdaf567541354a6da53b20e7f28a2ac5",
+      "namespace": "4b35838425c74992ad42e1276b2161ca"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    }
+  ],
   "categories": [
     {
       "path": "spthidden"
@@ -49,45 +62,70 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "CN"
-    }
-  ],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "b2aaf50259434c8c9e5aaf8a00354414"
-    },
-    {
-      "id": "0679f61321564625b2cd4ed131c571a5"
-    },
-    {
-      "id": "b24a5651b1674abf9a76d2c5e2ee1ae1"
-    },
-    {
-      "id": "8c267a50f4ad4aacb6706d94e5d572b9"
-    },
-    {
-      "id": "bdaf567541354a6da53b20e7f28a2ac5"
-    }
-  ],
   "catalogNs": {
-    "name": "4b35838425c74992ad42e1276b2161ca"
-  }
+    "mappings": [
+      {
+        "pageSlug": "immortals-fenyx-rising--myths-of-the-eastern-realm",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "immortals-fenyx-rising--ulimate-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "immortals-fenyx-rising--season-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "immortals-fenyx-rising--the-lost-gods",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "immortals-fenyx-rising--a-new-god",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "immortals-fenyx-rising--starter-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "immortals-fenyx-rising",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "immortals-fenyx-rising--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "immortals-fenyx-rising--gold-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,53 +1,26 @@
 {
+  "title": "RMG Test",
   "id": "7a3852756e544dc0baf82ac1dfdbde17",
   "namespace": "deab864e1abf4357b303bcd5ff6fe8da",
-  "title": "RMG Test",
   "description": "RMG Test",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "guppyrmgtestaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2020-04-28T19:51:33.890Z",
-  "lastModifiedDate": "2024-04-02T21:41:15.493Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-s5myyzhdfhxwftmvf55ph3eu6fbqpz",
     "name": "Activision Publishing, Inc"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "guppyrmgtestaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "spthidden"
-    },
-    {
-      "path": "games"
-    },
-    {
-      "path": "spthidden/durable"
-    },
-    {
-      "path": "applications"
+      "id": "9627145043824a36a347d13e6cec0da1",
+      "namespace": "deab864e1abf4357b303bcd5ff6fe8da"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -62,13 +35,64 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "9627145043824a36a347d13e6cec0da1"
+      "path": "spthidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "spthidden/durable"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "deab864e1abf4357b303bcd5ff6fe8da"
-  }
+    "mappings": [
+      {
+        "pageSlug": "tony-hawks-pro-skater-1-and-2--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "tony-hawks-pro-skater-1-and-2--the-birdman-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "tony-hawks-pro-skater-1-and-2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "tony-hawks-pro-skater-1-and-2--the-united-pack",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

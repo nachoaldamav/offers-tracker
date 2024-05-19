@@ -1,39 +1,32 @@
 {
+  "title": "LarkspurDevAudience",
   "id": "3fc9ec270dfb4f6b86a9b6f21b50c9c1",
   "namespace": "larkspur",
-  "title": "LarkspurDevAudience",
   "description": "LarkspurDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "larkspurdevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-02-10T17:16:29.595Z",
-  "lastModifiedDate": "2020-04-29T00:46:51.077Z",
   "effectiveDate": "2099-02-10T12:15:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "larkspurdevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "7722a61ffc2243e99f87d4d569ce33b3",
+      "namespace": "larkspur"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Ubisoft Entertainment"
+    }
+  ],
   "categories": [
     {
       "path": "games"
@@ -42,20 +35,42 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "developerName",
-      "value": "Ubisoft Entertainment"
-    }
-  ],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "7722a61ffc2243e99f87d4d569ce33b3"
-    }
-  ],
   "catalogNs": {
-    "name": "larkspur"
-  }
+    "mappings": [
+      {
+        "pageSlug": "far-cry-primal",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "far-cry-primal--apex-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

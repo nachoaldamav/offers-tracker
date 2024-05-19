@@ -1,152 +1,86 @@
 {
+  "title": "The Witness",
   "id": "ea1854d7e3004420ba3f0759384514c6",
   "namespace": "magnolia",
-  "title": "The Witness",
   "description": "You wake up, alone, on a strange island full of puzzles.",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "the-witness/home",
-  "urlSlug": "magnoliageneralaudience",
-  "offerType": "BASE_GAME",
-  "creationDate": "2019-03-04T18:22:16.680Z",
-  "lastModifiedDate": "2023-04-20T22:26:20.643Z",
   "effectiveDate": "2019-04-04T15:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/TheWitness_Promo_S1-2560x1444-aaba32e5541dc5c9d7d445a86c69a63f.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/TheWitness_Promo__S3-1280x1440-2162531db1b9bfe233a9752d32528982.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/TheWitness_Logo_Color-1634x352-761648dd715f3010a804ad5c23055215.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/TheWitness_Promo__S3-1280x1440-2162531db1b9bfe233a9752d32528982.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/magnolia/offer/TheWitness_CodeRedemption-340x440-ecab19a3bcd3512358c29f6d9ec8abd7.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/magnolia/offer/TheWitness_CodeRedemption-340x440-ecab19a3bcd3512358c29f6d9ec8abd7.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/magnolia/offer/apwY_6SY-2560x1440-2488c90d3f59222d4cc25ae255651cb0.jpeg"
+    }
+  ],
+  "currentPrice": 3999,
   "seller": {
     "id": "o-ch8uj5xq8v7rkurtr6gpx8accufw8u",
     "name": "Thekla, Inc."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    },
-    {
-      "path": "games/edition"
-    },
-    {
-      "path": "games/edition/base"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": "the-witness/home",
+  "urlSlug": "magnoliageneralaudience",
+  "url": null,
   "tags": [
     {
       "id": "1298",
-      "name": "Puzzle",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:46.616Z",
-      "updated": "2023-08-22T09:59:03.727Z",
-      "status": "ACTIVE",
-      "referenceCount": 412,
-      "comment": null
+      "name": "Puzzle"
     },
     {
       "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-23T05:17:12.951Z",
-      "status": "ACTIVE",
-      "referenceCount": 5001,
-      "comment": null
+      "name": "Single Player"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
     },
     {
       "id": "9548",
-      "name": "OSX",
-      "namespace": "epic",
-      "aliases": [
-        "OS X",
-        "MAC OS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-03-10T19:38:37.438Z",
-      "status": "ACTIVE",
-      "referenceCount": 79,
-      "comment": null
+      "name": "OSX"
     },
     {
       "id": "1117",
-      "name": "Adventure",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2023-08-23T02:16:39.269Z",
-      "status": "ACTIVE",
-      "referenceCount": 1473,
-      "comment": null
+      "name": "Adventure"
     },
     {
       "id": "1294",
-      "name": "First Person",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:44.596Z",
-      "updated": "2023-08-23T00:14:55.884Z",
-      "status": "ACTIVE",
-      "referenceCount": 481,
-      "comment": null
+      "name": "First Person"
     },
     {
       "id": "21150",
-      "name": "Challenging Puzzles",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:41:25.625Z",
-      "updated": "2023-08-02T15:40:09.702Z",
-      "status": "ACTIVE",
-      "referenceCount": 23,
-      "comment": ""
+      "name": "Challenging Puzzles"
     },
     {
       "id": "10719",
-      "name": "Mac OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX",
-        "macOS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-08-23T05:08:24.605Z",
-      "status": "ACTIVE",
-      "referenceCount": 1146,
-      "comment": null
+      "name": "Mac OS"
+    }
+  ],
+  "items": [
+    {
+      "id": "372fe80e2f2844d4ae638fd9db3665ea",
+      "namespace": "magnolia"
     }
   ],
   "customAttributes": [
@@ -163,77 +97,52 @@
       "value": "the-witness/home"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/TheWitness_Promo_S1-2560x1444-aaba32e5541dc5c9d7d445a86c69a63f.jpg",
-      "md5": "aaba32e5541dc5c9d7d445a86c69a63f",
-      "size": 221124,
-      "uploadedDate": "2019-03-18T15:00:11.819Z",
-      "width": 2560,
-      "height": 1444
+      "path": "games"
     },
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/TheWitness_Promo__S3-1280x1440-2162531db1b9bfe233a9752d32528982.jpg",
-      "md5": "2162531db1b9bfe233a9752d32528982",
-      "size": 113282,
-      "uploadedDate": "2019-03-18T15:00:28.155Z",
-      "width": 1280,
-      "height": 1440
+      "path": "games/edition"
     },
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/TheWitness_Logo_Color-1634x352-761648dd715f3010a804ad5c23055215.png",
-      "md5": "761648dd715f3010a804ad5c23055215",
-      "size": 52337,
-      "uploadedDate": "2019-03-18T15:00:40.003Z",
-      "width": 1634,
-      "height": 352
+      "path": "games/edition/base"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/TheWitness_Promo__S3-1280x1440-2162531db1b9bfe233a9752d32528982.jpg",
-      "md5": "2162531db1b9bfe233a9752d32528982",
-      "size": 113282,
-      "uploadedDate": "2019-03-18T15:00:28.155Z",
-      "width": 1280,
-      "height": 1440
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/magnolia/offer/TheWitness_CodeRedemption-340x440-ecab19a3bcd3512358c29f6d9ec8abd7.jpg",
-      "md5": "ecab19a3bcd3512358c29f6d9ec8abd7",
-      "size": 105331,
-      "uploadedDate": "2019-04-04T12:35:32.338Z",
-      "width": 340,
-      "height": 440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/magnolia/offer/TheWitness_CodeRedemption-340x440-ecab19a3bcd3512358c29f6d9ec8abd7.jpg",
-      "md5": "ecab19a3bcd3512358c29f6d9ec8abd7",
-      "size": 105331,
-      "uploadedDate": "2019-04-24T14:49:57.299Z",
-      "width": 340,
-      "height": 440
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/magnolia/offer/apwY_6SY-2560x1440-2488c90d3f59222d4cc25ae255651cb0.jpeg",
-      "md5": "2488c90d3f59222d4cc25ae255651cb0",
-      "size": 342250,
-      "uploadedDate": "2020-02-24T22:31:23.555Z",
-      "width": 2560,
-      "height": 1440
-    }
-  ],
-  "items": [
-    {
-      "id": "372fe80e2f2844d4ae638fd9db3665ea"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "magnolia"
-  }
+    "mappings": [
+      {
+        "pageSlug": "the-witness",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2016-01-26T15:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

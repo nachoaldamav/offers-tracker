@@ -1,61 +1,42 @@
 {
+  "title": "Silver DLC01",
   "id": "a0c4b3ba6d0048b289c3946ef5bba846",
   "namespace": "0dc18227b3f14162968d8e7969e454ef",
-  "title": "Silver DLC01",
   "description": "Silver DLC01",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "silvergeneralaudience-01",
-  "offerType": "ADD_ON",
-  "creationDate": "2021-10-19T21:17:08.033Z",
-  "lastModifiedDate": "2024-03-24T21:14:04.590Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR"
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/0dc18227b3f14162968d8e7969e454ef/EGS_DAEMONXMACHINA_MarvelousInc_S2_1200x1600-11d198187c5cc2f494f6473515866556_1200x1600-11d198187c5cc2f494f6473515866556"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/0dc18227b3f14162968d8e7969e454ef/EGS_DAEMONXMACHINA_MarvelousInc_S2_1200x1600-11d198187c5cc2f494f6473515866556_1200x1600-11d198187c5cc2f494f6473515866556"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/0dc18227b3f14162968d8e7969e454ef/EGS_DAEMONXMACHINA_MarvelousInc_S1_2560x1440-13963d321550a716af2ebdf13806c891_2560x1440-13963d321550a716af2ebdf13806c891"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-nqyhxujtdmenkdafn525t4masjbjsf",
     "name": "Marvelous Inc."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "spthidden"
-    },
-    {
-      "path": "spthidden/durable"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "silvergeneralaudience-01",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "876863d181dd4bb0a7e4c73aa206f701",
+      "namespace": "0dc18227b3f14162968d8e7969e454ef"
     }
   ],
   "customAttributes": [
@@ -72,41 +53,113 @@
       "value": "[]"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/0dc18227b3f14162968d8e7969e454ef/EGS_DAEMONXMACHINA_MarvelousInc_S2_1200x1600-11d198187c5cc2f494f6473515866556_1200x1600-11d198187c5cc2f494f6473515866556",
-      "md5": "11d198187c5cc2f494f6473515866556",
-      "size": 958567,
-      "uploadedDate": "2024-03-24T21:13:36.358Z",
-      "width": 1200,
-      "height": 1600
+      "path": "spthidden"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/0dc18227b3f14162968d8e7969e454ef/EGS_DAEMONXMACHINA_MarvelousInc_S2_1200x1600-11d198187c5cc2f494f6473515866556_1200x1600-11d198187c5cc2f494f6473515866556",
-      "md5": "11d198187c5cc2f494f6473515866556",
-      "size": 958567,
-      "uploadedDate": "2024-03-24T21:13:47.972Z",
-      "width": 1200,
-      "height": 1600
+      "path": "spthidden/durable"
     },
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/0dc18227b3f14162968d8e7969e454ef/EGS_DAEMONXMACHINA_MarvelousInc_S1_2560x1440-13963d321550a716af2ebdf13806c891_2560x1440-13963d321550a716af2ebdf13806c891",
-      "md5": "13963d321550a716af2ebdf13806c891",
-      "size": 989926,
-      "uploadedDate": "2024-03-24T21:13:58.774Z",
-      "width": 2560,
-      "height": 1440
-    }
-  ],
-  "items": [
-    {
-      "id": "876863d181dd4bb0a7e4c73aa206f701"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "0dc18227b3f14162968d8e7969e454ef"
-  }
+    "mappings": [
+      {
+        "pageSlug": "daemon-x-machina",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "daemon-x-machina--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "daemon-x-machina--arsenal-rabbit-11",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "daemon-x-machina--prototype-arsenal-set",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "daemon-x-machina--outer-emotes-set",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "daemon-x-machina--arsenal-patterns-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "daemon-x-machina--outer-suit-formal-attire",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "daemon-x-machina--arsenal-decals-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "daemon-x-machina--outer-facial-features-bundle-1",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "daemon-x-machina--outer-facial-features-bundle-2",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "daemon-x-machina--outer-suit-camouflage-plugsuit",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "daemon-x-machina--metallic-equipment-set",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "daemon-x-machina--arsenal-crusader",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "daemon-x-machina--arsenal-decals-the-brushstrokes-of-souun-takeda",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "daemon-x-machina--outer-hairstyles-bundle-1",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "daemon-x-machina--arsenal-muramasa",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "daemon-x-machina--outer-hairstyles-bundle-2",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

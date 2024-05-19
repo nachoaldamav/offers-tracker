@@ -1,36 +1,36 @@
 {
+  "title": "SunflowerDevAudience",
   "id": "f57ba5dd7e074e3487b3b3d672dbeb96",
   "namespace": "sunflower",
-  "title": "SunflowerDevAudience",
   "description": "SunflowerDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "sunflowerdevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-02-07T21:56:42.723Z",
-  "lastModifiedDate": "2020-04-29T00:38:46.546Z",
   "effectiveDate": "2050-02-07T16:55:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/sunflower/offer/GameIcon-400x400-dda2b60f409ecf1c314beac37de2a794.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/sunflower/offer/HeliumRain_CodeRedemption-330x440-e502247aa1db60f3cac6e3c0bead3fe0.png"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-2m8un9e3wxkbydsdc7az6twyzpz3zc",
     "name": "Deimos Games"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "sunflowerdevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "c71d59df10c246f4a16eb5268ac21ed4",
+      "namespace": "sunflower"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "games"
@@ -39,34 +39,38 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/sunflower/offer/GameIcon-400x400-dda2b60f409ecf1c314beac37de2a794.png",
-      "md5": "dda2b60f409ecf1c314beac37de2a794",
-      "size": 48750,
-      "uploadedDate": "2019-03-01T13:53:58.971Z",
-      "width": 400,
-      "height": 400
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/sunflower/offer/HeliumRain_CodeRedemption-330x440-e502247aa1db60f3cac6e3c0bead3fe0.png",
-      "md5": "e502247aa1db60f3cac6e3c0bead3fe0",
-      "size": 60544,
-      "uploadedDate": "2019-03-01T13:54:38.409Z",
-      "width": 330,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "c71d59df10c246f4a16eb5268ac21ed4"
-    }
-  ],
   "catalogNs": {
-    "name": "sunflower"
-  }
+    "mappings": [
+      {
+        "pageSlug": "helium-rain",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

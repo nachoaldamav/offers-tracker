@@ -1,72 +1,50 @@
 {
+  "title": "80 LIFE COINS",
   "id": "22646c74c5ae4bdebb1d9b12e58bca53",
   "namespace": "7b13795e0ec14de5a4b516bbb0f3a3f0",
-  "title": "80 LIFE COINS",
   "description": "Life Coins (LFC), the in-game currency that can be spent in Supernova Shards. You can buy weapons, armor, even a starship!",
-  "longDescription": "<!--textBlock-->\n<!--title-->\n# Life Coins (LFC), the in-game currency that can be spent in Supernova Shards. You can buy weapons, armor, even a starship!\n<!--text-->\nNOTE: During the testing period, the world will be periodically restarted - when this happens, the purchased items are removed and LFC spent is returned.\n",
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "currency01",
-  "offerType": "VIRTUAL_CURRENCY",
-  "creationDate": "2024-04-24T06:41:11.181Z",
-  "lastModifiedDate": "2024-05-08T18:21:45.507Z",
   "effectiveDate": "2024-05-08T19:00:00.000Z",
-  "pcReleaseDate": "2024-05-08T19:00:00.000Z",
-  "publisherDisplayName": "Sunday Games",
-  "countriesBlacklist": [
-    "RU",
-    "KR",
-    "CN"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": "2024-05-08T18:16:54.617Z",
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "supernova-shards-currency01-a38d40"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/214ef5f74ff2426e9288b8dbb5facf8f/supernova-shards-actgy.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/214ef5f74ff2426e9288b8dbb5facf8f/supernova-shards-1jwn2.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/spt-assets/214ef5f74ff2426e9288b8dbb5facf8f/supernova-shards-1jwn2.png"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/214ef5f74ff2426e9288b8dbb5facf8f/supernova-shards-jc898.png"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "supernova-shards-currency01-a38d40"
-    }
-  ],
+  "currentPrice": 499,
   "seller": {
     "id": "o-dx8wz2nzl7wnx25v4syajpdrcqydxx",
     "name": "Sunday Games LTD"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "currency01",
+  "url": null,
+  "tags": [
     {
-      "path": "addons"
+      "id": "9547",
+      "name": "Windows"
     },
     {
-      "path": "addons/consumable"
+      "id": "10719",
+      "name": "Mac OS"
     }
   ],
-  "tags": [
-    null,
+  "items": [
     {
-      "id": "10719",
-      "name": "Mac OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX",
-        "macOS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-08-23T05:08:24.605Z",
-      "status": "ACTIVE",
-      "referenceCount": 1146,
-      "comment": null
+      "id": "addd818316e74cdca2ff93ce4c0243d8",
+      "namespace": "7b13795e0ec14de5a4b516bbb0f3a3f0"
     }
   ],
   "customAttributes": [
@@ -91,50 +69,67 @@
       "value": "false"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/214ef5f74ff2426e9288b8dbb5facf8f/supernova-shards-actgy.png",
-      "md5": "8315a756adbeb99c75a28728f4db423e",
-      "size": 1139245,
-      "uploadedDate": "2024-05-06T18:17:14.394Z",
-      "width": 2560,
-      "height": 1440
+      "path": "addons"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/214ef5f74ff2426e9288b8dbb5facf8f/supernova-shards-1jwn2.png",
-      "md5": "37169e98357979a0e7baf2dc86f15fb0",
-      "size": 1240894,
-      "uploadedDate": "2024-05-06T18:17:16.275Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/214ef5f74ff2426e9288b8dbb5facf8f/supernova-shards-1jwn2.png",
-      "md5": "37169e98357979a0e7baf2dc86f15fb0",
-      "size": 1240894,
-      "uploadedDate": "2024-05-06T18:17:16.275Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/214ef5f74ff2426e9288b8dbb5facf8f/supernova-shards-jc898.png",
-      "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 734807,
-      "uploadedDate": "2024-05-06T18:43:42.096Z",
-      "width": 1920,
-      "height": 1080
-    }
-  ],
-  "items": [
-    {
-      "id": "addd818316e74cdca2ff93ce4c0243d8"
+      "path": "addons/consumable"
     }
   ],
   "catalogNs": {
-    "name": "7b13795e0ec14de5a4b516bbb0f3a3f0"
-  }
+    "mappings": [
+      {
+        "pageSlug": "supernova-shards-402d95",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "supernova-shards-faq-582110",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "supernova-shards-currency01-a38d40",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "supernova-shards-currency02-4477d4",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "supernova-shards-currency03-75527f",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "supernova-shards-currency01-a38d40",
+      "pageType": "offer"
+    }
+  ],
+  "developerDisplayName": "Sunday Games",
+  "publisherDisplayName": "Sunday Games",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2024-05-08T19:00:00.000Z",
+  "pcReleaseDate": "2024-05-08T19:00:00.000Z",
+  "viewableDate": "2024-05-08T18:16:54.617Z",
+  "approximateReleasePlan": null
 }

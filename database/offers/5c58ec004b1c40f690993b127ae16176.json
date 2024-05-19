@@ -1,48 +1,26 @@
 {
+  "title": "DevAlexandriteAudience",
   "id": "5c58ec004b1c40f690993b127ae16176",
   "namespace": "d118f9a27e514d98aa25534afd2f35c7",
-  "title": "DevAlexandriteAudience",
   "description": "DevAlexandriteAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "devalexandriteaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2020-06-30T02:31:24.697Z",
-  "lastModifiedDate": "2021-05-27T16:20:27.826Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-5gbgsfvsrt9wlx9gu868mrxmhq6dlv",
     "name": "Sega of America"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "devalexandriteaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "7e741b08742a45c6823063c5b679a2f0",
+      "namespace": "d118f9a27e514d98aa25534afd2f35c7"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -57,13 +35,50 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "7e741b08742a45c6823063c5b679a2f0"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "d118f9a27e514d98aa25534afd2f35c7"
-  }
+    "mappings": [
+      {
+        "pageSlug": "sonic-colors-ultimate",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "sonic-colors-ultimate--digital-deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

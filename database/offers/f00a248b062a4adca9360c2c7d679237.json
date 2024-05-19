@@ -1,36 +1,46 @@
 {
+  "title": "VR Funhouse",
   "id": "f00a248b062a4adca9360c2c7d679237",
   "namespace": "vrfunhouse",
-  "title": "VR Funhouse",
   "description": "Step right up to VR Funhouse mods!  Download the VR Funhouse Mod Kit, create your own mods, and share them with the world.  We can’t wait to see the amazing experiences you’ll create!",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "vr-funhouse",
-  "urlSlug": "vr-funhouse-editor-01",
-  "offerType": "OTHERS",
-  "creationDate": "2016-08-31T15:39:36.507Z",
-  "lastModifiedDate": "2021-08-25T16:43:49.230Z",
   "effectiveDate": "2016-08-31T11:38:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/VRFun_White_updated-1524x806-c84231b103834f4fffba22943d1bd92c.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/vrfunhouse/offer/vrfunhouse_bg-430x250-430x250-57255897027311603ba44be29809e86b.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
     "name": "Epic Games"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": "vr-funhouse",
+  "urlSlug": "vr-funhouse-editor-01",
+  "url": null,
+  "tags": [
+    {
+      "id": "9559",
+      "name": "Editors"
+    }
+  ],
+  "items": [
+    {
+      "id": "3be791725c2f4716bcaecb0197549993",
+      "namespace": "vrfunhouse"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "vr-funhouse"
+    }
+  ],
   "categories": [
     {
       "path": "engines"
@@ -42,52 +52,38 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "9559",
-      "name": "Editors",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T21:11:57.763Z",
-      "updated": "2023-06-28T21:16:34.903Z",
-      "status": "ACTIVE",
-      "referenceCount": 54,
-      "comment": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "vr-funhouse"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/VRFun_White_updated-1524x806-c84231b103834f4fffba22943d1bd92c.png",
-      "md5": "c84231b103834f4fffba22943d1bd92c",
-      "size": 152029,
-      "uploadedDate": "2018-11-16T00:53:17.851Z",
-      "width": 1524,
-      "height": 806
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/vrfunhouse/offer/vrfunhouse_bg-430x250-430x250-57255897027311603ba44be29809e86b.jpg",
-      "md5": "57255897027311603ba44be29809e86b",
-      "size": 113047,
-      "uploadedDate": "2020-03-28T16:53:30.977Z",
-      "width": 430,
-      "height": 250
-    }
-  ],
-  "items": [
-    {
-      "id": "3be791725c2f4716bcaecb0197549993"
-    }
-  ],
   "catalogNs": {
-    "name": "vrfunhouse"
-  }
+    "mappings": [
+      {
+        "pageSlug": "vr-funhouse",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2016-08-31T11:38:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

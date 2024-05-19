@@ -1,65 +1,42 @@
 {
+  "title": "Nightmare Pack",
   "id": "a67f1b86d3e64b68bdb2967e158df687",
   "namespace": "badb0ee71b474ed591ec43212547cfc8",
-  "title": "Nightmare Pack",
   "description": "Nightmare Pack",
-  "longDescription": "",
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "nightmare-pack",
-  "offerType": "DLC",
-  "creationDate": "2020-02-17T21:49:37.225Z",
-  "lastModifiedDate": "2023-08-03T01:00:08.229Z",
   "effectiveDate": "2020-03-24T15:00:00.000Z",
-  "pcReleaseDate": "2020-03-24T15:00:00.000Z",
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR",
-    "CN"
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/PAladins_EGS_NightmarePack_2560x1440-2560x1440-f0ed9757728e14ad7350d17ed7b5cc93.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/PAladins_EGS_NightmarePack_860x1148-860x1148-d9e8970db67af593e2247b88d378ce25.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/PAladins_EGS_NightmarePack_2560x1440-2560x1440-f0ed9757728e14ad7350d17ed7b5cc93.jpg"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 499,
   "seller": {
     "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
     "name": "Hi-Rez Studios"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "spthidden"
-    },
-    {
-      "path": "spthidden/seasonpass"
-    },
-    {
-      "path": "games"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "nightmare-pack",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "aa44284c70894c8bab1a4572cc2a536d",
+      "namespace": "badb0ee71b474ed591ec43212547cfc8"
     }
   ],
   "customAttributes": [
@@ -76,41 +53,108 @@
       "value": "{}"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/PAladins_EGS_NightmarePack_2560x1440-2560x1440-f0ed9757728e14ad7350d17ed7b5cc93.jpg",
-      "md5": "f0ed9757728e14ad7350d17ed7b5cc93",
-      "size": 363186,
-      "uploadedDate": "2020-03-19T21:28:30.939Z",
-      "width": 2560,
-      "height": 1440
+      "path": "spthidden"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/PAladins_EGS_NightmarePack_860x1148-860x1148-d9e8970db67af593e2247b88d378ce25.jpg",
-      "md5": "d9e8970db67af593e2247b88d378ce25",
-      "size": 174350,
-      "uploadedDate": "2020-03-19T21:28:38.337Z",
-      "width": 860,
-      "height": 1148
+      "path": "spthidden/seasonpass"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/PAladins_EGS_NightmarePack_2560x1440-2560x1440-f0ed9757728e14ad7350d17ed7b5cc93.jpg",
-      "md5": "f0ed9757728e14ad7350d17ed7b5cc93",
-      "size": 363186,
-      "uploadedDate": "2020-03-19T21:28:47.521Z",
-      "width": 2560,
-      "height": 1440
-    }
-  ],
-  "items": [
+      "path": "games"
+    },
     {
-      "id": "aa44284c70894c8bab1a4572cc2a536d"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "badb0ee71b474ed591ec43212547cfc8"
-  }
+    "mappings": [
+      {
+        "pageSlug": "paladins--deluxe-edition",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "paladins--season-pass2021",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "paladins--genlock-complete-edition",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "paladins--gold-edition",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "paladins--sparkling-stallion-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "paladins--starter-edition",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "paladins--paladins-epic-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "paladins--sky-whale-mount",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "paladins--season-pass-2022",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "paladins--season-4-champions-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "paladins--feathered-fiend-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "paladins--rwby-complete-edition",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "paladins",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "paladins--interstellar-stallion-mount",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "paladins--digital-deluxe-edition",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-03-24T15:00:00.000Z",
+  "pcReleaseDate": "2020-03-24T15:00:00.000Z",
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,55 +1,73 @@
 {
+  "title": "MorphoCodeRedemptionOnly",
   "id": "0a4b437d7ffc411bb42d391a6a8ed2b0",
   "namespace": "morpho",
-  "title": "MorphoCodeRedemptionOnly",
   "description": "MorphoCodeRedemptionOnly",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "morpho",
-  "offerType": "OTHERS",
-  "creationDate": "2018-11-28T18:07:00.135Z",
-  "lastModifiedDate": "2020-04-29T00:38:36.810Z",
   "effectiveDate": "2018-11-28T13:06:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
     "name": "tinyBuild Games"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "morpho",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
+      "id": "60517ad2be01459eb8d56af55ec755bb",
+      "namespace": "morpho"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "60517ad2be01459eb8d56af55ec755bb"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "morpho"
-  }
+    "mappings": [
+      {
+        "pageSlug": "hello-neighbor-hide-and-seek--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hello-neighbor-hide-and-seek",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

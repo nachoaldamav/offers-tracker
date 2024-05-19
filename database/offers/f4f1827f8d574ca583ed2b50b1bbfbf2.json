@@ -1,36 +1,32 @@
 {
+  "title": "DevCarmeAudience",
   "id": "f4f1827f8d574ca583ed2b50b1bbfbf2",
   "namespace": "8b8fd2fe87a04bbab2eca292e71b5e2c",
-  "title": "DevCarmeAudience",
   "description": "DevCarmeAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "carmegeneralaudience-01",
-  "offerType": "OTHERS",
-  "creationDate": "2020-05-27T15:14:50.750Z",
-  "lastModifiedDate": "2024-02-27T17:30:59.879Z",
   "effectiveDate": "2099-01-01T11:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": false,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
     "name": "THQ Nordic GmbH"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "carmegeneralaudience-01",
+  "url": null,
+  "tags": [
+    {
+      "id": "19847",
+      "name": "Achievements"
+    }
+  ],
+  "items": [
+    {
+      "id": "2926e026e646460f9a90bcbed4e4ae1a",
+      "namespace": "8b8fd2fe87a04bbab2eca292e71b5e2c"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "games"
@@ -39,28 +35,50 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
-      "status": "ACTIVE",
-      "referenceCount": 3628,
-      "comment": ""
-    }
-  ],
-  "customAttributes": [],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "2926e026e646460f9a90bcbed4e4ae1a"
-    }
-  ],
   "catalogNs": {
-    "name": "8b8fd2fe87a04bbab2eca292e71b5e2c"
-  }
+    "mappings": [
+      {
+        "pageSlug": "desperados-3",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "desperados-3--soundtrack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "desperados-3--season-pass",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "desperados-3--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-01-01T11:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,40 +1,41 @@
 {
+  "title": "My Time at Portia Support a Creator",
   "id": "bb21e60c34c84911929b66471c6c7374",
   "namespace": "cobra",
-  "title": "My Time at Portia Support a Creator",
   "description": "My Time at Portia Support a Creator",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "my-time-at-portia-support-a-creator",
-  "offerType": "OTHERS",
-  "creationDate": "2019-01-14T21:10:23.956Z",
-  "lastModifiedDate": "2024-04-18T16:20:46.801Z",
   "effectiveDate": "2019-01-15T16:09:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": "Focus Home",
-  "countriesBlacklist": [
-    "RU",
-    "BY",
-    "CN"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/cobra/offer/thumbnail-1280x1420-2de5d547aea33add70bc80e602dab622.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/cobra/offer/codredemption-340x440-1665373c5f20effd5fa20b2010c9d06a.png"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
     "name": "Focus Entertainment Publishing"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "my-time-at-portia-support-a-creator",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "bc10cbba4e454b918bbc4bfa846248e9",
+      "namespace": "cobra"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    }
+  ],
   "categories": [
     {
       "path": "games"
@@ -43,39 +44,38 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "CN"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/cobra/offer/thumbnail-1280x1420-2de5d547aea33add70bc80e602dab622.png",
-      "md5": "2de5d547aea33add70bc80e602dab622",
-      "size": 428635,
-      "uploadedDate": "2019-01-14T21:11:27.924Z",
-      "width": 1280,
-      "height": 1420
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/cobra/offer/codredemption-340x440-1665373c5f20effd5fa20b2010c9d06a.png",
-      "md5": "1665373c5f20effd5fa20b2010c9d06a",
-      "size": 280286,
-      "uploadedDate": "2019-01-14T21:11:36.785Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "bc10cbba4e454b918bbc4bfa846248e9"
-    }
-  ],
   "catalogNs": {
-    "name": "cobra"
-  }
+    "mappings": [
+      {
+        "pageSlug": "my-time-at-portia",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": "Focus Home",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

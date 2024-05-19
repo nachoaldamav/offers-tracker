@@ -1,45 +1,35 @@
 {
+  "title": "CardinalDevAudience",
   "id": "5f70178e74d54d249ed040060d4615d6",
   "namespace": "91189432bbad4478afd611edff7f0339",
-  "title": "CardinalDevAudience",
   "description": "CardinalDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "cardinaldevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-07-10T17:36:07.223Z",
-  "lastModifiedDate": "2019-08-06T13:01:15.577Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/CodeRedemptionThisWarofMine-340x440-4bf7e48149df5b4668ec329c13c7d692.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/CodeRedemptionThisWarofMine-340x440-4bf7e48149df5b4668ec329c13c7d692.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
     "name": "11 Bit Studios"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "cardinaldevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "c5532d6dbb954d2baeae1df860fdd731",
+      "namespace": "91189432bbad4478afd611edff7f0339"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -50,32 +40,66 @@
       "value": "11 Bit Studios"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/CodeRedemptionThisWarofMine-340x440-4bf7e48149df5b4668ec329c13c7d692.jpg",
-      "md5": "4bf7e48149df5b4668ec329c13c7d692",
-      "size": 137881,
-      "uploadedDate": "2019-07-17T18:07:37.773Z",
-      "width": 340,
-      "height": 440
+      "path": "games"
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/CodeRedemptionThisWarofMine-340x440-4bf7e48149df5b4668ec329c13c7d692.jpg",
-      "md5": "4bf7e48149df5b4668ec329c13c7d692",
-      "size": 137881,
-      "uploadedDate": "2019-07-17T18:07:45.512Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "c5532d6dbb954d2baeae1df860fdd731"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "91189432bbad4478afd611edff7f0339"
-  }
+    "mappings": [
+      {
+        "pageSlug": "this-war-of-mine--fathers-promise",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "this-war-of-mine--the-last-broadcast",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "this-war-of-mine--the-little-ones",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "this-war-of-mine--fading-embers",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "this-war-of-mine",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "this-war-of-mine--season-pass",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

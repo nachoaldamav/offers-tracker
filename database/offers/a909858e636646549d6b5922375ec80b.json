@@ -1,49 +1,32 @@
 {
+  "title": "MtFairweather TMP",
   "id": "a909858e636646549d6b5922375ec80b",
   "namespace": "7e2ec8a47b8d41528eb6dd2efd2b1abc",
-  "title": "MtFairweather TMP",
   "description": "MtFairweather TMP",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "mtfairweathertmp",
-  "offerType": "VIRTUAL_CURRENCY",
-  "creationDate": "2022-07-14T19:39:43.539Z",
-  "lastModifiedDate": "2023-08-03T00:23:20.393Z",
   "effectiveDate": "2099-07-14T08:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "SS",
-    "SD",
-    "CU",
-    "RU",
-    "KP",
-    "SY",
-    "KR",
-    "BY",
-    "IR",
-    "CN",
-    "ZW",
-    "VE"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
     "name": "Gameloft SE"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "mtfairweathertmp",
+  "url": null,
+  "tags": [
+    {
+      "id": "19847",
+      "name": "Achievements"
+    }
+  ],
+  "items": [
+    {
+      "id": "04d45f37b1114614b9ee104d41df588c",
+      "namespace": "7e2ec8a47b8d41528eb6dd2efd2b1abc"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "spthidden/consumable"
@@ -55,28 +38,66 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
-      "status": "ACTIVE",
-      "referenceCount": 3628,
-      "comment": ""
-    }
-  ],
-  "customAttributes": [],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "04d45f37b1114614b9ee104d41df588c"
-    }
-  ],
   "catalogNs": {
-    "name": "7e2ec8a47b8d41528eb6dd2efd2b1abc"
-  }
+    "mappings": [
+      {
+        "pageSlug": "disney-dreamlight-valley",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "disney-dreamlight-valley--big-moonstone-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "disney-dreamlight-valley--small-moonstone-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "disney-dreamlight-valley--huge-moonstone-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "disney-dreamlight-valley--regular-moonstone-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "disney-dreamlight-valley--early-access-faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "disney-dreamlight-valley--a-rift-in-time",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "disney-dreamlight-valley--gold-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

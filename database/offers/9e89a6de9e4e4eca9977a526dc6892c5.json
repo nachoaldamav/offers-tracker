@@ -1,39 +1,37 @@
 {
+  "title": "LilyDevAudience",
   "id": "9e89a6de9e4e4eca9977a526dc6892c5",
   "namespace": "lily",
-  "title": "LilyDevAudience",
   "description": "LilyDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "lilydevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-01-28T20:12:44.832Z",
-  "lastModifiedDate": "2019-08-05T08:36:44.071Z",
   "effectiveDate": "2019-02-25T15:11:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Operencia_GameIcon-400x400-c94586c5240b4f82d5da21be06c80586.png"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
     "name": "Epic Dev Test Account"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "lilydevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "4c4d392098a448c78863ebee65e3a9f6",
+      "namespace": "lily"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Zen Studios"
+    }
+  ],
   "categories": [
     {
       "path": "games"
@@ -42,30 +40,46 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "developerName",
-      "value": "Zen Studios"
-    }
-  ],
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Operencia_GameIcon-400x400-c94586c5240b4f82d5da21be06c80586.png",
-      "md5": "c94586c5240b4f82d5da21be06c80586",
-      "size": 36104,
-      "uploadedDate": "2019-01-28T20:12:23.180Z",
-      "width": 400,
-      "height": 400
-    }
-  ],
-  "items": [
-    {
-      "id": "4c4d392098a448c78863ebee65e3a9f6"
-    }
-  ],
   "catalogNs": {
-    "name": "lily"
-  }
+    "mappings": [
+      {
+        "pageSlug": "operencia--explorers-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "operencia",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "operencia--explorers-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,49 +1,26 @@
 {
+  "title": "HermitDevAudience",
   "id": "f7b21693e2c94e568183542c80aa571f",
   "namespace": "599d248ca46b45a8b40a3b4e484712cb",
-  "title": "HermitDevAudience",
   "description": "HermitDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "hermitdevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-10-01T23:40:41.059Z",
-  "lastModifiedDate": "2019-12-05T12:53:48.722Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY",
-    "CN"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
     "name": "Epic Dev Test Account"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "hermitdevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "afca743c3766498c842c43e1a1dfcfac",
+      "namespace": "599d248ca46b45a8b40a3b4e484712cb"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -58,13 +35,70 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "afca743c3766498c842c43e1a1dfcfac"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "599d248ca46b45a8b40a3b4e484712cb"
-  }
+    "mappings": [
+      {
+        "pageSlug": "the-crew-2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-crew-2--special-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-crew-2--season-pass",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-crew-2--gold-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-crew-2--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-crew-2--mazda-rx-8-starter-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-crew-2--porsche-cayman-gt4-starter-pack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

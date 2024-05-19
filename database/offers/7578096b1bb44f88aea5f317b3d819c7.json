@@ -1,89 +1,54 @@
 {
+  "title": "Carcassonne",
   "id": "7578096b1bb44f88aea5f317b3d819c7",
   "namespace": "epic",
-  "title": "Carcassonne",
   "description": "Carcassonne",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "carcassonne/home",
-  "urlSlug": "carcassonne",
-  "offerType": "OTHERS",
-  "creationDate": "2020-01-27T17:10:48.187Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
   "effectiveDate": "2020-02-06T16:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2020-01-30T15:59:00.000Z",
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Landscape-Image-2560x1440-2560x1440-1487473e4cfcb5b50ef6bf8e367e842c.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/carcassonne_Portrait-image-860x1148_BASEgame-860x1148-396fe55e12e2aedf56a93d2644f269e9.png"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Game-Logo-200x200-200x200-12b638fe3a6ff14c48a9551172ca7e78.png"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
     "name": "Asmodee"
   },
-  "linkedOfferId": "6a9694e578ee4e598b16a02ef549b629",
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": "carcassonne/home",
+  "urlSlug": "carcassonne",
+  "url": null,
   "tags": [
     {
       "id": "1296",
-      "name": "Casual",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:45.644Z",
-      "updated": "2023-08-23T04:55:54.798Z",
-      "status": "ACTIVE",
-      "referenceCount": 423,
-      "comment": null
+      "name": "Casual"
     },
     {
       "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2024-03-28T21:49:29.573Z",
-      "status": "ACTIVE",
-      "referenceCount": 1846,
-      "comment": null
+      "name": "Multiplayer"
     },
     {
       "id": "1115",
-      "name": "Strategy",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2023-08-23T05:08:24.575Z",
-      "status": "ACTIVE",
-      "referenceCount": 1068,
-      "comment": null
+      "name": "Strategy"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -108,41 +73,38 @@
       "value": "6a9694e578ee4e598b16a02ef549b629"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Landscape-Image-2560x1440-2560x1440-1487473e4cfcb5b50ef6bf8e367e842c.jpg",
-      "md5": "1487473e4cfcb5b50ef6bf8e367e842c",
-      "size": 152993,
-      "uploadedDate": "2020-01-27T17:08:41.039Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/carcassonne_Portrait-image-860x1148_BASEgame-860x1148-396fe55e12e2aedf56a93d2644f269e9.png",
-      "md5": "396fe55e12e2aedf56a93d2644f269e9",
-      "size": 1436146,
-      "uploadedDate": "2020-01-27T17:08:52.052Z",
-      "width": 860,
-      "height": 1148
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Game-Logo-200x200-200x200-12b638fe3a6ff14c48a9551172ca7e78.png",
-      "md5": "12b638fe3a6ff14c48a9551172ca7e78",
-      "size": 21416,
-      "uploadedDate": "2020-01-27T17:09:04.351Z",
-      "width": 200,
-      "height": 200
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2019-11-19T12:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": "2020-01-30T15:59:00.000Z",
+  "approximateReleasePlan": null
 }

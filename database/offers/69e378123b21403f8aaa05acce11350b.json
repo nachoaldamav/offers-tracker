@@ -1,45 +1,26 @@
 {
+  "title": "DevOpalAudience",
   "id": "69e378123b21403f8aaa05acce11350b",
   "namespace": "5645a537b6a44f6f82d122729f3253ed",
-  "title": "DevOpalAudience",
   "description": "DevOpalAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "devopalaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2020-02-27T23:30:59.847Z",
-  "lastModifiedDate": "2023-01-10T16:32:55.836Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-vzv8n7jse99sluj4vaa8522rh45cvg",
     "name": "Akupara Games"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "devopalaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "e78d3107b9284854a76e0d158c84a1fa",
+      "namespace": "5645a537b6a44f6f82d122729f3253ed"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -58,13 +39,46 @@
       "value": "null"
     }
   ],
-  "keyImages": [],
-  "items": [
+  "categories": [
     {
-      "id": "e78d3107b9284854a76e0d158c84a1fa"
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "5645a537b6a44f6f82d122729f3253ed"
-  }
+    "mappings": [
+      {
+        "pageSlug": "mutazione",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

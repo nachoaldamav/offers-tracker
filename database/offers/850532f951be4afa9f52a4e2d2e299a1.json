@@ -1,50 +1,59 @@
 {
+  "title": "pici-dlc-test",
   "id": "850532f951be4afa9f52a4e2d2e299a1",
   "namespace": "79af9ae5e85344c0a2385021c1c02c02",
-  "title": "pici-dlc-test",
   "description": "pici-dlc-test",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "pici-dlc-test",
-  "offerType": "DLC",
-  "creationDate": "2022-03-07T20:47:46.502Z",
-  "lastModifiedDate": "2022-04-07T19:26:06.652Z",
   "effectiveDate": "2099-02-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": "EGFG LLC",
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-4m3t3rbr8yw4rpfdlb6yjppdf6ztbf",
     "name": "EGFG LLC"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "pici-dlc-test",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "c9186590a67d414e986d2ff3a514970d",
+      "namespace": "79af9ae5e85344c0a2385021c1c02c02"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "c9186590a67d414e986d2ff3a514970d"
-    }
-  ],
   "catalogNs": {
-    "name": "79af9ae5e85344c0a2385021c1c02c02"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": "EGFG LLC",
+  "publisherDisplayName": "EGFG LLC",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-02-01T00:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,38 +1,31 @@
 {
+  "title": "Heavy Rain Regional SKU Test Audience",
   "id": "fd043b9fad1c44c29c77c51e9eb45bae",
   "namespace": "aster",
-  "title": "Heavy Rain Regional SKU Test Audience",
   "description": "Heavy Rain Regional SKU Test Audience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "heavy-rain-regional-sku-test",
-  "offerType": "OTHERS",
-  "creationDate": "2019-06-06T08:26:53.654Z",
-  "lastModifiedDate": "2020-04-29T00:38:20.317Z",
   "effectiveDate": "2019-06-05T04:26:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "AE"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-m8v47d762atphw94knus7ezawefpcu",
     "name": "Quantic Dream"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "heavy-rain-regional-sku-test",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "d8f27585f35949cdadc221255c120ea4",
+      "namespace": "aster"
+    },
+    {
+      "id": "9fa7cfffd9ab4a08a7a489d2151ba6a6",
+      "namespace": "aster"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "games"
@@ -41,18 +34,42 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "d8f27585f35949cdadc221255c120ea4"
-    },
-    {
-      "id": "9fa7cfffd9ab4a08a7a489d2151ba6a6"
-    }
-  ],
   "catalogNs": {
-    "name": "aster"
-  }
+    "mappings": [
+      {
+        "pageSlug": "heavy-rain",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "heavy-rain--demo",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

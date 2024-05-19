@@ -1,60 +1,77 @@
 {
+  "title": "Satisfactory Stage",
   "id": "be9c2fdb35b544509952196533ff6258",
   "namespace": "crab",
-  "title": "Satisfactory Stage",
   "description": "FolderName",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "satisfactory-stage",
-  "offerType": "OTHERS",
-  "creationDate": "2018-11-05T15:12:36.385Z",
-  "lastModifiedDate": "2020-04-29T00:46:52.268Z",
   "effectiveDate": "2018-11-05T10:10:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": "2018-11-05T10:10:00.000Z",
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/crab/offer/sat_off-340x440-87d85bf8e95544134940b67bf12c1822-340x440-87d85bf8e95544134940b67bf12c1822.png"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
     "name": "Epic Games"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "satisfactory-stage",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "8d8cb900a6de45629f8cd465a725f2e4",
+      "namespace": "crab"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "games"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/crab/offer/sat_off-340x440-87d85bf8e95544134940b67bf12c1822-340x440-87d85bf8e95544134940b67bf12c1822.png",
-      "md5": "87d85bf8e95544134940b67bf12c1822",
-      "size": 245210,
-      "uploadedDate": "2018-12-12T21:05:02.372Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "8d8cb900a6de45629f8cd465a725f2e4"
-    }
-  ],
   "catalogNs": {
-    "name": "crab"
-  }
+    "mappings": [
+      {
+        "pageSlug": "satisfactory",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "satisfactory--dedicated-server",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "satisfactory--early-access-weekend",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": "2018-11-05T10:10:00.000Z",
+  "approximateReleasePlan": null
 }

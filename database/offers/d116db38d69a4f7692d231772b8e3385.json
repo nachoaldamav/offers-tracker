@@ -1,93 +1,50 @@
 {
+  "title": "LightBear",
   "id": "d116db38d69a4f7692d231772b8e3385",
   "namespace": "fedab10441d74c6ba206fd112d6049e2",
-  "title": "LightBear",
   "description": "Play the new HIT INDIE ROGUELIKE FAT BEAR GAME. Journey from the center of the maze to your freedom! Every death will only send you back. Can you escape the clutches of the Golden Apiary?",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "9b88ae79df72403c8c19784bf51f3f49",
-  "offerType": "BASE_GAME",
-  "creationDate": "2023-09-14T18:54:50.362Z",
-  "lastModifiedDate": "2023-09-29T21:33:39.647Z",
   "effectiveDate": "2023-09-29T05:00:00.000Z",
-  "pcReleaseDate": "2023-09-29T05:00:00.000Z",
-  "publisherDisplayName": "LightBear Software Inc.",
-  "countriesBlacklist": [
-    "KR"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2023-09-27T22:00:00.000Z",
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "lightbear-30e42d"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/cd4b1889618e4fa280543331f0fc5850/lightbear-17h7y.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/cd4b1889618e4fa280543331f0fc5850/lightbear-5b08m.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/spt-assets/cd4b1889618e4fa280543331f0fc5850/lightbear-5b08m.png"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "lightbear-30e42d"
-    }
-  ],
+  "currentPrice": 1299,
   "seller": {
     "id": "o-ncv8bhr5uurjcy3wcg3h2mlydx5qg6",
     "name": "LightBear Software Inc."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games/edition/base"
-    },
-    {
-      "path": "games/edition"
-    },
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "9b88ae79df72403c8c19784bf51f3f49",
+  "url": null,
   "tags": [
     {
       "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-23T05:17:12.951Z",
-      "status": "ACTIVE",
-      "referenceCount": 5001,
-      "comment": null
+      "name": "Single Player"
     },
     {
       "id": "1083",
-      "name": "Rogue-Lite",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:58:59.720Z",
-      "updated": "2023-08-23T05:17:12.960Z",
-      "status": "ACTIVE",
-      "referenceCount": 204,
-      "comment": null
+      "name": "Rogue-Lite"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "6093f63d106147048827034ac2b484bd",
+      "namespace": "fedab10441d74c6ba206fd112d6049e2"
     }
   ],
   "customAttributes": [
@@ -108,41 +65,54 @@
       "value": "false"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/cd4b1889618e4fa280543331f0fc5850/lightbear-17h7y.png",
-      "md5": "466e70fda6016b8bdc154445680c90e3",
-      "size": 4122350,
-      "uploadedDate": "2023-09-28T18:32:48.129Z",
-      "width": 2560,
-      "height": 1440
+      "path": "games/edition/base"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/cd4b1889618e4fa280543331f0fc5850/lightbear-5b08m.png",
-      "md5": "a2fd28210ae03149ce088cc9580babaa",
-      "size": 2392452,
-      "uploadedDate": "2023-09-27T22:37:12.971Z",
-      "width": 1200,
-      "height": 1600
+      "path": "games/edition"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/cd4b1889618e4fa280543331f0fc5850/lightbear-5b08m.png",
-      "md5": "a2fd28210ae03149ce088cc9580babaa",
-      "size": 2392452,
-      "uploadedDate": "2023-09-27T22:37:12.971Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "6093f63d106147048827034ac2b484bd"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "fedab10441d74c6ba206fd112d6049e2"
-  }
+    "mappings": [
+      {
+        "pageSlug": "lightbear-30e42d",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "lightbear-30e42d",
+      "pageType": "productHome"
+    }
+  ],
+  "developerDisplayName": "LightBear Software Inc.",
+  "publisherDisplayName": "LightBear Software Inc.",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1299,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2023-09-29T05:00:00.000Z",
+  "pcReleaseDate": "2023-09-29T05:00:00.000Z",
+  "viewableDate": "2023-09-27T22:00:00.000Z",
+  "approximateReleasePlan": null
 }

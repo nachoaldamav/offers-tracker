@@ -1,159 +1,70 @@
 {
+  "title": "CATAIRE",
   "id": "54743436f8ed4c80a87e2cb61029a563",
   "namespace": "be657c5da1ad4bb48cb458c8db67b45e",
-  "title": "CATAIRE",
   "description": "Cat + Solitaire = CATAIRE is a unique game that combines two passions - a love for cats and a fascination with solitaire gameplay. It's a real treat for cat enthusiasts and card game fans alike. Every detail beautifully crafted, and gameplay that is equally engaging and relaxing.",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "71783c4ceed04524a88a5a359f456890",
-  "offerType": "BASE_GAME",
-  "creationDate": "2023-09-07T13:57:01.081Z",
-  "lastModifiedDate": "2024-04-22T16:05:17.924Z",
   "effectiveDate": "2023-09-14T13:00:00.000Z",
-  "pcReleaseDate": "2022-09-23T10:00:00.000Z",
-  "publisherDisplayName": "Airem",
-  "countriesBlacklist": [
-    "BR",
-    "RU",
-    "AU",
-    "KR"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2023-09-07T16:00:00.000Z",
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "cataire-6ce6b7"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/1534195d18cc4f0fb2262c353339d478/cataire-ic6qz.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/1534195d18cc4f0fb2262c353339d478/cataire-18b3i.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/spt-assets/1534195d18cc4f0fb2262c353339d478/cataire-18b3i.png"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "cataire-6ce6b7"
-    }
-  ],
+  "currentPrice": 99,
   "seller": {
     "id": "o-wndrw4cwfttmgjzmh3fk38euecp7hf",
     "name": "Airem"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games/edition/base"
-    },
-    {
-      "path": "games/edition"
-    },
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "71783c4ceed04524a88a5a359f456890",
+  "url": null,
   "tags": [
     {
       "id": "1296",
-      "name": "Casual",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:45.644Z",
-      "updated": "2023-08-23T04:55:54.798Z",
-      "status": "ACTIVE",
-      "referenceCount": 423,
-      "comment": null
+      "name": "Casual"
     },
     {
       "id": "1298",
-      "name": "Puzzle",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:46.616Z",
-      "updated": "2023-08-22T09:59:03.727Z",
-      "status": "ACTIVE",
-      "referenceCount": 412,
-      "comment": null
+      "name": "Puzzle"
     },
     {
       "id": "21894",
-      "name": "Cloud Saves",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-07-07T16:11:08.589Z",
-      "updated": "2023-08-23T02:20:12.228Z",
-      "status": "ACTIVE",
-      "referenceCount": 1775,
-      "comment": ""
+      "name": "Cloud Saves"
     },
     {
       "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-23T05:17:12.951Z",
-      "status": "ACTIVE",
-      "referenceCount": 5001,
-      "comment": null
+      "name": "Single Player"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
     },
     {
       "id": "1181",
-      "name": "Card Game",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:48.401Z",
-      "updated": "2023-08-22T18:09:40.663Z",
-      "status": "ACTIVE",
-      "referenceCount": 95,
-      "comment": null
+      "name": "Card Game"
     },
     {
       "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-08-23T03:24:56.337Z",
-      "status": "ACTIVE",
-      "referenceCount": 2499,
-      "comment": null
+      "name": "Controller Support"
     },
     {
       "id": "10719",
-      "name": "Mac OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX",
-        "macOS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-08-23T05:08:24.605Z",
-      "status": "ACTIVE",
-      "referenceCount": 1146,
-      "comment": null
+      "name": "Mac OS"
+    }
+  ],
+  "items": [
+    {
+      "id": "b40e4d7400fb43b184fc8db916242efb",
+      "namespace": "be657c5da1ad4bb48cb458c8db67b45e"
     }
   ],
   "customAttributes": [
@@ -174,41 +85,58 @@
       "value": "false"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/1534195d18cc4f0fb2262c353339d478/cataire-ic6qz.png",
-      "md5": "e9a98697e1e52f71ea19a895369f2694",
-      "size": 236982,
-      "uploadedDate": "2023-09-07T16:10:17.138Z",
-      "width": 2560,
-      "height": 1440
+      "path": "games/edition/base"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/1534195d18cc4f0fb2262c353339d478/cataire-18b3i.png",
-      "md5": "5eb08303024e35e29e208b0d9525147c",
-      "size": 116692,
-      "uploadedDate": "2023-09-07T16:11:55.400Z",
-      "width": 1200,
-      "height": 1600
+      "path": "games/edition"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/1534195d18cc4f0fb2262c353339d478/cataire-18b3i.png",
-      "md5": "5eb08303024e35e29e208b0d9525147c",
-      "size": 116692,
-      "uploadedDate": "2023-09-07T16:11:55.400Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "b40e4d7400fb43b184fc8db916242efb"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "be657c5da1ad4bb48cb458c8db67b45e"
-  }
+    "mappings": [
+      {
+        "pageSlug": "cataire-6ce6b7",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "cataire-6ce6b7",
+      "pageType": "productHome"
+    }
+  ],
+  "developerDisplayName": "Airem",
+  "publisherDisplayName": "Airem",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 49,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 50,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "c7b246ea54cd4f959512cf6a9505d3cf"
+          }
+        ]
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2023-09-14T13:00:00.000Z",
+  "pcReleaseDate": "2022-09-23T10:00:00.000Z",
+  "viewableDate": "2023-09-07T16:00:00.000Z",
+  "approximateReleasePlan": null
 }

@@ -1,38 +1,32 @@
 {
+  "title": "NautilusDevAudience",
   "id": "ce631960235d4377b7b50711ebbe8a96",
   "namespace": "nautilus",
-  "title": "NautilusDevAudience",
   "description": "NautilusDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "nautilusdevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-01-04T20:05:23.180Z",
-  "lastModifiedDate": "2024-04-18T16:20:46.755Z",
   "effectiveDate": "2099-01-22T16:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "SA"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
     "name": "Focus Entertainment Publishing"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "nautilusdevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "c1b80bbf1dc1434ab1fa515fa2c25c50",
+      "namespace": "nautilus"
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Focus Home"
+    }
+  ],
   "categories": [
     {
       "path": "games"
@@ -41,20 +35,38 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
-    {
-      "key": "developerName",
-      "value": "Focus Home"
-    }
-  ],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "c1b80bbf1dc1434ab1fa515fa2c25c50"
-    }
-  ],
   "catalogNs": {
-    "name": "nautilus"
-  }
+    "mappings": [
+      {
+        "pageSlug": "vampyr",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

@@ -1,92 +1,50 @@
 {
+  "title": "Paladins",
   "id": "308d380d8b5d4141b59d8f1722150475",
   "namespace": "epic",
-  "title": "Paladins",
   "description": "Paladins",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": "paladins",
-  "urlSlug": "paladins",
-  "offerType": "OTHERS",
-  "creationDate": "2020-03-20T14:35:07.233Z",
-  "lastModifiedDate": "2020-04-29T19:01:18.757Z",
   "effectiveDate": "2020-03-20T10:28:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR",
-    "CN"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Smite-EGS-DarknessandDragons-PortraitIMG-860x1148-860x1148-86650a0774e99d9262beb7e68b9df6e6.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Smite-EGS-DarknessandDragons-LandscapeIMG-2560x1440-2560x1440-231b377596b2e7c3ededcb90ebfedb64.jpg"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": null,
-  "offerMappings": null,
+  "currentPrice": 0,
   "seller": {
     "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
     "name": "Hi-Rez Studios"
   },
-  "linkedOfferId": "6005be154ca94b978757989243a9ec73",
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": "paladins",
+  "urlSlug": "paladins",
+  "url": null,
   "tags": [
     {
       "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2024-03-28T21:49:29.573Z",
-      "status": "ACTIVE",
-      "referenceCount": 1846,
-      "comment": null
+      "name": "Multiplayer"
     },
     {
       "id": "1299",
-      "name": "Competitive",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:47.106Z",
-      "updated": "2023-08-23T04:55:54.821Z",
-      "status": "ACTIVE",
-      "referenceCount": 452,
-      "comment": null
+      "name": "Competitive"
     },
     {
       "id": "1210",
-      "name": "Shooter",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2023-08-23T00:14:55.836Z",
-      "status": "ACTIVE",
-      "referenceCount": 799,
-      "comment": null
+      "name": "Shooter"
     },
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic"
     }
   ],
   "customAttributes": [
@@ -107,32 +65,38 @@
       "value": "6005be154ca94b978757989243a9ec73"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Smite-EGS-DarknessandDragons-PortraitIMG-860x1148-860x1148-86650a0774e99d9262beb7e68b9df6e6.jpg",
-      "md5": "86650a0774e99d9262beb7e68b9df6e6",
-      "size": 325977,
-      "uploadedDate": "2020-04-29T19:00:57.640Z",
-      "width": 860,
-      "height": 1148
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Smite-EGS-DarknessandDragons-LandscapeIMG-2560x1440-2560x1440-231b377596b2e7c3ededcb90ebfedb64.jpg",
-      "md5": "231b377596b2e7c3ededcb90ebfedb64",
-      "size": 390427,
-      "uploadedDate": "2020-04-29T19:01:08.689Z",
-      "width": 2560,
-      "height": 1440
-    }
-  ],
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "epic"
-  }
+    "mappings": null
+  },
+  "offerMappings": null,
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-03-20T10:28:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

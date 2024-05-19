@@ -1,65 +1,42 @@
 {
+  "title": "8000 Crystals",
   "id": "21ddc11380944f738b2306ef5b6d0de7",
   "namespace": "badb0ee71b474ed591ec43212547cfc8",
-  "title": "8000 Crystals",
   "description": "8000 Crystals",
-  "longDescription": "",
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "8000-crystals",
-  "offerType": "VIRTUAL_CURRENCY",
-  "creationDate": "2020-02-17T21:36:57.273Z",
-  "lastModifiedDate": "2023-08-03T01:00:07.251Z",
   "effectiveDate": "2020-03-24T15:00:00.000Z",
-  "pcReleaseDate": "2020-03-24T15:00:00.000Z",
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR",
-    "CN"
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Paladins_EGS_8000_Crystals_2560x1440-2560x1440-a428ae7596be5abf59313c6282845f78.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Paladins_EGS_8000_Crystals_860x1148-860x1148-f68ab7312514747f70cded5730d8beeb.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Paladins_EGS_8000_Crystals_2560x1440-2560x1440-a428ae7596be5abf59313c6282845f78.jpg"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 9999,
   "seller": {
     "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
     "name": "Hi-Rez Studios"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "spthidden/consumable"
-    },
-    {
-      "path": "spthidden"
-    },
-    {
-      "path": "games"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "8000-crystals",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "b75d22b955134fcdb3e4b69998175dac",
+      "namespace": "badb0ee71b474ed591ec43212547cfc8"
     }
   ],
   "customAttributes": [
@@ -76,41 +53,108 @@
       "value": "{}"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Paladins_EGS_8000_Crystals_2560x1440-2560x1440-a428ae7596be5abf59313c6282845f78.jpg",
-      "md5": "a428ae7596be5abf59313c6282845f78",
-      "size": 325036,
-      "uploadedDate": "2020-03-19T21:31:34.978Z",
-      "width": 2560,
-      "height": 1440
+      "path": "spthidden/consumable"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Paladins_EGS_8000_Crystals_860x1148-860x1148-f68ab7312514747f70cded5730d8beeb.jpg",
-      "md5": "f68ab7312514747f70cded5730d8beeb",
-      "size": 238203,
-      "uploadedDate": "2020-03-19T21:31:42.731Z",
-      "width": 860,
-      "height": 1148
+      "path": "spthidden"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Paladins_EGS_8000_Crystals_2560x1440-2560x1440-a428ae7596be5abf59313c6282845f78.jpg",
-      "md5": "a428ae7596be5abf59313c6282845f78",
-      "size": 325036,
-      "uploadedDate": "2020-03-19T21:31:52.783Z",
-      "width": 2560,
-      "height": 1440
-    }
-  ],
-  "items": [
+      "path": "games"
+    },
     {
-      "id": "b75d22b955134fcdb3e4b69998175dac"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "badb0ee71b474ed591ec43212547cfc8"
-  }
+    "mappings": [
+      {
+        "pageSlug": "paladins--deluxe-edition",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "paladins--season-pass2021",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "paladins--genlock-complete-edition",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "paladins--gold-edition",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "paladins--sparkling-stallion-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "paladins--starter-edition",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "paladins--paladins-epic-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "paladins--sky-whale-mount",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "paladins--season-pass-2022",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "paladins--season-4-champions-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "paladins--feathered-fiend-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "paladins--rwby-complete-edition",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "paladins",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "paladins--interstellar-stallion-mount",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "paladins--digital-deluxe-edition",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 9999,
+      "originalPrice": 9999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-03-24T15:00:00.000Z",
+  "pcReleaseDate": "2020-03-24T15:00:00.000Z",
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

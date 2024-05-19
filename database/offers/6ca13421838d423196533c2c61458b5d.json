@@ -1,55 +1,80 @@
 {
+  "title": "realmroyalePTS",
   "id": "6ca13421838d423196533c2c61458b5d",
   "namespace": "5fcf6f3031c547f789e29c18b422ca67",
-  "title": "realmroyalePTS",
   "description": "realmroyalePTS",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "pts",
-  "offerType": "OTHERS",
-  "creationDate": "2022-07-15T12:49:43.750Z",
-  "lastModifiedDate": "2022-08-05T16:09:01.975Z",
   "effectiveDate": "2099-07-28T17:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": false,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
     "name": "Hi-Rez Studios"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "pts",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "2968b90420934b978ef446495ff27e69",
+      "namespace": "5fcf6f3031c547f789e29c18b422ca67"
+    },
+    {
+      "id": "6e18b2eebbf4496c95e1c9ba1a6b04fb",
+      "namespace": "5fcf6f3031c547f789e29c18b422ca67"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "2968b90420934b978ef446495ff27e69"
-    },
-    {
-      "id": "6e18b2eebbf4496c95e1c9ba1a6b04fb"
-    }
-  ],
   "catalogNs": {
-    "name": "5fcf6f3031c547f789e29c18b422ca67"
-  }
+    "mappings": [
+      {
+        "pageSlug": "realm-royale-reforged--epic-launch-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "realm-royale-reforged",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "realm-royale-reforged--bass-drop-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "realm-royale-reforged--cute-but-deadly-pack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

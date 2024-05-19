@@ -1,45 +1,35 @@
 {
+  "title": "SaltDevAudience",
   "id": "8b3c1fa62a114fbf8d787343276ecac9",
   "namespace": "b671fbc7be424e888c9346a9a6d3d9db",
-  "title": "SaltDevAudience",
   "description": "SaltDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "saltdevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-08-05T14:11:02.691Z",
-  "lastModifiedDate": "2023-02-28T19:30:32.018Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/b671fbc7be424e888c9346a9a6d3d9db/offer/CodeRedemption_Celeste-340x440-873dacb76be8c59d659757b4b5284a61.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/b671fbc7be424e888c9346a9a6d3d9db/offer/CodeRedemption_Celeste-340x440-873dacb76be8c59d659757b4b5284a61.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-82l4kr2zqqhkqqa6mkut4pjx9lma3h",
     "name": "Maddy Makes Games"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "saltdevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "103bd73571794f6d9162cced7e4bccdd",
+      "namespace": "b671fbc7be424e888c9346a9a6d3d9db"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -50,32 +40,46 @@
       "value": "Matt Makes Games"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/b671fbc7be424e888c9346a9a6d3d9db/offer/CodeRedemption_Celeste-340x440-873dacb76be8c59d659757b4b5284a61.jpg",
-      "md5": "873dacb76be8c59d659757b4b5284a61",
-      "size": 147098,
-      "uploadedDate": "2019-08-14T17:59:04.099Z",
-      "width": 340,
-      "height": 440
+      "path": "games"
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/b671fbc7be424e888c9346a9a6d3d9db/offer/CodeRedemption_Celeste-340x440-873dacb76be8c59d659757b4b5284a61.jpg",
-      "md5": "873dacb76be8c59d659757b4b5284a61",
-      "size": 147098,
-      "uploadedDate": "2019-08-14T17:59:12.049Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "103bd73571794f6d9162cced7e4bccdd"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "b671fbc7be424e888c9346a9a6d3d9db"
-  }
+    "mappings": [
+      {
+        "pageSlug": "celeste",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

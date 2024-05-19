@@ -1,51 +1,43 @@
 {
+  "title": "Foregone Pre-Purchase",
   "id": "515ffd697e154f11ab4f21446503c954",
   "namespace": "a40f6c03e1374358809ec38c999059c0",
-  "title": "Foregone Pre-Purchase",
   "description": "Foregone Pre-Purchase",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "dabprepurchaseaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-12-09T18:31:43.004Z",
-  "lastModifiedDate": "2024-03-22T16:01:00.952Z",
   "effectiveDate": "2019-12-10T10:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/a40f6c03e1374358809ec38c999059c0/offer/EGS_BigBlueBubble_Foregone_S4-510x680-d2ea24d44a409f9f1cba0db7b4d6d930.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/a40f6c03e1374358809ec38c999059c0/forgone_tall_1200x1600-48824e208dcf5f4a692a8804f0f7d441"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/a40f6c03e1374358809ec38c999059c0/forgone_wide_1920x1080-b92831431aa732b9996c99c5419711e2"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/a40f6c03e1374358809ec38c999059c0/forgone_tall_1200x1600-48824e208dcf5f4a692a8804f0f7d441"
+    }
+  ],
+  "currentPrice": 2499,
   "seller": {
     "id": "o-r7nfesqr4qcafkmfwmp9hpu492f228",
     "name": "Big Blue Bubble, Inc."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "dabprepurchaseaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "spthidden"
-    },
-    {
-      "path": "games"
-    },
-    {
-      "path": "spthidden/edition"
-    },
-    {
-      "path": "applications"
+      "id": "49632d6d2fe2446b9736206dc7bf4098",
+      "namespace": "a40f6c03e1374358809ec38c999059c0"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -64,50 +56,52 @@
       "value": "true"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/a40f6c03e1374358809ec38c999059c0/offer/EGS_BigBlueBubble_Foregone_S4-510x680-d2ea24d44a409f9f1cba0db7b4d6d930.jpg",
-      "md5": "d2ea24d44a409f9f1cba0db7b4d6d930",
-      "size": 345019,
-      "uploadedDate": "2019-12-11T03:20:25.808Z",
-      "width": 510,
-      "height": 680
+      "path": "spthidden"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/a40f6c03e1374358809ec38c999059c0/forgone_tall_1200x1600-48824e208dcf5f4a692a8804f0f7d441",
-      "md5": "48824e208dcf5f4a692a8804f0f7d441",
-      "size": 955146,
-      "uploadedDate": "2024-03-22T16:00:45.334Z",
-      "width": 1200,
-      "height": 1600
+      "path": "games"
     },
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/a40f6c03e1374358809ec38c999059c0/forgone_wide_1920x1080-b92831431aa732b9996c99c5419711e2",
-      "md5": "b92831431aa732b9996c99c5419711e2",
-      "size": 961423,
-      "uploadedDate": "2024-03-22T16:00:56.242Z",
-      "width": 1920,
-      "height": 1080
+      "path": "spthidden/edition"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/a40f6c03e1374358809ec38c999059c0/forgone_tall_1200x1600-48824e208dcf5f4a692a8804f0f7d441",
-      "md5": "48824e208dcf5f4a692a8804f0f7d441",
-      "size": 955146,
-      "uploadedDate": "2024-03-22T15:59:22.753Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "49632d6d2fe2446b9736206dc7bf4098"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "a40f6c03e1374358809ec38c999059c0"
-  }
+    "mappings": [
+      {
+        "pageSlug": "foregone",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": true,
+  "releaseDate": "2020-02-26T16:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

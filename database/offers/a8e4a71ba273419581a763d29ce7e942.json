@@ -1,42 +1,49 @@
 {
+  "title": "BattleCore Arena",
   "id": "a8e4a71ba273419581a763d29ce7e942",
   "namespace": "9daf5f0ac30b4759bc8de9637668002f",
-  "title": "BattleCore Arena",
   "description": "BattleCore Arena",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "battlecore-arena",
-  "offerType": "BASE_GAME",
-  "creationDate": "2023-11-22T17:05:39.978Z",
-  "lastModifiedDate": "2024-04-30T15:55:56.938Z",
   "effectiveDate": "2099-04-30T15:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": "Ubisoft Entertainment",
-  "countriesBlacklist": [
-    "BR",
-    "RU",
-    "AU",
-    "BY",
-    "CN"
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/9daf5f0ac30b4759bc8de9637668002f/EGST_StorePortrait_1200x1600_1200x1600-52ab20465c7ae3d5461335ed495088cd"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/9daf5f0ac30b4759bc8de9637668002f/EGST_StoreLandscape_2560x1440_2560x1440-81e5ef683b1116df934dc70dfa7cd4d3"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/9daf5f0ac30b4759bc8de9637668002f/EGST_StorePortrait_1200x1600_1200x1600-52ab20465c7ae3d5461335ed495088cd"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": "2024-04-30T15:00:00.000Z",
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "battlecore-arena",
+  "url": null,
+  "tags": [
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS"
+    }
+  ],
+  "items": [
+    {
+      "id": "b66caa0236224c7e99dde2d7c86709cf",
+      "namespace": "9daf5f0ac30b4759bc8de9637668002f"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "games"
@@ -51,57 +58,42 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    null,
-    {
-      "id": "1310",
-      "name": "EARLY ACCESS",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:52.671Z",
-      "updated": "2023-08-22T22:50:29.701Z",
-      "status": "ACTIVE",
-      "referenceCount": 250,
-      "comment": null
-    }
-  ],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/9daf5f0ac30b4759bc8de9637668002f/EGST_StorePortrait_1200x1600_1200x1600-52ab20465c7ae3d5461335ed495088cd",
-      "md5": "52ab20465c7ae3d5461335ed495088cd",
-      "size": 397102,
-      "uploadedDate": "2024-04-25T16:48:09.214Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/9daf5f0ac30b4759bc8de9637668002f/EGST_StoreLandscape_2560x1440_2560x1440-81e5ef683b1116df934dc70dfa7cd4d3",
-      "md5": "81e5ef683b1116df934dc70dfa7cd4d3",
-      "size": 735154,
-      "uploadedDate": "2024-04-25T16:48:12.802Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/9daf5f0ac30b4759bc8de9637668002f/EGST_StorePortrait_1200x1600_1200x1600-52ab20465c7ae3d5461335ed495088cd",
-      "md5": "52ab20465c7ae3d5461335ed495088cd",
-      "size": 397102,
-      "uploadedDate": "2024-04-25T16:48:16.686Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "b66caa0236224c7e99dde2d7c86709cf"
-    }
-  ],
   "catalogNs": {
-    "name": "9daf5f0ac30b4759bc8de9637668002f"
-  }
+    "mappings": [
+      {
+        "pageSlug": "battlecore-arena--early-access-faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "battlecore-arena",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": "Ubisoft Bordeaux",
+  "publisherDisplayName": "Ubisoft Entertainment",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-04-30T15:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": "2024-04-30T15:00:00.000Z",
+  "approximateReleasePlan": null
 }

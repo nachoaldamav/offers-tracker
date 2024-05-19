@@ -1,101 +1,70 @@
 {
+  "title": "Hunt the Night",
   "id": "46ed2452c10040e79586d18f5daaf2d4",
   "namespace": "edecc2d8282c4dc39823e3319d1b8bc1",
-  "title": "Hunt the Night",
   "description": "Plunge into a retro-style action-adventure game that combines a fast, skilled gameplay with dark fantasy and lore. Play as Vesper, a virtuous member of 'The Stalkers,' and explore the vast world of Medhram, filled with ruins and horrors.",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "6900c33b0c164ef793f464650703cc44",
-  "offerType": "BASE_GAME",
-  "creationDate": "2021-11-05T06:01:50.634Z",
-  "lastModifiedDate": "2024-05-14T08:34:47.702Z",
   "effectiveDate": "2023-04-12T22:00:00.000Z",
-  "pcReleaseDate": "2023-04-12T22:00:00.000Z",
-  "publisherDisplayName": "DANGEN Entertainment",
-  "countriesBlacklist": [
-    "BR",
-    "RU",
-    "AU",
-    "BY"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": "2023-03-17T02:00:00.000Z",
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "hunt-the-night-3f1eb5"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/ae8d441fdcd642089252661184e311a4/hunt-the-night-1avok.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ae8d441fdcd642089252661184e311a4/hunt-the-night-qxmpy.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/spt-assets/ae8d441fdcd642089252661184e311a4/hunt-the-night-qxmpy.png"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "hunt-the-night-3f1eb5"
-    }
-  ],
+  "currentPrice": 1999,
   "seller": {
     "id": "o-q2thmxrkzmaxl69f7ql8qm65nruu8u",
     "name": "DANGEN Entertainment"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games/edition/base"
-    },
-    {
-      "path": "games/edition"
-    },
-    {
-      "path": "games"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "6900c33b0c164ef793f464650703cc44",
+  "url": null,
   "tags": [
     {
       "id": "1218",
-      "name": "Horror",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:06.599Z",
-      "updated": "2023-08-22T19:55:04.197Z",
-      "status": "ACTIVE",
-      "referenceCount": 414,
-      "comment": null
+      "name": "Horror"
     },
-    null,
-    null,
+    {
+      "id": "21894",
+      "name": "Cloud Saves"
+    },
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1336",
-      "name": "Action-Adventure",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:05.439Z",
-      "updated": "2023-08-23T03:24:56.304Z",
-      "status": "ACTIVE",
-      "referenceCount": 519,
-      "comment": null
+      "name": "Action-Adventure"
     },
-    null,
-    null,
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
     {
       "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-08-23T05:17:12.988Z",
-      "status": "ACTIVE",
-      "referenceCount": 1176,
-      "comment": null
+      "name": "Indie"
+    }
+  ],
+  "items": [
+    {
+      "id": "b7dc4d7f25894d929ea354eae0931228",
+      "namespace": "edecc2d8282c4dc39823e3319d1b8bc1"
     }
   ],
   "customAttributes": [
@@ -116,41 +85,58 @@
       "value": "false"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/ae8d441fdcd642089252661184e311a4/hunt-the-night-1avok.png",
-      "md5": "dc2bd533995331321f351fc4f3483310",
-      "size": 3437418,
-      "uploadedDate": "2023-03-17T04:02:16.118Z",
-      "width": 2560,
-      "height": 1440
+      "path": "games/edition/base"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/ae8d441fdcd642089252661184e311a4/hunt-the-night-qxmpy.png",
-      "md5": "10062c5710dd22f8a7c19be1e82047bb",
-      "size": 1505607,
-      "uploadedDate": "2023-03-17T04:05:49.090Z",
-      "width": 1200,
-      "height": 1600
+      "path": "games/edition"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/ae8d441fdcd642089252661184e311a4/hunt-the-night-qxmpy.png",
-      "md5": "10062c5710dd22f8a7c19be1e82047bb",
-      "size": 1505607,
-      "uploadedDate": "2023-03-17T04:05:49.090Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "b7dc4d7f25894d929ea354eae0931228"
+      "path": "games"
     }
   ],
   "catalogNs": {
-    "name": "edecc2d8282c4dc39823e3319d1b8bc1"
-  }
+    "mappings": [
+      {
+        "pageSlug": "hunt-the-night-3f1eb5",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "hunt-the-night-3f1eb5",
+      "pageType": "productHome"
+    }
+  ],
+  "developerDisplayName": "Moonlight Games",
+  "publisherDisplayName": "DANGEN Entertainment",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1599,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "c53767bac3b94af9ac04ee715150f5aa"
+          }
+        ]
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2023-04-12T22:00:00.000Z",
+  "pcReleaseDate": "2023-04-12T22:00:00.000Z",
+  "viewableDate": "2023-03-17T02:00:00.000Z",
+  "approximateReleasePlan": null
 }

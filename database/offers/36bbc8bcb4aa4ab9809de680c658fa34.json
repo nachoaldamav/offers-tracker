@@ -1,68 +1,46 @@
 {
+  "title": "Buy Silver Chest",
   "id": "36bbc8bcb4aa4ab9809de680c658fa34",
   "namespace": "469efc19125a4c3fb518e4723ad3010e",
-  "title": "Buy Silver Chest",
   "description": "1 Common Booster, 1 Common Pack",
-  "longDescription": "<!--textBlock-->\n<!--title-->\n# Buy Silver Chest\n<!--text-->\n1 Common Booster, 1 Common Pack\n",
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "buy-silver-chest",
-  "offerType": "VIRTUAL_CURRENCY",
-  "creationDate": "2023-10-30T11:22:45.737Z",
-  "lastModifiedDate": "2024-01-13T15:11:51.273Z",
   "effectiveDate": "2023-12-29T05:00:00.000Z",
-  "pcReleaseDate": "2023-12-29T05:00:00.000Z",
-  "publisherDisplayName": "Jurval Corp",
-  "countriesBlacklist": [
-    "RU",
-    "KR",
-    "CN"
-  ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": "2023-10-16T07:30:00.000Z",
-  "developer": null,
-  "mappings": [
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
     {
-      "pageSlug": "underground-waifus-tcg-buy-silver-chest-a663d3"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/73f3d015c38945ba90979eeed0ca7ded/underground-waifus-tcg-10kfi.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/73f3d015c38945ba90979eeed0ca7ded/underground-waifus-tcg-1p8tj.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/spt-assets/73f3d015c38945ba90979eeed0ca7ded/underground-waifus-tcg-1p8tj.png"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/73f3d015c38945ba90979eeed0ca7ded/underground-waifus-tcg-1r05j.jpg"
     }
   ],
-  "offerMappings": [
-    {
-      "pageSlug": "underground-waifus-tcg-buy-silver-chest-a663d3"
-    }
-  ],
+  "currentPrice": 399,
   "seller": {
     "id": "o-7j3e555gwshnmrtpgf7mfxdvvsh8q8",
     "name": "Jurval Corp SL"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "spthidden/consumable"
-    },
-    {
-      "path": "spthidden"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "buy-silver-chest",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "9eaa5452cac840a9bdd6f35a587ad38d",
+      "namespace": "469efc19125a4c3fb518e4723ad3010e"
     }
   ],
   "customAttributes": [
@@ -83,50 +61,123 @@
       "value": "false"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/73f3d015c38945ba90979eeed0ca7ded/underground-waifus-tcg-10kfi.png",
-      "md5": "c5c1ed445079ba4d639109b6274e2878",
-      "size": 2482960,
-      "uploadedDate": "2023-10-31T09:56:11.547Z",
-      "width": 2560,
-      "height": 1440
+      "path": "spthidden/consumable"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/73f3d015c38945ba90979eeed0ca7ded/underground-waifus-tcg-1p8tj.png",
-      "md5": "5766057ab0b2851bc2e22d49def4e3b1",
-      "size": 1573220,
-      "uploadedDate": "2023-10-31T09:56:17.266Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/73f3d015c38945ba90979eeed0ca7ded/underground-waifus-tcg-1p8tj.png",
-      "md5": "5766057ab0b2851bc2e22d49def4e3b1",
-      "size": 1573220,
-      "uploadedDate": "2023-10-31T09:56:17.266Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/73f3d015c38945ba90979eeed0ca7ded/underground-waifus-tcg-1r05j.jpg",
-      "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 405594,
-      "uploadedDate": "2023-10-30T11:44:52.036Z",
-      "width": 1920,
-      "height": 1080
-    }
-  ],
-  "items": [
-    {
-      "id": "9eaa5452cac840a9bdd6f35a587ad38d"
+      "path": "spthidden"
     }
   ],
   "catalogNs": {
-    "name": "469efc19125a4c3fb518e4723ad3010e"
-  }
+    "mappings": [
+      {
+        "pageSlug": "underground-waifus-tcg-4c889b",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "underground-waifus-tcg-faq-6ec504",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "underground-waifus-tcg-buy-tickets-1-dafcae",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "underground-waifus-tcg-buy-founder-pack-c89aa2",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "underground-waifus-tcg-buy-silver-chest-a663d3",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "underground-waifus-tcg-buy-gold-20000-b2b95e",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "underground-waifus-tcg-buy-epic-pack-fc7fcf",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "underground-waifus-tcg-buy-gold-1000-4b95dd",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "underground-waifus-tcg-buy-legendary-pack-3daa8c",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "underground-waifus-tcg-buy-gold-chest-ee4acf",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "underground-waifus-tcg-buy-tickets-5-028dec",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "underground-waifus-tcg-buy-gold-5000-784f25",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "underground-waifus-tcg-buy-outerring-pack-778f26",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "underground-waifus-tcg-buy-rare-pack-cc8f95",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "underground-waifus-tcg-buy-common-pack-d0bc83",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "underground-waifus-tcg-buy-tickets-10-2dc0ba",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "underground-waifus-tcg-buy-tickets-50-5579f3",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "underground-waifus-tcg-buy-mystic-pack-6fb0cb",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "underground-waifus-tcg-buy-platinum-chest-226d0f",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "underground-waifus-tcg-buy-silver-chest-a663d3",
+      "pageType": "offer"
+    }
+  ],
+  "developerDisplayName": "Jurval Corp",
+  "publisherDisplayName": "Jurval Corp",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 399,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2023-12-29T05:00:00.000Z",
+  "pcReleaseDate": "2023-12-29T05:00:00.000Z",
+  "viewableDate": "2023-10-16T07:30:00.000Z",
+  "approximateReleasePlan": null
 }

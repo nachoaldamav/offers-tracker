@@ -1,59 +1,42 @@
 {
+  "title": "The Outer Worlds Pre-Purchase",
   "id": "e92023ec0d244f71a3c99bdf22c23b7f",
   "namespace": "rosemallow",
-  "title": "The Outer Worlds Pre-Purchase",
   "description": "The Outer Worlds Pre-Purchase",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "the-outer-worlds-prepurchase",
-  "offerType": "BASE_GAME",
-  "creationDate": "2019-06-08T17:06:33.822Z",
-  "lastModifiedDate": "2023-08-03T15:17:12.584Z",
   "effectiveDate": "2019-06-13T12:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "BY"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/TheOuterWorlds_CodeRedemption-340x440-b6b1d651f08bd558d8e8d7d68d12cf18.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/TheOuterWorlds_CodeRedemption-340x440-b6b1d651f08bd558d8e8d7d68d12cf18.jpg"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "SELF_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 2999,
   "seller": {
     "id": "o-6emrb2lpzacm9ued3z37u42x56wkaz",
     "name": "Private Division"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
-    {
-      "path": "games"
-    },
-    {
-      "path": "applications"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "the-outer-worlds-prepurchase",
+  "url": null,
   "tags": [
     {
       "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "fcf496d7382341fcaf3c2b583f116e2c",
+      "namespace": "rosemallow"
+    },
+    {
+      "id": "06e6bf4c8c474a0397a8f7dafeb19e24",
+      "namespace": "rosemallow"
     }
   ],
   "customAttributes": [
@@ -78,35 +61,66 @@
       "value": "Obsidian Entertainment"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/rosemallow/offer/TheOuterWorlds_CodeRedemption-340x440-b6b1d651f08bd558d8e8d7d68d12cf18.jpg",
-      "md5": "b6b1d651f08bd558d8e8d7d68d12cf18",
-      "size": 36475,
-      "uploadedDate": "2019-06-13T18:23:11.897Z",
-      "width": 340,
-      "height": 440
+      "path": "games"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/rosemallow/offer/TheOuterWorlds_CodeRedemption-340x440-b6b1d651f08bd558d8e8d7d68d12cf18.jpg",
-      "md5": "b6b1d651f08bd558d8e8d7d68d12cf18",
-      "size": 36475,
-      "uploadedDate": "2019-06-13T18:23:26.480Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "fcf496d7382341fcaf3c2b583f116e2c"
-    },
-    {
-      "id": "06e6bf4c8c474a0397a8f7dafeb19e24"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "rosemallow"
-  }
+    "mappings": [
+      {
+        "pageSlug": "the-outer-worlds--non-mandatory-corporate-sponsored-bundle",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-outer-worlds",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-outer-worlds--murder-on-eridanos",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-outer-worlds--expansion-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-outer-worlds--original-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-outer-worlds--peril-on-gorgon",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": true,
+  "releaseDate": "2019-10-25T15:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

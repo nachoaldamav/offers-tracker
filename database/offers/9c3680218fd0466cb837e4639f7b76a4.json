@@ -1,48 +1,43 @@
 {
+  "title": "CallunaQAAudience",
   "id": "9c3680218fd0466cb837e4639f7b76a4",
   "namespace": "calluna",
-  "title": "CallunaQAAudience",
   "description": "CallunaQAAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "callunaqaaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-04-01T19:32:52.936Z",
-  "lastModifiedDate": "2023-08-18T09:53:29.735Z",
   "effectiveDate": "2019-04-01T08:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "KR",
-    "CN"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CONTROL_logo_shadow-670x212-676c3d62788f269f00819451130394e3.png"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Control_Store_Primary_Promo_2580x1450-2580x1450-371d5dd82a48a881145528b4781fe757.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Icon_Control_Thumbnail-400x400-346fbd0de6aba2f8e311420dac371781.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Control-330x440-1d64eca071c7ad6f9d3171c9c05c681a.png"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
     "name": "505 Games"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "callunaqaaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "d5a8a4638dc842d490fa8c8d54bbcca3",
+      "namespace": "calluna"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -57,50 +52,62 @@
       "value": "Remedy Entertainment"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/CONTROL_logo_shadow-670x212-676c3d62788f269f00819451130394e3.png",
-      "md5": "676c3d62788f269f00819451130394e3",
-      "size": 28205,
-      "uploadedDate": "2019-04-01T19:25:52.440Z",
-      "width": 670,
-      "height": 212
+      "path": "games"
     },
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Control_Store_Primary_Promo_2580x1450-2580x1450-371d5dd82a48a881145528b4781fe757.jpg",
-      "md5": "371d5dd82a48a881145528b4781fe757",
-      "size": 223868,
-      "uploadedDate": "2019-04-01T19:26:50.765Z",
-      "width": 2580,
-      "height": 1450
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Icon_Control_Thumbnail-400x400-346fbd0de6aba2f8e311420dac371781.png",
-      "md5": "346fbd0de6aba2f8e311420dac371781",
-      "size": 4690,
-      "uploadedDate": "2019-04-01T19:27:21.194Z",
-      "width": 400,
-      "height": 400
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Control-330x440-1d64eca071c7ad6f9d3171c9c05c681a.png",
-      "md5": "1d64eca071c7ad6f9d3171c9c05c681a",
-      "size": 241250,
-      "uploadedDate": "2019-04-01T19:28:11.094Z",
-      "width": 330,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "d5a8a4638dc842d490fa8c8d54bbcca3"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "calluna"
-  }
+    "mappings": [
+      {
+        "pageSlug": "control",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "control--the-foundation",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "control--season-pass",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "control--awe",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "control--ultimate-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

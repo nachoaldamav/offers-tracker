@@ -1,48 +1,35 @@
 {
+  "title": "PeacockDevAudience",
   "id": "0fd5b920ec0d42768281b263a982ca5b",
   "namespace": "7f498fbf0a4e43239d58eee6615ae806",
-  "title": "PeacockDevAudience",
   "description": "PeacockDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "peacockdevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-07-25T17:15:02.696Z",
-  "lastModifiedDate": "2019-12-19T15:57:54.650Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": [
-    "RU",
-    "KR"
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/7f498fbf0a4e43239d58eee6615ae806/offer/CodeRedemption_ReadySet_Heroes-340x440-9d63a0a961bbff4cf9003a39b001c18e.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/7f498fbf0a4e43239d58eee6615ae806/offer/CodeRedemption_ReadySet_Heroes-340x440-9d63a0a961bbff4cf9003a39b001c18e.jpg"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
     "name": "Sony Interactive Entertainment"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
-  "categories": [
+  "productSlug": null,
+  "urlSlug": "peacockdevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "2b71294c3f1644f2b747a257f492160e",
+      "namespace": "7f498fbf0a4e43239d58eee6615ae806"
     }
   ],
-  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -57,32 +44,46 @@
       "value": "Robot Entertainment"
     }
   ],
-  "keyImages": [
+  "categories": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/7f498fbf0a4e43239d58eee6615ae806/offer/CodeRedemption_ReadySet_Heroes-340x440-9d63a0a961bbff4cf9003a39b001c18e.jpg",
-      "md5": "9d63a0a961bbff4cf9003a39b001c18e",
-      "size": 222061,
-      "uploadedDate": "2019-08-14T15:40:13.465Z",
-      "width": 340,
-      "height": 440
+      "path": "games"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/7f498fbf0a4e43239d58eee6615ae806/offer/CodeRedemption_ReadySet_Heroes-340x440-9d63a0a961bbff4cf9003a39b001c18e.jpg",
-      "md5": "9d63a0a961bbff4cf9003a39b001c18e",
-      "size": 222061,
-      "uploadedDate": "2019-08-14T15:40:22.072Z",
-      "width": 340,
-      "height": 440
-    }
-  ],
-  "items": [
-    {
-      "id": "2b71294c3f1644f2b747a257f492160e"
+      "path": "applications"
     }
   ],
   "catalogNs": {
-    "name": "7f498fbf0a4e43239d58eee6615ae806"
-  }
+    "mappings": [
+      {
+        "pageSlug": "readyset-heroes",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": null,
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

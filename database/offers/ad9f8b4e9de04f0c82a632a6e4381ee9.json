@@ -1,36 +1,36 @@
 {
+  "title": "SileneDevAudience",
   "id": "ad9f8b4e9de04f0c82a632a6e4381ee9",
   "namespace": "silene",
-  "title": "SileneDevAudience",
   "description": "SileneDevAudience",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "silenedevaudience",
-  "offerType": "OTHERS",
-  "creationDate": "2019-02-14T21:37:38.688Z",
-  "lastModifiedDate": "2020-05-13T19:25:57.110Z",
   "effectiveDate": "2050-02-14T16:37:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": true,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/silene/offer/CloseToTheSun_Thumbnail-1280x1420-6aa1506ddc57f4bf22dcf13cc690bff6.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/silene/offer/CloseToTheSun_Thumbnail-1280x1420-6aa1506ddc57f4bf22dcf13cc690bff6.jpg"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-r83qbqhwd8y5y5r6e9x62vtrsd9mqm",
     "name": "Wired Productions"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "silenedevaudience",
+  "url": null,
+  "tags": [],
+  "items": [
+    {
+      "id": "3e370671b07f435b9d4e5a3fe74437c9",
+      "namespace": "silene"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "games"
@@ -39,34 +39,38 @@
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/silene/offer/CloseToTheSun_Thumbnail-1280x1420-6aa1506ddc57f4bf22dcf13cc690bff6.jpg",
-      "md5": "6aa1506ddc57f4bf22dcf13cc690bff6",
-      "size": 148102,
-      "uploadedDate": "2019-04-24T21:06:33.141Z",
-      "width": 1280,
-      "height": 1420
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/silene/offer/CloseToTheSun_Thumbnail-1280x1420-6aa1506ddc57f4bf22dcf13cc690bff6.jpg",
-      "md5": "6aa1506ddc57f4bf22dcf13cc690bff6",
-      "size": 148102,
-      "uploadedDate": "2019-04-24T21:06:41.607Z",
-      "width": 1280,
-      "height": 1420
-    }
-  ],
-  "items": [
-    {
-      "id": "3e370671b07f435b9d4e5a3fe74437c9"
-    }
-  ],
   "catalogNs": {
-    "name": "silene"
-  }
+    "mappings": [
+      {
+        "pageSlug": "close-to-the-sun",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2020-05-13T15:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

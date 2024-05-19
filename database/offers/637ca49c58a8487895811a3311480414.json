@@ -1,36 +1,69 @@
 {
+  "title": "TEST 13500 Show-Bucks",
   "id": "637ca49c58a8487895811a3311480414",
   "namespace": "50118b7f954e450f8823df1614b24e80",
-  "title": "TEST 13500 Show-Bucks",
   "description": "TEST 13500 Show-Bucks",
-  "longDescription": "",
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "test-135000-show-bucks-audience",
-  "offerType": "VIRTUAL_CURRENCY",
-  "creationDate": "2022-07-02T00:10:41.089Z",
-  "lastModifiedDate": "2023-08-02T23:12:25.126Z",
   "effectiveDate": "2099-02-01T08:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": "Epic Games",
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/offer/50118b7f954e450f8823df1614b24e80/EGS_GiantPrimosPack_Mediatonic_Packs_S2_1200x1600-e1de08f06af188adc2037f89108dd52c_1200x1600-e1de08f06af188adc2037f89108dd52c"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/offer/50118b7f954e450f8823df1614b24e80/EGS_GiantPrimosPack_Mediatonic_Packs_S2_1200x1600-e1de08f06af188adc2037f89108dd52c_1200x1600-e1de08f06af188adc2037f89108dd52c"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/offer/50118b7f954e450f8823df1614b24e80/EGS_GiantPrimosPack_Mediatonic_Packs_S1_2560x1440-77868c16789e93e0ee7f805c3b685b6a_2560x1440-77868c16789e93e0ee7f805c3b685b6a"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/50118b7f954e450f8823df1614b24e80/EGS_GiantPrimosPack_Mediatonic_Packs_S2_1200x1600-e1de08f06af188adc2037f89108dd52c_1200x1600-e1de08f06af188adc2037f89108dd52c"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/50118b7f954e450f8823df1614b24e80/EGS_GiantPrimosPack_Mediatonic_Packs_G1A_00_1920x1080-9a7f8200074b681aba428e5aa7f93d20_1920x1080-9a7f8200074b681aba428e5aa7f93d20"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/50118b7f954e450f8823df1614b24e80/EGS_GiantPrimosPack_Mediatonic_Packs_S2_1200x1600-e1de08f06af188adc2037f89108dd52c_1200x1600-e1de08f06af188adc2037f89108dd52c"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/50118b7f954e450f8823df1614b24e80/EGS_GiantPrimosPack_Mediatonic_Packs_S1_2560x1440-77868c16789e93e0ee7f805c3b685b6a_2560x1440-77868c16789e93e0ee7f805c3b685b6a"
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/offer/50118b7f954e450f8823df1614b24e80/EGS_FallGuys_Mediatonic_IC1_400x400-87f5f19c4955718799dd4f5724889c9d"
+    }
+  ],
+  "currentPrice": 0,
   "seller": {
     "id": "o-4m3t3rbr8yw4rpfdlb6yjppdf6ztbf",
     "name": "EGFG LLC"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "test-135000-show-bucks-audience",
+  "url": null,
+  "tags": [
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
+  ],
+  "items": [
+    {
+      "id": "04c6f103f7bf47e6bbc7431c632d587d",
+      "namespace": "50118b7f954e450f8823df1614b24e80"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "spthidden/consumable"
@@ -42,113 +75,158 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
-      "status": "ACTIVE",
-      "referenceCount": 3628,
-      "comment": ""
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
-    }
-  ],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/offer/50118b7f954e450f8823df1614b24e80/EGS_GiantPrimosPack_Mediatonic_Packs_S2_1200x1600-e1de08f06af188adc2037f89108dd52c_1200x1600-e1de08f06af188adc2037f89108dd52c",
-      "md5": "e1de08f06af188adc2037f89108dd52c",
-      "size": 651591,
-      "uploadedDate": "2022-05-12T22:30:03.010Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/offer/50118b7f954e450f8823df1614b24e80/EGS_GiantPrimosPack_Mediatonic_Packs_S2_1200x1600-e1de08f06af188adc2037f89108dd52c_1200x1600-e1de08f06af188adc2037f89108dd52c",
-      "md5": "e1de08f06af188adc2037f89108dd52c",
-      "size": 651591,
-      "uploadedDate": "2022-05-12T22:29:59.232Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/offer/50118b7f954e450f8823df1614b24e80/EGS_GiantPrimosPack_Mediatonic_Packs_S1_2560x1440-77868c16789e93e0ee7f805c3b685b6a_2560x1440-77868c16789e93e0ee7f805c3b685b6a",
-      "md5": "77868c16789e93e0ee7f805c3b685b6a",
-      "size": 782560,
-      "uploadedDate": "2022-05-12T22:29:54.504Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/50118b7f954e450f8823df1614b24e80/EGS_GiantPrimosPack_Mediatonic_Packs_S2_1200x1600-e1de08f06af188adc2037f89108dd52c_1200x1600-e1de08f06af188adc2037f89108dd52c",
-      "md5": "e1de08f06af188adc2037f89108dd52c",
-      "size": 651591,
-      "uploadedDate": "2022-05-12T22:29:48.971Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/50118b7f954e450f8823df1614b24e80/EGS_GiantPrimosPack_Mediatonic_Packs_G1A_00_1920x1080-9a7f8200074b681aba428e5aa7f93d20_1920x1080-9a7f8200074b681aba428e5aa7f93d20",
-      "md5": "9a7f8200074b681aba428e5aa7f93d20",
-      "size": 793673,
-      "uploadedDate": "2022-05-12T22:29:44.630Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/50118b7f954e450f8823df1614b24e80/EGS_GiantPrimosPack_Mediatonic_Packs_S2_1200x1600-e1de08f06af188adc2037f89108dd52c_1200x1600-e1de08f06af188adc2037f89108dd52c",
-      "md5": "e1de08f06af188adc2037f89108dd52c",
-      "size": 651591,
-      "uploadedDate": "2022-05-12T22:29:39.945Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/50118b7f954e450f8823df1614b24e80/EGS_GiantPrimosPack_Mediatonic_Packs_S1_2560x1440-77868c16789e93e0ee7f805c3b685b6a_2560x1440-77868c16789e93e0ee7f805c3b685b6a",
-      "md5": "77868c16789e93e0ee7f805c3b685b6a",
-      "size": 782560,
-      "uploadedDate": "2022-05-12T22:29:33.486Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "ProductLogo",
-      "url": "https://cdn1.epicgames.com/offer/50118b7f954e450f8823df1614b24e80/EGS_FallGuys_Mediatonic_IC1_400x400-87f5f19c4955718799dd4f5724889c9d",
-      "md5": "87f5f19c4955718799dd4f5724889c9d",
-      "size": 42030,
-      "uploadedDate": "2022-06-07T19:48:31.668Z",
-      "width": 400,
-      "height": 400
-    }
-  ],
-  "items": [
-    {
-      "id": "04c6f103f7bf47e6bbc7431c632d587d"
-    }
-  ],
   "catalogNs": {
-    "name": "50118b7f954e450f8823df1614b24e80"
-  }
+    "mappings": [
+      {
+        "pageSlug": "fall-guys",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "fall-guys--1000-show-bucks",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fall-guys--2800-show-bucks",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fall-guys--5000-show-bucks",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fall-guys--starter-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fall-guys--popping-whizzbanger-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fall-guys--wildfire-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fall-guys--neigh-neigh-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fall-guys--plush-fox-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fall-guys--otter-delights-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fall-guys--season-2-starter-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fall-guys--pegwin-party-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fall-guys--doc-glover-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fall-guys--crow-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fall-guys--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "fall-guys--snowberry",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fall-guys--free-range-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fall-guys--stunning-sealife-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fall-guys--horns-aplenty-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fall-guys--avian-angler-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fall-guys--arcade-classics-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fall-guys--blorbius-the-despiser",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fall-guys--miner-mole-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fall-guys--600-show-bucks",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fall-guys--giddy-gift",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fall-guys--bubblegum-sundae-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fall-guys--13500-show-bucks",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fall-guys--banana-tropic-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fall-guys--bean-machine-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fall-guys--hug-a-lotl-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fall-guys--soda-crown",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": "Mediatonic",
+  "publisherDisplayName": "Epic Games",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-02-01T08:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }

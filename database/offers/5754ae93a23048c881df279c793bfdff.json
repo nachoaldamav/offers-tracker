@@ -1,42 +1,37 @@
 {
+  "title": "Aurora Bundle",
   "id": "5754ae93a23048c881df279c793bfdff",
   "namespace": "d613614e082c4f648835a32f15c1d29b",
-  "title": "Aurora Bundle",
   "description": "Aurora Bundle",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "aurorabundle",
-  "offerType": "IN_GAME_PURCHASE",
-  "creationDate": "2023-11-10T21:18:01.780Z",
-  "lastModifiedDate": "2024-03-30T15:12:20.795Z",
   "effectiveDate": "2023-12-14T00:00:00.000Z",
-  "pcReleaseDate": "2023-12-14T00:00:00.000Z",
-  "publisherDisplayName": "Level Infinite",
-  "countriesBlacklist": [
-    "RU",
-    "BE",
-    "SY",
-    "VN",
-    "CN"
+  "isCodeRedemptionOnly": false,
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/d613614e082c4f648835a32f15c1d29b/AuroraBundle-synced_1200x1600-062206c9af47b0238f5a7ba804bae5fa"
+    }
   ],
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": "2023-12-14T00:00:00.000Z",
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "currentPrice": 3499,
   "seller": {
     "id": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
     "name": "Proxima Beta Europe B.V."
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "aurorabundle",
+  "url": null,
+  "tags": [
+    {
+      "id": "19847",
+      "name": "Achievements"
+    }
+  ],
+  "items": [
+    {
+      "id": "2e1a392b0f0144418d3587f599ffd2d0",
+      "namespace": "d613614e082c4f648835a32f15c1d29b"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "spthidden"
@@ -48,38 +43,50 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
-      "status": "ACTIVE",
-      "referenceCount": 3628,
-      "comment": ""
-    }
-  ],
-  "customAttributes": [],
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/d613614e082c4f648835a32f15c1d29b/AuroraBundle-synced_1200x1600-062206c9af47b0238f5a7ba804bae5fa",
-      "md5": "062206c9af47b0238f5a7ba804bae5fa",
-      "size": 66961,
-      "uploadedDate": "2023-12-08T14:43:41.608Z",
-      "width": 1200,
-      "height": 1600
-    }
-  ],
-  "items": [
-    {
-      "id": "2e1a392b0f0144418d3587f599ffd2d0"
-    }
-  ],
   "catalogNs": {
-    "name": "d613614e082c4f648835a32f15c1d29b"
-  }
+    "mappings": [
+      {
+        "pageSlug": "synced",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "synced--welcome-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "synced--newbie-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "synced--winterfest-bundle",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": "NExT Studios",
+  "publisherDisplayName": "Level Infinite",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3499,
+      "originalPrice": 3499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2023-12-14T00:00:00.000Z",
+  "pcReleaseDate": "2023-12-14T00:00:00.000Z",
+  "viewableDate": "2023-12-14T00:00:00.000Z",
+  "approximateReleasePlan": null
 }

@@ -1,63 +1,66 @@
 {
+  "title": "CurrencyPackTest1",
   "id": "f9c27d6900074833a7863c534042762e",
   "namespace": "0ded1556336546bf849c9d28878ec86c",
-  "title": "CurrencyPackTest1",
   "description": "CurrencyPackTest1",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "currencypacktest1",
-  "offerType": "VIRTUAL_CURRENCY",
-  "creationDate": "2021-05-21T02:20:45.933Z",
-  "lastModifiedDate": "2021-06-25T04:53:02.499Z",
   "effectiveDate": "2099-02-01T00:00:00.000Z",
-  "pcReleaseDate": null,
-  "publisherDisplayName": null,
-  "countriesBlacklist": null,
-  "countriesWhitelist": null,
-  "refundType": "NON_REFUNDABLE",
-  "viewableDate": null,
-  "developer": null,
-  "mappings": [],
-  "offerMappings": [],
+  "isCodeRedemptionOnly": false,
+  "keyImages": [],
+  "currentPrice": 0,
   "seller": {
     "id": "o-pabxa6wl5qzfbkdutrz85c2mnrptrr",
     "name": "Jagex"
   },
-  "linkedOfferId": null,
-  "isFeatured": false,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "collectionOfferIds": [],
-  "technicalDetails": null,
-  "recurrence": "ONCE",
+  "productSlug": null,
+  "urlSlug": "currencypacktest1",
+  "url": null,
+  "tags": [
+    null
+  ],
+  "items": [
+    {
+      "id": "f2dada8f45c648098175943f8185454b",
+      "namespace": "0ded1556336546bf849c9d28878ec86c"
+    }
+  ],
+  "customAttributes": [],
   "categories": [
     {
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13564,
-      "comment": null
-    }
-  ],
-  "customAttributes": [],
-  "keyImages": [],
-  "items": [
-    {
-      "id": "f2dada8f45c648098175943f8185454b"
-    }
-  ],
   "catalogNs": {
-    "name": "0ded1556336546bf849c9d28878ec86c"
-  }
+    "mappings": [
+      {
+        "pageSlug": "space-punks--early-access-faq",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": null,
+  "releaseDate": "2099-02-01T00:00:00.000Z",
+  "pcReleaseDate": null,
+  "viewableDate": null,
+  "approximateReleasePlan": null
 }
