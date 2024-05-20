@@ -17,6 +17,8 @@ query searchStoreQuery($allowCountries: String!, $count: Int!, $country: String!
         namespace
         description
         effectiveDate
+        creationDate
+        lastModifiedDate
         isCodeRedemptionOnly
         keyImages {
           type
