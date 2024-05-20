@@ -42,8 +42,14 @@
   "urlSlug": "dying-light--godfather-bundle",
   "url": null,
   "tags": [
-    null,
-    null
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    }
   ],
   "items": [
     {
@@ -223,10 +229,36 @@
       }
     ]
   },
-  "offerMappings": null,
+  "offerMappings": [
+    {
+      "pageSlug": "dying-light--godfather-bundle",
+      "pageType": "addon--cms-hybrid"
+    }
+  ],
   "developerDisplayName": "Techland",
   "publisherDisplayName": "Techland",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 74,
+      "originalPrice": 299,
+      "voucherDiscount": 0,
+      "discount": 225,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "620d6c9544354cc8be8a3750e833b596"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-02-28T15:00:00.000Z",
   "pcReleaseDate": "2019-10-02T15:58:00.000Z",
