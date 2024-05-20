@@ -30,7 +30,10 @@
   "urlSlug": "anstream-arcade-premium",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1264",
+      "name": "Co-op"
+    },
     {
       "id": "1296",
       "name": "Casual"
@@ -122,10 +125,27 @@
       }
     ]
   },
-  "offerMappings": null,
+  "offerMappings": [],
   "developerDisplayName": "Antstream Arcade",
   "publisherDisplayName": "Antstream Limited",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-05-11T17:00:00.000Z",
   "pcReleaseDate": "2021-11-18T16:00:00.000Z",
