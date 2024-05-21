@@ -131,11 +131,52 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "life-after-death-b4e964",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "life-after-death-faq-9b8300",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "life-after-death-life-after-death-soundtrack-056986",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "life-after-death-life-after-death-deluxe-bundle-4b0e3f",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "life-after-death-life-after-death-deluxe-bundle-4b0e3f",
+      "pageType": "offer"
+    }
+  ],
   "developerDisplayName": "MoStudios",
   "publisherDisplayName": "MoStudios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 799,
+      "originalPrice": 799,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-09-20T00:00:00.000Z",
   "pcReleaseDate": "2023-09-20T00:00:00.000Z",

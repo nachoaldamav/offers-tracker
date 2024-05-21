@@ -65,11 +65,52 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "risk-of-rain-2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "risk-of-rain-2--survivors-of-the-void",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "risk-of-rain-2--survivors-of-the-void-bundle",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "risk-of-rain-2--seekers-of-the-storm",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "risk-of-rain-2--seekers-of-the-storm",
+      "pageType": "addon--cms-hybrid"
+    }
+  ],
   "developerDisplayName": "Gearbox Software",
   "publisherDisplayName": "Gearbox Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-11-02T08:00:00.000Z",
   "pcReleaseDate": null,
