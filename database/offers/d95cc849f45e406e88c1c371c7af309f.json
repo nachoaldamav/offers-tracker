@@ -5,7 +5,7 @@
   "description": "The inventory management roguelike! Collect rare items, organize your backpack, and vanquish your foes!",
   "effectiveDate": "2023-11-14T18:00:00.000Z",
   "creationDate": "2023-03-10T15:00:15.725Z",
-  "lastModifiedDate": "2024-03-26T14:59:25.755Z",
+  "lastModifiedDate": "2024-05-21T15:06:31.019Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -53,6 +53,10 @@
     {
       "id": "1083",
       "name": "Rogue-Lite"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "9549",
@@ -116,10 +120,10 @@
   "publisherDisplayName": "Different Tales",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1599,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -128,7 +132,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "e314663f80954898b4fe79355bef7d47"
+          }
+        ]
       }
     ]
   },

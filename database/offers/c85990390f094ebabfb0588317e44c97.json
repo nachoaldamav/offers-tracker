@@ -5,7 +5,7 @@
   "description": "Da Vinci, Picasso, Michelangelo… and now Kao the Kangaroo!",
   "effectiveDate": "2023-05-04T13:00:00.000Z",
   "creationDate": "2023-04-26T20:34:25.400Z",
-  "lastModifiedDate": "2024-04-16T15:00:04.626Z",
+  "lastModifiedDate": "2024-05-21T15:06:31.018Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -53,6 +53,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     }
   ],
   "items": [
@@ -138,10 +142,10 @@
   "publisherDisplayName": "Tate Multimedia S.A.",
   "price": {
     "totalPrice": {
-      "discountPrice": 199,
+      "discountPrice": 99,
       "originalPrice": 199,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 100,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -150,7 +154,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "29f5a57f944c474b97dbb8fc738187f8"
+          }
+        ]
       }
     ]
   },
