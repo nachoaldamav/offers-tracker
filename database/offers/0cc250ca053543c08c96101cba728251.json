@@ -137,10 +137,31 @@
       }
     ]
   },
-  "offerMappings": null,
+  "offerMappings": [],
   "developerDisplayName": "Spiral House Ltd",
   "publisherDisplayName": "Epic Games Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1674,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 825,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "ec78dde798284f4582cb4802e4d31edb"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": false,
   "releaseDate": "2022-10-12T16:00:00.000Z",
   "pcReleaseDate": "2022-10-12T16:00:00.000Z",

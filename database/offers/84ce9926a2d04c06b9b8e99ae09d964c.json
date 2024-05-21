@@ -110,10 +110,36 @@
       }
     ]
   },
-  "offerMappings": null,
+  "offerMappings": [
+    {
+      "pageSlug": "xcom-2--collection-upgrade",
+      "pageType": "addon--cms-hybrid"
+    }
+  ],
   "developerDisplayName": "Firaxis",
   "publisherDisplayName": "2K",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 599,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 4400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "76e7a5a6947d4ae0b6a7402a962aef0e"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-04-14T15:00:00.000Z",
   "pcReleaseDate": "2016-02-04T08:00:00.000Z",
