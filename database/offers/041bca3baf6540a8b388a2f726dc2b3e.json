@@ -97,10 +97,36 @@
       }
     ]
   },
-  "offerMappings": null,
+  "offerMappings": [
+    {
+      "pageSlug": "genesis-noir--moire-noir",
+      "pageType": "addon--cms-hybrid"
+    }
+  ],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 89,
+      "originalPrice": 299,
+      "voucherDiscount": 0,
+      "discount": 210,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "0bb73bd6ddc44653a5aa0a621a1406c0"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": false,
   "releaseDate": "2021-03-26T14:00:00.000Z",
   "pcReleaseDate": null,

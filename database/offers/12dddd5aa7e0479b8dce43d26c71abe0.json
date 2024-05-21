@@ -97,10 +97,36 @@
       }
     ]
   },
-  "offerMappings": null,
+  "offerMappings": [
+    {
+      "pageSlug": "genesis-noir--an-act-of-creation",
+      "pageType": "addon--cms-hybrid"
+    }
+  ],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 209,
+      "originalPrice": 699,
+      "voucherDiscount": 0,
+      "discount": 490,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "7d4956bfe952415c82a942326ec0cff7"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": false,
   "releaseDate": "2021-03-26T14:00:00.000Z",
   "pcReleaseDate": null,
