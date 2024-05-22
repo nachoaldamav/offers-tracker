@@ -107,15 +107,27 @@
       }
     ]
   },
-  "offerMappings": [
-    {
-      "pageSlug": "anotherearth-500-bux-e1a97e",
-      "pageType": "offer"
-    }
-  ],
+  "offerMappings": null,
   "developerDisplayName": "BurningGalaxy US, Inc",
   "publisherDisplayName": "BurningGalaxy US, Inc",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-11-01T06:00:00.000Z",
   "pcReleaseDate": "2023-11-01T06:00:00.000Z",
