@@ -50,10 +50,7 @@
       "id": "1203",
       "name": "Multiplayer"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "16011",
       "name": "Epic MEGA Sale"
@@ -131,7 +128,28 @@
   ],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 3000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "60d433108860431db5da4cc7ceb66409"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-06-08T15:00:00.000Z",
   "pcReleaseDate": "2021-06-08T15:00:00.000Z",
