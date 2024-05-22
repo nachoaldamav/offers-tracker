@@ -54,8 +54,14 @@
   "urlSlug": "pathfinder-kingmaker--royal-ascension",
   "url": null,
   "tags": [
-    null,
-    null,
+    {
+      "id": "1333",
+      "name": "Action RPG"
+    },
+    {
+      "id": "1367",
+      "name": "RPG"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -67,9 +73,7 @@
     {
       "id": "16011",
       "name": "Epic MEGA Sale"
-    },
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -142,10 +146,36 @@
       }
     ]
   },
-  "offerMappings": null,
+  "offerMappings": [
+    {
+      "pageSlug": "pathfinder-kingmaker--royal-ascension",
+      "pageType": "addon--cms-hybrid"
+    }
+  ],
   "developerDisplayName": "Owlcat Games",
   "publisherDisplayName": "MY.GAMES",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 159,
+      "originalPrice": 799,
+      "voucherDiscount": 0,
+      "discount": 640,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "5c442c991cd14de5ac1323d62e87f639"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-05-13T19:30:00.000Z",
   "pcReleaseDate": "2021-05-13T19:30:00.000Z",
