@@ -125,7 +125,28 @@
   "offerMappings": null,
   "developerDisplayName": "Doctor Shinobi",
   "publisherDisplayName": "Doctor Shinobi",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 699,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 300,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "2e3c4c8a0873446ea4e0bbd6b2e56920"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-05-07T07:00:00.000Z",
   "pcReleaseDate": "2022-09-25T21:00:00.000Z",
