@@ -45,7 +45,7 @@ class Main {
         withPrice: true,
         country: this.country,
         locale: this.language,
-        sortBy: 'lastModifiedDate',
+        sortBy: 'releaseDate',
         sortDir: 'DESC',
       },
       (result) => {
