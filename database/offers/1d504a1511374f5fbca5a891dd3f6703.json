@@ -158,10 +158,10 @@
   "publisherDisplayName": "Focus Entertainment",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 249,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 250,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -170,7 +170,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "127b949479414d8da7c905473e01cf39"
+          }
+        ]
       }
     ]
   },

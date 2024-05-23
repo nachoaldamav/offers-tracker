@@ -186,10 +186,10 @@
   "publisherDisplayName": "SEGA",
   "price": {
     "totalPrice": {
-      "discountPrice": 5999,
+      "discountPrice": 2999,
       "originalPrice": 5999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 3000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -198,7 +198,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "50b60159c1c04278a5587e2275694d61"
+          }
+        ]
       }
     ]
   },

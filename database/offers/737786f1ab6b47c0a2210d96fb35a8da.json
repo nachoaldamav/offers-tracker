@@ -263,10 +263,10 @@
   "publisherDisplayName": "Wargaming",
   "price": {
     "totalPrice": {
-      "discountPrice": 1200,
+      "discountPrice": 900,
       "originalPrice": 1200,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 300,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -275,7 +275,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "ae772bb341ff43be898cf993df8910d9"
+          }
+        ]
       }
     ]
   },
