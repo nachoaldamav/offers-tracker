@@ -3,6 +3,7 @@
   "id": "6ef5cf719dde4c37b02962781ef7e71c",
   "namespace": "d3c246767bfc4056af80742e75319d79",
   "description": "Run through the universe in this rogue-like-ish space-shooter. Discover the numerous perks/consumables and their synergistic effects. Explore the randomly-generated galaxy to find merchants, unlock spacecrafts, and checkmark your kills of the various galactic Overlords.",
+  "offerType": "BASE_GAME",
   "effectiveDate": "2023-03-30T00:00:00.000Z",
   "creationDate": "2023-03-27T11:56:21.894Z",
   "lastModifiedDate": "2024-05-14T08:34:47.850Z",
@@ -118,10 +119,36 @@
       }
     ]
   },
-  "offerMappings": null,
+  "offerMappings": [
+    {
+      "pageSlug": "stellar-interface-d14cc4",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "ImaginationOverflow",
   "publisherDisplayName": "ImaginationOverflow",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 259,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 1040,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "79e11d06cc2048449d99ee8e94777a2b"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-03-30T00:00:00.000Z",
   "pcReleaseDate": "2016-11-21T00:00:00.000Z",

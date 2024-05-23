@@ -3,6 +3,7 @@
   "id": "492d9c5d82194e60baf2bb6124edfa5b",
   "namespace": "e9ab5f3a0f524fdf800f324800acda60",
   "description": "Two little bipedal robots, Aku and Sila, will walk side by side and embark on a fun and bonding journey. Enjoy the adventure solo or grab a friend or a family member and have a blast together in co-op mode. Collect treasures and buy goofy hats!",
+  "offerType": "BASE_GAME",
   "effectiveDate": "2023-04-20T15:00:00.000Z",
   "creationDate": "2024-04-17T19:11:43.155Z",
   "lastModifiedDate": "2024-05-14T08:34:47.718Z",
@@ -133,10 +134,36 @@
       }
     ]
   },
-  "offerMappings": null,
+  "offerMappings": [
+    {
+      "pageSlug": "biped",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "NEXT Studios",
   "publisherDisplayName": "META Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 449,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 1050,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "0fe314a599394e10b540c9c5b246987c"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-20T15:00:00.000Z",
   "pcReleaseDate": "2020-03-26T15:00:00.000Z",

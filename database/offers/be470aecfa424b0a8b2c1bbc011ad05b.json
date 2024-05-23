@@ -3,6 +3,7 @@
   "id": "be470aecfa424b0a8b2c1bbc011ad05b",
   "namespace": "bec475d6b8ce4d5aa5618c87fe508e9d",
   "description": "Morels is a simulation game about mushroom hunting and wildlife photography. Explore a diverse range of regions spanning across the United States. Increase your hunter and photographer levels by collecting a variety of mushrooms, photographing animals, and completing game tasks.",
+  "offerType": "BASE_GAME",
   "effectiveDate": "2023-04-25T15:00:00.000Z",
   "creationDate": "2023-03-17T20:54:31.833Z",
   "lastModifiedDate": "2024-05-14T08:34:47.798Z",
@@ -102,10 +103,36 @@
       }
     ]
   },
-  "offerMappings": null,
+  "offerMappings": [
+    {
+      "pageSlug": "morels-ed7501",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Abrams Studios LLC",
   "publisherDisplayName": "Abrams Studios LLC",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "c0b0ebad4b914b01bd041a4b6afe7655"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-25T15:00:00.000Z",
   "pcReleaseDate": "2019-10-15T15:00:00.000Z",

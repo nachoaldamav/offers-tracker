@@ -10,12 +10,14 @@ query searchStoreQuery($allowCountries: String!, $count: Int!, $country: String!
       sortDir: $sortDir
       start: $start
       tag: $tag
+      offerType: "BASE_GAME"
     ) {
       elements {
         title
         id
         namespace
         description
+        offerType
         effectiveDate
         creationDate
         lastModifiedDate

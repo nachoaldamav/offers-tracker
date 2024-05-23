@@ -3,6 +3,7 @@
   "id": "3cdebc45f5ec4858b241431efe54aa9a",
   "namespace": "59c7280154cc4fe1a7c3a4a7d6f74adf",
   "description": "An action-puzzler where a talking scarecrow convinces you to start a cult in your backyard.",
+  "offerType": "BASE_GAME",
   "effectiveDate": "2023-04-20T08:00:00.000Z",
   "creationDate": "2023-04-18T17:00:26.658Z",
   "lastModifiedDate": "2024-04-19T13:41:03.742Z",
@@ -102,10 +103,32 @@
       }
     ]
   },
-  "offerMappings": null,
+  "offerMappings": [
+    {
+      "pageSlug": "strawhart-776f4d",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Cypher Creations",
   "publisherDisplayName": "Cypher Creations",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-20T08:00:00.000Z",
   "pcReleaseDate": "2022-03-11T04:00:00.000Z",

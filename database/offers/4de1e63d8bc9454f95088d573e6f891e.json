@@ -3,6 +3,7 @@
   "id": "4de1e63d8bc9454f95088d573e6f891e",
   "namespace": "fd55ee4ee2a74979abffb9a6d111732f",
   "description": "Energy business clicker: buy power generators, batteries and equip a sales office.",
+  "offerType": "BASE_GAME",
   "effectiveDate": "2023-05-05T07:00:00.000Z",
   "creationDate": "2023-03-13T22:43:02.358Z",
   "lastModifiedDate": "2024-05-14T08:34:47.770Z",
@@ -102,7 +103,12 @@
       }
     ]
   },
-  "offerMappings": null,
+  "offerMappings": [
+    {
+      "pageSlug": "electro-magnate-6ac0b7",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Station 437",
   "publisherDisplayName": "Station 437",
   "price": {

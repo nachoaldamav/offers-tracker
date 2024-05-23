@@ -3,6 +3,7 @@
   "id": "bffb102bd578437d85d423c43e4ee735",
   "namespace": "32f2b74bcbce4acb9ec9a369fb110e5c",
   "description": "Description is not set",
+  "offerType": "BASE_GAME",
   "effectiveDate": "2023-04-14T12:00:00.000Z",
   "creationDate": "2023-01-31T11:20:39.107Z",
   "lastModifiedDate": "2024-05-07T15:00:05.406Z",
@@ -98,10 +99,32 @@
       }
     ]
   },
-  "offerMappings": null,
+  "offerMappings": [
+    {
+      "pageSlug": "crimson-dawn-4d855b",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Purple Lake",
   "publisherDisplayName": "Gameforge 4D GmbH",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 399,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-14T12:00:00.000Z",
   "pcReleaseDate": "2022-10-09T22:00:00.000Z",
