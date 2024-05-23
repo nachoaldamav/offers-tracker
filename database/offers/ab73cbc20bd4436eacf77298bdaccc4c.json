@@ -119,15 +119,27 @@
       }
     ]
   },
-  "offerMappings": [
-    {
-      "pageSlug": "disco-elysium--the-final-cut-ost",
-      "pageType": "offer"
-    }
-  ],
+  "offerMappings": null,
   "developerDisplayName": "ZA/UM",
   "publisherDisplayName": "ZA/UM",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1199,
+      "originalPrice": 1199,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-05-03T15:00:00.000Z",
   "pcReleaseDate": "2020-02-11T11:00:00.000Z",
