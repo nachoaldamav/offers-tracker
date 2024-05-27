@@ -35,7 +35,10 @@
       "id": "1367",
       "name": "RPG"
     },
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1336",
       "name": "Action-Adventure"
@@ -48,7 +51,10 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
+    {
+      "id": "35244",
+      "name": "Epic Savings"
+    },
     {
       "id": "1263",
       "name": "Indie"
@@ -107,10 +113,10 @@
   "publisherDisplayName": "Freedom Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 999,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -119,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "7944b2f975f0495e85d707b6ad7d4c63"
+          }
+        ]
       }
     ]
   },

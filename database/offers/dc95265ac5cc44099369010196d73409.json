@@ -43,12 +43,18 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "1115",
+      "name": "Strategy"
+    },
     {
       "id": "9547",
       "name": "Windows"
     },
-    null,
+    {
+      "id": "35244",
+      "name": "Epic Savings"
+    },
     {
       "id": "9549",
       "name": "Controller Support"
@@ -103,10 +109,10 @@
   "publisherDisplayName": "Freedom Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 199,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 800,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -115,7 +121,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "cd655aba092242959edbec0850adf10f"
+          }
+        ]
       }
     ]
   },
