@@ -97,10 +97,10 @@
   "publisherDisplayName": "Hazem",
   "price": {
     "totalPrice": {
-      "discountPrice": 99,
+      "discountPrice": 89,
       "originalPrice": 99,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 10,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -109,7 +109,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "257d746d8da343639c89ee4412831dfe"
+          }
+        ]
       }
     ]
   },
