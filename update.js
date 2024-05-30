@@ -199,7 +199,7 @@ class Main {
       binary: 'git',
     });
     await git.addConfig('hub.protocol', 'https');
-    await git.checkoutBranch('master');
+    await git.checkoutBranch('main');
     await git.add([`${this.databasePath}/.`]);
     const status = await git.status();
     const changesCount =
