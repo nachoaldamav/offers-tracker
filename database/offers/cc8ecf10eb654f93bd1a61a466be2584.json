@@ -59,8 +59,14 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
-    null,
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
+      "id": "1263",
+      "name": "Indie"
+    },
     {
       "id": "21138",
       "name": "Recommend this Game"
@@ -128,10 +134,31 @@
       }
     ]
   },
-  "offerMappings": null,
+  "offerMappings": [],
   "developerDisplayName": "Cellar Door Games",
   "publisherDisplayName": "Cellar Door Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 1200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "d36af8ffc5b44f458fbe190fed77d20c"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-04-07T15:00:00.000Z",
   "pcReleaseDate": "2013-06-27T15:00:00.000Z",
