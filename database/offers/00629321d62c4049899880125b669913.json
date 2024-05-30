@@ -117,10 +117,10 @@
   "publisherDisplayName": "Versus Evil, tinyBuild",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 2249,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 250,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "a3b4994cd0174006b9dc8441ab634185"
+          }
+        ]
       }
     ]
   },
