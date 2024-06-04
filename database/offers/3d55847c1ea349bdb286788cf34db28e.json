@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-10-13T05:00:00.000Z",
   "creationDate": "2023-10-13T11:56:29.082Z",
-  "lastModifiedDate": "2024-01-11T08:16:33.653Z",
+  "lastModifiedDate": "2024-06-04T15:00:26.302Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -38,6 +38,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1198",
@@ -97,10 +101,10 @@
   "publisherDisplayName": "SimpleShutIn Productions",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 99,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -109,7 +113,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "571bc064b9f242d28c8e57309cc36263"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-04-25T23:00:00.000Z",
   "creationDate": "2024-04-17T07:55:30.799Z",
-  "lastModifiedDate": "2024-04-17T07:55:30.799Z",
+  "lastModifiedDate": "2024-06-04T15:00:26.304Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "9549",
@@ -121,10 +125,10 @@
   "publisherDisplayName": "Bow & Arrow Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 399,
+      "discountPrice": 299,
       "originalPrice": 399,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 100,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +137,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "8f76a2f490c346ecad1a913fb5b0f51d"
+          }
+        ]
       }
     ]
   },
