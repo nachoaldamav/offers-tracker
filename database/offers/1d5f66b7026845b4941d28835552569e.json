@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-12-08T10:00:00.000Z",
   "creationDate": "2023-11-12T17:20:38.411Z",
-  "lastModifiedDate": "2024-05-07T15:00:05.410Z",
+  "lastModifiedDate": "2024-06-11T15:00:27.747Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     }
   ],
   "items": [
@@ -105,10 +109,10 @@
   "publisherDisplayName": "goblin software",
   "price": {
     "totalPrice": {
-      "discountPrice": 399,
+      "discountPrice": 339,
       "originalPrice": 399,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 60,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -117,7 +121,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "a44da6aab9bd4eb4b59439bb8fa4144c"
+          }
+        ]
       }
     ]
   },

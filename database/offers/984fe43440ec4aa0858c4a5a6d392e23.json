@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-02-08T12:00:00.000Z",
   "creationDate": "2024-01-03T04:56:16.893Z",
-  "lastModifiedDate": "2024-04-09T06:57:50.882Z",
+  "lastModifiedDate": "2024-06-11T15:00:27.747Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,6 +42,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "35244",
@@ -101,10 +105,10 @@
   "publisherDisplayName": "SnowBaby Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 499,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -113,7 +117,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "4061a3474cc74af8b8cf5125092a77a5"
+          }
+        ]
       }
     ]
   },

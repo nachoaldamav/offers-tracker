@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-09-27T14:00:00.000Z",
   "creationDate": "2023-08-02T15:41:04.676Z",
-  "lastModifiedDate": "2024-04-09T06:57:50.898Z",
+  "lastModifiedDate": "2024-06-11T15:00:27.747Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "35244",
@@ -121,10 +125,10 @@
   "publisherDisplayName": "Dead Drop Studios LLC",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 249,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 750,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +137,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "a63d7e1c66044998ac80cf53cc4f7d7c"
+          }
+        ]
       }
     ]
   },
