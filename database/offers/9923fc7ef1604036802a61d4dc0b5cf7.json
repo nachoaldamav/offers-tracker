@@ -63,10 +63,7 @@
       "id": "9547",
       "name": "Windows"
     },
-    {
-      "id": "16011",
-      "name": "Epic MEGA Sale"
-    },
+    null,
     null,
     {
       "id": "9549",
@@ -114,7 +111,28 @@
   "offerMappings": [],
   "developerDisplayName": "Hazelight",
   "publisherDisplayName": "Electronic Arts",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1399,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 2600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "5b5c426db5564cdaaf0e70fc7fca96bd"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-06-10T11:00:00.000Z",
   "pcReleaseDate": "2021-03-25T11:00:00.000Z",

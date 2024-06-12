@@ -71,10 +71,7 @@
       "id": "9547",
       "name": "Windows"
     },
-    {
-      "id": "16011",
-      "name": "Epic MEGA Sale"
-    },
+    null,
     {
       "id": "9549",
       "name": "Controller Support"
@@ -117,7 +114,28 @@
   "offerMappings": [],
   "developerDisplayName": "DICE",
   "publisherDisplayName": "Electronic Arts",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 749,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 4250,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "09e366e97467491aaaf768f60e66b42e"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-06-03T12:00:00.000Z",
   "pcReleaseDate": "2018-11-09T16:00:00.000Z",
