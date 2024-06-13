@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-04-27T11:00:00.000Z",
   "creationDate": "2023-02-23T14:49:56.449Z",
-  "lastModifiedDate": "2024-06-06T09:26:32.963Z",
+  "lastModifiedDate": "2024-06-13T14:52:35.502Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -129,10 +129,10 @@
   "publisherDisplayName": "AurumDust, Game Seer Ventures",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 1499,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -141,7 +141,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "40b6f90935024e2799cd81296b448a11"
+          }
+        ]
       }
     ]
   },

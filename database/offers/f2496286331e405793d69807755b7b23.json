@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-05-05T15:00:00.000Z",
   "creationDate": "2022-03-21T17:52:02.324Z",
-  "lastModifiedDate": "2024-06-06T09:26:32.956Z",
+  "lastModifiedDate": "2024-06-13T14:52:35.491Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -157,10 +157,10 @@
   "publisherDisplayName": "Twin Sails Interactive",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 999,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -169,7 +169,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "583c8280842740d2904b776c711c1e1c"
+          }
+        ]
       }
     ]
   },

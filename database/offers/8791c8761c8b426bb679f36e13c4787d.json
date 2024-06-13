@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-10-04T16:00:00.000Z",
   "creationDate": "2023-05-06T11:06:57.768Z",
-  "lastModifiedDate": "2024-06-06T09:26:32.955Z",
+  "lastModifiedDate": "2024-06-13T14:52:35.489Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -137,10 +137,10 @@
   "publisherDisplayName": "LuckyVerse",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 199,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 300,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -149,7 +149,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "9b0ef93036bf4b7d90066b441e5de835"
+          }
+        ]
       }
     ]
   },

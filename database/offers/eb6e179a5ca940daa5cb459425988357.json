@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-07-20T01:00:00.000Z",
   "creationDate": "2022-04-06T17:52:43.529Z",
-  "lastModifiedDate": "2024-04-09T06:57:50.873Z",
+  "lastModifiedDate": "2024-06-13T14:52:35.506Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -105,10 +105,10 @@
   "publisherDisplayName": "Neon Doctrine",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 999,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -117,7 +117,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "d115a14fc90f44c19df1f8ccce50bc44"
+          }
+        ]
       }
     ]
   },

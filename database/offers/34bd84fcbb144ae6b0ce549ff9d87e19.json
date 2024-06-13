@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-01-11T21:00:00.000Z",
   "creationDate": "2023-12-12T04:29:04.793Z",
-  "lastModifiedDate": "2024-06-06T09:26:32.961Z",
+  "lastModifiedDate": "2024-06-13T14:52:35.499Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -109,10 +109,10 @@
   "publisherDisplayName": "8Floor ltd",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 249,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 250,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +121,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "917bafae7756462883dbc56a330dcb9d"
+          }
+        ]
       }
     ]
   },

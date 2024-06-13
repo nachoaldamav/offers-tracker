@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-09-06T17:45:00.000Z",
   "creationDate": "2022-06-01T16:11:09.938Z",
-  "lastModifiedDate": "2024-06-06T09:26:32.966Z",
+  "lastModifiedDate": "2024-06-13T14:52:35.508Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -159,10 +159,10 @@
   "publisherDisplayName": null,
   "price": {
     "totalPrice": {
-      "discountPrice": 3999,
+      "discountPrice": 2999,
       "originalPrice": 3999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -171,7 +171,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "d48754f6cb2447d8bc30e1e8f37f9ca3"
+          }
+        ]
       }
     ]
   },

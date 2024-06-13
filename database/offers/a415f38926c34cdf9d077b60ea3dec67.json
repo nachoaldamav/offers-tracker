@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-09-25T10:00:00.000Z",
   "creationDate": "2022-06-21T15:33:43.002Z",
-  "lastModifiedDate": "2024-06-06T09:26:32.968Z",
+  "lastModifiedDate": "2024-06-13T14:52:35.510Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -149,10 +149,10 @@
   "publisherDisplayName": "DRAGO entertainment",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1599,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -161,7 +161,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "bc246d2e4b8b49adb083eb97fec081d6"
+          }
+        ]
       }
     ]
   },

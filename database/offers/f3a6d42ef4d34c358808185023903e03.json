@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-03-29T17:00:00.000Z",
   "creationDate": "2024-03-28T09:48:42.131Z",
-  "lastModifiedDate": "2024-06-06T09:26:32.964Z",
+  "lastModifiedDate": "2024-06-13T14:52:35.503Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -121,10 +121,10 @@
   "publisherDisplayName": "Serenity Forge",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 699,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 300,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "c58c923a8ba84fa1baaffbab251c88c7"
+          }
+        ]
       }
     ]
   },

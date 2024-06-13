@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-05-02T17:00:00.000Z",
   "creationDate": "2024-02-13T14:14:45.080Z",
-  "lastModifiedDate": "2024-06-06T09:26:32.966Z",
+  "lastModifiedDate": "2024-06-13T14:52:35.508Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -117,10 +117,10 @@
   "publisherDisplayName": "YAW Studios",
   "price": {
     "totalPrice": {
-      "discountPrice": 199,
+      "discountPrice": 149,
       "originalPrice": 199,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 50,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "500caa3f7cea415c85e823f20e4226a4"
+          }
+        ]
       }
     ]
   },

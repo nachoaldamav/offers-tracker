@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-02-26T15:00:00.000Z",
   "creationDate": "2022-01-20T18:35:49.721Z",
-  "lastModifiedDate": "2024-06-06T09:26:32.959Z",
+  "lastModifiedDate": "2024-06-13T14:52:35.495Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -121,10 +121,10 @@
   "publisherDisplayName": "Graffiti Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 999,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "8ff3e255948b4980b3d5fa2f2e3219e5"
+          }
+        ]
       }
     ]
   },

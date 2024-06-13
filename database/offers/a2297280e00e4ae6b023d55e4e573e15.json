@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-12-05T12:00:00.000Z",
   "creationDate": "2023-04-04T19:24:41.336Z",
-  "lastModifiedDate": "2024-06-06T09:26:32.962Z",
+  "lastModifiedDate": "2024-06-13T14:52:35.500Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -121,10 +121,10 @@
   "publisherDisplayName": "NikosDreams",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 399,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 100,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "cb4aea2d526c4c83b83495f1b26ef149"
+          }
+        ]
       }
     ]
   },

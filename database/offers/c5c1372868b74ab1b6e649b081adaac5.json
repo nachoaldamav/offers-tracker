@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-05-03T13:00:00.000Z",
   "creationDate": "2024-03-14T20:06:40.690Z",
-  "lastModifiedDate": "2024-06-06T09:26:32.965Z",
+  "lastModifiedDate": "2024-06-13T14:52:35.507Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -117,10 +117,10 @@
   "publisherDisplayName": "Dead Drop Studios LLC",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 999,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "30564c1a24604b0fb8b845b79b68c2c1"
+          }
+        ]
       }
     ]
   },

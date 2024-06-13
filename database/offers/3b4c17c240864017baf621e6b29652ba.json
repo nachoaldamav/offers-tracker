@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-05-09T23:00:00.000Z",
   "creationDate": "2024-05-05T03:24:43.373Z",
-  "lastModifiedDate": "2024-06-11T11:46:04.368Z",
+  "lastModifiedDate": "2024-06-13T14:52:35.510Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -129,10 +129,10 @@
   "publisherDisplayName": "659 Records (PTY) LTD",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 249,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 250,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -141,7 +141,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "fac0d1112abc4386b9cc4f6256bf96e6"
+          }
+        ]
       }
     ]
   },
