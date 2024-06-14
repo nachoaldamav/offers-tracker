@@ -95,10 +95,36 @@
       }
     ]
   },
-  "offerMappings": null,
+  "offerMappings": [
+    {
+      "pageSlug": "arcanium-ab22e4",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Supercombo, Inc.",
   "publisherDisplayName": "Rogue Games, Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "e5518b69c63b439e820fb2bff248ef5d"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-12-15T07:00:00.000Z",
   "pcReleaseDate": "2022-09-22T07:00:00.000Z",
