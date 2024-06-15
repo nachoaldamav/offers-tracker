@@ -111,7 +111,38 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "wrc-9--wrc-9-fia-rally-star",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wrc-9--wrc-9-barcelona-sss",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wrc-9--wrc-9-audi-quattro-a21984",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wrc-9--wrc-9-career-starter-upgrades",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wrc-9--wrc-9-toyota-corolla1999",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wrc-9",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "wrc-9--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "wrc-9--deluxe-edition",
@@ -120,7 +151,24 @@
   ],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-09-01T15:00:00.000Z",
   "pcReleaseDate": "2020-09-01T15:00:00.000Z",
