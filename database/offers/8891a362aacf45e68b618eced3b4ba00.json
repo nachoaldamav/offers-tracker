@@ -51,12 +51,18 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "35244",
       "name": "Epic Savings"
     },
-    null,
+    {
+      "id": "1117",
+      "name": "Adventure"
+    },
     {
       "id": "1263",
       "name": "Indie"
@@ -111,7 +117,28 @@
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "6dc57e8fa05f44779eb7f804c091ee8c"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-07-09T15:00:00.000Z",
   "pcReleaseDate": null,
