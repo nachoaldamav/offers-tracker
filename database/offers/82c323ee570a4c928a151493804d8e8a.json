@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-02-14T18:00:00.000Z",
   "creationDate": "2022-03-23T15:12:21.043Z",
-  "lastModifiedDate": "2024-05-14T15:00:07.804Z",
+  "lastModifiedDate": "2024-06-18T15:01:17.958Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -43,13 +43,14 @@
       "id": "1370",
       "name": "Single Player"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1083",
       "name": "Rogue-Lite"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     }
   ],
   "items": [
@@ -105,10 +106,10 @@
   "publisherDisplayName": "Wired Dreams Studio",
   "price": {
     "totalPrice": {
-      "discountPrice": 1099,
+      "discountPrice": 824,
       "originalPrice": 1099,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 275,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -117,7 +118,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "721f8cfe099846448f72027efb3614f8"
+          }
+        ]
       }
     ]
   },
