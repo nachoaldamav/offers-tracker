@@ -132,10 +132,10 @@
   "publisherDisplayName": "Slitherine Ltd.",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 1799,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -144,7 +144,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "ec1c62e550534ad7a11fec3c495ac5f9"
+          }
+        ]
       }
     ]
   },
