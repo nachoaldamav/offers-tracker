@@ -113,10 +113,10 @@
   "publisherDisplayName": "Whale Rock Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 299,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "a42cb38230904085b9e0aa428e591bb1"
+          }
+        ]
       }
     ]
   },
