@@ -87,11 +87,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ballads-of-hongye-54e69d",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "ballads-of-hongye-grand-pack-50c147",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ballads-of-hongye-ballads-of-hongye-soundtrack-fe106b",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "ballads-of-hongye-54e69d",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "SEASUN GAMES PTE. LTD",
   "publisherDisplayName": "SEASUN GAMES PTE. LTD",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-12-07T07:00:00.000Z",
   "pcReleaseDate": "2022-11-15T07:00:00.000Z",
