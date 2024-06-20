@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-06-20T17:00:00.000Z",
   "creationDate": "2024-05-07T11:41:35.995Z",
-  "lastModifiedDate": "2024-06-20T12:45:38.902Z",
+  "lastModifiedDate": "2024-06-20T17:00:15.175Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -44,12 +44,12 @@
       "name": "Single Player"
     },
     {
-      "id": "9547",
-      "name": "Windows"
-    },
-    {
       "id": "1115",
       "name": "Strategy"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
     }
   ],
   "items": [
@@ -117,10 +117,10 @@
   "publisherDisplayName": "Hooded Horse",
   "price": {
     "totalPrice": {
-      "discountPrice": 3999,
+      "discountPrice": 2599,
       "originalPrice": 3999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "6546f93f874d43058f2e5ec5bbbc57e1"
+          }
+        ]
       }
     ]
   },
