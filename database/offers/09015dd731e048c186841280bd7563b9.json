@@ -39,8 +39,14 @@
       "id": "1080",
       "name": "Survival"
     },
-    null,
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1310",
       "name": "EARLY ACCESS"
@@ -107,10 +113,10 @@
   "publisherDisplayName": "FreeMind, PlayWay",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 599,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -119,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "cb6b73ca85a440b8b5a6543f4a09e6f8"
+          }
+        ]
       }
     ]
   },

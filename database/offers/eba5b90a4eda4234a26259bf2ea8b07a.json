@@ -112,10 +112,10 @@
   "publisherDisplayName": "The Quantum Astrophysicists Guild",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 0,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 999,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -124,7 +124,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "1d9828ab75184a2588af971f92f12df7"
+          }
+        ]
       }
     ]
   },
