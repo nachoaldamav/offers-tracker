@@ -39,14 +39,8 @@
       "id": "1216",
       "name": "Action"
     },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
+    null,
     {
       "id": "35244",
       "name": "Epic Savings"
@@ -98,10 +92,31 @@
       }
     ]
   },
-  "offerMappings": null,
+  "offerMappings": [],
   "developerDisplayName": "Deck Nine",
   "publisherDisplayName": "Telltale, Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 1000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "0e15de3827c140f7b9f1bb0d7bec97fe"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-07-27T07:00:00.000Z",
   "pcReleaseDate": "2023-07-27T07:00:00.000Z",
