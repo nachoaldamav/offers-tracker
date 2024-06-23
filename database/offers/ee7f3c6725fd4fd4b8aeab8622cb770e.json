@@ -153,7 +153,28 @@
   "offerMappings": [],
   "developerDisplayName": "Square Enix",
   "publisherDisplayName": "Crystal Dynamics",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 3000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "950aa925c31a4015b962b78bc8fcc3a3"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-12-30T16:00:00.000Z",
   "pcReleaseDate": "2018-09-14T16:00:00.000Z",
