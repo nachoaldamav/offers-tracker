@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-10-15T17:00:00.000Z",
   "creationDate": "2020-09-14T20:26:31.476Z",
-  "lastModifiedDate": "2024-05-28T15:06:30.500Z",
+  "lastModifiedDate": "2024-07-02T15:02:18.977Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -66,6 +66,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1117",
@@ -131,10 +135,10 @@
   "publisherDisplayName": null,
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 624,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1875,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -143,7 +147,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "b932fd2e6dc24dc89ab53bec1816483b"
+          }
+        ]
       }
     ]
   },
