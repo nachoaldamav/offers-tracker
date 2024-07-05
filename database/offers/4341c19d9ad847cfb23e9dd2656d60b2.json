@@ -35,12 +35,18 @@
       "id": "1296",
       "name": "Casual"
     },
-    null,
+    {
+      "id": "1210",
+      "name": "Shooter"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "9549",
       "name": "Controller Support"
@@ -107,10 +113,10 @@
   "publisherDisplayName": "Rising Moon Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 99,
+      "discountPrice": 59,
       "originalPrice": 99,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 40,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -119,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "15d0384001c443e8b84cf86fc2a8ca35"
+          }
+        ]
       }
     ]
   },
