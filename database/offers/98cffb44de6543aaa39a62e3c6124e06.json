@@ -105,11 +105,59 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-falconeer",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-falconeer--edge-of-the-world",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-falconeer--game-guide",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-falconeer--official-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-falconeer--the-hunter",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-falconeer--warrior-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1999,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "2d6f2484f02048f2a4628f159b0c398a"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-08-05T13:00:00.000Z",
   "pcReleaseDate": null,

@@ -70,11 +70,63 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "wild-card-football--ultimate-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "wild-card-football--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "wild-card-football",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "wild-card-football--ultimate-outfit-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wild-card-football--season-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wild-card-football--legacy-qb-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wild-card-football--legacy-rb-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wild-card-football--legacy-wr-pack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": null,
   "developerDisplayName": "Saber Interactive",
   "publisherDisplayName": "Saber Interactive",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-10T12:00:00.000Z",
   "pcReleaseDate": "2023-10-10T12:00:00.000Z",
