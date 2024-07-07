@@ -31,30 +31,15 @@
   "urlSlug": "0e934e32015740ebb72ae02ac5255348",
   "url": null,
   "tags": [
-    {
-      "id": "1264",
-      "name": "Co-op"
-    },
+    null,
     {
       "id": "1218",
       "name": "Horror"
     },
-    {
-      "id": "1336",
-      "name": "Action-Adventure"
-    },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support"
-    },
+    null,
+    null,
+    null,
+    null,
     {
       "id": "1263",
       "name": "Indie"
@@ -95,11 +80,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "outer-terror-9f2593",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "outer-terror-9f2593",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Salt & Pixel LLC",
   "publisherDisplayName": "VoxPop Games, Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-20T05:00:00.000Z",
   "pcReleaseDate": "2023-04-20T05:00:00.000Z",

@@ -35,18 +35,8 @@
       "id": "1367",
       "name": "RPG"
     },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support"
-    }
+    null,
+    null
   ],
   "items": [
     {
@@ -83,11 +73,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "lord-of-midchester-941d6d",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "lord-of-midchester-941d6d",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Konnichiwa Games & Media",
   "publisherDisplayName": "Konnichiwa Games & Media",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 699,
+      "originalPrice": 699,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-06T00:00:00.000Z",
   "pcReleaseDate": "2022-12-16T12:00:00.000Z",
