@@ -46,14 +46,6 @@
     {
       "id": "9547",
       "name": "Windows"
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support"
-    },
-    {
-      "id": "1263",
-      "name": "Indie"
     }
   ],
   "items": [
@@ -102,11 +94,48 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "aerial-knights-never-yield--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "aerial-knights-never-yield",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "aerial-knights-never-yield--soundtrack",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "aerial-knights-never-yield",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Aerial_Knight",
   "publisherDisplayName": "Headup",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1199,
+      "originalPrice": 1199,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-05-19T15:00:00.000Z",
   "pcReleaseDate": "2021-05-19T15:00:00.000Z",
