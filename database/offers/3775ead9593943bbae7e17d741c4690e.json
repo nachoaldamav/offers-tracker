@@ -39,8 +39,14 @@
       "id": "1318",
       "name": "Trivia"
     },
-    null,
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
     {
       "id": "9547",
       "name": "Windows"
@@ -85,11 +91,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "kids-learn-kids-learn-demo-a1e844",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "kids-learn-e4a163",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "kids-learn-e4a163",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Yash Future Tech Solutions Pvt Ltd",
   "publisherDisplayName": "Yash Future Tech Solutions Pvt Ltd",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 104,
+      "originalPrice": 699,
+      "voucherDiscount": 0,
+      "discount": 595,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "5cc56875a5d6416ca0c6b162bf3d506e"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-01T18:30:00.000Z",
   "pcReleaseDate": "2016-03-30T18:30:00.000Z",

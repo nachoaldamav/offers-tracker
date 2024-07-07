@@ -31,13 +31,22 @@
   "urlSlug": "693d02847f0e4339b03bc6c4acc580b5",
   "url": null,
   "tags": [
-    null,
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1210",
       "name": "Shooter"
     },
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
     {
       "id": "9547",
       "name": "Windows"
@@ -86,11 +95,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "patrollingmars-215534",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "patrollingmars-215534",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "HB",
   "publisherDisplayName": "HB",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 599,
+      "originalPrice": 599,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-11-10T19:00:00.000Z",
   "pcReleaseDate": "2023-11-10T19:00:00.000Z",

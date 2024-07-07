@@ -51,8 +51,14 @@
       "id": "21122",
       "name": "Diverse Characters"
     },
-    null,
-    null,
+    {
+      "id": "21894",
+      "name": "Cloud Saves"
+    },
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "21127",
       "name": "Creative Community"
@@ -61,7 +67,10 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
+    {
+      "id": "21138",
+      "name": "Recommend this Game"
+    },
     {
       "id": "21139",
       "name": "Amazing Characters"
@@ -82,7 +91,10 @@
       "id": "1210",
       "name": "Shooter"
     },
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
     {
       "id": "21149",
       "name": "Quickly Understand the Controls"
@@ -118,11 +130,47 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "alan-wake-2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "alan-wake-2--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "alan-wake-2--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "alan-wake-2--deluxe-upgrade",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Remedy Entertainment",
   "publisherDisplayName": "Epic Games Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-27T04:00:00.000Z",
   "pcReleaseDate": "2023-10-27T04:00:00.000Z",
