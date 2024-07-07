@@ -43,7 +43,10 @@
       "id": "1170",
       "name": "Tower Defense"
     },
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
     {
       "id": "9547",
       "name": "Windows"
@@ -88,11 +91,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "mechdefender-fb9793",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "mechdefender-fb9793",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Atomic Fabrik",
   "publisherDisplayName": "Atomic Fabrik",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 19,
+      "originalPrice": 399,
+      "voucherDiscount": 0,
+      "discount": 380,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "89279b73f0fe4b04ba2f585da879be02"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-09-08T07:00:00.000Z",
   "pcReleaseDate": "2020-03-03T08:00:00.000Z",
