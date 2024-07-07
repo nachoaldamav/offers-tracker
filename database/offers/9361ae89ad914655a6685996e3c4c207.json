@@ -99,11 +99,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "fusyfox-752d01",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "fusyfox-faq-224a48",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "fusyfox-752d01",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "FSN Global",
   "publisherDisplayName": "FSN Global",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-04-30T00:00:00.000Z",
   "pcReleaseDate": "2024-04-30T00:00:00.000Z",
