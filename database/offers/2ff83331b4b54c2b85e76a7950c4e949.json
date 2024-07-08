@@ -31,14 +31,8 @@
   "urlSlug": "32fce486d72d40eea28660603a137100",
   "url": null,
   "tags": [
-    {
-      "id": "1216",
-      "name": "Action"
-    },
-    {
-      "id": "1264",
-      "name": "Co-op"
-    },
+    null,
+    null,
     {
       "id": "29088",
       "name": "Online Multiplayer"
@@ -47,14 +41,8 @@
       "id": "1299",
       "name": "Competitive"
     },
-    {
-      "id": "21739",
-      "name": "NFT BLOCKCHAIN"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
+    null,
     {
       "id": "1212",
       "name": "Racing"
@@ -103,11 +91,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "redline-d8e6eb",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "redline-faq-8c3bee",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "redline-d8e6eb",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "QChain Game Studio",
   "publisherDisplayName": "QChain Game Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-05-03T07:00:00.000Z",
   "pcReleaseDate": "2024-05-03T07:00:00.000Z",

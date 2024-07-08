@@ -47,14 +47,8 @@
       "id": "1336",
       "name": "Action-Adventure"
     },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
+    null,
     {
       "id": "1263",
       "name": "Indie"
@@ -99,11 +93,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "space-accident-vr-8aa915",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "space-accident-vr-8aa915",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Whale Rock Games",
   "publisherDisplayName": "Whale Rock Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 124,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 375,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "cb51cfaa6ae94e9c9752f785bff5de54"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-05-03T09:00:00.000Z",
   "pcReleaseDate": "2022-02-10T10:00:00.000Z",
