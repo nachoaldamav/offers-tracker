@@ -87,11 +87,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "gunshots-in-the-barren-hills-f0202a",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "gunshots-in-the-barren-hills-f0202a",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "云雾斋, YunWuZhai",
   "publisherDisplayName": "云雾斋, YunWuZhai",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 199,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-04-30T00:00:00.000Z",
   "pcReleaseDate": "2023-03-01T02:30:00.000Z",

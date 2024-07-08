@@ -99,11 +99,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "doodle-kingdom-91f65e",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "doodle-kingdom-91f65e",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "JoyBits",
   "publisherDisplayName": "JoyBits",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-04-30T00:00:00.000Z",
   "pcReleaseDate": "2016-06-08T21:00:00.000Z",
