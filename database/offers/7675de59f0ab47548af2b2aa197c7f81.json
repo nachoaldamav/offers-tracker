@@ -47,8 +47,14 @@
       "id": "1203",
       "name": "Multiplayer"
     },
-    null,
-    null,
+    {
+      "id": "1210",
+      "name": "Shooter"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1310",
       "name": "EARLY ACCESS"
@@ -92,11 +98,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "super-squad--early-access-faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "super-squad",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-06-25T14:00:00.000Z",
   "pcReleaseDate": "2021-06-25T14:00:00.000Z",

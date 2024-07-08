@@ -35,12 +35,18 @@
       "id": "1188",
       "name": "RELAXING"
     },
-    null,
+    {
+      "id": "21894",
+      "name": "Cloud Saves"
+    },
     {
       "id": "21127",
       "name": "Creative Community"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "21138",
       "name": "Recommend this Game"
@@ -61,7 +67,10 @@
       "id": "1146",
       "name": "City Builder"
     },
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
     {
       "id": "21146",
       "name": "Educational"
@@ -121,11 +130,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "timberborn--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "timberborn",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-09-15T15:00:00.000Z",
   "pcReleaseDate": "2021-09-15T15:00:00.000Z",

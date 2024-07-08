@@ -39,13 +39,22 @@
       "id": "1381",
       "name": "Exploration"
     },
-    null,
+    {
+      "id": "21894",
+      "name": "Cloud Saves"
+    },
     {
       "id": "1080",
       "name": "Survival"
     },
-    null,
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "9549",
       "name": "Controller Support"
@@ -74,11 +83,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "horror-tales-the-wine-3ab2b2",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "horror-tales-the-wine-3ab2b2",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Carlos Coronado",
   "publisherDisplayName": "Carlos Coronado",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 449,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 1050,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "fa2f1a7b52234844a37741ee86eefe29"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-07-29T22:00:00.000Z",
   "pcReleaseDate": "2021-07-29T22:00:00.000Z",
