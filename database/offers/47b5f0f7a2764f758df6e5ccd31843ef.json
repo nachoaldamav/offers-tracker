@@ -31,14 +31,26 @@
   "urlSlug": "5ed0ea597b33485cbfdbc4218c2c663d",
   "url": null,
   "tags": [
-    null,
-    null,
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
+    {
+      "id": "29088",
+      "name": "Online Multiplayer"
+    },
+    {
+      "id": "1210",
+      "name": "Shooter"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1310",
       "name": "EARLY ACCESS"
@@ -87,11 +99,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "rise-of-anupet-b02993",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "rise-of-anupet-faq-703a06",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "rise-of-anupet-b02993",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "26horses",
   "publisherDisplayName": "26horses",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-07-04T01:25:26.986Z",
   "pcReleaseDate": "2024-07-04T01:00:00.000Z",
