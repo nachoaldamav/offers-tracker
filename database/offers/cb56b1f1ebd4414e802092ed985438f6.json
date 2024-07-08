@@ -91,11 +91,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "deepest-chamber-f7085f",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "deepest-chamber-faq-e17d3c",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "deepest-chamber-f7085f",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Balcony Softworks",
   "publisherDisplayName": "Those Awesome Guys",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 779,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 520,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "8cd9d85630b24e13955fb6ecdf5454a6"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-07-22T17:00:00.000Z",
   "pcReleaseDate": "2021-07-22T17:00:00.000Z",
