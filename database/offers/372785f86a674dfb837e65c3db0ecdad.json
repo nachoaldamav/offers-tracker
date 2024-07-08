@@ -95,11 +95,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "castaway-station-e8dd5f",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "castaway-station-e8dd5f",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Bad Zombie Games",
   "publisherDisplayName": "Bad Zombie Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-30T14:00:00.000Z",
   "pcReleaseDate": "2023-07-01T06:00:00.000Z",

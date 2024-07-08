@@ -103,11 +103,40 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "quiplash-2-interlashional-3c3888",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "quiplash-2-interlashional-3c3888",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Jackbox Games, Inc.",
   "publisherDisplayName": "Jackbox Games, Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-11T00:00:00.000Z",
   "pcReleaseDate": "2020-04-08T07:00:00.000Z",
