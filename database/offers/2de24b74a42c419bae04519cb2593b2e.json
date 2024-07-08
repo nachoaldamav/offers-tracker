@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-09-21T15:00:00.000Z",
   "creationDate": "2023-05-30T18:54:12.684Z",
-  "lastModifiedDate": "2024-07-05T12:19:10.846Z",
+  "lastModifiedDate": "2024-07-08T18:50:14.081Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -40,12 +40,24 @@
       "name": "Action"
     },
     {
-      "id": "1264",
-      "name": "Co-op"
-    },
-    {
       "id": "21122",
       "name": "Diverse Characters"
+    },
+    {
+      "id": "1188",
+      "name": "RELAXING"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
+    {
+      "id": "1264",
+      "name": "Co-op"
     },
     {
       "id": "21138",
@@ -72,16 +84,8 @@
       "name": "Shooter"
     },
     {
-      "id": "9547",
-      "name": "Windows"
-    },
-    {
       "id": "21149",
       "name": "Quickly Understand the Controls"
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support"
     }
   ],
   "items": [
@@ -110,11 +114,83 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "payday-3",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "payday-3--gold-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "payday-3--silver-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "payday-3--trifecta-lootbag",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "payday-3--syntax-error-tailor-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "payday-3--chapter-1-syntax-error",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "payday-3--syntax-error-heist",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "payday-3--syntax-error-weapon-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "payday-3--boys-in-blue-tailor-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "payday-3--boys-in-blue-weapon-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "payday-3--chapter-2-boys-in-blue",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "payday-3--boys-in-blue-heist",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "payday-3--gold-pass",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Starbreeze",
   "publisherDisplayName": "Deep Silver",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": false,
   "releaseDate": "2023-09-21T15:00:00.000Z",
   "pcReleaseDate": "2023-09-21T15:00:00.000Z",
