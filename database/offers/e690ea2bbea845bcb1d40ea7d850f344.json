@@ -87,11 +87,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "thomas-tales-912c23",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "thomas-tales-912c23",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "TOODOO STUDIO LLC",
   "publisherDisplayName": "TOODOO STUDIO LLC",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 149,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 350,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "1d7a30c7d7e34fe28ca83cedaa8ef847"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-26T15:00:00.000Z",
   "pcReleaseDate": "2022-06-16T04:00:00.000Z",

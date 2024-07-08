@@ -31,18 +31,12 @@
   "urlSlug": "0871ff455b504d7ca57d37fecf424bd3",
   "url": null,
   "tags": [
-    {
-      "id": "1216",
-      "name": "Action"
-    },
+    null,
     {
       "id": "1264",
       "name": "Co-op"
     },
-    {
-      "id": "29088",
-      "name": "Online Multiplayer"
-    },
+    null,
     {
       "id": "1299",
       "name": "Competitive"
@@ -55,10 +49,7 @@
       "id": "1210",
       "name": "Shooter"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "9549",
       "name": "Controller Support"
@@ -107,11 +98,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "elden-gunfire-4f9197",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "elden-gunfire-4f9197",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Amonga99",
   "publisherDisplayName": "Amonga99",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 799,
+      "originalPrice": 799,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-06-30T00:00:00.000Z",
   "pcReleaseDate": "2024-06-30T00:00:00.000Z",

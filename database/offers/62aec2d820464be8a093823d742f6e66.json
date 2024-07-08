@@ -31,14 +31,8 @@
   "urlSlug": "fef75400759445b49d6f27550447b5f0",
   "url": null,
   "tags": [
-    {
-      "id": "1216",
-      "name": "Action"
-    },
-    {
-      "id": "29088",
-      "name": "Online Multiplayer"
-    },
+    null,
+    null,
     {
       "id": "1210",
       "name": "Shooter"
@@ -47,10 +41,7 @@
       "id": "1370",
       "name": "Single Player"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1294",
       "name": "First Person"
@@ -95,11 +86,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "western-chapter-ab4efc",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "western-chapter-ab4efc",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "WEB3 Studio",
   "publisherDisplayName": "WEB3 Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-05-31T00:00:00.000Z",
   "pcReleaseDate": "2024-05-31T00:00:00.000Z",

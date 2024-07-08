@@ -31,18 +31,12 @@
   "urlSlug": "16b87ddeaa5642fba6ed09922e92672d",
   "url": null,
   "tags": [
-    {
-      "id": "1216",
-      "name": "Action"
-    },
+    null,
     {
       "id": "1264",
       "name": "Co-op"
     },
-    {
-      "id": "29088",
-      "name": "Online Multiplayer"
-    },
+    null,
     {
       "id": "31313",
       "name": "First Run"
@@ -59,10 +53,7 @@
       "id": "1210",
       "name": "Shooter"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "9549",
       "name": "Controller Support"
@@ -111,11 +102,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "feverdream-8873c7",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "feverdream-faq-d1cb8a",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "feverdream-8873c7",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Tangent Universe",
   "publisherDisplayName": "Tangent Universe",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-31T00:00:00.000Z",
   "pcReleaseDate": "2024-12-31T00:00:00.000Z",

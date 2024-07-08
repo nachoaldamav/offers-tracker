@@ -31,18 +31,12 @@
   "urlSlug": "d83a11b86fba47cbb73201532b37e960",
   "url": null,
   "tags": [
-    {
-      "id": "1216",
-      "name": "Action"
-    },
+    null,
     {
       "id": "1264",
       "name": "Co-op"
     },
-    {
-      "id": "29088",
-      "name": "Online Multiplayer"
-    },
+    null,
     {
       "id": "1218",
       "name": "Horror"
@@ -59,10 +53,7 @@
       "id": "1370",
       "name": "Single Player"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "9549",
       "name": "Controller Support"
@@ -119,11 +110,40 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-shadows-within-nightmares-games-857953",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "the-shadows-within-nightmares-games-857953",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Netrigo Game Studios",
   "publisherDisplayName": "Netrigo Game Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1699,
+      "originalPrice": 1699,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-06-30T00:00:00.000Z",
   "pcReleaseDate": null,

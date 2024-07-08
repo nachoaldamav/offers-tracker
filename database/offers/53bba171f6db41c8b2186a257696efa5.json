@@ -31,10 +31,7 @@
   "urlSlug": "11c02278f90f4c72b0124451fd0b9c32",
   "url": null,
   "tags": [
-    {
-      "id": "29088",
-      "name": "Online Multiplayer"
-    },
+    null,
     {
       "id": "1264",
       "name": "Co-op"
@@ -43,10 +40,7 @@
       "id": "1370",
       "name": "Single Player"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1115",
       "name": "Strategy"
@@ -87,11 +81,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "espiocracy-e70901",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "espiocracy-e70901",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Ex Vivo Studios",
   "publisherDisplayName": "Hooded Horse",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-31T00:00:00.000Z",
   "pcReleaseDate": "2024-12-31T00:00:00.000Z",
