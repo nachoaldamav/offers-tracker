@@ -43,10 +43,7 @@
       "id": "19847",
       "name": "Achievements"
     },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
+    null,
     {
       "id": "9547",
       "name": "Windows"
@@ -87,11 +84,47 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "blasphemous-2--digital-deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "blasphemous-2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "blasphemous-2--ost",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "blasphemous-2--artbook",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": false,
   "releaseDate": "2023-08-24T16:00:00.000Z",
   "pcReleaseDate": "2023-08-24T16:00:00.000Z",

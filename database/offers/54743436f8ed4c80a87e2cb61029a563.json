@@ -43,10 +43,7 @@
       "id": "21894",
       "name": "Cloud Saves"
     },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
+    null,
     {
       "id": "9547",
       "name": "Windows"
@@ -99,11 +96,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "cataire-6ce6b7",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "cataire-6ce6b7",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Airem",
   "publisherDisplayName": "Airem",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 54,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 45,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "d0c6358310c849d4a07c771f1f4c3011"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-09-14T13:00:00.000Z",
   "pcReleaseDate": "2022-09-23T10:00:00.000Z",

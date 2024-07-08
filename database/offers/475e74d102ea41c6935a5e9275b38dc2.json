@@ -39,10 +39,7 @@
       "id": "1283",
       "name": "Sports"
     },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
+    null,
     {
       "id": "1307",
       "name": "Open World"
@@ -87,11 +84,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "mountain-bicycle-rider-simulator-e52374",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "mountain-bicycle-rider-simulator-e52374",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Yusuf Islam Seyhan, Samet Acar",
   "publisherDisplayName": "INSPECTOR STUDIOS",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 29,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 70,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "1dce147dbade4fcd90642c52502a3c52"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-08-30T11:30:00.000Z",
   "pcReleaseDate": "2023-09-01T09:00:00.000Z",
