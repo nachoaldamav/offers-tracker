@@ -95,11 +95,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "blossom-tales-ii-the-minotaur-prince-e74c95",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "blossom-tales-ii-the-minotaur-prince-e74c95",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Castle Pixel",
   "publisherDisplayName": "Playtonic Friends",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-11-14T16:00:00.000Z",
   "pcReleaseDate": "2022-08-16T15:00:00.000Z",
