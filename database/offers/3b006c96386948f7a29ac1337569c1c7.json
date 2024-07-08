@@ -87,11 +87,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "bramble-the-mountain-king-bramble-the-mountain-king-demo-0d7e84",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "bramble-the-mountain-king-c0d1c6",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "bramble-the-mountain-king-c0d1c6",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Dimfrost Studio",
   "publisherDisplayName": "Merge Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-27T13:00:00.000Z",
   "pcReleaseDate": "2023-04-27T13:00:00.000Z",
