@@ -31,10 +31,7 @@
   "urlSlug": "a4168ceff1384eab890a71f075303333",
   "url": null,
   "tags": [
-    {
-      "id": "1216",
-      "name": "Action"
-    },
+    null,
     {
       "id": "1370",
       "name": "Single Player"
@@ -43,10 +40,7 @@
       "id": "1115",
       "name": "Strategy"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1117",
       "name": "Adventure"
@@ -99,11 +93,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "arco-03eeb3",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "arco-03eeb3",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Franek, Max Cahill, Bibiki and Fáyer.",
   "publisherDisplayName": "Panic",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 19999,
+      "originalPrice": 19999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",

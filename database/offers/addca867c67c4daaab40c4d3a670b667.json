@@ -31,30 +31,15 @@
   "urlSlug": "38ae12e6aa3542318fc082a4269d530b",
   "url": null,
   "tags": [
-    {
-      "id": "1216",
-      "name": "Action"
-    },
+    null,
     {
       "id": "1264",
       "name": "Co-op"
     },
-    {
-      "id": "29088",
-      "name": "Online Multiplayer"
-    },
-    {
-      "id": "1210",
-      "name": "Shooter"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
-    {
-      "id": "21739",
-      "name": "NFT BLOCKCHAIN"
-    },
+    null,
+    null,
+    null,
+    null,
     {
       "id": "1294",
       "name": "First Person"
@@ -103,11 +88,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "r3v3nge1-0be179",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "r3v3nge1-faq-807a5d",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "r3v3nge1-0be179",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Everreach Labs",
   "publisherDisplayName": "Everreach Labs",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-31T00:00:00.000Z",
   "pcReleaseDate": "2024-12-31T00:00:00.000Z",

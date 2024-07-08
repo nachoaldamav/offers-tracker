@@ -31,10 +31,7 @@
   "urlSlug": "85f14107b391408ca677c51238fff4f5",
   "url": null,
   "tags": [
-    {
-      "id": "1216",
-      "name": "Action"
-    },
+    null,
     {
       "id": "31313",
       "name": "First Run"
@@ -47,10 +44,7 @@
       "id": "1370",
       "name": "Single Player"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1310",
       "name": "EARLY ACCESS"
@@ -99,11 +93,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "deathpunk-f5f83b",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "deathpunk-faq-956988",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "deathpunk-f5f83b",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "FlamyFish Studios",
   "publisherDisplayName": "FlamyFish Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 799,
+      "originalPrice": 799,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-12-31T00:00:00.000Z",
   "pcReleaseDate": "2024-09-30T00:00:00.000Z",

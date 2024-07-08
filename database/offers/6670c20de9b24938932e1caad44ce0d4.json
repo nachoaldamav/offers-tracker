@@ -43,10 +43,7 @@
       "id": "1370",
       "name": "Single Player"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1181",
       "name": "Card Game"
@@ -99,8 +96,20 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "card-clash-chronicles-78b06c",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "card-clash-chronicles-78b06c",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "ApocVerse",
   "publisherDisplayName": "ApocVerse",
   "price": null,

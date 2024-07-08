@@ -42,10 +42,6 @@
     {
       "id": "1370",
       "name": "Single Player"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
     }
   ],
   "items": [
@@ -87,8 +83,20 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "norse-d7df8c",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "norse-d7df8c",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Arctic Hazard",
   "publisherDisplayName": "Arctic Hazard",
   "price": null,
