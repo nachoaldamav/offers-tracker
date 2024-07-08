@@ -106,11 +106,59 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-surge--fire-ice-weapon-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-surge",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-surge--augmented-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-surge--good-bad-augmented-expansion",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-surge--creo-employee-kit",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-surge--walk-in-the-park",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-surge--cutting-edge-pack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Deck13 Interactive",
   "publisherDisplayName": "Focus Home Interactive",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-09-23T14:00:00.000Z",
   "pcReleaseDate": "2017-05-15T09:25:08.000Z",

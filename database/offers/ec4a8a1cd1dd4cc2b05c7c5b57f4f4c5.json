@@ -79,11 +79,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "true-hate-007027",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "true-hate-007027",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Boom Games",
   "publisherDisplayName": "Boom Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 79,
+      "originalPrice": 799,
+      "voucherDiscount": 0,
+      "discount": 720,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "31586daa6f01446c90f0a3af27ff2edd"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-10-14T21:00:00.000Z",
   "pcReleaseDate": "2021-10-14T21:00:00.000Z",
