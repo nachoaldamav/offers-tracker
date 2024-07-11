@@ -120,10 +120,10 @@
   "publisherDisplayName": "Rose City Games, wiip, PlayEveryWare",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 0,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1999,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -132,7 +132,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "65a672009ee44b61a931991d3cf42bb5"
+          }
+        ]
       }
     ]
   },
