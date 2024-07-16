@@ -47,7 +47,10 @@
       "id": "19847",
       "name": "Achievements"
     },
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
     {
       "id": "9547",
       "name": "Windows"
@@ -108,7 +111,28 @@
   ],
   "developerDisplayName": "NYOU",
   "publisherDisplayName": "NYOU",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1199,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 300,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "244fb27e90a04845a478b0f71d68007f"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-07-15T05:00:00.000Z",
   "pcReleaseDate": "2024-03-21T03:00:00.000Z",
