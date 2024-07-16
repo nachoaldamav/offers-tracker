@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2019-03-24T05:00:00.000Z",
   "creationDate": "2019-03-08T22:40:07.527Z",
-  "lastModifiedDate": "2024-06-13T15:22:28.715Z",
+  "lastModifiedDate": "2024-07-16T15:00:34.747Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1117",
@@ -99,10 +103,10 @@
   "publisherDisplayName": "Skybound Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 374,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1125,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -111,7 +115,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "fd07be92404c40bc8a2e002acff7175e"
+          }
+        ]
       }
     ]
   },
