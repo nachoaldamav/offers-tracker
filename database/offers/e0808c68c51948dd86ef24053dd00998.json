@@ -117,10 +117,10 @@
   "publisherDisplayName": "Kimulator's Films",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 149,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 350,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "763f8e678f05483b82c7977949202bea"
+          }
+        ]
       }
     ]
   },

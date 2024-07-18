@@ -113,10 +113,10 @@
   "publisherDisplayName": "Next Path Media Ltd",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 999,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "fa0562958ef04a2baedff7594e18e671"
+          }
+        ]
       }
     ]
   },

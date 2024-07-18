@@ -153,10 +153,10 @@
   "publisherDisplayName": "Wild Rooster",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1599,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -165,7 +165,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "f388fb6e81e64604bdb28cf82c3c9a03"
+          }
+        ]
       }
     ]
   },

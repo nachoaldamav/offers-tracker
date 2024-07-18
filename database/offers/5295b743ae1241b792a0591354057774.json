@@ -117,10 +117,10 @@
   "publisherDisplayName": "THE BROTHERHOOD",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1099,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 900,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "8dfde4fd078e4ad8830f89cad8e674da"
+          }
+        ]
       }
     ]
   },

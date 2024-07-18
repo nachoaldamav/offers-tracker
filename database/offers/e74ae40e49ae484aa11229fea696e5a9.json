@@ -153,10 +153,10 @@
   "publisherDisplayName": "Mimimi Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 3999,
+      "discountPrice": 2999,
       "originalPrice": 3999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -165,7 +165,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "376f36def3d441bcb8bcd33e7c8272c3"
+          }
+        ]
       }
     ]
   },

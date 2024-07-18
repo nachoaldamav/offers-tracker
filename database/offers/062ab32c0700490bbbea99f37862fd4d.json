@@ -101,10 +101,10 @@
   "publisherDisplayName": "Strategy First",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 99,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -113,7 +113,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "d9e6073e246b48c4a97775241bc7999b"
+          }
+        ]
       }
     ]
   },

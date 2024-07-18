@@ -117,10 +117,10 @@
   "publisherDisplayName": "Nautlander",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 249,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 250,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "ae821f5f9a3f4dd5b9f67c1ab54e6ba9"
+          }
+        ]
       }
     ]
   },

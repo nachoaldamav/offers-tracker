@@ -172,10 +172,10 @@
   "publisherDisplayName": "IllFonic Publishing",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 999,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -184,7 +184,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "1e552e50ca3a46f189022f90b4c551cf"
+          }
+        ]
       }
     ]
   },

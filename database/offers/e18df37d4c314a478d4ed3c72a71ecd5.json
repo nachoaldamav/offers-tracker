@@ -113,10 +113,10 @@
   "publisherDisplayName": "Purple Brick Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1899,
+      "discountPrice": 1234,
       "originalPrice": 1899,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 665,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "ecf2fedbd9c947be982d71f17a5bc6ca"
+          }
+        ]
       }
     ]
   },

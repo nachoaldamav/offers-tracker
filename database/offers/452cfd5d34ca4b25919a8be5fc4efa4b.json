@@ -153,10 +153,10 @@
   "publisherDisplayName": "Dovetail Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 499,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -165,7 +165,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "ecb62a81aa2444ce837bdd14f49d40e9"
+          }
+        ]
       }
     ]
   },
