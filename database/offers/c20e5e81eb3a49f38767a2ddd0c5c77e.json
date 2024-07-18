@@ -91,7 +91,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "forest-ranger-simulator-31788c",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "forest-ranger-simulator-faq-17e532",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "forest-ranger-simulator-31788c",
@@ -100,7 +111,24 @@
   ],
   "developerDisplayName": "Virtual Magic, FreeMind",
   "publisherDisplayName": "FreeMind",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-09-01T15:00:00.000Z",
   "pcReleaseDate": "2023-04-24T17:00:00.000Z",
