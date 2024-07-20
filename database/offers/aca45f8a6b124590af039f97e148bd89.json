@@ -162,10 +162,31 @@
       }
     ]
   },
-  "offerMappings": null,
+  "offerMappings": [],
   "developerDisplayName": "Saber Porto Ltd.",
   "publisherDisplayName": "Saber Interactive Inc",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1799,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 1200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "4137049107f748a8b46fcbdb8355d42e"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-11-15T14:00:00.000Z",
   "pcReleaseDate": "2022-10-04T15:00:00.000Z",
