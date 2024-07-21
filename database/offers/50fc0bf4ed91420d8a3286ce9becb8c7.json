@@ -91,11 +91,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "bulletrooms-a24122",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "bulletrooms-a24122",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Astra Playroom",
   "publisherDisplayName": "Astra Playroom",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 59,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 40,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "df611118931d4dec85b5325bde1c52b0"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-07-12T07:00:00.000Z",
   "pcReleaseDate": "2024-07-12T07:00:00.000Z",

@@ -99,11 +99,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "corpse-keeper-faq-0e7674",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "corpse-keeper-b070bb",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "corpse-keeper-b070bb",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Melancholia Studio",
   "publisherDisplayName": "Thermite Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1199,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 800,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "870faa7355384759bb9e6d108fdd1aaa"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-05-28T07:00:00.000Z",
   "pcReleaseDate": "2024-05-28T07:00:00.000Z",
