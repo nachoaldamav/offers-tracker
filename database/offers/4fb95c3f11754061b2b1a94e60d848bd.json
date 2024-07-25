@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-07-25T16:00:00.000Z",
   "creationDate": "2024-01-29T17:35:52.645Z",
-  "lastModifiedDate": "2024-07-22T18:03:18.871Z",
+  "lastModifiedDate": "2024-07-25T16:00:19.235Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -117,10 +117,10 @@
   "publisherDisplayName": "Furniture & Mattress LLC",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1799,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "7b71cc5b74ed40f68a5fafe0183a0f35"
+          }
+        ]
       }
     ]
   },
