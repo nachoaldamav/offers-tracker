@@ -226,10 +226,36 @@
       }
     ]
   },
-  "offerMappings": null,
+  "offerMappings": [
+    {
+      "pageSlug": "among-us",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Innersloth",
   "publisherDisplayName": "Innersloth",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "b28317cf19124443a4813c6995afcb23"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-12-18T17:00:00.000Z",
   "pcReleaseDate": "2018-06-15T14:36:00.000Z",
