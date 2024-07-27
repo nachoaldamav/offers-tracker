@@ -43,7 +43,10 @@
   "urlSlug": "nour",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1393",
+      "name": "Simulation"
+    },
     {
       "id": "16979",
       "name": "Summer Sale"
@@ -107,11 +110,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "nour",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1049,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 450,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "6342f35552484831817d12bf9926badc"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-09-12T13:00:00.000Z",
   "pcReleaseDate": null,

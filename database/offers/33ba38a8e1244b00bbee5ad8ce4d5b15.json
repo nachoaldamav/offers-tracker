@@ -31,7 +31,10 @@
   "urlSlug": "339a2bb09358453d924956414e38e93d",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1393",
+      "name": "Simulation"
+    },
     {
       "id": "16979",
       "name": "Summer Sale"
@@ -96,11 +99,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-isle-tide-hotel-adf588",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-isle-tide-hotel-the-isle-tide-hotel-4k-video-pack-1370b3",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "the-isle-tide-hotel-adf588",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Wales Interactive, Interflix Media",
   "publisherDisplayName": "Wales Interactive",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1299,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 700,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "2b84bdf5e9b84e26b7b230f5be934aab"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-09-12T11:00:00.000Z",
   "pcReleaseDate": "2023-09-12T09:00:00.000Z",

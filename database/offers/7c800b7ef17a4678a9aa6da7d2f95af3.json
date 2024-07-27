@@ -99,11 +99,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "homeseek-243763",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "homeseek-original-soundtrack-8ef59f",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "homeseek-243763",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Traptics",
   "publisherDisplayName": "The Iterative Collective",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1249,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 1250,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "07e369b394844f7eb26e2cd1fee57af8"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-09-14T13:00:00.000Z",
   "pcReleaseDate": "2023-07-20T07:00:00.000Z",

@@ -31,7 +31,10 @@
   "urlSlug": "fca0792b467d4a218a50a36d4197d971",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1393",
+      "name": "Simulation"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -84,11 +87,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "city-ambulance-car-driving-1d3872",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "city-ambulance-car-driving-1d3872",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Yusuf Islam Seyhan, Samet Acar",
   "publisherDisplayName": "INSPECTOR STUDIOS",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 29,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 70,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "3e223d0514d24387b85bdcd3d5ff0edb"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-09-05T19:30:00.000Z",
   "pcReleaseDate": "2023-02-07T17:00:00.000Z",
