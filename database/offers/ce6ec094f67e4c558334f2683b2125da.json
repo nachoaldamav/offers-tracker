@@ -47,7 +47,10 @@
       "id": "16979",
       "name": "Summer Sale"
     },
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -152,10 +155,36 @@
       }
     ]
   },
-  "offerMappings": null,
+  "offerMappings": [
+    {
+      "pageSlug": "chess-ultra-91bba3",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Ripstone",
   "publisherDisplayName": "Ripstone",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 454,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 845,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "d906809f1be04e62b30e123559f83fa1"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-03-23T15:00:00.000Z",
   "pcReleaseDate": "2017-06-21T00:00:00.000Z",
