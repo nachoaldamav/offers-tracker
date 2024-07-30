@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-08-26T14:00:00.000Z",
   "creationDate": "2022-08-22T15:46:58.799Z",
-  "lastModifiedDate": "2024-07-23T06:13:37.681Z",
+  "lastModifiedDate": "2024-07-30T15:00:28.181Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -39,16 +39,33 @@
       "id": "1298",
       "name": "Puzzle"
     },
-    null,
+    {
+      "id": "21894",
+      "name": "Cloud Saves"
+    },
     {
       "id": "1336",
       "name": "Action-Adventure"
     },
-    null,
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
+    },
     {
       "id": "9549",
       "name": "Controller Support"
+    },
+    {
+      "id": "1151",
+      "name": "Platformer"
     }
   ],
   "items": [
@@ -96,10 +113,10 @@
   "publisherDisplayName": "Graffiti Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 299,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -108,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "8909ded55ed040389daaec09ab4b5247"
+          }
+        ]
       }
     ]
   },

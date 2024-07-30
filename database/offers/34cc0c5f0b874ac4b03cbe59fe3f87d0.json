@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-10-28T04:00:00.000Z",
   "creationDate": "2021-10-15T04:31:51.760Z",
-  "lastModifiedDate": "2024-07-30T11:39:21.035Z",
+  "lastModifiedDate": "2024-07-30T15:00:28.185Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -51,9 +51,22 @@
       "id": "21121",
       "name": "Great for Quick Sessions"
     },
-    null,
-    null,
-    null,
+    {
+      "id": "21122",
+      "name": "Diverse Characters"
+    },
+    {
+      "id": "1188",
+      "name": "RELAXING"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
+    },
     {
       "id": "21138",
       "name": "Recommend this Game"
@@ -78,7 +91,10 @@
       "id": "21141",
       "name": "Extremely Fun"
     },
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
     {
       "id": "21146",
       "name": "Educational"
@@ -203,10 +219,10 @@
   "publisherDisplayName": null,
   "price": {
     "totalPrice": {
-      "discountPrice": 3999,
+      "discountPrice": 999,
       "originalPrice": 3999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 3000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -215,7 +231,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "3a03275801924d7cb2f73d3834421050"
+          }
+        ]
       }
     ]
   },

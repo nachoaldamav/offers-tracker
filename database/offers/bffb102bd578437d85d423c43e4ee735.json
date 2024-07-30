@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-04-14T12:00:00.000Z",
   "creationDate": "2023-01-31T11:20:39.107Z",
-  "lastModifiedDate": "2024-07-23T06:13:37.675Z",
+  "lastModifiedDate": "2024-07-30T15:00:28.177Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1263",
@@ -109,10 +113,10 @@
   "publisherDisplayName": "Gameforge 4D GmbH",
   "price": {
     "totalPrice": {
-      "discountPrice": 399,
+      "discountPrice": 159,
       "originalPrice": 399,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 240,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "1b2d093f032c41cbabe9ef0b71c782ac"
+          }
+        ]
       }
     ]
   },

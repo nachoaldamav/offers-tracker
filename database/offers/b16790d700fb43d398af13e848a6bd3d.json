@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-02-26T15:00:00.000Z",
   "creationDate": "2022-01-20T18:35:49.721Z",
-  "lastModifiedDate": "2024-07-23T06:13:37.691Z",
+  "lastModifiedDate": "2024-07-30T15:00:28.182Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "9549",
@@ -117,10 +121,10 @@
   "publisherDisplayName": "Graffiti Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 799,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "e8670b954fc34bfe9fb866563aa05a97"
+          }
+        ]
       }
     ]
   },
