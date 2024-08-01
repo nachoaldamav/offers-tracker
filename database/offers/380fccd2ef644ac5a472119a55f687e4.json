@@ -141,10 +141,10 @@
   "publisherDisplayName": "KEMCO",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 1199,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 300,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -153,7 +153,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "6a4725fb41e7445b8c29a3c2834d5a6e"
+          }
+        ]
       }
     ]
   },
