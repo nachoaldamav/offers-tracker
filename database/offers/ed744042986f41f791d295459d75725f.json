@@ -104,10 +104,10 @@
   "publisherDisplayName": "Armor Games Studios",
   "price": {
     "totalPrice": {
-      "discountPrice": 1299,
+      "discountPrice": 0,
       "originalPrice": 1299,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1299,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -116,7 +116,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "a49c3774e2164cff9c670bc908961228"
+          }
+        ]
       }
     ]
   },
