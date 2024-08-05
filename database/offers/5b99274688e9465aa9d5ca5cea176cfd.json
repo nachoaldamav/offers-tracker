@@ -117,10 +117,10 @@
   "publisherDisplayName": "Freedom Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 299,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "4a068589f13c476bb49ba25ad55158ed"
+          }
+        ]
       }
     ]
   },

@@ -59,18 +59,12 @@
       "id": "1083",
       "name": "Rogue-Lite"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "35244",
       "name": "Epic Savings"
     },
-    {
-      "id": "9549",
-      "name": "Controller Support"
-    },
+    null,
     {
       "id": "10719",
       "name": "Mac OS"
@@ -123,10 +117,10 @@
   "publisherDisplayName": null,
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 999,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -135,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "7f3f1f2b9f844e34a31453781adac81a"
+          }
+        ]
       }
     ]
   },

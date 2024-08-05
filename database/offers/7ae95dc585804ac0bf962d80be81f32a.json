@@ -117,10 +117,10 @@
   "publisherDisplayName": "Rogue Games, Inc.",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 999,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "fa2c6f64cd3c43aabcf0da05f1281083"
+          }
+        ]
       }
     ]
   },

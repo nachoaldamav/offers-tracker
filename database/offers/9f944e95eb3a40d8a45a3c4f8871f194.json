@@ -51,10 +51,7 @@
       "id": "1370",
       "name": "Single Player"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1116",
       "name": "Comedy"
@@ -123,10 +120,10 @@
   "publisherDisplayName": null,
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1199,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 800,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -135,7 +132,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "0cfa86b629bd41b09cae6dffa127167e"
+          }
+        ]
       }
     ]
   },

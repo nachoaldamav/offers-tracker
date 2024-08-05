@@ -47,10 +47,7 @@
       "id": "1370",
       "name": "Single Player"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "35244",
       "name": "Epic Savings"
@@ -124,10 +121,10 @@
   "publisherDisplayName": "Neon Doctrine",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 799,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -136,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "7ed96e008aaa436b898009a6b846120c"
+          }
+        ]
       }
     ]
   },

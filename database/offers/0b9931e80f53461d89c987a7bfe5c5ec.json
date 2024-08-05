@@ -43,10 +43,7 @@
       "id": "1115",
       "name": "Strategy"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "35244",
       "name": "Epic Savings"
@@ -105,10 +102,10 @@
   "publisherDisplayName": "Freedom Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 799,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -117,7 +114,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "af7d0e447d5046b996e30fc6763b108b"
+          }
+        ]
       }
     ]
   },

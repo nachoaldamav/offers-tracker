@@ -117,10 +117,10 @@
   "publisherDisplayName": "Microids",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 1249,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1250,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "be4fc583467f4f1fb38d0552626937a4"
+          }
+        ]
       }
     ]
   },

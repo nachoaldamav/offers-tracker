@@ -109,10 +109,10 @@
   "publisherDisplayName": "Tonguc Bodur",
   "price": {
     "totalPrice": {
-      "discountPrice": 399,
+      "discountPrice": 199,
       "originalPrice": 399,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +121,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "7a1a68e9398942389a59ae0d02c1d4c7"
+          }
+        ]
       }
     ]
   },

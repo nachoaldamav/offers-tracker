@@ -39,10 +39,7 @@
       "id": "1370",
       "name": "Single Player"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "35244",
       "name": "Epic Savings"
@@ -105,10 +102,10 @@
   "publisherDisplayName": "Microids",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 399,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1600,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -117,7 +114,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "d54875691a474b08b05eece9d942d83d"
+          }
+        ]
       }
     ]
   },

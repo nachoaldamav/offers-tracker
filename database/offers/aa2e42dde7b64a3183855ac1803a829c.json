@@ -113,10 +113,10 @@
   "publisherDisplayName": "bilibili",
   "price": {
     "totalPrice": {
-      "discountPrice": 1799,
+      "discountPrice": 899,
       "originalPrice": 1799,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 900,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "530ad35cf7cb423ba4b98e591d6fc52c"
+          }
+        ]
       }
     ]
   },

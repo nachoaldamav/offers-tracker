@@ -149,10 +149,10 @@
   "publisherDisplayName": "Hooded Horse",
   "price": {
     "totalPrice": {
-      "discountPrice": 3999,
+      "discountPrice": 2999,
       "originalPrice": 3999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -161,7 +161,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "cc30fdf57acf4ca5949f11e2eb9a07fa"
+          }
+        ]
       }
     ]
   },
