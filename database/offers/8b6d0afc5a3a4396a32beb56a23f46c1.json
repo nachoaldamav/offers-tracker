@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-05-23T20:00:00.000Z",
   "creationDate": "2024-04-08T22:46:03.109Z",
-  "lastModifiedDate": "2024-07-30T19:27:30.473Z",
+  "lastModifiedDate": "2024-08-05T15:51:54.650Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -60,6 +60,10 @@
       "name": "Windows"
     },
     {
+      "id": "35244",
+      "name": "Epic Savings"
+    },
+    {
       "id": "1117",
       "name": "Adventure"
     }
@@ -94,13 +98,13 @@
   ],
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "catalogNs": {
@@ -121,10 +125,10 @@
   "publisherDisplayName": "Electronic Arts",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 299,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2700,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +137,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "20cefabed37b48d08df3497186934db1"
+          }
+        ]
       }
     ]
   },
