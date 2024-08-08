@@ -117,10 +117,10 @@
   "publisherDisplayName": "Thunderful Publishing",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 2699,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 300,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "d531b1eea7b84cb19fa50d6cec156d1e"
+          }
+        ]
       }
     ]
   },

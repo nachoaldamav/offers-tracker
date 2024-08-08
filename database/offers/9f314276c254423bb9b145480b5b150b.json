@@ -172,10 +172,10 @@
   "publisherDisplayName": "Nexon",
   "price": {
     "totalPrice": {
-      "discountPrice": 4999,
+      "discountPrice": 0,
       "originalPrice": 4999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 4999,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -184,7 +184,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "1590a25d58f04537bb9322de548187e6"
+          }
+        ]
       }
     ]
   },
