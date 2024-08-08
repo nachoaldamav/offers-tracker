@@ -31,17 +31,38 @@
   "urlSlug": "ef9506ec5d8243cdb8436c70ed08d50e",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
     {
       "id": "32709",
       "name": "Cat"
     },
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
+    {
+      "id": "1367",
+      "name": "RPG"
+    },
+    {
+      "id": "34567",
+      "name": "Cat included"
+    },
+    {
+      "id": "34568",
+      "name": "Cat discount"
+    },
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "35244",
+      "name": "Epic Savings"
+    },
     {
       "id": "1117",
       "name": "Adventure"
@@ -102,7 +123,28 @@
   ],
   "developerDisplayName": "BioWare",
   "publisherDisplayName": "Electronic Arts",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 2700,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "4f2a5a6bf3654eeebe65aa44663965dd"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-05-23T20:00:00.000Z",
   "pcReleaseDate": "2011-03-08T08:00:00.000Z",
