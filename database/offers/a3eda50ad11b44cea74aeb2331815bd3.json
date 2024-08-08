@@ -121,10 +121,10 @@
   "publisherDisplayName": "A Penguin Studio",
   "price": {
     "totalPrice": {
-      "discountPrice": 799,
+      "discountPrice": 679,
       "originalPrice": 799,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 120,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "8fa79fbbdb3f4e81bbdae25bd4e024ac"
+          }
+        ]
       }
     ]
   },
