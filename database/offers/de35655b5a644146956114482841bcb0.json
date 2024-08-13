@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-12-09T18:30:00.000Z",
   "creationDate": "2023-12-05T16:41:11.829Z",
-  "lastModifiedDate": "2024-07-11T19:33:31.587Z",
+  "lastModifiedDate": "2024-08-13T14:59:40.947Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1212",
@@ -117,10 +121,10 @@
   "publisherDisplayName": "Yash Future Tech Solutions Pvt Ltd",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 99,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 900,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "45c6c46828be40579d620f392fd49dba"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-03-18T17:00:00.000Z",
   "creationDate": "2024-01-06T23:41:55.247Z",
-  "lastModifiedDate": "2024-06-13T15:22:28.575Z",
+  "lastModifiedDate": "2024-08-13T14:59:40.949Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1117",
@@ -125,10 +129,10 @@
   "publisherDisplayName": "Maximilian Drews",
   "price": {
     "totalPrice": {
-      "discountPrice": 249,
+      "discountPrice": 186,
       "originalPrice": 249,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 63,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -137,7 +141,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "ba99930297de4598a8ba692dfbd7a4b5"
+          }
+        ]
       }
     ]
   },

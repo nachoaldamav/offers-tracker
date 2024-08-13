@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-03-18T15:00:00.000Z",
   "creationDate": "2021-11-11T01:56:17.936Z",
-  "lastModifiedDate": "2023-08-03T15:26:41.155Z",
+  "lastModifiedDate": "2024-08-13T14:59:40.938Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1117",
@@ -109,10 +113,10 @@
   "publisherDisplayName": "Fellow Traveller",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 299,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 700,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "8cce5012554246a5923191ca6e6a3114"
+          }
+        ]
       }
     ]
   },
