@@ -108,10 +108,10 @@
   "publisherDisplayName": "Serenity Forge",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 0,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1999,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -120,7 +120,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "0dbc8a672a434d0d98f808aa8f792208"
+          }
+        ]
       }
     ]
   },
