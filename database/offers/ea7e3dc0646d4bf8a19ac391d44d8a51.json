@@ -113,10 +113,10 @@
   "publisherDisplayName": "Krafton",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 2249,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 250,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "633559f97db5400fb500a811081dbc45"
+          }
+        ]
       }
     ]
   },
