@@ -109,10 +109,10 @@
   "publisherDisplayName": "314 Bytes",
   "price": {
     "totalPrice": {
-      "discountPrice": 199,
+      "discountPrice": 99,
       "originalPrice": 199,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 100,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +121,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "c7fcb4a9ed544cc9bee3f446631e8044"
+          }
+        ]
       }
     ]
   },
