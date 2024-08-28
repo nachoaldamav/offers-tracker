@@ -63,10 +63,7 @@
       "id": "21129",
       "name": "Challenging Combat"
     },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
+    null,
     {
       "id": "9547",
       "name": "Windows"
@@ -110,7 +107,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "prince-of-persia-the-lost-crown--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "prince-of-persia-the-lost-crown",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "prince-of-persia-the-lost-crown--deluxe-pack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "UBISOFT MONTPELLIER",
   "publisherDisplayName": "UBISOFT",

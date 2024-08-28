@@ -39,10 +39,7 @@
       "id": "19847",
       "name": "Achievements"
     },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
+    null,
     {
       "id": "9547",
       "name": "Windows"
@@ -87,7 +84,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "dolphin-spirit-ocean-mission-2d0f3b",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "dolphin-spirit-ocean-mission-2d0f3b",
@@ -96,7 +100,24 @@
   ],
   "developerDisplayName": "Magic Pockets",
   "publisherDisplayName": "Microids",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-09-28T08:00:00.000Z",
   "pcReleaseDate": "2023-09-28T08:00:00.000Z",
