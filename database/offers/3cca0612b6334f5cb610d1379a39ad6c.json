@@ -194,10 +194,36 @@
       }
     ]
   },
-  "offerMappings": null,
+  "offerMappings": [
+    {
+      "pageSlug": "wargame-red-dragon",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Eugen Systems",
   "publisherDisplayName": "Eugen Systems",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 749,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 2250,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "6a71c1ab86e74dfb8c9e611c73d6618c"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-03-04T16:00:00.000Z",
   "pcReleaseDate": "2014-04-17T16:00:00.000Z",
