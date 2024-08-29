@@ -114,10 +114,10 @@
   "publisherDisplayName": "Saber Interactive",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 0,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2999,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -126,7 +126,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "a0c69df10dd042139998634c8db7c773"
+          }
+        ]
       }
     ]
   },
