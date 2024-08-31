@@ -91,11 +91,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "mystery-in-the-office-f629ad",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "mystery-in-the-office-f629ad",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "314 Bytes",
   "publisherDisplayName": "314 Bytes",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 99,
+      "originalPrice": 199,
+      "voucherDiscount": 0,
+      "discount": 100,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "c7fcb4a9ed544cc9bee3f446631e8044"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-09-28T17:00:00.000Z",
   "pcReleaseDate": "2023-04-26T16:00:00.000Z",
