@@ -129,10 +129,10 @@
   "publisherDisplayName": "KomodoBit Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 1244,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 255,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -141,7 +141,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "4576aa43614f4102b96ccb250ecaaeab"
+          }
+        ]
       }
     ]
   },
