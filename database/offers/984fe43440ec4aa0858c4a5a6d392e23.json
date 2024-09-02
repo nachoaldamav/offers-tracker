@@ -35,7 +35,14 @@
       "id": "1080",
       "name": "Survival"
     },
-    null
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
   ],
   "items": [
     {
@@ -90,10 +97,10 @@
   "publisherDisplayName": "SnowBaby Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 499,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -102,7 +109,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "eb235fc44c4d43e99184a43e5e38e8e4"
+          }
+        ]
       }
     ]
   },
