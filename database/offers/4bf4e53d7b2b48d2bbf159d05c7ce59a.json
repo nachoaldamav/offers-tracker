@@ -97,10 +97,10 @@
   "publisherDisplayName": "Interplay Entertainment Corp.",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 799,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -109,7 +109,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "c4ba9dbcbcc34a9fa8e4cb4105413de8"
+          }
+        ]
       }
     ]
   },

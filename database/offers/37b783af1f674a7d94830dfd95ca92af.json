@@ -105,10 +105,10 @@
   "publisherDisplayName": "101XP",
   "price": {
     "totalPrice": {
-      "discountPrice": 799,
+      "discountPrice": 399,
       "originalPrice": 799,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -117,7 +117,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "6cc7851a5df34cb79a8450d7131e1f3c"
+          }
+        ]
       }
     ]
   },

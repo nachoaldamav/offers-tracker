@@ -137,10 +137,10 @@
   "publisherDisplayName": "Suncrash",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 2099,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 900,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -149,7 +149,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "35ff918548d647649000a7aef25efe30"
+          }
+        ]
       }
     ]
   },

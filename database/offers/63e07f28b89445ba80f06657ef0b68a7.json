@@ -236,10 +236,10 @@
   "publisherDisplayName": "Innersloth",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 299,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -248,7 +248,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "b9e7e40cafcd4dce8f031916917720c8"
+          }
+        ]
       }
     ]
   },

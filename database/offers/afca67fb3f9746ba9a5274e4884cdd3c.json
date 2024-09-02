@@ -136,10 +136,10 @@
   "publisherDisplayName": "Kalypso Media",
   "price": {
     "totalPrice": {
-      "discountPrice": 4999,
+      "discountPrice": 3999,
       "originalPrice": 4999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -148,7 +148,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "263849b0fb5447b5b41766d9f9f12089"
+          }
+        ]
       }
     ]
   },

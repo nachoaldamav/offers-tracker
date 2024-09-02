@@ -137,10 +137,10 @@
   "publisherDisplayName": "Martin Mauersics",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 499,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -149,7 +149,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "f87fcb798e48475e8807caa4ac02bb9c"
+          }
+        ]
       }
     ]
   },

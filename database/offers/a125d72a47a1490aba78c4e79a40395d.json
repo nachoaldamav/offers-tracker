@@ -141,10 +141,10 @@
   "publisherDisplayName": "Twin Sails Interactive",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 999,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -153,7 +153,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "380b17366f5b486b9a1183cbe395567f"
+          }
+        ]
       }
     ]
   },

@@ -111,10 +111,10 @@
   "publisherDisplayName": "Tomorrow Corporation",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 749,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 750,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -123,7 +123,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "ff7a67f636304672915ff71bad8236ec"
+          }
+        ]
       }
     ]
   },

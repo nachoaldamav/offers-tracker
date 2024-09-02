@@ -133,10 +133,10 @@
   "publisherDisplayName": "Daedalic Entertainment",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1499,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -145,7 +145,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "48eef424efd94a4f98bf508028f50c9f"
+          }
+        ]
       }
     ]
   },

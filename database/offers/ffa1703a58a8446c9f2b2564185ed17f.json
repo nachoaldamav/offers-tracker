@@ -93,10 +93,10 @@
   "publisherDisplayName": "SOEDESCO",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 99,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 900,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -105,7 +105,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "ba2a11265a8949e9b740ea5183f5b439"
+          }
+        ]
       }
     ]
   },

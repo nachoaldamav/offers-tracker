@@ -125,10 +125,10 @@
   "publisherDisplayName": "Bow & Arrow Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 399,
+      "discountPrice": 299,
       "originalPrice": 399,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 100,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -137,7 +137,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "2ec9296adc2248a584d74cd3e35d36f3"
+          }
+        ]
       }
     ]
   },

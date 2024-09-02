@@ -137,10 +137,10 @@
   "publisherDisplayName": "LuckyVerse",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 199,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 300,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -149,7 +149,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "e0478f012bf54921bbf3c5a5cd564b6b"
+          }
+        ]
       }
     ]
   },

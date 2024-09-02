@@ -125,10 +125,10 @@
   "publisherDisplayName": "Apogee Entertainment",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1599,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -137,7 +137,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "5d2d8f92d60a416e993b06acfe9bb419"
+          }
+        ]
       }
     ]
   },

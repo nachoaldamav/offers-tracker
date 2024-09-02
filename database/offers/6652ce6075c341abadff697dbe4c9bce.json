@@ -125,10 +125,10 @@
   "publisherDisplayName": "Dear Villagers",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 799,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -137,7 +137,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "a4a4cae775b644d29ad3e06ea9f6f26d"
+          }
+        ]
       }
     ]
   },

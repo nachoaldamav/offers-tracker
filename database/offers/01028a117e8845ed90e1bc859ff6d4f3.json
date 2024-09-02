@@ -136,10 +136,10 @@
   "publisherDisplayName": "Panic",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 999,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -148,7 +148,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "e292ce81ea9f4d98b0cfaf522c08fa96"
+          }
+        ]
       }
     ]
   },

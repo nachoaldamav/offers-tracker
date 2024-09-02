@@ -95,10 +95,10 @@
   "publisherDisplayName": "THQ Nordic",
   "price": {
     "totalPrice": {
-      "discountPrice": 3999,
+      "discountPrice": 999,
       "originalPrice": 3999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 3000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -107,7 +107,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "0601b70f0a534adba7e315f38e28d2f2"
+          }
+        ]
       }
     ]
   },

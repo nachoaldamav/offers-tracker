@@ -110,10 +110,10 @@
   "publisherDisplayName": "Nacon",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 2099,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 900,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -122,7 +122,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "b2d0328cab864821bb375de181b952b6"
+          }
+        ]
       }
     ]
   },

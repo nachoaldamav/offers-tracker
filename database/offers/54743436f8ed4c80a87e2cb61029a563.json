@@ -121,10 +121,10 @@
   "publisherDisplayName": "Airem",
   "price": {
     "totalPrice": {
-      "discountPrice": 99,
+      "discountPrice": 49,
       "originalPrice": 99,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 50,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "f89e9b5cfab94bc997b6a264b2fc2304"
+          }
+        ]
       }
     ]
   },

@@ -109,10 +109,10 @@
   "publisherDisplayName": "MediBang",
   "price": {
     "totalPrice": {
-      "discountPrice": 2199,
+      "discountPrice": 1099,
       "originalPrice": 2199,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1100,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +121,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "d4d121fe8c9149038c5058faf9271cd9"
+          }
+        ]
       }
     ]
   },

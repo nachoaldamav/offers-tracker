@@ -129,10 +129,10 @@
   "publisherDisplayName": "Noun Town",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1499,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -141,7 +141,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "4981f8dee1c04de6a75e48af69ada7a7"
+          }
+        ]
       }
     ]
   },

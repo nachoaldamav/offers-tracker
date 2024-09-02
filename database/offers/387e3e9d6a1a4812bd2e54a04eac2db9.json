@@ -103,10 +103,10 @@
   "publisherDisplayName": "Mad Dog Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 999,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -115,7 +115,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "79f8caf1f2c14ee28c34e3821522ccaf"
+          }
+        ]
       }
     ]
   },

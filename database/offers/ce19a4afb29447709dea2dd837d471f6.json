@@ -105,10 +105,10 @@
   "publisherDisplayName": "Atari",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 2099,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 900,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -117,7 +117,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "af480c80b95f45219d5c602025a6db33"
+          }
+        ]
       }
     ]
   },
