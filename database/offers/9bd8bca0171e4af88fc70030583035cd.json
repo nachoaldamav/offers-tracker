@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-07-05T16:00:00.000Z",
   "creationDate": "2024-06-26T12:15:25.126Z",
-  "lastModifiedDate": "2024-07-01T08:16:56.303Z",
+  "lastModifiedDate": "2024-09-03T15:02:48.308Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,14 @@
     {
       "id": "1370",
       "name": "Single Player"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     }
   ],
   "items": [
@@ -117,10 +125,10 @@
   "publisherDisplayName": "Lonely Troops",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 99,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +137,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "b39e28032db949fcad5c923e6e4407a2"
+          }
+        ]
       }
     ]
   },
