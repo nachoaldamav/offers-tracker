@@ -51,7 +51,10 @@
       "id": "1188",
       "name": "RELAXING"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1264",
       "name": "Co-op"
@@ -60,13 +63,22 @@
       "id": "1296",
       "name": "Casual"
     },
-    null,
+    {
+      "id": "21138",
+      "name": "Recommend this Game"
+    },
     {
       "id": "1299",
       "name": "Competitive"
     },
-    null,
-    null,
+    {
+      "id": "21139",
+      "name": "Amazing Characters"
+    },
+    {
+      "id": "21140",
+      "name": "Amazing Storytelling"
+    },
     {
       "id": "21141",
       "name": "Extremely Fun"
@@ -210,10 +222,36 @@
       }
     ]
   },
-  "offerMappings": null,
+  "offerMappings": [
+    {
+      "pageSlug": "among-us",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Innersloth",
   "publisherDisplayName": "Innersloth",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "b9e7e40cafcd4dce8f031916917720c8"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-12-18T17:00:00.000Z",
   "pcReleaseDate": "2018-06-15T14:36:00.000Z",
