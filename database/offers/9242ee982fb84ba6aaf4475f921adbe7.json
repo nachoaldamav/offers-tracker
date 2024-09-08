@@ -117,10 +117,10 @@
   "publisherDisplayName": "SoulTradeStudios",
   "price": {
     "totalPrice": {
-      "discountPrice": 399,
+      "discountPrice": 299,
       "originalPrice": 399,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 100,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "01cadd3a6fe04a598d60b42c80d84206"
+          }
+        ]
       }
     ]
   },
