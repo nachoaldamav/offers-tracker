@@ -95,11 +95,48 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "quasimorph-faq-0d1a17",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "quasimorph-6d2b87",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "quasimorph-6d2b87",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Magnum Scriptum",
   "publisherDisplayName": "HypeTrain Digital",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1599,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "1b8a567509e64fd3ab29cc0da9301bc6"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-02T16:00:00.000Z",
   "pcReleaseDate": "2023-10-02T16:00:00.000Z",

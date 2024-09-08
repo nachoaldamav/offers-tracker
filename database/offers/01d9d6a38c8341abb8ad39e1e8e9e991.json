@@ -119,11 +119,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "mortal-online-2-d7bb78",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "mortal-online-2-d7bb78",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Star Vault AB",
   "publisherDisplayName": "Star Vault AB",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 2000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "f81b64314a28441984d81e2777e4a2ce"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-11T11:00:00.000Z",
   "pcReleaseDate": "2023-12-11T11:00:00.000Z",

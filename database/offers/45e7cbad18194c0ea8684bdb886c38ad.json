@@ -106,11 +106,43 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "prince-of-persia-the-lost-crown--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "prince-of-persia-the-lost-crown",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "prince-of-persia-the-lost-crown--deluxe-pack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "UBISOFT MONTPELLIER",
   "publisherDisplayName": "UBISOFT",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-18T05:00:00.000Z",
   "pcReleaseDate": "2024-01-18T05:00:00.000Z",

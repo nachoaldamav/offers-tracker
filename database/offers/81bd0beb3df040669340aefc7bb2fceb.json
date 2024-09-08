@@ -87,11 +87,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "love-yuri-b962f0",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "love-yuri-b962f0",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Garakowa Marshmallow",
   "publisherDisplayName": "MediBang Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 224,
+      "originalPrice": 299,
+      "voucherDiscount": 0,
+      "discount": 75,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "c1039bafde884d78b387b616e9834c67"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-22T07:00:00.000Z",
   "pcReleaseDate": "2023-08-18T07:00:00.000Z",

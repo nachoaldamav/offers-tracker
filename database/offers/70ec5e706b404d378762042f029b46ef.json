@@ -95,11 +95,52 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "chuchel-203808",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "chuchel-chuchel-soundtrack-plus-art-book-8e15ea",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "chuchel-chuchel-cherry-edition-99e1a1",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "chuchel-203808",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Amanita Design",
   "publisherDisplayName": "Amanita Design",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 700,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "1629d458236d428bac49b1fa933efecc"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-31T12:00:00.000Z",
   "pcReleaseDate": "2018-03-07T14:00:00.000Z",

@@ -107,11 +107,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "railbreak-f87a0c",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "railbreak-f87a0c",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Dead Drop Studios LLC",
   "publisherDisplayName": "Dead Drop Studios LLC",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 799,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "5a1fb513992f4c9ba054697ede446e5d"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-23T00:00:00.000Z",
   "pcReleaseDate": "2023-12-23T00:00:00.000Z",
