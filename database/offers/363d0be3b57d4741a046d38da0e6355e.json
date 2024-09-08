@@ -182,10 +182,36 @@
       }
     ]
   },
-  "offerMappings": null,
+  "offerMappings": [
+    {
+      "pageSlug": "blazing-sails",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Get Up Games",
   "publisherDisplayName": "Iceberg Interactive",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 599,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 900,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "c736e21c4169442587cb5524347ec8da"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-12T15:00:00.000Z",
   "pcReleaseDate": "2020-11-05T15:00:00.000Z",

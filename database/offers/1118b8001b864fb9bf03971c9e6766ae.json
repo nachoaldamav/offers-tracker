@@ -118,10 +118,31 @@
       }
     ]
   },
-  "offerMappings": null,
+  "offerMappings": [],
   "developerDisplayName": "SEGA",
   "publisherDisplayName": "SEGA",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2099,
+      "originalPrice": 5999,
+      "voucherDiscount": 0,
+      "discount": 3900,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "27ede64311a54a6b83abefb97e031079"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-11-21T16:00:00.000Z",
   "pcReleaseDate": "2022-11-08T10:00:00.000Z",
