@@ -63,13 +63,22 @@
       "id": "1393",
       "name": "Simulation"
     },
-    null,
+    {
+      "id": "21138",
+      "name": "Recommend this Game"
+    },
     {
       "id": "1203",
       "name": "Multiplayer"
     },
-    null,
-    null,
+    {
+      "id": "21139",
+      "name": "Amazing Characters"
+    },
+    {
+      "id": "21140",
+      "name": "Amazing Storytelling"
+    },
     {
       "id": "21141",
       "name": "Extremely Fun"
@@ -205,10 +214,31 @@
       }
     ]
   },
-  "offerMappings": null,
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "5d05b5eb2b95484094dc47b168f3b5e2"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-12-23T16:00:00.000Z",
   "pcReleaseDate": "2020-12-23T16:00:00.000Z",
