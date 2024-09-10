@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-07-20T15:00:00.000Z",
   "creationDate": "2023-03-09T17:15:07.090Z",
-  "lastModifiedDate": "2024-07-23T06:13:37.695Z",
+  "lastModifiedDate": "2024-09-10T15:01:14.831Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1117",
@@ -121,10 +125,10 @@
   "publisherDisplayName": "NLB project",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 299,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 700,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +137,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "0bfeb409b178466d8b98d9c3a80fe353"
+          }
+        ]
       }
     ]
   },
