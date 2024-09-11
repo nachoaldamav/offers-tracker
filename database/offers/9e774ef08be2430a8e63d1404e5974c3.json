@@ -115,9 +115,27 @@
     }
   ],
   "catalogNs": {
-    "mappings": null
+    "mappings": [
+      {
+        "pageSlug": "ultros",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "ultros--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ultros--artbook-and-soundtrack",
+        "pageType": "offer"
+      }
+    ]
   },
-  "offerMappings": null,
+  "offerMappings": [
+    {
+      "pageSlug": "ultros",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Hadoque",
   "publisherDisplayName": "Kepler Interactive",
   "price": {

@@ -135,9 +135,18 @@
     }
   ],
   "catalogNs": {
-    "mappings": null
+    "mappings": [
+      {
+        "pageSlug": "hello-neighbor",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "hello-neighbor--modkit",
+        "pageType": "offer"
+      }
+    ]
   },
-  "offerMappings": null,
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
   "price": {

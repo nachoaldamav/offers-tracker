@@ -115,9 +115,26 @@
     }
   ],
   "catalogNs": {
-    "mappings": null
+    "mappings": [
+      {
+        "pageSlug": "the-settlers",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-settlers--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-settlers--deluxe-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-settlers--starter-pack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
   },
-  "offerMappings": null,
+  "offerMappings": [],
   "developerDisplayName": "Ubisoft Düsseldorf",
   "publisherDisplayName": "Ubisoft",
   "price": {

@@ -115,9 +115,22 @@
     }
   ],
   "catalogNs": {
-    "mappings": null
+    "mappings": [
+      {
+        "pageSlug": "ashen",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "ashen--dlc1",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "ashen--faq",
+        "pageType": "info"
+      }
+    ]
   },
-  "offerMappings": null,
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
   "price": {

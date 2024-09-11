@@ -66,10 +66,6 @@
     {
       "id": "1294",
       "name": "First Person"
-    },
-    {
-      "id": "38815",
-      "name": "End of Summer Sale"
     }
   ],
   "items": [
@@ -99,7 +95,24 @@
     }
   ],
   "catalogNs": {
-    "mappings": null
+    "mappings": [
+      {
+        "pageSlug": "ad-infinitum",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "ad-infinitum--supporter-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ad-infinitum--digital-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "ad-infinitum--digital-artbook",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
   },
   "offerMappings": [],
   "developerDisplayName": "Hekate",

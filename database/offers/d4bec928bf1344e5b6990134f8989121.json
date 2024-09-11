@@ -86,10 +86,6 @@
     {
       "id": "1310",
       "name": "EARLY ACCESS"
-    },
-    {
-      "id": "38815",
-      "name": "End of Summer Sale"
     }
   ],
   "items": [
@@ -119,9 +115,18 @@
     }
   ],
   "catalogNs": {
-    "mappings": null
+    "mappings": [
+      {
+        "pageSlug": "kerbal-space-program-2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "kerbal-space-program-2--early-access-faq",
+        "pageType": "info"
+      }
+    ]
   },
-  "offerMappings": null,
+  "offerMappings": [],
   "developerDisplayName": "Intercept Games",
   "publisherDisplayName": "Private Division",
   "price": {

@@ -115,9 +115,27 @@
     }
   ],
   "catalogNs": {
-    "mappings": null
+    "mappings": [
+      {
+        "pageSlug": "toem--toem-original-soundtrack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "toem--toem-and-ost-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "toem",
+        "pageType": "productHome"
+      }
+    ]
   },
-  "offerMappings": null,
+  "offerMappings": [
+    {
+      "pageSlug": "toem",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Something We Made",
   "publisherDisplayName": "Something We Made",
   "price": {

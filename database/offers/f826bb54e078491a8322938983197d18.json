@@ -104,9 +104,22 @@
     }
   ],
   "catalogNs": {
-    "mappings": null
+    "mappings": [
+      {
+        "pageSlug": "little-big-workshop",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "little-big-workshop--the-evil-dlc",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "little-big-workshop--good-vs-evil-bundle",
+        "pageType": "offer"
+      }
+    ]
   },
-  "offerMappings": null,
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
   "price": {

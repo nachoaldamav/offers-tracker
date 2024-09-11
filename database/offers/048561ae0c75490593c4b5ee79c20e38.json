@@ -115,9 +115,22 @@
     }
   ],
   "catalogNs": {
-    "mappings": null
+    "mappings": [
+      {
+        "pageSlug": "nightingale",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "nightingale--digital-art-book",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "nightingale--faq",
+        "pageType": "info"
+      }
+    ]
   },
-  "offerMappings": null,
+  "offerMappings": [],
   "developerDisplayName": "Inflexion Studios Inc.",
   "publisherDisplayName": "Inflexion Studios Inc.",
   "price": {

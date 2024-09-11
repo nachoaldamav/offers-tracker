@@ -62,10 +62,6 @@
     {
       "id": "9549",
       "name": "Controller Support"
-    },
-    {
-      "id": "38815",
-      "name": "End of Summer Sale"
     }
   ],
   "items": [
@@ -120,9 +116,23 @@
     }
   ],
   "catalogNs": {
-    "mappings": null
+    "mappings": [
+      {
+        "pageSlug": "smalland",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "smalland--faq",
+        "pageType": "info"
+      }
+    ]
   },
-  "offerMappings": null,
+  "offerMappings": [
+    {
+      "pageSlug": "smalland",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Merge Games Ltd.",
   "publisherDisplayName": "Merge Games Ltd.",
   "price": {

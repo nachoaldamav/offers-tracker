@@ -58,10 +58,6 @@
     {
       "id": "1212",
       "name": "Racing"
-    },
-    {
-      "id": "38815",
-      "name": "End of Summer Sale"
     }
   ],
   "items": [
@@ -91,9 +87,22 @@
     }
   ],
   "catalogNs": {
-    "mappings": null
+    "mappings": [
+      {
+        "pageSlug": "wreckfest--season-pass-1",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wreckfest--season-pass-2",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wreckfest",
+        "pageType": "productHome"
+      }
+    ]
   },
-  "offerMappings": null,
+  "offerMappings": [],
   "developerDisplayName": "Bugbear",
   "publisherDisplayName": "THQ Nordic",
   "price": {

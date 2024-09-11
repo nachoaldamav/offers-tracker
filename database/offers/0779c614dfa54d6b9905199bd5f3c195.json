@@ -155,9 +155,22 @@
     }
   ],
   "catalogNs": {
-    "mappings": null
+    "mappings": [
+      {
+        "pageSlug": "the-division",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-division--season-pass",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-division--gold-edition",
+        "pageType": "offer"
+      }
+    ]
   },
-  "offerMappings": null,
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
   "price": {

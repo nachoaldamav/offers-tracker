@@ -54,10 +54,6 @@
     {
       "id": "1263",
       "name": "Indie"
-    },
-    {
-      "id": "38815",
-      "name": "End of Summer Sale"
     }
   ],
   "items": [
@@ -87,9 +83,26 @@
     }
   ],
   "catalogNs": {
-    "mappings": null
+    "mappings": [
+      {
+        "pageSlug": "chants-of-sennaar",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "chants-of-sennaar--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "chants-of-sennaar--original-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "chants-of-sennaar--game-ost",
+        "pageType": "offer"
+      }
+    ]
   },
-  "offerMappings": null,
+  "offerMappings": [],
   "developerDisplayName": "Rundisc",
   "publisherDisplayName": "Focus Entertainment",
   "price": {

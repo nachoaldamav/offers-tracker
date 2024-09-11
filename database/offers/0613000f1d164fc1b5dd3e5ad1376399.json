@@ -98,10 +98,6 @@
     {
       "id": "21119",
       "name": "Great for Beginners"
-    },
-    {
-      "id": "38815",
-      "name": "End of Summer Sale"
     }
   ],
   "items": [
@@ -131,9 +127,30 @@
     }
   ],
   "catalogNs": {
-    "mappings": null
+    "mappings": [
+      {
+        "pageSlug": "midnight-ghost-hunt--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "midnight-ghost-hunt",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "midnight-ghost-hunt--early-backer-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "midnight-ghost-hunt--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "midnight-ghost-hunt--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
   },
-  "offerMappings": null,
+  "offerMappings": [],
   "developerDisplayName": "Vaulted Sky Games",
   "publisherDisplayName": "Coffee Stain Publishing",
   "price": {

@@ -91,9 +91,26 @@
     }
   ],
   "catalogNs": {
-    "mappings": null
+    "mappings": [
+      {
+        "pageSlug": "scorn",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "scorn--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "scorn--original-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "scorn--digital-artbook",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
   },
-  "offerMappings": null,
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
   "price": {
