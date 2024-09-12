@@ -43,7 +43,10 @@
   "urlSlug": "frostpunk",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1188",
+      "name": "RELAXING"
+    },
     {
       "id": "21894",
       "name": "Cloud Saves"
@@ -64,7 +67,10 @@
       "id": "21137",
       "name": "Unique Visuals"
     },
-    null,
+    {
+      "id": "21138",
+      "name": "Recommend this Game"
+    },
     {
       "id": "21139",
       "name": "Amazing Characters"
@@ -180,10 +186,31 @@
       }
     ]
   },
-  "offerMappings": null,
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 449,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 2550,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "1596b2834c744baa9d37ab74fa4f6a29"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-06-03T15:00:00.000Z",
   "pcReleaseDate": "2021-06-03T15:00:00.000Z",
