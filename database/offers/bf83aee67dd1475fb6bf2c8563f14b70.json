@@ -47,7 +47,10 @@
       "id": "1188",
       "name": "RELAXING"
     },
-    null,
+    {
+      "id": "21894",
+      "name": "Cloud Saves"
+    },
     {
       "id": "21127",
       "name": "Creative Community"
@@ -89,6 +92,10 @@
     {
       "id": "21119",
       "name": "Great for Beginners"
+    },
+    {
+      "id": "38815",
+      "name": "End of Summer Sale"
     }
   ],
   "items": [
@@ -409,10 +416,31 @@
       }
     ]
   },
-  "offerMappings": null,
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 899,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 2100,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "49dbaaf38c124b4788479ef61fc0d8c3"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-12-17T16:00:00.000Z",
   "pcReleaseDate": null,
