@@ -166,10 +166,36 @@
       }
     ]
   },
-  "offerMappings": null,
+  "offerMappings": [
+    {
+      "pageSlug": "nightingale",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Inflexion Games",
   "publisherDisplayName": "Inflexion Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1799,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 1200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "5f998615967748ed9a5ccc4fd3c1be64"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-02-20T17:00:00.000Z",
   "pcReleaseDate": "2024-02-20T17:00:00.000Z",
