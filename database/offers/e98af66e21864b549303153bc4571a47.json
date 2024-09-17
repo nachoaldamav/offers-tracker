@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-06-21T16:00:00.000Z",
   "creationDate": "2023-08-25T06:16:54.407Z",
-  "lastModifiedDate": "2024-06-14T19:12:57.126Z",
+  "lastModifiedDate": "2024-09-17T15:02:28.191Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,6 +42,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1212",
@@ -113,10 +117,10 @@
   "publisherDisplayName": "That's a Bad Kitty!",
   "price": {
     "totalPrice": {
-      "discountPrice": 1699,
+      "discountPrice": 1359,
       "originalPrice": 1699,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 340,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "67f0855269e548f79a29d4436337dbe5"
+          }
+        ]
       }
     ]
   },
