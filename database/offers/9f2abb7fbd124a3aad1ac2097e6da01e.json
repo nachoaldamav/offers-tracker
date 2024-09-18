@@ -134,11 +134,59 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "wrc-23",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "wrc",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "wrc--season-1-vip-rally-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wrc--season-2-vip-rally-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wrc--season-3-vip-rally-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wrc--season-4-vip-rally-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wrc--season-5-vip-rally-pass",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Codemasters",
   "publisherDisplayName": "Electronic Arts",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-11-03T04:00:00.000Z",
   "pcReleaseDate": "2023-11-03T04:00:00.000Z",

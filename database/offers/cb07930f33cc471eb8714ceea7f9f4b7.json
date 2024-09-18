@@ -87,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "neon-city-climbing-simulator-c917dd",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "neon-city-climbing-simulator-c917dd",
@@ -96,7 +103,28 @@
   ],
   "developerDisplayName": "Samet Acar",
   "publisherDisplayName": "UPCELL TELEKOMUNIKASYON LIMITED SIRKETI",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 49,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 50,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "8f65c593d79b4ac0b41ead4d74f24583"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-06T12:00:00.000Z",
   "pcReleaseDate": "2023-10-31T17:00:00.000Z",
