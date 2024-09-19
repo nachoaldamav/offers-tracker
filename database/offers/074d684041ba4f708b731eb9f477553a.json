@@ -109,10 +109,10 @@
   "publisherDisplayName": "Robot Gentleman",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 499,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +121,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "773dde4644a74b0cab0c6d3ce9541527"
+          }
+        ]
       }
     ]
   },
