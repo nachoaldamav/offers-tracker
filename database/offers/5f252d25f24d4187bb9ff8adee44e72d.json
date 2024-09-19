@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-12-17T16:00:00.000Z",
   "creationDate": "2020-06-13T06:16:15.532Z",
-  "lastModifiedDate": "2024-08-29T09:53:52.920Z",
+  "lastModifiedDate": "2024-09-19T15:04:27.111Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -72,6 +72,10 @@
       "name": "Windows"
     },
     {
+      "id": "35244",
+      "name": "Epic Savings"
+    },
+    {
       "id": "10719",
       "name": "Mac OS"
     }
@@ -131,10 +135,10 @@
   "publisherDisplayName": "Freedom Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 874,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1625,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -143,7 +147,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "6fd5db1659b04efeba02858d50ebb375"
+          }
+        ]
       }
     ]
   },

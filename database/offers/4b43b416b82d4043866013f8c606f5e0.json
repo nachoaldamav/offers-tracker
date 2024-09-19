@@ -159,10 +159,10 @@
   "publisherDisplayName": "Coffee Stain Publishing AB",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 1199,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1800,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -171,7 +171,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "79f908d55c1542f1b361b530f5594104"
+          }
+        ]
       }
     ]
   },

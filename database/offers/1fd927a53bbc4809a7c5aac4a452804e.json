@@ -125,10 +125,10 @@
   "publisherDisplayName": "Adrián Corbalán",
   "price": {
     "totalPrice": {
-      "discountPrice": 199,
+      "discountPrice": 169,
       "originalPrice": 199,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 30,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -137,7 +137,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "cc3239274f1445d498a83ba532099cd2"
+          }
+        ]
       }
     ]
   },

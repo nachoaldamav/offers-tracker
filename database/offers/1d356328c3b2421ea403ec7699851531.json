@@ -113,10 +113,10 @@
   "publisherDisplayName": "Molance Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 299,
+      "discountPrice": 200,
       "originalPrice": 299,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 99,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "f401e42375c94399a06204772e832760"
+          }
+        ]
       }
     ]
   },

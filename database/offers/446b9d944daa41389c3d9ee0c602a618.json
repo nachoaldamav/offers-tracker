@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-01-27T08:00:00.000Z",
   "creationDate": "2022-01-04T17:28:52.756Z",
-  "lastModifiedDate": "2024-08-29T09:53:52.898Z",
+  "lastModifiedDate": "2024-09-19T15:04:27.108Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,6 +42,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "35244",
+      "name": "Epic Savings"
     },
     {
       "id": "1263",
@@ -101,10 +105,10 @@
   "publisherDisplayName": "Freedom Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 494,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1005,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -113,7 +117,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "93f12bd00ee1483e8cd0a839967a1661"
+          }
+        ]
       }
     ]
   },
