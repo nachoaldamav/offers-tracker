@@ -113,10 +113,10 @@
   "publisherDisplayName": "Firesquid",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 1499,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "7457dded93764e08854a61d96ca3da47"
+          }
+        ]
       }
     ]
   },
