@@ -138,10 +138,36 @@
       }
     ]
   },
-  "offerMappings": null,
+  "offerMappings": [
+    {
+      "pageSlug": "kraken-academy",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Happy Broccoli Games",
   "publisherDisplayName": "Fellow Traveller",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 539,
+      "originalPrice": 1799,
+      "voucherDiscount": 0,
+      "discount": 1260,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "8c832c559ac04ea6a8b94fc381073905"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-09-03T16:00:00.000Z",
   "pcReleaseDate": "2021-09-10T16:00:00.000Z",
