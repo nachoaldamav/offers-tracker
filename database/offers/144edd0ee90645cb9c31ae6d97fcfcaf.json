@@ -31,7 +31,10 @@
   "urlSlug": "e275bea709b14063b3902af8d0deadf0",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
     {
       "id": "21122",
       "name": "Diverse Characters"
@@ -56,7 +59,10 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
     {
       "id": "1264",
       "name": "Co-op"
@@ -169,10 +175,32 @@
       }
     ]
   },
-  "offerMappings": null,
+  "offerMappings": [
+    {
+      "pageSlug": "combo-a7e03a",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Robot Entertainment",
   "publisherDisplayName": "Robot Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-05-02T15:00:00.000Z",
   "pcReleaseDate": "2021-07-23T17:00:00.000Z",
