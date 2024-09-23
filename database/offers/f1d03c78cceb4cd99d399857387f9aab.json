@@ -31,7 +31,10 @@
   "urlSlug": "4565936abbdc4a3aa98e1b375b6d70fc",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
     {
       "id": "1264",
       "name": "Co-op"
@@ -60,6 +63,11 @@
     {
       "id": "34568",
       "name": "Cat discount"
+    },
+    null,
+    {
+      "id": "9547",
+      "name": "Windows"
     }
   ],
   "items": [
@@ -109,10 +117,36 @@
       }
     ]
   },
-  "offerMappings": null,
+  "offerMappings": [
+    {
+      "pageSlug": "dead-space-3-5a3755",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Visceral Games",
   "publisherDisplayName": "Electronic Arts",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "a8ab516e486240f596321fbd27d3c913"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-04-01T20:00:00.000Z",
   "pcReleaseDate": "2013-02-04T23:00:00.000Z",
