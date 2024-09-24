@@ -97,10 +97,10 @@
   "publisherDisplayName": "Eathrabaria",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 449,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 50,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -109,7 +109,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "0f88817617bf4dbfab45d85c2f15e8a1"
+          }
+        ]
       }
     ]
   },
