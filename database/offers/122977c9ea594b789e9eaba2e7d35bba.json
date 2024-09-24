@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-04-15T11:00:00.000Z",
   "creationDate": "2024-04-11T05:16:06.687Z",
-  "lastModifiedDate": "2024-08-29T09:53:52.934Z",
+  "lastModifiedDate": "2024-09-24T15:00:00.413Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1294",
@@ -117,10 +121,10 @@
   "publisherDisplayName": "Jacob.K.Jufeili",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 699,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 300,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "ed795667c019479ea9e9f534928fe1e9"
+          }
+        ]
       }
     ]
   },

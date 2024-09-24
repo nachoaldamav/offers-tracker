@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-02-22T23:27:31.866Z",
   "creationDate": "2023-06-08T21:08:27.748Z",
-  "lastModifiedDate": "2024-09-16T18:01:14.524Z",
+  "lastModifiedDate": "2024-09-24T15:00:00.413Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1310",
@@ -120,10 +124,10 @@
   "publisherDisplayName": "MXR",
   "price": {
     "totalPrice": {
-      "discountPrice": 3999,
+      "discountPrice": 2399,
       "originalPrice": 3999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1600,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -132,7 +136,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "e857e9f0152341ac8885e8f8a6dcd6cc"
+          }
+        ]
       }
     ]
   },

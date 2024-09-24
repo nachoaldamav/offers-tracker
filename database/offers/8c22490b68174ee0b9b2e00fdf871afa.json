@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-02-29T06:00:00.000Z",
   "creationDate": "2024-01-30T04:31:56.061Z",
-  "lastModifiedDate": "2024-05-17T00:12:47.234Z",
+  "lastModifiedDate": "2024-09-24T15:00:00.409Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,6 +42,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     }
   ],
   "items": [
@@ -377,10 +381,10 @@
   "publisherDisplayName": "Gotcha Gotcha Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 9999,
+      "discountPrice": 6999,
       "originalPrice": 9999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 3000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -389,7 +393,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "2ec379cf7a9948d398335e6854a988f9"
+          }
+        ]
       }
     ]
   },
