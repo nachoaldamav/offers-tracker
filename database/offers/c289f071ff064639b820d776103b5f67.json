@@ -233,10 +233,10 @@
   "publisherDisplayName": "D3PUBLISHER",
   "price": {
     "totalPrice": {
-      "discountPrice": 4999,
+      "discountPrice": 4499,
       "originalPrice": 4999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -245,7 +245,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "ed7c858e4b054f089152f2f7cd29eae2"
+          }
+        ]
       }
     ]
   },
