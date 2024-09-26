@@ -125,10 +125,10 @@
   "publisherDisplayName": "Retroware",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1799,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -137,7 +137,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "e6de21c748a04d4e866c10cf9e2cf867"
+          }
+        ]
       }
     ]
   },
