@@ -35,8 +35,14 @@
       "id": "1367",
       "name": "RPG"
     },
-    null,
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1294",
       "name": "First Person"
@@ -99,10 +105,10 @@
   "publisherDisplayName": "Thermae",
   "price": {
     "totalPrice": {
-      "discountPrice": 1699,
+      "discountPrice": 849,
       "originalPrice": 1699,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 850,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -111,7 +117,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "16a45eefc2ba4929a3d4733b5e6f99a1"
+          }
+        ]
       }
     ]
   },
