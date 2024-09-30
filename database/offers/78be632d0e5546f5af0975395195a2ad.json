@@ -105,10 +105,10 @@
   "publisherDisplayName": "Kudou",
   "price": {
     "totalPrice": {
-      "discountPrice": 249,
+      "discountPrice": 124,
       "originalPrice": 249,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 125,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -117,7 +117,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "45b38e382c524666ab9dfedef32c04ee"
+          }
+        ]
       }
     ]
   },
