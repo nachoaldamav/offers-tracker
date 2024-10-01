@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-07-18T07:00:00.000Z",
   "creationDate": "2022-03-07T09:48:14.349Z",
-  "lastModifiedDate": "2024-07-17T11:44:52.358Z",
+  "lastModifiedDate": "2024-10-01T15:09:37.723Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     }
   ],
   "items": [
@@ -113,10 +117,10 @@
   "publisherDisplayName": "Kepler Interactive",
   "price": {
     "totalPrice": {
-      "discountPrice": 3999,
+      "discountPrice": 2799,
       "originalPrice": 3999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "63ca1f4124374696ace44d4cf717a5cf"
+          }
+        ]
       }
     ]
   },

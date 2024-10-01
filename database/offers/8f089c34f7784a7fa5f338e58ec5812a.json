@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-03-01T06:00:00.000Z",
   "creationDate": "2023-12-02T15:32:45.801Z",
-  "lastModifiedDate": "2024-08-29T09:53:52.906Z",
+  "lastModifiedDate": "2024-10-01T15:09:37.723Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1151",
@@ -117,10 +121,10 @@
   "publisherDisplayName": "Patrick Collins",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 799,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "27c68f37f0934d77853fb381736b3f34"
+          }
+        ]
       }
     ]
   },
