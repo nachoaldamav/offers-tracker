@@ -43,8 +43,14 @@
       "id": "1367",
       "name": "RPG"
     },
-    null,
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "35244",
       "name": "Epic Savings"
@@ -101,7 +107,28 @@
   ],
   "developerDisplayName": "Nominia",
   "publisherDisplayName": "Nominia",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "32c3d4144ff14f5f916e6e9d7f648d27"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-11-15T01:00:00.000Z",
   "pcReleaseDate": "2016-10-13T15:00:00.000Z",

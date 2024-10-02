@@ -31,22 +31,41 @@
   "urlSlug": "c4f2dc8da8044080a972c03c065ad888",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1264",
+      "name": "Co-op"
+    },
     {
       "id": "1218",
       "name": "Horror"
     },
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1336",
       "name": "Action-Adventure"
     },
-    null,
-    null,
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
     {
       "id": "1198",
       "name": "Retro"
+    },
+    {
+      "id": "1183",
+      "name": "Local Multiplayer"
     }
   ],
   "items": [
@@ -84,7 +103,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "outbreak-the-new-nightmare-revisited-90517a",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "outbreak-the-new-nightmare-revisited-90517a",
@@ -93,7 +119,24 @@
   ],
   "developerDisplayName": "Dead Drop Studios LLC",
   "publisherDisplayName": "Dead Drop Studios LLC",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-11-08T15:00:00.000Z",
   "pcReleaseDate": "2023-11-08T15:00:00.000Z",
