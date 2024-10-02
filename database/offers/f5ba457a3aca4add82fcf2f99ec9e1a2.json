@@ -51,14 +51,8 @@
       "id": "19847",
       "name": "Achievements"
     },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
+    null,
     {
       "id": "35244",
       "name": "Epic Savings"
@@ -127,7 +121,28 @@
   ],
   "developerDisplayName": "Digitality Games",
   "publisherDisplayName": "Freedom Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1199,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 800,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "028703e92bfc4ed5aac5d9148ac2129d"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-02-27T17:00:00.000Z",
   "pcReleaseDate": "2023-02-27T17:00:00.000Z",

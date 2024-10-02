@@ -55,10 +55,7 @@
       "id": "19847",
       "name": "Achievements"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "9549",
       "name": "Controller Support"
@@ -79,10 +76,7 @@
       "id": "21141",
       "name": "Extremely Fun"
     },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
+    null,
     {
       "id": "1307",
       "name": "Open World"
@@ -126,11 +120,35 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Rockstar Games  ",
   "publisherDisplayName": "Rockstar Games  ",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-02-15T14:00:00.000Z",
   "pcReleaseDate": "2004-10-26T08:44:00.000Z",

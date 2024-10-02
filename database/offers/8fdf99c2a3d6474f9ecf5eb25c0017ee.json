@@ -43,14 +43,8 @@
       "id": "1336",
       "name": "Action-Adventure"
     },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
+    null,
     {
       "id": "9549",
       "name": "Controller Support"
@@ -111,7 +105,24 @@
   ],
   "developerDisplayName": "Salt & Pixel LLC",
   "publisherDisplayName": "VoxPop Games, Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-20T05:00:00.000Z",
   "pcReleaseDate": "2023-04-20T05:00:00.000Z",
