@@ -96,7 +96,22 @@
       "path": "games/edition"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "maneater",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "maneater--apex-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "maneater--truth-quest",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "maneater--apex-edition",
@@ -105,7 +120,24 @@
   ],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-08-31T15:00:00.000Z",
   "pcReleaseDate": "2020-05-22T09:00:00.000Z",
