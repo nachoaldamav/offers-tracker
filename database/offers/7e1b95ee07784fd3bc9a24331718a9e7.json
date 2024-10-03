@@ -163,10 +163,10 @@
   "publisherDisplayName": "Ubisoft",
   "price": {
     "totalPrice": {
-      "discountPrice": 6999,
+      "discountPrice": 3499,
       "originalPrice": 6999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 3500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -175,7 +175,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "cfa381eea7fe4252802bfad7a650b3cf"
+          }
+        ]
       }
     ]
   },
