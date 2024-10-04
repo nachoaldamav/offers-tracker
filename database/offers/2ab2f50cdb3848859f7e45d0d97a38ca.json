@@ -109,10 +109,10 @@
   "publisherDisplayName": "Headup Publishing",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 149,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1350,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +121,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "e56b172cf1524a64be7f636b04958d76"
+          }
+        ]
       }
     ]
   },
