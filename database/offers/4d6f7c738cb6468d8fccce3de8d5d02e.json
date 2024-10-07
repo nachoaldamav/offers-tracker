@@ -158,11 +158,67 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-dungeon-of-naheulbeuk--ruins-of-limis",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-dungeon-of-naheulbeuk--official-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-dungeon-of-naheulbeuk--goodies-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-dungeon-of-naheulbeuk",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-dungeon-of-naheulbeuk--ultimate-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-dungeon-of-naheulbeuk--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-dungeon-of-naheulbeuk--season-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-dungeon-of-naheulbeuk--splat-jaypaks-arenas",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-dungeon-of-naheulbeuk--back-to-the-futon",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3499,
+      "originalPrice": 3499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-09-17T15:00:00.000Z",
   "pcReleaseDate": "2020-09-17T15:00:00.000Z",

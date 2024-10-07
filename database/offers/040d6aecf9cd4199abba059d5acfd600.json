@@ -63,8 +63,14 @@
       "id": "1203",
       "name": "Multiplayer"
     },
-    null,
-    null,
+    {
+      "id": "1110",
+      "name": "Party"
+    },
+    {
+      "id": "1400",
+      "name": "Physics"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -76,9 +82,7 @@
     {
       "id": "1116",
       "name": "Comedy"
-    },
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -114,11 +118,35 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "surgeon-simulator-2",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-08-27T16:00:00.000Z",
   "pcReleaseDate": "2020-08-27T16:00:00.000Z",
