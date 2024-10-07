@@ -31,7 +31,10 @@
   "urlSlug": "3692f20ec7034550b1985f4f962e4276",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "31313",
+      "name": "First Run"
+    },
     {
       "id": "1080",
       "name": "Survival"
@@ -100,7 +103,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "carpathian-survival-fbd84c",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "carpathian-survival-faq-edb9e8",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "carpathian-survival-fbd84c",
@@ -109,7 +123,24 @@
   ],
   "developerDisplayName": "Arnold Popescu",
   "publisherDisplayName": "ARN IT SOFTWARE",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-31T00:00:00.000Z",
   "pcReleaseDate": "2024-12-31T00:00:00.000Z",

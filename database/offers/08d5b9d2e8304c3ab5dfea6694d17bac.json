@@ -55,7 +55,10 @@
       "id": "1188",
       "name": "RELAXING"
     },
-    null,
+    {
+      "id": "21140",
+      "name": "Amazing Storytelling"
+    },
     {
       "id": "21141",
       "name": "Extremely Fun"
@@ -87,8 +90,7 @@
     {
       "id": "21119",
       "name": "Great for Beginners"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -124,11 +126,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "assassins-creed-2",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "d91576b5573e408c9b27f601d4aca3d3"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-10-06T15:00:00.000Z",
   "pcReleaseDate": "2014-11-11T15:00:00.000Z",

@@ -79,7 +79,10 @@
       "id": "21139",
       "name": "Amazing Characters"
     },
-    null,
+    {
+      "id": "21140",
+      "name": "Amazing Storytelling"
+    },
     {
       "id": "21141",
       "name": "Extremely Fun"
@@ -95,8 +98,7 @@
     {
       "id": "21119",
       "name": "Great for Beginners"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -132,11 +134,67 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "steep--rocket-wings-dlc",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "steep--season-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "steep--90s-dlc",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "steep--x-games-dlc",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "steep--x-games-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "steep--x-games-gold-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "steep--road-to-the-olympics-dlc",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "steep",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 449,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 2550,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "2fdad8221f3e4e10962ce1e871954d40"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2016-12-02T08:00:00.000Z",
   "pcReleaseDate": null,

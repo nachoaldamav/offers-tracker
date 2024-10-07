@@ -31,7 +31,10 @@
   "urlSlug": "8807c103e80940a7afd1a67f618f7e73",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "31313",
+      "name": "First Run"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -84,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "hardgame-b6e8b3",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "hardgame-b6e8b3",
@@ -93,7 +103,24 @@
   ],
   "developerDisplayName": "Ytalo",
   "publisherDisplayName": "Ytalo",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 399,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",

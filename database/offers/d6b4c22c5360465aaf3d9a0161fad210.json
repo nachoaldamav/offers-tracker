@@ -71,7 +71,10 @@
       "id": "21139",
       "name": "Amazing Characters"
     },
-    null,
+    {
+      "id": "21140",
+      "name": "Amazing Storytelling"
+    },
     {
       "id": "21109",
       "name": "Great Boss Battles"
@@ -103,8 +106,7 @@
     {
       "id": "21119",
       "name": "Great for Beginners"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -148,11 +150,71 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "assassins-creed-valhalla--the-siege-of-paris",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "assassins-creed-valhalla--season-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "assassins-creed-valhalla",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "assassins-creed-valhalla--wrath-of-the-druids",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "assassins-creed-valhalla--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-valhalla--ragnarok-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-valhalla--dawn-of-ragnarok",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "assassins-creed-valhalla--assassins-creed-valhalla-faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "assassins-creed-valhalla--complete-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 5999,
+      "voucherDiscount": 0,
+      "discount": 4500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "636e016d3543469e8d27dd0b2def13cf"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": false,
   "releaseDate": "2020-11-17T15:00:00.000Z",
   "pcReleaseDate": null,

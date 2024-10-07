@@ -71,7 +71,10 @@
       "id": "21139",
       "name": "Amazing Characters"
     },
-    null,
+    {
+      "id": "21140",
+      "name": "Amazing Storytelling"
+    },
     {
       "id": "21109",
       "name": "Great Boss Battles"
@@ -91,8 +94,7 @@
     {
       "id": "21119",
       "name": "Great for Beginners"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -132,11 +134,71 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "immortals-fenyx-rising--myths-of-the-eastern-realm",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "immortals-fenyx-rising--ulimate-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "immortals-fenyx-rising--season-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "immortals-fenyx-rising--the-lost-gods",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "immortals-fenyx-rising--a-new-god",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "immortals-fenyx-rising--starter-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "immortals-fenyx-rising",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "immortals-fenyx-rising--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "immortals-fenyx-rising--gold-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 799,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 3200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "cb574cabeefb4f93af0a54bb582fc219"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": false,
   "releaseDate": "2020-12-03T16:00:00.000Z",
   "pcReleaseDate": "2020-12-03T16:00:00.000Z",

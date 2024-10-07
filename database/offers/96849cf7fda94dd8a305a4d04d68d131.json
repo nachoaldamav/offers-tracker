@@ -111,7 +111,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "teenage-mutant-ninja-turtles-splintered-fate-0722ac",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "teenage-mutant-ninja-turtles-splintered-fate-0722ac",
@@ -120,7 +127,24 @@
   ],
   "developerDisplayName": "Super Evil Megacorp",
   "publisherDisplayName": "Super Evil Megacorp",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-11-06T00:00:00.000Z",
   "pcReleaseDate": "2024-11-06T00:00:00.000Z",

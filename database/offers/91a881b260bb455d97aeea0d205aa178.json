@@ -95,7 +95,10 @@
       "id": "21139",
       "name": "Amazing Characters"
     },
-    null,
+    {
+      "id": "21140",
+      "name": "Amazing Storytelling"
+    },
     {
       "id": "21141",
       "name": "Extremely Fun"
@@ -111,8 +114,7 @@
     {
       "id": "21149",
       "name": "Quickly Understand the Controls"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -148,11 +150,51 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "diabotical--big-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "diabotical--fan-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "diabotical",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "diabotical--starter-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "diabotical--standard-pack",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-09-03T13:00:00.000Z",
   "pcReleaseDate": "2020-09-03T13:00:00.000Z",

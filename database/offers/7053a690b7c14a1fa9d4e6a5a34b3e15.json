@@ -31,7 +31,10 @@
   "urlSlug": "956c96535bc54815a0d97aba742ae8e9",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1298",
+      "name": "Puzzle"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -47,8 +50,7 @@
     {
       "id": "1151",
       "name": "Platformer"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -89,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "hannahs-day-429a55",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "hannahs-day-429a55",
@@ -98,7 +107,24 @@
   ],
   "developerDisplayName": "Watt Games",
   "publisherDisplayName": "Watt Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1299,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-07-25T00:00:00.000Z",
   "pcReleaseDate": "2024-07-25T07:00:00.000Z",

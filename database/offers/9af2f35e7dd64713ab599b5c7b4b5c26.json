@@ -31,7 +31,10 @@
   "urlSlug": "31a3f5baf2384a26b31ad089214b2ccc",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1298",
+      "name": "Puzzle"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -47,8 +50,7 @@
     {
       "id": "1294",
       "name": "First Person"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -89,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "total-reload-635f1c",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "total-reload-635f1c",
@@ -98,7 +107,24 @@
   ],
   "developerDisplayName": "TORSHOCK",
   "publisherDisplayName": "TORSHOCK",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-01-15T00:00:00.000Z",
   "pcReleaseDate": "2025-01-15T00:00:00.000Z",
