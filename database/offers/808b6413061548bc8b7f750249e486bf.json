@@ -103,7 +103,28 @@
   ],
   "developerDisplayName": "ClockStone",
   "publisherDisplayName": "Headup Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 99,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 900,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "3a09c22450474f35b71e380385595346"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-08T16:00:00.000Z",
   "pcReleaseDate": "2013-10-16T08:00:00.000Z",
