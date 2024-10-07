@@ -87,7 +87,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "openseason-75e993",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "openseason-faq-e2a75c",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "openseason-75e993",
@@ -96,7 +107,24 @@
   ],
   "developerDisplayName": "Fractional Uprising Studios",
   "publisherDisplayName": "Fractional Uprising Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-05T17:00:00.000Z",
   "pcReleaseDate": "2024-02-29T17:00:00.000Z",
