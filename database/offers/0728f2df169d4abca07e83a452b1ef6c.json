@@ -122,11 +122,43 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "honkai-star-rail",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "honkai-star-rail--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "honkai-star-rail--epic-mega-sale-event-bundle",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "COGNOSPHERE PTE. LTD.",
   "publisherDisplayName": "COGNOSPHERE PTE. LTD.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-26T00:30:00.000Z",
   "pcReleaseDate": "2023-04-26T00:30:00.000Z",
