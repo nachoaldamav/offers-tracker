@@ -47,7 +47,10 @@
   "urlSlug": "anisegeneralaudience",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
     {
       "id": "1367",
       "name": "RPG"
@@ -64,19 +67,11 @@
       "id": "21147",
       "name": "Inclusive Character Customization"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1084",
       "name": "Stealth"
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -112,11 +107,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "assassins-creed-3",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 3000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "bc82dca29fcd417eb2dd323594966752"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2019-03-29T15:00:00.000Z",
   "pcReleaseDate": null,

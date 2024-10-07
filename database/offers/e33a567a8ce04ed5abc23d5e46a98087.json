@@ -43,19 +43,16 @@
   "urlSlug": "opalgeneralaudience",
   "url": null,
   "tags": [
-    {
-      "id": "21894",
-      "name": "Cloud Saves"
-    },
     null,
+    {
+      "id": "1287",
+      "name": "Fantasy"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1117",
       "name": "Adventure"
@@ -67,8 +64,7 @@
     {
       "id": "10719",
       "name": "Mac OS"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -108,11 +104,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "mutazione",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 739,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1260,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "dcdd4368e2ab49c5be9d7230bc0560d3"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-03-04T16:00:00.000Z",
   "pcReleaseDate": null,

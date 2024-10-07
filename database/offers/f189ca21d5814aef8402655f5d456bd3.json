@@ -35,7 +35,10 @@
   "urlSlug": "metro-exodus-standard-edition",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
     {
       "id": "21122",
       "name": "Diverse Characters"
@@ -44,22 +47,13 @@
       "id": "1188",
       "name": "RELAXING"
     },
-    {
-      "id": "21894",
-      "name": "Cloud Saves"
-    },
+    null,
     {
       "id": "21127",
       "name": "Creative Community"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support"
-    },
+    null,
+    null,
     {
       "id": "1294",
       "name": "First Person"
@@ -103,8 +97,7 @@
     {
       "id": "21119",
       "name": "Great for Beginners"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -144,11 +137,59 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "metro-exodus--sams-story",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "metro-exodus--expansion-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "metro-exodus--sdk",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "metro-exodus--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "metro-exodus--the-two-colonels",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "metro-exodus",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "metro-exodus--gold-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2019-02-15T15:00:00.000Z",
   "pcReleaseDate": null,

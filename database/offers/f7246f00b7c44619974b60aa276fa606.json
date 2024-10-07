@@ -51,10 +51,7 @@
       "id": "19943",
       "name": "Ubisoft Publisher Sale"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1212",
       "name": "Racing"
@@ -94,11 +91,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "trackmania-turbo",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1599,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 2400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "ffa5e46e4e3d43c891286fd9206029de"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2016-03-24T15:00:00.000Z",
   "pcReleaseDate": null,

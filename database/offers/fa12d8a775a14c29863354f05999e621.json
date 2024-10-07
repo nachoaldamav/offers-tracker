@@ -39,18 +39,12 @@
       "id": "1298",
       "name": "Puzzle"
     },
-    {
-      "id": "21894",
-      "name": "Cloud Saves"
-    },
+    null,
     {
       "id": "1370",
       "name": "Single Player"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1102",
       "name": "Programming"
@@ -94,11 +88,35 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "human-resource-machine",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Tomorrow Corporation",
   "publisherDisplayName": "Tomorrow Corporation",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2015-10-15T15:00:00.000Z",
   "pcReleaseDate": null,

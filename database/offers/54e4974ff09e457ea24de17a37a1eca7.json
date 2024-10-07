@@ -43,28 +43,24 @@
   "urlSlug": "palilageneralaudience",
   "url": null,
   "tags": [
-    {
-      "id": "21894",
-      "name": "Cloud Saves"
-    },
+    null,
     {
       "id": "1370",
       "name": "Single Player"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1117",
       "name": "Adventure"
     },
-    null,
+    {
+      "id": "1151",
+      "name": "Platformer"
+    },
     {
       "id": "1263",
       "name": "Indie"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -100,11 +96,35 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "horace",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2019-07-18T16:00:00.000Z",
   "pcReleaseDate": null,

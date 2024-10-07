@@ -51,10 +51,7 @@
       "id": "1370",
       "name": "Single Player"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1117",
       "name": "Adventure"
@@ -63,7 +60,10 @@
       "id": "21150",
       "name": "Challenging Puzzles"
     },
-    null
+    {
+      "id": "1151",
+      "name": "Platformer"
+    }
   ],
   "items": [
     {
@@ -103,11 +103,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "hue",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 1200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "22c4c4c9343b42959d8403462ee0564b"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-07-02T15:00:00.000Z",
   "pcReleaseDate": "2016-08-28T11:00:00.000Z",

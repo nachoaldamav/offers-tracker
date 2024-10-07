@@ -31,7 +31,10 @@
   "urlSlug": "tautoggeneralaudience",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
     {
       "id": "21122",
       "name": "Diverse Characters"
@@ -44,10 +47,7 @@
       "id": "19943",
       "name": "Ubisoft Publisher Sale"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1294",
       "name": "First Person"
@@ -95,8 +95,7 @@
     {
       "id": "21119",
       "name": "Great for Beginners"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -132,11 +131,47 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "far-cry-4--gold-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "far-cry-4--season-pass",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "far-cry-4",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 599,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 2400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "c57971d29d1640eabf11e58d4d88dd71"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2014-11-18T16:00:00.000Z",
   "pcReleaseDate": null,

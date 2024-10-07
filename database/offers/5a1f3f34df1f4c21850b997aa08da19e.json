@@ -51,22 +51,13 @@
       "id": "1381",
       "name": "Exploration"
     },
-    {
-      "id": "21894",
-      "name": "Cloud Saves"
-    },
+    null,
     {
       "id": "21127",
       "name": "Creative Community"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support"
-    },
+    null,
+    null,
     {
       "id": "21138",
       "name": "Recommend this Game"
@@ -134,11 +125,43 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "outerwilds--echoes-of-the-eye",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "outerwilds",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "outerwilds--archaeologist-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2019-05-28T15:00:00.000Z",
   "pcReleaseDate": null,

@@ -35,7 +35,10 @@
   "urlSlug": "ghostbusters-the-video-game-remastered",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
     {
       "id": "21109",
       "name": "Great Boss Battles"
@@ -44,15 +47,11 @@
       "id": "1370",
       "name": "Single Player"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1117",
       "name": "Adventure"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -84,11 +83,35 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ghostbusters-the-video-game-remastered",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Saber Interactive",
   "publisherDisplayName": "Mad Dog Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2019-10-04T15:00:00.000Z",
   "pcReleaseDate": null,

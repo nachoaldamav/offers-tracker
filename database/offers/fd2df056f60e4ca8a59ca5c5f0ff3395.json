@@ -39,7 +39,10 @@
   "urlSlug": "wolffishgeneralaudience",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
     {
       "id": "21109",
       "name": "Great Boss Battles"
@@ -60,19 +63,11 @@
       "id": "21147",
       "name": "Inclusive Character Customization"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1084",
       "name": "Stealth"
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -108,11 +103,47 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "assassins-creed-rogue--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-rogue",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "assassins-creed-rogue--templar-legacy-pack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 599,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "d39b8150087349138cfb3de26e951cc7"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-03-25T15:00:00.000Z",
   "pcReleaseDate": null,

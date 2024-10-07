@@ -51,18 +51,9 @@
       "id": "1381",
       "name": "Exploration"
     },
-    {
-      "id": "21894",
-      "name": "Cloud Saves"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support"
-    },
+    null,
+    null,
+    null,
     {
       "id": "21138",
       "name": "Recommend this Game"
@@ -138,11 +129,43 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ancestors--soundtrack-bundle",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ancestors--soundtrack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ancestors",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2019-08-27T15:00:00.000Z",
   "pcReleaseDate": null,

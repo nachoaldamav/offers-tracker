@@ -58,10 +58,6 @@
     {
       "id": "1115",
       "name": "Strategy"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
     }
   ],
   "items": [
@@ -102,7 +98,14 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "anno-2070",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

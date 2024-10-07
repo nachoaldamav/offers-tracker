@@ -43,7 +43,10 @@
   "urlSlug": "albacoregeneralaudience",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
     {
       "id": "21122",
       "name": "Diverse Characters"
@@ -56,14 +59,8 @@
       "id": "19943",
       "name": "Ubisoft Publisher Sale"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support"
-    },
+    null,
+    null,
     {
       "id": "21138",
       "name": "Recommend this Game"
@@ -103,8 +100,7 @@
     {
       "id": "21119",
       "name": "Great for Beginners"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -140,11 +136,59 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "assassins-creed-syndicate",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "assassins-creed-syndicate--the-dreadful-crimes",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-syndicate--jack-the-ripper",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-syndicate--gold-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-syndicate--season-pass",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-syndicate--the-last-maharaja",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 749,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 2250,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "9181d7d877fa4754879709147258915f"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-02-20T16:00:00.000Z",
   "pcReleaseDate": "2015-10-23T16:00:00.000Z",

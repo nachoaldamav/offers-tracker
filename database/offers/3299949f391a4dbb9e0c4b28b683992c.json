@@ -43,10 +43,7 @@
   "urlSlug": "phloxgeneralaudience",
   "url": null,
   "tags": [
-    {
-      "id": "21894",
-      "name": "Cloud Saves"
-    },
+    null,
     {
       "id": "1370",
       "name": "Single Player"
@@ -55,10 +52,7 @@
       "id": "1083",
       "name": "Rogue-Lite"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1181",
       "name": "Card Game"
@@ -67,10 +61,7 @@
       "id": "21149",
       "name": "Quickly Understand the Controls"
     },
-    {
-      "id": "9549",
-      "name": "Controller Support"
-    },
+    null,
     {
       "id": "10719",
       "name": "Mac OS"
@@ -110,11 +101,43 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "griftlands--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "griftlands--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "griftlands",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2019-07-11T15:00:00.000Z",
   "pcReleaseDate": null,

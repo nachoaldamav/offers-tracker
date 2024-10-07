@@ -51,11 +51,11 @@
       "id": "1370",
       "name": "Single Player"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
     null,
+    {
+      "id": "1151",
+      "name": "Platformer"
+    },
     {
       "id": "1263",
       "name": "Indie"
@@ -63,8 +63,7 @@
     {
       "id": "10719",
       "name": "Mac OS"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -100,11 +99,35 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "a-short-hike",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 799,
+      "originalPrice": 799,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-03-04T16:00:00.000Z",
   "pcReleaseDate": null,

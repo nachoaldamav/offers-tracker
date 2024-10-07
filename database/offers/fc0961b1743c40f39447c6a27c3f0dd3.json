@@ -31,7 +31,10 @@
   "urlSlug": "world-war-z",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
     {
       "id": "1264",
       "name": "Co-op"
@@ -48,19 +51,12 @@
       "id": "1210",
       "name": "Shooter"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support"
-    },
+    null,
+    null,
     {
       "id": "1279",
       "name": "Vampire"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -101,7 +97,24 @@
   "offerMappings": null,
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2019-04-16T14:00:00.000Z",
   "pcReleaseDate": null,

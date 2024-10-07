@@ -31,15 +31,15 @@
   "urlSlug": "moonlighter",
   "url": null,
   "tags": [
-    {
-      "id": "21894",
-      "name": "Cloud Saves"
-    },
+    null,
     {
       "id": "1367",
       "name": "RPG"
     },
-    null,
+    {
+      "id": "1258",
+      "name": "Rogue-Like"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -48,23 +48,16 @@
       "id": "1083",
       "name": "Rogue-Lite"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1117",
       "name": "Adventure"
     },
-    {
-      "id": "9549",
-      "name": "Controller Support"
-    },
+    null,
     {
       "id": "10719",
       "name": "Mac OS"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -92,11 +85,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "moonlighter--dlc",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "moonlighter",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Digital Sun Games",
   "publisherDisplayName": "11 Bit Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2018-05-29T15:00:00.000Z",
   "pcReleaseDate": "2018-05-29T15:00:00.000Z",

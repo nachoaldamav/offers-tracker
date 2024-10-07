@@ -35,10 +35,7 @@
   "urlSlug": "rebel-galaxy-outlaw-pre-purchase",
   "url": null,
   "tags": [
-    {
-      "id": "9547",
-      "name": "Windows"
-    }
+    null
   ],
   "items": [
     {
@@ -82,11 +79,35 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "rebel-galaxy-outlaw",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": true,
   "releaseDate": "2019-08-13T15:00:00.000Z",
   "pcReleaseDate": null,

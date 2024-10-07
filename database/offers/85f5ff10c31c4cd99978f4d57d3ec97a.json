@@ -35,7 +35,10 @@
   "urlSlug": "killing-floor",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
     {
       "id": "1185",
       "name": "FPS"
@@ -52,18 +55,12 @@
       "id": "1188",
       "name": "RELAXING"
     },
-    {
-      "id": "21894",
-      "name": "Cloud Saves"
-    },
+    null,
     {
       "id": "21129",
       "name": "Challenging Combat"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1294",
       "name": "First Person"
@@ -111,8 +108,7 @@
     {
       "id": "21119",
       "name": "Great for Beginners"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -148,11 +144,59 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "killing-floor-2--armory-season-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "killing-floor-2--digital-deluxe-upgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "killing-floor-2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "killing-floor-2--armory-season-pass-2",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "killing-floor-2--ultimate-edition-upgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "killing-floor-2--ultimate-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "killing-floor-2--cosmetic-sseason-pass",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-07-09T15:00:00.000Z",
   "pcReleaseDate": null,

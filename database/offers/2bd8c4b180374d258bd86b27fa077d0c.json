@@ -43,7 +43,10 @@
   "urlSlug": "tony-hawks-pro-skater",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
     {
       "id": "21121",
       "name": "Great for Quick Sessions"
@@ -64,10 +67,7 @@
       "id": "21125",
       "name": "Competitive Community"
     },
-    {
-      "id": "21894",
-      "name": "Cloud Saves"
-    },
+    null,
     {
       "id": "1160",
       "name": "SKATEBOARDING"
@@ -76,10 +76,7 @@
       "id": "1321",
       "name": "GREAT SOUNDTRACK"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1264",
       "name": "Co-op"
@@ -115,8 +112,7 @@
     {
       "id": "21119",
       "name": "Great for Beginners"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -179,7 +175,24 @@
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-09-04T01:00:00.000Z",
   "pcReleaseDate": "2020-09-04T01:00:00.000Z",

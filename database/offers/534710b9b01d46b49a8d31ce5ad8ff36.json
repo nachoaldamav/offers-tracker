@@ -47,7 +47,10 @@
   "urlSlug": "amberjackgeneralaudience",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
     {
       "id": "21122",
       "name": "Diverse Characters"
@@ -64,14 +67,8 @@
       "id": "21127",
       "name": "Creative Community"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support"
-    },
+    null,
+    null,
     {
       "id": "21138",
       "name": "Recommend this Game"
@@ -115,8 +112,7 @@
     {
       "id": "21119",
       "name": "Great for Beginners"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -152,11 +148,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "assassins-creed-unity",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 749,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 2250,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "29c0ca8ee95042748f7a76c9e690bd6e"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2014-11-11T16:00:00.000Z",
   "pcReleaseDate": null,

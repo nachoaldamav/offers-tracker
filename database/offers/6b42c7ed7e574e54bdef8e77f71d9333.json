@@ -43,32 +43,25 @@
   "urlSlug": "bravogeneralaudience",
   "url": null,
   "tags": [
-    null,
     {
-      "id": "21894",
-      "name": "Cloud Saves"
+      "id": "1216",
+      "name": "Action"
     },
+    null,
     {
       "id": "1367",
       "name": "RPG"
     },
-    {
-      "id": "19847",
-      "name": "Achievements"
-    },
+    null,
     {
       "id": "1370",
       "name": "Single Player"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1117",
       "name": "Adventure"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -104,7 +97,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "elex",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "elex--digital-extras",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

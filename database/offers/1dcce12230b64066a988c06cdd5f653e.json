@@ -35,7 +35,10 @@
   "urlSlug": "chickadeegeneralaudience",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
     {
       "id": "29088",
       "name": "Online Multiplayer"
@@ -48,18 +51,12 @@
       "id": "1188",
       "name": "RELAXING"
     },
-    {
-      "id": "19847",
-      "name": "Achievements"
-    },
+    null,
     {
       "id": "21127",
       "name": "Creative Community"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1393",
       "name": "Simulation"
@@ -103,8 +100,7 @@
     {
       "id": "21119",
       "name": "Great for Beginners"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -160,7 +156,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "mount-and-blade-2--digital-companion",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "mount-and-blade-2--digital-deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "mount-and-blade-2",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "mount-and-blade-2",
@@ -169,7 +180,24 @@
   ],
   "developerDisplayName": "TaleWorlds Entertainment",
   "publisherDisplayName": "TaleWorlds Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-03-31T11:00:00.000Z",
   "pcReleaseDate": null,
