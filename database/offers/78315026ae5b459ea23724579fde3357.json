@@ -87,7 +87,18 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "lines-guarder-174742",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "lines-guarder-faq-e7b7e5",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "lines-guarder-174742",
@@ -96,7 +107,28 @@
   ],
   "developerDisplayName": "Meng Games",
   "publisherDisplayName": "Meng Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "4d27b314134848f3ab940caa5b6b066b"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-07-05T17:00:00.000Z",
   "pcReleaseDate": "2023-06-21T17:00:00.000Z",

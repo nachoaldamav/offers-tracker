@@ -99,7 +99,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "cyber-drift-6ac51b",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "cyber-drift-6ac51b",
@@ -108,7 +115,28 @@
   ],
   "developerDisplayName": "Meng Games",
   "publisherDisplayName": "Meng Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 349,
+      "originalPrice": 699,
+      "voucherDiscount": 0,
+      "discount": 350,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "2fd82dbc1aa945e9a041d603a6cfb873"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-09T17:00:00.000Z",
   "pcReleaseDate": "2023-04-28T19:00:00.000Z",

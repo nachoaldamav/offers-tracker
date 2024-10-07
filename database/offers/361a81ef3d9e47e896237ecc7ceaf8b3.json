@@ -107,7 +107,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "apeiron-faq-51b2e6",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "apeiron-b83793",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "apeiron-b83793",
@@ -116,7 +127,24 @@
   ],
   "developerDisplayName": "Foonie Magus PTE Limited.",
   "publisherDisplayName": "Foonie Magus PTE Limited.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-27T10:00:00.000Z",
   "pcReleaseDate": "2023-06-27T10:00:00.000Z",
