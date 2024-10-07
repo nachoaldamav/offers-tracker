@@ -107,7 +107,18 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "murk-e8ee56",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "murk-faq-355516",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "murk-e8ee56",
@@ -116,7 +127,24 @@
   ],
   "developerDisplayName": "PlayFi Studios",
   "publisherDisplayName": "USDTREE",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-08-31T21:01:11.892Z",
   "pcReleaseDate": "2024-08-28T05:00:00.000Z",

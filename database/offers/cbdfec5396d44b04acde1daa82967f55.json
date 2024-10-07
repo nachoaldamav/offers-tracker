@@ -107,7 +107,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "monospaced-lovers-4c4c54",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "monospaced-lovers-4c4c54",
@@ -116,7 +123,24 @@
   ],
   "developerDisplayName": "Scarlet String Studios",
   "publisherDisplayName": "Scarlet String Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-10-31T13:00:00.000Z",
   "pcReleaseDate": "2024-10-31T13:00:00.000Z",
