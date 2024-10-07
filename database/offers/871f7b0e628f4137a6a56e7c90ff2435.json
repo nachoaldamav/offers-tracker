@@ -47,12 +47,14 @@
       "id": "22775",
       "name": "MMO"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1263",
       "name": "Indie"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -133,7 +135,24 @@
   ],
   "developerDisplayName": "PiCorp",
   "publisherDisplayName": "PiCorp",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2023-01-13T15:00:00.000Z",
