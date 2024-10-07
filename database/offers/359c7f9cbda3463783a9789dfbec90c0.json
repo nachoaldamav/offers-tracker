@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-shapeshifting-detective-ef0f21",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-shapeshifting-detective-ef0f21",
@@ -100,7 +107,24 @@
   ],
   "developerDisplayName": "D'Avekki Studios Ltd, Wales Interactive",
   "publisherDisplayName": "Wales Interactive",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1299,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-10-28T05:00:00.000Z",
   "pcReleaseDate": "2018-11-06T17:00:00.000Z",
