@@ -99,7 +99,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sherlock-purr-2-4740e0",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "sherlock-purr-2-extra-mystery-pack-958d24",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "sherlock-purr-2-4740e0",
@@ -108,7 +119,28 @@
   ],
   "developerDisplayName": "COMMANDO PANDA",
   "publisherDisplayName": "COMMANDO PANDA",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 599,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "df1893f4aa08402aaf0bc3659b9f966c"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-10-04T07:00:00.000Z",
   "pcReleaseDate": "2024-10-04T07:00:00.000Z",
