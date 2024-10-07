@@ -118,11 +118,59 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "skull-and-bones--seasonal-boatload",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "skull-and-bones--seasonal-box",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "skull-and-bones--free-trial",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "skull-and-bones",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "skull-and-bones--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "skull-and-bones--premium-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Ubisoft Singapore",
   "publisherDisplayName": "Ubisoft",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2399,
+      "originalPrice": 5999,
+      "voucherDiscount": 0,
+      "discount": 3600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "0bfb91e7496a451ba74943bfcc0c75bb"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-02-16T05:00:00.000Z",
   "pcReleaseDate": "2024-02-16T05:00:00.000Z",
