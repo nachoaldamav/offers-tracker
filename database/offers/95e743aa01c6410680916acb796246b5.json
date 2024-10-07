@@ -122,7 +122,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "darksiders3--dlc-2",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "darksiders3--dlc",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "darksiders3",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

@@ -82,11 +82,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sonic-x-shadow-generations--digital-deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "sonic-x-shadow-generations",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "SONIC TEAM",
   "publisherDisplayName": "SEGA",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": true,
   "releaseDate": "2024-10-25T04:00:00.000Z",
   "pcReleaseDate": "2024-10-25T04:00:00.000Z",
