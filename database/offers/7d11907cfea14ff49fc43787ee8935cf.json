@@ -90,10 +90,31 @@
       }
     ]
   },
-  "offerMappings": null,
+  "offerMappings": [],
   "developerDisplayName": "Ubisoft Montreal",
   "publisherDisplayName": "Ubisoft",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 800,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "bd1b5f94cdd64bfeb95982c9b4606b55"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-08-03T15:00:00.000Z",
   "pcReleaseDate": "2010-06-08T15:00:00.000Z",
