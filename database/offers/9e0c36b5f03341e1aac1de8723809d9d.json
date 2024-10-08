@@ -31,10 +31,7 @@
   "urlSlug": "26689d21f86e465d91f7b8a14aef30f0",
   "url": null,
   "tags": [
-    {
-      "id": "1298",
-      "name": "Puzzle"
-    },
+    null,
     {
       "id": "21894",
       "name": "Cloud Saves"
@@ -50,7 +47,8 @@
     {
       "id": "9547",
       "name": "Windows"
-    }
+    },
+    null
   ],
   "items": [
     {
@@ -87,7 +85,22 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "gambit-shifter-93870e",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "gambit-shifter-gambit-shifter-plus-soundtrack-bundle-e76324",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "gambit-shifter-gambit-shifter-soundtrack-2101ae",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "gambit-shifter-93870e",
@@ -96,7 +109,24 @@
   ],
   "developerDisplayName": "Volcanite Games",
   "publisherDisplayName": "Volcanite Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 799,
+      "originalPrice": 799,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-02-19T09:00:00.000Z",
   "pcReleaseDate": "2024-02-19T09:00:00.000Z",

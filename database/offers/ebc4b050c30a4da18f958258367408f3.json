@@ -31,10 +31,7 @@
   "urlSlug": "0eb8373cbc80451fb49e6008c9046cb0",
   "url": null,
   "tags": [
-    {
-      "id": "1298",
-      "name": "Puzzle"
-    },
+    null,
     {
       "id": "21894",
       "name": "Cloud Saves"
@@ -54,7 +51,8 @@
     {
       "id": "1263",
       "name": "Indie"
-    }
+    },
+    null
   ],
   "items": [
     {
@@ -91,7 +89,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "spiderbro-2-8d3665",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "spiderbro-2-spiderbro-2-demo-1ab28a",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "spiderbro-2-8d3665",
@@ -100,7 +109,24 @@
   ],
   "developerDisplayName": "Studio Pond",
   "publisherDisplayName": "Studio Pond",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-02-27T00:00:00.000Z",
   "pcReleaseDate": "2024-02-27T18:00:00.000Z",

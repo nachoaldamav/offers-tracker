@@ -91,7 +91,30 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "zoria-age-of-shattering-334aa7",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "zoria-age-of-shattering-zoria-age-of-shattering-digital-bestiary-bea006",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "zoria-age-of-shattering-zoria-age-of-shattering-soundtrack-2bc4a1",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "zoria-age-of-shattering-zoria-age-of-shattering-digital-goodies-pack-b681ed",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "zoria-age-of-shattering-zoria-age-of-shattering-ancestors-weapon-pack-005764",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "zoria-age-of-shattering-334aa7",
@@ -100,7 +123,24 @@
   ],
   "developerDisplayName": "Tiny Trinket Games",
   "publisherDisplayName": "Anshar Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-07T18:00:00.000Z",
   "pcReleaseDate": "2024-03-07T18:00:00.000Z",
