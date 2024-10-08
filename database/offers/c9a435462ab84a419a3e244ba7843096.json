@@ -110,7 +110,30 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "everywhere-cbf9c6",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "everywhere-everywhere-premium-founders-pack-0e8423",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "everywhere-everywhere-super-deluxe-founders-pack-2f0906",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "everywhere-everywhere-ultimate-founders-pack-3cc40a",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "everywhere-faq-9032c3",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "everywhere-cbf9c6",
@@ -119,7 +142,24 @@
   ],
   "developerDisplayName": "Build A Rocket Boy",
   "publisherDisplayName": "Build A Rocket Boy",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-08-27T13:00:00.000Z",
   "pcReleaseDate": "2024-06-18T09:00:00.000Z",
