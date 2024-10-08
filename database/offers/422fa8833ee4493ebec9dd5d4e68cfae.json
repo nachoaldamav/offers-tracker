@@ -31,7 +31,10 @@
   "urlSlug": "40b6edd8d3e74d3ab9bb36c96879f41f",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1298",
+      "name": "Puzzle"
+    },
     {
       "id": "1381",
       "name": "Exploration"
@@ -51,8 +54,7 @@
     {
       "id": "1117",
       "name": "Adventure"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -89,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "creepy-tale-058ebd",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "creepy-tale-058ebd",
@@ -98,7 +107,24 @@
   ],
   "developerDisplayName": "Creepy Brothers",
   "publisherDisplayName": "Meridian4",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-26T17:00:00.000Z",
   "pcReleaseDate": "2021-02-21T17:00:00.000Z",

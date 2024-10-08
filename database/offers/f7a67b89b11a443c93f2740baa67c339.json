@@ -35,7 +35,10 @@
       "id": "1296",
       "name": "Casual"
     },
-    null,
+    {
+      "id": "1298",
+      "name": "Puzzle"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -51,8 +54,7 @@
     {
       "id": "1181",
       "name": "Card Game"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -89,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "rainbow-pixel-color-by-number-462613",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "rainbow-pixel-color-by-number-462613",
@@ -98,7 +107,28 @@
   ],
   "developerDisplayName": "Somer Games",
   "publisherDisplayName": "8Floor ltd",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 300,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "6b1f2246a0044fc9ae2539efcb71ed45"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-29T21:00:00.000Z",
   "pcReleaseDate": "2019-09-30T21:00:00.000Z",

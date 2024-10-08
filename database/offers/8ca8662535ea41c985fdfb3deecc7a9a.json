@@ -31,7 +31,10 @@
   "urlSlug": "3fe60a61c553402f96cafecdc8647c97",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1298",
+      "name": "Puzzle"
+    },
     {
       "id": "21894",
       "name": "Cloud Saves"
@@ -55,8 +58,7 @@
     {
       "id": "1151",
       "name": "Platformer"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -93,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "magnetism-76d8e6",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "magnetism-76d8e6",
@@ -102,7 +111,24 @@
   ],
   "developerDisplayName": "Tail House",
   "publisherDisplayName": "Tail House",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-11-23T03:00:00.000Z",
   "pcReleaseDate": "2022-09-17T08:30:00.000Z",

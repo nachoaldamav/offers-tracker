@@ -31,7 +31,10 @@
   "urlSlug": "5c730f0806fd4d0095fd6b0c2a34bb53",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1298",
+      "name": "Puzzle"
+    },
     {
       "id": "19847",
       "name": "Achievements"
@@ -51,8 +54,7 @@
     {
       "id": "1294",
       "name": "First Person"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -89,7 +91,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "escape-from-blackwood-0d8657",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "escape-from-blackwood-0d8657",
@@ -98,7 +107,24 @@
   ],
   "developerDisplayName": "Irthael",
   "publisherDisplayName": "Irthael",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 799,
+      "originalPrice": 799,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-13T00:00:00.000Z",
   "pcReleaseDate": "2024-02-10T00:00:00.000Z",

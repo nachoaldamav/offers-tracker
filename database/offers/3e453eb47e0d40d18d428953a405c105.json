@@ -70,11 +70,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "silent-hunter-5-battle-of-the-atlantic-gold-edition",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Ubisoft Entertainment",
   "publisherDisplayName": "Ubisoft Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 249,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 750,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "3d852a64f09648b09b1d431ed95226d2"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-25T15:00:00.000Z",
   "pcReleaseDate": null,

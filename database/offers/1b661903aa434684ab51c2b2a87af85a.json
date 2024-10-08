@@ -35,7 +35,10 @@
       "id": "1296",
       "name": "Casual"
     },
-    null,
+    {
+      "id": "1298",
+      "name": "Puzzle"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -51,8 +54,7 @@
     {
       "id": "1181",
       "name": "Card Game"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -89,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "mosaics-galore-2-034421",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "mosaics-galore-2-034421",
@@ -98,7 +107,28 @@
   ],
   "developerDisplayName": "Creobit",
   "publisherDisplayName": "8Floor ltd",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 300,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "15aa2f3dbf754f9d8b22d7a7740e6709"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-11-23T21:00:00.000Z",
   "pcReleaseDate": "2018-09-02T21:00:00.000Z",

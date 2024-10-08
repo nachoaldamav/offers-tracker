@@ -35,7 +35,10 @@
       "id": "1296",
       "name": "Casual"
     },
-    null,
+    {
+      "id": "1298",
+      "name": "Puzzle"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -51,8 +54,7 @@
     {
       "id": "1181",
       "name": "Card Game"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -89,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "1001-jigsaw-castles-and-palaces-b256df",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "1001-jigsaw-castles-and-palaces-b256df",
@@ -98,7 +107,28 @@
   ],
   "developerDisplayName": "Creobit",
   "publisherDisplayName": "8Floor ltd",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 249,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 250,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "0b9ef80391534e38b381cada9f61a0b7"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-02T21:00:00.000Z",
   "pcReleaseDate": "2019-11-10T21:00:00.000Z",
