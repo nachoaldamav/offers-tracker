@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-01-23T21:00:00.000Z",
   "creationDate": "2023-12-12T04:30:15.518Z",
-  "lastModifiedDate": "2024-09-03T15:02:11.900Z",
+  "lastModifiedDate": "2024-10-08T15:05:59.535Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -43,7 +43,14 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
+    },
     {
       "id": "1181",
       "name": "Card Game"
@@ -102,10 +109,10 @@
   "publisherDisplayName": "8Floor ltd",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 199,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 300,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -114,7 +121,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "07301c89fc2a4a328c52bd9bee1fc712"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-04-24T07:00:00.000Z",
   "creationDate": "2023-05-17T13:19:41.492Z",
-  "lastModifiedDate": "2024-06-11T15:00:03.658Z",
+  "lastModifiedDate": "2024-10-08T15:05:59.533Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -43,13 +43,26 @@
       "id": "21894",
       "name": "Cloud Saves"
     },
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
     {
       "id": "1183",
       "name": "Local Multiplayer"
@@ -116,10 +129,10 @@
   "publisherDisplayName": "Frozax Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 799,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -128,7 +141,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "03f1036b2ae14890a1653c2b009efcd2"
+          }
+        ]
       }
     ]
   },

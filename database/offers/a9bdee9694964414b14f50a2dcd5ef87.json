@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-04-08T13:00:00.000Z",
   "creationDate": "2022-02-15T15:32:45.498Z",
-  "lastModifiedDate": "2024-08-27T15:06:34.668Z",
+  "lastModifiedDate": "2024-10-08T15:05:59.535Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     }
   ],
   "items": [
@@ -89,10 +93,10 @@
   "publisherDisplayName": "HandyGames",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 849,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1650,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -101,7 +105,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "54f96e5954164172bec4ffbdc07696cc"
+          }
+        ]
       }
     ]
   },

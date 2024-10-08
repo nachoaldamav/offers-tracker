@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-05-09T23:00:00.000Z",
   "creationDate": "2024-05-05T03:24:43.373Z",
-  "lastModifiedDate": "2024-08-06T15:00:59.446Z",
+  "lastModifiedDate": "2024-10-08T15:05:59.534Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -43,14 +43,30 @@
       "id": "1299",
       "name": "Competitive"
     },
-    null,
+    {
+      "id": "1210",
+      "name": "Shooter"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
+    {
+      "id": "1263",
+      "name": "Indie"
+    },
     {
       "id": "1183",
       "name": "Local Multiplayer"
@@ -113,10 +129,10 @@
   "publisherDisplayName": "659 Records (PTY) LTD",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 199,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 300,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +141,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "2821bbef5cc947b2b150efeee47bd7df"
+          }
+        ]
       }
     ]
   },
