@@ -39,8 +39,14 @@
       "id": "1121",
       "name": "Space"
     },
-    null,
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1310",
       "name": "EARLY ACCESS"
@@ -107,10 +113,10 @@
   "publisherDisplayName": "Mineria Studios",
   "price": {
     "totalPrice": {
-      "discountPrice": 249,
+      "discountPrice": 149,
       "originalPrice": 249,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 100,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -119,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "e062ebcad7e042dfa460eae579994fdd"
+          }
+        ]
       }
     ]
   },
