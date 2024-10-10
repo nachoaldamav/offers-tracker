@@ -124,10 +124,10 @@
   "publisherDisplayName": "Eleon Game Studios SA",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 0,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1999,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -136,7 +136,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "22f49c2780b04e40bda0d8d252279bbe"
+          }
+        ]
       }
     ]
   },

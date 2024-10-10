@@ -120,10 +120,10 @@
   "publisherDisplayName": "GBROSSOFT",
   "price": {
     "totalPrice": {
-      "discountPrice": 799,
+      "discountPrice": 0,
       "originalPrice": 799,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 799,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -132,7 +132,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "22f806418cfd4c62890ff0ea5accb54e"
+          }
+        ]
       }
     ]
   },
