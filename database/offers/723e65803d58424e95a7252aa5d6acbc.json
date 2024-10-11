@@ -94,7 +94,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ea-sports-pga-tour--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ea-sports-pga-tour",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "ea-sports-pga-tour--deluxe-upgrade",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Electronic Arts - Tiburon",
   "publisherDisplayName": "Electronic Arts",
