@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-11-20T16:00:00.000Z",
   "creationDate": "2024-02-16T19:04:11.038Z",
-  "lastModifiedDate": "2024-08-01T15:03:34.879Z",
+  "lastModifiedDate": "2024-10-15T14:55:39.582Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     }
   ],
   "items": [
@@ -124,10 +128,10 @@
   "publisherDisplayName": "Positech Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 999,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -136,7 +140,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "c8a3e47119414cb6a84cbbf3fc78f14f"
+          }
+        ]
       }
     ]
   },
