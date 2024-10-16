@@ -57,15 +57,15 @@
     },
     {
       "id": "32709",
-      "name": "Cat"
+      "name": "EA Play"
     },
     {
       "id": "34567",
-      "name": "Cat included"
+      "name": "EA Play included"
     },
     {
       "id": "34568",
-      "name": "Cat discount"
+      "name": "EA Play discount"
     },
     {
       "id": "1370",
@@ -113,7 +113,24 @@
   "offerMappings": [],
   "developerDisplayName": "EA Canada",
   "publisherDisplayName": "Electronic Arts",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 6999,
+      "originalPrice": 6999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-09-29T00:00:00.000Z",
   "pcReleaseDate": "2023-09-29T00:00:00.000Z",
