@@ -117,10 +117,10 @@
   "publisherDisplayName": "Those Awesome Guys",
   "price": {
     "totalPrice": {
-      "discountPrice": 1299,
+      "discountPrice": 649,
       "originalPrice": 1299,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 650,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "50f8cfc181994433b267fc61aa5b5625"
+          }
+        ]
       }
     ]
   },

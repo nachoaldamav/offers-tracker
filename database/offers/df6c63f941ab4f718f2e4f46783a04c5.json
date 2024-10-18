@@ -121,10 +121,10 @@
   "publisherDisplayName": "PQUBE",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1299,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 700,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "a58fc78bad834216b52613ba15d4fab8"
+          }
+        ]
       }
     ]
   },
