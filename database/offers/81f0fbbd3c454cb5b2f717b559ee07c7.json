@@ -109,10 +109,10 @@
   "publisherDisplayName": "jailer",
   "price": {
     "totalPrice": {
-      "discountPrice": 300,
+      "discountPrice": 225,
       "originalPrice": 300,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 75,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +121,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "cc0d1fbdc7d84b0da879bbf862651416"
+          }
+        ]
       }
     ]
   },
