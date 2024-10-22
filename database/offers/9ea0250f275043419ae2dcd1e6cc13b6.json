@@ -113,10 +113,10 @@
   "publisherDisplayName": "Just Purkey Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 2249,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 250,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "69e3d549319941698bcdb03a9476e1f3"
+          }
+        ]
       }
     ]
   },
