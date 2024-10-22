@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-08-23T03:00:00.000Z",
   "creationDate": "2024-02-15T15:10:49.108Z",
-  "lastModifiedDate": "2024-08-28T17:45:49.962Z",
+  "lastModifiedDate": "2024-10-22T15:00:44.468Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1263",
@@ -113,10 +117,10 @@
   "publisherDisplayName": "Sendo Estudio",
   "price": {
     "totalPrice": {
-      "discountPrice": 799,
+      "discountPrice": 599,
       "originalPrice": 799,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "e0b0ddabafbf4f51b48714f7e223ded8"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-12-14T19:00:00.000Z",
   "creationDate": "2021-09-04T12:56:30.473Z",
-  "lastModifiedDate": "2024-08-01T15:03:34.796Z",
+  "lastModifiedDate": "2024-10-22T15:00:44.468Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -60,13 +60,14 @@
       "name": "Windows"
     },
     {
+      "id": "29899",
+      "name": "Deals of the Week"
+    },
+    {
       "id": "9549",
       "name": "Controller Support"
     },
-    {
-      "id": "1263",
-      "name": "Indie"
-    },
+    null,
     {
       "id": "1183",
       "name": "Local Multiplayer"
@@ -148,10 +149,10 @@
   "publisherDisplayName": "Gros Chevaux",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 499,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -160,7 +161,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "06648035cd074c22a37882120488ea41"
+          }
+        ]
       }
     ]
   },

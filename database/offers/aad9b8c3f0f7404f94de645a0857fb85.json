@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-06-14T00:00:00.000Z",
   "creationDate": "2023-05-05T20:01:26.267Z",
-  "lastModifiedDate": "2024-09-10T15:00:35.770Z",
+  "lastModifiedDate": "2024-10-22T15:00:44.468Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "9549",
@@ -105,10 +109,10 @@
   "publisherDisplayName": "Chubby Pixel",
   "price": {
     "totalPrice": {
-      "discountPrice": 799,
+      "discountPrice": 279,
       "originalPrice": 799,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 520,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -117,7 +121,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "c18de80036524f0d8bb3a0e2dd8a5c56"
+          }
+        ]
       }
     ]
   },
