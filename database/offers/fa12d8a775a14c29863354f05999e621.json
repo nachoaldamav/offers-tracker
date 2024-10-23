@@ -109,7 +109,28 @@
   "offerMappings": [],
   "developerDisplayName": "Tomorrow Corporation",
   "publisherDisplayName": "Tomorrow Corporation",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1004,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 495,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "76e24762486744a1a3f662c9c63a7c69"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2015-10-15T15:00:00.000Z",
   "pcReleaseDate": null,
