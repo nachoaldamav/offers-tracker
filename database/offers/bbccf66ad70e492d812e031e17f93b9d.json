@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-10-24T16:00:00.000Z",
   "creationDate": "2023-12-19T13:09:09.188Z",
-  "lastModifiedDate": "2024-10-14T15:41:19.843Z",
+  "lastModifiedDate": "2024-10-24T16:01:35.857Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -38,6 +38,10 @@
     {
       "id": "1381",
       "name": "Exploration"
+    },
+    {
+      "id": "19847",
+      "name": "Achievements"
     },
     {
       "id": "1370",
@@ -113,10 +117,10 @@
   "publisherDisplayName": "Kwalee",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1599,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "0e20ff00aec64141a1ff86499990db2c"
+          }
+        ]
       }
     ]
   },
