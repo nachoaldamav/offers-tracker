@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-10-25T15:00:00.000Z",
   "creationDate": "2024-04-25T06:19:19.915Z",
-  "lastModifiedDate": "2024-10-18T11:46:49.189Z",
+  "lastModifiedDate": "2024-10-25T15:05:32.855Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -141,10 +141,10 @@
   "publisherDisplayName": "Headup Publishing",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 1349,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 150,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -153,7 +153,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "d940bf1fbfaa4d3db3931b6e8603ec68"
+          }
+        ]
       }
     ]
   },
