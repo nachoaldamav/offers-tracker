@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "multiplayer-drone-simulator-048a09",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "multiplayer-drone-simulator-048a09",
@@ -100,7 +107,24 @@
   ],
   "developerDisplayName": "Samet Acar",
   "publisherDisplayName": "UPCELL TELEKOMUNIKASYON LIMITED SIRKETI",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 99,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-11-04T12:00:00.000Z",
   "pcReleaseDate": "2023-11-23T17:00:00.000Z",
