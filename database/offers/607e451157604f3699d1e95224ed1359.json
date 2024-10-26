@@ -99,11 +99,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tiny-witch-5d89db",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "tiny-witch-5d89db",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Creative Hand",
   "publisherDisplayName": "Creative Hand",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 599,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "0d4ffbb809c74c0b8c2c5161198dc800"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-07-16T13:00:00.000Z",
   "pcReleaseDate": "2023-09-01T13:00:00.000Z",

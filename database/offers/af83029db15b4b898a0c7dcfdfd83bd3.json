@@ -99,11 +99,52 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "get-slapped-test-dimension-8f8c8a",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "get-slapped-faq-893215",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "get-slapped-d1aea8",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "get-slapped-d1aea8",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Get Slapped LLC",
   "publisherDisplayName": "Get Slapped LLC",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "9f80c80da58f4cf281c708c55ba38782"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-05-01T07:00:00.000Z",
   "pcReleaseDate": "2024-05-01T07:00:00.000Z",

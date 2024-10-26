@@ -99,11 +99,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "lunar-lander-beyond-30b7a0",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "lunar-lander-beyond-30b7a0",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Dreams Uncorporated",
   "publisherDisplayName": "Atari",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2399,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "b13213932b9b49b5afda7286ce0830dd"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-04-23T04:00:00.000Z",
   "pcReleaseDate": "2024-04-23T04:00:00.000Z",
