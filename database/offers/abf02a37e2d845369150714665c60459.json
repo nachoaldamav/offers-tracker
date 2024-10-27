@@ -95,11 +95,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "lost-abroad-cafe-a-language-learning-management-sim-bfc28c",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "lost-abroad-cafe-a-language-learning-management-sim-faq-b32fc7",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "lost-abroad-cafe-a-language-learning-management-sim-demo-e51ba4",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "lost-abroad-cafe-a-language-learning-management-sim-bfc28c",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Lost Abroad",
   "publisherDisplayName": "Lost Abroad",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-05-26T17:00:00.000Z",
   "pcReleaseDate": "2022-12-31T01:00:00.000Z",
