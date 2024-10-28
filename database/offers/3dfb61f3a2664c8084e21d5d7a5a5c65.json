@@ -103,11 +103,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "cybernetic-fault-b05740",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "cybernetic-fault-faq-1547eb",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "cybernetic-fault-b05740",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Whale Rock Games",
   "publisherDisplayName": "Whale Rock Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 179,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1820,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "f7a4a503d94446cb9c447c653a8969fb"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-05-09T09:00:00.000Z",
   "pcReleaseDate": "2020-09-24T09:00:00.000Z",
