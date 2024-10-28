@@ -99,11 +99,39 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "strawhart-776f4d",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": null,
   "developerDisplayName": "Cypher Creations",
   "publisherDisplayName": "Cypher Creations",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "7fd7dcc71c9f4266a02bb528fce1a7ed"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-20T08:00:00.000Z",
   "pcReleaseDate": "2022-03-11T04:00:00.000Z",
