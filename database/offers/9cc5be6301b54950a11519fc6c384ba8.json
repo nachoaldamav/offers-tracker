@@ -79,11 +79,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "symmetry-44cf24",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "symmetry-44cf24",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Sleepless Clinic",
   "publisherDisplayName": "IMGN.PRO",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 203,
+      "originalPrice": 1199,
+      "voucherDiscount": 0,
+      "discount": 996,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "817774c409784efaaa66ebf46d9ac6b5"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-05-26T14:00:00.000Z",
   "pcReleaseDate": "2018-02-20T00:00:00.000Z",
