@@ -111,11 +111,48 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "godlike-burger-4150a0",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "godlike-burger-godlike-burger-soundtrack-4a3e5d",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "godlike-burger-4150a0",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Liquid Pug",
   "publisherDisplayName": "Daedalic Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "f69823a816944be2aa817c0a59ca1dd0"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-04-21T17:00:00.000Z",
   "pcReleaseDate": "2022-04-21T17:00:00.000Z",
