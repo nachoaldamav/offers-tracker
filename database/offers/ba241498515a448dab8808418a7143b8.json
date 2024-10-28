@@ -95,11 +95,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "wizened-dream-ec61c3",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "wizened-dream-wizened-dream-design-book-b9d0b4",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "wizened-dream-ec61c3",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Zhang Huan",
   "publisherDisplayName": "Zhang Huan",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-02-17T00:00:00.000Z",
   "pcReleaseDate": "2024-02-11T16:00:00.000Z",

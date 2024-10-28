@@ -94,11 +94,51 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "aeterna-noctis",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "aeterna-noctis--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "aeterna-noctis--exclusive-wallpapers",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "aeterna-noctis--official-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "aeterna-noctis--artistic-map",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Aeternum Game Studios",
   "publisherDisplayName": "Aeternum Game Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-12-15T15:00:00.000Z",
   "pcReleaseDate": "2021-12-15T15:00:00.000Z",
