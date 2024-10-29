@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-07-31T20:00:00.000Z",
   "creationDate": "2023-04-11T18:41:59.027Z",
-  "lastModifiedDate": "2024-10-25T13:32:29.864Z",
+  "lastModifiedDate": "2024-10-29T15:00:19.359Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "9549",
@@ -125,10 +129,10 @@
   "publisherDisplayName": "OmniScapes Interactive",
   "price": {
     "totalPrice": {
-      "discountPrice": 1899,
+      "discountPrice": 1519,
       "originalPrice": 1899,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 380,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -137,7 +141,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "e1f3b643f9384585a4bd0b56181ea6f0"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2019-09-24T10:29:00.000Z",
   "creationDate": "2019-01-29T15:30:09.407Z",
-  "lastModifiedDate": "2024-10-27T16:16:47.106Z",
+  "lastModifiedDate": "2024-10-29T15:00:19.357Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1294",
@@ -124,10 +128,10 @@
   "publisherDisplayName": "Deep Silver",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 199,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1800,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -136,7 +140,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "9a236a4652c448819d3c83ce6d3c21bc"
+          }
+        ]
       }
     ]
   },

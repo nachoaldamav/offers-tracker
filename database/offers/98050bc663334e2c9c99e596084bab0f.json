@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-04-19T17:00:00.000Z",
   "creationDate": "2021-01-29T19:32:17.252Z",
-  "lastModifiedDate": "2024-04-19T13:41:03.833Z",
+  "lastModifiedDate": "2024-10-29T15:00:19.356Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -60,6 +60,10 @@
       "name": "Windows"
     },
     {
+      "id": "29899",
+      "name": "Deals of the Week"
+    },
+    {
       "id": "9549",
       "name": "Controller Support"
     },
@@ -111,10 +115,10 @@
   "publisherDisplayName": null,
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 199,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1800,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -123,7 +127,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "1be323af31644759abf69dda71cb73ba"
+          }
+        ]
       }
     ]
   },
