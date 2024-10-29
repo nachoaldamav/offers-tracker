@@ -87,7 +87,18 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "pixel-art-coloring-book-a485ef",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "pixel-art-coloring-book-pixel-art-coloring-book-expansion-pack-e88b4f",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "pixel-art-coloring-book-a485ef",
@@ -96,7 +107,24 @@
   ],
   "developerDisplayName": "Peaksel",
   "publisherDisplayName": "Peaksel",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-29T22:00:00.000Z",
   "pcReleaseDate": "2021-04-01T07:00:00.000Z",
