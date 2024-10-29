@@ -5,8 +5,8 @@
   "description": "Wellcome to Back To Life!\nA night visit to an abandoned hospital gone wrong, now you are the last survivor, find your way out without being caught by the demon and experience a great adventure",
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-10-29T22:00:00.000Z",
-  "creationDate": "2024-10-25T19:07:46.907Z",
-  "lastModifiedDate": "2024-10-25T19:07:46.907Z",
+  "creationDate": "2024-02-25T09:22:22.783Z",
+  "lastModifiedDate": "2024-10-29T14:02:29.883Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -22,7 +22,7 @@
       "url": "https://cdn1.epicgames.com/spt-assets/00d38850a5614ca5bb5e936c68c5c964/back-to-life-dmtzu.jpg"
     }
   ],
-  "currentPrice": 599,
+  "currentPrice": 799,
   "seller": {
     "id": "o-rvgx62g649emxfyjrqerfmudc5dvc5",
     "name": "NYX Gaming Studio"
@@ -34,6 +34,10 @@
     {
       "id": "1264",
       "name": "Co-op"
+    },
+    {
+      "id": "29088",
+      "name": "Online Multiplayer"
     },
     {
       "id": "1218",
@@ -103,11 +107,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "back-to-life-64113e",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "back-to-life-faq-1b2b3b",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "back-to-life-64113e",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "NYX Gaming Studio",
   "publisherDisplayName": "NYX Gaming Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 799,
+      "originalPrice": 799,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-10-29T22:00:00.000Z",
   "pcReleaseDate": "2024-10-29T22:00:00.000Z",
