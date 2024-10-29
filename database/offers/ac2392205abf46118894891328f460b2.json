@@ -103,11 +103,39 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "arco-03eeb3",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": null,
   "developerDisplayName": "Franek, Max Cahill, Bibiki and Fáyer.",
   "publisherDisplayName": "Panic",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1599,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "f30d3b28fda246cebe7fd21af427bd5e"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-08-15T16:00:00.000Z",
   "pcReleaseDate": "2024-08-15T16:00:00.000Z",
