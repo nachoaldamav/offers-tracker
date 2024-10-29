@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-12-18T14:30:00.000Z",
   "creationDate": "2023-11-08T21:05:35.966Z",
-  "lastModifiedDate": "2024-10-27T18:11:47.227Z",
+  "lastModifiedDate": "2024-10-29T11:10:06.747Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -135,14 +135,47 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "zeeverse-92a34e",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "zeeverse-faq-43832d",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "zeeverse-92a34e",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Beetroot Lab",
   "publisherDisplayName": "Beetroot Lab",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-18T14:30:00.000Z",
-  "pcReleaseDate": "2023-12-21T22:00:00.000Z",
+  "pcReleaseDate": "2023-12-18T14:30:00.000Z",
   "viewableDate": "2023-12-13T14:04:37.680Z",
   "approximateReleasePlan": null
 }
