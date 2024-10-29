@@ -98,8 +98,19 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "jaws-of-extinction",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "jaws-of-extinction--early-access-faq",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
   "price": null,
