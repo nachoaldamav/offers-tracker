@@ -103,15 +103,31 @@
       }
     ]
   },
-  "offerMappings": [
-    {
-      "pageSlug": "anvil-saga-c6fe9d",
-      "pageType": "productHome"
-    }
-  ],
+  "offerMappings": null,
   "developerDisplayName": "Pirozhok Studio",
   "publisherDisplayName": "HeroCraft PC",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1599,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "475b1eef0da04dd084bc8f98d90e9caf"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-05T16:00:00.000Z",
   "pcReleaseDate": "2022-06-21T06:00:00.000Z",
