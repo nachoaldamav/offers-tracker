@@ -99,11 +99,43 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "snowmen-snowmen-demo-a30d19",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "snowmen-5987b9",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": null,
   "developerDisplayName": "Nikodem Grzonkowski",
   "publisherDisplayName": "NikosDreams",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 249,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 250,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "51792f2786054ab580a62d20a9b91be0"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-05T12:00:00.000Z",
   "pcReleaseDate": "2023-12-05T12:00:00.000Z",
