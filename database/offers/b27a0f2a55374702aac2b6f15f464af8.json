@@ -115,15 +115,20 @@
       }
     ]
   },
-  "offerMappings": null,
+  "offerMappings": [
+    {
+      "pageSlug": "dawn-of-anarchy-3309aa",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Whale Rock Games",
   "publisherDisplayName": "Whale Rock Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 299,
+      "discountPrice": 179,
       "originalPrice": 299,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 120,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -132,7 +137,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "ca3c29720d1040dba4de089ff8a46ac7"
+          }
+        ]
       }
     ]
   },
