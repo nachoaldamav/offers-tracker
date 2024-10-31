@@ -86,11 +86,47 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tt-isle-of-man-ride-on-the-edge-3--racing-fan-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "tt-isle-of-man-ride-on-the-edge-3",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "tt-isle-of-man-ride-on-the-edge-3--john-mcguinness-100th-start-special-livery",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "tt-isle-of-man-ride-on-the-edge-3--2023-tt-races-content-update",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "RaceWard Studio",
   "publisherDisplayName": "Nacon",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-05-11T16:00:00.000Z",
   "pcReleaseDate": "2023-05-11T16:00:00.000Z",
