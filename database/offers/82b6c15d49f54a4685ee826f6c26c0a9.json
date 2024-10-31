@@ -142,7 +142,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ranch-simulator",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "ranch-simulator--early-access-faq",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": null,
   "developerDisplayName": "Toxic Dog",
   "publisherDisplayName": "Excalibur Games",
