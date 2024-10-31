@@ -102,11 +102,47 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "spirit-of-the-island",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "spirit-of-the-island--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "spirit-of-the-island--adventureland",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 449,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 1050,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "2311a98bbddf4be7a9eb10fa18d265ff"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-03-16T16:00:00.000Z",
   "pcReleaseDate": "2022-03-16T16:00:00.000Z",
