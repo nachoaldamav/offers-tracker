@@ -95,11 +95,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "noob-the-factionless-ac623f",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "noob-the-factionless-ac623f",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "BlackPixel Studio, Olydri Games",
   "publisherDisplayName": "Olydri Games, Microids",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-28T22:00:00.000Z",
   "pcReleaseDate": "2023-06-28T22:00:00.000Z",

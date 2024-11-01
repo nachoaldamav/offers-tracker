@@ -91,11 +91,52 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "indies-lies-knightdlc-d57fc3",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "indies-lies-57f843",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "indies-lies-desires-flowing-1307c4",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "indies-lies-faq-c93c13",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "indies-lies-57f843",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Fun Square Games",
   "publisherDisplayName": "Erabit",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-15T02:30:00.000Z",
   "pcReleaseDate": "2022-03-31T00:00:00.000Z",
