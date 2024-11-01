@@ -121,10 +121,10 @@
   "publisherDisplayName": "Aori Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 399,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 100,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "4a3eaa6d4e5f474ebb2f6166dc0ffd62"
+          }
+        ]
       }
     ]
   },
