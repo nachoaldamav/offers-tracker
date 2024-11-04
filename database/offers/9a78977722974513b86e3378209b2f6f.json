@@ -121,10 +121,10 @@
   "publisherDisplayName": "Golden Rock GTeam",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 99,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1900,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "d7e58b91d78443c58e55c1eb5e98b74c"
+          }
+        ]
       }
     ]
   },
