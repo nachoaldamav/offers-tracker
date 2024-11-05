@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-09-12T14:06:27.482Z",
   "creationDate": "2024-04-01T16:29:40.868Z",
-  "lastModifiedDate": "2024-09-13T17:36:37.393Z",
+  "lastModifiedDate": "2024-11-05T16:03:33.445Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1116",
@@ -125,10 +129,10 @@
   "publisherDisplayName": "Jackbox Games, Inc.",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1499,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -137,7 +141,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "0df9cbc2aac14cc79d383e66f940933e"
+          }
+        ]
       }
     ]
   },

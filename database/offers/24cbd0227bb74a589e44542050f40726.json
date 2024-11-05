@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-07-18T08:00:00.000Z",
   "creationDate": "2022-12-19T13:37:15.399Z",
-  "lastModifiedDate": "2024-11-04T14:46:05.021Z",
+  "lastModifiedDate": "2024-11-05T16:03:33.447Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1310",
@@ -113,10 +117,10 @@
   "publisherDisplayName": "Hooded Horse",
   "price": {
     "totalPrice": {
-      "discountPrice": 3999,
+      "discountPrice": 2599,
       "originalPrice": 3999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "842b6cefe91948bf8fe7e86153de3067"
+          }
+        ]
       }
     ]
   },

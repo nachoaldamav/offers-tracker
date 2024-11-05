@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-08-22T06:00:00.000Z",
   "creationDate": "2024-07-30T14:29:48.341Z",
-  "lastModifiedDate": "2024-08-12T15:40:17.322Z",
+  "lastModifiedDate": "2024-11-05T16:03:33.445Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "9549",
@@ -117,10 +121,10 @@
   "publisherDisplayName": "KomodoBit Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 749,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 750,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "82ea1da92de64246bc8038f69d47b403"
+          }
+        ]
       }
     ]
   },

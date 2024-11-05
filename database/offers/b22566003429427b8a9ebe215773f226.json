@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-03-26T16:00:00.000Z",
   "creationDate": "2024-04-24T11:04:01.827Z",
-  "lastModifiedDate": "2024-04-25T15:28:48.379Z",
+  "lastModifiedDate": "2024-11-05T16:03:33.442Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "9549",
@@ -132,10 +136,10 @@
   "publisherDisplayName": "No More Robots",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 599,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -144,7 +148,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "a4e38791bf8744e38b0a23e161c615b5"
+          }
+        ]
       }
     ]
   },
