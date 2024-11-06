@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-11-06T16:00:00.000Z",
   "creationDate": "2024-06-10T08:32:48.645Z",
-  "lastModifiedDate": "2024-11-04T22:01:34.866Z",
+  "lastModifiedDate": "2024-11-06T16:00:19.465Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -20,6 +20,38 @@
     {
       "type": "Thumbnail",
       "url": "https://cdn1.epicgames.com/spt-assets/52faf491358e43ebaae61101562486f5/teenage-mutant-ninja-turtles-splintered-fate-124bp.png"
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://dbb2f405-e09e-45b1-b6b8-5e5ebd425438?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F52faf491358e43ebaae61101562486f5%2Fteenage-mutant-ninja-turtles-splintered-fate-video-mxjvl.png"
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://7ffce87a-1e07-4e9a-9220-785cc6121dcf?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F52faf491358e43ebaae61101562486f5%2Fteenage-mutant-ninja-turtles-splintered-fate-video-pjoob.jpg"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/52faf491358e43ebaae61101562486f5/teenage-mutant-ninja-turtles-splintered-fate-17o5q.jpg"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/52faf491358e43ebaae61101562486f5/teenage-mutant-ninja-turtles-splintered-fate-xcx13.jpg"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/52faf491358e43ebaae61101562486f5/teenage-mutant-ninja-turtles-splintered-fate-1om7k.jpg"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/52faf491358e43ebaae61101562486f5/teenage-mutant-ninja-turtles-splintered-fate-me9tt.jpg"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/52faf491358e43ebaae61101562486f5/teenage-mutant-ninja-turtles-splintered-fate-16ujf.jpg"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/52faf491358e43ebaae61101562486f5/teenage-mutant-ninja-turtles-splintered-fate-wbs7p.jpg"
     }
   ],
   "currentPrice": 2999,
@@ -149,10 +181,10 @@
   "publisherDisplayName": "Super Evil Megacorp",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 2699,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 300,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -161,7 +193,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "2c2bdda5e55046c1a5ac16c3ed3334fa"
+          }
+        ]
       }
     ]
   },
