@@ -162,7 +162,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tannenberg--supporter-edition",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "tannenberg",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

@@ -110,8 +110,20 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "stargate-timekeepers",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "stargate-timekeepers",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Slitherine Ltd.",
   "publisherDisplayName": "Slitherine Ltd.",
   "price": null,
