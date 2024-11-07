@@ -142,10 +142,10 @@
   "publisherDisplayName": "Tripwire Interactive",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 0,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1999,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -154,7 +154,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "194cc1f706a64606971c9180fc4ad346"
+          }
+        ]
       }
     ]
   },
