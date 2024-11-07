@@ -75,7 +75,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "red-ronin-d2678c",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "red-ronin-d2678c",
@@ -84,7 +91,28 @@
   ],
   "developerDisplayName": "Wired Dreams Studio",
   "publisherDisplayName": "Wired Dreams Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 295,
+      "originalPrice": 799,
+      "voucherDiscount": 0,
+      "discount": 504,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "337f8e274cb8409a8955c1bf239c8727"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-03-17T00:00:00.000Z",
   "pcReleaseDate": "2022-03-17T00:00:00.000Z",

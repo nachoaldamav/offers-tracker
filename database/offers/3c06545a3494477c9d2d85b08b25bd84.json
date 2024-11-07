@@ -71,7 +71,10 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
     {
       "id": "21138",
       "name": "Recommend this Game"
@@ -107,8 +110,7 @@
     {
       "id": "21119",
       "name": "Great for Beginners"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -136,7 +138,14 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "marvels-spider-man-remastered",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Insomniac Games, Nixxes Software",
   "publisherDisplayName": "PlayStation Publishing LLC",

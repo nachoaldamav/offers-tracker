@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "kanjozoku-game-online-street-racing-drift-c19181",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "kanjozoku-game-online-street-racing-drift-c19181",
@@ -100,7 +107,24 @@
   ],
   "developerDisplayName": "Midnight Works",
   "publisherDisplayName": "Midnight Works",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 599,
+      "originalPrice": 599,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-04T22:00:00.000Z",
   "pcReleaseDate": "2022-07-16T22:00:00.000Z",

@@ -59,7 +59,10 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
     {
       "id": "1151",
       "name": "Platformer"
@@ -67,8 +70,7 @@
     {
       "id": "1263",
       "name": "Indie"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -96,7 +98,14 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "wunderling-dx",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Bitwave Games",
   "publisherDisplayName": "Bitwave Games",

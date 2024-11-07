@@ -99,11 +99,43 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "rogue-lords--supporter-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "rogue-lords--blood-moon-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "rogue-lords",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-09-30T08:00:00.000Z",
   "pcReleaseDate": "2021-09-30T08:00:00.000Z",

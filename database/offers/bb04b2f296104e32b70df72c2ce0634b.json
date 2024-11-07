@@ -55,12 +55,14 @@
       "id": "1117",
       "name": "Adventure"
     },
-    null,
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
     {
       "id": "1263",
       "name": "Indie"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -109,7 +111,14 @@
       "path": "games/edition"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "moonglow-bay",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "moonglow-bay",
@@ -118,7 +127,24 @@
   ],
   "developerDisplayName": "Bunnyhug",
   "publisherDisplayName": "Coatsink",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-11-11T17:00:00.000Z",
   "pcReleaseDate": "2021-11-11T17:00:00.000Z",

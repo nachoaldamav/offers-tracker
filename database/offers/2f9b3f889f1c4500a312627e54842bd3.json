@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-mystery-of-the-moon-7f3e48",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-mystery-of-the-moon-7f3e48",
@@ -100,7 +107,24 @@
   ],
   "developerDisplayName": "Beijing 1023 Technology CO., Ltd",
   "publisherDisplayName": "Beijing 1023 Technology CO., Ltd",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 5999,
+      "originalPrice": 5999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-11-20T16:00:00.000Z",
   "pcReleaseDate": "2023-11-20T16:00:00.000Z",

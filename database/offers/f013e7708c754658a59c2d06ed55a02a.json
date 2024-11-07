@@ -99,7 +99,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-death-into-trouble-271916",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-death-into-trouble-271916",
@@ -108,7 +115,28 @@
   ],
   "developerDisplayName": "8 Million Bit",
   "publisherDisplayName": "Hanoi Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 249,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 250,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "b28b32f0e0264f079fc6d77f31426dac"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-19T17:00:00.000Z",
   "pcReleaseDate": "2021-10-22T14:00:00.000Z",
