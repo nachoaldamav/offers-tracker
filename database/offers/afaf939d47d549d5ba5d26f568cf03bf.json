@@ -107,10 +107,36 @@
       }
     ]
   },
-  "offerMappings": null,
+  "offerMappings": [
+    {
+      "pageSlug": "planet-of-lana-a9febe",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Wishfully",
   "publisherDisplayName": "Thunderful Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "6a606bb1382749c4816cd5b98017cf55"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-05-23T15:00:00.000Z",
   "pcReleaseDate": "2023-05-23T15:00:00.000Z",
