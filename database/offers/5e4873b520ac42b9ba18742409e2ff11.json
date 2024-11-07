@@ -99,14 +99,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "smurfs-village-party-665dc8",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "smurfs-village-party-665dc8",
@@ -115,7 +108,28 @@
   ],
   "developerDisplayName": "Balio Studio",
   "publisherDisplayName": "Microids",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2599,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 1400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "679c85948ea24793939514209b9d3755"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-06-24T09:00:00.000Z",
   "pcReleaseDate": "2024-06-06T08:00:00.000Z",
