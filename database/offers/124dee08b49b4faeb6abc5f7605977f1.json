@@ -95,11 +95,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "which-country-is-larger-820476",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "which-country-is-larger-820476",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Source Byte Sp. z o.o.",
   "publisherDisplayName": "Source Byte Sp. z o.o.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 79,
+      "originalPrice": 199,
+      "voucherDiscount": 0,
+      "discount": 120,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "47f6631daa7c4d3dadb87b4343fac4e9"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-04-05T16:00:00.000Z",
   "pcReleaseDate": "2024-04-05T16:00:00.000Z",

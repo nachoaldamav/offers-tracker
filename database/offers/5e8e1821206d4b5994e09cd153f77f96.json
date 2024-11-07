@@ -99,11 +99,52 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "samorost-3-0c4489",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "samorost-3-samorost-3-cosmic-edition-5b105c",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "samorost-3-samorost-3-soundtrack-plus-art-book-e574ec",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "samorost-3-0c4489",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Amanita Design",
   "publisherDisplayName": "Amanita Design",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "2321f1102c924fb0acf80654c56348a9"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-30T13:00:00.000Z",
   "pcReleaseDate": "2016-03-24T11:00:00.000Z",

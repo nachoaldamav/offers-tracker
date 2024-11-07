@@ -81,11 +81,63 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-sinking-city--chicago-organ-grinder",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-sinking-city--worshippers-of-the-necronomicon-dlc",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-sinking-city--artbook-and-ost",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-sinking-city--merciful-madness",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-sinking-city--experience-boost",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-sinking-city--investigator-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-sinking-city",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-sinking-city--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Frogwares",
   "publisherDisplayName": "Frogwares",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-20T09:00:00.000Z",
   "pcReleaseDate": null,

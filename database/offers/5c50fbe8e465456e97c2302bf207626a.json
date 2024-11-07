@@ -103,11 +103,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sudoku-zenkai-3990b1",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "sudoku-zenkai-3990b1",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "ImaginationOverflow",
   "publisherDisplayName": "ImaginationOverflow",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 399,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-06T14:00:00.000Z",
   "pcReleaseDate": "2018-04-01T23:00:00.000Z",

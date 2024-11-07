@@ -99,11 +99,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "medieval-delivery-938731",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "medieval-delivery-faq-5dd708",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "medieval-delivery-medieval-delivery-demo-e6d8a1",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "medieval-delivery-938731",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Mega Game Studios",
   "publisherDisplayName": "Mega Game Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1299,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-08-28T05:00:00.000Z",
   "pcReleaseDate": "2023-08-28T05:00:00.000Z",

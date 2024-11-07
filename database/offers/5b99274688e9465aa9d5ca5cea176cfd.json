@@ -91,11 +91,48 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "against-all-odds-409105",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "against-all-odds-extended-playtest-188750",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "against-all-odds-409105",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Microwave Games",
   "publisherDisplayName": "Freedom Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "4d6a9f26aea5445b8f3b7aff50f4d6f4"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-05-04T15:00:00.000Z",
   "pcReleaseDate": "2023-05-04T15:00:00.000Z",

@@ -123,11 +123,60 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "rise-of-industry-0af838",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "rise-of-industry-rise-of-industry-2130-4f6c58",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "rise-of-industry-rise-of-industry-2130-soundtrack-840d17",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "rise-of-industry-rise-of-industry-soundtrack-745002",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "rise-of-industry-rise-of-industry-supporter-pack-636fca",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "rise-of-industry-0af838",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Dapper Penguin Studios",
   "publisherDisplayName": "Kasedo Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 479,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 2520,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "88b917dea5884806b8119b62f9b1a532"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-08-11T11:00:00.000Z",
   "pcReleaseDate": "2019-05-01T23:00:00.000Z",
