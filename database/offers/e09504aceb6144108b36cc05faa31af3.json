@@ -115,11 +115,60 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "golfing-in-aether-winter-bdea7e",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "golfing-in-aether-golfing-in-aether-deluxe-edition-upgrade-f45377",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "golfing-in-aether-buy-golfing-in-aether-deluxe-edition-0892b9",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "golfing-in-aether-autumn-b0683e",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "golfing-in-aether-leviathan-c78e73",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "golfing-in-aether-cfac43",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "golfing-in-aether-cfac43",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Vetron",
   "publisherDisplayName": "Vetron",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 799,
+      "originalPrice": 799,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2022-09-23T18:00:00.000Z",
