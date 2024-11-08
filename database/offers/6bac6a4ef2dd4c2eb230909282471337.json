@@ -79,11 +79,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ggdenmetaverse-64f15a",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "ggdenmetaverse-faq-e505c4",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "ggdenmetaverse-64f15a",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "GGDEN",
   "publisherDisplayName": "GGDEN",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-06T00:00:00.000Z",
   "pcReleaseDate": "2023-12-19T15:00:00.000Z",
