@@ -118,7 +118,14 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "time-loader",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": null,
   "developerDisplayName": "Flazm",
   "publisherDisplayName": "META Publishing",
