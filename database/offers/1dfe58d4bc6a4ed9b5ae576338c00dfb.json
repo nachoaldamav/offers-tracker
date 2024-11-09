@@ -95,11 +95,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "exclusive-memories-0c9cc4",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "exclusive-memories-0c9cc4",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "JBDX studio",
   "publisherDisplayName": "JBDX studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 934,
+      "originalPrice": 1099,
+      "voucherDiscount": 0,
+      "discount": 165,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "5b0c853634164e7bbfcfdd0cf1f7e539"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-10-29T16:00:00.000Z",
   "pcReleaseDate": "2024-09-28T23:00:00.000Z",
