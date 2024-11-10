@@ -99,11 +99,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "terminator-dark-fate-f3fcaa",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "terminator-dark-fate-f3fcaa",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Slitherine Ltd.",
   "publisherDisplayName": "Slitherine Ltd.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3399,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "edae0260c5a44eddb4799c20263cd790"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-02-21T00:00:00.000Z",
   "pcReleaseDate": "2024-02-21T15:00:00.000Z",
