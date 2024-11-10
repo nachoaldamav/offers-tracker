@@ -110,11 +110,48 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sands-of-aura--early-access-faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "sands-of-aura",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "sands-of-aura",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Chashu Entertainment",
   "publisherDisplayName": "Freedom Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 1000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "734d1491149f4f8b9a3a6c395dba67b6"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-10-21T13:00:00.000Z",
   "pcReleaseDate": "2021-10-21T13:00:00.000Z",

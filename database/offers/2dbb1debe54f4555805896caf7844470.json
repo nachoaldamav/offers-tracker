@@ -114,11 +114,44 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "industria",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "industria",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Bleakmill",
   "publisherDisplayName": "Headup",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 459,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1540,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "c2107f167625475b9578223a6f42dd0b"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-09-30T16:00:00.000Z",
   "pcReleaseDate": "2021-09-30T16:00:00.000Z",

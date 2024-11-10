@@ -118,11 +118,48 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "spirit-of-the-island--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "spirit-of-the-island",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "spirit-of-the-island--adventureland",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "spirit-of-the-island",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "1M Bits Horde",
   "publisherDisplayName": "META Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-03-16T16:00:00.000Z",
   "pcReleaseDate": "2022-03-16T16:00:00.000Z",
