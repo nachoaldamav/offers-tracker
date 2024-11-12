@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-03-02T16:00:03.000Z",
   "creationDate": "2023-06-19T06:13:28.844Z",
-  "lastModifiedDate": "2024-09-16T15:02:03.243Z",
+  "lastModifiedDate": "2024-11-12T16:01:47.448Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1310",
@@ -113,10 +117,10 @@
   "publisherDisplayName": "GSG",
   "price": {
     "totalPrice": {
-      "discountPrice": 1899,
+      "discountPrice": 1139,
       "originalPrice": 1899,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 760,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "b4c3781d36a746c0973671527877085e"
+          }
+        ]
       }
     ]
   },
