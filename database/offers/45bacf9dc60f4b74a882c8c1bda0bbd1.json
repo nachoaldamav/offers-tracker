@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-12-08T16:00:00.000Z",
   "creationDate": "2023-12-01T08:40:42.766Z",
-  "lastModifiedDate": "2024-10-31T16:13:03.739Z",
+  "lastModifiedDate": "2024-11-14T16:14:14.800Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -34,10 +34,6 @@
     {
       "id": "1393",
       "name": "Simulation"
-    },
-    {
-      "id": "39907",
-      "name": "Headup Publisher Sale"
     },
     {
       "id": "1370",
@@ -83,11 +79,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "bridge-constructor-stunts-da814c",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "bridge-constructor-stunts-da814c",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "ClockStone",
   "publisherDisplayName": "Headup Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-08T16:00:00.000Z",
   "pcReleaseDate": "2016-02-23T07:30:00.000Z",
