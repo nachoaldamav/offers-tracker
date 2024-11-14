@@ -122,8 +122,23 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "honkai-star-rail",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "honkai-star-rail--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "honkai-star-rail--epic-mega-sale-event-bundle",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Shanghai miHoYo HaiYuancheng Technology Co., Ltd",
   "publisherDisplayName": "COGNOSPHERE PTE. LTD.",
   "price": {
