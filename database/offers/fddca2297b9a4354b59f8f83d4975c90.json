@@ -112,10 +112,10 @@
   "publisherDisplayName": "Astra Logical",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 0,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1499,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -124,7 +124,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "d6927f9c3cb14b498ee7c00f2b844b0f"
+          }
+        ]
       }
     ]
   },

@@ -120,10 +120,10 @@
   "publisherDisplayName": "KONAMI",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 0,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1999,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -132,7 +132,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "42c7cc4f32e24b97b45812d6f9ac6d21"
+          }
+        ]
       }
     ]
   },
