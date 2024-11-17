@@ -95,20 +95,15 @@
       }
     ]
   },
-  "offerMappings": [
-    {
-      "pageSlug": "eyes-of-memes-d8864a",
-      "pageType": "productHome"
-    }
-  ],
+  "offerMappings": null,
   "developerDisplayName": "Astra Playroom",
   "publisherDisplayName": "Astra Playroom",
   "price": {
     "totalPrice": {
-      "discountPrice": 99,
+      "discountPrice": 49,
       "originalPrice": 99,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 50,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -117,7 +112,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "75c1f05e62e349c788d09490233152fe"
+          }
+        ]
       }
     ]
   },
