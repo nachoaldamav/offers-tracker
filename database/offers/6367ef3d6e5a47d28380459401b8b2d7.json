@@ -83,11 +83,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "762-high-calibre-762-hard-life-762-hard-life-47647c",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "762-high-calibre-762-hard-life-93f60a",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "762-high-calibre-762-hard-life-93f60a",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Apeiron; HLA team",
   "publisherDisplayName": "Fulqrum Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-22T17:00:00.000Z",
   "pcReleaseDate": "2007-08-24T17:00:00.000Z",
