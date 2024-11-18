@@ -95,11 +95,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "art-shop-simulator-4ece69",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "art-shop-simulator-4ece69",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Lovheim Studios",
   "publisherDisplayName": "Lovheim Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1299,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-12-31T00:00:00.000Z",
   "pcReleaseDate": "2025-12-31T00:00:00.000Z",

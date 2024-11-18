@@ -91,11 +91,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "morbid-the-lords-of-ire-75896e",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "morbid-the-lords-of-ire-75896e",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Still Running",
   "publisherDisplayName": "Merge Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2024-05-17T16:00:00.000Z",
