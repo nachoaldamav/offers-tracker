@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-05-26T18:00:00.000Z",
   "creationDate": "2023-03-12T01:47:40.354Z",
-  "lastModifiedDate": "2024-10-08T15:00:51.207Z",
+  "lastModifiedDate": "2024-11-19T16:00:42.364Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1198",
@@ -117,10 +121,10 @@
   "publisherDisplayName": "NAISU",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 499,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "dcbe34023b4d4d6b85d9b9f519918eb9"
+          }
+        ]
       }
     ]
   },

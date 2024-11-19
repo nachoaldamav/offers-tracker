@@ -177,10 +177,10 @@
   "publisherDisplayName": "Ripstone",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1099,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 900,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -189,7 +189,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "9ec4d785398a46709f2e0b9cf3f2cdca"
+          }
+        ]
       }
     ]
   },
