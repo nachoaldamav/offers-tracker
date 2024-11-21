@@ -126,8 +126,28 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "good-company--early-access-faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "good-company--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "good-company",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "good-company",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Chasing Carrots",
   "publisherDisplayName": "Chasing Carrots GmbH & Co. KG",
   "price": null,
