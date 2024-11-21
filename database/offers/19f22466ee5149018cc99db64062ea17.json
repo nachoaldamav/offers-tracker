@@ -75,11 +75,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "adapt-c2c350",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "adapt-faq-6cce19",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "adapt-c2c350",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Paul Hervé",
   "publisherDisplayName": "Slug Disco Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-12-31T00:00:00.000Z",
   "pcReleaseDate": "2022-12-31T00:00:00.000Z",

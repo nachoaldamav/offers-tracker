@@ -91,11 +91,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "baldurs-gate-dark-alliance-2-14db6b",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "baldurs-gate-dark-alliance-2-14db6b",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Black Isle Studios",
   "publisherDisplayName": "Interplay Entertainment Corp.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-07-20T15:00:00.000Z",
   "pcReleaseDate": "2022-07-20T15:00:00.000Z",
