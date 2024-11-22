@@ -107,11 +107,48 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "captain-bones-a5c57e",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "captain-bones-faq-62b777",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "captain-bones-a5c57e",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "World of Poly",
   "publisherDisplayName": "World of Poly",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1039,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 260,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "3d012896353c45a48b37804a55f4e6ea"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-11-15T17:00:00.000Z",
   "pcReleaseDate": "2022-07-27T17:00:00.000Z",
