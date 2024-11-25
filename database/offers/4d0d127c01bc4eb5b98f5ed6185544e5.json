@@ -91,11 +91,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "fantasy-world-td-851287",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "fantasy-world-td-faq-383a3d",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "fantasy-world-td-851287",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "KriLi Games",
   "publisherDisplayName": "KriLi Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-05-17T22:00:00.000Z",
   "pcReleaseDate": "2023-05-17T22:00:00.000Z",
