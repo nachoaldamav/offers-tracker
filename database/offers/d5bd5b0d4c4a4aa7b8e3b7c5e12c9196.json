@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-01-24T04:00:00.000Z",
   "creationDate": "2024-01-19T17:12:24.505Z",
-  "lastModifiedDate": "2024-08-01T15:03:34.884Z",
+  "lastModifiedDate": "2024-11-26T16:00:46.588Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     }
   ],
   "items": [
@@ -101,10 +105,10 @@
   "publisherDisplayName": "Strategy First",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 199,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 800,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -113,7 +117,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "41b0baa789c84c79b3288c1c91346229"
+          }
+        ]
       }
     ]
   },

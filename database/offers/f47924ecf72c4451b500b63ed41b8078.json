@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-08-09T23:00:00.000Z",
   "creationDate": "2023-11-30T13:27:03.806Z",
-  "lastModifiedDate": "2024-10-04T07:37:17.264Z",
+  "lastModifiedDate": "2024-11-26T16:00:46.587Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -36,6 +36,26 @@
       "name": "Online Multiplayer"
     },
     {
+      "id": "21894",
+      "name": "Cloud Saves"
+    },
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
+    {
       "id": "1264",
       "name": "Co-op"
     },
@@ -56,24 +76,8 @@
       "name": "Party"
     },
     {
-      "id": "21894",
-      "name": "Cloud Saves"
-    },
-    {
-      "id": "19847",
-      "name": "Achievements"
-    },
-    {
       "id": "1370",
       "name": "Single Player"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support"
     },
     {
       "id": "1183",
@@ -137,10 +141,10 @@
   "publisherDisplayName": "Run-Down Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 249,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 250,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -149,7 +153,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "9c20e393057649ad9b12030edf288b67"
+          }
+        ]
       }
     ]
   },

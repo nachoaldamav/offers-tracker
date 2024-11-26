@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-06-28T11:00:00.000Z",
   "creationDate": "2023-05-27T11:40:17.900Z",
-  "lastModifiedDate": "2024-07-23T14:30:57.069Z",
+  "lastModifiedDate": "2024-11-26T16:00:46.588Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1117",
@@ -113,10 +117,10 @@
   "publisherDisplayName": "Space Pigeon Studios",
   "price": {
     "totalPrice": {
-      "discountPrice": 799,
+      "discountPrice": 599,
       "originalPrice": 799,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "e4dca21a05f04c29ba4870c7559c3c1b"
+          }
+        ]
       }
     ]
   },

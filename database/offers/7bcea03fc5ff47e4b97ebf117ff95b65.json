@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-02-15T18:00:00.000Z",
   "creationDate": "2023-04-09T12:05:55.565Z",
-  "lastModifiedDate": "2024-02-16T07:01:39.912Z",
+  "lastModifiedDate": "2024-11-26T16:00:46.586Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1263",
@@ -113,10 +117,10 @@
   "publisherDisplayName": "The Selenite Forge",
   "price": {
     "totalPrice": {
-      "discountPrice": 299,
+      "discountPrice": 200,
       "originalPrice": 299,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 99,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "7afe663ce7aa4430afc7065e250f037f"
+          }
+        ]
       }
     ]
   },
