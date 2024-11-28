@@ -132,10 +132,10 @@
   "publisherDisplayName": "Blobfish Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 0,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 499,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -144,7 +144,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "458ffab429e141ed95356377b1dd3df4"
+          }
+        ]
       }
     ]
   },
