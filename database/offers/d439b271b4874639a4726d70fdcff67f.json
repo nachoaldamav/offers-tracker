@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "saboteur-f3d01d",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "saboteur-f3d01d",
@@ -100,7 +107,28 @@
   ],
   "developerDisplayName": "SimFabric S.A.",
   "publisherDisplayName": "SimFabric S.A.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 559,
+      "originalPrice": 799,
+      "voucherDiscount": 0,
+      "discount": 240,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "4313b0048687410ca3f478241fc822e8"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-28T18:00:00.000Z",
   "pcReleaseDate": "2023-04-28T18:00:00.000Z",
