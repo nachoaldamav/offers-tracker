@@ -47,29 +47,16 @@
   "urlSlug": "boomerangx-general-audience",
   "url": null,
   "tags": [
-    {
-      "id": "1216",
-      "name": "Action"
-    },
+    null,
     {
       "id": "1185",
       "name": "FPS"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support"
-    },
+    null,
+    null,
     {
       "id": "38237",
       "name": "Devolver Digital Publisher Sale"
-    },
-    {
-      "id": "1263",
-      "name": "Indie"
     }
   ],
   "items": [
@@ -110,7 +97,14 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "boomerang-x",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

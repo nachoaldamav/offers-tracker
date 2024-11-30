@@ -91,11 +91,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "phantom-watcher-10faa4",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "phantom-watcher-faq-6abe68",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "phantom-watcher-10faa4",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Silly Studioz",
   "publisherDisplayName": "Catalyst Games, LLC",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-04-09T17:00:00.000Z",
   "pcReleaseDate": "2024-04-09T17:00:00.000Z",

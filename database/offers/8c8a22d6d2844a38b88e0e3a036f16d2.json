@@ -35,14 +35,8 @@
       "id": "1216",
       "name": "Action"
     },
-    {
-      "id": "1210",
-      "name": "Shooter"
-    },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
+    null,
+    null,
     {
       "id": "9547",
       "name": "Windows"
@@ -87,11 +81,40 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "valfaris-mecha-therion-e1182d",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "valfaris-mecha-therion-e1182d",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Steel Mantis",
   "publisherDisplayName": "Big Sugar",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2023-11-17T18:00:00.000Z",

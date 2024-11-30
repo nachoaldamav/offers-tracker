@@ -43,10 +43,7 @@
   "urlSlug": "hokigeneralaudience",
   "url": null,
   "tags": [
-    {
-      "id": "1216",
-      "name": "Action"
-    },
+    null,
     {
       "id": "1188",
       "name": "RELAXING"
@@ -59,14 +56,8 @@
       "id": "21127",
       "name": "Creative Community"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support"
-    },
+    null,
+    null,
     {
       "id": "21137",
       "name": "Unique Visuals"
@@ -150,11 +141,35 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "darksiders2",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2015-11-05T15:00:00.000Z",
   "pcReleaseDate": null,

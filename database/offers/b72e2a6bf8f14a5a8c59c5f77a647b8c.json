@@ -99,11 +99,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "shrommzzz-426bcd",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "shrommzzz-426bcd",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Space Pigeon Studios",
   "publisherDisplayName": "Space Pigeon Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 599,
+      "originalPrice": 799,
+      "voucherDiscount": 0,
+      "discount": 200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "e4dca21a05f04c29ba4870c7559c3c1b"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-28T11:00:00.000Z",
   "pcReleaseDate": "2023-05-26T14:00:00.000Z",

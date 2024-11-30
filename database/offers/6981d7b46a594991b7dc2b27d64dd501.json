@@ -43,10 +43,7 @@
   "urlSlug": "farcry",
   "url": null,
   "tags": [
-    {
-      "id": "1216",
-      "name": "Action"
-    },
+    null,
     {
       "id": "1185",
       "name": "FPS"
@@ -54,10 +51,6 @@
     {
       "id": "21109",
       "name": "Great Boss Battles"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
     }
   ],
   "items": [
@@ -98,11 +91,35 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "far-cry",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-08-18T15:00:00.000Z",
   "pcReleaseDate": "2004-03-23T11:00:00.000Z",

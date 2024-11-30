@@ -31,10 +31,7 @@
   "urlSlug": "0e2d34c874ca483491fcadc4e536987f",
   "url": null,
   "tags": [
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
+    null,
     {
       "id": "1083",
       "name": "Rogue-Lite"
@@ -91,11 +88,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "lucky-tower-ultimate-aa04de",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "lucky-tower-ultimate-aa04de",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Studio Seufz",
   "publisherDisplayName": "AMC Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-12-31T00:00:00.000Z",
   "pcReleaseDate": "2025-12-31T00:00:00.000Z",

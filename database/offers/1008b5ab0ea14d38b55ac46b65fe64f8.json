@@ -94,11 +94,59 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "vampire-the-masquerade-swansong--primogen-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "vampire-the-masquerade-swansong--victoria-ash",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "vampire-the-masquerade-swansong--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "vampire-the-masquerade-swansong--artifacts-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "vampire-the-masquerade-swansong--outfits-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "vampire-the-masquerade-swansong--artbook",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "vampire-the-masquerade-swansong",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Big Bad Wolf",
   "publisherDisplayName": "Nacon",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-05-19T08:00:00.000Z",
   "pcReleaseDate": "2022-05-19T08:00:00.000Z",

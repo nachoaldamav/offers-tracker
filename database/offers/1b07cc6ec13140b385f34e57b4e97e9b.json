@@ -43,10 +43,7 @@
   "urlSlug": "hypnos",
   "url": null,
   "tags": [
-    {
-      "id": "1216",
-      "name": "Action"
-    },
+    null,
     {
       "id": "1185",
       "name": "FPS"
@@ -62,10 +59,6 @@
     {
       "id": "1370",
       "name": "Single Player"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
     }
   ],
   "items": [
@@ -106,11 +99,43 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "wrath-aeon-of-ruin--early-access-faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "wrath-aeon-of-ruin",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 849,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 1650,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "7404382555eb42dd882dec44731d491d"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-02-18T18:00:00.000Z",
   "pcReleaseDate": "2021-02-18T18:00:00.000Z",

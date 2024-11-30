@@ -43,10 +43,7 @@
   "urlSlug": "radishgeneralaudience",
   "url": null,
   "tags": [
-    {
-      "id": "1216",
-      "name": "Action"
-    },
+    null,
     {
       "id": "1344",
       "name": "Fighting"
@@ -75,10 +72,7 @@
       "id": "1370",
       "name": "Single Player"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "21147",
       "name": "Inclusive Character Customization"
@@ -122,11 +116,43 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "kingdoms-of-amalur-re-reckoning",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "kingdoms-of-amalur-re-reckoning--fate-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "kingdoms-of-amalur-re-reckoning--fatesworn",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-09-08T17:00:00.000Z",
   "pcReleaseDate": "2020-09-08T17:00:00.000Z",

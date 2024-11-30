@@ -35,10 +35,7 @@
   "urlSlug": "india-general-audience",
   "url": null,
   "tags": [
-    {
-      "id": "1216",
-      "name": "Action"
-    },
+    null,
     {
       "id": "39909",
       "name": "Black Friday - Cyber Monday Sale"
@@ -54,10 +51,6 @@
     {
       "id": "1370",
       "name": "Single Player"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
     }
   ],
   "items": [
@@ -110,7 +103,30 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "graven--graven-early-access-faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "graven",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "graven--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "graven--artbook",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "graven--soundtrack",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "graven",
@@ -119,7 +135,28 @@
   ],
   "developerDisplayName": "Slipgate Ironworks™",
   "publisherDisplayName": "Fulqrum Publishing, 3D Realms",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 849,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 1650,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "bbe58a99bdb841b983dc448a98c0cddb"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-05-26T17:00:00.000Z",
   "pcReleaseDate": "2021-05-26T17:00:00.000Z",

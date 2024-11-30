@@ -87,11 +87,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sentinel-3-homeworld-2f6183",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "sentinel-3-homeworld-2f6183",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Origin8",
   "publisherDisplayName": "Strategy First",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 139,
+      "originalPrice": 699,
+      "voucherDiscount": 0,
+      "discount": 560,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "2af533ad489445b89f4e2a6a682b8a25"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-02-28T04:00:00.000Z",
   "pcReleaseDate": "2010-11-26T03:00:00.000Z",

@@ -83,10 +83,7 @@
       "id": "19847",
       "name": "Achievements"
     },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
+    null,
     {
       "id": "9547",
       "name": "Windows"
@@ -135,11 +132,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "hero-of-the-kingdom-the-lost-tales-3-hero-of-the-kingdom-the-lost-tales-3-demo-7e1f03",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hero-of-the-kingdom-the-lost-tales-3-4c728d",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "hero-of-the-kingdom-the-lost-tales-3-4c728d",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Lonely Troops",
   "publisherDisplayName": "Lonely Troops",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 629,
+      "originalPrice": 699,
+      "voucherDiscount": 0,
+      "discount": 70,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "fe8bc73147314e6fa854c13fa42b8abd"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-11-26T15:00:00.000Z",
   "pcReleaseDate": "2024-11-26T15:00:00.000Z",

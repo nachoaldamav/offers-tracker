@@ -47,14 +47,8 @@
       "id": "19847",
       "name": "Achievements"
     },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
-    {
-      "id": "1115",
-      "name": "Strategy"
-    },
+    null,
+    null,
     {
       "id": "9547",
       "name": "Windows"
@@ -103,11 +97,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "63-days-df3834",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "63-days-63-days-demo-7b451f",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "63-days-df3834",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Destructive Creations",
   "publisherDisplayName": "Destructive Creations",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-09-26T16:00:00.000Z",
   "pcReleaseDate": "2024-09-26T16:00:00.000Z",

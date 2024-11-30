@@ -51,10 +51,7 @@
       "id": "1210",
       "name": "Shooter"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1310",
       "name": "EARLY ACCESS"
@@ -98,7 +95,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "super-squad--early-access-faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "super-squad",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

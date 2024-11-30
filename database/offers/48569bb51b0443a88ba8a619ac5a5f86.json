@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-09-20T11:00:00.000Z",
   "creationDate": "2024-07-03T21:15:14.105Z",
-  "lastModifiedDate": "2024-11-29T18:23:49.845Z",
+  "lastModifiedDate": "2024-11-30T19:25:27.387Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -43,10 +43,7 @@
       "id": "19847",
       "name": "Achievements"
     },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
+    null,
     {
       "id": "9547",
       "name": "Windows"
@@ -103,11 +100,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "crisis-command-595f58",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "crisis-command-595f58",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Saint Pixels Entertainment",
   "publisherDisplayName": "Saint Pixels Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-09-20T11:00:00.000Z",
   "pcReleaseDate": "2024-09-20T11:00:00.000Z",

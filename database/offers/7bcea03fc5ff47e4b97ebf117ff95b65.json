@@ -99,11 +99,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "dot-line-e45fbd",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "dot-line-e45fbd",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "The Selenite Forge",
   "publisherDisplayName": "The Selenite Forge",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 200,
+      "originalPrice": 299,
+      "voucherDiscount": 0,
+      "discount": 99,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "7afe663ce7aa4430afc7065e250f037f"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-02-15T18:00:00.000Z",
   "pcReleaseDate": "2018-09-22T00:00:00.000Z",

@@ -47,10 +47,7 @@
       "id": "19847",
       "name": "Achievements"
     },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
+    null,
     {
       "id": "9547",
       "name": "Windows"
@@ -107,11 +104,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "exographer-6a3d57",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "exographer-6a3d57",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "SciFunGames",
   "publisherDisplayName": "Abylight Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1599,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "337254a9df844793b9025ca21d7b38fc"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-09-26T00:00:00.000Z",
   "pcReleaseDate": "2024-09-26T00:00:00.000Z",

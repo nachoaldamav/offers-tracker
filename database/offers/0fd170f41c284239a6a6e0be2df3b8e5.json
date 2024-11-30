@@ -59,10 +59,7 @@
       "id": "21894",
       "name": "Cloud Saves"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1264",
       "name": "Co-op"
@@ -142,7 +139,38 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "overcooked-2--too-many-cooks",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "overcooked-2--campfire-cook-off",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "overcooked-2--night-of-the-hangry-horde",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "overcooked-2--carnival-of-chaos",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "overcooked-2--surf-n-turf",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "overcooked-2--gourmet-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "overcooked-2",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

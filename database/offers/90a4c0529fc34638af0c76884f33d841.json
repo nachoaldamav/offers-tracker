@@ -39,10 +39,7 @@
       "id": "36804",
       "name": "Guerilla Collective Showcase"
     },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
+    null,
     {
       "id": "9547",
       "name": "Windows"
@@ -95,11 +92,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "steel-seed-cdc5d9",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "steel-seed-steel-seed-demo-a5ca5a",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "steel-seed-cdc5d9",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Storm in a Teacup",
   "publisherDisplayName": "ESDigital Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",

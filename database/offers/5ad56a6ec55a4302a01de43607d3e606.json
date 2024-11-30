@@ -54,14 +54,6 @@
     {
       "id": "1370",
       "name": "Single Player"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
-    {
-      "id": "1263",
-      "name": "Indie"
     }
   ],
   "items": [
@@ -98,7 +90,14 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "asemblance",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
