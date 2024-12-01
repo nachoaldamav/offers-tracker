@@ -31,7 +31,10 @@
   "urlSlug": "7f153786770447bb931e05587c071f83",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1264",
+      "name": "Co-op"
+    },
     {
       "id": "1283",
       "name": "Sports"
@@ -44,7 +47,10 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1212",
       "name": "Racing"
@@ -56,9 +62,7 @@
     {
       "id": "9549",
       "name": "Controller Support"
-    },
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -95,11 +99,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "super-kids-racing-mini-edition-super-kids-racing-mini-edition-demo-613ee0",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "super-kids-racing-mini-edition-65c0fa",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "super-kids-racing-mini-edition-65c0fa",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Yash Future Tech Solutions Pvt Ltd",
   "publisherDisplayName": "Yash Future Tech Solutions Pvt Ltd",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 149,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 850,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "c787cb002d594e6a9e20fee1120707cd"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-09T18:30:00.000Z",
   "pcReleaseDate": "2023-01-24T18:30:00.000Z",

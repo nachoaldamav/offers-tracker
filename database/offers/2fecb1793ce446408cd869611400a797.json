@@ -106,7 +106,26 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "aerial-knights-never-yield--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "aerial-knights-never-yield-faq-2cf46f",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "aerial-knights-never-yield--soundtrack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "aerial-knights-never-yield",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "aerial-knights-never-yield",
@@ -115,7 +134,24 @@
   ],
   "developerDisplayName": "Aerial_Knight",
   "publisherDisplayName": "Headup",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1199,
+      "originalPrice": 1199,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-05-19T15:00:00.000Z",
   "pcReleaseDate": "2021-05-19T15:00:00.000Z",

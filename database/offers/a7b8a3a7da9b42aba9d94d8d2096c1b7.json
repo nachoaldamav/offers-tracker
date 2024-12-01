@@ -47,8 +47,14 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
+    {
+      "id": "1115",
+      "name": "Strategy"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "9549",
       "name": "Controller Support"
@@ -56,9 +62,7 @@
     {
       "id": "1263",
       "name": "Indie"
-    },
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -95,11 +99,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "lysfanga-9608f2",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "lysfanga-9608f2",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Sand Door Studio",
   "publisherDisplayName": "Quantic Dream",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 749,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 1750,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "aee4fe4cca6b4a6b9e833258f977551b"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-02-13T15:00:00.000Z",
   "pcReleaseDate": "2024-02-13T15:00:00.000Z",

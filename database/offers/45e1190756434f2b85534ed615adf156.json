@@ -43,7 +43,10 @@
       "id": "1185",
       "name": "FPS"
     },
-    null,
+    {
+      "id": "1203",
+      "name": "Multiplayer"
+    },
     {
       "id": "21109",
       "name": "Great Boss Battles"
@@ -59,8 +62,7 @@
     {
       "id": "9547",
       "name": "Windows"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -88,11 +90,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "redfall",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "redfall--original-game-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Arkane Studios",
   "publisherDisplayName": "Bethesda Softworks",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-05-02T00:00:00.000Z",
   "pcReleaseDate": "2023-05-02T00:00:00.000Z",

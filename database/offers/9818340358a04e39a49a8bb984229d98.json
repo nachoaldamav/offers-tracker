@@ -47,7 +47,10 @@
       "id": "1218",
       "name": "Horror"
     },
-    null,
+    {
+      "id": "39909",
+      "name": "Black Friday - Cyber Monday Sale"
+    },
     {
       "id": "1080",
       "name": "Survival"
@@ -59,8 +62,7 @@
     {
       "id": "1084",
       "name": "Stealth"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -104,11 +106,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-count-lucanor",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Baroque Decay",
   "publisherDisplayName": "Neon Doctrine",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 700,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "dba73459b40c4d03a1288881463cdc2c"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-06-30T17:00:00.000Z",
   "pcReleaseDate": "2016-03-03T11:00:00.000Z",

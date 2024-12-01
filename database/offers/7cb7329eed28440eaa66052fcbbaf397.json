@@ -55,7 +55,10 @@
       "id": "1283",
       "name": "Sports"
     },
-    null,
+    {
+      "id": "39909",
+      "name": "Black Friday - Cyber Monday Sale"
+    },
     {
       "id": "21894",
       "name": "Cloud Saves"
@@ -71,8 +74,7 @@
     {
       "id": "1212",
       "name": "Racing"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -113,11 +115,68 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "wrc-9--wrc-9-fia-rally-star",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wrc-9--wrc-9-barcelona-sss",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wrc-9--wrc-9-audi-quattro-a21984",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wrc-9--wrc-9-career-starter-upgrades",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wrc-9--wrc-9-toyota-corolla1999",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wrc-9",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "wrc-9--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "wrc-9--deluxe-edition",
+      "pageType": "offer"
+    }
+  ],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 4000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "9520b4e0087d4062b564ac74c8b144fe"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-09-01T15:00:00.000Z",
   "pcReleaseDate": "2020-09-01T15:00:00.000Z",

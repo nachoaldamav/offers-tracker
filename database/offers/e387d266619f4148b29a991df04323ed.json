@@ -31,7 +31,10 @@
   "urlSlug": "281ea11721994474acafa11e506e6434",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1264",
+      "name": "Co-op"
+    },
     {
       "id": "1395",
       "name": "Narration"
@@ -48,7 +51,10 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1117",
       "name": "Adventure"
@@ -56,9 +62,7 @@
     {
       "id": "1183",
       "name": "Local Multiplayer"
-    },
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -95,11 +99,96 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "as-dusk-falls-308b83",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "as-dusk-falls-spanish-voice-over-spain-e07ce1",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "as-dusk-falls-japanese-voice-over-279b79",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "as-dusk-falls-chinese-voice-over-simplified-6619d0",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "as-dusk-falls-russian-voice-over-99e788",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "as-dusk-falls-italian-voice-over-4d4cd3",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "as-dusk-falls-high-definition-texture-pack-3ad082",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "as-dusk-falls-german-voice-over-098ea5",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "as-dusk-falls-spanish-voice-over-mexico-b117b3",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "as-dusk-falls-portuguese-voice-over-brazil-c93314",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "as-dusk-falls-french-voice-over-75e018",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "as-dusk-falls-korean-voice-over-fd8bf5",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "as-dusk-falls-chinese-voice-over-traditional-0bbf04",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "as-dusk-falls-faq-9968c9",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "as-dusk-falls-308b83",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "INTERIOR/NIGHT",
   "publisherDisplayName": "INTERIOR/NIGHT",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1949,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 1050,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "102481d5f9024c988bb2fc79204a5afd"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-07T14:00:00.000Z",
   "pcReleaseDate": "2022-07-19T03:00:00.000Z",

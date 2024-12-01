@@ -31,7 +31,10 @@
   "urlSlug": "ff83a15298104af5bf6379fa9597a760",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1367",
+      "name": "RPG"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -39,8 +42,7 @@
     {
       "id": "1263",
       "name": "Indie"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -77,11 +79,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "subterrain-mines-of-titan-df2d9d",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "subterrain-mines-of-titan-df2d9d",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Pixellore Inc",
   "publisherDisplayName": "Freedom Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",

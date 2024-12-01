@@ -39,7 +39,10 @@
       "id": "21122",
       "name": "Diverse Characters"
     },
-    null,
+    {
+      "id": "1188",
+      "name": "RELAXING"
+    },
     {
       "id": "19847",
       "name": "Achievements"
@@ -64,7 +67,10 @@
       "id": "1264",
       "name": "Co-op"
     },
-    null,
+    {
+      "id": "21137",
+      "name": "Unique Visuals"
+    },
     {
       "id": "21138",
       "name": "Recommend this Game"
@@ -93,14 +99,14 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "1117",
+      "name": "Adventure"
+    },
     {
       "id": "21149",
       "name": "Quickly Understand the Controls"
-    },
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -128,11 +134,59 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "remnant-2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "remnant-2--dark-horizon",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "remnant-2--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "remnant-2--ultimate-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "remnant-2--the-awakened-king",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "remnant-2--dlc-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "remnant-2--the-forgotten-kingdom",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Gunfire Games",
   "publisherDisplayName": "Arc Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-07-25T16:00:00.000Z",
   "pcReleaseDate": "2023-07-25T16:00:00.000Z",

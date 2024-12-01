@@ -43,7 +43,10 @@
       "id": "1299",
       "name": "Competitive"
     },
-    null,
+    {
+      "id": "1367",
+      "name": "RPG"
+    },
     {
       "id": "1115",
       "name": "Strategy"
@@ -56,12 +59,14 @@
       "id": "21739",
       "name": "NFT BLOCKCHAIN"
     },
-    null,
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
     {
       "id": "1183",
       "name": "Local Multiplayer"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -102,11 +107,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "eldersgrace-333b83",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "eldersgrace-faq-55a087",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "eldersgrace-333b83",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Meta Monkey, Inc.",
   "publisherDisplayName": "Meta Monkey Inc,.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-12-31T00:00:00.000Z",
   "pcReleaseDate": "2025-12-31T00:00:00.000Z",

@@ -43,7 +43,10 @@
   "urlSlug": "eastward",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "39909",
+      "name": "Black Friday - Cyber Monday Sale"
+    },
     {
       "id": "21894",
       "name": "Cloud Saves"
@@ -75,8 +78,7 @@
     {
       "id": "1263",
       "name": "Indie"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -116,7 +118,14 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "eastward",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

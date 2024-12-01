@@ -31,7 +31,10 @@
   "urlSlug": "ea0e51efcad3474d974810c047427ab1",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1264",
+      "name": "Co-op"
+    },
     {
       "id": "1283",
       "name": "Sports"
@@ -52,7 +55,10 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "9549",
       "name": "Controller Support"
@@ -64,9 +70,7 @@
     {
       "id": "1183",
       "name": "Local Multiplayer"
-    },
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -107,11 +111,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "trigger-tennis-a4facb",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "trigger-tennis-a4facb",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "659 Records (PTY) LTD",
   "publisherDisplayName": "659 Records (PTY) LTD",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 149,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 350,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "32b9450e4b3a43968e4c6ab11909b617"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-05-09T23:00:00.000Z",
   "pcReleaseDate": "2024-01-03T23:00:00.000Z",

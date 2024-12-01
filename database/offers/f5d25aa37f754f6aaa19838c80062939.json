@@ -51,12 +51,14 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "9549",
       "name": "Controller Support"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -93,11 +95,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "space-explore-space-explore-demo-284c2c",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "space-explore-d8aab3",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "space-explore-d8aab3",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Yash Future Tech Solutions Pvt Ltd",
   "publisherDisplayName": "Yash Future Tech Solutions Pvt Ltd",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 149,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 850,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "890c847f96174198bdd28539c2c60cbf"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-08T18:30:00.000Z",
   "pcReleaseDate": "2021-05-03T18:30:00.000Z",

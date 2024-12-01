@@ -67,7 +67,10 @@
       "id": "1216",
       "name": "Action"
     },
-    null,
+    {
+      "id": "1367",
+      "name": "RPG"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -80,8 +83,10 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
-    null
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    }
   ],
   "items": [
     {
@@ -122,11 +127,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sin-slayers-reign-of-the-8th-96166c",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "sin-slayers-reign-of-the-8th-96166c",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Goonswarm Games",
   "publisherDisplayName": "Goonswarm Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1199,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 800,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "99d8bcd9e49743638d8f8ef86d65aa22"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-11-25T15:00:00.000Z",
   "pcReleaseDate": "2024-11-25T15:00:00.000Z",

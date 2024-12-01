@@ -59,8 +59,14 @@
       "id": "34568",
       "name": "EA Play Discount"
     },
-    null,
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "1264",
+      "name": "Co-op"
+    },
     {
       "id": "1393",
       "name": "Simulation"
@@ -76,9 +82,7 @@
     {
       "id": "1212",
       "name": "Racing"
-    },
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -119,11 +123,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "need-for-speed-2016-74ce95",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "need-for-speed-2016-74ce95",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Ghost Games",
   "publisherDisplayName": "Electronic Arts",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 2700,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "e3141f8eb5d04cb7970e5e22cdd0bf07"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-28T15:00:00.000Z",
   "pcReleaseDate": "2016-03-14T23:00:00.000Z",

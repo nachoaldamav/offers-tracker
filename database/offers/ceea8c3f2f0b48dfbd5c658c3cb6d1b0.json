@@ -31,7 +31,10 @@
   "urlSlug": "9e50ca4a982f4780bbb858d0879296d2",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1264",
+      "name": "Co-op"
+    },
     {
       "id": "39909",
       "name": "Black Friday - Cyber Monday Sale"
@@ -48,7 +51,10 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "9549",
       "name": "Controller Support"
@@ -56,9 +62,7 @@
     {
       "id": "1183",
       "name": "Local Multiplayer"
-    },
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -95,11 +99,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "river-city-girls-e6f608",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "river-city-girls-e6f608",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "WayForward",
   "publisherDisplayName": "WayForward / Arc System Works",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 1500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "f1cea4c763944d55889ef16dba78092d"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-10T01:45:51.684Z",
   "pcReleaseDate": "2019-09-05T17:00:00.000Z",

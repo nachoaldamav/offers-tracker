@@ -47,12 +47,14 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1294",
       "name": "First Person"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -93,11 +95,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "fell-in-love-with-coser-0015db",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "fell-in-love-with-coser-0015db",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Thermae",
   "publisherDisplayName": "Thermae",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 449,
+      "originalPrice": 899,
+      "voucherDiscount": 0,
+      "discount": 450,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "3cac789554844cd8b5ace0f042e6d1dd"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-02-29T16:00:00.819Z",
   "pcReleaseDate": "2024-02-29T16:00:00.000Z",

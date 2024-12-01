@@ -83,11 +83,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "hazel-sky-478373",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "hazel-sky-hazel-sky-soundtrack-aec455",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "hazel-sky-478373",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "CoffeeAddict Studio",
   "publisherDisplayName": "Neon Doctrine",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 624,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 1875,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "af175ecaff9343d4950e7e0590f8c73e"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-07-20T01:00:00.000Z",
   "pcReleaseDate": "2022-07-20T01:00:00.000Z",

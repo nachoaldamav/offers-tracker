@@ -87,11 +87,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "mable-and-the-wood-9bd697",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "mable-and-the-wood-9bd697",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Triplevision Games",
   "publisherDisplayName": "Graffiti Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-08-26T14:00:00.000Z",
   "pcReleaseDate": "2019-08-23T14:00:00.000Z",

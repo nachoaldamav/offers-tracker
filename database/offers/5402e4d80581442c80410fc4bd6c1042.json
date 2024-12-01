@@ -47,7 +47,10 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "1115",
+      "name": "Strategy"
+    },
     {
       "id": "9547",
       "name": "Windows"
@@ -55,8 +58,7 @@
     {
       "id": "9549",
       "name": "Controller Support"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -93,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "chaos-galaxy-a33dac",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "chaos-galaxy-a33dac",
@@ -102,7 +111,24 @@
   ],
   "developerDisplayName": "Han zhiyu",
   "publisherDisplayName": "ChaosGalaxyStudio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-10T11:00:00.000Z",
   "pcReleaseDate": "2020-06-19T16:30:00.000Z",

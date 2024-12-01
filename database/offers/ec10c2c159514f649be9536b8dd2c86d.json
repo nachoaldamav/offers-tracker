@@ -47,12 +47,14 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1263",
       "name": "Indie"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -93,11 +95,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "firelight-fantasy-force-energy-c5dce7",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "firelight-fantasy-force-energy-c5dce7",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Whale Rock Games",
   "publisherDisplayName": "Whale Rock Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 89,
+      "originalPrice": 299,
+      "voucherDiscount": 0,
+      "discount": 210,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "6b4927a5056d4effac26fcb583c3f061"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-06-26T09:00:00.000Z",
   "pcReleaseDate": "2022-02-18T10:00:00.000Z",

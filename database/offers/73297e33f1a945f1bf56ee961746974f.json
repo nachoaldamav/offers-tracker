@@ -47,7 +47,10 @@
       "id": "19847",
       "name": "Achievements"
     },
-    null,
+    {
+      "id": "1146",
+      "name": "City Builder"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -63,8 +66,7 @@
     {
       "id": "1263",
       "name": "Indie"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -104,7 +106,26 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "dice-legacy",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "dice-legacy--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "dice-legacy--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "dice-legacy--corrupted-fates",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

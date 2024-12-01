@@ -51,12 +51,14 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "1115",
+      "name": "Strategy"
+    },
     {
       "id": "9547",
       "name": "Windows"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -93,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "men-of-war-condemned-heroes-5947be",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "men-of-war-condemned-heroes-5947be",
@@ -102,7 +111,28 @@
   ],
   "developerDisplayName": "Fulqrum Publishing",
   "publisherDisplayName": "Fulqrum Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 119,
+      "originalPrice": 799,
+      "voucherDiscount": 0,
+      "discount": 680,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "7e603456b05541bba35ddc94218293c6"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-12-06T14:00:00.000Z",
   "pcReleaseDate": "2012-04-12T08:00:00.000Z",

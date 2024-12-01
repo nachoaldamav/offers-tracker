@@ -59,7 +59,10 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "21147",
+      "name": "Inclusive Character Customization"
+    },
     {
       "id": "9547",
       "name": "Windows"
@@ -67,8 +70,7 @@
     {
       "id": "1117",
       "name": "Adventure"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -105,7 +107,42 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "gamedec",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "gamedec--digital-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "gamedec--the-art-of-gamedec",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "gamedec--digital-deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "gamedec--the-official-guidebook",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "gamedec--izmael-krostov-new-character",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "gamedec--dafne-bennet-new-character",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "gamedec--characters-bundle",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": "Anshar Publishing",

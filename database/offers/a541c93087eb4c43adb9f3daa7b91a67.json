@@ -43,13 +43,18 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
+    {
+      "id": "1115",
+      "name": "Strategy"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1181",
       "name": "Card Game"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -86,11 +91,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "royal-roads-2-the-magic-box-18eae3",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "royal-roads-2-the-magic-box-18eae3",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Studio BidOn Games",
   "publisherDisplayName": "8Floor ltd",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 149,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 350,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "3ef7d851bf8c43fc94226132c0360829"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-09T21:00:00.000Z",
   "pcReleaseDate": "2020-11-26T21:00:00.000Z",

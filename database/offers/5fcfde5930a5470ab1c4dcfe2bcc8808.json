@@ -35,7 +35,10 @@
       "id": "19847",
       "name": "Achievements"
     },
-    null,
+    {
+      "id": "1080",
+      "name": "Survival"
+    },
     {
       "id": "1146",
       "name": "City Builder"
@@ -44,13 +47,14 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "1115",
+      "name": "Strategy"
+    },
     {
       "id": "9547",
       "name": "Windows"
-    },
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -87,7 +91,22 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ixion-88cda4",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "ixion-ixion-complete-original-soundtrack-d5419a",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ixion-ixion-artbook-e2673c",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "ixion-88cda4",
@@ -96,7 +115,24 @@
   ],
   "developerDisplayName": "Bulwark Studios",
   "publisherDisplayName": "Kasedo Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3499,
+      "originalPrice": 3499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-12-07T18:00:00.000Z",
   "pcReleaseDate": "2022-12-07T18:00:00.000Z",

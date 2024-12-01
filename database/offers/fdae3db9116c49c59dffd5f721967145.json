@@ -31,7 +31,10 @@
   "urlSlug": "9cc8a46df661433f9268c101ad7e6bfd",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1264",
+      "name": "Co-op"
+    },
     {
       "id": "39909",
       "name": "Black Friday - Cyber Monday Sale"
@@ -44,7 +47,10 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1117",
       "name": "Adventure"
@@ -52,9 +58,7 @@
     {
       "id": "1151",
       "name": "Platformer"
-    },
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -91,11 +95,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "epic-world-hunt-for-quest-epic-world-hunt-for-quest-demo-8b4264",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "epic-world-hunt-for-quest-4500b1",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "epic-world-hunt-for-quest-4500b1",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Yash Future Tech Solutions Pvt Ltd",
   "publisherDisplayName": "Yash Future Tech Solutions Pvt Ltd",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 104,
+      "originalPrice": 699,
+      "voucherDiscount": 0,
+      "discount": 595,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "c4f699826e1a4ce5b38c0fcff799844e"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-07T18:30:00.000Z",
   "pcReleaseDate": "2019-06-20T18:30:00.000Z",

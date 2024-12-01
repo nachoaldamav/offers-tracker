@@ -55,7 +55,10 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
     {
       "id": "1263",
       "name": "Indie"
@@ -63,8 +66,7 @@
     {
       "id": "10719",
       "name": "Mac OS"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -101,7 +103,22 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "quest-master-demo-227f5f",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "quest-master-2d8729",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "quest-master-faq-6aa80a",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "quest-master-2d8729",

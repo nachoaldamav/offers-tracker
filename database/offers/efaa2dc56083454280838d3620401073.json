@@ -59,7 +59,10 @@
   "urlSlug": "dcb01fcad48f460a829e51cc252bc2dc",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1367",
+      "name": "RPG"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -71,8 +74,7 @@
     {
       "id": "1310",
       "name": "EARLY ACCESS"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -113,11 +115,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "new-arc-line-730ca5",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "new-arc-line-faq-e2306a",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "new-arc-line-730ca5",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Dreamate Entertainment",
   "publisherDisplayName": "Fulqrum Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1699,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 300,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "308b0549326a49628b58c75919ceb038"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-11-26T18:00:00.000Z",
   "pcReleaseDate": "2024-11-26T18:00:00.000Z",

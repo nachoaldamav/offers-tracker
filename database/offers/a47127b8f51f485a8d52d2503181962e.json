@@ -39,15 +39,22 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "1115",
+      "name": "Strategy"
+    },
     {
       "id": "1294",
       "name": "First Person"
     },
-    null,
-    null,
-    null
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS"
+    }
   ],
   "items": [
     {
@@ -84,11 +91,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "rejuvan-aaf1b0",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "rejuvan-faq-5f8170",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "rejuvan-aaf1b0",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Papergod",
   "publisherDisplayName": "Papergod",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 749,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 750,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "4aa6b11a35a140baab7669d243321921"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-31T05:30:00.000Z",
   "pcReleaseDate": "2024-01-31T10:30:00.000Z",

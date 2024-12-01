@@ -95,7 +95,10 @@
       "id": "21146",
       "name": "Educational"
     },
-    null,
+    {
+      "id": "21147",
+      "name": "Inclusive Character Customization"
+    },
     {
       "id": "1117",
       "name": "Adventure"
@@ -107,8 +110,7 @@
     {
       "id": "21119",
       "name": "Great for Beginners"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -145,7 +147,18 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "black-book",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "black-book--endless-battles",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

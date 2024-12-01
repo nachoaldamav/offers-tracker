@@ -39,7 +39,10 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "1115",
+      "name": "Strategy"
+    },
     {
       "id": "9547",
       "name": "Windows"
@@ -47,8 +50,7 @@
     {
       "id": "1263",
       "name": "Indie"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -85,7 +87,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tavern-master-ee18ab",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "tavern-master-tavern-master-pirates-retreat-4c3234",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "tavern-master-ee18ab",

@@ -39,7 +39,10 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "1115",
+      "name": "Strategy"
+    },
     {
       "id": "9547",
       "name": "Windows"
@@ -51,8 +54,7 @@
     {
       "id": "1198",
       "name": "Retro"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -81,11 +83,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "space-empires-v-0319fd",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "space-empires-v-0319fd",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Malfador Machinations",
   "publisherDisplayName": "Strategy First",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 1200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "4574f6a1b4404ea297a15f7ec73b1cc6"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-08-13T04:00:00.000Z",
   "pcReleaseDate": "2006-10-16T03:00:00.000Z",

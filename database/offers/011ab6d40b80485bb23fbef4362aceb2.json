@@ -63,7 +63,10 @@
       "id": "1115",
       "name": "Strategy"
     },
-    null,
+    {
+      "id": "21147",
+      "name": "Inclusive Character Customization"
+    },
     {
       "id": "9547",
       "name": "Windows"
@@ -71,8 +74,7 @@
     {
       "id": "21119",
       "name": "Great for Beginners"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -112,7 +114,14 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sheltered",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Unicube",
   "publisherDisplayName": "Team17",

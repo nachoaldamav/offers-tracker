@@ -43,7 +43,10 @@
       "id": "21109",
       "name": "Great Boss Battles"
     },
-    null,
+    {
+      "id": "39909",
+      "name": "Black Friday - Cyber Monday Sale"
+    },
     {
       "id": "9547",
       "name": "Windows"
@@ -63,8 +66,7 @@
     {
       "id": "10719",
       "name": "Mac OS"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -96,11 +98,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "jotun",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Thunder Lotus Games",
   "publisherDisplayName": "Thunder Lotus Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 374,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 1125,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "745deeada5da47a1b8b77994aa3f1702"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2019-12-06T16:00:00.000Z",
   "pcReleaseDate": null,

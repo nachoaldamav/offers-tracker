@@ -43,7 +43,10 @@
   "urlSlug": "opalgeneralaudience",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "39909",
+      "name": "Black Friday - Cyber Monday Sale"
+    },
     {
       "id": "21894",
       "name": "Cloud Saves"
@@ -71,8 +74,7 @@
     {
       "id": "10719",
       "name": "Mac OS"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -112,11 +114,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "mutazione",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 799,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "5d092ca75523434b9f4c9c5b0ff9b385"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-03-04T16:00:00.000Z",
   "pcReleaseDate": null,

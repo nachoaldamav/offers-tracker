@@ -31,7 +31,10 @@
   "urlSlug": "5d951b2110d44ff6ac6ef2c12c83ad11",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1367",
+      "name": "RPG"
+    },
     {
       "id": "1386",
       "name": "Turn-Based"
@@ -44,13 +47,14 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
     {
       "id": "1263",
       "name": "Indie"
-    },
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -91,11 +95,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-lost-myth-the-lost-myth-demo-8edacc",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-lost-myth-ba28dc",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "the-lost-myth-ba28dc",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Moz the Tiger",
   "publisherDisplayName": "Moz the Tiger",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",

@@ -31,7 +31,10 @@
   "urlSlug": "d91cfe77959743ce87c49bf763bf49ef",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1367",
+      "name": "RPG"
+    },
     {
       "id": "1080",
       "name": "Survival"
@@ -51,8 +54,7 @@
     {
       "id": "1310",
       "name": "EARLY ACCESS"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -85,11 +87,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-dead-await-13afd0",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-dead-await-faq-67eb3c",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "the-dead-await-13afd0",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Shotx",
   "publisherDisplayName": "Freedom Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",

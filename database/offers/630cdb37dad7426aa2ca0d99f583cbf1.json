@@ -67,8 +67,14 @@
       "id": "34568",
       "name": "EA Play Discount"
     },
-    null,
-    null,
+    {
+      "id": "21129",
+      "name": "Challenging Combat"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1294",
       "name": "First Person"
@@ -81,7 +87,10 @@
       "id": "21138",
       "name": "Recommend this Game"
     },
-    null,
+    {
+      "id": "21139",
+      "name": "Amazing Characters"
+    },
     {
       "id": "21140",
       "name": "Amazing Storytelling"
@@ -90,7 +99,10 @@
       "id": "35060",
       "name": "EA Classic Games on Epic"
     },
-    null,
+    {
+      "id": "21141",
+      "name": "Extremely Fun"
+    },
     {
       "id": "1210",
       "name": "Shooter"
@@ -106,10 +118,7 @@
     {
       "id": "21119",
       "name": "Great for Beginners"
-    },
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -150,11 +159,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "battlefield-1-124758",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "battlefield-1-124758",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "DICE",
   "publisherDisplayName": "Electronic Arts",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 279,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 3720,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "ba9e265c036e4a358fca0e9b73635f9e"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-28T15:00:00.000Z",
   "pcReleaseDate": "2017-08-20T21:00:00.000Z",

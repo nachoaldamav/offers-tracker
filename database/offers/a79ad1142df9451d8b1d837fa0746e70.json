@@ -47,12 +47,14 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
+    {
+      "id": "1117",
+      "name": "Adventure"
+    },
     {
       "id": "1151",
       "name": "Platformer"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -89,11 +91,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "saboteur-sio-123236",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "saboteur-sio-123236",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "SimFabric S.A.",
   "publisherDisplayName": "SimFabric S.A.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 769,
+      "originalPrice": 1099,
+      "voucherDiscount": 0,
+      "discount": 330,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "2c2c3d73f97e47b8b4b317be644265be"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-28T18:00:00.000Z",
   "pcReleaseDate": "2023-04-28T18:00:00.000Z",

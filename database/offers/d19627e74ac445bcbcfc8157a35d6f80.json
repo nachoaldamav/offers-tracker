@@ -103,7 +103,10 @@
       "id": "21146",
       "name": "Educational"
     },
-    null,
+    {
+      "id": "1307",
+      "name": "Open World"
+    },
     {
       "id": "1117",
       "name": "Adventure"
@@ -115,8 +118,7 @@
     {
       "id": "21119",
       "name": "Great for Beginners"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -156,7 +158,14 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sable",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Shedworks",
   "publisherDisplayName": "Raw Fury",

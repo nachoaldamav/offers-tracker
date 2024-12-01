@@ -35,7 +35,10 @@
       "id": "1216",
       "name": "Action"
     },
-    null,
+    {
+      "id": "1264",
+      "name": "Co-op"
+    },
     {
       "id": "29088",
       "name": "Online Multiplayer"
@@ -68,9 +71,14 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
-    null
+    {
+      "id": "1115",
+      "name": "Strategy"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
   ],
   "items": [
     {
@@ -111,11 +119,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "mass-effect-3-n7-digital-deluxe-edition-4ef6ed",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "mass-effect-3-n7-digital-deluxe-edition-4ef6ed",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Bioware",
   "publisherDisplayName": "Electronic Arts",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 479,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 2520,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "bda13358498d4d0d9a887e9168b0bc24"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-06-13T20:00:00.000Z",
   "pcReleaseDate": "2012-03-06T06:00:00.000Z",
