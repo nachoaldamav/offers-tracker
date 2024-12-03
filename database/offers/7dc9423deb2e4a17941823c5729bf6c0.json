@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "creationDate": "2023-11-29T14:11:54.062Z",
-  "lastModifiedDate": "2024-06-19T15:55:10.988Z",
+  "lastModifiedDate": "2024-12-03T15:21:21.501Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -22,7 +22,7 @@
       "url": "https://cdn1.epicgames.com/spt-assets/135542ae58484b029fd45ddb2afbe407/evershire-1uxmf.png"
     }
   ],
-  "currentPrice": 1499,
+  "currentPrice": 1299,
   "seller": {
     "id": "o-uzyxnbhx97bnma35lsfr2u9jdt8252",
     "name": "Salty Panda Studios"
@@ -44,12 +44,16 @@
       "name": "Single Player"
     },
     {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
       "id": "1115",
       "name": "Strategy"
     },
     {
-      "id": "9547",
-      "name": "Windows"
+      "id": "1310",
+      "name": "EARLY ACCESS"
     }
   ],
   "items": [
@@ -66,6 +70,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
     },
     {
       "key": "isManuallySetPCReleaseDate",
@@ -90,6 +98,10 @@
   "catalogNs": {
     "mappings": [
       {
+        "pageSlug": "evershire-faq-b1fa58",
+        "pageType": "info"
+      },
+      {
         "pageSlug": "evershire-40c022",
         "pageType": "productHome"
       }
@@ -105,8 +117,8 @@
   "publisherDisplayName": "Salty Panda Studios UG",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
-      "originalPrice": 1499,
+      "discountPrice": 1299,
+      "originalPrice": 1299,
       "voucherDiscount": 0,
       "discount": 0,
       "currencyCode": "USD",
@@ -127,9 +139,9 @@
   "viewableDate": "2024-06-17T12:36:04.220Z",
   "approximateReleasePlan": {
     "day": null,
-    "month": null,
+    "month": 12,
     "quarter": null,
     "year": 2024,
-    "releaseDateType": "BY_YEAR"
+    "releaseDateType": "BY_MONTH"
   }
 }
