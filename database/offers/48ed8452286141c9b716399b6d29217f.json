@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-07-25T09:00:00.000Z",
   "creationDate": "2023-07-30T19:19:39.343Z",
-  "lastModifiedDate": "2024-10-03T15:03:27.180Z",
+  "lastModifiedDate": "2024-12-03T16:01:18.793Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -62,6 +62,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "9549",
@@ -137,10 +141,10 @@
   "publisherDisplayName": "Make Good Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1199,
+      "discountPrice": 839,
       "originalPrice": 1199,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 360,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -149,7 +153,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "67a81151c8944aa99704a9d45114c3d1"
+          }
+        ]
       }
     ]
   },
