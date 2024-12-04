@@ -31,12 +31,18 @@
   "urlSlug": "967788ecdec34f7497f27e8956ddd5b8",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1395",
+      "name": "Narration"
+    },
     {
       "id": "21894",
       "name": "Cloud Saves"
     },
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -45,17 +51,22 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
-    null,
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
+    {
+      "id": "1151",
+      "name": "Platformer"
+    },
     {
       "id": "1263",
       "name": "Indie"
     },
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "10719",
+      "name": "Mac OS"
+    }
   ],
   "items": [
     {
@@ -96,11 +107,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "saviorless-bdcd28",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "saviorless-bdcd28",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Empty Head Games",
   "publisherDisplayName": "Dear Villagers",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1299,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-04-02T13:00:00.000Z",
   "pcReleaseDate": "2024-04-02T13:00:00.000Z",

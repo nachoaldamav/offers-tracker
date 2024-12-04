@@ -31,9 +31,18 @@
   "urlSlug": "9280c634661b48a3a6d82f0b35296c7a",
   "url": null,
   "tags": [
-    null,
-    null,
-    null,
+    {
+      "id": "1287",
+      "name": "Fantasy"
+    },
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
+    {
+      "id": "1336",
+      "name": "Action-Adventure"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -42,15 +51,14 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
     {
       "id": "1263",
       "name": "Indie"
-    },
-    null,
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -91,7 +99,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "morbid-the-seven-acolytes-7c5303",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "morbid-the-seven-acolytes-7c5303",
@@ -100,7 +115,24 @@
   ],
   "developerDisplayName": "Still Running",
   "publisherDisplayName": "Merge Games Ltd.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-09-19T09:17:02.386Z",
   "pcReleaseDate": "2020-12-03T14:00:00.000Z",

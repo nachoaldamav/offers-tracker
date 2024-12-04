@@ -31,28 +31,42 @@
   "urlSlug": "lego-horizon-adventures",
   "url": null,
   "tags": [
-    null,
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
+    {
+      "id": "1264",
+      "name": "Co-op"
+    },
     {
       "id": "1203",
       "name": "Multiplayer"
     },
-    null,
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
+    {
+      "id": "22776",
+      "name": "Cross Platform"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "1117",
+      "name": "Adventure"
+    },
     {
       "id": "9549",
       "name": "Controller Support"
-    },
-    null,
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -80,11 +94,43 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "lego-horizon-adventures--digital-deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "lego-horizon-adventures--dde-upgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "lego-horizon-adventures",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Guerrilla / Studio Gobo",
   "publisherDisplayName": "PlayStation",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 5999,
+      "originalPrice": 5999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-11-14T16:00:00.000Z",
   "pcReleaseDate": "2024-11-14T16:00:00.000Z",

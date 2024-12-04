@@ -31,17 +31,30 @@
   "urlSlug": "dfef6488bb384106af81f1eb8048b294",
   "url": null,
   "tags": [
-    null,
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
+    {
+      "id": "1146",
+      "name": "City Builder"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1115",
+      "name": "Strategy"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "1263",
+      "name": "Indie"
+    }
   ],
   "items": [
     {
@@ -78,11 +91,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "kainga-seeds-of-civilization-7314ee",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "kainga-seeds-of-civilization-7314ee",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Erik Rempen",
   "publisherDisplayName": "Green Man Gaming Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-09-08T04:00:00.000Z",
   "pcReleaseDate": "2022-12-06T17:00:00.000Z",

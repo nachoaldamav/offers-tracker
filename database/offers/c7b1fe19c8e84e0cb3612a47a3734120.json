@@ -31,8 +31,14 @@
   "urlSlug": "76fb41d9be3147ec917c19dd1de91a93",
   "url": null,
   "tags": [
-    null,
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
+    {
+      "id": "1264",
+      "name": "Co-op"
+    },
     {
       "id": "29088",
       "name": "Online Multiplayer"
@@ -45,13 +51,22 @@
       "id": "1299",
       "name": "Competitive"
     },
-    null,
-    null,
+    {
+      "id": "36804",
+      "name": "Guerilla Collective Showcase"
+    },
+    {
+      "id": "22775",
+      "name": "MMO"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "9549",
       "name": "Controller Support"
@@ -59,12 +74,7 @@
     {
       "id": "1310",
       "name": "EARLY ACCESS"
-    },
-    null,
-    null,
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -105,11 +115,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "wrekless-f5bbf7",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "wrekless-faq-09220e",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "wrekless-f5bbf7",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Free Range Games",
   "publisherDisplayName": "Free Range Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-03-31T00:00:00.000Z",
   "pcReleaseDate": "2024-09-30T00:00:00.000Z",

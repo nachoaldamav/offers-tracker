@@ -31,20 +31,38 @@
   "urlSlug": "ecb09cc5f55345e6bf6d3d9354c12876",
   "url": null,
   "tags": [
-    null,
-    null,
-    null,
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "1263",
+      "name": "Indie"
+    },
+    {
+      "id": "1393",
+      "name": "Simulation"
+    },
     {
       "id": "21137",
       "name": "Unique Visuals"
     },
-    null,
+    {
+      "id": "21138",
+      "name": "Recommend this Game"
+    },
     {
       "id": "21140",
       "name": "Amazing Storytelling"
     },
-    null,
+    {
+      "id": "21141",
+      "name": "Extremely Fun"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -53,16 +71,18 @@
       "id": "21146",
       "name": "Educational"
     },
-    null,
-    null,
+    {
+      "id": "1115",
+      "name": "Strategy"
+    },
+    {
+      "id": "21149",
+      "name": "Quickly Understand the Controls"
+    },
     {
       "id": "21119",
       "name": "Great for Beginners"
-    },
-    null,
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -99,7 +119,30 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "911-operator-911-operator-every-life-matters-e5bd27",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "911-operator-911-operator-first-response-29a868",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "911-operator-911-operator-search-and-rescue-2f1b99",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "911-operator-911-operator-special-resources-94546f",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "911-operator-585edd",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "911-operator-585edd",
@@ -108,7 +151,24 @@
   ],
   "developerDisplayName": "Jutsu Games",
   "publisherDisplayName": "Games Operators",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-09-14T15:00:00.000Z",
   "pcReleaseDate": "2017-02-24T11:00:00.000Z",

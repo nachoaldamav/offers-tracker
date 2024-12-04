@@ -31,18 +31,30 @@
   "urlSlug": "e9d6a6b34faf4e30beb4f96dbef9184b",
   "url": null,
   "tags": [
-    null,
-    null,
-    null,
+    {
+      "id": "1088",
+      "name": "Turn-Based Strategy"
+    },
+    {
+      "id": "21894",
+      "name": "Cloud Saves"
+    },
+    {
+      "id": "1287",
+      "name": "Fantasy"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "1181",
+      "name": "Card Game"
+    }
   ],
   "items": [
     {
@@ -79,11 +91,56 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ash-of-gods-the-way-58bd36",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "ash-of-gods-the-way-ash-of-gods-the-way-deluxe-edition-f3e2b7",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ash-of-gods-the-way-ash-of-gods-the-way-–-original-soundtrack-434942",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ash-of-gods-the-way-ash-of-gods-the-way-–-original-artbook-338385",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ash-of-gods-the-way-ash-of-gods-the-way-–-coffee-for-coding-83c22d",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "ash-of-gods-the-way-58bd36",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "AurumDust",
   "publisherDisplayName": "AurumDust, Game Seer Ventures",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-27T11:00:00.000Z",
   "pcReleaseDate": "2023-04-27T11:00:00.000Z",

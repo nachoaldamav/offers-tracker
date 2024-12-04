@@ -31,7 +31,10 @@
   "urlSlug": "35c634c06d1c4b798a22079e2a630659",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1264",
+      "name": "Co-op"
+    },
     {
       "id": "29088",
       "name": "Online Multiplayer"
@@ -40,15 +43,30 @@
       "id": "1393",
       "name": "Simulation"
     },
-    null,
-    null,
-    null,
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
+    {
+      "id": "22775",
+      "name": "MMO"
+    },
+    {
+      "id": "1336",
+      "name": "Action-Adventure"
+    },
+    {
+      "id": "22776",
+      "name": "Cross Platform"
+    },
     {
       "id": "1307",
       "name": "Open World"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "21739",
       "name": "NFT BLOCKCHAIN"
@@ -56,13 +74,7 @@
     {
       "id": "1310",
       "name": "EARLY ACCESS"
-    },
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -99,11 +111,56 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "deverse-world-3ccb84",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "deverse-world-deverse-world-season-0-a9c70e",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "deverse-world-faq-01b86d",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "deverse-world-season-0-21036f",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "deverse-world-deverse-world-christmas-season-e2e1ad",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "deverse-world-3ccb84",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Cosugames",
   "publisherDisplayName": "Cosugames",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",

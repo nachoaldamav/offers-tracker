@@ -31,13 +31,22 @@
   "urlSlug": "73c56a22aa8043c5a7b29e4e4bace91d",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1296",
+      "name": "Casual"
+    },
     {
       "id": "21894",
       "name": "Cloud Saves"
     },
-    null,
-    null,
+    {
+      "id": "1367",
+      "name": "RPG"
+    },
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -46,13 +55,14 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
+    },
     {
       "id": "1117",
       "name": "Adventure"
-    },
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -93,7 +103,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "hero-of-the-kingdom-iii-hero-of-the-kingdom-iii-demo-092184",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hero-of-the-kingdom-iii-03147d",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "hero-of-the-kingdom-iii-03147d",
@@ -102,7 +123,28 @@
   ],
   "developerDisplayName": "Lonely Troops",
   "publisherDisplayName": "Lonely Troops",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 149,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 850,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "790f4e1636384970942d0f40803e6d12"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-08-12T11:00:00.000Z",
   "pcReleaseDate": "2018-08-30T16:00:00.000Z",

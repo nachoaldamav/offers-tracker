@@ -31,12 +31,18 @@
   "urlSlug": "c63216c165c6472798801a57c2b5d6fb",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1218",
+      "name": "Horror"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "1115",
+      "name": "Strategy"
+    },
     {
       "id": "9547",
       "name": "Windows"
@@ -44,9 +50,7 @@
     {
       "id": "1263",
       "name": "Indie"
-    },
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -87,11 +91,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "phantom-watcher-10faa4",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "phantom-watcher-faq-6abe68",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "phantom-watcher-10faa4",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Silly Studioz",
   "publisherDisplayName": "Catalyst Games, LLC",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-04-09T17:00:00.000Z",
   "pcReleaseDate": "2024-04-09T17:00:00.000Z",

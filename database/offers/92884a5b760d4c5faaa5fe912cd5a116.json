@@ -31,13 +31,22 @@
   "urlSlug": "6efed87058184746827a55742ed40401",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1296",
+      "name": "Casual"
+    },
     {
       "id": "21894",
       "name": "Cloud Saves"
     },
-    null,
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
+    {
+      "id": "1336",
+      "name": "Action-Adventure"
+    },
     {
       "id": "1210",
       "name": "Shooter"
@@ -50,10 +59,10 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    }
   ],
   "items": [
     {
@@ -94,11 +103,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "polyclassic-wild-7c64ee",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "polyclassic-wild-7c64ee",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Whale Rock Games",
   "publisherDisplayName": "Whale Rock Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 89,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 910,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "d45532c67c5844cf9e719365cf8e748e"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-06-26T09:00:00.000Z",
   "pcReleaseDate": "2021-10-11T09:00:00.000Z",

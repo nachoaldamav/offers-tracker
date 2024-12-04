@@ -31,16 +31,26 @@
   "urlSlug": "94162d055acf481aaa77df04cf667307",
   "url": null,
   "tags": [
-    null,
-    null,
+    {
+      "id": "1296",
+      "name": "Casual"
+    },
+    {
+      "id": "1298",
+      "name": "Puzzle"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    }
   ],
   "items": [
     {
@@ -77,11 +87,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "depthris-42ac0e",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "depthris-42ac0e",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "The Codewalker",
   "publisherDisplayName": "The Codewalker",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 399,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-31T00:00:00.000Z",
   "pcReleaseDate": "2023-09-20T03:00:00.000Z",

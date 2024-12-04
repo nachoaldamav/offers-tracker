@@ -31,21 +31,30 @@
   "urlSlug": "1ae38925bf5c4cea93f15cf394224857",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
     {
       "id": "1218",
       "name": "Horror"
     },
-    null,
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
+    {
+      "id": "1080",
+      "name": "Survival"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
   ],
   "items": [
     {
@@ -82,11 +91,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ebola-2-b61221",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "ebola-2-b61221",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Indie Games Studio",
   "publisherDisplayName": "Indie Games Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-05-09T17:00:00.000Z",
   "pcReleaseDate": "2020-12-20T03:00:00.000Z",

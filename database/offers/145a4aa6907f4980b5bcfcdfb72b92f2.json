@@ -31,30 +31,42 @@
   "urlSlug": "8e073f029b2f430fa579ad2ee60e34a6",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1120",
+      "name": "RTS"
+    },
     {
       "id": "29088",
       "name": "Online Multiplayer"
     },
-    null,
+    {
+      "id": "1170",
+      "name": "Tower Defense"
+    },
     {
       "id": "1299",
       "name": "Competitive"
     },
-    null,
-    null,
+    {
+      "id": "1336",
+      "name": "Action-Adventure"
+    },
+    {
+      "id": "22776",
+      "name": "Cross Platform"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "10719",
       "name": "Mac OS"
-    },
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -95,11 +107,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "arcane-wars-5945db",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "arcane-wars-5945db",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Super8 Games LLC",
   "publisherDisplayName": "Super8 Games LLC",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",

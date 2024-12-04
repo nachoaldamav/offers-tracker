@@ -31,15 +31,26 @@
   "urlSlug": "68be47a86def4b32b1ae961fe1346558",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1210",
+      "name": "Shooter"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS"
+    }
   ],
   "items": [
     {
@@ -76,11 +87,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "remedium-811743",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "remedium-faq-22aadd",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "remedium-811743",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Sobaka Studio",
   "publisherDisplayName": "ESDigital Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1799,
+      "originalPrice": 1799,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-09-14T15:00:00.000Z",
   "pcReleaseDate": "2023-09-14T15:00:00.000Z",

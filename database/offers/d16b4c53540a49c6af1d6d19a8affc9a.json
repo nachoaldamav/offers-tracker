@@ -31,18 +31,30 @@
   "urlSlug": "079809273f404c0f982b397a403914fd",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1296",
+      "name": "Casual"
+    },
     {
       "id": "1393",
       "name": "Simulation"
     },
-    null,
+    {
+      "id": "21894",
+      "name": "Cloud Saves"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "1117",
+      "name": "Adventure"
+    },
     {
       "id": "9549",
       "name": "Controller Support"
@@ -50,11 +62,7 @@
     {
       "id": "1310",
       "name": "EARLY ACCESS"
-    },
-    null,
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -95,11 +103,52 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "farmers-dynasty-2-official-guide-edition-c636f4",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "farmers-dynasty-2-official-guide-a0d9fc",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "farmers-dynasty-2-aea265",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "farmers-dynasty-2-faq-1bc848",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "farmers-dynasty-2-aea265",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "UMEO Studios",
   "publisherDisplayName": "Toplitz Productions",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2699,
+      "originalPrice": 2699,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-02-14T18:00:00.000Z",
   "pcReleaseDate": "2025-02-14T18:00:00.000Z",

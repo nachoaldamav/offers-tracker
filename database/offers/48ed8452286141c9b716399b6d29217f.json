@@ -47,7 +47,10 @@
       "id": "21894",
       "name": "Cloud Saves"
     },
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1210",
       "name": "Shooter"
@@ -60,16 +63,22 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
-    null,
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
     {
       "id": "1263",
       "name": "Indie"
     },
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1183",
+      "name": "Local Multiplayer"
+    }
   ],
   "items": [
     {
@@ -110,11 +119,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tactical-bandits-0a6961",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "tactical-bandits-launch-discount-de7c5c",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "tactical-bandits-0a6961",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Make Good Games",
   "publisherDisplayName": "Make Good Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 839,
+      "originalPrice": 1199,
+      "voucherDiscount": 0,
+      "discount": 360,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "67a81151c8944aa99704a9d45114c3d1"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-07-25T09:00:00.000Z",
   "pcReleaseDate": "2024-07-25T09:00:00.000Z",

@@ -31,9 +31,18 @@
   "urlSlug": "425e89a02f1b493e9b2454a09ad39a76",
   "url": null,
   "tags": [
-    null,
-    null,
-    null,
+    {
+      "id": "1120",
+      "name": "RTS"
+    },
+    {
+      "id": "1393",
+      "name": "Simulation"
+    },
+    {
+      "id": "1121",
+      "name": "Space"
+    },
     {
       "id": "21894",
       "name": "Cloud Saves"
@@ -46,10 +55,10 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1183",
+      "name": "Local Multiplayer"
+    }
   ],
   "items": [
     {
@@ -86,11 +95,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-outforce-acfbb8",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "the-outforce-acfbb8",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "O3 Games, Starbreeze Studios, ZOOM Platform Media",
   "publisherDisplayName": "Strategy First",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-09T13:28:21.916Z",
   "pcReleaseDate": "2001-01-08T16:00:00.000Z",

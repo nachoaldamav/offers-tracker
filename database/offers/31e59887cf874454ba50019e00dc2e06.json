@@ -31,19 +31,34 @@
   "urlSlug": "56f7699e1d67489e961ebc35cd6d7d5b",
   "url": null,
   "tags": [
-    null,
-    null,
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
+    {
+      "id": "1381",
+      "name": "Exploration"
+    },
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1307",
+      "name": "Open World"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    }
   ],
   "items": [
     {
@@ -80,11 +95,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tribu-55feb1",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "tribu-55feb1",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "SmallAxe Games",
   "publisherDisplayName": "SmallAxe Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-09-29T23:00:00.000Z",
   "pcReleaseDate": "2023-01-05T23:00:00.000Z",

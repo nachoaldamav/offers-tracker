@@ -31,9 +31,18 @@
   "urlSlug": "08391ebd0392464cac44cc38de878ce5",
   "url": null,
   "tags": [
-    null,
-    null,
-    null,
+    {
+      "id": "1265",
+      "name": "Dungeon Crawler"
+    },
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
+    {
+      "id": "1080",
+      "name": "Survival"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -42,12 +51,18 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1083",
+      "name": "Rogue-Lite"
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS"
+    }
   ],
   "items": [
     {
@@ -84,11 +99,52 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "fading-faith-faq-28d320",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "fading-faith-b2e40a",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "fading-faith-gamedemo-59cac8",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "fading-faith-fading-faith-demo-5da988",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "fading-faith-b2e40a",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Syntagma Studios",
   "publisherDisplayName": "Syntagma Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-05-31T00:00:00.000Z",
   "pcReleaseDate": "2024-10-31T00:00:00.000Z",

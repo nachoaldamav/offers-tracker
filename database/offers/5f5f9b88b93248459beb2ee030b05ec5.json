@@ -31,7 +31,10 @@
   "urlSlug": "4f4f848b57f44d5c836aa4a5ebc883f9",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1296",
+      "name": "Casual"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -39,8 +42,7 @@
     {
       "id": "9547",
       "name": "Windows"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -77,7 +79,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "match-three-pirates-2-13005e",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "match-three-pirates-2-13005e",
@@ -86,7 +95,24 @@
   ],
   "developerDisplayName": "Graphium Studio",
   "publisherDisplayName": "Denda Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-04-30T00:00:00.000Z",
   "pcReleaseDate": "2023-12-31T00:00:00.000Z",

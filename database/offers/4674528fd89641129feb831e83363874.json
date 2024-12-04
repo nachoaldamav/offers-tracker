@@ -31,7 +31,10 @@
   "urlSlug": "3433281c20b54829acbfbd6df18a5203",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1344",
+      "name": "Fighting"
+    },
     {
       "id": "1210",
       "name": "Shooter"
@@ -44,13 +47,14 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS"
+    },
     {
       "id": "1263",
       "name": "Indie"
-    },
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -91,11 +95,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "criticalorb-282b62",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "criticalorb-faq-3a6e0a",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "criticalorb-282b62",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Karno",
   "publisherDisplayName": "AbsoluteZeroPoint",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 399,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-29T03:00:00.000Z",
   "pcReleaseDate": "2024-03-29T03:00:00.000Z",

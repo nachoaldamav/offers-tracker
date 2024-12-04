@@ -31,22 +31,30 @@
   "urlSlug": "7be0d8d7206242278c3f810eaf147238",
   "url": null,
   "tags": [
-    null,
-    null,
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
+    {
+      "id": "1381",
+      "name": "Exploration"
+    },
+    {
+      "id": "1336",
+      "name": "Action-Adventure"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1310",
       "name": "EARLY ACCESS"
-    },
-    null,
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -87,11 +95,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "steam-trigger-b75c6a",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "steam-trigger-faq-3eda0b",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "steam-trigger-b75c6a",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "x-climb Inc.",
   "publisherDisplayName": "x-climb Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4499,
+      "originalPrice": 4499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",

@@ -79,13 +79,18 @@
   "urlSlug": "fc8c9abc75a34d8c9a4cedfa812c96a2",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
     {
       "id": "29088",
       "name": "Online Multiplayer"
     },
-    null,
-    null
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
   ],
   "items": [
     {
@@ -126,11 +131,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "huntersarenare_dev-926fdf",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "huntersarenare_dev-faq-e37a64",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "huntersarenare_dev-926fdf",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Megalink",
   "publisherDisplayName": "Megalink",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",

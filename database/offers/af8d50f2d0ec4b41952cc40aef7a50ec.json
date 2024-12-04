@@ -31,7 +31,10 @@
   "urlSlug": "e8ff7404b22148aca0d03f236039c8d5",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1296",
+      "name": "Casual"
+    },
     {
       "id": "1298",
       "name": "Puzzle"
@@ -43,8 +46,7 @@
     {
       "id": "1151",
       "name": "Platformer"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -81,7 +83,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "a-frogs-job-b1ac70",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "a-frogs-job-b1ac70",
@@ -90,7 +99,24 @@
   ],
   "developerDisplayName": "9Ratones",
   "publisherDisplayName": "Ratalaika Games S.L.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2022-10-07T15:00:00.000Z",

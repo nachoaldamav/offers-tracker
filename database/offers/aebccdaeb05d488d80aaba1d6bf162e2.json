@@ -31,14 +31,26 @@
   "urlSlug": "aa03dc21c814422898905c2ef57aa798",
   "url": null,
   "tags": [
-    null,
-    null,
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
+    {
+      "id": "1287",
+      "name": "Fantasy"
+    },
+    {
+      "id": "1336",
+      "name": "Action-Adventure"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "9549",
       "name": "Controller Support"
@@ -47,11 +59,10 @@
       "id": "1310",
       "name": "EARLY ACCESS"
     },
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "27343",
+      "name": "Alexa Game Control"
+    }
   ],
   "items": [
     {
@@ -92,11 +103,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "arcane-prophecy-flamebound-3e7904",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "arcane-prophecy-flamebound-faq-b2ae72",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "arcane-prophecy-flamebound-3e7904",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Dream On Games",
   "publisherDisplayName": "Dream On Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-12-31T00:00:00.000Z",
   "pcReleaseDate": "2025-12-31T00:00:00.000Z",

@@ -35,10 +35,22 @@
       "id": "29088",
       "name": "Online Multiplayer"
     },
-    null,
-    null,
-    null,
-    null,
+    {
+      "id": "1287",
+      "name": "Fantasy"
+    },
+    {
+      "id": "1336",
+      "name": "Action-Adventure"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "1275",
+      "name": "MOBA"
+    },
     {
       "id": "21739",
       "name": "NFT BLOCKCHAIN"
@@ -46,11 +58,7 @@
     {
       "id": "1310",
       "name": "EARLY ACCESS"
-    },
-    null,
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -91,11 +99,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "golden-tides-golden-tides-pre-alpha-63d09f",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "golden-tides-faq-e41905",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "golden-tides-a4be8c",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "golden-tides-a4be8c",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Psychedelic Games",
   "publisherDisplayName": "Psychedelic Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",

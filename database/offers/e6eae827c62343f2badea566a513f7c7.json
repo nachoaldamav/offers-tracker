@@ -31,7 +31,10 @@
   "urlSlug": "0d7f563fb9514df0a7ea7d672f860b9b",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
     {
       "id": "29088",
       "name": "Online Multiplayer"
@@ -40,11 +43,25 @@
       "id": "1299",
       "name": "Competitive"
     },
-    null,
-    null,
+    {
+      "id": "1210",
+      "name": "Shooter"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "21739",
       "name": "NFT BLOCKCHAIN"
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS"
     }
   ],
   "items": [
@@ -86,7 +103,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "citizen-conflict-95e40e",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "citizen-conflict-faq-2ad94f",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "citizen-conflict-95e40e",
@@ -95,7 +123,24 @@
   ],
   "developerDisplayName": "Qorpo Game studio",
   "publisherDisplayName": "QORPO Game Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-11-21T08:00:00.000Z",
   "pcReleaseDate": "2023-08-29T23:00:00.000Z",

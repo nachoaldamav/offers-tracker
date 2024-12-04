@@ -35,25 +35,46 @@
       "id": "1216",
       "name": "Action"
     },
-    null,
-    null,
-    null,
+    {
+      "id": "21122",
+      "name": "Diverse Characters"
+    },
+    {
+      "id": "1188",
+      "name": "RELAXING"
+    },
+    {
+      "id": "21127",
+      "name": "Creative Community"
+    },
     {
       "id": "9547",
       "name": "Windows"
     },
-    null,
+    {
+      "id": "21134",
+      "name": "Beautiful Visuals"
+    },
     {
       "id": "1264",
       "name": "Co-op"
     },
-    null,
+    {
+      "id": "21138",
+      "name": "Recommend this Game"
+    },
     {
       "id": "21139",
       "name": "Amazing Characters"
     },
-    null,
-    null,
+    {
+      "id": "21140",
+      "name": "Amazing Storytelling"
+    },
+    {
+      "id": "21141",
+      "name": "Extremely Fun"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -62,19 +83,14 @@
       "id": "1117",
       "name": "Adventure"
     },
-    null,
+    {
+      "id": "21149",
+      "name": "Quickly Understand the Controls"
+    },
     {
       "id": "21119",
       "name": "Great for Beginners"
-    },
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -106,11 +122,67 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "avatar-frontiers-of-pandora--the-sky-breaker",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "avatar-frontiers-of-pandora--secrets-of-the-spire",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "avatar-frontiers-of-pandora--storm-chaser-starter-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "avatar-frontiers-of-pandora--gold-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "avatar-frontiers-of-pandora--ultimate-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "avatar-frontiers-of-pandora",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "avatar-frontiers-of-pandora--season-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "avatar-frontiers-of-pandora--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "avatar-frontiers-of-pandora--sky-rider-starter-pack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Massive Entertainment – A Ubisoft Studio",
   "publisherDisplayName": "Ubisoft",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 6999,
+      "originalPrice": 6999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-07T05:00:00.000Z",
   "pcReleaseDate": null,

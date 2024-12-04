@@ -31,26 +31,34 @@
   "urlSlug": "27935c20617c4ee1a7e222ebb9b9da8e",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
     {
       "id": "29088",
       "name": "Online Multiplayer"
     },
-    null,
-    null,
+    {
+      "id": "1265",
+      "name": "Dungeon Crawler"
+    },
+    {
+      "id": "1367",
+      "name": "RPG"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1310",
       "name": "EARLY ACCESS"
-    },
-    null,
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -92,7 +100,20 @@
     }
   ],
   "catalogNs": {
-    "mappings": null
+    "mappings": [
+      {
+        "pageSlug": "crystalfall-c79ab5",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "crystalfall-open-beta-810316",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "crystalfall-faq-38c927",
+        "pageType": "info"
+      }
+    ]
   },
   "offerMappings": [
     {
@@ -102,7 +123,24 @@
   ],
   "developerDisplayName": "CRG",
   "publisherDisplayName": "CRG",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",

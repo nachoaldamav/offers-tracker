@@ -31,17 +31,30 @@
   "urlSlug": "a33058b051084c108aa8d4423a24913f",
   "url": null,
   "tags": [
-    null,
-    null,
+    {
+      "id": "1298",
+      "name": "Puzzle"
+    },
+    {
+      "id": "21894",
+      "name": "Cloud Saves"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "1198",
+      "name": "Retro"
+    },
+    {
+      "id": "1263",
+      "name": "Indie"
+    }
   ],
   "items": [
     {
@@ -78,11 +91,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "spiderbro-e037b7",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "spiderbro-e037b7",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Studio Pond",
   "publisherDisplayName": "Studio Pond",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-01T23:00:00.000Z",
   "pcReleaseDate": "2022-02-22T00:00:00.000Z",

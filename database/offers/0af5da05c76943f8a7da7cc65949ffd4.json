@@ -47,10 +47,22 @@
       "id": "1218",
       "name": "Horror"
     },
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1298",
+      "name": "Puzzle"
+    },
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "1117",
+      "name": "Adventure"
+    }
   ],
   "items": [
     {
@@ -90,7 +102,14 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "darq-complete-edition",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

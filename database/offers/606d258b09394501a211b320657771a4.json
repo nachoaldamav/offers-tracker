@@ -31,8 +31,14 @@
   "urlSlug": "87cf98cc80504b2596500908b6332295",
   "url": null,
   "tags": [
-    null,
-    null,
+    {
+      "id": "1296",
+      "name": "Casual"
+    },
+    {
+      "id": "1298",
+      "name": "Puzzle"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -44,9 +50,7 @@
     {
       "id": "1263",
       "name": "Indie"
-    },
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -83,11 +87,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "christmas-wonderland-collectors-edition-44d7da",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "christmas-wonderland-collectors-edition-44d7da",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Casual Arts",
   "publisherDisplayName": "Casual Arts",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-14T08:00:00.000Z",
   "pcReleaseDate": "2023-12-14T08:00:00.000Z",

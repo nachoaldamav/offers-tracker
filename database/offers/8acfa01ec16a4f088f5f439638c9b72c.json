@@ -31,22 +31,46 @@
   "urlSlug": "791197223e4b4aa7b45785bf2941139d",
   "url": null,
   "tags": [
-    null,
-    null,
-    null,
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
+    {
+      "id": "1264",
+      "name": "Co-op"
+    },
+    {
+      "id": "1393",
+      "name": "Simulation"
+    },
+    {
+      "id": "1283",
+      "name": "Sports"
+    },
     {
       "id": "1299",
       "name": "Competitive"
     },
-    null,
+    {
+      "id": "22776",
+      "name": "Cross Platform"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS"
+    },
     {
       "id": "1183",
       "name": "Local Multiplayer"
@@ -54,10 +78,7 @@
     {
       "id": "10719",
       "name": "Mac OS"
-    },
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -94,11 +115,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "snwbrd-freestyle-snowboarding-2803cf",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "snwbrd-freestyle-snowboarding-faq-2fc72f",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "snwbrd-freestyle-snowboarding-2803cf",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Gaming Limited",
   "publisherDisplayName": "Gaming Limited",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-08-14T07:00:00.000Z",
   "pcReleaseDate": "2023-02-06T23:00:00.000Z",

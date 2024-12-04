@@ -31,8 +31,14 @@
   "urlSlug": "3f740cfd38bb4e188986eaa21154164a",
   "url": null,
   "tags": [
-    null,
-    null,
+    {
+      "id": "1296",
+      "name": "Casual"
+    },
+    {
+      "id": "1298",
+      "name": "Puzzle"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -41,15 +47,18 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
     {
       "id": "1263",
       "name": "Indie"
     },
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "10719",
+      "name": "Mac OS"
+    }
   ],
   "items": [
     {
@@ -90,11 +99,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "hanoi-puzzles-flip-match-fc5fbd",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "hanoi-puzzles-flip-match-fc5fbd",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Hanoi Studios",
   "publisherDisplayName": "Hanoi Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 299,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-06-30T00:00:00.000Z",
   "pcReleaseDate": "2021-10-15T13:30:00.000Z",

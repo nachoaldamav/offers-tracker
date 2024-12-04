@@ -31,12 +31,18 @@
   "urlSlug": "3ef26c40a0ba4cb8968258a8adac1270",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
     {
       "id": "29088",
       "name": "Online Multiplayer"
     },
-    null,
+    {
+      "id": "21894",
+      "name": "Cloud Saves"
+    },
     {
       "id": "1210",
       "name": "Shooter"
@@ -49,13 +55,14 @@
       "id": "21739",
       "name": "NFT BLOCKCHAIN"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1294",
       "name": "First Person"
-    },
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -96,11 +103,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "xwar-b911ec",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "xwar-faq-daf67d",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "xwar-b911ec",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "FPS-X",
   "publisherDisplayName": "FPS-X",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-11-11T08:00:00.000Z",
   "pcReleaseDate": "2024-11-11T08:00:00.000Z",

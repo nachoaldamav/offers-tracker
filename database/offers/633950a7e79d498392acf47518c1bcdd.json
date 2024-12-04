@@ -31,15 +31,30 @@
   "urlSlug": "f1-24",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "21122",
+      "name": "Diverse Characters"
+    },
     {
       "id": "21125",
       "name": "Competitive Community"
     },
-    null,
-    null,
-    null,
-    null,
+    {
+      "id": "32709",
+      "name": "EA Play"
+    },
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
+    {
+      "id": "34568",
+      "name": "EA Play Discount"
+    },
+    {
+      "id": "21129",
+      "name": "Challenging Combat"
+    },
     {
       "id": "34154",
       "name": "EA Play Trial"
@@ -48,7 +63,10 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
     {
       "id": "21135",
       "name": "Realistic Visuals"
@@ -57,15 +75,30 @@
       "id": "1264",
       "name": "Co-op"
     },
-    null,
-    null,
-    null,
+    {
+      "id": "1393",
+      "name": "Simulation"
+    },
+    {
+      "id": "21138",
+      "name": "Recommend this Game"
+    },
+    {
+      "id": "1203",
+      "name": "Multiplayer"
+    },
     {
       "id": "21139",
       "name": "Amazing Characters"
     },
-    null,
-    null,
+    {
+      "id": "21140",
+      "name": "Amazing Storytelling"
+    },
+    {
+      "id": "21141",
+      "name": "Extremely Fun"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -74,22 +107,18 @@
       "id": "21146",
       "name": "Educational"
     },
-    null,
-    null,
+    {
+      "id": "1212",
+      "name": "Racing"
+    },
+    {
+      "id": "21149",
+      "name": "Quickly Understand the Controls"
+    },
     {
       "id": "21119",
       "name": "Great for Beginners"
-    },
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -117,7 +146,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "f1-24",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "f1-24--champions-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "f1-24--champions-upgrade",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Codemasters",
   "publisherDisplayName": "Electronic Arts",

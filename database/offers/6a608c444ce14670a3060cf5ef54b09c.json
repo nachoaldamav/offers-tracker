@@ -31,8 +31,14 @@
   "urlSlug": "b94f06ee0d6346898d6b93edf8b05429",
   "url": null,
   "tags": [
-    null,
-    null,
+    {
+      "id": "1296",
+      "name": "Casual"
+    },
+    {
+      "id": "1298",
+      "name": "Puzzle"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -41,9 +47,10 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
-    null,
-    null
+    {
+      "id": "1181",
+      "name": "Card Game"
+    }
   ],
   "items": [
     {
@@ -80,11 +87,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "travel-cuisine-2-sweet-life-7a4239",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "travel-cuisine-2-sweet-life-7a4239",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "8Floor ltd",
   "publisherDisplayName": "8Floor ltd",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-02-10T21:00:00.000Z",
   "pcReleaseDate": "2023-07-22T21:00:00.000Z",

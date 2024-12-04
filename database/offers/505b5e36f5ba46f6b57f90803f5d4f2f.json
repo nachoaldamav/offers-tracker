@@ -31,13 +31,22 @@
   "urlSlug": "41aeb72d91eb46f8b7c3147164ba9378",
   "url": null,
   "tags": [
-    null,
-    null,
+    {
+      "id": "1296",
+      "name": "Casual"
+    },
+    {
+      "id": "1298",
+      "name": "Puzzle"
+    },
     {
       "id": "21894",
       "name": "Cloud Saves"
     },
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -49,10 +58,7 @@
     {
       "id": "1263",
       "name": "Indie"
-    },
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -93,11 +99,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "unlock-the-cat-487fac",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "unlock-the-cat-487fac",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Minicactus Games",
   "publisherDisplayName": "Minicactus Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 199,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-22T17:00:00.000Z",
   "pcReleaseDate": "2021-03-02T19:00:00.000Z",

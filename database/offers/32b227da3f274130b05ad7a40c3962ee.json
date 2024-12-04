@@ -31,7 +31,10 @@
   "urlSlug": "d5e1c0c5faf442b484eba7bef1f43767",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1264",
+      "name": "Co-op"
+    },
     {
       "id": "1203",
       "name": "Multiplayer"
@@ -40,23 +43,30 @@
       "id": "1299",
       "name": "Competitive"
     },
-    null,
-    null,
-    null,
+    {
+      "id": "1336",
+      "name": "Action-Adventure"
+    },
+    {
+      "id": "1080",
+      "name": "Survival"
+    },
+    {
+      "id": "22776",
+      "name": "Cross Platform"
+    },
     {
       "id": "1307",
       "name": "Open World"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1310",
       "name": "EARLY ACCESS"
-    },
-    null,
-    null,
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -93,11 +103,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "chronosaffinity-e8c2c8",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "chronosaffinity-faq-4dea69",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "chronosaffinity-e8c2c8",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "George Perkins",
   "publisherDisplayName": "GP Creative Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",

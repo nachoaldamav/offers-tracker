@@ -31,21 +31,30 @@
   "urlSlug": "a0cfb6a86bf64b4e8a5cf195df922da9",
   "url": null,
   "tags": [
-    null,
-    null,
-    null,
+    {
+      "id": "1120",
+      "name": "RTS"
+    },
+    {
+      "id": "1170",
+      "name": "Tower Defense"
+    },
+    {
+      "id": "1146",
+      "name": "City Builder"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "9549",
       "name": "Controller Support"
-    },
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -86,11 +95,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "architect-of-the-union-f82052",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "architect-of-the-union-f82052",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "No more Sleep",
   "publisherDisplayName": "No more Sleep",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 699,
+      "originalPrice": 699,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",

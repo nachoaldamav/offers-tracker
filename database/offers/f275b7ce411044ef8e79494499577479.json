@@ -31,12 +31,18 @@
   "urlSlug": "6bdd0e77f8d245329e7e301e0b042d24",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1120",
+      "name": "RTS"
+    },
     {
       "id": "21894",
       "name": "Cloud Saves"
     },
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1146",
       "name": "City Builder"
@@ -49,10 +55,14 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1115",
+      "name": "Strategy"
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    }
   ],
   "items": [
     {
@@ -93,11 +103,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "republic-of-pirates-b6dfa6",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "republic-of-pirates-republic-of-pirates-official-soundtrack-d196bf",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "republic-of-pirates-republic-of-pirates-soundtrack-bundle-33cc4c",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "republic-of-pirates-b6dfa6",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Crazy Goat Games",
   "publisherDisplayName": "PQube",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-06-19T16:00:00.000Z",
   "pcReleaseDate": "2024-06-19T16:00:00.000Z",

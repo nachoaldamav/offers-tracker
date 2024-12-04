@@ -31,15 +31,22 @@
   "urlSlug": "828b21b542e4490893fca3cdaacb236a",
   "url": null,
   "tags": [
-    null,
-    null,
+    {
+      "id": "1393",
+      "name": "Simulation"
+    },
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
-    null
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
   ],
   "items": [
     {
@@ -76,11 +83,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "test-product-42740e",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "test-product-42740e",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "INTERMARUM",
   "publisherDisplayName": "INTERMARUM",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-26T00:00:00.000Z",
   "pcReleaseDate": "2022-03-09T23:00:00.000Z",

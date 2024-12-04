@@ -31,13 +31,22 @@
   "urlSlug": "2bfa66ebacdf4b699ab3ee87a6826c24",
   "url": null,
   "tags": [
-    null,
-    null,
+    {
+      "id": "1393",
+      "name": "Simulation"
+    },
+    {
+      "id": "1395",
+      "name": "Narration"
+    },
     {
       "id": "21894",
       "name": "Cloud Saves"
     },
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -45,10 +54,7 @@
     {
       "id": "9547",
       "name": "Windows"
-    },
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -85,11 +91,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "jbdx-8b0de4",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "jbdx-8b0de4",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Chengdu Jiabo Dexin Technology Co. , Ltd",
   "publisherDisplayName": "Chengdu Jiabo Dexin Technology Co. , Ltd",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 639,
+      "originalPrice": 799,
+      "voucherDiscount": 0,
+      "discount": 160,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "51686950af444e50a0d5d7971445d8b6"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-02-04T02:00:00.000Z",
   "pcReleaseDate": "2024-02-04T02:00:00.000Z",

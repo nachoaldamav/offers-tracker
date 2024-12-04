@@ -31,7 +31,10 @@
   "urlSlug": "2997ed439a354cf2ad6afe84e232b365",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "29088",
+      "name": "Online Multiplayer"
+    },
     {
       "id": "1299",
       "name": "Competitive"
@@ -44,9 +47,14 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
-    null,
-    null
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS"
+    }
   ],
   "items": [
     {
@@ -87,11 +95,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "eras-decode-ff58c7",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "eras-decode-faq-bd0a03",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "eras-decode-ff58c7",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Cosmic Sagas",
   "publisherDisplayName": "Cosmic Sagas",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-31T14:00:00.000Z",
   "pcReleaseDate": "2024-03-31T14:00:00.000Z",

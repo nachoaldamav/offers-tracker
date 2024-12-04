@@ -31,8 +31,14 @@
   "urlSlug": "4d198484491f47adb9afdf69af9709d3",
   "url": null,
   "tags": [
-    null,
-    null,
+    {
+      "id": "1393",
+      "name": "Simulation"
+    },
+    {
+      "id": "1367",
+      "name": "RPG"
+    },
     {
       "id": "33639",
       "name": "Promotional Content"
@@ -45,9 +51,10 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
-    null,
-    null
+    {
+      "id": "1294",
+      "name": "First Person"
+    }
   ],
   "items": [
     {
@@ -88,11 +95,40 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "intonight-74c196",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "intonight-74c196",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Bing World",
   "publisherDisplayName": "Bing World",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1299,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-07-21T00:00:00.000Z",
   "pcReleaseDate": "2024-07-22T00:00:00.000Z",

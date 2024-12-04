@@ -31,7 +31,10 @@
   "urlSlug": "2301f22650b542f1a006d384e7bd6754",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
     {
       "id": "29088",
       "name": "Online Multiplayer"
@@ -40,7 +43,10 @@
       "id": "1393",
       "name": "Simulation"
     },
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1210",
       "name": "Shooter"
@@ -49,9 +55,10 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
-    null
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
   ],
   "items": [
     {
@@ -88,7 +95,50 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "paint-ball-war-2-empire-axe-red-black-42dfd1",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "paint-ball-war-2-battle-pass-3b5344",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "paint-ball-war-2-empire-bt-tm15-blot-a58d02",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "paint-ball-war-2-dangerous-power-e1-attenuation-2ed004",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "paint-ball-war-2-tippmann-tipx-spray-38331f",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "paint-ball-war-2-valken-proton-silver-4b93c1",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "paint-ball-war-2-redmarker-lightblue-5f7ad1",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "paint-ball-war-2-tippmann-98-custom-khaki-542d72",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "paint-ball-war-2-faq-ecbc84",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "paint-ball-war-2-54d210",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "paint-ball-war-2-54d210",
@@ -97,7 +147,28 @@
   ],
   "developerDisplayName": "ShadowWolf Games",
   "publisherDisplayName": "ShadowWolf Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 359,
+      "originalPrice": 399,
+      "voucherDiscount": 0,
+      "discount": 40,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "9bdadf12c66748f98c198457d5386367"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-09-23T05:27:34.848Z",
   "pcReleaseDate": "2022-01-07T21:00:00.000Z",

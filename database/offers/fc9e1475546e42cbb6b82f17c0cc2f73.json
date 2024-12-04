@@ -31,7 +31,10 @@
   "urlSlug": "6f8f04e14f7f4d5abe7971d541861c61",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "15909",
+      "name": "App"
+    },
     {
       "id": "1129",
       "name": "Music"
@@ -44,8 +47,10 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
-    null
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS"
+    }
   ],
   "items": [
     {
@@ -89,11 +94,48 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "mxr-faq-3cc9db",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "mxr-stream-diffusion-d6e4d0",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "mxr-9f57f7",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "mxr-9f57f7",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "MXR",
   "publisherDisplayName": "MXR",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-02-20T23:22:55.962Z",
   "pcReleaseDate": "2024-02-15T07:00:00.000Z",

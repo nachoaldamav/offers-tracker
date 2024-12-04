@@ -31,15 +31,26 @@
   "urlSlug": "b1fd4e1d63ce4582a07252709d875a44",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1395",
+      "name": "Narration"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "1117",
+      "name": "Adventure"
+    },
+    {
+      "id": "1294",
+      "name": "First Person"
+    }
   ],
   "items": [
     {
@@ -76,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "fish-db1795",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "fish-db1795",
@@ -85,7 +103,24 @@
   ],
   "developerDisplayName": "LKnarrative",
   "publisherDisplayName": "LKnarrative",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 9999,
+      "originalPrice": 9999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-11-14T16:00:00.000Z",
   "pcReleaseDate": "2023-11-14T16:00:00.000Z",

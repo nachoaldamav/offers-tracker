@@ -31,8 +31,14 @@
   "urlSlug": "ea4496cc08ea4b8d87d0fda172256a79",
   "url": null,
   "tags": [
-    null,
-    null,
+    {
+      "id": "1393",
+      "name": "Simulation"
+    },
+    {
+      "id": "1367",
+      "name": "RPG"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -41,14 +47,14 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
     {
       "id": "1263",
       "name": "Indie"
-    },
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -85,11 +91,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "blue-oak-bridge-53bc76",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "blue-oak-bridge-53bc76",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Lemon Seed Studio",
   "publisherDisplayName": "Lemon Seed Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-02-13T17:36:43.151Z",
   "pcReleaseDate": "2023-07-06T16:00:00.000Z",

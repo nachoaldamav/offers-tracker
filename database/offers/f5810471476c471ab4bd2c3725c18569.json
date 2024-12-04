@@ -31,14 +31,30 @@
   "urlSlug": "67ba16df90e5439196a103aed7743dd3",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1296",
+      "name": "Casual"
+    },
     {
       "id": "29088",
       "name": "Online Multiplayer"
     },
-    null,
-    null,
-    null
+    {
+      "id": "1110",
+      "name": "Party"
+    },
+    {
+      "id": "22776",
+      "name": "Cross Platform"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "1263",
+      "name": "Indie"
+    }
   ],
   "items": [
     {
@@ -75,11 +91,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "scribble-it-c61a6f",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "scribble-it-scribble-it-premium-edition-18bfbd",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "scribble-it-c61a6f",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Detach Entertainment UG",
   "publisherDisplayName": "Detach Entertainment UG",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-16T16:00:00.000Z",
   "pcReleaseDate": "2020-10-20T10:00:00.000Z",

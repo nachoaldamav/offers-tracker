@@ -31,9 +31,18 @@
   "urlSlug": "aab26d00ab44449da4f5d12a238b69cb",
   "url": null,
   "tags": [
-    null,
-    null,
-    null,
+    {
+      "id": "1088",
+      "name": "Turn-Based Strategy"
+    },
+    {
+      "id": "1170",
+      "name": "Tower Defense"
+    },
+    {
+      "id": "1146",
+      "name": "City Builder"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -41,10 +50,7 @@
     {
       "id": "1310",
       "name": "EARLY ACCESS"
-    },
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -81,11 +87,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "hold-on-faq-a75a41",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "hold-on-5b3f45",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "hold-on-5b3f45",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "profhuas",
   "publisherDisplayName": "profhuas",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1199,
+      "originalPrice": 1199,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",

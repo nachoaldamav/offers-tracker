@@ -31,19 +31,26 @@
   "urlSlug": "d9f073f721964a48a7223294cd54f6af",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
     {
       "id": "1344",
       "name": "Fighting"
     },
-    null,
+    {
+      "id": "1210",
+      "name": "Shooter"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
-    null
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
   ],
   "items": [
     {
@@ -80,11 +87,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-hong-kong-massacre-8bdd14",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "the-hong-kong-massacre-8bdd14",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Vreski",
   "publisherDisplayName": "Untold Tales S.A.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-21T10:00:00.000Z",
   "pcReleaseDate": "2019-01-22T04:00:00.000Z",

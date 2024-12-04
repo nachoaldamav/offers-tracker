@@ -31,8 +31,14 @@
   "urlSlug": "ac3b81fb401d445c9cd18c8d728c1e17",
   "url": null,
   "tags": [
-    null,
-    null,
+    {
+      "id": "21894",
+      "name": "Cloud Saves"
+    },
+    {
+      "id": "1080",
+      "name": "Survival"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -41,16 +47,18 @@
       "id": "1307",
       "name": "Open World"
     },
-    null,
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "1117",
+      "name": "Adventure"
+    },
     {
       "id": "1310",
       "name": "EARLY ACCESS"
-    },
-    null,
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -87,11 +95,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sae-7a5090",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "sae-faq-ebbdfa",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "sae-7a5090",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "SAE GAMES",
   "publisherDisplayName": "SAE GAMES",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1299,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",

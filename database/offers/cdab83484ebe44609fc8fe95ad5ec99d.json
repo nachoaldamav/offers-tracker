@@ -31,12 +31,18 @@
   "urlSlug": "14c242a705b3405383a05d61b2bd3a41",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1080",
+      "name": "Survival"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "1307",
+      "name": "Open World"
+    },
     {
       "id": "9547",
       "name": "Windows"
@@ -44,9 +50,7 @@
     {
       "id": "1263",
       "name": "Indie"
-    },
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -83,11 +87,40 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "devils-island-03e902",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "devils-island-03e902",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Never Say Never",
   "publisherDisplayName": "Never Say Never",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1199,
+      "originalPrice": 1199,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-02-25T14:00:00.000Z",
   "pcReleaseDate": "2023-08-24T16:00:00.000Z",

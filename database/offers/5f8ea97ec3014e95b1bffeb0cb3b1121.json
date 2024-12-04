@@ -31,21 +31,34 @@
   "urlSlug": "5bb06153d3914c19983d7d13fc0d35b9",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1393",
+      "name": "Simulation"
+    },
     {
       "id": "1299",
       "name": "Competitive"
     },
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1115",
+      "name": "Strategy"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "1263",
+      "name": "Indie"
+    }
   ],
   "items": [
     {
@@ -82,11 +95,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "fly-corp-fly-corp-demo-59ee99",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "fly-corp-398021",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "fly-corp-398021",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "KishMish Games",
   "publisherDisplayName": "KishMish Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1199,
+      "originalPrice": 1199,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-22T03:00:00.000Z",
   "pcReleaseDate": "2023-05-18T10:00:00.000Z",

@@ -31,23 +31,34 @@
   "urlSlug": "83f4edf40f1247f880aea154fc2eb137",
   "url": null,
   "tags": [
-    null,
-    null,
-    null,
+    {
+      "id": "1088",
+      "name": "Turn-Based Strategy"
+    },
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
+    {
+      "id": "1386",
+      "name": "Turn-Based"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "1115",
+      "name": "Strategy"
+    },
     {
       "id": "9547",
       "name": "Windows"
     },
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
+    }
   ],
   "items": [
     {
@@ -88,11 +99,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "revival-recolonization-8f1705",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "revival-recolonization-8f1705",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "HeroCraft PC",
   "publisherDisplayName": "HeroCraft PC",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2249,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 750,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "a95fc6579eb84f1abc89b11c68739d74"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-04-11T14:00:00.000Z",
   "pcReleaseDate": "2024-04-11T14:00:00.000Z",

@@ -31,8 +31,14 @@
   "urlSlug": "1db0739ed4e741369ff2ecf489632fd5",
   "url": null,
   "tags": [
-    null,
-    null,
+    {
+      "id": "1393",
+      "name": "Simulation"
+    },
+    {
+      "id": "1203",
+      "name": "Multiplayer"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -41,10 +47,14 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "21739",
+      "name": "NFT BLOCKCHAIN"
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS"
+    }
   ],
   "items": [
     {
@@ -81,11 +91,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-evolving-forest-b4a1bb",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-evolving-forest-faq-19f806",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "the-evolving-forest-b4a1bb",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Humble Sage Games",
   "publisherDisplayName": "Raini Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-31T02:00:00.000Z",
   "pcReleaseDate": "2023-06-16T02:00:00.000Z",

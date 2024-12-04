@@ -31,19 +31,34 @@
   "urlSlug": "7b440c04a189478e87d24f436bfaac36",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
     {
       "id": "1299",
       "name": "Competitive"
     },
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "1117",
+      "name": "Adventure"
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
     {
       "id": "1151",
       "name": "Platformer"
@@ -51,8 +66,7 @@
     {
       "id": "1183",
       "name": "Local Multiplayer"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -89,7 +103,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "supfly-delivery-simulator-82d2fd",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "supfly-delivery-simulator-82d2fd",
@@ -98,7 +119,24 @@
   ],
   "developerDisplayName": "Source Byte & Koro Games",
   "publisherDisplayName": "Source Byte Sp. z o.o.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 399,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-11-08T17:00:00.000Z",
   "pcReleaseDate": "2020-10-17T09:00:00.000Z",

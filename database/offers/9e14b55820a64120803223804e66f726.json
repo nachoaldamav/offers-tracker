@@ -31,7 +31,10 @@
   "urlSlug": "96f68b62435247e9af5fe8eecf930e0f",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1170",
+      "name": "Tower Defense"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -47,8 +50,7 @@
     {
       "id": "9547",
       "name": "Windows"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -85,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "dr-professor-scientists-weapons-testing-facility-20a02f",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "dr-professor-scientists-weapons-testing-facility-20a02f",
@@ -94,7 +103,24 @@
   ],
   "developerDisplayName": "Cool Smithy Games",
   "publisherDisplayName": "Cool Smithy Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-04T08:00:00.000Z",
   "pcReleaseDate": "2022-03-08T18:00:00.000Z",

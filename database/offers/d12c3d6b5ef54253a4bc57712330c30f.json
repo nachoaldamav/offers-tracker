@@ -31,14 +31,22 @@
   "urlSlug": "442bb524f88b4f5b9056cdd044ddca6d",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1395",
+      "name": "Narration"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
-    null
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "1117",
+      "name": "Adventure"
+    }
   ],
   "items": [
     {
@@ -75,11 +83,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "black-hair-girl-is-best-girl-415031",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "black-hair-girl-is-best-girl-415031",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Never Knows Best",
   "publisherDisplayName": "Never Knows Best",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 599,
+      "originalPrice": 599,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-11-10T04:00:00.000Z",
   "pcReleaseDate": "2023-11-10T04:00:00.000Z",

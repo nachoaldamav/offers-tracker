@@ -31,7 +31,10 @@
   "urlSlug": "de4963bf1b8f42259fd2e49c2284151c",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1381",
+      "name": "Exploration"
+    },
     {
       "id": "1336",
       "name": "Action-Adventure"
@@ -40,13 +43,18 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
     {
       "id": "1151",
       "name": "Platformer"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -83,11 +91,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "search-de9485",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "search-de9485",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Team_Bug",
   "publisherDisplayName": "Team_Bug",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-01T10:00:00.000Z",
   "pcReleaseDate": "2022-08-29T10:00:00.000Z",

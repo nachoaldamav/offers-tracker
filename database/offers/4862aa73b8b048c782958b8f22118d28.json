@@ -75,12 +75,18 @@
       "id": "21141",
       "name": "Extremely Fun"
     },
-    null,
+    {
+      "id": "1336",
+      "name": "Action-Adventure"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "21149",
+      "name": "Quickly Understand the Controls"
+    },
     {
       "id": "1151",
       "name": "Platformer"
@@ -88,9 +94,7 @@
     {
       "id": "21119",
       "name": "Great for Beginners"
-    },
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -123,7 +127,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "islets-5f2670",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "islets-5f2670",
@@ -132,7 +143,24 @@
   ],
   "developerDisplayName": "Kyle Thompson",
   "publisherDisplayName": "Armor Games Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-08-24T13:00:00.000Z",
   "pcReleaseDate": "2022-08-24T13:00:00.000Z",

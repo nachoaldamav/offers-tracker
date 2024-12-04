@@ -75,14 +75,26 @@
   "urlSlug": "redacted",
   "url": null,
   "tags": [
-    null,
-    null,
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
+    {
+      "id": "1265",
+      "name": "Dungeon Crawler"
+    },
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1083",
       "name": "Rogue-Lite"
@@ -90,10 +102,7 @@
     {
       "id": "9549",
       "name": "Controller Support"
-    },
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -134,7 +143,18 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "redacted-d9d21e",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "redacted-epic-testing-do-not-use-1fa0eb",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "redacted-d9d21e",

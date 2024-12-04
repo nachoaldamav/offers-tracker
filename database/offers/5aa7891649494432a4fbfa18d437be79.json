@@ -31,7 +31,10 @@
   "urlSlug": "812d00c4f1a14cdf96eaccf189e14a4e",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1088",
+      "name": "Turn-Based Strategy"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -40,15 +43,18 @@
       "id": "1386",
       "name": "Turn-Based"
     },
-    null,
-    null,
+    {
+      "id": "1115",
+      "name": "Strategy"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1310",
       "name": "EARLY ACCESS"
-    },
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -85,11 +91,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "relic-space-110bac",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "relic-space-faq-8dd7bf",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "relic-space-110bac",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Fourfold Games",
   "publisherDisplayName": "Fourfold Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1799,
+      "originalPrice": 1799,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2023-03-09T00:00:00.000Z",

@@ -31,9 +31,18 @@
   "urlSlug": "aa5124e0006046a6a9ccc0910b30596f",
   "url": null,
   "tags": [
-    null,
-    null,
-    null,
+    {
+      "id": "1367",
+      "name": "RPG"
+    },
+    {
+      "id": "1287",
+      "name": "Fantasy"
+    },
+    {
+      "id": "1336",
+      "name": "Action-Adventure"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -42,11 +51,14 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "21739",
+      "name": "NFT BLOCKCHAIN"
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS"
+    }
   ],
   "items": [
     {
@@ -87,11 +99,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "astra-nova-13197f",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "astra-nova-faq-a86fcb",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "astra-nova-13197f",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Rogue Sentinel Studios",
   "publisherDisplayName": "Swaraj Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-07-11T09:09:24.768Z",
   "pcReleaseDate": "2024-06-16T15:30:00.000Z",

@@ -35,20 +35,38 @@
   "urlSlug": "dungeon-fighter-online",
   "url": null,
   "tags": [
-    null,
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
+    {
+      "id": "1264",
+      "name": "Co-op"
+    },
     {
       "id": "29088",
       "name": "Online Multiplayer"
     },
-    null,
-    null,
-    null,
+    {
+      "id": "21109",
+      "name": "Great Boss Battles"
+    },
+    {
+      "id": "1367",
+      "name": "RPG"
+    },
+    {
+      "id": "22776",
+      "name": "Cross Platform"
+    },
     {
       "id": "21147",
       "name": "Inclusive Character Customization"
     },
-    null
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
   ],
   "items": [
     {
@@ -104,11 +122,40 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "dungeon-fighter-online",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "dungeon-fighter-online",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Neople, INC",
   "publisherDisplayName": "Neople, INC",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-07-25T09:00:00.000Z",
   "pcReleaseDate": null,

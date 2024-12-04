@@ -31,20 +31,38 @@
   "urlSlug": "0ec5162bc1d84fa4be5beab33333b7f5",
   "url": null,
   "tags": [
-    null,
-    null,
-    null,
+    {
+      "id": "1298",
+      "name": "Puzzle"
+    },
+    {
+      "id": "21894",
+      "name": "Cloud Saves"
+    },
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "1117",
+      "name": "Adventure"
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
+    {
+      "id": "1263",
+      "name": "Indie"
+    }
   ],
   "items": [
     {
@@ -81,11 +99,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "alekon-b2faec",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "alekon-alekon-soundtrack-63592b",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "alekon-alekon-plus-alekon-soundtrack-a7a61a",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "alekon-b2faec",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "The Alekon Company",
   "publisherDisplayName": "The Alekon Company",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-05-09T17:00:00.000Z",
   "pcReleaseDate": "2021-06-12T17:00:00.000Z",

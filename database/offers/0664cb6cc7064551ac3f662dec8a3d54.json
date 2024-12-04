@@ -31,16 +31,26 @@
   "urlSlug": "e3ec1276ae2045abb1479398eab335ff",
   "url": null,
   "tags": [
-    null,
-    null,
+    {
+      "id": "1393",
+      "name": "Simulation"
+    },
+    {
+      "id": "1298",
+      "name": "Puzzle"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "1115",
+      "name": "Strategy"
+    }
   ],
   "items": [
     {
@@ -77,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "3d-printmaster-simulator-a75a0a",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "3d-printmaster-simulator-a75a0a",
@@ -86,7 +103,24 @@
   ],
   "developerDisplayName": "Midnight Works",
   "publisherDisplayName": "Midnight Works",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1299,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-11-06T12:00:00.000Z",
   "pcReleaseDate": "2023-11-06T12:00:00.000Z",

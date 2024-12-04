@@ -31,13 +31,22 @@
   "urlSlug": "the-siege-and-the-sandfox",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "1084",
+      "name": "Stealth"
+    },
     {
       "id": "9549",
       "name": "Controller Support"
@@ -46,9 +55,10 @@
       "id": "1151",
       "name": "Platformer"
     },
-    null,
-    null,
-    null
+    {
+      "id": "1247",
+      "name": "Metroidvania"
+    }
   ],
   "items": [
     {
@@ -76,7 +86,14 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-siege-and-the-sandfox",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Cardboard Sword",
   "publisherDisplayName": "Plaion",

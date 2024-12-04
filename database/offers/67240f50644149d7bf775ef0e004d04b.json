@@ -31,7 +31,10 @@
   "urlSlug": "584bb4be123c4e6e9d56ccdc6a0a945f",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1367",
+      "name": "RPG"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -40,8 +43,14 @@
       "id": "1307",
       "name": "Open World"
     },
-    null,
-    null
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "1117",
+      "name": "Adventure"
+    }
   ],
   "items": [
     {
@@ -82,11 +91,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "arkcraft-the-rebirth-of-the-world-686c87",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "arkcraft-the-rebirth-of-the-world-686c87",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "ZD Yazilim",
   "publisherDisplayName": "ZD Yazilim",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 899,
+      "originalPrice": 899,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-10-24T12:00:00.000Z",
   "pcReleaseDate": "2024-10-24T12:00:00.000Z",

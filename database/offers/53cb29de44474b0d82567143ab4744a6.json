@@ -31,7 +31,10 @@
   "urlSlug": "c726b68dd4ae4ac2818b8c2b126ba508",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
     {
       "id": "29088",
       "name": "Online Multiplayer"
@@ -40,12 +43,18 @@
       "id": "1299",
       "name": "Competitive"
     },
-    null,
+    {
+      "id": "22775",
+      "name": "MMO"
+    },
     {
       "id": "1210",
       "name": "Shooter"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "21739",
       "name": "NFT BLOCKCHAIN"
@@ -53,10 +62,7 @@
     {
       "id": "1310",
       "name": "EARLY ACCESS"
-    },
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -97,11 +103,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "kokodi-fee89a",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "kokodi-faq-f488dd",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "kokodi-fee89a",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "KOKODI games",
   "publisherDisplayName": "KOKODI games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",

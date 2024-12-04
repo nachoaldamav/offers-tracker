@@ -31,12 +31,18 @@
   "urlSlug": "38e490e6a9044192aeaed68544b81db5",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1298",
+      "name": "Puzzle"
+    },
     {
       "id": "21894",
       "name": "Cloud Saves"
     },
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -45,15 +51,18 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
     {
       "id": "1263",
       "name": "Indie"
     },
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1151",
+      "name": "Platformer"
+    }
   ],
   "items": [
     {
@@ -90,11 +99,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-gravity-trickster-fb8524",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "the-gravity-trickster-fb8524",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Szilard Papp",
   "publisherDisplayName": "Szilard Papp",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1099,
+      "originalPrice": 1099,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-07-19T07:00:00.000Z",
   "pcReleaseDate": "2024-07-19T07:00:00.000Z",

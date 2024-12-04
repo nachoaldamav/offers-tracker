@@ -31,12 +31,18 @@
   "urlSlug": "6878459e82844ffba2a581841d2e2357",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
     {
       "id": "1344",
       "name": "Fighting"
     },
-    null,
+    {
+      "id": "1264",
+      "name": "Co-op"
+    },
     {
       "id": "29088",
       "name": "Online Multiplayer"
@@ -45,12 +51,18 @@
       "id": "1299",
       "name": "Competitive"
     },
-    null,
+    {
+      "id": "22776",
+      "name": "Cross Platform"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1263",
       "name": "Indie"
@@ -58,9 +70,7 @@
     {
       "id": "1183",
       "name": "Local Multiplayer"
-    },
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -101,11 +111,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "pbbgu-c4321f",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "pbbgu-c4321f",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Rocket Panda Games Japan",
   "publisherDisplayName": "Rocket Panda Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-02-28T00:00:00.000Z",
   "pcReleaseDate": "2025-02-28T00:00:00.000Z",

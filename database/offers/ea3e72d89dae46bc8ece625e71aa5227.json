@@ -31,8 +31,14 @@
   "urlSlug": "21dab188904b40d5a9c791ae656b6c8c",
   "url": null,
   "tags": [
-    null,
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -41,9 +47,14 @@
       "id": "1083",
       "name": "Rogue-Lite"
     },
-    null,
-    null,
-    null
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "1294",
+      "name": "First Person"
+    }
   ],
   "items": [
     {
@@ -80,11 +91,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "one-more-dungeon-2-532228",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "one-more-dungeon-2-532228",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Stately Snail",
   "publisherDisplayName": "Stately Snail",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-09T14:30:00.000Z",
   "pcReleaseDate": "2022-09-19T02:00:00.000Z",

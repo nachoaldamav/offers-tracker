@@ -31,12 +31,18 @@
   "urlSlug": "aimlabs",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1185",
+      "name": "FPS"
+    },
     {
       "id": "21121",
       "name": "Great for Quick Sessions"
     },
-    null,
+    {
+      "id": "21125",
+      "name": "Competitive Community"
+    },
     {
       "id": "19847",
       "name": "Achievements"
@@ -69,16 +75,18 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
+    {
+      "id": "21146",
+      "name": "Educational"
+    },
+    {
+      "id": "21149",
+      "name": "Quickly Understand the Controls"
+    },
     {
       "id": "21119",
       "name": "Great for Beginners"
-    },
-    null,
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -106,11 +114,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "aimlabs",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "aimlabs--faq",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "State Space Labs Inc.",
   "publisherDisplayName": "State Space Labs Inc",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-03-07T17:00:00.000Z",
   "pcReleaseDate": "2023-03-07T17:00:00.000Z",

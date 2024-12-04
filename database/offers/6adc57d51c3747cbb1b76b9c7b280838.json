@@ -83,7 +83,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "wall-world-02e132",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "wall-world-wall-world-deep-threat-a8844d",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "wall-world-02e132",
@@ -92,7 +103,24 @@
   ],
   "developerDisplayName": "Alawar Premium",
   "publisherDisplayName": "Alawar Premium",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 699,
+      "originalPrice": 699,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-05T16:30:00.000Z",
   "pcReleaseDate": "2023-04-05T16:30:00.000Z",

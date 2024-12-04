@@ -31,8 +31,14 @@
   "urlSlug": "58b211daf3b1477f80de4a1ac2a845bf",
   "url": null,
   "tags": [
-    null,
-    null,
+    {
+      "id": "1296",
+      "name": "Casual"
+    },
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -40,9 +46,7 @@
     {
       "id": "9547",
       "name": "Windows"
-    },
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -79,11 +83,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-chosen-one-bfba82",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "the-chosen-one-bfba82",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Good Man",
   "publisherDisplayName": "Good Man",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 99,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-02-05T04:00:00.000Z",
   "pcReleaseDate": "2024-02-05T04:00:00.000Z",

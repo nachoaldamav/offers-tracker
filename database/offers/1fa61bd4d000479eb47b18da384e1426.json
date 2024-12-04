@@ -31,8 +31,14 @@
   "urlSlug": "fca7b0277d744bf4abf8d3404d8017cc",
   "url": null,
   "tags": [
-    null,
-    null,
+    {
+      "id": "1367",
+      "name": "RPG"
+    },
+    {
+      "id": "1080",
+      "name": "Survival"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -41,10 +47,14 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1307",
+      "name": "Open World"
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS"
+    }
   ],
   "items": [
     {
@@ -81,11 +91,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "harbingers-of-desspair-bf7897",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "harbingers-of-desspair-faq-65f6a4",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "harbingers-of-desspair-bf7897",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Joseph Peter Ptaszynski",
   "publisherDisplayName": "Spatial Rift Entertainment L.L.C.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-14T12:00:00.000Z",
   "pcReleaseDate": "2024-01-14T12:00:00.000Z",

@@ -31,13 +31,22 @@
   "urlSlug": "b9d3ef2617e0479c827b861baceba0a9",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1264",
+      "name": "Co-op"
+    },
     {
       "id": "1344",
       "name": "Fighting"
     },
-    null,
-    null,
+    {
+      "id": "21894",
+      "name": "Cloud Saves"
+    },
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1336",
       "name": "Action-Adventure"
@@ -46,13 +55,14 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1151",
       "name": "Platformer"
-    },
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -89,7 +99,18 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "guacamelee-stce-7cdbc8",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "guacamelee-stce-guacamelee-soundtrack-25fd25",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "guacamelee-stce-7cdbc8",

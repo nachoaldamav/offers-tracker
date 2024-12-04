@@ -31,13 +31,22 @@
   "urlSlug": "1c69a5b0e91d4cafabed47e8de114f52",
   "url": null,
   "tags": [
-    null,
-    null,
+    {
+      "id": "1296",
+      "name": "Casual"
+    },
+    {
+      "id": "1283",
+      "name": "Sports"
+    },
     {
       "id": "1299",
       "name": "Competitive"
     },
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -46,18 +55,22 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
-    null,
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
     {
       "id": "1263",
       "name": "Indie"
     },
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1183",
+      "name": "Local Multiplayer"
+    }
   ],
   "items": [
     {
@@ -98,7 +111,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "house-of-golf-2-f346a4",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "house-of-golf-2-f346a4",
@@ -107,7 +127,28 @@
   ],
   "developerDisplayName": "Starlight Games",
   "publisherDisplayName": "Starlight Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 1500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "b2a8be1c54aa4991910973ed1d0aa0fd"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-08-16T11:00:00.000Z",
   "pcReleaseDate": "2024-08-16T11:00:00.000Z",

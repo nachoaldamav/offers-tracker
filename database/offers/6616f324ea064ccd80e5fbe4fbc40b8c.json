@@ -31,9 +31,18 @@
   "urlSlug": "2cc937a6700a490f9bc8314f483f55eb",
   "url": null,
   "tags": [
-    null,
-    null,
-    null,
+    {
+      "id": "1264",
+      "name": "Co-op"
+    },
+    {
+      "id": "1381",
+      "name": "Exploration"
+    },
+    {
+      "id": "1080",
+      "name": "Survival"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -49,10 +58,7 @@
     {
       "id": "1310",
       "name": "EARLY ACCESS"
-    },
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -85,11 +91,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "derelicts-675012",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "derelicts-faq-61d1c7",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "derelicts-675012",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Romain",
   "publisherDisplayName": "Romain",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1799,
+      "originalPrice": 1799,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",

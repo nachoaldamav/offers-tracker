@@ -35,12 +35,18 @@
       "id": "1216",
       "name": "Action"
     },
-    null,
+    {
+      "id": "1218",
+      "name": "Horror"
+    },
     {
       "id": "1299",
       "name": "Competitive"
     },
-    null,
+    {
+      "id": "1336",
+      "name": "Action-Adventure"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -48,9 +54,7 @@
     {
       "id": "9547",
       "name": "Windows"
-    },
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -91,11 +95,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-voidness-lidar-horror-survival-game-669e8c",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "the-voidness-lidar-horror-survival-game-669e8c",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Steelkrill Studio",
   "publisherDisplayName": "Steelkrill Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1199,
+      "originalPrice": 1199,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-08-09T10:00:00.000Z",
   "pcReleaseDate": "2023-10-30T11:00:00.000Z",

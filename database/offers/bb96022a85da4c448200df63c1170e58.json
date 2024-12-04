@@ -31,17 +31,26 @@
   "urlSlug": "e50fba5604944c57ad950b7b0ac7e28a",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1264",
+      "name": "Co-op"
+    },
     {
       "id": "1218",
       "name": "Horror"
     },
-    null,
+    {
+      "id": "1336",
+      "name": "Action-Adventure"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "9549",
       "name": "Controller Support"
@@ -49,10 +58,7 @@
     {
       "id": "1310",
       "name": "EARLY ACCESS"
-    },
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -93,11 +99,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "lost-lullabies-faq-9118ac",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "lost-lullabies-02cba6",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "lost-lullabies-lost-lullabies-the-orphanage-chronicles-demo-72d3ab",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "lost-lullabies-02cba6",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Pugsy Studios",
   "publisherDisplayName": "Pugsy Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-31T00:00:00.000Z",
   "pcReleaseDate": "2024-12-31T00:00:00.000Z",

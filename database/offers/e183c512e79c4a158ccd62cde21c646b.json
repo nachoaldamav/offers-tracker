@@ -31,17 +31,26 @@
   "urlSlug": "78fd973dcda045889f7ef8933856fa5e",
   "url": null,
   "tags": [
-    null,
-    null,
-    null,
+    {
+      "id": "1120",
+      "name": "RTS"
+    },
+    {
+      "id": "1216",
+      "name": "Action"
+    },
+    {
+      "id": "1367",
+      "name": "RPG"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
   ],
   "items": [
     {
@@ -78,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "warshift-127867",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "warshift-127867",
@@ -87,7 +103,24 @@
   ],
   "developerDisplayName": "Nominia",
   "publisherDisplayName": "Nominia",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-11-15T01:00:00.000Z",
   "pcReleaseDate": "2016-10-13T15:00:00.000Z",

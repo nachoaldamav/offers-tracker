@@ -63,7 +63,10 @@
   "urlSlug": "fe0c5aa4eee44a05b70540650b59ac28",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1264",
+      "name": "Co-op"
+    },
     {
       "id": "29088",
       "name": "Online Multiplayer"
@@ -72,23 +75,30 @@
       "id": "31313",
       "name": "First Run"
     },
-    null,
-    null,
-    null,
+    {
+      "id": "1287",
+      "name": "Fantasy"
+    },
+    {
+      "id": "1367",
+      "name": "RPG"
+    },
+    {
+      "id": "22775",
+      "name": "MMO"
+    },
     {
       "id": "1307",
       "name": "Open World"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1310",
       "name": "EARLY ACCESS"
-    },
-    null,
-    null,
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -129,11 +139,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "pirate-royalty-9942df",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "pirate-royalty-faq-6d0cbd",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "pirate-royalty-9942df",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Unreal Royalty, LLC",
   "publisherDisplayName": "Pirate Royalty, LLC",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-09-30T00:00:00.000Z",
   "pcReleaseDate": "2025-09-30T00:00:00.000Z",

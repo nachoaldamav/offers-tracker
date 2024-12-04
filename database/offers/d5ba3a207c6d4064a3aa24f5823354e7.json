@@ -31,12 +31,18 @@
   "urlSlug": "022d0eecd4e546579e6850ddd68b5cac",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1298",
+      "name": "Puzzle"
+    },
     {
       "id": "1381",
       "name": "Exploration"
     },
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -45,10 +51,14 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
+    {
+      "id": "1294",
+      "name": "First Person"
+    }
   ],
   "items": [
     {
@@ -89,11 +99,52 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "reliefs-the-time-of-the-lemures-872f85",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "reliefs-the-time-of-the-lemures-reliefs-the-time-of-the-lemures-demo-81397e",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "reliefs-the-time-of-the-lemures-reliefs-the-time-of-the-lemures-soundtracks-987649",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "reliefs-the-time-of-the-lemures-reliefs-the-time-of-the-lemures-plus-soundtracks-ae25c2",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "reliefs-the-time-of-the-lemures-872f85",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Calepin Studio",
   "publisherDisplayName": "Calepin Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-05-30T23:00:00.000Z",
   "pcReleaseDate": "2023-10-17T19:00:00.000Z",

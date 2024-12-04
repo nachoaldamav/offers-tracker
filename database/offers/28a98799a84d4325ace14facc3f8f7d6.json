@@ -31,15 +31,26 @@
   "urlSlug": "a24be7fdd6f24aa5b43ace5353900fd6",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1129",
+      "name": "Music"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "1212",
+      "name": "Racing"
+    },
+    {
+      "id": "1263",
+      "name": "Indie"
+    }
   ],
   "items": [
     {
@@ -76,11 +87,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "moto-cbde33",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "moto-cbde33",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Fullbrutal",
   "publisherDisplayName": "Fullbrutal",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 199,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-05T05:00:00.000Z",
   "pcReleaseDate": "2023-06-05T05:00:00.000Z",

@@ -43,17 +43,34 @@
   "urlSlug": "ghoulgeneralaudience",
   "url": null,
   "tags": [
-    null,
-    null,
-    null,
-    null,
+    {
+      "id": "21137",
+      "name": "Unique Visuals"
+    },
+    {
+      "id": "1298",
+      "name": "Puzzle"
+    },
+    {
+      "id": "21894",
+      "name": "Cloud Saves"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1116",
       "name": "Comedy"
     },
-    null,
-    null,
-    null
+    {
+      "id": "1117",
+      "name": "Adventure"
+    },
+    {
+      "id": "21150",
+      "name": "Challenging Puzzles"
+    }
   ],
   "items": [
     {
@@ -86,11 +103,35 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "deponia-the-complete-journey",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-04-15T15:00:00.000Z",
   "pcReleaseDate": "2014-07-08T10:00:00.000Z",

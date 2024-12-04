@@ -39,12 +39,18 @@
       "id": "21894",
       "name": "Cloud Saves"
     },
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "9547",
       "name": "Windows"
     },
-    null,
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
     {
       "id": "1264",
       "name": "Co-op"
@@ -57,17 +63,26 @@
       "id": "1110",
       "name": "Party"
     },
-    null,
+    {
+      "id": "22776",
+      "name": "Cross Platform"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "10719",
+      "name": "Mac OS"
+    },
+    {
+      "id": "1151",
+      "name": "Platformer"
+    },
+    {
+      "id": "1183",
+      "name": "Local Multiplayer"
+    }
   ],
   "items": [
     {
@@ -104,7 +119,26 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "astro-duel-2-e1261d",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "astro-duel-2-demo-8565e4",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "astro-duel-2-soundtrack-bundle-95885e",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "astro-duel-2-soundtrack-5fc66c",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "astro-duel-2-e1261d",
@@ -113,7 +147,24 @@
   ],
   "developerDisplayName": "Wild Rooster",
   "publisherDisplayName": "Wild Rooster",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-07T16:00:00.000Z",
   "pcReleaseDate": "2024-03-07T16:00:00.000Z",

@@ -31,10 +31,22 @@
   "urlSlug": "e2da9f48dcf04a4fa76e7634b619e350",
   "url": null,
   "tags": [
-    null,
-    null,
-    null,
-    null,
+    {
+      "id": "1367",
+      "name": "RPG"
+    },
+    {
+      "id": "1287",
+      "name": "Fantasy"
+    },
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
+    {
+      "id": "1336",
+      "name": "Action-Adventure"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -42,11 +54,7 @@
     {
       "id": "1310",
       "name": "EARLY ACCESS"
-    },
-    null,
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -87,11 +95,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "eternal-supreme-faq-b83e99",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "eternal-supreme-a3866b",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "eternal-supreme-a3866b",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "BOUNDLESS INFORMATION TECHNOLOGY LIMITED",
   "publisherDisplayName": "BOUNDLESS INFORMATION TECHNOLOGY LIMITED",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 899,
+      "originalPrice": 899,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-03-28T03:00:00.000Z",
   "pcReleaseDate": "2025-03-28T03:00:00.000Z",

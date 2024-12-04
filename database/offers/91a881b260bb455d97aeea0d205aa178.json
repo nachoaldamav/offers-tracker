@@ -43,41 +43,78 @@
   "urlSlug": "honeycreepergeneralaudience",
   "url": null,
   "tags": [
-    null,
-    null,
-    null,
+    {
+      "id": "1185",
+      "name": "FPS"
+    },
+    {
+      "id": "21121",
+      "name": "Great for Quick Sessions"
+    },
+    {
+      "id": "1188",
+      "name": "RELAXING"
+    },
     {
       "id": "1349",
       "name": "FAST-PACED"
     },
-    null,
-    null,
-    null,
-    null,
+    {
+      "id": "21125",
+      "name": "Competitive Community"
+    },
+    {
+      "id": "21894",
+      "name": "Cloud Saves"
+    },
+    {
+      "id": "21129",
+      "name": "Challenging Combat"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "21136",
       "name": "Playful Visuals"
     },
-    null,
-    null,
-    null,
-    null,
-    null,
+    {
+      "id": "21138",
+      "name": "Recommend this Game"
+    },
+    {
+      "id": "1203",
+      "name": "Multiplayer"
+    },
+    {
+      "id": "1299",
+      "name": "Competitive"
+    },
+    {
+      "id": "21139",
+      "name": "Amazing Characters"
+    },
+    {
+      "id": "21140",
+      "name": "Amazing Storytelling"
+    },
     {
       "id": "21141",
       "name": "Extremely Fun"
     },
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1210",
+      "name": "Shooter"
+    },
+    {
+      "id": "1117",
+      "name": "Adventure"
+    },
+    {
+      "id": "21149",
+      "name": "Quickly Understand the Controls"
+    }
   ],
   "items": [
     {
@@ -113,11 +150,51 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "diabotical--big-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "diabotical--fan-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "diabotical",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "diabotical--starter-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "diabotical--standard-pack",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-09-03T13:00:00.000Z",
   "pcReleaseDate": "2020-09-03T13:00:00.000Z",

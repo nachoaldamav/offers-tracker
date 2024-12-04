@@ -31,7 +31,10 @@
   "urlSlug": "67d36c6b5be54468af958b7799c0b59d",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1264",
+      "name": "Co-op"
+    },
     {
       "id": "29088",
       "name": "Online Multiplayer"
@@ -52,8 +55,14 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "1117",
+      "name": "Adventure"
+    },
     {
       "id": "1310",
       "name": "EARLY ACCESS"
@@ -61,9 +70,7 @@
     {
       "id": "1183",
       "name": "Local Multiplayer"
-    },
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -104,11 +111,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "dimond-hunt-03a766",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "dimond-hunt-faq-54f4da",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "dimond-hunt-03a766",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Black Apple",
   "publisherDisplayName": "Black Apple",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 799,
+      "originalPrice": 799,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",

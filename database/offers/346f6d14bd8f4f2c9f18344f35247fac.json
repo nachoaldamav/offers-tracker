@@ -31,14 +31,26 @@
   "urlSlug": "a7b10718fb624e2597d74fb396d76ce7",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1264",
+      "name": "Co-op"
+    },
     {
       "id": "1203",
       "name": "Multiplayer"
     },
-    null,
-    null,
-    null,
+    {
+      "id": "22775",
+      "name": "MMO"
+    },
+    {
+      "id": "1336",
+      "name": "Action-Adventure"
+    },
+    {
+      "id": "1080",
+      "name": "Survival"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -50,11 +62,7 @@
     {
       "id": "1310",
       "name": "EARLY ACCESS"
-    },
-    null,
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -91,7 +99,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "chemists-area-of-infection-faq-792f70",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "chemists-area-of-infection-49ce28",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "chemists-area-of-infection-49ce28",
@@ -100,7 +119,24 @@
   ],
   "developerDisplayName": "GPC",
   "publisherDisplayName": "GAMEPORTAL.CO",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2022-09-09T02:00:00.000Z",

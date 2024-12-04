@@ -31,7 +31,10 @@
   "urlSlug": "bda67eae797840f197a563780771d60f",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1296",
+      "name": "Casual"
+    },
     {
       "id": "29088",
       "name": "Online Multiplayer"
@@ -40,8 +43,14 @@
       "id": "1110",
       "name": "Party"
     },
-    null,
-    null,
+    {
+      "id": "22776",
+      "name": "Cross Platform"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "9549",
       "name": "Controller Support"
@@ -57,8 +66,7 @@
     {
       "id": "10719",
       "name": "Mac OS"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -95,11 +103,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "crystal-ball-critters-c08765",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "crystal-ball-critters-c08765",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "No Bright Shadows",
   "publisherDisplayName": "No Bright Shadows",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1199,
+      "originalPrice": 1199,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-06-30T00:00:00.000Z",
   "pcReleaseDate": "2025-06-30T00:00:00.000Z",

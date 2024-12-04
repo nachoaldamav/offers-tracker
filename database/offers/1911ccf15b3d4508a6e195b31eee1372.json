@@ -43,8 +43,14 @@
   "urlSlug": "siberiangeneralaudience",
   "url": null,
   "tags": [
-    null,
-    null,
+    {
+      "id": "1188",
+      "name": "RELAXING"
+    },
+    {
+      "id": "21894",
+      "name": "Cloud Saves"
+    },
     {
       "id": "19847",
       "name": "Achievements"
@@ -53,15 +59,30 @@
       "id": "21127",
       "name": "Creative Community"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1393",
       "name": "Simulation"
     },
-    null,
-    null,
-    null,
-    null,
+    {
+      "id": "21138",
+      "name": "Recommend this Game"
+    },
+    {
+      "id": "1203",
+      "name": "Multiplayer"
+    },
+    {
+      "id": "21139",
+      "name": "Amazing Characters"
+    },
+    {
+      "id": "21140",
+      "name": "Amazing Storytelling"
+    },
     {
       "id": "21141",
       "name": "Extremely Fun"
@@ -70,14 +91,26 @@
       "id": "1146",
       "name": "City Builder"
     },
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
+    {
+      "id": "21146",
+      "name": "Educational"
+    },
+    {
+      "id": "1115",
+      "name": "Strategy"
+    },
+    {
+      "id": "21149",
+      "name": "Quickly Understand the Controls"
+    },
+    {
+      "id": "21119",
+      "name": "Great for Beginners"
+    }
   ],
   "items": [
     {
@@ -117,11 +150,75 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tropico-6--el-prez-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "tropico-6--festival",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "tropico-6--spitter",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "tropico-6--llama-of-wall-street",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "tropico-6--lobbyistico",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "tropico-6--caribbean-skies",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "tropico-6",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "tropico-6--new-frontiers",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "tropico-6--mod-kit",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "tropico-6--going-viral",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "tropico-6--tropican-shores",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-12-23T16:00:00.000Z",
   "pcReleaseDate": "2020-12-23T16:00:00.000Z",

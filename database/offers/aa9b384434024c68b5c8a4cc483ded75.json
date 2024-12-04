@@ -31,8 +31,14 @@
   "urlSlug": "6cc00d5efe014d01801a58b211352a6d",
   "url": null,
   "tags": [
-    null,
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
+    {
+      "id": "1264",
+      "name": "Co-op"
+    },
     {
       "id": "29088",
       "name": "Online Multiplayer"
@@ -41,11 +47,26 @@
       "id": "21137",
       "name": "Unique Visuals"
     },
-    null,
-    null,
-    null,
-    null,
-    null,
+    {
+      "id": "1210",
+      "name": "Shooter"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
+    {
+      "id": "1294",
+      "name": "First Person"
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS"
+    },
     {
       "id": "21119",
       "name": "Great for Beginners"
@@ -86,7 +107,34 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "starship-troopers-extermination-faq-635588",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "starship-troopers-extermination-57f59d",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "starship-troopers-extermination-starship-troopers-extermination-boreas-cosmetic-pack-ab5f38",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "starship-troopers-extermination-starship-troopers-extermination-valaka-cosmetic-pack-d7e08b",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "starship-troopers-extermination-starship-troopers-extermination-agniprime-cosmetic-pack-f5ed90",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "starship-troopers-extermination-starship-troopers-extermination-x11-cosmetic-pack-af6dd0",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "starship-troopers-extermination-57f59d",
@@ -95,7 +143,28 @@
   ],
   "developerDisplayName": "Offworld Industries Ltd.",
   "publisherDisplayName": "Offworld Industries Ltd.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 2000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "487672f0e585491691ef75b9297d9c76"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-11-21T18:00:00.000Z",
   "pcReleaseDate": "2023-05-17T17:00:00.000Z",

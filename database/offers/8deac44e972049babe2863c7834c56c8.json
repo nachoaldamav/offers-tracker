@@ -31,22 +31,34 @@
   "urlSlug": "1026b366d7f54ad49c8152a1cc8e49c7",
   "url": null,
   "tags": [
-    null,
-    null,
+    {
+      "id": "29088",
+      "name": "Online Multiplayer"
+    },
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1210",
       "name": "Shooter"
     },
-    null,
+    {
+      "id": "21739",
+      "name": "NFT BLOCKCHAIN"
+    },
     {
       "id": "9547",
       "name": "Windows"
     },
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS"
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS"
+    }
   ],
   "items": [
     {
@@ -87,11 +99,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "mars-battle-6d58c4",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "mars-battle-faq-8c2657",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "mars-battle-6d58c4",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Mars4",
   "publisherDisplayName": "Mars4",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-04-20T20:00:00.000Z",
   "pcReleaseDate": "2024-04-20T20:00:00.000Z",

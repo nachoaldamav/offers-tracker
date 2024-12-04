@@ -43,7 +43,10 @@
   "urlSlug": "radishgeneralaudience",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
     {
       "id": "1344",
       "name": "Fighting"
@@ -52,20 +55,34 @@
       "id": "1333",
       "name": "Action RPG"
     },
-    null,
-    null,
-    null,
+    {
+      "id": "21109",
+      "name": "Great Boss Battles"
+    },
+    {
+      "id": "1287",
+      "name": "Fantasy"
+    },
+    {
+      "id": "1367",
+      "name": "RPG"
+    },
     {
       "id": "19847",
       "name": "Achievements"
     },
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "21147",
+      "name": "Inclusive Character Customization"
+    }
   ],
   "items": [
     {
@@ -105,11 +122,43 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "kingdoms-of-amalur-re-reckoning",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "kingdoms-of-amalur-re-reckoning--fate-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "kingdoms-of-amalur-re-reckoning--fatesworn",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-09-08T17:00:00.000Z",
   "pcReleaseDate": "2020-09-08T17:00:00.000Z",

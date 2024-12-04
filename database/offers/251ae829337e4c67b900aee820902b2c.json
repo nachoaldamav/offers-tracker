@@ -31,7 +31,10 @@
   "urlSlug": "ed2d10c3f745437a9d7116bc167bbfd5",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -40,9 +43,18 @@
       "id": "1083",
       "name": "Rogue-Lite"
     },
-    null,
-    null,
-    null
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
+    {
+      "id": "1263",
+      "name": "Indie"
+    }
   ],
   "items": [
     {
@@ -79,11 +91,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "remedium-sentinels-b5debd",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "remedium-sentinels-faq-9dde00",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "remedium-sentinels-b5debd",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Sobaka Studio",
   "publisherDisplayName": "ESDigital Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-07-18T15:00:00.000Z",
   "pcReleaseDate": "2023-02-28T15:00:00.000Z",

@@ -35,7 +35,10 @@
   "urlSlug": "f9d700544a95481c8db58852ef90fd51",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
     {
       "id": "1344",
       "name": "Fighting"
@@ -52,7 +55,10 @@
       "id": "1210",
       "name": "Shooter"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1310",
       "name": "EARLY ACCESS"
@@ -60,8 +66,7 @@
     {
       "id": "1183",
       "name": "Local Multiplayer"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -102,11 +107,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "solaris-fps-838c41",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "solaris-fps-faq-a9c7cc",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "solaris-fps-838c41",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Rexis Development",
   "publisherDisplayName": "Rexis Development",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",

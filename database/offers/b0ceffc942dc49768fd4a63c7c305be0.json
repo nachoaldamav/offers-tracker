@@ -31,9 +31,18 @@
   "urlSlug": "1ad15033914f4160bf5180cdb5ef803e",
   "url": null,
   "tags": [
-    null,
-    null,
-    null,
+    {
+      "id": "1170",
+      "name": "Tower Defense"
+    },
+    {
+      "id": "21894",
+      "name": "Cloud Saves"
+    },
+    {
+      "id": "1367",
+      "name": "RPG"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -42,10 +51,10 @@
       "id": "1083",
       "name": "Rogue-Lite"
     },
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
   ],
   "items": [
     {
@@ -86,11 +95,40 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "rogue-citadel-08542d",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "rogue-citadel-08542d",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Malum Games",
   "publisherDisplayName": "Malum Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2024-07-18T09:00:00.000Z",

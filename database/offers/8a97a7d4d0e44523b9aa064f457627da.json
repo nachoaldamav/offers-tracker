@@ -31,32 +31,70 @@
   "urlSlug": "control",
   "url": null,
   "tags": [
-    null,
-    null,
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
+    {
+      "id": "21122",
+      "name": "Diverse Characters"
+    },
+    {
+      "id": "21894",
+      "name": "Cloud Saves"
+    },
     {
       "id": "21127",
       "name": "Creative Community"
     },
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
+    {
+      "id": "21129",
+      "name": "Challenging Combat"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "21137",
+      "name": "Unique Visuals"
+    },
+    {
+      "id": "21138",
+      "name": "Recommend this Game"
+    },
+    {
+      "id": "21139",
+      "name": "Amazing Characters"
+    },
+    {
+      "id": "21140",
+      "name": "Amazing Storytelling"
+    },
+    {
+      "id": "21109",
+      "name": "Great Boss Battles"
+    },
     {
       "id": "21141",
       "name": "Extremely Fun"
     },
-    null,
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
+    {
+      "id": "1117",
+      "name": "Adventure"
+    },
     {
       "id": "1341",
       "name": "Supernatural"
     },
-    null,
-    null
+    {
+      "id": "21149",
+      "name": "Quickly Understand the Controls"
+    }
   ],
   "items": [
     {
@@ -88,11 +126,51 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "control",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "control--the-foundation",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "control--season-pass",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "control--awe",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "control--ultimate-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Remedy Entertainment Plc",
   "publisherDisplayName": "505 Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2019-08-27T15:00:00.000Z",
   "pcReleaseDate": null,

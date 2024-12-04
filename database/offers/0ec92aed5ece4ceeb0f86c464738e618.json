@@ -31,7 +31,10 @@
   "urlSlug": "450c3e63a3b34d838053415416b6f228",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1395",
+      "name": "Narration"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -40,13 +43,14 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
+    {
+      "id": "1116",
+      "name": "Comedy"
+    },
     {
       "id": "1263",
       "name": "Indie"
-    },
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -83,11 +87,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "poultrygeist-6ab305",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "poultrygeist-6ab305",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Big Weasel Lil Weasel",
   "publisherDisplayName": "Big Weasel Lil Weasel",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1099,
+      "originalPrice": 1099,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-23T15:00:00.551Z",
   "pcReleaseDate": "2024-01-23T15:00:00.000Z",

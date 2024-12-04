@@ -35,8 +35,14 @@
       "id": "1344",
       "name": "Fighting"
     },
-    null,
-    null,
+    {
+      "id": "1395",
+      "name": "Narration"
+    },
+    {
+      "id": "1336",
+      "name": "Action-Adventure"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -44,9 +50,7 @@
     {
       "id": "9547",
       "name": "Windows"
-    },
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -83,11 +87,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "atone-heart-of-the-elder-tree-556763",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "atone-heart-of-the-elder-tree-556763",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Wildboy Studios",
   "publisherDisplayName": "Untold Tales S.A.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-01-27T15:00:00.000Z",
   "pcReleaseDate": "2023-01-27T15:00:00.000Z",

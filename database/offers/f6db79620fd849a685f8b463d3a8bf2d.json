@@ -39,28 +39,58 @@
   "urlSlug": "kakopo-reloaded",
   "url": null,
   "tags": [
-    null,
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
+    {
+      "id": "1188",
+      "name": "RELAXING"
+    },
     {
       "id": "21127",
       "name": "Creative Community"
     },
-    null,
-    null,
-    null,
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "21138",
+      "name": "Recommend this Game"
+    },
+    {
+      "id": "21139",
+      "name": "Amazing Characters"
+    },
+    {
+      "id": "21140",
+      "name": "Amazing Storytelling"
+    },
     {
       "id": "21141",
       "name": "Extremely Fun"
     },
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1400",
+      "name": "Physics"
+    },
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
+    {
+      "id": "1307",
+      "name": "Open World"
+    },
+    {
+      "id": "21149",
+      "name": "Quickly Understand the Controls"
+    },
+    {
+      "id": "21119",
+      "name": "Great for Beginners"
+    }
   ],
   "items": [
     {
@@ -100,11 +130,59 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "just-cause-4--reloaded-content-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "just-cause-4",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "just-cause-4--complete-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "just-cause-4--gold-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "just-cause-4--golden-gear-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "just-cause-4--black-market-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "just-cause-4--expansion-pass",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-04-23T15:00:00.000Z",
   "pcReleaseDate": null,

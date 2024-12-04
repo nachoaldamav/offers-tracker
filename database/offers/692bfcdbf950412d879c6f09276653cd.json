@@ -31,25 +31,34 @@
   "urlSlug": "efadfc9151f445239bea0f2216e70fa8",
   "url": null,
   "tags": [
-    null,
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
+    {
+      "id": "1296",
+      "name": "Casual"
+    },
     {
       "id": "31313",
       "name": "First Run"
     },
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "9549",
       "name": "Controller Support"
-    },
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -90,11 +99,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ninjarevengerpixydacojp-921a50",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "ninjarevengerpixydacojp-faq-aedb7d",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "ninjarevengerpixydacojp-921a50",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "pixyda",
   "publisherDisplayName": "pixyda",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-10-31T03:00:00.000Z",
   "pcReleaseDate": "2024-10-31T03:00:00.000Z",

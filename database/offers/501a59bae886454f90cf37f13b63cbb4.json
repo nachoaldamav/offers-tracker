@@ -35,21 +35,34 @@
   "urlSlug": "suzerain",
   "url": null,
   "tags": [
-    null,
-    null,
-    null,
-    null,
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "1115",
+      "name": "Strategy"
+    },
+    {
+      "id": "1117",
+      "name": "Adventure"
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
     {
       "id": "1263",
       "name": "Indie"
     },
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "10719",
+      "name": "Mac OS"
+    }
   ],
   "items": [
     {
@@ -101,11 +114,64 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "suzerain",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "suzerain--original-soundtrack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "suzerain--supporter-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "suzerain--support-the-developers-and-vulpitzer-award",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "suzerain--expanded-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "suzerain--kingdom-of-rizia-original-soundtrack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "suzerain--kingdom-of-rizia-dlc",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "suzerain",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Torpor Games",
   "publisherDisplayName": "Fellow Traveller",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-05-20T15:00:00.000Z",
   "pcReleaseDate": "2020-12-04T15:00:00.000Z",

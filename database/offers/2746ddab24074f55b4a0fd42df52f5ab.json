@@ -79,14 +79,26 @@
       "id": "1218",
       "name": "Horror"
     },
-    null,
-    null,
+    {
+      "id": "21894",
+      "name": "Cloud Saves"
+    },
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "1117",
+      "name": "Adventure"
+    },
     {
       "id": "9549",
       "name": "Controller Support"
@@ -94,10 +106,7 @@
     {
       "id": "1294",
       "name": "First Person"
-    },
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -138,11 +147,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "unknown-tapes-884873",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "unknown-tapes-884873",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Traviteam Games",
   "publisherDisplayName": "Traviteam Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1529,
+      "originalPrice": 1799,
+      "voucherDiscount": 0,
+      "discount": 270,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "2de828186920434397da0f019df5a534"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-11-28T19:00:00.000Z",
   "pcReleaseDate": "2024-11-28T19:00:00.000Z",

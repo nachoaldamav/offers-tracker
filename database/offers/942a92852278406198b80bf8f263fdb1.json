@@ -31,11 +31,26 @@
   "urlSlug": "8e0b6eaa13b2452aa3fa68d4669c0056",
   "url": null,
   "tags": [
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1367",
+      "name": "RPG"
+    },
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
+    {
+      "id": "1386",
+      "name": "Turn-Based"
+    },
+    {
+      "id": "1115",
+      "name": "Strategy"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
   ],
   "items": [
     {
@@ -60,11 +75,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "druidstone-0697f7",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "druidstone-0697f7",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Ctrl Alt Ninja",
   "publisherDisplayName": "Ctrl Alt Ninja",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-08-19T12:00:00.000Z",
   "pcReleaseDate": "2021-08-19T12:00:00.000Z",

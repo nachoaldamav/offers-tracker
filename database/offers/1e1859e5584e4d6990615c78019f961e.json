@@ -31,13 +31,22 @@
   "urlSlug": "7fb475d2335f4a90a84b461cfaaeaca1",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "29088",
+      "name": "Online Multiplayer"
+    },
     {
       "id": "1299",
       "name": "Competitive"
     },
-    null,
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
+    {
+      "id": "22776",
+      "name": "Cross Platform"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -46,11 +55,14 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1212",
+      "name": "Racing"
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    }
   ],
   "items": [
     {
@@ -91,11 +103,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "old-skool-racer-378359",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "old-skool-racer-faq-0bb168",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "old-skool-racer-378359",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "KARMA PLAY",
   "publisherDisplayName": "KARMA PLAY",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-04-10T16:26:39.000Z",
   "pcReleaseDate": "2020-07-07T12:30:00.000Z",

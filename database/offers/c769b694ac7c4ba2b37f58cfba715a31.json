@@ -79,18 +79,22 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "1307",
+      "name": "Open World"
+    },
     {
       "id": "1117",
       "name": "Adventure"
     },
-    null,
+    {
+      "id": "21149",
+      "name": "Quickly Understand the Controls"
+    },
     {
       "id": "21119",
       "name": "Great for Beginners"
-    },
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -118,11 +122,43 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "gotham-knights",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "gotham-knights--visionary-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "gotham-knights--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Warner Bros. Games Montreal | QLOC",
   "publisherDisplayName": "Warner Bros. Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 5999,
+      "originalPrice": 5999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": false,
   "releaseDate": "2022-10-21T17:00:00.000Z",
   "pcReleaseDate": "2022-10-21T17:00:00.000Z",

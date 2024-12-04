@@ -31,18 +31,30 @@
   "urlSlug": "a7cfd8b2d0a84f52bab9b16a068e5b1d",
   "url": null,
   "tags": [
-    null,
-    null,
+    {
+      "id": "1088",
+      "name": "Turn-Based Strategy"
+    },
+    {
+      "id": "1216",
+      "name": "Action"
+    },
     {
       "id": "29088",
       "name": "Online Multiplayer"
     },
-    null,
+    {
+      "id": "22776",
+      "name": "Cross Platform"
+    },
     {
       "id": "21739",
       "name": "NFT BLOCKCHAIN"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1181",
       "name": "Card Game"
@@ -54,10 +66,7 @@
     {
       "id": "10719",
       "name": "Mac OS"
-    },
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -98,11 +107,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "overknights-6e332e",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "overknights-faq-712de6",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "overknights-6e332e",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Obitus Games",
   "publisherDisplayName": "Obitus Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-06-30T00:00:00.000Z",
   "pcReleaseDate": "2025-06-30T00:00:00.000Z",

@@ -43,13 +43,26 @@
   "urlSlug": "splinter-cell-chaos-theory",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
     {
       "id": "1264",
       "name": "Co-op"
     },
-    null,
-    null
+    {
+      "id": "1187",
+      "name": "THIRD-PERSON SHOOTER"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "1084",
+      "name": "Stealth"
+    }
   ],
   "items": [
     {
@@ -89,11 +102,35 @@
       "path": "games/edition"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "splinter-cell-chaos-theory",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-03-30T15:00:00.000Z",
   "pcReleaseDate": "2005-03-22T15:00:00.000Z",

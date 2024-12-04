@@ -31,26 +31,34 @@
   "urlSlug": "e1d6fe0d58bf4c4bad163034834c404d",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1344",
+      "name": "Fighting"
+    },
     {
       "id": "1216",
       "name": "Action"
     },
-    null,
+    {
+      "id": "29088",
+      "name": "Online Multiplayer"
+    },
     {
       "id": "1299",
       "name": "Competitive"
     },
-    null,
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
+    {
+      "id": "21129",
+      "name": "Challenging Combat"
+    },
     {
       "id": "9547",
       "name": "Windows"
-    },
-    null,
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -87,11 +95,52 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "toribash-next-930df6",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "toribash-next-5000-toricoins-c800b8",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "toribash-next-12500-toricoins-d959f1",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "toribash-next-2000-toricoins-b8e031",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "toribash-next-930df6",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Nabi Studios",
   "publisherDisplayName": "Nicalis, Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-24T18:00:00.000Z",
   "pcReleaseDate": "2024-01-24T18:00:00.000Z",

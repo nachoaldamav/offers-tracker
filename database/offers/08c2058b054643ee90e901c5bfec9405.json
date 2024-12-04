@@ -31,7 +31,10 @@
   "urlSlug": "9b152a7ad4294caeb69a47f2dc8e1dce",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1264",
+      "name": "Co-op"
+    },
     {
       "id": "29088",
       "name": "Online Multiplayer"
@@ -40,13 +43,22 @@
       "id": "1393",
       "name": "Simulation"
     },
-    null,
-    null,
+    {
+      "id": "1381",
+      "name": "Exploration"
+    },
+    {
+      "id": "22776",
+      "name": "Cross Platform"
+    },
     {
       "id": "21739",
       "name": "NFT BLOCKCHAIN"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1310",
       "name": "EARLY ACCESS"
@@ -54,10 +66,7 @@
     {
       "id": "10719",
       "name": "Mac OS"
-    },
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -98,11 +107,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "brilliant-crypto-5b06e1",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "brilliant-crypto-faq-e73df9",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "brilliant-crypto-5b06e1",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Brilliantcrypto",
   "publisherDisplayName": "Crypto Blockchain Industries",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-10-22T06:00:00.000Z",
   "pcReleaseDate": "2024-06-17T10:00:00.000Z",

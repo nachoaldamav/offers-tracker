@@ -35,17 +35,26 @@
       "id": "1216",
       "name": "Action"
     },
-    null,
+    {
+      "id": "1344",
+      "name": "Fighting"
+    },
     {
       "id": "1264",
       "name": "Co-op"
     },
-    null,
+    {
+      "id": "29088",
+      "name": "Online Multiplayer"
+    },
     {
       "id": "1299",
       "name": "Competitive"
     },
-    null,
+    {
+      "id": "22776",
+      "name": "Cross Platform"
+    },
     {
       "id": "1210",
       "name": "Shooter"
@@ -58,11 +67,14 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
+    {
+      "id": "1183",
+      "name": "Local Multiplayer"
+    }
   ],
   "items": [
     {
@@ -99,7 +111,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "target-073782",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "target-faq-b95a09",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "target-073782",
@@ -108,7 +131,24 @@
   ],
   "developerDisplayName": "Matt Stott",
   "publisherDisplayName": "Pyron Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-08-31T00:00:00.000Z",
   "pcReleaseDate": "2024-08-31T00:00:00.000Z",

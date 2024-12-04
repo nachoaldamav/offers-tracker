@@ -31,7 +31,10 @@
   "urlSlug": "03f4d9d71e9e403da5fe7109f19dc707",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1367",
+      "name": "RPG"
+    },
     {
       "id": "1336",
       "name": "Action-Adventure"
@@ -40,10 +43,18 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "1307",
+      "name": "Open World"
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    }
   ],
   "items": [
     {
@@ -80,11 +91,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "compass-of-the-destiny-istanbul-faq-2a5bb6",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "compass-of-the-destiny-istanbul-598642",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "compass-of-the-destiny-istanbul-598642",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "M11 Studio",
   "publisherDisplayName": "5Deniz",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-09-15T09:00:00.000Z",
   "pcReleaseDate": "2023-09-15T09:00:00.000Z",

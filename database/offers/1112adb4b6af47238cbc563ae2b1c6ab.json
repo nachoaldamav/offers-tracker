@@ -35,10 +35,22 @@
   "urlSlug": "lynxgeneralaudience",
   "url": null,
   "tags": [
-    null,
-    null,
-    null,
-    null,
+    {
+      "id": "21122",
+      "name": "Diverse Characters"
+    },
+    {
+      "id": "1188",
+      "name": "RELAXING"
+    },
+    {
+      "id": "21894",
+      "name": "Cloud Saves"
+    },
+    {
+      "id": "1127",
+      "name": "Investigation"
+    },
     {
       "id": "19847",
       "name": "Achievements"
@@ -47,24 +59,58 @@
       "id": "21127",
       "name": "Creative Community"
     },
-    null,
-    null,
-    null,
-    null,
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "21137",
+      "name": "Unique Visuals"
+    },
+    {
+      "id": "21138",
+      "name": "Recommend this Game"
+    },
+    {
+      "id": "21139",
+      "name": "Amazing Characters"
+    },
+    {
+      "id": "21140",
+      "name": "Amazing Storytelling"
+    },
     {
       "id": "21141",
       "name": "Extremely Fun"
     },
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1367",
+      "name": "RPG"
+    },
+    {
+      "id": "21146",
+      "name": "Educational"
+    },
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
+    {
+      "id": "21147",
+      "name": "Inclusive Character Customization"
+    },
+    {
+      "id": "1117",
+      "name": "Adventure"
+    },
+    {
+      "id": "21149",
+      "name": "Quickly Understand the Controls"
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS"
+    }
   ],
   "items": [
     {
@@ -116,11 +162,52 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "disco-elysium",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "disco-elysium--the-final-cut-ost",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "disco-elysium--soundtrack-and-artbook",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "disco-elysium--bundle",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "disco-elysium",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "ZA/UM",
   "publisherDisplayName": "ZA/UM",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-06-06T18:00:00.000Z",
   "pcReleaseDate": null,

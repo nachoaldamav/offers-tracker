@@ -43,7 +43,10 @@
   "urlSlug": "limageneralaudience",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1233",
+      "name": "Base-Building"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -52,7 +55,10 @@
       "id": "1386",
       "name": "Turn-Based"
     },
-    null
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
   ],
   "items": [
     {
@@ -84,11 +90,35 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "yakuza-empire",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-02T03:00:00.000Z",
   "pcReleaseDate": null,

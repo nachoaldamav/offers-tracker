@@ -31,15 +31,30 @@
   "urlSlug": "ccc3215ff3394ca3b2572892144d5db8",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1296",
+      "name": "Casual"
+    },
     {
       "id": "29088",
       "name": "Online Multiplayer"
     },
-    null,
-    null,
-    null,
-    null,
+    {
+      "id": "1381",
+      "name": "Exploration"
+    },
+    {
+      "id": "33639",
+      "name": "Promotional Content"
+    },
+    {
+      "id": "22776",
+      "name": "Cross Platform"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1307",
       "name": "Open World"
@@ -51,11 +66,7 @@
     {
       "id": "9549",
       "name": "Controller Support"
-    },
-    null,
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -96,11 +107,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "decentraland-b692fb",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "decentraland-faq-afd944",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "decentraland-b692fb",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Decentraland Foundation",
   "publisherDisplayName": "Decentraland Foundation",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-31T00:00:00.000Z",
   "pcReleaseDate": "2024-12-31T00:00:00.000Z",

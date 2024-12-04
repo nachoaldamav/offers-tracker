@@ -63,8 +63,14 @@
   "urlSlug": "0cbc92519e9d4fcfb19a4329c9a85cdf",
   "url": null,
   "tags": [
-    null,
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
+    {
+      "id": "1367",
+      "name": "RPG"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -73,13 +79,14 @@
       "id": "1083",
       "name": "Rogue-Lite"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "9549",
       "name": "Controller Support"
-    },
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -120,11 +127,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sin-slayers-reign-of-the-8th-96166c",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "sin-slayers-reign-of-the-8th-96166c",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Goonswarm Games",
   "publisherDisplayName": "Goonswarm Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-11-25T15:00:00.000Z",
   "pcReleaseDate": "2024-11-25T15:00:00.000Z",

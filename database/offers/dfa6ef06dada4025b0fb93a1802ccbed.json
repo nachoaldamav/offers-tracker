@@ -35,11 +35,26 @@
       "id": "1216",
       "name": "Action"
     },
-    null,
-    null,
-    null,
-    null,
-    null,
+    {
+      "id": "1218",
+      "name": "Horror"
+    },
+    {
+      "id": "35060",
+      "name": "EA Classic Games on Epic"
+    },
+    {
+      "id": "32709",
+      "name": "EA Play"
+    },
+    {
+      "id": "34567",
+      "name": "EA Play Included"
+    },
+    {
+      "id": "34568",
+      "name": "EA Play Discount"
+    },
     {
       "id": "1210",
       "name": "Shooter"
@@ -51,12 +66,7 @@
     {
       "id": "9547",
       "name": "Windows"
-    },
-    null,
-    null,
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -97,11 +107,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "dead-space-2008-f45921",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "dead-space-2008-f45921",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "EA Redwood Shores",
   "publisherDisplayName": "Electronic Arts",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-28T15:00:00.000Z",
   "pcReleaseDate": "2008-10-13T07:00:00.000Z",

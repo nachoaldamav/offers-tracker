@@ -31,9 +31,18 @@
   "urlSlug": "d6d1ae930fb247a79f30e25f14592665",
   "url": null,
   "tags": [
-    null,
-    null,
-    null,
+    {
+      "id": "1296",
+      "name": "Casual"
+    },
+    {
+      "id": "1393",
+      "name": "Simulation"
+    },
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -42,11 +51,14 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1116",
+      "name": "Comedy"
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS"
+    }
   ],
   "items": [
     {
@@ -87,11 +99,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "office-fight-6556f6",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "office-fight-office-fight-demo-374db5",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "office-fight-6556f6",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Fenix Studios PTY LTD",
   "publisherDisplayName": "Fenix Studios PTY LTD",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-08-21T13:00:00.000Z",
   "pcReleaseDate": "2024-08-21T13:00:00.000Z",

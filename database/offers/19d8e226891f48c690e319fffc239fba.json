@@ -31,8 +31,14 @@
   "urlSlug": "5c288fd97f724cf09804f7f607e7e84c",
   "url": null,
   "tags": [
-    null,
-    null,
+    {
+      "id": "1120",
+      "name": "RTS"
+    },
+    {
+      "id": "1264",
+      "name": "Co-op"
+    },
     {
       "id": "29088",
       "name": "Online Multiplayer"
@@ -41,8 +47,14 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
+    {
+      "id": "1115",
+      "name": "Strategy"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1310",
       "name": "EARLY ACCESS"
@@ -50,10 +62,7 @@
     {
       "id": "10719",
       "name": "Mac OS"
-    },
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -90,11 +99,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tercios-honor-and-glory-faq-e1e6f2",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "tercios-honor-and-glory-9d5088",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "tercios-honor-and-glory-9d5088",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Tree Games Studios",
   "publisherDisplayName": "Tree Games Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3499,
+      "originalPrice": 3499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-31T00:00:00.000Z",
   "pcReleaseDate": "2024-12-31T00:00:00.000Z",

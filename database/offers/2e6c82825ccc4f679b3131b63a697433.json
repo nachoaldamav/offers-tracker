@@ -31,17 +31,26 @@
   "urlSlug": "bb664a86f2f64005bc16959348465cf3",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
     {
       "id": "29088",
       "name": "Online Multiplayer"
     },
-    null,
+    {
+      "id": "33639",
+      "name": "Promotional Content"
+    },
     {
       "id": "1210",
       "name": "Shooter"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "21739",
       "name": "NFT BLOCKCHAIN"
@@ -53,10 +62,7 @@
     {
       "id": "1310",
       "name": "EARLY ACCESS"
-    },
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -97,11 +103,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ponchiqs-e93244",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "ponchiqs-faq-674d67",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "ponchiqs-e93244",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Ponchiqs",
   "publisherDisplayName": "Ponchiqs",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2024-09-30T00:00:00.000Z",

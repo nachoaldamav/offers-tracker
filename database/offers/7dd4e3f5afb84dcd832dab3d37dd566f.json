@@ -31,18 +31,22 @@
   "urlSlug": "a861e8f1495247f9bc559a7b00cb497c",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
     {
       "id": "29088",
       "name": "Online Multiplayer"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "21739",
       "name": "NFT BLOCKCHAIN"
-    },
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -83,7 +87,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "hunters-arena-revolution_test-f21397",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "hunters-arena-revolution_test-faq-6b40b4",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "hunters-arena-revolution_test-f21397",
@@ -92,7 +107,24 @@
   ],
   "developerDisplayName": "Megalink",
   "publisherDisplayName": "Megalink",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",

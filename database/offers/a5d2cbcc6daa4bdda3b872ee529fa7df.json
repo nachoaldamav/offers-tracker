@@ -35,20 +35,26 @@
       "id": "29088",
       "name": "Online Multiplayer"
     },
-    null,
-    null,
+    {
+      "id": "1381",
+      "name": "Exploration"
+    },
+    {
+      "id": "22775",
+      "name": "MMO"
+    },
     {
       "id": "21739",
       "name": "NFT BLOCKCHAIN"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1310",
       "name": "EARLY ACCESS"
-    },
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -85,11 +91,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "aevitas-24f3e7",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "aevitas-faq-a1f9c4",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "aevitas-24f3e7",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Alchemist Pictures",
   "publisherDisplayName": "Drifters",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",

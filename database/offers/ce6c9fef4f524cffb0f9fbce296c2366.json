@@ -31,12 +31,18 @@
   "urlSlug": "f4679633b32a4f33a05e51e83fa2b863",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1386",
+      "name": "Turn-Based"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "1115",
+      "name": "Strategy"
+    },
     {
       "id": "9547",
       "name": "Windows"
@@ -44,9 +50,7 @@
     {
       "id": "1117",
       "name": "Adventure"
-    },
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -87,11 +91,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "a-games-tale-0122d4",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "a-games-tale-0122d4",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "VisQo",
   "publisherDisplayName": "VisQo",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1299,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-06-07T00:00:00.000Z",
   "pcReleaseDate": "2024-06-07T15:00:00.000Z",

@@ -31,13 +31,22 @@
   "urlSlug": "a9a4b3a4c2e547c3adfda5db3eeacda3",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1296",
+      "name": "Casual"
+    },
     {
       "id": "21894",
       "name": "Cloud Saves"
     },
-    null,
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
+    {
+      "id": "1336",
+      "name": "Action-Adventure"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -46,15 +55,14 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS"
+    },
     {
       "id": "1263",
       "name": "Indie"
-    },
-    null,
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -95,11 +103,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "inquisitors-heart-and-soul-803cc3",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "inquisitors-heart-and-soul-faq-681c62",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "inquisitors-heart-and-soul-803cc3",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Whale Rock Games",
   "publisherDisplayName": "Whale Rock Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 89,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 910,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "df04a5d8a83d4b9f832988c70647315a"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-08-08T09:00:00.000Z",
   "pcReleaseDate": "2021-10-22T09:00:00.000Z",

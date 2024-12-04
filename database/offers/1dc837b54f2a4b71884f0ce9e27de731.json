@@ -31,7 +31,10 @@
   "urlSlug": "f5548c41ff574340b39a8b497fd7e058",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1393",
+      "name": "Simulation"
+    },
     {
       "id": "1203",
       "name": "Multiplayer"
@@ -40,20 +43,30 @@
       "id": "1299",
       "name": "Competitive"
     },
-    null,
-    null,
+    {
+      "id": "1367",
+      "name": "RPG"
+    },
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
+    {
+      "id": "1115",
+      "name": "Strategy"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "10719",
       "name": "Mac OS"
-    },
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -90,11 +103,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "life-changer-64fc81",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "life-changer-64fc81",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "DCTK",
   "publisherDisplayName": "DCTK",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 997,
+      "originalPrice": 1279,
+      "voucherDiscount": 0,
+      "discount": 282,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "13e6918551d042f2ae4bba2b8c066175"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-22T01:30:00.000Z",
   "pcReleaseDate": "2023-04-20T02:30:00.000Z",

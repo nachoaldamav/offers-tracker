@@ -31,12 +31,18 @@
   "urlSlug": "36de56bfbd434f1f83c33ef0d6dd2af9",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1264",
+      "name": "Co-op"
+    },
     {
       "id": "1218",
       "name": "Horror"
     },
-    null
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
   ],
   "items": [
     {
@@ -65,11 +71,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "devour-d62a36",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "devour-d62a36",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Straight Back Games",
   "publisherDisplayName": "Straight Back Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 699,
+      "originalPrice": 699,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-09-30T00:00:00.000Z",
   "pcReleaseDate": "2021-01-29T00:00:00.000Z",

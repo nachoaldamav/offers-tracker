@@ -31,24 +31,34 @@
   "urlSlug": "12c24d70841b480e9cddd50458db97ac",
   "url": null,
   "tags": [
-    null,
-    null,
-    null,
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
+    {
+      "id": "1367",
+      "name": "RPG"
+    },
+    {
+      "id": "1287",
+      "name": "Fantasy"
+    },
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1310",
       "name": "EARLY ACCESS"
-    },
-    null,
-    null,
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -85,11 +95,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "fractals-of-destiny-afbda4",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "fractals-of-destiny-faq-95f90e",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "fractals-of-destiny-afbda4",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "KRAKATOA STUDIOS",
   "publisherDisplayName": "KRAKATOA STUDIOS",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2299,
+      "originalPrice": 2299,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2023-07-28T01:00:00.000Z",

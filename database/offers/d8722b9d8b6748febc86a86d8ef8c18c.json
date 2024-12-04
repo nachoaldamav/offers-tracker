@@ -31,18 +31,26 @@
   "urlSlug": "47e0fee1e28e4c3896122a8c5dcd12a8",
   "url": null,
   "tags": [
-    null,
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
+    {
+      "id": "1210",
+      "name": "Shooter"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1116",
       "name": "Comedy"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -79,11 +87,40 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "vcb-why-city-4k-68d7f2",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "vcb-why-city-4k-68d7f2",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "KishMish Games",
   "publisherDisplayName": "KishMish Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-09-22T13:00:00.000Z",
   "pcReleaseDate": "2019-04-20T07:00:00.000Z",

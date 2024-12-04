@@ -31,16 +31,26 @@
   "urlSlug": "128a6367c36347bb8aca868e403ebb36",
   "url": null,
   "tags": [
-    null,
-    null,
+    {
+      "id": "1298",
+      "name": "Puzzle"
+    },
+    {
+      "id": "1381",
+      "name": "Exploration"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "1117",
+      "name": "Adventure"
+    }
   ],
   "items": [
     {
@@ -77,11 +87,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "thomas-tales-912c23",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "thomas-tales-912c23",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "TOODOO STUDIO LLC",
   "publisherDisplayName": "TOODOO STUDIO LLC",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-26T15:00:00.000Z",
   "pcReleaseDate": "2022-06-16T04:00:00.000Z",

@@ -35,7 +35,10 @@
   "urlSlug": "ultros-general-audience-02",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "9547",
       "name": "Windows"
@@ -44,16 +47,22 @@
       "id": "1117",
       "name": "Adventure"
     },
-    null,
-    null,
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
+    {
+      "id": "1151",
+      "name": "Platformer"
+    },
     {
       "id": "1263",
       "name": "Indie"
     },
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "10719",
+      "name": "Mac OS"
+    }
   ],
   "items": [
     {
@@ -101,11 +110,48 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ultros",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "ultros--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ultros--artbook-and-soundtrack",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "ultros",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Hadoque",
   "publisherDisplayName": "Kepler Interactive",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-02-13T08:00:00.000Z",
   "pcReleaseDate": "2024-02-13T08:00:00.000Z",

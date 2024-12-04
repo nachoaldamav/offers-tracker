@@ -59,12 +59,18 @@
   "urlSlug": "d61784856e8846e486f7ce1d900f60f2",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "29088",
+      "name": "Online Multiplayer"
+    },
     {
       "id": "33639",
       "name": "Promotional Content"
     },
-    null,
+    {
+      "id": "1336",
+      "name": "Action-Adventure"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -72,9 +78,7 @@
     {
       "id": "9547",
       "name": "Windows"
-    },
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -115,11 +119,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "buff-58cf41",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "buff-58cf41",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Buff Technologies Ltd",
   "publisherDisplayName": "Buff Technologies Ltd",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-06-04T06:47:42.032Z",
   "pcReleaseDate": "2024-05-18T21:00:00.000Z",

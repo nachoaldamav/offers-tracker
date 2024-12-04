@@ -31,18 +31,30 @@
   "urlSlug": "b60b26fed96b4d45a279afe07c98e328",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1296",
+      "name": "Casual"
+    },
     {
       "id": "31313",
       "name": "First Run"
     },
-    null,
-    null,
+    {
+      "id": "33639",
+      "name": "Promotional Content"
+    },
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "9549",
       "name": "Controller Support"
@@ -58,10 +70,7 @@
     {
       "id": "1263",
       "name": "Indie"
-    },
-    null,
-    null,
-    null
+    }
   ],
   "items": [
     {
@@ -102,11 +111,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "balls-up-811fd0",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "balls-up-faq-56a399",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "balls-up-811fd0",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "ScarWalkerGames",
   "publisherDisplayName": "ScarWalkerGames",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",

@@ -59,7 +59,10 @@
       "id": "21141",
       "name": "Extremely Fun"
     },
-    null,
+    {
+      "id": "1110",
+      "name": "Party"
+    },
     {
       "id": "21894",
       "name": "Cloud Saves"
@@ -75,8 +78,7 @@
     {
       "id": "21119",
       "name": "Great for Beginners"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -116,11 +118,51 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "moving-out--the-employees-of-the-month-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "moving-out--movers-in-paradise",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "moving-out--ost",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "moving-out",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "moving-out--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-12-28T16:00:00.000Z",
   "pcReleaseDate": "2020-04-28T16:00:00.000Z",

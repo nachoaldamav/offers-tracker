@@ -43,7 +43,10 @@
   "urlSlug": "transport-fever-2",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1188",
+      "name": "RELAXING"
+    },
     {
       "id": "19847",
       "name": "Achievements"
@@ -52,25 +55,50 @@
       "id": "21127",
       "name": "Creative Community"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1393",
       "name": "Simulation"
     },
-    null,
-    null,
-    null,
+    {
+      "id": "21138",
+      "name": "Recommend this Game"
+    },
+    {
+      "id": "21139",
+      "name": "Amazing Characters"
+    },
+    {
+      "id": "21140",
+      "name": "Amazing Storytelling"
+    },
     {
       "id": "21141",
       "name": "Extremely Fun"
     },
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
+    {
+      "id": "21146",
+      "name": "Educational"
+    },
+    {
+      "id": "21149",
+      "name": "Quickly Understand the Controls"
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS"
+    },
+    {
+      "id": "21119",
+      "name": "Great for Beginners"
+    }
   ],
   "items": [
     {
@@ -110,11 +138,51 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "transport-fever-2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "transport-fever-2--early-supporter-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "transport-fever-2--deluxe-upgrade-es",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "transport-fever-2--deluxe-upgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "transport-fever-2--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Urban Games",
   "publisherDisplayName": "Good Shepherd Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-08-18T14:00:00.000Z",
   "pcReleaseDate": "2021-08-18T14:00:00.000Z",
