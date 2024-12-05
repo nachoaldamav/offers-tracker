@@ -186,10 +186,10 @@
   "publisherDisplayName": "Astragon Entertainment GmbH",
   "price": {
     "totalPrice": {
-      "discountPrice": 3499,
+      "discountPrice": 0,
       "originalPrice": 3499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 3499,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -198,7 +198,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "723032001a41439d8167b6254082da4c"
+          }
+        ]
       }
     ]
   },
