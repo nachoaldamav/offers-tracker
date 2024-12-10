@@ -145,10 +145,10 @@
   "publisherDisplayName": "SODA GAME STUDIO",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 399,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 100,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -157,7 +157,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "762a68cc05a44f80aea92ced277cfa1d"
+          }
+        ]
       }
     ]
   },
