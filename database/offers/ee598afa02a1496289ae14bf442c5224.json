@@ -71,7 +71,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "paradigm-875c5c",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "paradigm-875c5c",
@@ -80,7 +87,24 @@
   ],
   "developerDisplayName": "Jacob Janerka",
   "publisherDisplayName": "Jacob Janerka",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-04-28T15:00:00.000Z",
   "pcReleaseDate": "2017-04-05T00:00:00.000Z",

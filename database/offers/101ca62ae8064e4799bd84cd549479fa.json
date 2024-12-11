@@ -135,7 +135,26 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "iratus-d0e5ba",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "iratus-iratus-lord-of-the-dead-supporter-pack-d40cdd",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "iratus-iratus-wrath-of-the-necromancer-e3424b",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "iratus-iratus-dlcs-limited-time-bundle-cae2f7",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "iratus-d0e5ba",
@@ -144,7 +163,24 @@
   ],
   "developerDisplayName": "Unfrozen",
   "publisherDisplayName": "Daedalic Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-05-19T15:00:00.000Z",
   "pcReleaseDate": "2020-04-23T00:00:00.000Z",
