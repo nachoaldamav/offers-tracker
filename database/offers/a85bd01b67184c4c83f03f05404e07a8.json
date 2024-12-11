@@ -102,8 +102,23 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "battlefield-2042--ultimate-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "battlefield-2042--elite-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "battlefield-2042",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "DICE",
   "publisherDisplayName": "Electronic Arts",
   "price": null,
