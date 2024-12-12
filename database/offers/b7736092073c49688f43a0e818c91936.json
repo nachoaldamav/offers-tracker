@@ -135,7 +135,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tomb-raider-iiii-remastered-538640",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "tomb-raider-iiii-remastered-prepurchase-testing-34b1d8",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "tomb-raider-iiii-remastered-538640",
@@ -144,7 +155,28 @@
   ],
   "developerDisplayName": "Aspyr",
   "publisherDisplayName": "Aspyr",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 1500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "015740a2e3c74c6083b9eb635294f1f7"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-02-14T18:00:00.000Z",
   "pcReleaseDate": "2024-02-14T18:00:00.000Z",
