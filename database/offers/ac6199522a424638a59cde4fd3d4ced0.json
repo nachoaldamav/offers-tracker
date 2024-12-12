@@ -91,7 +91,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "pluto-lost-its-colors-pluto-lost-its-colors-demo-42070b",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "pluto-lost-its-colors-4fb4c4",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "pluto-lost-its-colors-4fb4c4",
@@ -100,7 +111,24 @@
   ],
   "developerDisplayName": "NINES Oceania",
   "publisherDisplayName": "NINES",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1299,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-03-31T00:00:00.000Z",
   "pcReleaseDate": "2025-03-31T00:00:00.000Z",
