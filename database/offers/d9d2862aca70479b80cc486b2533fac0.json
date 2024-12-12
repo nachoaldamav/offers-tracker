@@ -99,7 +99,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tales-of-the-tiny-planet-ab9e11",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "tales-of-the-tiny-planet-ab9e11",
@@ -108,7 +115,28 @@
   ],
   "developerDisplayName": "Pixelsplit",
   "publisherDisplayName": "Pixelsplit",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 99,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 900,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "2d88c186c4254f8facf6735f2dae74c7"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-18T10:00:00.000Z",
   "pcReleaseDate": "2017-08-02T22:00:00.000Z",
