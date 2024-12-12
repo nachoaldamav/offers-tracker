@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-06-16T13:00:00.000Z",
   "creationDate": "2023-06-01T09:37:52.585Z",
-  "lastModifiedDate": "2024-04-20T18:53:34.155Z",
+  "lastModifiedDate": "2024-12-12T11:20:23.356Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "1370",
       "name": "Single Player"
+    },
+    {
+      "id": "24570",
+      "name": "Holiday Sale"
     },
     {
       "id": "9547",
@@ -115,7 +119,24 @@
   ],
   "developerDisplayName": "Airem",
   "publisherDisplayName": "Airem",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-16T13:00:00.000Z",
   "pcReleaseDate": "2020-07-20T10:00:00.000Z",

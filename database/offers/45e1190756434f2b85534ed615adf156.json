@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-05-02T00:00:00.000Z",
   "creationDate": "2022-12-16T17:39:32.438Z",
-  "lastModifiedDate": "2024-10-22T02:43:21.685Z",
+  "lastModifiedDate": "2024-12-12T11:20:23.377Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -60,6 +60,10 @@
       "name": "Single Player"
     },
     {
+      "id": "24570",
+      "name": "Holiday Sale"
+    },
+    {
       "id": "9547",
       "name": "Windows"
     }
@@ -90,11 +94,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "redfall",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "redfall--original-game-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Arkane Studios",
   "publisherDisplayName": "Bethesda Softworks",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-05-02T00:00:00.000Z",
   "pcReleaseDate": "2023-05-02T00:00:00.000Z",

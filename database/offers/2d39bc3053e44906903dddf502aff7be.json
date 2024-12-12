@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-09-26T17:00:00.000Z",
   "creationDate": "2023-01-09T13:00:55.016Z",
-  "lastModifiedDate": "2024-11-29T11:02:07.128Z",
+  "lastModifiedDate": "2024-12-12T11:20:23.231Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "1386",
       "name": "Turn-Based"
+    },
+    {
+      "id": "24570",
+      "name": "Holiday Sale"
     },
     {
       "id": "1115",
@@ -103,7 +107,18 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "breachway-faq-b6a308",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "breachway-aa1bbf",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "breachway-aa1bbf",
