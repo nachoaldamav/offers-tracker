@@ -87,7 +87,22 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "evil-nun-the-broken-mask-faq-d33dd7",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "evil-nun-the-broken-mask-372461",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "evil-nun-the-broken-mask-evil-nun-the-broken-mask-original-soundtrack-df1e42",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "evil-nun-the-broken-mask-372461",
@@ -96,7 +111,24 @@
   ],
   "developerDisplayName": "Keplerians and Carlos Coronado",
   "publisherDisplayName": "Keplerians",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-10-31T15:00:00.000Z",
   "pcReleaseDate": "2022-10-31T15:00:00.000Z",

@@ -83,7 +83,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "murder-is-game-over-255da8",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "murder-is-game-over-murder-is-game-over-soundtrack-26d2ba",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "murder-is-game-over-255da8",
@@ -92,7 +103,24 @@
   ],
   "developerDisplayName": "Hitheryon Games",
   "publisherDisplayName": "HitherYon Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-10-25T04:00:00.000Z",
   "pcReleaseDate": "2022-10-25T04:00:00.000Z",

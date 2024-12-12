@@ -71,7 +71,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tour-de-france-2022-8bb5fb",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "tour-de-france-2022-8bb5fb",
@@ -80,7 +87,24 @@
   ],
   "developerDisplayName": "Cyanide",
   "publisherDisplayName": "Nacon",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-09-15T06:00:00.000Z",
   "pcReleaseDate": "2022-06-09T00:00:00.000Z",

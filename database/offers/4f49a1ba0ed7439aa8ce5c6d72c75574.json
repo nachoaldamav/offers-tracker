@@ -87,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "paramnesia-a49100",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "paramnesia-a49100",
@@ -96,7 +103,28 @@
   ],
   "developerDisplayName": "Denis Lutsenko",
   "publisherDisplayName": "Meridian4",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 98,
+      "originalPrice": 299,
+      "voucherDiscount": 0,
+      "discount": 201,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "17f0d3f6c8d64803a83ffa4f9844e514"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-11-09T05:00:00.000Z",
   "pcReleaseDate": "2022-09-23T16:00:00.000Z",

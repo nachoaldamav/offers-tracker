@@ -90,7 +90,30 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tchia",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "tchia--oleti-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "tchia--kepler-customization-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "tchia--original-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "tchia--the-beach-sides",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Awaceb",
   "publisherDisplayName": "Kepler Interactive",

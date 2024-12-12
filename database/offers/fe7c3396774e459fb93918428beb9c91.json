@@ -98,7 +98,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "blacktail",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "blacktail--blacktail-game-ost-bundle",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "blacktail--original-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "THE PARASIGHT",
   "publisherDisplayName": "Focus Entertainment",
