@@ -157,7 +157,28 @@
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "d9a01715085d49d4857ea1191e33fc0a"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2013-01-15T10:00:00.000Z",
   "pcReleaseDate": null,
