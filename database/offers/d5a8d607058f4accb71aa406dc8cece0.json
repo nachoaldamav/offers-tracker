@@ -191,10 +191,10 @@
   "publisherDisplayName": null,
   "price": {
     "totalPrice": {
-      "discountPrice": 4499,
+      "discountPrice": 899,
       "originalPrice": 4499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 3600,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -203,7 +203,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "e93f21ffc6be408d8625280a69e8abdd"
+          }
+        ]
       }
     ]
   },

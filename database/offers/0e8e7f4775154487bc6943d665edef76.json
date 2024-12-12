@@ -113,10 +113,10 @@
   "publisherDisplayName": "LoadUpGames.com",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 399,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 100,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "98c1e3d7da6642afa2392548e3c97041"
+          }
+        ]
       }
     ]
   },

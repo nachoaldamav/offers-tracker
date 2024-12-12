@@ -113,10 +113,10 @@
   "publisherDisplayName": "LKnarrative",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 499,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "e256630fb58046b28f65e7683577cf4d"
+          }
+        ]
       }
     ]
   },

@@ -121,10 +121,10 @@
   "publisherDisplayName": "Tzavis Studio",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 249,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 250,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "83e087386a164bf088760bd455e62e5e"
+          }
+        ]
       }
     ]
   },

@@ -142,31 +142,16 @@
       "path": "applications"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "immortals-of-aveum--deluxe-edition",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "immortals-of-aveum",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "immortals-of-aveum--deluxe-edition-upgrade",
-        "pageType": "addon--cms-hybrid"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [],
   "developerDisplayName": "Ascendant Studios",
   "publisherDisplayName": "Electronic Arts",
   "price": {
     "totalPrice": {
-      "discountPrice": 5999,
+      "discountPrice": 1199,
       "originalPrice": 5999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 4800,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -175,7 +160,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "88b67dc5366d4a4fa72bada8bfcf131c"
+          }
+        ]
       }
     ]
   },

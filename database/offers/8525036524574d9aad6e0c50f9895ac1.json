@@ -95,22 +95,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "kaichu-the-kaiju-dating-sim-531fb7",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "kaichu-the-kaiju-dating-sim-official-soundtrack-9ba3b2",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "kaichu-the-kaiju-dating-sim-official-artbook-a34d84",
-        "pageType": "offer"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "kaichu-the-kaiju-dating-sim-531fb7",
@@ -121,10 +106,10 @@
   "publisherDisplayName": "Top Hat Studios, Inc.",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 399,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 600,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +118,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "0fe7e80b69f94f8ab8c7f313b29cb7e9"
+          }
+        ]
       }
     ]
   },

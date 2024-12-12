@@ -90,27 +90,16 @@
       "path": "applications"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "trine-5",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "trine-5--ost",
-        "pageType": "addon--cms-hybrid"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [],
   "developerDisplayName": "Frozenbyte",
   "publisherDisplayName": "THQ Nordic GmbH",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 1499,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -119,7 +108,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "2aaf54fc8af744feb32d35c000bce64b"
+          }
+        ]
       }
     ]
   },

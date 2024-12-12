@@ -102,23 +102,16 @@
       "path": "applications"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "superpower-3",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 989,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2010,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -127,7 +120,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "5cae05bee3cd4c8d90fac179919efa9b"
+          }
+        ]
       }
     ]
   },

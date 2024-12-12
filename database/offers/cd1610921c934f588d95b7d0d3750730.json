@@ -188,10 +188,10 @@
   "publisherDisplayName": "Milestone S.r.l.",
   "price": {
     "totalPrice": {
-      "discountPrice": 4999,
+      "discountPrice": 2999,
       "originalPrice": 4999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -200,7 +200,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "24c6487650ed4583be2acba53bc5751a"
+          }
+        ]
       }
     ]
   },

@@ -107,14 +107,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "quantum-recharged-6553fd",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "quantum-recharged-6553fd",
@@ -125,10 +118,10 @@
   "publisherDisplayName": "Atari",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 499,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -137,7 +130,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "8fa55f4a42cc41fd8189fa8559d1efb7"
+          }
+        ]
       }
     ]
   },

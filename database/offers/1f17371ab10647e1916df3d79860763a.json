@@ -91,14 +91,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "sprawl-db4324",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "sprawl-db4324",
@@ -109,10 +102,10 @@
   "publisherDisplayName": "Rogue Games, Inc.",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 374,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1125,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +114,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "b897e107aeb04d3682be5a23739cfe14"
+          }
+        ]
       }
     ]
   },

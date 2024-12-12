@@ -91,18 +91,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "beacon-pines-629fc3",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "beacon-pines-faq-5bc0cc",
-        "pageType": "info"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "beacon-pines-629fc3",
@@ -113,10 +102,10 @@
   "publisherDisplayName": "Fellow Traveller",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 799,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +114,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "f924018f4a3b4225ac254146e289778c"
+          }
+        ]
       }
     ]
   },

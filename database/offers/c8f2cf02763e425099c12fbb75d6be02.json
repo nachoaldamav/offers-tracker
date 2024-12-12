@@ -95,18 +95,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "aquarist-eb083d",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "aquarist-faq-c42644",
-        "pageType": "info"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "aquarist-eb083d",
@@ -117,10 +106,10 @@
   "publisherDisplayName": "FreeMind",
   "price": {
     "totalPrice": {
-      "discountPrice": 1199,
+      "discountPrice": 659,
       "originalPrice": 1199,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 540,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +118,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "6c5cdef67a1747a0a20c4131d95f7494"
+          }
+        ]
       }
     ]
   },

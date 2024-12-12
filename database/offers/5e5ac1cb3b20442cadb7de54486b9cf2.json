@@ -183,10 +183,10 @@
   "publisherDisplayName": "PlayStation Publishing LLC",
   "price": {
     "totalPrice": {
-      "discountPrice": 4999,
+      "discountPrice": 1999,
       "originalPrice": 4999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 3000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -195,7 +195,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "57ad34f3bd97481ca640adca1bcdd275"
+          }
+        ]
       }
     ]
   },

@@ -87,18 +87,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "a-heros-rest-67f117",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "a-heros-rest-faq-4b6f5b",
-        "pageType": "info"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "a-heros-rest-67f117",
@@ -109,10 +98,10 @@
   "publisherDisplayName": "Vanargand Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 1749,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 750,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +110,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "8a47d2fb9ccd4fc6a90355d30f58209f"
+          }
+        ]
       }
     ]
   },

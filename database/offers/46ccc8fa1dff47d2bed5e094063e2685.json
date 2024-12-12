@@ -99,14 +99,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "puzzle-agent-b7556e",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "puzzle-agent-b7556e",
@@ -117,10 +110,10 @@
   "publisherDisplayName": "Telltale",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 249,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 250,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +122,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "d0dcc74b89064778b5f627f271b9b758"
+          }
+        ]
       }
     ]
   },

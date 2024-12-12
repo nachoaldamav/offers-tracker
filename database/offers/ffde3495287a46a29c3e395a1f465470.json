@@ -91,18 +91,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "its-a-wrap-its-a-wrap-demo-edbb4d",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "its-a-wrap-f392ae",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "its-a-wrap-f392ae",
@@ -113,10 +102,10 @@
   "publisherDisplayName": "AMC Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1799,
+      "discountPrice": 719,
       "originalPrice": 1799,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1080,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +114,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "5be1e3d5e96742b6bb0a64326c6b1da8"
+          }
+        ]
       }
     ]
   },

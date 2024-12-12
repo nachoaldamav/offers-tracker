@@ -87,14 +87,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "little-brother-jim-272dc6",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "little-brother-jim-272dc6",
@@ -105,10 +98,10 @@
   "publisherDisplayName": "Tonguc Bodur",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 249,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 250,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -117,7 +110,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "12b520c42f6b438bbccbf4e02f62eb41"
+          }
+        ]
       }
     ]
   },

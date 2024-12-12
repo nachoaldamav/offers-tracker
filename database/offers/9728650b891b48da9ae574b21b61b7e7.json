@@ -99,14 +99,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "monster-outbreak-2e8c08",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "monster-outbreak-2e8c08",
@@ -117,10 +110,10 @@
   "publisherDisplayName": "Freedom Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 494,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1005,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +122,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "64d2281029b142f18e0a1a4ea85623d9"
+          }
+        ]
       }
     ]
   },

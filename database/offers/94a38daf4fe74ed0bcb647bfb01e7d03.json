@@ -103,14 +103,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "the-making-of-karateka-7d9a6c",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "the-making-of-karateka-7d9a6c",
@@ -121,10 +114,10 @@
   "publisherDisplayName": "Digital Eclipse",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1499,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +126,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "89561322175746d287857c97bc8bce28"
+          }
+        ]
       }
     ]
   },

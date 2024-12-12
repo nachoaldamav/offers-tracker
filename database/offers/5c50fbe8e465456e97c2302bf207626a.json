@@ -125,10 +125,10 @@
   "publisherDisplayName": "ImaginationOverflow",
   "price": {
     "totalPrice": {
-      "discountPrice": 399,
+      "discountPrice": 299,
       "originalPrice": 399,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 100,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -137,7 +137,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "765d490cba7d4286a7840fca198ea129"
+          }
+        ]
       }
     ]
   },

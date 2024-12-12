@@ -133,10 +133,10 @@
   "publisherDisplayName": "Twin Sails",
   "price": {
     "totalPrice": {
-      "discountPrice": 2799,
+      "discountPrice": 1399,
       "originalPrice": 2799,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -145,7 +145,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "f32c28bf586f48d88c96b22e935cd73f"
+          }
+        ]
       }
     ]
   },

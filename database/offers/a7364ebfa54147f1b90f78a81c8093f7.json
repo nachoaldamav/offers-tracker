@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-10-27T04:00:00.000Z",
   "creationDate": "2023-05-18T20:03:10.889Z",
-  "lastModifiedDate": "2024-12-12T11:20:23.325Z",
+  "lastModifiedDate": "2024-12-12T16:00:15.700Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -96,10 +96,6 @@
       "name": "Single Player"
     },
     {
-      "id": "24570",
-      "name": "Holiday Sale"
-    },
-    {
       "id": "21149",
       "name": "Quickly Understand the Controls"
     }
@@ -108,6 +104,10 @@
     {
       "id": "d59bd88b62394cdfa8e6911ec385f3dc",
       "namespace": "c4763f236d08423eb47b4c3008779c84"
+    },
+    {
+      "id": "c79f279929734feb84e2f801888626e3",
+      "namespace": "2e92a78949e2474aa89271b8b893f3b0"
     }
   ],
   "customAttributes": [
@@ -133,12 +133,12 @@
   "catalogNs": {
     "mappings": [
       {
-        "pageSlug": "alan-wake-2",
-        "pageType": "productHome"
-      },
-      {
         "pageSlug": "alan-wake-2--deluxe-edition",
         "pageType": "offer"
+      },
+      {
+        "pageSlug": "alan-wake-2",
+        "pageType": "productHome"
       },
       {
         "pageSlug": "alan-wake-2--faq",
@@ -155,10 +155,10 @@
   "publisherDisplayName": "Epic Games Publishing",
   "price": {
     "totalPrice": {
-      "discountPrice": 4999,
+      "discountPrice": 2499,
       "originalPrice": 4999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -167,7 +167,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "254c59556eb44596b0f8f48c0e66b718"
+          }
+        ]
       }
     ]
   },

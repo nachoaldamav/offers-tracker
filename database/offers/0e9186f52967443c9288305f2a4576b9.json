@@ -113,10 +113,10 @@
   "publisherDisplayName": "JMG",
   "price": {
     "totalPrice": {
-      "discountPrice": 599,
+      "discountPrice": 299,
       "originalPrice": 599,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 300,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "2161ce7af48b4734a2f881316af9ea01"
+          }
+        ]
       }
     ]
   },

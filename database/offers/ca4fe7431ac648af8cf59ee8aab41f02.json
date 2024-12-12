@@ -125,10 +125,10 @@
   "publisherDisplayName": "Lilou Studio",
   "price": {
     "totalPrice": {
-      "discountPrice": 799,
+      "discountPrice": 399,
       "originalPrice": 799,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -137,7 +137,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "1e61c242e59c479a944fb63fc3654ed0"
+          }
+        ]
       }
     ]
   },

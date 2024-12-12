@@ -95,18 +95,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "frigato-shadows-of-the-caribbean-7bf7bf",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "frigato-shadows-of-the-caribbean-faq-f90856",
-        "pageType": "info"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "frigato-shadows-of-the-caribbean-7bf7bf",
@@ -117,10 +106,10 @@
   "publisherDisplayName": "FreeMind",
   "price": {
     "totalPrice": {
-      "discountPrice": 1199,
+      "discountPrice": 299,
       "originalPrice": 1199,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 900,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +118,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "ba74178b18b4493db4b8c2573e4b947b"
+          }
+        ]
       }
     ]
   },

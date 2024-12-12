@@ -121,10 +121,10 @@
   "publisherDisplayName": "ESDigital Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 399,
+      "discountPrice": 299,
       "originalPrice": 399,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 100,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "bb606e5d1a9f48d09934cc302f3e4dac"
+          }
+        ]
       }
     ]
   },

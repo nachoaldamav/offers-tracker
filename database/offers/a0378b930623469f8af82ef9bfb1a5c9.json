@@ -117,10 +117,10 @@
   "publisherDisplayName": "Sendo Estudio",
   "price": {
     "totalPrice": {
-      "discountPrice": 599,
+      "discountPrice": 299,
       "originalPrice": 599,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 300,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "086e6025de6e4d5cbded75348ae4a42d"
+          }
+        ]
       }
     ]
   },

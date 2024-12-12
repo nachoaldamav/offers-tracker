@@ -103,18 +103,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "oddsparks-faq-0d6527",
-        "pageType": "info"
-      },
-      {
-        "pageSlug": "oddsparks-58440c",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "oddsparks-58440c",
@@ -125,10 +114,10 @@
   "publisherDisplayName": "HandyGames",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 2249,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 750,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -137,7 +126,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "96e528a9d8d0457ba7661f3935dcbd10"
+          }
+        ]
       }
     ]
   },
