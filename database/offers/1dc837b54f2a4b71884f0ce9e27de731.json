@@ -103,11 +103,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "life-changer-64fc81",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "life-changer-64fc81",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "DCTK",
   "publisherDisplayName": "DCTK",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 997,
+      "originalPrice": 1279,
+      "voucherDiscount": 0,
+      "discount": 282,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "13e6918551d042f2ae4bba2b8c066175"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-22T01:30:00.000Z",
   "pcReleaseDate": "2023-04-20T02:30:00.000Z",
