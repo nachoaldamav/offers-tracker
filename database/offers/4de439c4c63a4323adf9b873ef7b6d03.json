@@ -82,7 +82,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "martha-is-dead--official-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "martha-is-dead--digital-deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "martha-is-dead",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "LKA",
   "publisherDisplayName": "Wired Productions",
