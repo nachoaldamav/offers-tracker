@@ -95,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "indoorlands-3b2356",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "indoorlands-3b2356",
@@ -104,7 +111,24 @@
   ],
   "developerDisplayName": "Pixelsplit",
   "publisherDisplayName": "Pixelsplit",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1899,
+      "originalPrice": 1899,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-17T23:00:00.000Z",
   "pcReleaseDate": "2022-10-13T23:00:00.000Z",
