@@ -91,7 +91,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "game-of-thrallan-f2d9cb",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "game-of-thrallan-game-of-thrall_dev-donation-dlc-a090c4",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "game-of-thrallan-f2d9cb",
@@ -100,7 +111,24 @@
   ],
   "developerDisplayName": "CGArt Games",
   "publisherDisplayName": "CGArt Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-10-30T12:30:00.000Z",
   "pcReleaseDate": "2024-10-30T12:30:00.000Z",
