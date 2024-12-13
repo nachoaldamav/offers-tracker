@@ -181,10 +181,10 @@
   "publisherDisplayName": "Super Evil Megacorp",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 1949,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1050,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -193,7 +193,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "f1bf1688bc894649a4be59c1866ff69f"
+          }
+        ]
       }
     ]
   },
