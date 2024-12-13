@@ -135,7 +135,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "mesozoic-attack-28f6ab",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "mesozoic-attack-28f6ab",
@@ -144,7 +151,24 @@
   ],
   "developerDisplayName": "Diky Van Ball",
   "publisherDisplayName": "Diky Van Ball",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 799,
+      "originalPrice": 799,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-11T01:00:00.000Z",
   "pcReleaseDate": "2024-12-11T01:00:00.000Z",
