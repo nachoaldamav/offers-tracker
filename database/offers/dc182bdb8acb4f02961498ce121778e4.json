@@ -90,11 +90,51 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "hypercharge-unboxed--complete-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hypercharge-unboxed--original-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "hypercharge-unboxed--supporter-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "hypercharge-unboxed--breaker-and-mightus-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "hypercharge-unboxed",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Digital Cybercherries LTD",
   "publisherDisplayName": "Digital Cybercherries LTD",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-05-10T08:00:00.000Z",
   "pcReleaseDate": "2020-04-27T08:00:00.000Z",
