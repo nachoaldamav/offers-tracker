@@ -103,7 +103,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "georifters-ead0bb",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "georifters-ead0bb",
@@ -112,7 +119,24 @@
   ],
   "developerDisplayName": "Playerium/Busy Toaster",
   "publisherDisplayName": "Softsource Pte Ltd",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-05-14T17:00:00.000Z",
   "pcReleaseDate": "2020-05-28T19:00:00.000Z",
