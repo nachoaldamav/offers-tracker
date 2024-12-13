@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-shape-of-things-dc5b26",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-shape-of-things-dc5b26",
@@ -100,7 +107,28 @@
   ],
   "developerDisplayName": "Hyper Three Studio S.L",
   "publisherDisplayName": "Maple Whispering Limited",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 279,
+      "originalPrice": 699,
+      "voucherDiscount": 0,
+      "discount": 420,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "3aae8234a1594c85ad529064c613fe3d"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-05-26T11:00:00.000Z",
   "pcReleaseDate": "2023-05-26T11:00:00.000Z",
