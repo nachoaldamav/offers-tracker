@@ -99,7 +99,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-house-of-da-vinci-2-970dc3",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-house-of-da-vinci-2-970dc3",
@@ -108,7 +115,28 @@
   ],
   "developerDisplayName": "Blue Brain Games",
   "publisherDisplayName": "Blue Brain Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 599,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "c150636516f84c4fb742c27b6585c79b"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-19T22:00:00.000Z",
   "pcReleaseDate": "2019-12-04T00:00:00.000Z",

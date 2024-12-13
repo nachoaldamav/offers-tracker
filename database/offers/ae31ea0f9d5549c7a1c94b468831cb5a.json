@@ -87,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "extreme-bus-driver-simulator-b7a96d",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "extreme-bus-driver-simulator-b7a96d",
@@ -96,7 +103,24 @@
   ],
   "developerDisplayName": "Samet Acar",
   "publisherDisplayName": "UPCELL TELEKOMUNIKASYON LIMITED SIRKETI",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 99,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-08-13T15:00:00.000Z",
   "pcReleaseDate": "2023-08-31T17:00:00.000Z",
