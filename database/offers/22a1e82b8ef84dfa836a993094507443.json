@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "busway-islands-puzzle-91287d",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "busway-islands-puzzle-91287d",
@@ -100,7 +107,28 @@
   ],
   "developerDisplayName": "Rising Moon Games",
   "publisherDisplayName": "Rising Moon Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 26,
+      "originalPrice": 299,
+      "voucherDiscount": 0,
+      "discount": 273,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "085ad6b57f214d6bb898618bb68c3cad"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-29T13:00:00.000Z",
   "pcReleaseDate": "2023-04-29T13:00:00.000Z",
