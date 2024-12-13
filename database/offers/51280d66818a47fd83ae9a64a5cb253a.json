@@ -91,7 +91,22 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "littlewuchang-19c539",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "littlewuchang-little-wu-chang-demo-224058",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "littlewuchang-faq-99fd8c",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "littlewuchang-19c539",
@@ -100,7 +115,24 @@
   ],
   "developerDisplayName": "Little Wu Chang Game Studio",
   "publisherDisplayName": "Little Wu Chang Game Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": null,
   "pcReleaseDate": null,

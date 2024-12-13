@@ -90,11 +90,35 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "layers-of-fear",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Bloober Team",
   "publisherDisplayName": "Bloober Team",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2299,
+      "originalPrice": 2299,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2016-02-15T15:00:00.000Z",
   "pcReleaseDate": null,

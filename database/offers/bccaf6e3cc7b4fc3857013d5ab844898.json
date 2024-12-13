@@ -95,7 +95,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "flat-heroes-fec628",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "flat-heroes-flat-heroes-demo-8fae2d",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "flat-heroes-fec628",
@@ -104,7 +115,24 @@
   ],
   "developerDisplayName": "Parallel Circles",
   "publisherDisplayName": "Parallel Circles",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-09-15T22:00:00.000Z",
   "pcReleaseDate": "2021-09-15T22:00:00.000Z",

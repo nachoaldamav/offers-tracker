@@ -158,7 +158,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "totally-accurate-battle-simulator--bug-dlc",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "totally-accurate-battle-simulator",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "totally-accurate-battle-simulator",
@@ -167,7 +178,28 @@
   ],
   "developerDisplayName": "Landfall Games",
   "publisherDisplayName": "Landfall Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "6a9c9369ef04417c8af728c1bc6a50e9"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2019-04-01T11:00:00.000Z",
   "pcReleaseDate": null,

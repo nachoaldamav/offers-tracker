@@ -90,11 +90,47 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "cardpocalypse--soundtrack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "cardpocalypse",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "cardpocalypse--out-of-time",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "cardpocalypse--time-warp-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2019-09-19T15:00:00.000Z",
   "pcReleaseDate": null,
