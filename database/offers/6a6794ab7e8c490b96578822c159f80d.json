@@ -94,18 +94,32 @@
       "path": "applications"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "protocorgi",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [],
   "developerDisplayName": "Kemono Games",
   "publisherDisplayName": "Ravenscourt",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 174,
+      "originalPrice": 699,
+      "voucherDiscount": 0,
+      "discount": 525,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "f5945ce460b0408d974b8f80009497d2"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-15T15:00:00.000Z",
   "pcReleaseDate": "2023-06-15T15:00:00.000Z",
