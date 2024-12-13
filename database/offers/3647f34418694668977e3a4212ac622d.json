@@ -110,32 +110,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": null,
-  "publisherDisplayName": null,
-  "price": {
-    "totalPrice": {
-      "discountPrice": 179,
-      "originalPrice": 1199,
-      "voucherDiscount": 0,
-      "discount": 1020,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": [
-          {
-            "id": "a5c5f5c9ea054f189dee1a4f03245d9c"
-          }
-        ]
+        "pageSlug": "hordecore",
+        "pageType": "productHome"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2022-03-02T17:00:00.000Z",
   "pcReleaseDate": "2022-03-02T17:00:00.000Z",

@@ -71,7 +71,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "strategic-mind-the-pacific-a0d2eb",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "strategic-mind-the-pacific-a0d2eb",
@@ -80,24 +87,7 @@
   ],
   "developerDisplayName": "Starni Games",
   "publisherDisplayName": "Starni Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 2999,
-      "originalPrice": 2999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2022-01-19T16:00:00.000Z",
   "pcReleaseDate": "2020-10-25T00:00:00.000Z",
