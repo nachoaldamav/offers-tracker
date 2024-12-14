@@ -79,7 +79,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-smurfs-mission-vileaf-b1b351",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-smurfs-mission-vileaf-b1b351",
@@ -88,7 +95,28 @@
   ],
   "developerDisplayName": "OSome Studio",
   "publisherDisplayName": "Microids",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1800,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "06fc679d0ac646b3be8f0ec8808689c8"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-03-24T00:00:00.000Z",
   "pcReleaseDate": "2021-10-26T00:00:00.000Z",
