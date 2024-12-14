@@ -114,8 +114,23 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "chorus",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "chorus--the-elder-armor-skin-set",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "chorus--demo",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Deep Silver Fishlabs",
   "publisherDisplayName": "Deep Silver",
   "price": null,
