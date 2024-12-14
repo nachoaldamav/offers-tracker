@@ -129,10 +129,10 @@
   "publisherDisplayName": "Headup",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 99,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 900,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -141,7 +141,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "73e9cebfccdf47269a9bbbfb14c08b10"
+          }
+        ]
       }
     ]
   },
