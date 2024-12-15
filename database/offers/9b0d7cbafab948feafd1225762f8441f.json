@@ -47,7 +47,10 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
+    {
+      "id": "1117",
+      "name": "Adventure"
+    },
     {
       "id": "1151",
       "name": "Platformer"
@@ -79,11 +82,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "prince-of-persia-the-two-thrones",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Ubisoft Montreal",
   "publisherDisplayName": "Ubisoft",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 800,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "201e65a89230407d9481e62052eaff5d"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-05-11T15:00:00.000Z",
   "pcReleaseDate": "2005-06-15T12:00:00.000Z",
