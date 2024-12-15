@@ -99,7 +99,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "remains-faq-1c179d",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "remains-dcb937",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "remains-dcb937",
@@ -108,7 +119,24 @@
   ],
   "developerDisplayName": "SoloQ",
   "publisherDisplayName": "SoloQ",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 699,
+      "originalPrice": 699,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-05-03T17:00:00.000Z",
   "pcReleaseDate": "2021-06-09T12:00:00.000Z",
