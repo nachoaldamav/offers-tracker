@@ -39,18 +39,12 @@
       "id": "1336",
       "name": "Action-Adventure"
     },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
+    null,
     {
       "id": "24570",
       "name": "Holiday Sale"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1151",
       "name": "Platformer"
@@ -123,7 +117,28 @@
   ],
   "developerDisplayName": "Petit Fabrik",
   "publisherDisplayName": "GameMill Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 2000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "5c2b9c1ef7b64a27bea2249e8be72500"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-10-25T16:00:00.000Z",
   "pcReleaseDate": "2024-10-25T16:00:00.000Z",
