@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "for-the-warp-b5c468",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "for-the-warp-b5c468",
@@ -100,7 +107,28 @@
   ],
   "developerDisplayName": "Massive Galaxy Studios",
   "publisherDisplayName": "Massive Galaxy Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 374,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 1125,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "3781e5c9df3f45388dddc69690d23572"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-11T12:00:00.000Z",
   "pcReleaseDate": "2022-03-28T11:30:00.000Z",
