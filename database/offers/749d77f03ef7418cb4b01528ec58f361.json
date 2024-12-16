@@ -114,7 +114,26 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "parkitect",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "parkitect--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "parkitect--taste-of-adventure",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "parkitect--booms-and-blooms",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "parkitect",
