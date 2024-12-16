@@ -43,7 +43,10 @@
       "id": "32709",
       "name": "EA Play"
     },
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "34568",
       "name": "EA Play Discount"
@@ -56,8 +59,14 @@
       "id": "34154",
       "name": "EA Play Trial"
     },
-    null,
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
     {
       "id": "1264",
       "name": "Co-op"
@@ -78,7 +87,10 @@
       "id": "21139",
       "name": "Amazing Characters"
     },
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
     {
       "id": "24570",
       "name": "Holiday Sale"
@@ -129,7 +141,28 @@
   "offerMappings": [],
   "developerDisplayName": "EA Canada",
   "publisherDisplayName": "Electronic Arts",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2799,
+      "originalPrice": 6999,
+      "voucherDiscount": 0,
+      "discount": 4200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "fd42acb8d4d9413387f2a44f3579c337"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-09-27T04:00:00.000Z",
   "pcReleaseDate": "2024-09-27T04:00:00.000Z",
