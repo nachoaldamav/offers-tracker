@@ -35,10 +35,7 @@
       "id": "1393",
       "name": "Simulation"
     },
-    {
-      "id": "19847",
-      "name": "Achievements"
-    },
+    null,
     {
       "id": "1146",
       "name": "City Builder"
@@ -54,10 +51,6 @@
     {
       "id": "9547",
       "name": "Windows"
-    },
-    {
-      "id": "1263",
-      "name": "Indie"
     }
   ],
   "items": [
@@ -104,7 +97,28 @@
   ],
   "developerDisplayName": "Gleamer Studio",
   "publisherDisplayName": "Gleamer Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "5b180dfd8c7947408b58fbfbd998d905"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-13T04:00:00.000Z",
   "pcReleaseDate": "2022-10-24T16:00:00.000Z",

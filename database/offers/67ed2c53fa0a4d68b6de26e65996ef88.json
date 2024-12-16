@@ -43,10 +43,7 @@
       "id": "21894",
       "name": "Cloud Saves"
     },
-    {
-      "id": "19847",
-      "name": "Achievements"
-    },
+    null,
     {
       "id": "1370",
       "name": "Single Player"
@@ -59,10 +56,7 @@
       "id": "9547",
       "name": "Windows"
     },
-    {
-      "id": "9549",
-      "name": "Controller Support"
-    },
+    null,
     {
       "id": "1151",
       "name": "Platformer"
@@ -103,7 +97,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "qomp-2-f3ee6d",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "qomp-2-f3ee6d",
@@ -112,7 +113,28 @@
   ],
   "developerDisplayName": "Graphite Lab",
   "publisherDisplayName": "Atari",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1599,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "438097e7b71e48568d3e7d044dec2f5f"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-02-20T21:50:00.000Z",
   "pcReleaseDate": "2024-02-20T08:00:00.000Z",

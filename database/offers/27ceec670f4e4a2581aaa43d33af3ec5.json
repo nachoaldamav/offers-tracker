@@ -47,10 +47,7 @@
       "id": "9547",
       "name": "Windows"
     },
-    {
-      "id": "9549",
-      "name": "Controller Support"
-    },
+    null,
     {
       "id": "1310",
       "name": "EARLY ACCESS"
@@ -95,7 +92,18 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "eras-decode-ff58c7",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "eras-decode-faq-bd0a03",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "eras-decode-ff58c7",

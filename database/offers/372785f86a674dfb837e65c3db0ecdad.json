@@ -31,10 +31,7 @@
   "urlSlug": "0dc904944e84465ca84b6d57b4c1cf06",
   "url": null,
   "tags": [
-    {
-      "id": "19847",
-      "name": "Achievements"
-    },
+    null,
     {
       "id": "1370",
       "name": "Single Player"
@@ -51,10 +48,7 @@
       "id": "1181",
       "name": "Card Game"
     },
-    {
-      "id": "1117",
-      "name": "Adventure"
-    },
+    null,
     {
       "id": "10719",
       "name": "Mac OS"
@@ -95,7 +89,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "castaway-station-e8dd5f",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "castaway-station-e8dd5f",
@@ -104,7 +105,24 @@
   ],
   "developerDisplayName": "Bad Zombie Games",
   "publisherDisplayName": "Bad Zombie Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-30T14:00:00.000Z",
   "pcReleaseDate": "2023-07-01T06:00:00.000Z",

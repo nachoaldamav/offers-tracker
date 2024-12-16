@@ -47,10 +47,7 @@
       "id": "1367",
       "name": "RPG"
     },
-    {
-      "id": "19847",
-      "name": "Achievements"
-    },
+    null,
     {
       "id": "1370",
       "name": "Single Player"
@@ -58,10 +55,6 @@
     {
       "id": "9547",
       "name": "Windows"
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support"
     }
   ],
   "items": [
@@ -99,7 +92,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "loca-deserta-odesa-3f480b",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "loca-deserta-odesa-3f480b",
@@ -108,7 +108,24 @@
   ],
   "developerDisplayName": "Dmytro Gladkyi",
   "publisherDisplayName": "Dmytro Gladkyi",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-02-13T23:00:00.000Z",
   "pcReleaseDate": "2022-06-15T22:00:00.000Z",

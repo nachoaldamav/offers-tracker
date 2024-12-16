@@ -47,18 +47,12 @@
       "id": "21894",
       "name": "Cloud Saves"
     },
-    {
-      "id": "19847",
-      "name": "Achievements"
-    },
+    null,
     {
       "id": "9547",
       "name": "Windows"
     },
-    {
-      "id": "9549",
-      "name": "Controller Support"
-    },
+    null,
     {
       "id": "1264",
       "name": "Co-op"
@@ -119,7 +113,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "counterattackuprising-06aed8",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "counterattackuprising-06aed8",
@@ -128,7 +129,28 @@
   ],
   "developerDisplayName": "Relative Games",
   "publisherDisplayName": "Relative Software LTD.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 374,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 1125,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "2c8caa5e05264990b60fd8670e9604ee"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-12T02:00:00.000Z",
   "pcReleaseDate": "2019-03-11T07:00:00.000Z",

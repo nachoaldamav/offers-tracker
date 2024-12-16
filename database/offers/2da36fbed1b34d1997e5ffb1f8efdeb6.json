@@ -43,10 +43,7 @@
       "id": "1367",
       "name": "RPG"
     },
-    {
-      "id": "19847",
-      "name": "Achievements"
-    },
+    null,
     {
       "id": "1336",
       "name": "Action-Adventure"
@@ -62,10 +59,6 @@
     {
       "id": "21147",
       "name": "Inclusive Character Customization"
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support"
     }
   ],
   "items": [
@@ -103,7 +96,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "cat-quest-8373e0",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "cat-quest-8373e0",
@@ -112,7 +112,28 @@
   ],
   "developerDisplayName": "The Gentlebros",
   "publisherDisplayName": "Kepler Interactive",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 324,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 975,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "36cc32b2dc3e4a9cb401d622948bb0f6"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-28T16:00:00.000Z",
   "pcReleaseDate": "2017-08-07T22:00:00.000Z",

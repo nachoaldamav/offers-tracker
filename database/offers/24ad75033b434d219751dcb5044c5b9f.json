@@ -47,10 +47,7 @@
       "id": "1299",
       "name": "Competitive"
     },
-    {
-      "id": "19847",
-      "name": "Achievements"
-    },
+    null,
     {
       "id": "1370",
       "name": "Single Player"
@@ -62,10 +59,6 @@
     {
       "id": "9547",
       "name": "Windows"
-    },
-    {
-      "id": "1263",
-      "name": "Indie"
     }
   ],
   "items": [
@@ -103,7 +96,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "airship-kingdoms-adrift-cc8448",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "airship-kingdoms-adrift-cc8448",
@@ -112,7 +112,28 @@
   ],
   "developerDisplayName": "Revolution Industry Co.",
   "publisherDisplayName": "Freedom Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 1500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "4951404067744074b5e92a5c09c117cc"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-19T19:26:23.120Z",
   "pcReleaseDate": "2024-01-19T14:00:00.000Z",
