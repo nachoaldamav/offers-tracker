@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-03-24T00:00:00.000Z",
   "creationDate": "2021-12-22T10:00:16.528Z",
-  "lastModifiedDate": "2024-11-12T18:01:49.875Z",
+  "lastModifiedDate": "2024-12-16T09:28:06.146Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -48,6 +48,10 @@
       "name": "Single Player"
     },
     {
+      "id": "24570",
+      "name": "Holiday Sale"
+    },
+    {
       "id": "9547",
       "name": "Windows"
     }
@@ -79,7 +83,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-smurfs-mission-vileaf-b1b351",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-smurfs-mission-vileaf-b1b351",
@@ -88,7 +99,28 @@
   ],
   "developerDisplayName": "OSome Studio",
   "publisherDisplayName": "Microids",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1800,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "06fc679d0ac646b3be8f0ec8808689c8"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-03-24T00:00:00.000Z",
   "pcReleaseDate": "2021-10-26T00:00:00.000Z",

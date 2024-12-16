@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-03-18T17:00:00.000Z",
   "creationDate": "2024-04-12T12:49:15.053Z",
-  "lastModifiedDate": "2024-11-12T18:01:49.873Z",
+  "lastModifiedDate": "2024-12-16T09:28:06.145Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "1370",
       "name": "Single Player"
+    },
+    {
+      "id": "24570",
+      "name": "Holiday Sale"
     },
     {
       "id": "9547",
@@ -110,7 +114,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "syberia-the-world-before--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "syberia-the-world-before-deluxe-content-82d19a",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "syberia-the-world-before",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "syberia-the-world-before",
@@ -119,7 +138,28 @@
   ],
   "developerDisplayName": "Koalabs",
   "publisherDisplayName": "Microids",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 799,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 3200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "7e2475fb8ec14bfa9425cea941fbf392"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-03-18T17:00:00.000Z",
   "pcReleaseDate": "2022-03-18T17:00:00.000Z",
