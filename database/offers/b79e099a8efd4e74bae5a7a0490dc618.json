@@ -123,7 +123,18 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tabletop-playground-9623f1",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "tabletop-playground-faq-f3072f",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "tabletop-playground-9623f1",
@@ -132,28 +143,7 @@
   ],
   "developerDisplayName": "Plasticity Studios",
   "publisherDisplayName": "Modularity",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 749,
-      "originalPrice": 1499,
-      "voucherDiscount": 0,
-      "discount": 750,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "0c35be35362549ebae53373664e961c9"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-06-15T19:00:00.000Z",
   "pcReleaseDate": "2020-05-15T08:00:00.000Z",
