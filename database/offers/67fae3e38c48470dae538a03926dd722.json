@@ -99,14 +99,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "candle-knight-b52970",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "candle-knight-b52970",
@@ -115,7 +108,28 @@
   ],
   "developerDisplayName": "Dracma Studios",
   "publisherDisplayName": "Dracma Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 899,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "f2a1ec32162f44e0b7bfa71b156f8258"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-22T17:00:00.000Z",
   "pcReleaseDate": "2023-05-31T07:00:00.000Z",
