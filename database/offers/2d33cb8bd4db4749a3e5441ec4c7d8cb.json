@@ -99,7 +99,18 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "arena-survivors-f96b68",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "arena-survivors-faq-48d278",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "arena-survivors-f96b68",
@@ -108,7 +119,28 @@
   ],
   "developerDisplayName": "2kblater",
   "publisherDisplayName": "2kblater",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 249,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 250,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "152fb098fea74472bad7764d548778fa"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-03T23:00:00.000Z",
   "pcReleaseDate": null,
