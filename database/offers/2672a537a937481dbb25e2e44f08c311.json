@@ -42,14 +42,6 @@
     {
       "id": "1146",
       "name": "City Builder"
-    },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
     }
   ],
   "items": [
@@ -91,11 +83,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "genesis-of-a-small-god-159cd4",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "genesis-of-a-small-god-faq-7c4d19",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "genesis-of-a-small-god-159cd4",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Pierre Nury Games",
   "publisherDisplayName": "Pierre Nury Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1799,
+      "originalPrice": 1799,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-14T00:00:00.000Z",
   "pcReleaseDate": "2023-12-14T00:00:00.000Z",

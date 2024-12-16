@@ -39,29 +39,11 @@
       "id": "21894",
       "name": "Cloud Saves"
     },
-    {
-      "id": "19847",
-      "name": "Achievements"
-    },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
+    null,
+    null,
     {
       "id": "24570",
       "name": "Holiday Sale"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
-    {
-      "id": "1117",
-      "name": "Adventure"
-    },
-    {
-      "id": "1263",
-      "name": "Indie"
     }
   ],
   "items": [
@@ -99,7 +81,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "unwording-a20943",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "unwording-a20943",
@@ -108,7 +97,28 @@
   ],
   "developerDisplayName": "Frostwood Interactive",
   "publisherDisplayName": "Frostwood Interactive, Dino Digital",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 349,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 150,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "d8ebbda4acc84fea9f462066225356b9"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-01T18:30:00.000Z",
   "pcReleaseDate": "2023-04-24T10:00:00.000Z",

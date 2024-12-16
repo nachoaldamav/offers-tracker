@@ -39,21 +39,10 @@
       "id": "1210",
       "name": "Shooter"
     },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
+    null,
     {
       "id": "24570",
       "name": "Holiday Sale"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support"
     }
   ],
   "items": [
@@ -91,11 +80,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "1971-indian-naval-front-9cc046",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "1971-indian-naval-front-9cc046",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Neosphere Interactive Studios Private Limited",
   "publisherDisplayName": "Neosphere Interactive Studios Private Limited",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 599,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 900,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "946f3aa94c964ae4a464b96d6ba57201"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-10T15:30:01.341Z",
   "pcReleaseDate": "2023-12-11T18:30:00.000Z",

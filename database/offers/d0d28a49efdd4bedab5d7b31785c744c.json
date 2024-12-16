@@ -35,26 +35,14 @@
       "id": "1218",
       "name": "Horror"
     },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
+    null,
     {
       "id": "24570",
       "name": "Holiday Sale"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
-    {
-      "id": "1117",
-      "name": "Adventure"
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support"
-    },
+    null,
+    null,
+    null,
     {
       "id": "1294",
       "name": "First Person"
@@ -103,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "unveiling-6da4e5",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "unveiling-6da4e5",
@@ -112,7 +107,28 @@
   ],
   "developerDisplayName": "CHARK",
   "publisherDisplayName": "CHARK",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 279,
+      "originalPrice": 399,
+      "voucherDiscount": 0,
+      "discount": 120,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "d916c4d33d1b4848b8cb951a31783c50"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-04-15T18:00:00.000Z",
   "pcReleaseDate": "2023-12-29T19:00:00.000Z",

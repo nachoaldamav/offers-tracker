@@ -35,10 +35,7 @@
       "id": "1216",
       "name": "Action"
     },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
+    null,
     {
       "id": "24570",
       "name": "Holiday Sale"
@@ -46,10 +43,6 @@
     {
       "id": "1115",
       "name": "Strategy"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
     }
   ],
   "items": [
@@ -87,7 +80,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ubersoldier-83a15a",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "ubersoldier-83a15a",
@@ -96,7 +96,28 @@
   ],
   "developerDisplayName": "Burut CT",
   "publisherDisplayName": "Strategy First",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 99,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "4c20a97a33b04c00b09a577b024211e3"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-30T02:32:36.091Z",
   "pcReleaseDate": "2024-03-27T04:00:00.000Z",

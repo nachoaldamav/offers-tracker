@@ -35,18 +35,8 @@
       "id": "1216",
       "name": "Action"
     },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
-    {
-      "id": "1263",
-      "name": "Indie"
-    }
+    null,
+    null
   ],
   "items": [
     {
@@ -83,7 +73,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "pinbot-ad038d",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "pinbot-pinbot-demo-dd1aaf",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "pinbot-ad038d",
@@ -92,7 +93,24 @@
   ],
   "developerDisplayName": "sante76",
   "publisherDisplayName": "sante76",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 799,
+      "originalPrice": 799,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-02-15T11:00:00.000Z",
   "pcReleaseDate": "2024-01-24T00:00:00.000Z",

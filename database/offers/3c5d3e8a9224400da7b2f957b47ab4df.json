@@ -35,22 +35,13 @@
       "id": "1216",
       "name": "Action"
     },
-    {
-      "id": "19847",
-      "name": "Achievements"
-    },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
+    null,
+    null,
     {
       "id": "24570",
       "name": "Holiday Sale"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1198",
       "name": "Retro"
@@ -95,11 +86,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "argol-kronoss-castle-84d829",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "argol-kronoss-castle-84d829",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Olivier Poli",
   "publisherDisplayName": "Olivier Poli",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 249,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 250,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "e2673081acf5444ea9939ec2be45096c"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-26T23:00:00.000Z",
   "pcReleaseDate": "2023-12-24T23:00:00.000Z",

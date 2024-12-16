@@ -35,25 +35,11 @@
       "id": "1216",
       "name": "Action"
     },
-    {
-      "id": "19847",
-      "name": "Achievements"
-    },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
+    null,
+    null,
     {
       "id": "24570",
       "name": "Holiday Sale"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
-    {
-      "id": "1117",
-      "name": "Adventure"
     }
   ],
   "items": [
@@ -95,7 +81,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "lost-islands-314966",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "lost-islands-314966",
@@ -104,7 +97,28 @@
   ],
   "developerDisplayName": "Glitch Studio",
   "publisherDisplayName": "Glitch Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 1500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "faf440c555994d4babc4a98a680a24c5"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-02T22:00:00.000Z",
   "pcReleaseDate": "2024-03-02T22:00:00.000Z",

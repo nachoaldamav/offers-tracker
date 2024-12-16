@@ -39,18 +39,12 @@
       "id": "1336",
       "name": "Action-Adventure"
     },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
+    null,
     {
       "id": "24570",
       "name": "Holiday Sale"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1183",
       "name": "Local Multiplayer"
@@ -95,7 +89,18 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "mirage-a-biplane-adventure-912065",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "mirage-a-biplane-adventure-mirage-a-biplane-adventure-demo-ffe1cf",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "mirage-a-biplane-adventure-912065",

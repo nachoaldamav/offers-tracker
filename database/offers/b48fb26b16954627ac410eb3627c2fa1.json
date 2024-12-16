@@ -35,18 +35,9 @@
       "id": "1298",
       "name": "Puzzle"
     },
-    {
-      "id": "19847",
-      "name": "Achievements"
-    },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
+    null,
+    null,
     {
       "id": "10719",
       "name": "Mac OS"
@@ -91,7 +82,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "100-doors-escape-let-me-in-06e42a",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "100-doors-escape-let-me-in-06e42a",
@@ -100,7 +98,28 @@
   ],
   "developerDisplayName": "Peaksel",
   "publisherDisplayName": "Peaksel",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "ca61f204093747dcaacfdfef79a35b27"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-19T23:00:00.000Z",
   "pcReleaseDate": "2024-03-19T23:00:00.000Z",

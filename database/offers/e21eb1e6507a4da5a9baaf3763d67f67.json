@@ -31,26 +31,13 @@
   "urlSlug": "19b1764597494c9a81bd94c81a32b186",
   "url": null,
   "tags": [
-    {
-      "id": "1395",
-      "name": "Narration"
-    },
+    null,
     {
       "id": "1080",
       "name": "Survival"
     },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
-    {
-      "id": "1116",
-      "name": "Comedy"
-    }
+    null,
+    null
   ],
   "items": [
     {
@@ -87,11 +74,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "spy-1-lovecraftian-5bbdbc",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "spy-1-lovecraftian-5bbdbc",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "GoatDragonStudio",
   "publisherDisplayName": "GoatDragonStudio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 599,
+      "originalPrice": 599,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-18T00:00:00.000Z",
   "pcReleaseDate": "2024-01-24T16:30:00.000Z",

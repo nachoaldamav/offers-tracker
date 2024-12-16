@@ -47,10 +47,7 @@
       "id": "22776",
       "name": "Cross Platform"
     },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
+    null,
     {
       "id": "1386",
       "name": "Turn-Based"
@@ -59,10 +56,7 @@
       "id": "21739",
       "name": "NFT BLOCKCHAIN"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "10719",
       "name": "Mac OS"
@@ -103,11 +97,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "anito-legends-e2180a",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "anito-legends-faq-a5ad17",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "anito-legends-e2180a",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Gawang Ginto Inc.",
   "publisherDisplayName": "Gawang Ginto Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-10T01:00:00.000Z",
   "pcReleaseDate": "2024-01-10T01:00:00.000Z",

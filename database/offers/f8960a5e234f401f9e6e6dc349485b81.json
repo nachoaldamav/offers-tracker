@@ -39,14 +39,8 @@
       "id": "1210",
       "name": "Shooter"
     },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
+    null,
     {
       "id": "1294",
       "name": "First Person"
@@ -91,11 +85,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "exovoid-faq-cbdaca",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "exovoid-4c900f",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "exovoid-4c900f",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Man Up Time Studios",
   "publisherDisplayName": "Man Up Time Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 99,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-22T00:39:48.000Z",
   "pcReleaseDate": null,

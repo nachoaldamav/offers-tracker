@@ -43,14 +43,8 @@
       "id": "21894",
       "name": "Cloud Saves"
     },
-    {
-      "id": "19847",
-      "name": "Achievements"
-    },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
+    null,
+    null,
     {
       "id": "24570",
       "name": "Holiday Sale"
@@ -59,10 +53,7 @@
       "id": "1115",
       "name": "Strategy"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "10719",
       "name": "Mac OS"
@@ -107,7 +98,22 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "destroyer-the-uboat-hunter-supporter-pack-7f2e1d",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "destroyer-the-uboat-hunter-319d33",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "destroyer-the-uboat-hunter-supporter-bundle-b42783",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "destroyer-the-uboat-hunter-319d33",
@@ -116,7 +122,28 @@
   ],
   "developerDisplayName": "Iron Wolf Studio S.A.",
   "publisherDisplayName": "Daedalic Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 1500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "7c3e8981f5e94129b26aa46dadb5115a"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-19T13:00:00.000Z",
   "pcReleaseDate": "2024-03-19T13:00:00.000Z",

@@ -35,29 +35,15 @@
       "id": "21894",
       "name": "Cloud Saves"
     },
-    {
-      "id": "19847",
-      "name": "Achievements"
-    },
+    null,
     {
       "id": "1210",
       "name": "Shooter"
     },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
+    null,
     {
       "id": "24570",
       "name": "Holiday Sale"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support"
     }
   ],
   "items": [
@@ -95,7 +81,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "die-again-9d5045",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "die-again-9d5045",
@@ -104,7 +97,28 @@
   ],
   "developerDisplayName": "VarnGameDev",
   "publisherDisplayName": "Catness Game Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 491,
+      "originalPrice": 1199,
+      "voucherDiscount": 0,
+      "discount": 708,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "76c9311e21c943a0b0cbae8d6f1bbcf8"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-04-11T11:00:00.000Z",
   "pcReleaseDate": "2024-04-11T11:00:00.000Z",

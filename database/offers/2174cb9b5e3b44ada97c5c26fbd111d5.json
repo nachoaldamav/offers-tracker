@@ -31,14 +31,8 @@
   "urlSlug": "79844710339c4a4aa80e811f7b8c6975",
   "url": null,
   "tags": [
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
+    null,
     {
       "id": "1198",
       "name": "Retro"
@@ -46,10 +40,6 @@
     {
       "id": "1151",
       "name": "Platformer"
-    },
-    {
-      "id": "1263",
-      "name": "Indie"
     }
   ],
   "items": [
@@ -91,7 +81,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "unescape-4663c6",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "unescape-faq-97503d",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "unescape-4663c6",
@@ -100,7 +101,24 @@
   ],
   "developerDisplayName": "Dead Mannequin Studios",
   "publisherDisplayName": "Catalyst Games, LLC",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-04-18T02:15:05.335Z",
   "pcReleaseDate": "2024-04-23T17:00:00.000Z",

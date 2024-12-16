@@ -43,18 +43,12 @@
       "id": "1080",
       "name": "Survival"
     },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
+    null,
     {
       "id": "1115",
       "name": "Strategy"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1310",
       "name": "EARLY ACCESS"
@@ -95,7 +89,18 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "brand-new-world-cedac8",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "brand-new-world-faq-7125c1",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "brand-new-world-cedac8",

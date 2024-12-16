@@ -39,18 +39,7 @@
       "id": "1146",
       "name": "City Builder"
     },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
-    {
-      "id": "1263",
-      "name": "Indie"
-    }
+    null
   ],
   "items": [
     {
@@ -87,11 +76,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "otok-6c2478",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "otok-6c2478",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "VuVuu Inc.",
   "publisherDisplayName": "VuVuu Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-26T18:00:00.000Z",
   "pcReleaseDate": "2023-07-24T17:00:00.000Z",

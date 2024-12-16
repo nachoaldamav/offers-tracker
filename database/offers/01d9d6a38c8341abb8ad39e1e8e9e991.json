@@ -43,10 +43,7 @@
       "id": "21129",
       "name": "Challenging Combat"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1294",
       "name": "First Person"
@@ -119,11 +116,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "mortal-online-2-d7bb78",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "mortal-online-2-d7bb78",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Star Vault AB",
   "publisherDisplayName": "Star Vault AB",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1599,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 2400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "d640470846eb43c5b7bcc86e3d416047"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-11T11:00:00.000Z",
   "pcReleaseDate": "2023-12-11T11:00:00.000Z",

@@ -35,14 +35,8 @@
       "id": "1393",
       "name": "Simulation"
     },
-    {
-      "id": "19847",
-      "name": "Achievements"
-    },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
+    null,
+    null,
     {
       "id": "24570",
       "name": "Holiday Sale"
@@ -50,14 +44,6 @@
     {
       "id": "1115",
       "name": "Strategy"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
-    {
-      "id": "1263",
-      "name": "Indie"
     }
   ],
   "items": [
@@ -95,7 +81,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "abriss-build-to-destroy-a12a7a",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "abriss-build-to-destroy-a12a7a",
@@ -104,7 +97,28 @@
   ],
   "developerDisplayName": "Randwerk Games",
   "publisherDisplayName": "astragon Entertainment GmbH",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 974,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 525,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "a48a12ed513246109f9ad78d2cbfeadb"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-07T00:00:00.000Z",
   "pcReleaseDate": "2023-09-05T07:00:00.000Z",

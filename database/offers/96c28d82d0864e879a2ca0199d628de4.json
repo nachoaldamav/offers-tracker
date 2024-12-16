@@ -39,14 +39,8 @@
       "id": "1218",
       "name": "Horror"
     },
-    {
-      "id": "1370",
-      "name": "Single Player"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
+    null,
     {
       "id": "1294",
       "name": "First Person"
@@ -91,7 +85,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "floppa-the-dark-forest-518460",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "floppa-the-dark-forest-518460",
@@ -100,7 +101,28 @@
   ],
   "developerDisplayName": "Astra Playroom",
   "publisherDisplayName": "Astra Playroom",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 49,
+      "originalPrice": 199,
+      "voucherDiscount": 0,
+      "discount": 150,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "a92e70dbefec4ad5b37bf11799e85846"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-02-29T23:00:00.000Z",
   "pcReleaseDate": "2024-02-29T23:00:00.000Z",

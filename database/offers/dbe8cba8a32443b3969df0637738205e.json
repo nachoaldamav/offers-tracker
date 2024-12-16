@@ -47,22 +47,13 @@
       "id": "1110",
       "name": "Party"
     },
-    {
-      "id": "19847",
-      "name": "Achievements"
-    },
+    null,
     {
       "id": "24570",
       "name": "Holiday Sale"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
-    {
-      "id": "1116",
-      "name": "Comedy"
-    },
+    null,
+    null,
     {
       "id": "1183",
       "name": "Local Multiplayer"
@@ -107,11 +98,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "quiplash-2-interlashional-3c3888",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "quiplash-2-interlashional-3c3888",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Jackbox Games, Inc.",
   "publisherDisplayName": "Jackbox Games, Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 649,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 350,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "864a55a2571c4f59896f9cf4cb6f35e9"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-11T00:00:00.000Z",
   "pcReleaseDate": "2020-04-08T07:00:00.000Z",
