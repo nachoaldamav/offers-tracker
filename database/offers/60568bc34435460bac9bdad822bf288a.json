@@ -43,7 +43,10 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1263",
       "name": "Indie"
@@ -75,7 +78,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "lumote",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "lumote--ost",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "lumote--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Luminawesome Games",
   "publisherDisplayName": "Wired Productions  ",
