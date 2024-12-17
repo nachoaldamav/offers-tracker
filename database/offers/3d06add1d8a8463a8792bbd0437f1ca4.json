@@ -95,11 +95,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "project-xsting-faq-fc2afc",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "project-xsting-9fb690",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "project-xsting-9fb690",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Saucy Melon",
   "publisherDisplayName": "Saucy Melon",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 799,
+      "originalPrice": 799,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-05T20:00:00.000Z",
   "pcReleaseDate": "2024-01-05T18:00:00.000Z",
