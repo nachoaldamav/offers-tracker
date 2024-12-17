@@ -114,7 +114,26 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "parkitect",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "parkitect--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "parkitect--taste-of-adventure",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "parkitect--booms-and-blooms",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "parkitect",
@@ -123,24 +142,7 @@
   ],
   "developerDisplayName": "Texel Raptor",
   "publisherDisplayName": "Texel Raptor",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 2999,
-      "originalPrice": 2999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2021-12-06T09:00:00.000Z",
   "pcReleaseDate": "2018-11-29T12:00:00.000Z",
