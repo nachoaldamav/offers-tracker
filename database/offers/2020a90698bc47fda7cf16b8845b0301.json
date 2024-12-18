@@ -51,12 +51,18 @@
       "id": "21894",
       "name": "Cloud Saves"
     },
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
     {
       "id": "24570",
       "name": "Holiday Sale"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1117",
       "name": "Adventure"
@@ -96,7 +102,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "far-changing-tides",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "far-changing-tides--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "far-changing-tides--official-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Frontier Developments  ",
   "publisherDisplayName": "Frontier Developments  ",

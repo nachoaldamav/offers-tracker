@@ -47,7 +47,10 @@
       "id": "21109",
       "name": "Great Boss Battles"
     },
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
     {
       "id": "24570",
       "name": "Holiday Sale"
@@ -55,6 +58,10 @@
     {
       "id": "1083",
       "name": "Rogue-Lite"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
     }
   ],
   "items": [
@@ -87,7 +94,38 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tribes-of-midgard",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "tribes-of-midgard--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "tribes-of-midgard--deluxe-edition-contents",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "tribes-of-midgard--eira-cosmetic-set",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "tribes-of-midgard--500-platinum-coins",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "tribes-of-midgard--1050-platinum-coins",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "tribes-of-midgard--2200-platinum-coins",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Norsfell",
   "publisherDisplayName": "Gearbox Publishing",

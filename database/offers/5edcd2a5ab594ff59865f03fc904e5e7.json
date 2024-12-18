@@ -50,6 +50,10 @@
     {
       "id": "1115",
       "name": "Strategy"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
     }
   ],
   "items": [
@@ -78,7 +82,14 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "spellforce-3",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Grimlore Games",
   "publisherDisplayName": "THQ Nordic",

@@ -43,12 +43,18 @@
       "id": "1218",
       "name": "Horror"
     },
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
     {
       "id": "24570",
       "name": "Holiday Sale"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1294",
       "name": "First Person"
@@ -80,7 +86,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "martha-is-dead--official-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "martha-is-dead--digital-deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "martha-is-dead",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "LKA",
   "publisherDisplayName": "Wired Productions",
