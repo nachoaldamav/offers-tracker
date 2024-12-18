@@ -99,7 +99,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-axis-unseen-439821",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-axis-unseen-439821",
@@ -108,7 +115,28 @@
   ],
   "developerDisplayName": "Just Purkey Games",
   "publisherDisplayName": "Just Purkey Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "a6aff1a1dc384e01af85caea89d60376"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-10-22T13:00:00.000Z",
   "pcReleaseDate": "2024-10-22T13:00:00.000Z",
