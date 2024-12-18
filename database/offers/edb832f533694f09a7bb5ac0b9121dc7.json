@@ -67,7 +67,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "112th-seed-6292ea",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "112th-seed-6292ea",
@@ -76,24 +83,7 @@
   ],
   "developerDisplayName": "NERDGAMES",
   "publisherDisplayName": "NERDGAMES",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 499,
-      "originalPrice": 499,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2022-04-02T09:00:00.000Z",
   "pcReleaseDate": "2022-04-02T09:00:00.000Z",
