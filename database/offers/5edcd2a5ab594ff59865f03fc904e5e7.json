@@ -50,6 +50,10 @@
     {
       "id": "1115",
       "name": "Strategy"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
     }
   ],
   "items": [
@@ -89,7 +93,28 @@
   "offerMappings": [],
   "developerDisplayName": "Grimlore Games",
   "publisherDisplayName": "THQ Nordic",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 3000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "0531a4f646994e7cb35ce44e70c2bea7"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-12-06T18:00:00.000Z",
   "pcReleaseDate": "2017-12-07T18:00:00.000Z",
