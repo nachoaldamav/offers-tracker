@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2019-08-26T00:00:00.000Z",
   "creationDate": "2019-07-22T15:18:13.491Z",
-  "lastModifiedDate": "2024-11-21T23:34:34.538Z",
+  "lastModifiedDate": "2024-12-18T16:04:23.278Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -96,6 +96,10 @@
       "name": "Educational"
     },
     {
+      "id": "24570",
+      "name": "Holiday Sale"
+    },
+    {
       "id": "1307",
       "name": "Open World"
     },
@@ -163,10 +167,10 @@
   "publisherDisplayName": null,
   "price": {
     "totalPrice": {
-      "discountPrice": 3999,
+      "discountPrice": 799,
       "originalPrice": 3999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 3200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -175,7 +179,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "2bf79ae5f38546da89c781b72d76fffb"
+          }
+        ]
       }
     ]
   },

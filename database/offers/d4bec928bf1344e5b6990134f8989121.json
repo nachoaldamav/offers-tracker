@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-02-24T14:00:00.000Z",
   "creationDate": "2022-08-31T17:33:24.447Z",
-  "lastModifiedDate": "2024-12-08T19:59:06.318Z",
+  "lastModifiedDate": "2024-12-18T16:04:23.278Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -80,6 +80,10 @@
       "name": "Educational"
     },
     {
+      "id": "24570",
+      "name": "Holiday Sale"
+    },
+    {
       "id": "21149",
       "name": "Quickly Understand the Controls"
     },
@@ -131,10 +135,10 @@
   "publisherDisplayName": "Private Division",
   "price": {
     "totalPrice": {
-      "discountPrice": 4999,
+      "discountPrice": 3999,
       "originalPrice": 4999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -143,7 +147,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "97f2f273b6504223a37cd2d1edcd794f"
+          }
+        ]
       }
     ]
   },

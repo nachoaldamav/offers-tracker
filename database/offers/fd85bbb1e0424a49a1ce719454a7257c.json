@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-06-02T15:00:00.000Z",
   "creationDate": "2021-10-01T18:29:30.980Z",
-  "lastModifiedDate": "2024-11-23T23:51:50.537Z",
+  "lastModifiedDate": "2024-12-18T16:04:23.276Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -92,6 +92,10 @@
       "name": "Single Player"
     },
     {
+      "id": "24570",
+      "name": "Holiday Sale"
+    },
+    {
       "id": "21149",
       "name": "Quickly Understand the Controls"
     },
@@ -143,10 +147,10 @@
   "publisherDisplayName": "2K",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 499,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -155,7 +159,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "9a40d0723d12430cbc45b5d1f5844d7d"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-11-19T21:00:00.000Z",
   "creationDate": "2020-09-21T16:16:57.140Z",
-  "lastModifiedDate": "2024-11-18T16:06:39.679Z",
+  "lastModifiedDate": "2024-12-18T16:04:23.280Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -68,6 +68,10 @@
       "name": "Single Player"
     },
     {
+      "id": "24570",
+      "name": "Holiday Sale"
+    },
+    {
       "id": "9547",
       "name": "Windows"
     },
@@ -127,10 +131,10 @@
   "publisherDisplayName": null,
   "price": {
     "totalPrice": {
-      "discountPrice": 3999,
+      "discountPrice": 799,
       "originalPrice": 3999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 3200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -139,7 +143,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "2b0932bb87f043ee91768bce821544bf"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-04-14T15:00:00.000Z",
   "creationDate": "2020-10-02T09:44:09.542Z",
-  "lastModifiedDate": "2024-11-18T16:06:39.689Z",
+  "lastModifiedDate": "2024-12-18T16:04:23.277Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -96,6 +96,10 @@
       "name": "Single Player"
     },
     {
+      "id": "24570",
+      "name": "Holiday Sale"
+    },
+    {
       "id": "1115",
       "name": "Strategy"
     },
@@ -148,10 +152,10 @@
   "publisherDisplayName": "2K",
   "price": {
     "totalPrice": {
-      "discountPrice": 5999,
+      "discountPrice": 299,
       "originalPrice": 5999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 5700,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -160,7 +164,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "363ca52b215949a19549fc3183546bea"
+          }
+        ]
       }
     ]
   },
