@@ -55,18 +55,9 @@
       "id": "24570",
       "name": "Holiday Sale"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support"
-    },
-    {
-      "id": "10719",
-      "name": "Mac OS"
-    },
+    null,
+    null,
+    null,
     {
       "id": "1263",
       "name": "Indie"
@@ -111,7 +102,28 @@
   ],
   "developerDisplayName": "Stegosoft Games",
   "publisherDisplayName": "DANGEN Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "eddd4a9def5841fd8612ea814d042949"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-02-10T14:00:00.000Z",
   "pcReleaseDate": "2022-02-10T14:00:00.000Z",

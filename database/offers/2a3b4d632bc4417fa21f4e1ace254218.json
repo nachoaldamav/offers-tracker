@@ -47,10 +47,7 @@
       "id": "1115",
       "name": "Strategy"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1263",
       "name": "Indie"
@@ -93,7 +90,28 @@
   "offerMappings": [],
   "developerDisplayName": "Weappy Studio",
   "publisherDisplayName": "THQ Nordic",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 374,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 1125,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "8584ba90046d416082c6faf1e7d3190e"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-01-24T17:00:00.000Z",
   "pcReleaseDate": "2016-08-02T17:00:00.000Z",

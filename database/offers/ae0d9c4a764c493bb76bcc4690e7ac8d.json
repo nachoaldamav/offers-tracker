@@ -43,10 +43,7 @@
       "id": "24570",
       "name": "Holiday Sale"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1117",
       "name": "Adventure"
@@ -103,7 +100,28 @@
   ],
   "developerDisplayName": "Pendulo Studios",
   "publisherDisplayName": "Microids",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1700,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "d26494df8dc742718247e57f8b39f042"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-02-24T00:00:00.000Z",
   "pcReleaseDate": "2021-12-16T00:00:00.000Z",

@@ -87,14 +87,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "island-idle-rpg-350c2e",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "island-idle-rpg-350c2e",
@@ -103,7 +96,28 @@
   ],
   "developerDisplayName": "Overaction Game Studio",
   "publisherDisplayName": "Overaction Game Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 179,
+      "originalPrice": 299,
+      "voucherDiscount": 0,
+      "discount": 120,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "eae58b3523754cb786127d8e8be040f2"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-02-07T17:00:00.000Z",
   "pcReleaseDate": "2022-06-27T09:30:00.000Z",
