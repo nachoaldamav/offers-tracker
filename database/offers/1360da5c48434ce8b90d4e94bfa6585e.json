@@ -87,7 +87,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "zelter-b3640a",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "zelter-faq-61c89f",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "zelter-b3640a",
@@ -96,7 +107,28 @@
   ],
   "developerDisplayName": "G1 Playground",
   "publisherDisplayName": "SuperGG.com",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "10f44e14c2b244a3959f62bfc02c962b"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-10-18T15:00:00.000Z",
   "pcReleaseDate": "2020-10-22T07:00:00.000Z",
