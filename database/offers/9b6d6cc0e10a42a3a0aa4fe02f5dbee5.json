@@ -181,10 +181,10 @@
   "publisherDisplayName": "Poncle",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 0,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 499,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -193,7 +193,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "681a3919b1ab49d09f4250f0884d02e9"
+          }
+        ]
       }
     ]
   },
