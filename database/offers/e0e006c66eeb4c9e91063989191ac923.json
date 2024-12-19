@@ -75,7 +75,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ascendantsrising-a8a65a",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "ascendantsrising-faq-2e1b09",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "ascendantsrising-a8a65a",
@@ -84,24 +95,7 @@
   ],
   "developerDisplayName": "Limitless Games",
   "publisherDisplayName": "Limitless Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1999,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2022-03-13T00:00:00.000Z",
   "pcReleaseDate": "2022-02-08T00:00:00.000Z",
