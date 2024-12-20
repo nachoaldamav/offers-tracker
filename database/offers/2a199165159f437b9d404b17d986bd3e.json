@@ -67,7 +67,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "white-shadows-64e014",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "white-shadows-64e014",
@@ -76,7 +83,28 @@
   ],
   "developerDisplayName": "Monokel",
   "publisherDisplayName": "Thunderful Publishing, Mixtvision",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1800,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "83300ade4aeb46d9a59e2025e4609cb6"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-04-08T15:00:00.000Z",
   "pcReleaseDate": "2021-12-07T00:00:00.000Z",
