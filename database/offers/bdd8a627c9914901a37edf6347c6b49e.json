@@ -122,7 +122,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "naraka-bladepoint",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "naraka-bladepoint--faq",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "naraka-bladepoint",
