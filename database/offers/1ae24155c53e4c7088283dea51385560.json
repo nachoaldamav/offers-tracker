@@ -107,7 +107,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "space-elite-force-a00006",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "space-elite-force-a00006",
@@ -116,28 +123,7 @@
   ],
   "developerDisplayName": "Rising Moon Games",
   "publisherDisplayName": "Rising Moon Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 29,
-      "originalPrice": 299,
-      "voucherDiscount": 0,
-      "discount": 270,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "02d30931df0c4ef6a708b118b8fc9a97"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-07-27T13:00:00.000Z",
   "pcReleaseDate": "2018-05-17T08:30:00.000Z",

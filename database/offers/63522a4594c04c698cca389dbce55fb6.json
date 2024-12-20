@@ -83,7 +83,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "underworld-defense-9a270a",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "underworld-defense-9a270a",
@@ -92,28 +99,7 @@
   ],
   "developerDisplayName": "Kaciola Games",
   "publisherDisplayName": "Kaciola Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 74,
-      "originalPrice": 499,
-      "voucherDiscount": 0,
-      "discount": 425,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "a836eac76ff24e058deb3d2749d3f3be"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-07-30T17:00:00.000Z",
   "pcReleaseDate": "2023-07-30T17:00:00.000Z",
