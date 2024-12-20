@@ -121,10 +121,10 @@
   "publisherDisplayName": "Graven Visual Novels",
   "price": {
     "totalPrice": {
-      "discountPrice": 399,
+      "discountPrice": 199,
       "originalPrice": 399,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "b1ddc98522724045971bfd6cec44e039"
+          }
+        ]
       }
     ]
   },
