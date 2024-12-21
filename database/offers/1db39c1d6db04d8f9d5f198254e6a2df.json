@@ -114,7 +114,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "port-royale-4--buccaneers",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "port-royale-4",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "port-royale-4--extended-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

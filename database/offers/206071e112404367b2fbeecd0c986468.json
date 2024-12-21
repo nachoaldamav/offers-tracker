@@ -110,7 +110,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "twin-mirror--epilepsy-warning",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "twin-mirror",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "twin-mirror--demo",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
