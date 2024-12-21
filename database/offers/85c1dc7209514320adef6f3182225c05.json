@@ -95,18 +95,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "stoneshard-5dd96e",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "stoneshard-faq-445045",
-        "pageType": "info"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "stoneshard-5dd96e",
@@ -115,7 +104,28 @@
   ],
   "developerDisplayName": "Ink Stains Games",
   "publisherDisplayName": "HypeTrain Digital",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1874,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 625,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "48ab9dd0b42840aab428f39ced7b6dc8"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-07T16:00:00.000Z",
   "pcReleaseDate": "2020-02-05T21:00:00.000Z",
