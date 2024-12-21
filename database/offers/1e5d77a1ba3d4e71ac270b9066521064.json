@@ -5,8 +5,8 @@
   "description": "A compelling TCG universe where\nFantasy meets Science-fiction",
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-12-18T09:00:00.000Z",
-  "creationDate": "2024-12-17T09:02:36.293Z",
-  "lastModifiedDate": "2024-12-17T09:02:36.293Z",
+  "creationDate": "2024-08-28T07:15:51.831Z",
+  "lastModifiedDate": "2024-12-21T16:16:49.536Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -107,11 +107,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tcg-5d845a",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "tcg-faq-aff519",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "tcg-5d845a",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Cross The Ages",
   "publisherDisplayName": "Cross The Ages",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-18T09:00:00.000Z",
   "pcReleaseDate": "2023-03-29T08:00:00.000Z",

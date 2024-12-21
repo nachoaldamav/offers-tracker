@@ -98,7 +98,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "serial-cleaners",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "serial-cleaners--dino-park",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Draw Distance S.A. ",
   "publisherDisplayName": "505 Games",

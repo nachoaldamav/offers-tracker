@@ -150,8 +150,28 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sifu--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "sifu--deluxe-edition-upgrade",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "sifu",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "sifu",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Sloclap",
   "publisherDisplayName": "Sloclap",
   "price": null,
