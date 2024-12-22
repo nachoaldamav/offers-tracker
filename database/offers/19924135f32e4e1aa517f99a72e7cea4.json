@@ -98,11 +98,43 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "moonlighter--dlc",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "moonlighter",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Digital Sun Games",
   "publisherDisplayName": "11 Bit Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "65b3d5859fac47b6b124dcfd8320f5df"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2018-05-29T15:00:00.000Z",
   "pcReleaseDate": "2018-05-29T15:00:00.000Z",
