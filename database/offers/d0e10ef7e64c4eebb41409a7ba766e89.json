@@ -5,8 +5,8 @@
   "description": "Dive into the dynamic world of trading card games with 'TCG Card Shop Manager,' where your strategic decisions determine the success of your very own card shop. Experience the thrill of managing a bustling trading card store!",
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-11-28T06:00:00.000Z",
-  "creationDate": "2024-11-27T04:22:55.035Z",
-  "lastModifiedDate": "2024-12-20T18:51:28.708Z",
+  "creationDate": "2024-11-18T06:29:45.925Z",
+  "lastModifiedDate": "2024-12-23T14:05:07.636Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -68,10 +68,6 @@
       "name": "Simulation"
     },
     {
-      "id": "31313",
-      "name": "First Run"
-    },
-    {
       "id": "1370",
       "name": "Single Player"
     },
@@ -123,11 +119,40 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tcg-card-shop-manager-8372af",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "tcg-card-shop-manager-8372af",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "MagicproStudio",
   "publisherDisplayName": "MagicproStudio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-11-28T06:00:00.000Z",
   "pcReleaseDate": "2024-11-28T06:00:00.000Z",
