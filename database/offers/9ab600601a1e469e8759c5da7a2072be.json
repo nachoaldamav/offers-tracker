@@ -131,7 +131,38 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "mythforce-faq-3257f1",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "mythforce-playtest-39aba9",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "mythforce-axe-exp-1-fb29e8",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "mythforce-axe-daily-a0ef0f",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "mythforce-d2710b",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "mythforce-press-build-26a758",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "mythforce-mythforce-ptr-403a7b",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "mythforce-d2710b",
@@ -140,7 +171,24 @@
   ],
   "developerDisplayName": "Beamdog",
   "publisherDisplayName": "Beamdog",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-04-20T15:00:00.000Z",
   "pcReleaseDate": "2022-04-20T15:00:00.000Z",
