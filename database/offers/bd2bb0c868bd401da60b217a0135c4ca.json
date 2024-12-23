@@ -95,7 +95,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "starlight-x2-galactic-puzzles-dede7d",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "starlight-x2-galactic-puzzles-starlight-x2-galactic-puzzles-demo-066f42",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "starlight-x2-galactic-puzzles-dede7d",
@@ -104,7 +115,24 @@
   ],
   "developerDisplayName": "Frozax Games",
   "publisherDisplayName": "Frozax Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 699,
+      "originalPrice": 699,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-07T07:00:00.000Z",
   "pcReleaseDate": "2021-04-15T10:00:00.000Z",
