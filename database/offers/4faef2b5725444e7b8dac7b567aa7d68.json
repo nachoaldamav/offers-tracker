@@ -35,10 +35,7 @@
       "id": "1296",
       "name": "Casual"
     },
-    {
-      "id": "21894",
-      "name": "Cloud Saves"
-    },
+    null,
     {
       "id": "22776",
       "name": "Cross Platform"
@@ -51,10 +48,7 @@
       "id": "24570",
       "name": "Holiday Sale"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1116",
       "name": "Comedy"
@@ -62,10 +56,6 @@
     {
       "id": "1117",
       "name": "Adventure"
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support"
     }
   ],
   "items": [
@@ -119,7 +109,28 @@
   ],
   "developerDisplayName": "NLB project",
   "publisherDisplayName": "NLB project",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 59,
+      "originalPrice": 299,
+      "voucherDiscount": 0,
+      "discount": 240,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "44af424131414f34b84ebbfc97d76824"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-22T09:00:00.000Z",
   "pcReleaseDate": "2018-01-19T10:00:00.000Z",

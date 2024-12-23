@@ -31,14 +31,8 @@
   "urlSlug": "war-hospital",
   "url": null,
   "tags": [
-    {
-      "id": "1393",
-      "name": "Simulation"
-    },
-    {
-      "id": "19847",
-      "name": "Achievements"
-    },
+    null,
+    null,
     {
       "id": "1370",
       "name": "Single Player"
@@ -46,10 +40,6 @@
     {
       "id": "24570",
       "name": "Holiday Sale"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
     }
   ],
   "items": [
@@ -78,11 +68,55 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "war-hospital--digital-artbook",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "war-hospital--original-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "war-hospital--x-ray",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "war-hospital--supporter-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "war-hospital",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Brave Lamb",
   "publisherDisplayName": "Nacon",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 1500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "dd5cd40b71814b6fb640e97008f8efdf"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-11T09:00:00.000Z",
   "pcReleaseDate": "2024-01-11T09:00:00.000Z",
