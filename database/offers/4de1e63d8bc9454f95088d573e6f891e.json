@@ -91,11 +91,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "electro-magnate-6ac0b7",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "electro-magnate-demo-a4eb4a",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "electro-magnate-6ac0b7",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Station 437",
   "publisherDisplayName": "Station 437",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 399,
+      "voucherDiscount": 0,
+      "discount": 200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "3a393287805d473c89aaad0709ece2da"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-05-05T07:00:00.000Z",
   "pcReleaseDate": "2023-05-05T07:00:00.000Z",
