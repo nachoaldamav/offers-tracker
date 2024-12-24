@@ -91,14 +91,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "ungate-df09c8",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "ungate-df09c8",
@@ -107,7 +100,28 @@
   ],
   "developerDisplayName": "Varvara Andrei",
   "publisherDisplayName": "Vivorlds",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "2e2e8f8a321b4f88af7c86628a262e5d"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-05-11T21:00:00.000Z",
   "pcReleaseDate": "2023-05-11T21:00:00.000Z",
