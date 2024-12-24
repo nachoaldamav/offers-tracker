@@ -103,14 +103,7 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "blast-brigade",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "blast-brigade",
@@ -119,7 +112,28 @@
   ],
   "developerDisplayName": "Allods Team Acrade",
   "publisherDisplayName": "MY.GAMES",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 599,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "12ca5c68b9ca425b981b2d6364a58180"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-04-15T22:00:00.000Z",
   "pcReleaseDate": "2022-04-12T15:16:00.000Z",
