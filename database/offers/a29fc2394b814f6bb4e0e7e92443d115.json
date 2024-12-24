@@ -95,7 +95,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "brie-parmesan-mysteries-e65b5c",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "brie-parmesan-mysteries-faq-b6eba3",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "brie-parmesan-mysteries-e65b5c",
@@ -104,7 +115,24 @@
   ],
   "developerDisplayName": "Rat Pak Games",
   "publisherDisplayName": "Kibble Game Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-30T00:00:00.000Z",
   "pcReleaseDate": "2023-06-30T00:00:00.000Z",
