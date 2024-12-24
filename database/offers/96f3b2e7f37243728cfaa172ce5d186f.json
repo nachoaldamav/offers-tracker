@@ -103,8 +103,20 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "blast-brigade",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "blast-brigade",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Allods Team Acrade",
   "publisherDisplayName": "MY.GAMES",
   "price": null,
