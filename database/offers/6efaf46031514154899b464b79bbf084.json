@@ -134,11 +134,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "horizon-forbidden-west-complete-edition",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Guerrilla Games, Nixxes Software",
   "publisherDisplayName": "PlayStation Publishing LLC",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4019,
+      "originalPrice": 5999,
+      "voucherDiscount": 0,
+      "discount": 1980,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "a7412d2dc5a74aa2beed21d805f2d8c0"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-21T15:00:00.000Z",
   "pcReleaseDate": "2024-03-21T15:00:00.000Z",

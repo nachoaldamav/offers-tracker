@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "to-the-sky-824c42",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "to-the-sky-824c42",
@@ -100,7 +107,24 @@
   ],
   "developerDisplayName": "Domynyo SRL",
   "publisherDisplayName": "Domynyo SRL",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 599,
+      "originalPrice": 599,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-08-31T10:30:00.000Z",
   "pcReleaseDate": "2023-07-17T22:30:00.000Z",
