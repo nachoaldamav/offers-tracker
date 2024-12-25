@@ -155,10 +155,10 @@
   "publisherDisplayName": "505 Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 0,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2999,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -167,7 +167,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "23aeed9e74bc48dc8ea3bb832f1f44fd"
+          }
+        ]
       }
     ]
   },
