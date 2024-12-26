@@ -83,7 +83,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tiny-lands-527466",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "tiny-lands-527466",
@@ -92,7 +99,28 @@
   ],
   "developerDisplayName": "Hyper Three Studio S.L",
   "publisherDisplayName": "Hyper Three Studio S.L",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 209,
+      "originalPrice": 699,
+      "voucherDiscount": 0,
+      "discount": 490,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "1ca2fb9c53bc487daa523ce21f4af9ee"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-12-21T00:00:00.000Z",
   "pcReleaseDate": "2021-01-22T00:00:00.000Z",
