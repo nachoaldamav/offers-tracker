@@ -55,10 +55,7 @@
       "id": "9549",
       "name": "Controller Support"
     },
-    {
-      "id": "1310",
-      "name": "EARLY ACCESS"
-    },
+    null,
     {
       "id": "1151",
       "name": "Platformer"
@@ -103,18 +100,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "geojelly-a44cfe",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "geojelly-faq-7d467b",
-        "pageType": "info"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "geojelly-a44cfe",
@@ -123,7 +109,24 @@
   ],
   "developerDisplayName": "Source Byte",
   "publisherDisplayName": "Source Byte",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-07T18:00:00.000Z",
   "pcReleaseDate": "2023-06-07T18:00:00.000Z",
