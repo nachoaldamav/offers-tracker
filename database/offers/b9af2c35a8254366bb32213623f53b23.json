@@ -51,10 +51,7 @@
       "id": "24570",
       "name": "Holiday Sale"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1117",
       "name": "Adventure"
@@ -111,7 +108,28 @@
   ],
   "developerDisplayName": "BlackPixel Studio, Olydri Games",
   "publisherDisplayName": "Olydri Games, Microids",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1199,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 1800,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "0bc63518aabb4b3c972f696282e0f307"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-28T22:00:00.000Z",
   "pcReleaseDate": "2023-06-28T22:00:00.000Z",

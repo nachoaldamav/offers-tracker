@@ -51,10 +51,7 @@
       "id": "24570",
       "name": "Holiday Sale"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "9549",
       "name": "Controller Support"
@@ -111,7 +108,28 @@
   ],
   "developerDisplayName": "LoadUpGames.com",
   "publisherDisplayName": "LoadUpGames.com",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 79,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 20,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "fee2cd2e9f3741a98d988e6b24c57798"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-11T23:00:00.000Z",
   "pcReleaseDate": "2023-02-25T00:00:00.000Z",

@@ -51,10 +51,7 @@
       "id": "24570",
       "name": "Holiday Sale"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1212",
       "name": "Racing"
@@ -177,7 +174,28 @@
   "offerMappings": [],
   "developerDisplayName": "Visual Concepts",
   "publisherDisplayName": "2K",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1199,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 1800,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "da2edd010f7743398d52511384ac93d1"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-05-19T04:00:00.000Z",
   "pcReleaseDate": "2023-05-19T04:00:00.000Z",

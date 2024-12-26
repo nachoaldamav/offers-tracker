@@ -43,10 +43,7 @@
       "id": "24570",
       "name": "Holiday Sale"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1151",
       "name": "Platformer"
@@ -115,7 +112,28 @@
   ],
   "developerDisplayName": "Domesticated Ant Games",
   "publisherDisplayName": "PID Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 849,
+      "originalPrice": 1699,
+      "voucherDiscount": 0,
+      "discount": 850,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "c510a419682740b4bf36f1a5dcf2ae6a"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-07-13T18:00:00.000Z",
   "pcReleaseDate": "2023-07-13T18:00:00.000Z",

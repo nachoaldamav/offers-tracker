@@ -43,10 +43,7 @@
       "id": "24570",
       "name": "Holiday Sale"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1084",
       "name": "Stealth"
@@ -126,7 +123,28 @@
   "offerMappings": [],
   "developerDisplayName": "Daedalic Entertainment",
   "publisherDisplayName": "Daedalic Entertainment, Nacon",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 4000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "345aa2a0966f4ac8a65525bbde3465e2"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": false,
   "releaseDate": "2023-05-25T16:00:00.000Z",
   "pcReleaseDate": "2023-05-25T16:00:00.000Z",

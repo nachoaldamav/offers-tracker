@@ -55,10 +55,7 @@
       "id": "24570",
       "name": "Holiday Sale"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1263",
       "name": "Indie"
@@ -115,7 +112,28 @@
   ],
   "developerDisplayName": "JCP Games Studio",
   "publisherDisplayName": "JCP Games Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 249,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 750,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "81294d0fff2647fbb99756a094102790"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-05-29T11:00:00.000Z",
   "pcReleaseDate": "2022-03-24T18:00:00.000Z",

@@ -47,10 +47,7 @@
       "id": "24570",
       "name": "Holiday Sale"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "38237",
       "name": "Devolver Digital Publisher Sale"
@@ -111,7 +108,28 @@
   ],
   "developerDisplayName": "more8bit",
   "publisherDisplayName": "Devolver Digital",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "051ac27dc4894700bd879b05ca6d4bc6"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-08T17:00:00.000Z",
   "pcReleaseDate": "2023-06-08T17:00:00.000Z",

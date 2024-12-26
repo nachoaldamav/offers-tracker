@@ -54,10 +54,6 @@
     {
       "id": "24570",
       "name": "Holiday Sale"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
     }
   ],
   "items": [
@@ -111,7 +107,28 @@
   ],
   "developerDisplayName": "Indie Games Studio",
   "publisherDisplayName": "Indie Games Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 974,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 525,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "be1e076321b64bf39765d2f06a6dec22"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-05-09T17:00:00.000Z",
   "pcReleaseDate": "2020-12-20T03:00:00.000Z",
