@@ -103,11 +103,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "hanoi-puzzles-flip-match-fc5fbd",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "hanoi-puzzles-flip-match-fc5fbd",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Hanoi Studios",
   "publisherDisplayName": "Hanoi Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 239,
+      "originalPrice": 299,
+      "voucherDiscount": 0,
+      "discount": 60,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "c35f6bc27157444992e9887445b33265"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-20T14:00:00.000Z",
   "pcReleaseDate": "2021-10-15T13:30:00.000Z",

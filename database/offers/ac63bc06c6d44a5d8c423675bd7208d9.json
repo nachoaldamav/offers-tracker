@@ -82,11 +82,43 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "touch-type-tale--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "touch-type-tale",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Pumpernickel Studio",
   "publisherDisplayName": "Mythwright",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "6599fd04ebe6454fa628e00337fe223f"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-03-28T13:00:00.000Z",
   "pcReleaseDate": "2023-03-28T13:00:00.000Z",

@@ -75,11 +75,40 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "terror-of-hemasaurus-a08800",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "terror-of-hemasaurus-a08800",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Loren Lemcke",
   "publisherDisplayName": "Loren Lemcke",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1299,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-10-17T17:00:00.000Z",
   "pcReleaseDate": "2022-10-17T17:00:00.000Z",

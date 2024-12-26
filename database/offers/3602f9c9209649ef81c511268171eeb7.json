@@ -107,11 +107,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "night-run-51c60e",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "night-run-faq-57fff0",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "night-run-51c60e",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Thousand Ant",
   "publisherDisplayName": "Thousand Ant",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-24T15:00:00.000Z",
   "pcReleaseDate": "2023-10-24T15:00:00.000Z",

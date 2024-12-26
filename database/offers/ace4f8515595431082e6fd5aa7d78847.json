@@ -115,11 +115,59 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "chef-life-a-restaurant-simulator",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "chef-life-a-restaurant-simulator--al-forno-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "chef-life-a-restaurant-simulator--bon-appetit-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "chef-life-a-restaurant-simulator--al-forno-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "chef-life-a-restaurant-simulator--cooking-lab",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "chef-life-a-restaurant-simulator--tokyo-delight",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Cyanide Studio",
   "publisherDisplayName": "Nacon",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 899,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 2100,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "8da419621ae546c8aae8887338581d85"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-02-23T09:00:00.000Z",
   "pcReleaseDate": "2023-02-23T09:00:00.000Z",

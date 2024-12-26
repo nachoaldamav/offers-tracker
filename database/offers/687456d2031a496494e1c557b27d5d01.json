@@ -87,11 +87,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "dinosaurs-mision-dino-camp-acded6",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "dinosaurs-mision-dino-camp-acded6",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "actalogic",
   "publisherDisplayName": "Wild River Games GmbH",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 989,
+      "originalPrice": 1099,
+      "voucherDiscount": 0,
+      "discount": 110,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "34846c0fd6294947b1883189529950ae"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-11-01T23:00:00.000Z",
   "pcReleaseDate": "2023-11-01T23:00:00.000Z",

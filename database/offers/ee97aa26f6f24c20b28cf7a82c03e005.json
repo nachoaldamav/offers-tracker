@@ -103,7 +103,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "undead-horde-89d7d1",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "undead-horde-89d7d1",
@@ -112,7 +119,28 @@
   ],
   "developerDisplayName": "10tons Ltd",
   "publisherDisplayName": "10tons Ltd",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 679,
+      "originalPrice": 1699,
+      "voucherDiscount": 0,
+      "discount": 1020,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "7368efe2cdb042858d607a443f9c6dbf"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-11T10:00:00.000Z",
   "pcReleaseDate": "2019-05-14T23:00:00.000Z",

@@ -99,11 +99,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "kingsgrave-b84468",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "kingsgrave-b84468",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Egg or Chicken Games",
   "publisherDisplayName": "Alawar",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 549,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 450,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "5a58e4963f7842fe8440d04b8742149f"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-07-13T11:00:00.000Z",
   "pcReleaseDate": "2024-04-17T14:30:00.000Z",

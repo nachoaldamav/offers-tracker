@@ -99,11 +99,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ugly-da09b2",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "ugly-da09b2",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Team Ugly",
   "publisherDisplayName": "Graffiti Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 679,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1320,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "8aff8e71963a467cad8ab22cff542317"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-09-14T16:00:00.000Z",
   "pcReleaseDate": "2023-09-14T16:00:00.000Z",

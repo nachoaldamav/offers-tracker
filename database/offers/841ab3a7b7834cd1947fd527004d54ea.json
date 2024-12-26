@@ -83,11 +83,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "vernal-edge-fdfa3e",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "vernal-edge-fdfa3e",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Hello Penguin Team LLC",
   "publisherDisplayName": "Dear Villagers",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 679,
+      "originalPrice": 1699,
+      "voucherDiscount": 0,
+      "discount": 1020,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "b755905b03bb4a6ea1a19b30a3fe9b26"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-03-14T18:00:00.000Z",
   "pcReleaseDate": "2023-03-14T18:00:00.000Z",

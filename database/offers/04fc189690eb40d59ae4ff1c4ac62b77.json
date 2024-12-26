@@ -95,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tiny-troopers-joint-ops-195856",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "tiny-troopers-joint-ops-195856",
@@ -104,7 +111,28 @@
   ],
   "developerDisplayName": "Epiphany Games, Kukouri Mobile Entertainment",
   "publisherDisplayName": "Wired Productions",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 800,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "86076303fbb74e7e94cf43d2b907942a"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-03-23T01:00:00.000Z",
   "pcReleaseDate": "2023-03-23T01:00:00.000Z",

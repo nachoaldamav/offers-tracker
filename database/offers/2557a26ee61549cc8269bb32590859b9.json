@@ -119,7 +119,18 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "smalland",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "smalland--faq",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "smalland",
@@ -128,7 +139,28 @@
   ],
   "developerDisplayName": "Merge Games Ltd.",
   "publisherDisplayName": "Merge Games Ltd.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1224,
+      "originalPrice": 3499,
+      "voucherDiscount": 0,
+      "discount": 2275,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "cab268d3b87041aabd47ded1da685415"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-03-29T13:00:00.000Z",
   "pcReleaseDate": "2023-03-29T13:00:00.000Z",

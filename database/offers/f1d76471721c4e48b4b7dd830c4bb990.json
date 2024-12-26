@@ -95,11 +95,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "night-loops-aa3cc2",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "night-loops-aa3cc2",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Jiaquarium",
   "publisherDisplayName": "Freedom Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 669,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 330,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "17b1fa106f4d4497bc13420c5a1a1aec"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-16T16:00:00.000Z",
   "pcReleaseDate": "2023-10-16T16:00:00.000Z",

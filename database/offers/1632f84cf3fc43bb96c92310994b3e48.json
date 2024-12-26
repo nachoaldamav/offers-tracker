@@ -95,11 +95,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "frigato-shadows-of-the-caribbean-7bf7bf",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "frigato-shadows-of-the-caribbean-faq-f90856",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "frigato-shadows-of-the-caribbean-7bf7bf",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Mercat Games",
   "publisherDisplayName": "FreeMind",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 1199,
+      "voucherDiscount": 0,
+      "discount": 900,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "ba74178b18b4493db4b8c2573e4b947b"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-09-01T15:00:00.000Z",
   "pcReleaseDate": "2023-05-29T15:00:00.000Z",

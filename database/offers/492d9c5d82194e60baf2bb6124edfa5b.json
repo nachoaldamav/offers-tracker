@@ -126,7 +126,14 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "biped",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "biped",
@@ -135,7 +142,28 @@
   ],
   "developerDisplayName": "NEXT Studios",
   "publisherDisplayName": "META Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 404,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 1095,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "554f7063a5cc499daa4270fc2200d394"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-20T15:00:00.000Z",
   "pcReleaseDate": "2020-03-26T15:00:00.000Z",

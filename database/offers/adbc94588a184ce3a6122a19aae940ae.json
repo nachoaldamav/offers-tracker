@@ -178,11 +178,52 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "hades-ii",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "hades-ii-ost-da923c",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hades-ii-faq-25dbc1",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "hades-ii",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Supergiant Games",
   "publisherDisplayName": "Supergiant Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2699,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 300,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "3c5412ddcc4b4aa2bf219be25c7b5b3f"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-05-06T16:30:00.000Z",
   "pcReleaseDate": "2024-05-06T16:30:00.000Z",

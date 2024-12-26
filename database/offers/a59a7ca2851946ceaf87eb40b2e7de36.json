@@ -99,11 +99,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "touch-the-color-0f1d66",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "touch-the-color-0f1d66",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Dezeiraud Gaëtan",
   "publisherDisplayName": "Dezeiraud Gaëtan",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 49,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 50,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "c844eb072cac48c1a289e15e253a512a"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-07-15T06:17:12.699Z",
   "pcReleaseDate": "2023-01-19T23:00:00.000Z",

@@ -111,11 +111,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sea-of-dreams-32035a",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "sea-of-dreams-32035a",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Dezeiraud Games",
   "publisherDisplayName": "Dezeiraud Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 149,
+      "originalPrice": 299,
+      "voucherDiscount": 0,
+      "discount": 150,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "a6394faf3cf44365b3aa75afdd7a2cea"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-17T23:00:00.000Z",
   "pcReleaseDate": "2022-04-14T22:00:00.000Z",

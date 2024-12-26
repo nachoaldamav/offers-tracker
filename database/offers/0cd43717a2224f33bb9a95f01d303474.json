@@ -86,7 +86,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "never-alone-kisima-ingitchuna",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "never-alone-kisima-ingitchuna--foxtales",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "E-Line Media",
   "publisherDisplayName": "E-Line Media",
