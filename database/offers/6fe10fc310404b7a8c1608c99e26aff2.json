@@ -31,7 +31,10 @@
   "urlSlug": "6401a3ee50fa4a7cb336c6c33ace103f",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1336",
+      "name": "Action-Adventure"
+    },
     {
       "id": "1210",
       "name": "Shooter"
@@ -44,10 +47,17 @@
       "id": "24570",
       "name": "Holiday Sale"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1294",
       "name": "First Person"
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS"
     }
   ],
   "items": [
@@ -85,18 +95,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "everlasting-guilt-faq-4e0fbd",
-        "pageType": "info"
-      },
-      {
-        "pageSlug": "everlasting-guilt-213534",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "everlasting-guilt-213534",
@@ -105,28 +104,7 @@
   ],
   "developerDisplayName": "Geeky Mouse",
   "publisherDisplayName": "Geeky Mouse",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 499,
-      "originalPrice": 999,
-      "voucherDiscount": 0,
-      "discount": 500,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "0582080d89494264a5ef62ce5e3ef0df"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-07-01T10:00:00.000Z",
   "pcReleaseDate": "2021-07-11T23:00:00.000Z",
