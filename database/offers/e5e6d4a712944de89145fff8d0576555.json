@@ -83,7 +83,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "blue-fire-9c1dac",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "blue-fire-9c1dac",
@@ -92,28 +99,7 @@
   ],
   "developerDisplayName": "Robi Studios",
   "publisherDisplayName": "Graffiti Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 499,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 1500,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "b66d74832f3d41bca98e1d2bb8587b36"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2022-03-24T07:00:00.000Z",
   "pcReleaseDate": "2021-02-04T00:00:00.000Z",
