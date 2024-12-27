@@ -281,7 +281,28 @@
   "offerMappings": [],
   "developerDisplayName": "MassHive Media",
   "publisherDisplayName": "PQube",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "bf6c96a3e78346399e171931e79dc16e"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-09-22T20:00:00.000Z",
   "pcReleaseDate": "2022-09-22T20:00:00.000Z",
