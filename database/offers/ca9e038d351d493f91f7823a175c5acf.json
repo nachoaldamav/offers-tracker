@@ -102,7 +102,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "beyond-two-souls--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "beyond-two-souls",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
