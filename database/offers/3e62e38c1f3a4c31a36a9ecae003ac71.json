@@ -87,7 +87,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "100-doors-escape-from-prison-1e0ba3",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "100-doors-escape-from-prison-1e0ba3",
@@ -96,7 +103,28 @@
   ],
   "developerDisplayName": "Peaksel",
   "publisherDisplayName": "Peaksel",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "21ce059480b04842a64cdfece92f23d1"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-07-28T07:00:00.000Z",
   "pcReleaseDate": "2022-06-15T07:00:00.000Z",
