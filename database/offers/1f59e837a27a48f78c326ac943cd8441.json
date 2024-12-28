@@ -146,32 +146,26 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": null,
-  "publisherDisplayName": null,
-  "price": {
-    "totalPrice": {
-      "discountPrice": 799,
-      "originalPrice": 3999,
-      "voucherDiscount": 0,
-      "discount": 3200,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": [
-          {
-            "id": "2bf79ae5f38546da89c781b72d76fffb"
-          }
-        ]
+        "pageSlug": "ancestors--soundtrack-bundle",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ancestors--soundtrack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ancestors",
+        "pageType": "productHome"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2019-08-27T15:00:00.000Z",
   "pcReleaseDate": null,
