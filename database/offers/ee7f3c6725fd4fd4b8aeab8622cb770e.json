@@ -142,11 +142,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "shadow-of-the-tomb-raider",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Square Enix",
   "publisherDisplayName": "Crystal Dynamics",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 799,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 3200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "1d4cbbaae1e84f1f9427494f9e204697"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-12-30T16:00:00.000Z",
   "pcReleaseDate": "2018-09-14T16:00:00.000Z",
