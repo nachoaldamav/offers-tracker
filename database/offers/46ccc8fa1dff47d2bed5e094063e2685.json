@@ -99,7 +99,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "puzzle-agent-b7556e",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "puzzle-agent-b7556e",
@@ -108,7 +115,28 @@
   ],
   "developerDisplayName": "Telltale",
   "publisherDisplayName": "Telltale",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 249,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 250,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "d0dcc74b89064778b5f627f271b9b758"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-04-25T11:00:00.000Z",
   "pcReleaseDate": "2010-06-29T23:00:00.000Z",
