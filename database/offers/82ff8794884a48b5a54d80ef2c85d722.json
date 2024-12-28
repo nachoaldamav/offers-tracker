@@ -95,14 +95,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "brick-breaker-premium-3-2ae7ce",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "brick-breaker-premium-3-2ae7ce",
@@ -111,7 +104,28 @@
   ],
   "developerDisplayName": "LoadUpGames.com",
   "publisherDisplayName": "LoadUpGames.com",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 79,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 20,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "75dfaadd79c24e089ab488519de51cbe"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-16T23:00:00.000Z",
   "pcReleaseDate": "2018-06-22T23:00:00.000Z",
