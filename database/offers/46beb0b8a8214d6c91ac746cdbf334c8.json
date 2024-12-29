@@ -95,7 +95,70 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ark--explorers-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ark--extinction",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ark--modkit",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ark--aberration",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ark--valguero",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ark--scorched-earth",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ark",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "ark--lost-island",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ark--genesis-season-pass",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ark--the-center",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ark--ultimate-survivor-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ark--ragnarok",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ark--crystal-isles",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ark--season-pass",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ark--fjordur",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "ark--ultimate-survivor-edition",
@@ -104,7 +167,24 @@
   ],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3499,
+      "originalPrice": 3499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-05-27T17:00:00.000Z",
   "pcReleaseDate": "2021-05-27T17:00:00.000Z",
