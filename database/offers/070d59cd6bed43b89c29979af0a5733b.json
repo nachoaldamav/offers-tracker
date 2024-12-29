@@ -31,7 +31,10 @@
   "urlSlug": "0c680e8c11f5440c835dc2816fc2723c",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1218",
+      "name": "Horror"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -76,7 +79,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "it-follows-you-b11f3e",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "it-follows-you-b11f3e",
@@ -85,7 +95,24 @@
   ],
   "developerDisplayName": "Boom Games",
   "publisherDisplayName": "Boom Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 199,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-01-14T00:00:00.000Z",
   "pcReleaseDate": "2022-01-14T00:00:00.000Z",
