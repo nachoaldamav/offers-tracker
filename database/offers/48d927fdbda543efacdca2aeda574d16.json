@@ -31,7 +31,10 @@
   "urlSlug": "7a71a272070a4fae9fd988732cdd57e6",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
     {
       "id": "21894",
       "name": "Cloud Saves"
@@ -44,11 +47,21 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
     {
       "id": "10719",
       "name": "Mac OS"
+    },
+    {
+      "id": "1263",
+      "name": "Indie"
     }
   ],
   "items": [
@@ -86,7 +99,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "poosh-xl-c580f2",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "poosh-xl-c580f2",
@@ -95,7 +115,24 @@
   ],
   "developerDisplayName": "Adamvision Studios",
   "publisherDisplayName": "Adamvision Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-05-08T17:00:00.000Z",
   "pcReleaseDate": "2023-05-08T17:00:00.000Z",

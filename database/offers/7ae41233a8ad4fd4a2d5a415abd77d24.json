@@ -47,8 +47,14 @@
       "id": "24570",
       "name": "Holiday Sale"
     },
-    null,
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
     {
       "id": "1294",
       "name": "First Person"
@@ -105,7 +111,28 @@
   ],
   "developerDisplayName": "Frictional Games",
   "publisherDisplayName": "Frictional Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 1500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "fbe55bf8c5c24732a170ade1c1af4dd9"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-06T07:00:00.000Z",
   "pcReleaseDate": "2023-06-06T07:00:00.000Z",

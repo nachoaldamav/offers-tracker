@@ -43,11 +43,21 @@
       "id": "24570",
       "name": "Holiday Sale"
     },
-    null,
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
     {
       "id": "1198",
       "name": "Retro"
+    },
+    {
+      "id": "1263",
+      "name": "Indie"
     }
   ],
   "items": [
@@ -101,7 +111,28 @@
   ],
   "developerDisplayName": "LoadUpGames.com",
   "publisherDisplayName": "LoadUpGames.com",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 79,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 20,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "16170c90d44b48fbb89e7ec281bc91c6"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-03T22:00:00.000Z",
   "pcReleaseDate": "2019-06-21T23:00:00.000Z",

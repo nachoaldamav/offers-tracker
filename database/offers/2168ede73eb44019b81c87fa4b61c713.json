@@ -47,7 +47,10 @@
   "urlSlug": "94aa26b0411848f790e780ededbcef2b",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1395",
+      "name": "Narration"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -56,10 +59,17 @@
       "id": "24570",
       "name": "Holiday Sale"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1117",
       "name": "Adventure"
+    },
+    {
+      "id": "1263",
+      "name": "Indie"
     }
   ],
   "items": [
@@ -113,7 +123,28 @@
   ],
   "developerDisplayName": "La Poule Noire - ARTE France",
   "publisherDisplayName": "ARTE France",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "cc3eaedf071543ab8c778b2eb83f5473"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-05T11:00:00.000Z",
   "pcReleaseDate": "2023-05-30T11:00:00.000Z",

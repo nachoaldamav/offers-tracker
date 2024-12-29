@@ -35,7 +35,10 @@
   "urlSlug": "miasma-chronicles",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
     {
       "id": "21109",
       "name": "Great Boss Battles"
@@ -56,7 +59,10 @@
       "id": "1115",
       "name": "Strategy"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1117",
       "name": "Adventure"
@@ -88,11 +94,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "miasma-chronicles",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "The Bearded Ladies",
   "publisherDisplayName": "505 Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1924,
+      "originalPrice": 3499,
+      "voucherDiscount": 0,
+      "discount": 1575,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "bdee969ee2c94cfcb2059a6c8b5e35ea"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-05-23T15:00:00.000Z",
   "pcReleaseDate": "2023-05-23T15:00:00.000Z",
