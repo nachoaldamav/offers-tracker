@@ -51,12 +51,18 @@
       "id": "22776",
       "name": "Cross Platform"
     },
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
     {
       "id": "24570",
       "name": "Holiday Sale"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1117",
       "name": "Adventure"
@@ -92,7 +98,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "lego-horizon-adventures--digital-deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "lego-horizon-adventures--dde-upgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "lego-horizon-adventures",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Guerrilla / Studio Gobo",
   "publisherDisplayName": "PlayStation",
