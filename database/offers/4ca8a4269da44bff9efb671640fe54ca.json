@@ -31,10 +31,7 @@
   "urlSlug": "85637739082d4689ac4c0f61746dec83",
   "url": null,
   "tags": [
-    {
-      "id": "1216",
-      "name": "Action"
-    },
+    null,
     {
       "id": "1299",
       "name": "Competitive"
@@ -42,10 +39,6 @@
     {
       "id": "1203",
       "name": "Multiplayer"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
     }
   ],
   "items": [
@@ -83,7 +76,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "bugby-c6bc9c",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "bugby-c6bc9c",
@@ -92,7 +92,24 @@
   ],
   "developerDisplayName": "Whimsical Violence",
   "publisherDisplayName": "Whimsical Violence",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-03T22:00:00.000Z",
   "pcReleaseDate": "2023-06-03T22:00:00.000Z",

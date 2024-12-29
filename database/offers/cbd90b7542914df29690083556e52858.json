@@ -39,14 +39,8 @@
       "id": "24570",
       "name": "Holiday Sale"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support"
-    },
+    null,
+    null,
     {
       "id": "1198",
       "name": "Retro"
@@ -54,10 +48,6 @@
     {
       "id": "1151",
       "name": "Platformer"
-    },
-    {
-      "id": "1263",
-      "name": "Indie"
     }
   ],
   "items": [
@@ -111,7 +101,28 @@
   ],
   "developerDisplayName": "Graphite Lab",
   "publisherDisplayName": "Atari",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1749,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 750,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "2d9b197d56a24e3dbe493390fbf19331"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-07-25T07:00:00.000Z",
   "pcReleaseDate": "2023-07-25T07:00:00.000Z",

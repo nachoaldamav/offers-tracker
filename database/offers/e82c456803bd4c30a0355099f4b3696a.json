@@ -54,10 +54,6 @@
     {
       "id": "24570",
       "name": "Holiday Sale"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
     }
   ],
   "items": [
@@ -111,7 +107,28 @@
   ],
   "developerDisplayName": "WASD Games",
   "publisherDisplayName": "WASD Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 674,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 825,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "c894194e04fa4a1b882567cf1782fbb4"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-15T17:00:00.000Z",
   "pcReleaseDate": "2022-02-24T18:00:00.000Z",

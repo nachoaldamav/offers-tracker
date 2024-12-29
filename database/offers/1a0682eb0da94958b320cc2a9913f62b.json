@@ -50,10 +50,6 @@
     {
       "id": "1370",
       "name": "Single Player"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
     }
   ],
   "items": [
@@ -86,7 +82,14 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "steelseries-gg",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "SteelSeries",
   "publisherDisplayName": "SteelSeries",
