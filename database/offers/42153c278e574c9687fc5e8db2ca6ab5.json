@@ -58,18 +58,6 @@
     {
       "id": "1370",
       "name": "Single Player"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
-    {
-      "id": "1263",
-      "name": "Indie"
-    },
-    {
-      "id": "10719",
-      "name": "Mac OS"
     }
   ],
   "items": [
@@ -102,7 +90,14 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "coffee-talk",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

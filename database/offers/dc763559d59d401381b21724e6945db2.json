@@ -51,10 +51,7 @@
       "id": "21129",
       "name": "Challenging Combat"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1264",
       "name": "Co-op"
@@ -138,7 +135,26 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "rainbow-six-extraction",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "rainbow-six-extraction--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "rainbow-six-extraction--react-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "rainbow-six-extraction--demo",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Ubisoft",
   "publisherDisplayName": "Ubisoft",

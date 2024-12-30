@@ -58,10 +58,6 @@
     {
       "id": "21147",
       "name": "Inclusive Character Customization"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
     }
   ],
   "items": [
@@ -110,7 +106,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "expeditions-rome--official-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "expeditions-rome--death-or-glory",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "expeditions-rome",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "expeditions-rome",
