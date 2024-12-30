@@ -51,7 +51,10 @@
       "id": "24570",
       "name": "Holiday Sale"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1117",
       "name": "Adventure"
@@ -115,7 +118,14 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tales-of-kenzera",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "tales-of-kenzera",
@@ -124,28 +134,7 @@
   ],
   "developerDisplayName": "Surgent Studios",
   "publisherDisplayName": "Electronic Arts",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 999,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 1000,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "3e8644efe8a0432ab973a5cb42e56bc2"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2024-04-23T16:00:00.000Z",
   "pcReleaseDate": "2024-04-23T16:00:00.000Z",

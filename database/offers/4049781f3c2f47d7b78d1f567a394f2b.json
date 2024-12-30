@@ -50,6 +50,14 @@
     {
       "id": "1210",
       "name": "Shooter"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS"
     }
   ],
   "items": [
@@ -87,8 +95,28 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "bunkerzone-f0914b",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "bunkerzone-faq-27d3f9",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "bunkerzone-standard-pack-9e7715",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "bunkerzone-f0914b",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "forplayers.studio",
   "publisherDisplayName": "forplayers.studio",
   "price": null,

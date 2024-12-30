@@ -43,7 +43,10 @@
       "id": "1299",
       "name": "Competitive"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1307",
       "name": "Open World"
@@ -92,8 +95,24 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "awaken-257d0f",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "awaken-faq-bf1e25",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "awaken-257d0f",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Polrare Labs",
   "publisherDisplayName": "Polrare Labs",
   "price": null,

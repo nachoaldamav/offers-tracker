@@ -43,7 +43,10 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1151",
       "name": "Platformer"
@@ -88,8 +91,28 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "mazemerizzz-mazemerizzz-demo-9da755",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "mazemerizzz-0ce0c3",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "mazemerizzz-faq-a676ac",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "mazemerizzz-0ce0c3",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Patrick Collins",
   "publisherDisplayName": "Patrick Collins",
   "price": null,

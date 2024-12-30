@@ -47,7 +47,14 @@
       "id": "1307",
       "name": "Open World"
     },
-    null
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS"
+    }
   ],
   "items": [
     {
@@ -84,8 +91,24 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "island-paradise-6a6d26",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "island-paradise-faq-b98f94",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "island-paradise-6a6d26",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "GSG",
   "publisherDisplayName": "GSG",
   "price": null,

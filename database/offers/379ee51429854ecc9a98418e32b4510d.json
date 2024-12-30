@@ -35,7 +35,10 @@
       "id": "1298",
       "name": "Puzzle"
     },
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -48,7 +51,14 @@
       "id": "24570",
       "name": "Holiday Sale"
     },
-    null
+    {
+      "id": "1115",
+      "name": "Strategy"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
   ],
   "items": [
     {
@@ -81,8 +91,19 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-howl-ee6924",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-howl-howl-demo-c6485e",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Mi'pu'mi Games",
   "publisherDisplayName": "Astragon Entertainment GmbH",
   "price": null,

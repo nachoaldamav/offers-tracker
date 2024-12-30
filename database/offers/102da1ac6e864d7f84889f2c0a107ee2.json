@@ -43,13 +43,22 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
+    {
+      "id": "1115",
+      "name": "Strategy"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1117",
       "name": "Adventure"
     },
-    null,
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS"
+    },
     {
       "id": "1263",
       "name": "Indie"
@@ -90,7 +99,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "oddsparks-faq-0d6527",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "oddsparks-58440c",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "oddsparks-58440c",
@@ -99,28 +119,7 @@
   ],
   "developerDisplayName": "Massive Miniteam",
   "publisherDisplayName": "HandyGames",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 2249,
-      "originalPrice": 2999,
-      "voucherDiscount": 0,
-      "discount": 750,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "96e528a9d8d0457ba7661f3935dcbd10"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2024-04-24T13:00:00.000Z",
   "pcReleaseDate": "2024-04-24T13:00:00.000Z",

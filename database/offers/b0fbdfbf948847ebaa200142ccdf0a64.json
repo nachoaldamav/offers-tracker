@@ -39,7 +39,10 @@
       "id": "21894",
       "name": "Cloud Saves"
     },
-    null,
+    {
+      "id": "1336",
+      "name": "Action-Adventure"
+    },
     {
       "id": "1080",
       "name": "Survival"
@@ -48,12 +51,18 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "9549",
       "name": "Controller Support"
     },
-    null
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS"
+    }
   ],
   "items": [
     {
@@ -90,8 +99,24 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "duration-faq-a9ae0a",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "duration-6d767d",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "duration-6d767d",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Gopinath Ganapathy Sundar",
   "publisherDisplayName": "Gopic Studio",
   "price": null,

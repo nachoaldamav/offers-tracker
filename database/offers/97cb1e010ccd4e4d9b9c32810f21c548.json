@@ -43,7 +43,10 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1294",
       "name": "First Person"
@@ -84,8 +87,24 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "image-747287",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "image-image-demo-e43aa7",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "image-747287",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Galactic Games",
   "publisherDisplayName": "Galactic Games",
   "price": null,

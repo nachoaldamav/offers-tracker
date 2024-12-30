@@ -43,7 +43,10 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1117",
       "name": "Adventure"
@@ -88,8 +91,24 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "spiderbro-2-8d3665",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "spiderbro-2-spiderbro-2-demo-1ab28a",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "spiderbro-2-8d3665",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Studio Pond",
   "publisherDisplayName": "Studio Pond",
   "price": null,

@@ -79,12 +79,18 @@
   "urlSlug": "ultros-general-audience-02",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "24570",
       "name": "Holiday Sale"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1117",
       "name": "Adventure"
@@ -152,8 +158,28 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ultros",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "ultros--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ultros--artbook-and-soundtrack",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "ultros",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Hadoque",
   "publisherDisplayName": "Kepler Interactive",
   "price": null,

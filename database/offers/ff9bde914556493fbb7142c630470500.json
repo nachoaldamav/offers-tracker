@@ -39,7 +39,10 @@
       "id": "1393",
       "name": "Simulation"
     },
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -48,7 +51,10 @@
       "id": "1083",
       "name": "Rogue-Lite"
     },
-    null
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
   ],
   "items": [
     {
@@ -89,7 +95,18 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "backrooms-break-6557d2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "backrooms-break-no-artifact-just-for-coming-soon-page-estimated-cf2b44",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "backrooms-break-6557d2",
@@ -98,24 +115,7 @@
   ],
   "developerDisplayName": "Jan Jileček",
   "publisherDisplayName": "Jan Jileček",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 899,
-      "originalPrice": 899,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2024-05-03T11:00:00.000Z",
   "pcReleaseDate": "2024-05-03T11:00:00.000Z",

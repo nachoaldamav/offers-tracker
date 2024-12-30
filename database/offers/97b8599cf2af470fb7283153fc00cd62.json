@@ -47,7 +47,10 @@
       "id": "21894",
       "name": "Cloud Saves"
     },
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1080",
       "name": "Survival"
@@ -60,8 +63,14 @@
       "id": "24570",
       "name": "Holiday Sale"
     },
-    null,
-    null
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "1115",
+      "name": "Strategy"
+    }
   ],
   "items": [
     {
@@ -98,7 +107,22 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "barotrauma-barotrauma-supporter-pack-68712d",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "barotrauma-barotrauma-supporter-bundle-849e01",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "barotrauma-ceddeb",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "barotrauma-ceddeb",
@@ -107,28 +131,7 @@
   ],
   "developerDisplayName": "FakeFish, Undertow Games",
   "publisherDisplayName": "Daedalic Entertainment",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1749,
-      "originalPrice": 3499,
-      "voucherDiscount": 0,
-      "discount": 1750,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "1ffe3272dd7144deb7bb74024a7cc188"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2024-03-28T16:00:00.000Z",
   "pcReleaseDate": "2023-03-13T18:00:00.000Z",

@@ -39,12 +39,18 @@
       "id": "21894",
       "name": "Cloud Saves"
     },
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1116",
       "name": "Comedy"
@@ -89,8 +95,28 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "title_pending-original-soundtrack-8192f0",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "title_pending-2d8df9",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "title_pending-demo-9e9e84",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "title_pending-2d8df9",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "DEVBEEF",
   "publisherDisplayName": "DEVBEEF",
   "price": null,

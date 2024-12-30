@@ -51,10 +51,17 @@
       "id": "1210",
       "name": "Shooter"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "21739",
       "name": "NFT BLOCKCHAIN"
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS"
     }
   ],
   "items": [
@@ -96,8 +103,24 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "red-chaos-b0367a",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "red-chaos-faq-8bcf3d",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "red-chaos-b0367a",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "New Brand Holdings Game Studio",
   "publisherDisplayName": "New Brand Holdings Game Studio",
   "price": null,

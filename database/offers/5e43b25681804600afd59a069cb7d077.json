@@ -47,8 +47,14 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS"
+    },
     {
       "id": "1183",
       "name": "Local Multiplayer"
@@ -89,8 +95,24 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "minigolf-blast-5a5528",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "minigolf-blast-faq-2a8aff",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "minigolf-blast-5a5528",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Kevin Ryan",
   "publisherDisplayName": "Top Meadow Inc",
   "price": null,

@@ -31,8 +31,14 @@
   "urlSlug": "3dcfd6f9fcb6443ab00c5ecf7bf8db4b",
   "url": null,
   "tags": [
-    null,
-    null,
+    {
+      "id": "1367",
+      "name": "RPG"
+    },
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -41,8 +47,10 @@
       "id": "24570",
       "name": "Holiday Sale"
     },
-    null,
-    null
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
   ],
   "items": [
     {
@@ -79,11 +87,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "island-idle-rpg-350c2e",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "island-idle-rpg-350c2e",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Overaction Game Studio",
   "publisherDisplayName": "Overaction Game Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 179,
+      "originalPrice": 299,
+      "voucherDiscount": 0,
+      "discount": 120,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "eae58b3523754cb786127d8e8be040f2"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-02-07T17:00:00.000Z",
   "pcReleaseDate": "2022-06-27T09:30:00.000Z",

@@ -111,7 +111,10 @@
   "urlSlug": "9b02b566adec4ef8ae608f24c245bdbd",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1367",
+      "name": "RPG"
+    },
     {
       "id": "1210",
       "name": "Shooter"
@@ -120,7 +123,10 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "9549",
       "name": "Controller Support"
@@ -169,7 +175,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "space-outpost-silicon-one-e41922",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "space-outpost-silicon-one-faq-980acf",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "space-outpost-silicon-one-e41922",
@@ -178,24 +195,7 @@
   ],
   "developerDisplayName": "SiliconZero",
   "publisherDisplayName": "SiliconZero",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1199,
-      "originalPrice": 1199,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2024-05-01T15:00:00.000Z",
   "pcReleaseDate": "2024-05-01T15:00:00.000Z",

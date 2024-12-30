@@ -43,10 +43,17 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "21739",
       "name": "NFT BLOCKCHAIN"
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS"
     }
   ],
   "items": [
@@ -84,8 +91,24 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-evolving-forest-b4a1bb",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-evolving-forest-faq-19f806",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "the-evolving-forest-b4a1bb",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Humble Sage Games",
   "publisherDisplayName": "Raini Studios",
   "price": null,

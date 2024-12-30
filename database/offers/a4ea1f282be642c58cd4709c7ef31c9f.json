@@ -31,12 +31,18 @@
   "urlSlug": "d69ce551ac5a45db9b081ae878bf37e7",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1336",
+      "name": "Action-Adventure"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1294",
       "name": "First Person"
@@ -85,7 +91,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "cube-step-cube-step-demo-cd6e8f",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "cube-step-78cbc6",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "cube-step-78cbc6",
@@ -94,24 +111,7 @@
   ],
   "developerDisplayName": "Caelan Reid",
   "publisherDisplayName": "Iterated Dream",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 399,
-      "originalPrice": 399,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2024-04-25T05:00:00.000Z",
   "pcReleaseDate": "2024-04-25T05:00:00.000Z",

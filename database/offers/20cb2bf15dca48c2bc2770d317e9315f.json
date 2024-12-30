@@ -51,7 +51,10 @@
       "id": "1083",
       "name": "Rogue-Lite"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1116",
       "name": "Comedy"
@@ -104,8 +107,24 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "inkulinati-b60b1c",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "inkulinati-inkulinati-supporter-pack-38efb7",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "inkulinati-b60b1c",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Yaza Games",
   "publisherDisplayName": "Daedalic Entertainment",
   "price": null,

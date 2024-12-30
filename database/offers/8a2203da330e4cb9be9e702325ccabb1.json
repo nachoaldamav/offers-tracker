@@ -39,7 +39,10 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1263",
       "name": "Indie"
@@ -80,8 +83,24 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "pinbot-ad038d",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "pinbot-pinbot-demo-dd1aaf",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "pinbot-ad038d",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "sante76",
   "publisherDisplayName": "sante76",
   "price": null,

@@ -43,7 +43,10 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1117",
       "name": "Adventure"
@@ -96,7 +99,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "heavy-burden-e689c4",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "heavy-burden-e689c4",
@@ -105,28 +115,7 @@
   ],
   "developerDisplayName": "Whale Rock Games",
   "publisherDisplayName": "Whale Rock Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 69,
-      "originalPrice": 999,
-      "voucherDiscount": 0,
-      "discount": 930,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "58558e690b1b41ae92c130871961609d"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2024-04-07T09:00:00.000Z",
   "pcReleaseDate": "2023-09-11T07:00:00.000Z",

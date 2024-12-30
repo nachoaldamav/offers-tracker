@@ -43,7 +43,10 @@
       "id": "21894",
       "name": "Cloud Saves"
     },
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1080",
       "name": "Survival"
@@ -56,7 +59,10 @@
       "id": "24570",
       "name": "Holiday Sale"
     },
-    null
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
   ],
   "items": [
     {
@@ -93,7 +99,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "pandemic-train-9aa653",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "pandemic-train-9aa653",
@@ -102,28 +115,7 @@
   ],
   "developerDisplayName": "Trigger Labs",
   "publisherDisplayName": "IMGN.PRO",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1019,
-      "originalPrice": 1699,
-      "voucherDiscount": 0,
-      "discount": 680,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "0d73b4d7ffcf4e98b77693acfb08350b"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2024-04-05T21:36:26.933Z",
   "pcReleaseDate": "2023-10-18T04:00:00.000Z",

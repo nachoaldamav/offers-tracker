@@ -58,6 +58,10 @@
     {
       "id": "21739",
       "name": "NFT BLOCKCHAIN"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
     }
   ],
   "items": [
@@ -95,8 +99,24 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-harvest-dc1141",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-harvest-faq-b4f518",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "the-harvest-dc1141",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Falco",
   "publisherDisplayName": "Falco",
   "price": null,
