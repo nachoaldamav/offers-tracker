@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-10-28T05:00:00.000Z",
   "creationDate": "2024-08-08T14:10:21.151Z",
-  "lastModifiedDate": "2024-12-10T14:46:39.828Z",
+  "lastModifiedDate": "2024-12-30T16:21:14.266Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -20,6 +20,30 @@
     {
       "type": "Thumbnail",
       "url": "https://cdn1.epicgames.com/spt-assets/209ca5742a33434da5d0d1e861db37e4/breakingpointoperationexodus-1n2m9.png"
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://13276b9c-dfa9-4ff8-ad48-717508c4291e?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F209ca5742a33434da5d0d1e861db37e4%2Fbreakingpointoperationexodus-video-dfove.png"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/209ca5742a33434da5d0d1e861db37e4/breakingpointoperationexodus-f5kzl.png"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/209ca5742a33434da5d0d1e861db37e4/breakingpointoperationexodus-1chvj.png"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/209ca5742a33434da5d0d1e861db37e4/breakingpointoperationexodus-1c6ya.png"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/209ca5742a33434da5d0d1e861db37e4/breakingpointoperationexodus-1org0.png"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/209ca5742a33434da5d0d1e861db37e4/breakingpointoperationexodus-p5of7.png"
     }
   ],
   "currentPrice": 499,
@@ -83,11 +107,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "breakingpointoperationexodus-f3d34b",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "breakingpointoperationexodus-f3d34b",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Aurora Abyss",
   "publisherDisplayName": "Alwaysprettystore LLC",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-10-28T05:00:00.000Z",
   "pcReleaseDate": "2024-10-28T05:00:00.000Z",

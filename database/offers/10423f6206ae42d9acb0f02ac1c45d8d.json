@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-12-04T17:00:00.000Z",
   "creationDate": "2020-09-22T12:29:31.750Z",
-  "lastModifiedDate": "2024-12-06T15:21:37.380Z",
+  "lastModifiedDate": "2024-12-30T16:10:05.496Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,10 +58,6 @@
     {
       "id": "1287",
       "name": "Fantasy"
-    },
-    {
-      "id": "39913",
-      "name": "Square Enix Holiday Sale"
     },
     {
       "id": "21138",
@@ -134,11 +130,35 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "dragon-quest-xi-s-echoes-of-an-elusive-age",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": false,
   "releaseDate": "2020-09-24T09:00:00.000Z",
   "pcReleaseDate": "2020-12-04T17:00:00.000Z",

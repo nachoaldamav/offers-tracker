@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-03-30T13:00:00.000Z",
   "creationDate": "2020-07-02T12:15:27.539Z",
-  "lastModifiedDate": "2024-12-06T15:21:37.381Z",
+  "lastModifiedDate": "2024-12-30T16:10:05.496Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,10 +58,6 @@
     {
       "id": "21127",
       "name": "Creative Community"
-    },
-    {
-      "id": "39913",
-      "name": "Square Enix Holiday Sale"
     },
     {
       "id": "9547",
@@ -150,7 +146,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "kingdom-hearts-iii",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "kingdom-hearts-iii--disneyplus-offer-faq",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

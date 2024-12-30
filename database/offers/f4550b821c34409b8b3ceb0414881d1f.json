@@ -83,7 +83,26 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "boti-byteland-overclocked-3a40c3",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "boti-byteland-overclocked-boti-byteland-overclocked-hidden-giftware-dlc-d36e94",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "boti-byteland-overclocked-boti-byteland-overclocked-dino-skin-0c285e",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "boti-byteland-overclocked-boti-byteland-overclocked-click-or-treat-dlc-be4b0c",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "boti-byteland-overclocked-3a40c3",
@@ -92,7 +111,24 @@
   ],
   "developerDisplayName": "Purple Ray Studio",
   "publisherDisplayName": "Purple Ray Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-05-17T10:00:00.000Z",
   "pcReleaseDate": "2023-09-14T22:00:00.000Z",

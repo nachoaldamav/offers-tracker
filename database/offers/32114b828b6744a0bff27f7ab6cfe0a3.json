@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-04-15T16:00:00.000Z",
   "creationDate": "2021-03-30T22:16:22.940Z",
-  "lastModifiedDate": "2024-12-06T15:21:37.381Z",
+  "lastModifiedDate": "2024-12-30T16:10:05.497Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,10 +58,6 @@
     {
       "id": "21129",
       "name": "Challenging Combat"
-    },
-    {
-      "id": "39913",
-      "name": "Square Enix Holiday Sale"
     },
     {
       "id": "9547",
@@ -146,7 +142,26 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "outriders--hells-rangers",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "outriders",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "outriders--worldslayer-upgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "outriders--complete-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "People Can Fly",
   "publisherDisplayName": "Square Enix",
