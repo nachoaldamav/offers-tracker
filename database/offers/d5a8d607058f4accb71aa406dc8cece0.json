@@ -59,26 +59,14 @@
       "id": "21127",
       "name": "Creative Community"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1393",
       "name": "Simulation"
     },
-    {
-      "id": "21138",
-      "name": "Recommend this Game"
-    },
-    {
-      "id": "21139",
-      "name": "Amazing Characters"
-    },
-    {
-      "id": "21140",
-      "name": "Amazing Storytelling"
-    },
+    null,
+    null,
+    null,
     {
       "id": "21141",
       "name": "Extremely Fun"
@@ -189,7 +177,28 @@
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 899,
+      "originalPrice": 4499,
+      "voucherDiscount": 0,
+      "discount": 3600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "e93f21ffc6be408d8625280a69e8abdd"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-12-31T16:00:00.000Z",
   "pcReleaseDate": null,

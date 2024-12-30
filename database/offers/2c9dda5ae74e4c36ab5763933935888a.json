@@ -55,30 +55,18 @@
       "id": "21127",
       "name": "Creative Community"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1264",
       "name": "Co-op"
     },
-    {
-      "id": "21138",
-      "name": "Recommend this Game"
-    },
+    null,
     {
       "id": "1299",
       "name": "Competitive"
     },
-    {
-      "id": "21139",
-      "name": "Amazing Characters"
-    },
-    {
-      "id": "21140",
-      "name": "Amazing Storytelling"
-    },
+    null,
+    null,
     {
       "id": "21109",
       "name": "Great Boss Battles"
@@ -150,11 +138,59 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "far-cry-5--gold-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "far-cry-5--dead-living-zombies-dlc",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "far-cry-5--hours-of-darkness-dlc",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "far-cry-5",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "far-cry-5--lost-on-mars-dlc",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "far-cry-5--season-pass",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 899,
+      "originalPrice": 5999,
+      "voucherDiscount": 0,
+      "discount": 5100,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "f1f62a7aae96426f8e932c03487bd3e5"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2018-03-27T10:00:00.000Z",
   "pcReleaseDate": null,

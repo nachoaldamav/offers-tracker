@@ -59,10 +59,7 @@
       "id": "24570",
       "name": "Holiday Sale"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "10719",
       "name": "Mac OS"
@@ -110,7 +107,28 @@
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 449,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 1050,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "64b79bd8ff3c444c8864d77800276082"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-04-27T14:00:00.000Z",
   "pcReleaseDate": "2017-03-16T16:00:00.000Z",

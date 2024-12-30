@@ -51,26 +51,14 @@
       "id": "1188",
       "name": "RELAXING"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1264",
       "name": "Co-op"
     },
-    {
-      "id": "21138",
-      "name": "Recommend this Game"
-    },
-    {
-      "id": "21139",
-      "name": "Amazing Characters"
-    },
-    {
-      "id": "21140",
-      "name": "Amazing Storytelling"
-    },
+    null,
+    null,
+    null,
     {
       "id": "21141",
       "name": "Extremely Fun"
@@ -130,11 +118,59 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "watch-dogs--bad-blood-dlc",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "watch-dogs--season-pass",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "watch-dogs--access-granted-dlc",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "watch-dogs",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "watch-dogs--complete-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "watch-dogs--conspiracy-dlc",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "5754874ed9b04cab9d4a054473c521cc"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-03-19T15:00:00.000Z",
   "pcReleaseDate": null,

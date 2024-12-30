@@ -59,10 +59,7 @@
       "id": "24570",
       "name": "Holiday Sale"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1263",
       "name": "Indie"
@@ -109,7 +106,28 @@
   "offerMappings": [],
   "developerDisplayName": "Douze Dixièmes",
   "publisherDisplayName": "Focus Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 1200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "a96657f429bd461bb27c5cad9031ff93"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-12-10T23:00:00.000Z",
   "pcReleaseDate": "2020-12-10T23:00:00.000Z",

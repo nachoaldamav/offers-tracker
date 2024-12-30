@@ -71,10 +71,7 @@
       "id": "21130",
       "name": "Easy Combat"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "9548",
       "name": "OSX"
@@ -87,18 +84,9 @@
       "id": "1294",
       "name": "First Person"
     },
-    {
-      "id": "21138",
-      "name": "Recommend this Game"
-    },
-    {
-      "id": "21139",
-      "name": "Amazing Characters"
-    },
-    {
-      "id": "21140",
-      "name": "Amazing Storytelling"
-    },
+    null,
+    null,
+    null,
     {
       "id": "21141",
       "name": "Extremely Fun"
@@ -162,11 +150,51 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "slime-rancher",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "slime-rancher--secret-style-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "slime-rancher--original-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "slime-rancher--game-and-soundtrack-bundle",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "5d3ae04ea43b4283a0733ef609dd2ade"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2017-08-01T15:00:00.000Z",
   "pcReleaseDate": null,

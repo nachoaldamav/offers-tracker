@@ -63,34 +63,19 @@
       "id": "21127",
       "name": "Creative Community"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "9549",
       "name": "Controller Support"
     },
-    {
-      "id": "21137",
-      "name": "Unique Visuals"
-    },
-    {
-      "id": "21138",
-      "name": "Recommend this Game"
-    },
+    null,
+    null,
     {
       "id": "1395",
       "name": "Narration"
     },
-    {
-      "id": "21139",
-      "name": "Amazing Characters"
-    },
-    {
-      "id": "21140",
-      "name": "Amazing Storytelling"
-    },
+    null,
+    null,
     {
       "id": "21141",
       "name": "Extremely Fun"
@@ -146,11 +131,47 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "outerwilds--echoes-of-the-eye",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "outerwilds",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "outerwilds--archaeologist-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 1000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "1f09a532c4bd4b74867c74214c44945f"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2019-05-28T15:00:00.000Z",
   "pcReleaseDate": null,

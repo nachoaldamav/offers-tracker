@@ -63,26 +63,14 @@
       "id": "21127",
       "name": "Creative Community"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "9549",
       "name": "Controller Support"
     },
-    {
-      "id": "21138",
-      "name": "Recommend this Game"
-    },
-    {
-      "id": "21139",
-      "name": "Amazing Characters"
-    },
-    {
-      "id": "21140",
-      "name": "Amazing Storytelling"
-    },
+    null,
+    null,
+    null,
     {
       "id": "21109",
       "name": "Great Boss Battles"
@@ -166,11 +154,59 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "assassins-creed-origins--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-origins--the-hidden-ones",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-origins--season-pass",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-origins",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "assassins-creed-origins--the-curse-of-the-pharaohs",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-origins--gold-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 899,
+      "originalPrice": 5999,
+      "voucherDiscount": 0,
+      "discount": 5100,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "e087c6bb946e4846ae1be0638726393e"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2017-10-26T11:00:00.000Z",
   "pcReleaseDate": null,

@@ -55,18 +55,12 @@
       "id": "39913",
       "name": "Square Enix Holiday Sale"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "9549",
       "name": "Controller Support"
     },
-    {
-      "id": "21139",
-      "name": "Amazing Characters"
-    },
+    null,
     {
       "id": "1333",
       "name": "Action RPG"
@@ -145,7 +139,28 @@
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3899,
+      "originalPrice": 5999,
+      "voucherDiscount": 0,
+      "discount": 2100,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "9354b8db6cd6418ca647b1cb170fa9df"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-03-30T13:00:00.000Z",
   "pcReleaseDate": "2021-03-30T13:00:00.000Z",

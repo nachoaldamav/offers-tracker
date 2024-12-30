@@ -54,10 +54,6 @@
     {
       "id": "24570",
       "name": "Holiday Sale"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
     }
   ],
   "items": [
@@ -86,11 +82,43 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "journey-to-the-savage-planet--hot-garbage",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "journey-to-the-savage-planet",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Typhoon Studios",
   "publisherDisplayName": "505 Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 749,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 2250,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "d650aa2a89d64fb298f49471570ff6c4"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-01-28T14:00:00.000Z",
   "pcReleaseDate": null,

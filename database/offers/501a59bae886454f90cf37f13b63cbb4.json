@@ -43,10 +43,7 @@
       "id": "24570",
       "name": "Holiday Sale"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1115",
       "name": "Strategy"
@@ -158,7 +155,28 @@
   ],
   "developerDisplayName": "Torpor Games",
   "publisherDisplayName": "Fellow Traveller",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "b1ce6c513a8d4087a67e3845adbf4a29"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-05-20T15:00:00.000Z",
   "pcReleaseDate": "2020-12-04T15:00:00.000Z",

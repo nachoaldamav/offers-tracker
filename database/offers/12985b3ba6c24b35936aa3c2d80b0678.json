@@ -62,10 +62,6 @@
     {
       "id": "24570",
       "name": "Holiday Sale"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
     }
   ],
   "items": [
@@ -117,7 +113,28 @@
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1124,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 1375,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "17efb6553ff94465b5025adeb1d0f547"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-02-04T14:00:00.000Z",
   "pcReleaseDate": null,

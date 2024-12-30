@@ -47,10 +47,7 @@
       "id": "24570",
       "name": "Holiday Sale"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "1117",
       "name": "Adventure"
@@ -142,7 +139,28 @@
   ],
   "developerDisplayName": "Devespresso Games",
   "publisherDisplayName": "Headup GmbH",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 149,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 1350,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "2c5744255cab4974939ab5a7f1b5588d"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-04-08T15:00:00.000Z",
   "pcReleaseDate": "2021-04-08T15:00:00.000Z",

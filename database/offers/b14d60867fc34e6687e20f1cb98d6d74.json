@@ -39,18 +39,12 @@
   "urlSlug": "gulpergeneralaudience",
   "url": null,
   "tags": [
-    {
-      "id": "21138",
-      "name": "Recommend this Game"
-    },
+    null,
     {
       "id": "1203",
       "name": "Multiplayer"
     },
-    {
-      "id": "21140",
-      "name": "Amazing Storytelling"
-    },
+    null,
     {
       "id": "21141",
       "name": "Extremely Fun"
@@ -75,10 +69,7 @@
       "id": "1115",
       "name": "Strategy"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "21149",
       "name": "Quickly Understand the Controls"
@@ -126,11 +117,59 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "anno-2205",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "anno-2205--ultimate-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "anno-2205--tundra",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "anno-2205--season-pass",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "anno-2205--frontiers",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "anno-2205--orbit",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 599,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 3400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "cdae70590d8248f3ad66a48122925408"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-02-19T16:00:00.000Z",
   "pcReleaseDate": null,

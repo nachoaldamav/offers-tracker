@@ -50,10 +50,6 @@
     {
       "id": "24570",
       "name": "Holiday Sale"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
     }
   ],
   "items": [
@@ -222,7 +218,28 @@
   ],
   "developerDisplayName": "Granzella Inc.",
   "publisherDisplayName": "NIS America, Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 2000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "661e9ffc4d7447878b89c0c4fce2d802"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-04-30T17:00:00.000Z",
   "pcReleaseDate": "2021-04-30T17:00:00.000Z",

@@ -51,18 +51,12 @@
       "id": "21125",
       "name": "Competitive Community"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "9549",
       "name": "Controller Support"
     },
-    {
-      "id": "21138",
-      "name": "Recommend this Game"
-    },
+    null,
     {
       "id": "1203",
       "name": "Multiplayer"
@@ -71,14 +65,8 @@
       "id": "1299",
       "name": "Competitive"
     },
-    {
-      "id": "21139",
-      "name": "Amazing Characters"
-    },
-    {
-      "id": "21140",
-      "name": "Amazing Storytelling"
-    },
+    null,
+    null,
     {
       "id": "21141",
       "name": "Extremely Fun"
@@ -146,11 +134,63 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-crew-2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-crew-2--special-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-crew-2--season-pass",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-crew-2--gold-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-crew-2--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-crew-2--mazda-rx-8-starter-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-crew-2--porsche-cayman-gt4-starter-pack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 4000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "8e312a4bd8fd4c8f8c74fa6c153f9a70"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2019-12-04T11:00:00.000Z",
   "pcReleaseDate": "2018-05-31T15:00:00.000Z",

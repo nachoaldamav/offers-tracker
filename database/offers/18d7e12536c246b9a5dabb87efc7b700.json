@@ -51,10 +51,7 @@
       "id": "1188",
       "name": "RELAXING"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
+    null,
     {
       "id": "9549",
       "name": "Controller Support"
@@ -63,18 +60,9 @@
       "id": "1264",
       "name": "Co-op"
     },
-    {
-      "id": "21138",
-      "name": "Recommend this Game"
-    },
-    {
-      "id": "21139",
-      "name": "Amazing Characters"
-    },
-    {
-      "id": "21140",
-      "name": "Amazing Storytelling"
-    },
+    null,
+    null,
+    null,
     {
       "id": "21141",
       "name": "Extremely Fun"
@@ -138,11 +126,59 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ghost-recon-wildlands--ultimate-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ghost-recon-wildlands--year-1-pass",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ghost-recon-wildlands--gold-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ghost-recon-wildlands--year-2-pass",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ghost-recon-wildlands",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "ghost-recon-wildlands--fallen-ghosts-dlc",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 4000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "069c8a0caff74b25b5e55cab7b8adca5"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2018-04-10T15:00:00.000Z",
   "pcReleaseDate": null,
