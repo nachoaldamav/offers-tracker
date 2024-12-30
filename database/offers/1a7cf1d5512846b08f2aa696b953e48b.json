@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-11-18T15:00:00.000Z",
   "creationDate": "2024-09-05T13:36:04.668Z",
-  "lastModifiedDate": "2024-11-16T11:55:55.899Z",
+  "lastModifiedDate": "2024-12-30T20:44:14.552Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -147,11 +147,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "pro-basketball-manager-2025-pro-basketball-manager-2025-dataeditor-4e882a",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "pro-basketball-manager-2025-ce2aea",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "pro-basketball-manager-2025-ce2aea",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "UMIX STUDIOS",
   "publisherDisplayName": "UMIX STUDIOS",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2399,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "c435d573ce0a4067b437ae84700930dd"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-11-18T15:00:00.000Z",
   "pcReleaseDate": "2024-11-18T15:00:00.000Z",

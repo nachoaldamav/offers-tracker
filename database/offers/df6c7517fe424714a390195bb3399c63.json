@@ -87,11 +87,52 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "indika-296db0",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "indika-indika-deluxe-edition-bd756e",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "indika-indika-original-soundtrack-a4c0d1",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "indika-indika-artbook-994eab",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "indika-296db0",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Odd Meter",
   "publisherDisplayName": "11 bit studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",

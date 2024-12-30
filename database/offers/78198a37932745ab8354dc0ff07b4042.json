@@ -91,7 +91,18 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "dont-turn-back-ee3a9d",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "dont-turn-back-faq-4a3d4e",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "dont-turn-back-ee3a9d",
@@ -100,7 +111,24 @@
   ],
   "developerDisplayName": "Scrnshot Interactive",
   "publisherDisplayName": "Scrnshot Interactive",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1199,
+      "originalPrice": 1199,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": null,
