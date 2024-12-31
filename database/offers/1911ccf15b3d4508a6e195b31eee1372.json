@@ -205,7 +205,28 @@
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1399,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 2600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "b6a4bdd898514079983a3697ba24cce8"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-12-23T16:00:00.000Z",
   "pcReleaseDate": "2020-12-23T16:00:00.000Z",
