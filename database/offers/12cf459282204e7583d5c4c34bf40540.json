@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "creationDate": "2023-03-20T09:33:18.076Z",
-  "lastModifiedDate": "2023-10-16T13:36:47.962Z",
+  "lastModifiedDate": "2024-12-30T23:55:42.820Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -107,16 +107,33 @@
   ],
   "developerDisplayName": "Vincent Lade",
   "publisherDisplayName": "Vincent Lade",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 199,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
-  "releaseDate": "2024-12-31T00:00:00.000Z",
-  "pcReleaseDate": "2020-06-18T06:00:00.000Z",
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2023-03-20T10:30:00.000Z",
   "approximateReleasePlan": {
     "day": null,
     "month": null,
     "quarter": null,
-    "year": 2024,
-    "releaseDateType": "BY_YEAR"
+    "year": null,
+    "releaseDateType": "UNKNOWN"
   }
 }

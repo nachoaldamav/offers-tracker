@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "creationDate": "2024-03-27T12:15:07.819Z",
-  "lastModifiedDate": "2024-03-27T12:15:07.819Z",
+  "lastModifiedDate": "2024-12-30T23:55:53.058Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -119,16 +119,33 @@
   ],
   "developerDisplayName": "FiolaSoft Studio",
   "publisherDisplayName": "FiolaSoft Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
-  "releaseDate": "2024-12-31T00:00:00.000Z",
-  "pcReleaseDate": "2024-12-31T00:00:00.000Z",
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2024-03-27T12:14:50.658Z",
   "approximateReleasePlan": {
     "day": null,
     "month": null,
     "quarter": null,
-    "year": 2024,
-    "releaseDateType": "BY_YEAR"
+    "year": null,
+    "releaseDateType": "UNKNOWN"
   }
 }

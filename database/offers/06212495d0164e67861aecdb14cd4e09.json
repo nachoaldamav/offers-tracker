@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "creationDate": "2023-03-31T00:26:59.649Z",
-  "lastModifiedDate": "2024-02-10T03:47:57.705Z",
+  "lastModifiedDate": "2024-12-30T23:56:12.464Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -123,16 +123,33 @@
   ],
   "developerDisplayName": "Danu Games",
   "publisherDisplayName": "Danu Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
-  "releaseDate": "2024-12-31T00:00:00.000Z",
-  "pcReleaseDate": "2024-12-31T00:00:00.000Z",
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2023-09-21T21:30:00.000Z",
   "approximateReleasePlan": {
     "day": null,
     "month": null,
     "quarter": null,
-    "year": 2024,
-    "releaseDateType": "BY_YEAR"
+    "year": null,
+    "releaseDateType": "UNKNOWN"
   }
 }
