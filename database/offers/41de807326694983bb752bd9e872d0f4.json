@@ -176,10 +176,10 @@
   "publisherDisplayName": "Sloclap",
   "price": {
     "totalPrice": {
-      "discountPrice": 3999,
+      "discountPrice": 0,
       "originalPrice": 3999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 3999,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -188,7 +188,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "53a67ddc43344a5b811c25e2b0ccac0b"
+          }
+        ]
       }
     ]
   },
