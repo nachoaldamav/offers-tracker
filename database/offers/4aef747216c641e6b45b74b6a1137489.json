@@ -91,11 +91,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "to-the-stars-80b18e",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "to-the-stars-80b18e",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Stellar Cartography Interactive",
   "publisherDisplayName": "Blowfish Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1124,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 375,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "5059a50c96a94359b145528b21c1a70a"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-08-13T23:00:00.000Z",
   "pcReleaseDate": "2024-08-13T23:00:00.000Z",

@@ -118,7 +118,14 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "time-loader",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "time-loader",
@@ -127,7 +134,28 @@
   ],
   "developerDisplayName": "Flazm",
   "publisherDisplayName": "META Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 224,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 1275,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "1ecb41f692984bf58c6c3cafb8b2bd69"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-11-03T16:00:00.000Z",
   "pcReleaseDate": "2021-11-03T16:00:00.000Z",

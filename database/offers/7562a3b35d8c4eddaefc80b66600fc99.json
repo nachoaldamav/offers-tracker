@@ -103,11 +103,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "spider-fox-efd273",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "spider-fox-efd273",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Planet 47 Games",
   "publisherDisplayName": "Planet 47 Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 479,
+      "originalPrice": 799,
+      "voucherDiscount": 0,
+      "discount": 320,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "df71816572ba44aebaa477a66aa9bcfd"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-08-06T05:00:00.000Z",
   "pcReleaseDate": "2024-04-03T13:00:00.000Z",

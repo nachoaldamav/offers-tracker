@@ -95,7 +95,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "farmers-father-save-the-innocence-abf9c9",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "farmers-father-save-the-innocence-faq-ca5012",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "farmers-father-save-the-innocence-abf9c9",
@@ -104,7 +115,28 @@
   ],
   "developerDisplayName": "FreeMind",
   "publisherDisplayName": "FreeMind, PlayWay",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "7b5fd35c723746a3ae1c5efc4dc51573"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-09-01T15:00:00.000Z",
   "pcReleaseDate": "2023-03-29T17:00:00.000Z",

@@ -103,11 +103,55 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-casting-of-frank-stone-the-casting-of-frank-stone-test-offer-0f9932",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-casting-of-frank-stone-the-casting-of-frank-stone-deluxe-edition-e04dcd",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-casting-of-frank-stone-09928b",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-casting-of-frank-stone-the-casting-of-frank-stone-preorder-470d2c",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-casting-of-frank-stone-the-casting-of-frank-stone-preorder-f82fc5",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Supermassive Games",
   "publisherDisplayName": "Behaviour Interactive Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2799,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 1200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "f9c5d0309c3c488cb37f15beeec26c1e"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-09-03T16:00:00.000Z",
   "pcReleaseDate": "2024-09-03T16:00:00.000Z",

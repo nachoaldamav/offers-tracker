@@ -99,11 +99,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-mystery-of-woolley-mountain-6a1960",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "the-mystery-of-woolley-mountain-6a1960",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Lightfoot Bros Games",
   "publisherDisplayName": "Lightfoot Bros Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 454,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 845,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "2a10a07cbaae4b66a041c744263f0078"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-09-02T23:00:00.000Z",
   "pcReleaseDate": "2019-04-09T23:00:00.000Z",

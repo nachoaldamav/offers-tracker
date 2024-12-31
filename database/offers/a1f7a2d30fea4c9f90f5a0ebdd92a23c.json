@@ -95,11 +95,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "kaptain-brawe-a-brawe-new-world-ef9c5a",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "kaptain-brawe-a-brawe-new-world-ef9c5a",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Cateia Games",
   "publisherDisplayName": "Cateia Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 599,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 900,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "1c3b293d60c348ee88e28002c8f7fb48"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-09-03T06:00:00.000Z",
   "pcReleaseDate": "2011-01-20T12:30:00.000Z",
