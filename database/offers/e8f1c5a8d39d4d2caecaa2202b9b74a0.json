@@ -95,13 +95,15 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "echo-storm-4e5fbe",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "echo-storm-4e5fbe",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Oleg Dzhuraev",
   "publisherDisplayName": "Insane Systems",
   "price": null,
