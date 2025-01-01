@@ -87,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "retreat-to-enen-60ef78",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "retreat-to-enen-60ef78",
@@ -96,7 +103,28 @@
   ],
   "developerDisplayName": "Head West",
   "publisherDisplayName": "Freedom Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 749,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 1750,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "4966701b148749049f03942e2943cf4f"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-08-01T15:00:00.000Z",
   "pcReleaseDate": "2022-08-01T15:00:00.000Z",
