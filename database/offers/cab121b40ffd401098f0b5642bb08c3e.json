@@ -87,11 +87,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "song-of-farca-1eb3f2",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "song-of-farca-1eb3f2",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Wooden Monkeys",
   "publisherDisplayName": "Alawar",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "77c6d5702b9b4b11b8c08b38797c108c"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-07-22T03:00:00.000Z",
   "pcReleaseDate": "2021-07-22T03:00:00.000Z",

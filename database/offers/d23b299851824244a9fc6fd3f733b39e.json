@@ -99,7 +99,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "hero-of-the-kingdom-hero-of-the-kingdom-demo-f487e2",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hero-of-the-kingdom-3a4529",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "hero-of-the-kingdom-3a4529",
@@ -108,7 +119,28 @@
   ],
   "developerDisplayName": "Lonely Troops",
   "publisherDisplayName": "Lonely Troops",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 119,
+      "originalPrice": 799,
+      "voucherDiscount": 0,
+      "discount": 680,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "db6a18ceb5eb4c5d9f1b9542fd60087b"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-07-19T16:00:00.000Z",
   "pcReleaseDate": "2012-12-20T17:00:00.000Z",

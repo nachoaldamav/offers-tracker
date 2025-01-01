@@ -102,11 +102,43 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "road-96",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "road-96--hitchhiker-bundle",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Digixart",
   "publisherDisplayName": "Ravenscourt",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 1996,
+      "voucherDiscount": 0,
+      "discount": 1497,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "179bc7597aa84549bc9366092e4e7759"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-08-16T12:00:00.000Z",
   "pcReleaseDate": "2021-08-16T12:00:00.000Z",

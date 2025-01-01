@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-12-27T19:00:00.000Z",
   "creationDate": "2024-11-01T09:14:27.660Z",
-  "lastModifiedDate": "2024-12-26T04:06:43.033Z",
+  "lastModifiedDate": "2025-01-01T16:07:41.409Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -32,6 +32,10 @@
     {
       "type": "featuredMedia",
       "url": "https://cdn1.epicgames.com/spt-assets/d3c3d6dc4a2848ec8657d8282c2de952/little-max-bunny-idbik.png"
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://c990e051-0a4f-4bed-a856-cba4202a199d?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fd3c3d6dc4a2848ec8657d8282c2de952%2Flittle-max-bunny-video-10nle.png"
     }
   ],
   "currentPrice": 499,
@@ -99,8 +103,20 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "little-max-bunny-b3bafb",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "little-max-bunny-b3bafb",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "ARGameDev",
   "publisherDisplayName": "ARGameDev",
   "price": null,

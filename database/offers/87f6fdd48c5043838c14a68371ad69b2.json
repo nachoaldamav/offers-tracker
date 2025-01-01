@@ -110,11 +110,51 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "lovecrafts-untold-stories--bundle-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "lovecrafts-untold-stories",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "lovecrafts-untold-stories--artbook",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "lovecrafts-untold-stories--ost",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 1200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "5ae7592dc4f44a0ba0c90f7a9aa946ba"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-07-20T17:00:00.000Z",
   "pcReleaseDate": "2019-01-31T17:00:00.000Z",
