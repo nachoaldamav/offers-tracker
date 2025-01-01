@@ -103,7 +103,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "your-computer-might-be-at-risk-c5dea9",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "your-computer-might-be-at-risk-c5dea9",
@@ -112,7 +119,28 @@
   ],
   "developerDisplayName": "Tenebris Studio",
   "publisherDisplayName": "Tenebris Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 359,
+      "originalPrice": 1199,
+      "voucherDiscount": 0,
+      "discount": 840,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "7a001549d5494ed18fc98a07c768fd11"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-28T12:00:00.000Z",
   "pcReleaseDate": "2022-06-16T22:00:00.000Z",
