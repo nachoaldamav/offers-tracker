@@ -87,14 +87,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "in-the-gym-db2771",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "in-the-gym-db2771",
@@ -103,7 +96,28 @@
   ],
   "developerDisplayName": "Performance Artist",
   "publisherDisplayName": "Performance Artist",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 49,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 50,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "0c6f987758844b2880f36a4f617eb8b4"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-23T18:51:35.307Z",
   "pcReleaseDate": "2023-01-27T05:00:00.000Z",
