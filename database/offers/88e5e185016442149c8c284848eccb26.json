@@ -87,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "colorgrid-4435d3",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "colorgrid-4435d3",
@@ -96,7 +103,28 @@
   ],
   "developerDisplayName": "Minimol Games",
   "publisherDisplayName": "Minimol Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 59,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 40,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "1f95a9cb0d6544b79aa41872f46fdbf8"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-06-06T17:30:00.000Z",
   "pcReleaseDate": "2019-11-21T08:00:00.000Z",

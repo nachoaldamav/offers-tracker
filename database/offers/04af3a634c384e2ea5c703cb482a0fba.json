@@ -111,11 +111,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "unravel-ce69bb",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "unravel-ce69bb",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Coldwood Interactive",
   "publisherDisplayName": "Electronic Arts",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1700,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "1d2ca562f3e54a5480ead6f976e18734"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-05-09T20:00:00.000Z",
   "pcReleaseDate": "2016-02-09T09:00:00.000Z",

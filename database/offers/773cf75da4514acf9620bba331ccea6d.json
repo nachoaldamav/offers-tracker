@@ -91,7 +91,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-ultimate-math-teaching-game-32e5cf",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-ultimate-math-teaching-game-the-ultimate-math-teaching-game-free-trial-0fa062",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-ultimate-math-teaching-game-32e5cf",
@@ -100,7 +111,28 @@
   ],
   "developerDisplayName": "MARK MISIN ENGINEERING LTD",
   "publisherDisplayName": "MARK MISIN ENGINEERING LTD",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "bc6b195b9e574004aba80599e44e743d"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-06-20T21:00:00.000Z",
   "pcReleaseDate": "2024-06-20T21:00:00.000Z",
