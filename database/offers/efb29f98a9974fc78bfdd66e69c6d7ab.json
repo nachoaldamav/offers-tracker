@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-10-28T14:00:00.000Z",
   "creationDate": "2024-03-23T17:27:27.920Z",
-  "lastModifiedDate": "2024-12-25T15:01:26.023Z",
+  "lastModifiedDate": "2025-01-02T05:27:38.421Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -166,7 +166,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "empires-of-the-undergrowth--early-access-faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "empires-of-the-undergrowth",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "empires-of-the-undergrowth",
@@ -175,7 +186,28 @@
   ],
   "developerDisplayName": "Slug Disco",
   "publisherDisplayName": "Hooded Horse Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 1500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "926cf2000ae44ecf98c22355a539d6d2"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-10-28T14:00:00.000Z",
   "pcReleaseDate": "2020-10-28T14:00:00.000Z",
