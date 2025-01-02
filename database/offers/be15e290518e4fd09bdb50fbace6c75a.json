@@ -98,8 +98,19 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sniper-elite-resistance--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "sniper-elite-resistance",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Rebellion",
   "publisherDisplayName": "Rebellion",
   "price": null,
