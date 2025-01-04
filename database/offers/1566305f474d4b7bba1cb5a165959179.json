@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-12-06T00:00:00.000Z",
   "creationDate": "2024-02-29T06:52:20.617Z",
-  "lastModifiedDate": "2024-12-17T09:12:07.089Z",
+  "lastModifiedDate": "2025-01-04T06:31:28.122Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -139,7 +139,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "marvel-rivals-faq-b2339e",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "marvel-rivals-182004",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "marvel-rivals-182004",
@@ -148,7 +159,24 @@
   ],
   "developerDisplayName": "NetEase Games",
   "publisherDisplayName": "UK Netease",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-06T00:00:00.000Z",
   "pcReleaseDate": "2024-12-06T00:00:00.000Z",
