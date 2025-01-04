@@ -82,8 +82,23 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "slitterhead",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "slitterhead--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "slitterhead--deluxe-edition",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Bokeh Game Studio",
   "publisherDisplayName": "Bokeh Game Studio",
   "price": null,
