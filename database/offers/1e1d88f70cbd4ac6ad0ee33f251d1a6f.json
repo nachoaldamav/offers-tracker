@@ -90,8 +90,27 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "hotel-a-resort-simulator--vip-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "hotel-a-resort-simulator--hotel-lake-dlc",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "hotel-a-resort-simulator",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "hotel-a-resort-simulator--lake-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "RingZero",
   "publisherDisplayName": "Nacon",
   "price": null,
