@@ -99,11 +99,39 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": null
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "the-gap-e8d40c",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Label This",
   "publisherDisplayName": "Crunching Koalas",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 899,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1100,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "cae4db0ceec34a2799a3bd1baf0e458f"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-25T17:00:00.000Z",
   "pcReleaseDate": "2023-10-19T15:00:00.000Z",
