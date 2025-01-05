@@ -58,10 +58,6 @@
     {
       "id": "24570",
       "name": "Holiday Sale"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
     }
   ],
   "items": [
@@ -107,7 +103,28 @@
   ],
   "developerDisplayName": "ONE-O-ONE GAMES",
   "publisherDisplayName": "Daedalic Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 179,
+      "originalPrice": 1799,
+      "voucherDiscount": 0,
+      "discount": 1620,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "3bcf50c060a547a09cda0b5a8394e17f"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-05-20T15:00:00.000Z",
   "pcReleaseDate": "2020-02-19T00:00:00.000Z",

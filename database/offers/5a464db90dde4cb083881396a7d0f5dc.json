@@ -46,10 +46,6 @@
     {
       "id": "24570",
       "name": "Holiday Sale"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
     }
   ],
   "items": [
@@ -99,7 +95,28 @@
   ],
   "developerDisplayName": "Eric Chahi, DotEmu",
   "publisherDisplayName": "The Digital Lounge",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 249,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 750,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "3abaa134daf9469e8a3e4e11f9b5b885"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-05-18T00:00:00.000Z",
   "pcReleaseDate": "2013-04-04T00:00:00.000Z",
