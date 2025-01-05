@@ -169,10 +169,10 @@
   "publisherDisplayName": "Blue and Red Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 1199,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 300,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -181,7 +181,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "3b323bb1d5c0426e95c8361b17fcf9d7"
+          }
+        ]
       }
     ]
   },
