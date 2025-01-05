@@ -95,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "time-on-frog-island-b3ad0d",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "time-on-frog-island-b3ad0d",
@@ -104,28 +111,7 @@
   ],
   "developerDisplayName": "Half Past Yellow",
   "publisherDisplayName": "Merge Games Ltd",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 299,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 1700,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "76a83b41403f4df18c2e9e17f50abdee"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2022-07-12T13:00:00.000Z",
   "pcReleaseDate": "2022-07-12T13:00:00.000Z",
