@@ -31,7 +31,10 @@
   "urlSlug": "ranch-simulator",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "29088",
+      "name": "Online Multiplayer"
+    },
     {
       "id": "1188",
       "name": "RELAXING"
@@ -44,7 +47,10 @@
       "id": "21127",
       "name": "Creative Community"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1263",
       "name": "Indie"
@@ -136,7 +142,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ranch-simulator",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "ranch-simulator--early-access-faq",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "ranch-simulator",
@@ -145,7 +162,24 @@
   ],
   "developerDisplayName": "Toxic Dog",
   "publisherDisplayName": "Excalibur Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-02-10T16:30:00.000Z",
   "pcReleaseDate": "2021-03-04T12:00:00.000Z",
