@@ -131,7 +131,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "inscryption-6b29ab",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "inscryption-6b29ab",
@@ -140,7 +147,28 @@
   ],
   "developerDisplayName": "Daniel Mullins Games",
   "publisherDisplayName": "Devolver Digital",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 799,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "17ed009273494ea8bca7765e14031a8c"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-10-19T19:00:00.000Z",
   "pcReleaseDate": "2021-10-19T19:00:00.000Z",
