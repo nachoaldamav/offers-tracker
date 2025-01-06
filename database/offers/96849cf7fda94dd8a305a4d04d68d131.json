@@ -87,7 +87,10 @@
       "id": "9549",
       "name": "Controller Support"
     },
-    null,
+    {
+      "id": "1264",
+      "name": "Co-op"
+    },
     {
       "id": "21109",
       "name": "Great Boss Battles"
@@ -108,7 +111,10 @@
       "id": "24570",
       "name": "Holiday Sale"
     },
-    null,
+    {
+      "id": "1083",
+      "name": "Rogue-Lite"
+    },
     {
       "id": "1183",
       "name": "Local Multiplayer"
@@ -153,11 +159,56 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "teenage-mutant-ninja-turtles-splintered-fate-teenage-mutant-ninja-turtles-splintered-fate-soundtrack-04c4fc",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "teenage-mutant-ninja-turtles-splintered-fate-teenage-mutant-ninja-turtles-splintered-fate-artbook-5a03ae",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "teenage-mutant-ninja-turtles-splintered-fate-0722ac",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "teenage-mutant-ninja-turtles-splintered-fate-teenage-mutant-ninja-turtles-splintered-fate-deluxe-bundle-0d0bc6",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "teenage-mutant-ninja-turtles-splintered-fate-0722ac",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Super Evil Megacorp",
   "publisherDisplayName": "Super Evil Megacorp",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1949,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 1050,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "f1bf1688bc894649a4be59c1866ff69f"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-11-06T16:00:00.000Z",
   "pcReleaseDate": "2024-11-06T16:00:00.000Z",
