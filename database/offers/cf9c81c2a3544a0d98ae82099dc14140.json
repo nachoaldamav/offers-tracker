@@ -91,14 +91,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "aa-bb5edd",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "aa-bb5edd",
@@ -107,7 +100,28 @@
   ],
   "developerDisplayName": "Nakata",
   "publisherDisplayName": "Nakata",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 89,
+      "originalPrice": 299,
+      "voucherDiscount": 0,
+      "discount": 210,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "8e14169a8ff748faba287ff99a23a060"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-02-14T22:00:00.000Z",
   "pcReleaseDate": "2024-02-14T22:00:00.000Z",

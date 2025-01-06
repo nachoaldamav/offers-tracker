@@ -91,18 +91,7 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "island-paradise-6a6d26",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "island-paradise-faq-b98f94",
-        "pageType": "info"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "island-paradise-6a6d26",
@@ -111,7 +100,28 @@
   ],
   "developerDisplayName": "GSG",
   "publisherDisplayName": "GSG",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 949,
+      "originalPrice": 1899,
+      "voucherDiscount": 0,
+      "discount": 950,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "4f7c4b70f41e4687a2e44d321f438112"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-02T16:00:00.000Z",
   "pcReleaseDate": "2024-03-02T16:00:00.000Z",
