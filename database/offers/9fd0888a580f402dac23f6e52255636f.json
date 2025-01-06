@@ -114,11 +114,51 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "dragon-age-the-veilguard--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "dragon-age-the-veilguard--deluxe-upgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "dragon-age-the-veilguard--character-creator",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "dragon-age-the-veilguard",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "BioWare",
   "publisherDisplayName": "Electronic Arts",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3899,
+      "originalPrice": 5999,
+      "voucherDiscount": 0,
+      "discount": 2100,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "16ab1c278dc34d7b988a9321f1f43b49"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-10-31T16:00:00.000Z",
   "pcReleaseDate": "2024-10-31T16:00:00.000Z",
