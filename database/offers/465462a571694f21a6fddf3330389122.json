@@ -31,7 +31,10 @@
   "urlSlug": "ec1b16ac1f8f4b078bb8a75e8118dada",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1264",
+      "name": "Co-op"
+    },
     {
       "id": "1367",
       "name": "RPG"
@@ -44,7 +47,10 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
+    {
+      "id": "1083",
+      "name": "Rogue-Lite"
+    },
     {
       "id": "1310",
       "name": "EARLY ACCESS"
@@ -93,26 +99,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "lindwyrm-9fd08f",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "lindwyrm-guide-4af0de",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "lindwyrm-faq-b423a2",
-        "pageType": "info"
-      },
-      {
-        "pageSlug": "lindwyrm-lindwyrm-demo-660553",
-        "pageType": "offer"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "lindwyrm-9fd08f",
@@ -121,28 +108,7 @@
   ],
   "developerDisplayName": "Ghostwhale Games GmbH",
   "publisherDisplayName": "Ghostwhale Games GmbH",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 749,
-      "originalPrice": 999,
-      "voucherDiscount": 0,
-      "discount": 250,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "c979dc1e50e94ad18421f9beb5522868"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2024-11-07T15:00:00.000Z",
   "pcReleaseDate": "2024-09-10T14:00:00.000Z",
