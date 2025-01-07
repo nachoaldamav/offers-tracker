@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-05-12T21:00:00.000Z",
   "creationDate": "2024-05-10T05:58:19.174Z",
-  "lastModifiedDate": "2024-12-03T16:05:59.503Z",
+  "lastModifiedDate": "2025-01-07T15:57:20.835Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     }
   ],
   "items": [
@@ -109,10 +113,10 @@
   "publisherDisplayName": "Molance Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 299,
+      "discountPrice": 200,
       "originalPrice": 299,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 99,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "50d0d881af284dafb8c2500d91aad789"
+          }
+        ]
       }
     ]
   },

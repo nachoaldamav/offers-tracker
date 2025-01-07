@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-08-15T21:00:00.000Z",
   "creationDate": "2024-05-03T05:26:25.476Z",
-  "lastModifiedDate": "2024-12-12T18:16:05.304Z",
+  "lastModifiedDate": "2025-01-07T15:57:20.838Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     }
   ],
   "items": [
@@ -105,10 +109,10 @@
   "publisherDisplayName": "Mert Can Çetintaş",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 99,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -117,7 +121,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "ccc12489cc744e82aaa5c2f6e0bc3375"
+          }
+        ]
       }
     ]
   },

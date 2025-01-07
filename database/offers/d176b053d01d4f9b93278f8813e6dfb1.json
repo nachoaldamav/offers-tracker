@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-06-29T22:00:00.000Z",
   "creationDate": "2021-06-08T07:36:41.994Z",
-  "lastModifiedDate": "2024-04-30T15:00:05.484Z",
+  "lastModifiedDate": "2025-01-07T15:57:20.838Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -56,6 +56,10 @@
       "name": "Windows"
     },
     {
+      "id": "29899",
+      "name": "Deals of the Week"
+    },
+    {
       "id": "9549",
       "name": "Controller Support"
     }
@@ -101,10 +105,10 @@
   "publisherDisplayName": "Carlos Coronado",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 199,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 800,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -113,7 +117,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "63c3ba23fffb44e99a21c0511fa2427a"
+          }
+        ]
       }
     ]
   },

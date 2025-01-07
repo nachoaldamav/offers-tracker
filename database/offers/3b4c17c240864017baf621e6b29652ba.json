@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-05-09T23:00:00.000Z",
   "creationDate": "2024-05-05T03:24:43.373Z",
-  "lastModifiedDate": "2024-12-03T16:05:59.518Z",
+  "lastModifiedDate": "2025-01-07T15:57:20.841Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "9549",
@@ -125,10 +129,10 @@
   "publisherDisplayName": "659 Records (PTY) LTD",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 249,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 250,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -137,7 +141,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "97c0d34b52814da392dc0af81b009dac"
+          }
+        ]
       }
     ]
   },

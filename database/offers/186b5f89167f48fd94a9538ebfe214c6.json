@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-02-08T16:00:00.000Z",
   "creationDate": "2023-08-17T02:06:23.376Z",
-  "lastModifiedDate": "2024-12-28T05:34:02.349Z",
+  "lastModifiedDate": "2025-01-07T15:57:20.843Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "9549",
@@ -161,10 +165,10 @@
   "publisherDisplayName": "Neon Doctrine",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 399,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 600,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -173,7 +177,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "53500de899674f279ad367ce391b4896"
+          }
+        ]
       }
     ]
   },

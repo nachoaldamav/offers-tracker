@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-12-25T23:00:00.000Z",
   "creationDate": "2023-07-14T20:31:40.349Z",
-  "lastModifiedDate": "2024-12-03T16:00:23.400Z",
+  "lastModifiedDate": "2025-01-07T15:57:20.836Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,6 +42,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1116",
@@ -113,10 +117,10 @@
   "publisherDisplayName": "PimpGameStudio",
   "price": {
     "totalPrice": {
-      "discountPrice": 1099,
+      "discountPrice": 549,
       "originalPrice": 1099,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 550,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "e4bca314d6174e0aa80680eb3c01e1ac"
+          }
+        ]
       }
     ]
   },
