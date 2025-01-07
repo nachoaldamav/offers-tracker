@@ -59,7 +59,10 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
     {
       "id": "21137",
       "name": "Unique Visuals"
@@ -143,11 +146,47 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "death-stranding-directors-cut--technical-support",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "death-stranding-directors-cut--upgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "death-stranding-directors-cut",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "KOJIMA PRODUCTIONS",
   "publisherDisplayName": "505 Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 2000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "bee315e318064cef91ef4a26c90a97bf"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-03-30T14:30:00.000Z",
   "pcReleaseDate": "2022-03-30T14:30:00.000Z",

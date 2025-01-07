@@ -86,6 +86,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support"
     }
   ],
   "items": [
@@ -114,7 +118,14 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "battlefield-v-definitive-edition",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "DICE",
   "publisherDisplayName": "Electronic Arts",

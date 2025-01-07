@@ -54,6 +54,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support"
     }
   ],
   "items": [
@@ -82,7 +86,14 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "dont-be-afraid",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Limo Games",
   "publisherDisplayName": "Hydra Games",

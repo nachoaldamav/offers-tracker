@@ -51,7 +51,10 @@
       "id": "1117",
       "name": "Adventure"
     },
-    null,
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
     {
       "id": "1263",
       "name": "Indie"
@@ -88,11 +91,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "rainswept-5f368a",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "rainswept-5f368a",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Frostwood Interactive",
   "publisherDisplayName": "Frostwood Interactive",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 1199,
+      "voucherDiscount": 0,
+      "discount": 900,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "1aee4eb6934741f4a32910946bc7b462"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-02-18T12:00:00.000Z",
   "pcReleaseDate": "2022-02-18T12:00:00.000Z",
