@@ -99,32 +99,34 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": "Blackbird Interactive",
-  "publisherDisplayName": "Focus Entertainment",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1224,
-      "originalPrice": 3499,
-      "voucherDiscount": 0,
-      "discount": 2275,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": [
-          {
-            "id": "3f7e72fa4bb34c4b97fd28d20c050302"
-          }
-        ]
+        "pageSlug": "hardspace-shipbreaker",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "hardspace-shipbreaker--original-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "hardspace-shipbreaker--ost-bundle",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hardspace-shipbreaker--digital-artbook",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "hardspace-shipbreaker--game-ost-artbook",
+        "pageType": "offer"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": "Blackbird Interactive",
+  "publisherDisplayName": "Focus Entertainment",
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2022-07-19T13:00:00.000Z",
   "pcReleaseDate": "2022-07-19T13:00:00.000Z",
