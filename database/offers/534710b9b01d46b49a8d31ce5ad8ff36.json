@@ -63,8 +63,14 @@
       "id": "21127",
       "name": "Creative Community"
     },
-    null,
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
     {
       "id": "21138",
       "name": "Recommend this Game"
@@ -93,7 +99,10 @@
       "id": "21146",
       "name": "Educational"
     },
-    null,
+    {
+      "id": "24570",
+      "name": "Holiday Sale"
+    },
     {
       "id": "21147",
       "name": "Inclusive Character Customization"
@@ -145,11 +154,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "assassins-creed-unity",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 449,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 2550,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "b282932c13324b77964e6c2ac2cb6025"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2014-11-11T16:00:00.000Z",
   "pcReleaseDate": null,

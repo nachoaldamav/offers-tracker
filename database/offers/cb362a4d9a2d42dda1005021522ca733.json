@@ -51,8 +51,14 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
+    {
+      "id": "24570",
+      "name": "Holiday Sale"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1212",
       "name": "Racing"
@@ -127,7 +133,28 @@
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "112ec6f29508483daca67264a5aed612"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2019-02-26T15:00:00.000Z",
   "pcReleaseDate": null,

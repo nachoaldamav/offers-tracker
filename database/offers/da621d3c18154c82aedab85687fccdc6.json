@@ -54,6 +54,18 @@
     {
       "id": "1370",
       "name": "Single Player"
+    },
+    {
+      "id": "24570",
+      "name": "Holiday Sale"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support"
     }
   ],
   "items": [
@@ -90,11 +102,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "alan-wake-american-nightmare",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 269,
+      "originalPrice": 899,
+      "voucherDiscount": 0,
+      "discount": 630,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "3721052b74c548d48beba6bb9109a3f1"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2012-05-22T15:00:00.000Z",
   "pcReleaseDate": null,

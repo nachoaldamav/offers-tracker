@@ -47,12 +47,25 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
-    null,
-    null,
+    {
+      "id": "24570",
+      "name": "Holiday Sale"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
     {
       "id": "1151",
       "name": "Platformer"
+    },
+    {
+      "id": "1263",
+      "name": "Indie"
     }
   ],
   "items": [
@@ -89,11 +102,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "limbo",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 249,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 750,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "9b6aafc6c2584bf0b43f5f2a8dd7c469"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2010-07-30T15:00:00.000Z",
   "pcReleaseDate": null,

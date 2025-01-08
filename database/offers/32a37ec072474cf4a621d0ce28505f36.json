@@ -67,10 +67,17 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "24570",
+      "name": "Holiday Sale"
+    },
     {
       "id": "1307",
       "name": "Open World"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
     }
   ],
   "items": [
@@ -130,7 +137,28 @@
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 3000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "1afe2604fefe40cd8ed13c7f491540fe"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2018-12-07T14:00:00.000Z",
   "pcReleaseDate": null,

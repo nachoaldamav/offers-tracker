@@ -31,7 +31,10 @@
   "urlSlug": "lilacgeneralaudience",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1296",
+      "name": "Casual"
+    },
     {
       "id": "1203",
       "name": "Multiplayer"
@@ -48,8 +51,14 @@
       "id": "21894",
       "name": "Cloud Saves"
     },
-    null,
-    null,
+    {
+      "id": "24570",
+      "name": "Holiday Sale"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "10719",
       "name": "Mac OS"
@@ -85,11 +94,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "jackbox-party-pack-2",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Jackbox Games",
   "publisherDisplayName": "Jackbox Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1374,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 1125,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "45d7c1371480410d9d2754e891160b9f"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2015-10-13T15:00:00.000Z",
   "pcReleaseDate": null,
