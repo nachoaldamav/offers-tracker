@@ -99,18 +99,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "bloodbound-6e0991",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "bloodbound-faq-5dfbc1",
-        "pageType": "info"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "bloodbound-6e0991",
@@ -119,7 +108,24 @@
   ],
   "developerDisplayName": "Sketchy Realms",
   "publisherDisplayName": "Sketchy Realms",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1299,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-10-25T16:00:00.000Z",
   "pcReleaseDate": "2024-10-25T16:00:00.000Z",
