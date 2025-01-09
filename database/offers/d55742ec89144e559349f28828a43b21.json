@@ -39,10 +39,7 @@
       "id": "1218",
       "name": "Horror"
     },
-    {
-      "id": "1298",
-      "name": "Puzzle"
-    },
+    null,
     {
       "id": "21894",
       "name": "Cloud Saves"
@@ -59,10 +56,7 @@
       "id": "9547",
       "name": "Windows"
     },
-    {
-      "id": "9549",
-      "name": "Controller Support"
-    },
+    null,
     {
       "id": "10719",
       "name": "Mac OS"
@@ -103,7 +97,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-impossible-fcebf7",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-impossible-fcebf7",
@@ -112,7 +113,28 @@
   ],
   "developerDisplayName": "Airem",
   "publisherDisplayName": "Airem",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 99,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "99719d0716fe4f28ade5063e67569282"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-16T13:00:00.000Z",
   "pcReleaseDate": "2020-07-20T10:00:00.000Z",
