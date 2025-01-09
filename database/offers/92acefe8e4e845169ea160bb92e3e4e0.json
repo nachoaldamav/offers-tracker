@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-01-09T16:00:00.000Z",
   "creationDate": "2024-05-22T13:06:45.321Z",
-  "lastModifiedDate": "2025-01-07T09:58:06.599Z",
+  "lastModifiedDate": "2025-01-09T16:01:17.978Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -98,6 +98,10 @@
     {
       "id": "1299",
       "name": "Competitive"
+    },
+    {
+      "id": "19847",
+      "name": "Achievements"
     },
     {
       "id": "22776",
@@ -196,10 +200,10 @@
   "publisherDisplayName": "Gamious",
   "price": {
     "totalPrice": {
-      "discountPrice": 1299,
+      "discountPrice": 0,
       "originalPrice": 1299,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1299,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -208,7 +212,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "dabd71958d3c4a2f8356a2cdfb25bc03"
+          }
+        ]
       }
     ]
   },
