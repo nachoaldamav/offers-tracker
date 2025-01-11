@@ -43,7 +43,10 @@
       "id": "24570",
       "name": "Holiday Sale"
     },
-    null,
+    {
+      "id": "1083",
+      "name": "Rogue-Lite"
+    },
     {
       "id": "9547",
       "name": "Windows"
@@ -92,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "yodanji-5a175c",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "yodanji-5a175c",
@@ -101,7 +111,24 @@
   ],
   "developerDisplayName": "KEMCO",
   "publisherDisplayName": "KEMCO",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-05-29T01:00:00.000Z",
   "pcReleaseDate": "2017-12-06T07:00:00.000Z",
