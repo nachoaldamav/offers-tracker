@@ -59,15 +59,25 @@
       "id": "21109",
       "name": "Great Boss Battles"
     },
-    null,
+    {
+      "id": "1367",
+      "name": "RPG"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "24570",
+      "name": "Holiday Sale"
+    },
     {
       "id": "1307",
       "name": "Open World"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
     }
   ],
   "items": [
@@ -108,7 +118,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ashen",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "ashen--dlc1",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "ashen--faq",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

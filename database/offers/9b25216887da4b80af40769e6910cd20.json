@@ -59,7 +59,10 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1084",
       "name": "Stealth"
@@ -103,7 +106,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "hello-neighbor-hide-and-seek--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hello-neighbor-hide-and-seek",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

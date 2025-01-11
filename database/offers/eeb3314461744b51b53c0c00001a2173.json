@@ -46,6 +46,10 @@
     {
       "id": "1210",
       "name": "Shooter"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
     }
   ],
   "items": [
@@ -98,7 +102,14 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "arc-raiders",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "arc-raiders",

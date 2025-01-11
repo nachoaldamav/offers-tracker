@@ -43,13 +43,22 @@
   "urlSlug": "sandpipergeneralaudience",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1393",
+      "name": "Simulation"
+    },
     {
       "id": "1283",
       "name": "Sports"
     },
-    null,
-    null,
+    {
+      "id": "24570",
+      "name": "Holiday Sale"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1212",
       "name": "Racing"
@@ -97,7 +106,34 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "overpass--yamaha-special-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "overpass--expert-vehicles-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "overpass--smart-start-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "overpass--drive-with-style",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "overpass",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "overpass--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

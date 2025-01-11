@@ -27,7 +27,10 @@
   "urlSlug": "heavy-rain-prepurchase",
   "url": null,
   "tags": [
-    null
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
   ],
   "items": [
     {
@@ -61,7 +64,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "heavy-rain",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "heavy-rain--demo",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

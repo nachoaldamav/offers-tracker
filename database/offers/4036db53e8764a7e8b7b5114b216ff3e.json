@@ -35,7 +35,10 @@
   "urlSlug": "rebel-galaxy-outlaw-pre-purchase",
   "url": null,
   "tags": [
-    null
+    {
+      "id": "9547",
+      "name": "Windows"
+    }
   ],
   "items": [
     {
@@ -79,7 +82,14 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "rebel-galaxy-outlaw",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

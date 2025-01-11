@@ -46,6 +46,10 @@
     {
       "id": "9559",
       "name": "Editors"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
     }
   ],
   "items": [
@@ -79,7 +83,14 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "days-of-war",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

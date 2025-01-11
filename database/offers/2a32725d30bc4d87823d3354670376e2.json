@@ -55,12 +55,18 @@
       "id": "21129",
       "name": "Challenging Combat"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "22924",
       "name": "Raw Fury Publisher Sale"
     },
-    null,
+    {
+      "id": "1393",
+      "name": "Simulation"
+    },
     {
       "id": "21138",
       "name": "Recommend this Game"
@@ -128,7 +134,34 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "atomicrops--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "atomicrops",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "atomicrops--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "atomicrops--reap-what-you-crow",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "atomicrops--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "atomicrops--deerly-beloved",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

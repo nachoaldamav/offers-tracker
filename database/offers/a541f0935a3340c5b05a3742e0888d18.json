@@ -43,7 +43,10 @@
   "urlSlug": "industries-of-titan",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1393",
+      "name": "Simulation"
+    },
     {
       "id": "21894",
       "name": "Cloud Saves"
@@ -59,6 +62,10 @@
     {
       "id": "1115",
       "name": "Strategy"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
     }
   ],
   "items": [
@@ -87,7 +94,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "industries-of-titan--under-construction-ost",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "industries-of-titan--early-access-faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "industries-of-titan",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Brace Yourself Games",
   "publisherDisplayName": "Brace Yourself Games",
