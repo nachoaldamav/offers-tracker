@@ -63,10 +63,7 @@
       "id": "1294",
       "name": "First Person"
     },
-    {
-      "id": "1264",
-      "name": "Co-op"
-    },
+    null,
     {
       "id": "31313",
       "name": "First Run"
@@ -199,7 +196,28 @@
   ],
   "developerDisplayName": "Frag Lab LLC",
   "publisherDisplayName": "Faraway Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 24,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 475,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "7c380307243241ada93a3ee6b10ce043"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-05T10:00:00.000Z",
   "pcReleaseDate": "2024-12-05T10:00:00.000Z",
