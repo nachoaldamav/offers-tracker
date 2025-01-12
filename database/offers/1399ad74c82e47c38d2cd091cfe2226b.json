@@ -31,7 +31,10 @@
   "urlSlug": "89480d8bafb945efb064203221c0c051",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1218",
+      "name": "Horror"
+    },
     {
       "id": "1395",
       "name": "Narration"
@@ -40,7 +43,10 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "10719",
       "name": "Mac OS"
@@ -77,11 +83,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "amelie-45eab1",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "amelie-45eab1",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Two and a Half Studios",
   "publisherDisplayName": "Hound Picked Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 399,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-03-07T00:00:00.000Z",
   "pcReleaseDate": "2022-03-07T00:00:00.000Z",

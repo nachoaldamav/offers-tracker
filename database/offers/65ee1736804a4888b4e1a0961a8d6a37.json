@@ -31,12 +31,18 @@
   "urlSlug": "b55d7ac8cf6d4caabb0ec4bd4e7877b0",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1218",
+      "name": "Horror"
+    },
     {
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1117",
       "name": "Adventure"
@@ -73,11 +79,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "janitor-bleeds-137dee",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "janitor-bleeds-137dee",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Korpus",
   "publisherDisplayName": "Bonus Stage Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1299,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-04-07T12:00:00.000Z",
   "pcReleaseDate": "2022-04-07T12:00:00.000Z",
