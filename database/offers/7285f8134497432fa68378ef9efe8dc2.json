@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-01-01T16:00:00.000Z",
   "creationDate": "2019-12-13T02:52:35.631Z",
-  "lastModifiedDate": "2024-12-15T19:22:48.285Z",
+  "lastModifiedDate": "2025-01-12T12:04:14.140Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,10 +50,6 @@
     {
       "id": "1188",
       "name": "RELAXING"
-    },
-    {
-      "id": "21125",
-      "name": "Competitive Community"
     },
     {
       "id": "19847",
@@ -158,11 +154,35 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "darksiders2",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2015-11-05T15:00:00.000Z",
   "pcReleaseDate": null,
