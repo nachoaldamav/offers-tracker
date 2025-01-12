@@ -63,7 +63,10 @@
       "id": "1370",
       "name": "Single Player"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "1263",
       "name": "Indie"
@@ -108,7 +111,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "fly-rocket-die-9f9b90",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "fly-rocket-die-9f9b90",
@@ -117,7 +127,28 @@
   ],
   "developerDisplayName": "Bunny",
   "publisherDisplayName": "CD_Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 124,
+      "originalPrice": 249,
+      "voucherDiscount": 0,
+      "discount": 125,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "d213e089f43141519b4c552491de7ac7"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-09T09:00:00.000Z",
   "pcReleaseDate": "2024-12-09T09:00:00.000Z",

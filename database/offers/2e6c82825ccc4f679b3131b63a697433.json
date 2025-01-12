@@ -47,7 +47,10 @@
       "id": "1210",
       "name": "Shooter"
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
     {
       "id": "21739",
       "name": "NFT BLOCKCHAIN"
@@ -55,6 +58,10 @@
     {
       "id": "1294",
       "name": "First Person"
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS"
     }
   ],
   "items": [
@@ -96,7 +103,18 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ponchiqs-e93244",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "ponchiqs-faq-674d67",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "ponchiqs-e93244",
@@ -105,7 +123,24 @@
   ],
   "developerDisplayName": "Ponchiqs",
   "publisherDisplayName": "Ponchiqs",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-06T03:00:00.000Z",
   "pcReleaseDate": "2024-12-06T03:00:00.000Z",
