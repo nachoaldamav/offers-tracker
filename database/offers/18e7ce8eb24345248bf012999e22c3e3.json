@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-01-14T14:00:00.000Z",
   "creationDate": "2024-12-24T04:38:57.267Z",
-  "lastModifiedDate": "2025-01-13T04:27:40.304Z",
+  "lastModifiedDate": "2025-01-13T19:12:31.110Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -23,7 +23,7 @@
     },
     {
       "type": "heroCarouselVideo",
-      "url": "com.epicgames.video://dd10e79b-ecda-4889-9930-6e8cd88f2aee?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fed4981a403e84619a43283d33612a6c4%2Fhexaworld3d-video-qhqjr.png"
+      "url": "com.epicgames.video://ae74caec-7f75-4b22-b8c3-8788dd599613?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fed4981a403e84619a43283d33612a6c4%2Fhexaworld3d-video-gws0o.png"
     },
     {
       "type": "featuredMedia",
@@ -135,7 +135,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "hexaworld3d-fde8c4",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "hexaworld3d-fde8c4",
@@ -144,7 +151,24 @@
   ],
   "developerDisplayName": "Hell Games",
   "publisherDisplayName": "Hell Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-01-14T14:00:00.000Z",
   "pcReleaseDate": "2025-01-14T14:00:00.000Z",
