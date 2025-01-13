@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-04-28T13:00:00.000Z",
   "creationDate": "2021-11-16T12:27:14.845Z",
-  "lastModifiedDate": "2024-12-12T11:20:23.349Z",
+  "lastModifiedDate": "2025-01-13T13:55:15.383Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -52,10 +52,6 @@
       "name": "Single Player"
     },
     {
-      "id": "24570",
-      "name": "Holiday Sale"
-    },
-    {
       "id": "1115",
       "name": "Strategy"
     },
@@ -95,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "imagine-earth-7498e4",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "imagine-earth-7498e4",
@@ -104,7 +107,24 @@
   ],
   "developerDisplayName": "Serious Bros.",
   "publisherDisplayName": "Serious Bros.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-04-28T13:00:00.000Z",
   "pcReleaseDate": "2022-04-28T13:00:00.000Z",

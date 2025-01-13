@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-01-21T14:00:00.000Z",
   "creationDate": "2021-12-10T12:18:29.273Z",
-  "lastModifiedDate": "2024-12-12T11:20:23.229Z",
+  "lastModifiedDate": "2025-01-13T13:55:15.213Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -52,10 +52,6 @@
       "name": "Single Player"
     },
     {
-      "id": "24570",
-      "name": "Holiday Sale"
-    },
-    {
       "id": "9547",
       "name": "Windows"
     }
@@ -87,11 +83,40 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "strange-horticulture-360e80",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "strange-horticulture-360e80",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Bad Viking",
   "publisherDisplayName": "Iceberg Interactive",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-01-21T14:00:00.000Z",
   "pcReleaseDate": "2022-01-21T14:00:00.000Z",

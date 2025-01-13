@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-05-19T14:00:00.000Z",
   "creationDate": "2022-04-04T16:21:35.436Z",
-  "lastModifiedDate": "2024-12-12T11:20:23.238Z",
+  "lastModifiedDate": "2025-01-13T13:55:15.224Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,10 +42,6 @@
     {
       "id": "1370",
       "name": "Single Player"
-    },
-    {
-      "id": "24570",
-      "name": "Holiday Sale"
     },
     {
       "id": "1115",
@@ -87,7 +83,22 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "relegion-fe9684",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "relegion-relegion-digital_soundtrack_-8a2caf",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "relegion-relegion-digital_artbook_-ce51af",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "relegion-fe9684",
@@ -96,7 +107,24 @@
   ],
   "developerDisplayName": "Ice Code Games",
   "publisherDisplayName": "Fulqrum Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-05-19T14:00:00.000Z",
   "pcReleaseDate": "2019-01-31T00:00:00.000Z",

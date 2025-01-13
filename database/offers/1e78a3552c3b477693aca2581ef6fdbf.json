@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-06-14T17:00:00.000Z",
   "creationDate": "2022-04-18T15:10:22.321Z",
-  "lastModifiedDate": "2024-12-12T11:20:23.301Z",
+  "lastModifiedDate": "2025-01-13T13:55:15.303Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -56,10 +56,6 @@
       "name": "Single Player"
     },
     {
-      "id": "24570",
-      "name": "Holiday Sale"
-    },
-    {
       "id": "1115",
       "name": "Strategy"
     },
@@ -94,11 +90,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-guild-3",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-guild-3--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Purple Lamp",
   "publisherDisplayName": "THQ Nordic GmbH  ",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-06-14T17:00:00.000Z",
   "pcReleaseDate": "2022-06-14T17:00:00.000Z",

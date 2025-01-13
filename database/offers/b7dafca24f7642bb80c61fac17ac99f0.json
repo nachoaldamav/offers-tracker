@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-04-14T13:00:00.000Z",
   "creationDate": "2022-01-03T19:29:51.505Z",
-  "lastModifiedDate": "2024-12-12T11:20:23.393Z",
+  "lastModifiedDate": "2025-01-13T13:55:15.474Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -38,10 +38,6 @@
     {
       "id": "1386",
       "name": "Turn-Based"
-    },
-    {
-      "id": "24570",
-      "name": "Holiday Sale"
     },
     {
       "id": "1115",
@@ -87,7 +83,26 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "othercide-othercide-dressed-to-kill-cosmetics-pack-29a869",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "othercide-19bfa0",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "othercide-othercide-artbook-1c2f5e",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "othercide-othercide-soundtrack-6d64db",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "othercide-19bfa0",
@@ -96,7 +111,24 @@
   ],
   "developerDisplayName": "Lightbulb Crew",
   "publisherDisplayName": "Focus Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-04-14T13:00:00.000Z",
   "pcReleaseDate": "2020-07-28T00:00:00.000Z",

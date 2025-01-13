@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-05-13T13:00:00.000Z",
   "creationDate": "2022-03-10T12:11:39.050Z",
-  "lastModifiedDate": "2024-12-12T11:20:23.378Z",
+  "lastModifiedDate": "2025-01-13T13:55:15.446Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -44,10 +44,6 @@
       "name": "Single Player"
     },
     {
-      "id": "24570",
-      "name": "Holiday Sale"
-    },
-    {
       "id": "9547",
       "name": "Windows"
     },
@@ -83,7 +79,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "urban-trial-playground-41e403",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "urban-trial-playground-41e403",
@@ -92,7 +95,24 @@
   ],
   "developerDisplayName": "Tate Multimedia, Teyon",
   "publisherDisplayName": "Tate Multimedia",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 699,
+      "originalPrice": 699,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-05-13T13:00:00.000Z",
   "pcReleaseDate": "2019-04-05T00:00:00.000Z",

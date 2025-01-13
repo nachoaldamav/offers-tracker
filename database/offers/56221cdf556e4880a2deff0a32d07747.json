@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-05-17T15:00:00.000Z",
   "creationDate": "2022-08-11T10:23:48.044Z",
-  "lastModifiedDate": "2024-12-12T11:20:23.292Z",
+  "lastModifiedDate": "2025-01-13T13:55:15.292Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,10 +42,6 @@
     {
       "id": "1370",
       "name": "Single Player"
-    },
-    {
-      "id": "24570",
-      "name": "Holiday Sale"
     },
     {
       "id": "9547",
@@ -91,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "elypse-b177a8",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "elypse-b177a8",
@@ -100,7 +103,24 @@
   ],
   "developerDisplayName": "Hot Chili Games",
   "publisherDisplayName": "PID Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-05-17T15:00:00.000Z",
   "pcReleaseDate": "2023-05-17T15:00:00.000Z",

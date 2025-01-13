@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-01-24T17:00:00.000Z",
   "creationDate": "2022-01-07T19:25:26.762Z",
-  "lastModifiedDate": "2024-12-12T11:20:23.367Z",
+  "lastModifiedDate": "2025-01-13T13:55:15.422Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -38,10 +38,6 @@
     {
       "id": "1370",
       "name": "Single Player"
-    },
-    {
-      "id": "24570",
-      "name": "Holiday Sale"
     },
     {
       "id": "1115",
@@ -82,11 +78,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "this-is-the-police-2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "this-is-the-police-2--official-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Weappy Studio",
   "publisherDisplayName": "THQ Nordic",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-01-24T17:00:00.000Z",
   "pcReleaseDate": "2018-07-31T17:00:00.000Z",

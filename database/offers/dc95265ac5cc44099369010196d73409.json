@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-05-20T16:00:00.000Z",
   "creationDate": "2022-01-04T17:31:50.342Z",
-  "lastModifiedDate": "2024-12-12T11:20:23.228Z",
+  "lastModifiedDate": "2025-01-13T13:55:15.212Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,10 +42,6 @@
     {
       "id": "1370",
       "name": "Single Player"
-    },
-    {
-      "id": "24570",
-      "name": "Holiday Sale"
     },
     {
       "id": "1115",
@@ -91,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "they-are-coming-a17087",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "they-are-coming-a17087",
@@ -100,7 +103,24 @@
   ],
   "developerDisplayName": "The 6-month initiative",
   "publisherDisplayName": "Freedom Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-05-20T16:00:00.000Z",
   "pcReleaseDate": "2022-05-20T16:00:00.000Z",

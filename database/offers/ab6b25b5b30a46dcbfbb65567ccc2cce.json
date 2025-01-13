@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-05-19T15:00:00.000Z",
   "creationDate": "2022-04-28T12:47:50.229Z",
-  "lastModifiedDate": "2024-12-12T11:20:23.293Z",
+  "lastModifiedDate": "2025-01-13T13:55:15.294Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -34,10 +34,6 @@
     {
       "id": "1370",
       "name": "Single Player"
-    },
-    {
-      "id": "24570",
-      "name": "Holiday Sale"
     },
     {
       "id": "9547",
@@ -75,7 +71,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "goetia-2-97b0ff",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "goetia-2-97b0ff",
@@ -84,7 +87,24 @@
   ],
   "developerDisplayName": "TA Publishing",
   "publisherDisplayName": "TA Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-05-19T15:00:00.000Z",
   "pcReleaseDate": "2022-05-19T00:00:00.000Z",

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-01-20T18:00:00.000Z",
   "creationDate": "2024-11-20T12:07:00.072Z",
-  "lastModifiedDate": "2024-12-12T11:20:23.381Z",
+  "lastModifiedDate": "2025-01-13T13:55:15.453Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,10 +46,6 @@
     {
       "id": "1370",
       "name": "Single Player"
-    },
-    {
-      "id": "24570",
-      "name": "Holiday Sale"
     },
     {
       "id": "1115",
@@ -110,11 +106,48 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "expeditions-rome--official-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "expeditions-rome--death-or-glory",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "expeditions-rome",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "expeditions-rome",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Logic Artists",
   "publisherDisplayName": "THQ Nordic",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4499,
+      "originalPrice": 4499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-01-20T18:00:00.000Z",
   "pcReleaseDate": "2022-01-20T18:00:00.000Z",

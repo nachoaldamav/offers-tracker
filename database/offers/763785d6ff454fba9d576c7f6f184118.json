@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-06-10T20:00:00.000Z",
   "creationDate": "2021-12-09T16:28:08.495Z",
-  "lastModifiedDate": "2024-12-27T13:01:41.163Z",
+  "lastModifiedDate": "2025-01-13T13:55:15.211Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -38,10 +38,6 @@
     {
       "id": "1370",
       "name": "Single Player"
-    },
-    {
-      "id": "24570",
-      "name": "Holiday Sale"
     },
     {
       "id": "1115",
@@ -91,7 +87,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "symphony-of-war-60a76e",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "symphony-of-war-symphony-of-war-the-nephilim-saga-legends-62b08f",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "symphony-of-war-60a76e",
@@ -100,7 +107,24 @@
   ],
   "developerDisplayName": "Dancing Dragon Games",
   "publisherDisplayName": "Freedom Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-06-10T20:00:00.000Z",
   "pcReleaseDate": "2022-06-10T20:00:00.000Z",

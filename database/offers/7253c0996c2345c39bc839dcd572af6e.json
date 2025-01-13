@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-03-30T14:30:00.000Z",
   "creationDate": "2022-01-21T18:25:16.583Z",
-  "lastModifiedDate": "2024-12-12T11:20:23.243Z",
+  "lastModifiedDate": "2025-01-13T13:55:15.230Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -96,10 +96,6 @@
       "name": "Educational"
     },
     {
-      "id": "24570",
-      "name": "Holiday Sale"
-    },
-    {
       "id": "1307",
       "name": "Open World"
     },
@@ -146,11 +142,43 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "death-stranding-directors-cut--technical-support",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "death-stranding-directors-cut--upgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "death-stranding-directors-cut",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "KOJIMA PRODUCTIONS",
   "publisherDisplayName": "505 Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-03-30T14:30:00.000Z",
   "pcReleaseDate": "2022-03-30T14:30:00.000Z",

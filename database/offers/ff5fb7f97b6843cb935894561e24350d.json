@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-06-28T17:00:00.000Z",
   "creationDate": "2022-02-09T18:45:33.229Z",
-  "lastModifiedDate": "2024-12-12T11:20:23.306Z",
+  "lastModifiedDate": "2025-01-13T13:55:15.310Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -60,10 +60,6 @@
       "name": "Single Player"
     },
     {
-      "id": "24570",
-      "name": "Holiday Sale"
-    },
-    {
       "id": "1115",
       "name": "Strategy"
     },
@@ -98,11 +94,47 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "disgaea-6-complete",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "disgaea-6-complete--digital-dood-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "disgaea-6-complete--hololive-collaboration-set",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "disgaea-6-complete--digital-art-book",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Nippon Ichi Software, Inc.",
   "publisherDisplayName": "NIS America, Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 5999,
+      "originalPrice": 5999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-06-28T17:00:00.000Z",
   "pcReleaseDate": "2022-06-28T17:00:00.000Z",

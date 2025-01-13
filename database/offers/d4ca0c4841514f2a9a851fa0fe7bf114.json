@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-05-26T13:00:00.000Z",
   "creationDate": "2021-10-12T19:10:27.853Z",
-  "lastModifiedDate": "2024-12-12T11:20:23.352Z",
+  "lastModifiedDate": "2025-01-13T13:55:15.389Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -48,10 +48,6 @@
       "name": "Turn-Based"
     },
     {
-      "id": "24570",
-      "name": "Holiday Sale"
-    },
-    {
       "id": "9547",
       "name": "Windows"
     }
@@ -83,7 +79,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "hellslave-cc8a71",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "hellslave-cc8a71",
@@ -92,7 +95,24 @@
   ],
   "developerDisplayName": "Ars Goetia",
   "publisherDisplayName": "PID Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-05-26T13:00:00.000Z",
   "pcReleaseDate": "2022-05-26T13:00:00.000Z",

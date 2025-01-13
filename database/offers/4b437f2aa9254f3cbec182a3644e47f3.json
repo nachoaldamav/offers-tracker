@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-03-10T00:00:00.000Z",
   "creationDate": "2022-01-07T14:49:56.790Z",
-  "lastModifiedDate": "2024-12-12T11:20:23.339Z",
+  "lastModifiedDate": "2025-01-13T13:55:15.364Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -40,10 +40,6 @@
       "name": "Single Player"
     },
     {
-      "id": "24570",
-      "name": "Holiday Sale"
-    },
-    {
       "id": "9547",
       "name": "Windows"
     }
@@ -75,7 +71,22 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "fishing-north-atlantic-9fbc5c",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "fishing-north-atlantic-fishing-north-atlantic-scallop-067dd3",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "fishing-north-atlantic-fishing-north-atlantic-af-theriault-ab85b6",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "fishing-north-atlantic-9fbc5c",
@@ -84,7 +95,24 @@
   ],
   "developerDisplayName": "Misc Games",
   "publisherDisplayName": "Misc Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-03-10T00:00:00.000Z",
   "pcReleaseDate": "2022-03-10T00:00:00.000Z",

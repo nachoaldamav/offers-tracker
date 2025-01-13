@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-02-18T12:00:00.000Z",
   "creationDate": "2022-02-07T17:30:28.034Z",
-  "lastModifiedDate": "2024-12-12T11:20:23.266Z",
+  "lastModifiedDate": "2025-01-13T13:55:15.255Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -38,10 +38,6 @@
     {
       "id": "1370",
       "name": "Single Player"
-    },
-    {
-      "id": "24570",
-      "name": "Holiday Sale"
     },
     {
       "id": "9547",
@@ -91,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "rainswept-5f368a",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "rainswept-5f368a",
@@ -100,7 +103,24 @@
   ],
   "developerDisplayName": "Frostwood Interactive",
   "publisherDisplayName": "Frostwood Interactive",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1199,
+      "originalPrice": 1199,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-02-18T12:00:00.000Z",
   "pcReleaseDate": "2022-02-18T12:00:00.000Z",

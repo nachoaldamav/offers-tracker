@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-03-01T18:00:00.000Z",
   "creationDate": "2022-01-10T21:43:06.325Z",
-  "lastModifiedDate": "2024-12-12T11:20:23.319Z",
+  "lastModifiedDate": "2025-01-13T13:55:15.326Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -48,10 +48,6 @@
       "name": "Single Player"
     },
     {
-      "id": "24570",
-      "name": "Holiday Sale"
-    },
-    {
       "id": "9547",
       "name": "Windows"
     },
@@ -90,11 +86,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "elex-ii",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "elex-ii--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": " Piranha Bytes",
   "publisherDisplayName": "THQ Nordic",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-03-01T18:00:00.000Z",
   "pcReleaseDate": "2022-03-01T18:00:00.000Z",

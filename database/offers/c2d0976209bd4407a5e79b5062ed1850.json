@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-02-09T18:00:00.000Z",
   "creationDate": "2022-01-27T20:34:50.029Z",
-  "lastModifiedDate": "2024-12-12T11:20:23.380Z",
+  "lastModifiedDate": "2025-01-13T13:55:15.450Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -34,10 +34,6 @@
     {
       "id": "1370",
       "name": "Single Player"
-    },
-    {
-      "id": "24570",
-      "name": "Holiday Sale"
     },
     {
       "id": "1115",
@@ -75,11 +71,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "diplomacy-is-not-an-option-faq-91dc18",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "diplomacy-is-not-an-option-9c6bea",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "diplomacy-is-not-an-option-9c6bea",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Door 407",
   "publisherDisplayName": "Door 407",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-02-09T18:00:00.000Z",
   "pcReleaseDate": "2022-02-09T18:00:00.000Z",

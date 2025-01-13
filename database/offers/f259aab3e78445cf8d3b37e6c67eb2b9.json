@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-05-17T15:00:00.000Z",
   "creationDate": "2021-11-22T20:02:59.121Z",
-  "lastModifiedDate": "2025-01-12T19:23:52.757Z",
+  "lastModifiedDate": "2025-01-13T13:55:15.321Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -92,10 +92,6 @@
       "name": "Single Player"
     },
     {
-      "id": "24570",
-      "name": "Holiday Sale"
-    },
-    {
       "id": "1117",
       "name": "Adventure"
     },
@@ -134,11 +130,47 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "outward--the-three-brothers",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "outward--the-soroboreans",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "outward--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "outward",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Nine Dots Studio",
   "publisherDisplayName": "Prime Matter",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-05-17T15:00:00.000Z",
   "pcReleaseDate": "2022-05-17T15:00:00.000Z",
