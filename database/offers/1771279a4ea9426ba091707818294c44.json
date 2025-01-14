@@ -92,10 +92,36 @@
     }
   ],
   "catalogNs": null,
-  "offerMappings": null,
+  "offerMappings": [
+    {
+      "pageSlug": "60-parsecs-0481c5",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Robot Gentleman",
   "publisherDisplayName": "Robot Gentleman",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "208c00b0b7084231ac4bf5fd4f462014"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-12-13T15:00:00.000Z",
   "pcReleaseDate": "2018-09-17T22:00:00.000Z",

@@ -95,7 +95,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "flame-keeper-faq-e67798",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "flame-keeper-fc7a6d",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "flame-keeper-fc7a6d",
@@ -104,7 +115,24 @@
   ],
   "developerDisplayName": "Kautki Cave",
   "publisherDisplayName": "Untold Tales S.A.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1199,
+      "originalPrice": 1199,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-03-17T14:00:00.000Z",
   "pcReleaseDate": "2023-03-16T23:00:00.000Z",

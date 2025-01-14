@@ -91,28 +91,26 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": null,
-  "publisherDisplayName": null,
-  "price": {
-    "totalPrice": {
-      "discountPrice": 2499,
-      "originalPrice": 2499,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": []
+        "pageSlug": "we-are-football",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "we-are-football--dlc-edition-bundesliga",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "we-are-football--national-teams",
+        "pageType": "addon--cms-hybrid"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2021-06-10T17:00:00.000Z",
   "pcReleaseDate": "2021-06-10T17:00:00.000Z",
