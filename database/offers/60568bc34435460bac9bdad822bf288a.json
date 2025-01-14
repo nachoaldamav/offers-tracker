@@ -78,8 +78,23 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "lumote",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "lumote--ost",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "lumote--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Luminawesome Games",
   "publisherDisplayName": "Wired Productions  ",
   "price": null,
