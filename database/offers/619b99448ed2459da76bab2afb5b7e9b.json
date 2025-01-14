@@ -107,13 +107,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "escape-the-charon-922725",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "escape-the-charon-escape-the-charon-demo-e01655",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "escape-the-charon-922725",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Escape-The-Games",
   "publisherDisplayName": "Escape-The-Games",
   "price": null,

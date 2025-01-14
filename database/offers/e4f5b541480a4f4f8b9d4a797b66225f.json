@@ -107,13 +107,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "fp-a6ffdb",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "fp-a6ffdb",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "fp-faq-701683",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Duckland Games",
   "publisherDisplayName": "Vermilion Studios Limited",
   "price": null,
