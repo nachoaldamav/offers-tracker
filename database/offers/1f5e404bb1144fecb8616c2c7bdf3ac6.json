@@ -139,7 +139,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "jotunnslayer-hordes-of-hel-3579b3",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "jotunnslayer-hordes-of-hel-faq-9eb300",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "jotunnslayer-hordes-of-hel-3579b3",
@@ -148,7 +159,24 @@
   ],
   "developerDisplayName": "Games Farm",
   "publisherDisplayName": "Grindstone",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-01-21T13:00:00.000Z",
   "pcReleaseDate": "2025-01-21T13:00:00.000Z",
