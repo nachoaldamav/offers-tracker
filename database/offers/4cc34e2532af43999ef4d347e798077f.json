@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "creationDate": "2024-09-12T04:07:34.163Z",
-  "lastModifiedDate": "2025-01-14T14:22:06.250Z",
+  "lastModifiedDate": "2025-01-14T14:29:19.357Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -103,7 +103,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "anomalies-detective-8b0110",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "anomalies-detective-8b0110",
@@ -114,14 +121,14 @@
   "publisherDisplayName": "ChenGame",
   "price": null,
   "prePurchase": null,
-  "releaseDate": "2025-01-31T00:00:00.000Z",
+  "releaseDate": "2025-01-15T00:00:00.000Z",
   "pcReleaseDate": "2024-12-27T22:00:00.000Z",
   "viewableDate": "2025-01-14T14:22:04.000Z",
   "approximateReleasePlan": {
-    "day": null,
+    "day": 15,
     "month": 1,
     "quarter": null,
     "year": 2025,
-    "releaseDateType": "BY_MONTH"
+    "releaseDateType": "BY_DATE"
   }
 }
