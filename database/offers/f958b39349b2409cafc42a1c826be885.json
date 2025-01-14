@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "adventure-of-prince-shiratama-vol_mountain-fbe9f3",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "adventure-of-prince-shiratama-vol_mountain-fbe9f3",
@@ -100,7 +107,24 @@
   ],
   "developerDisplayName": "Leon Gameworks",
   "publisherDisplayName": "Leon Gameworks",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 199,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-06-26T11:00:00.000Z",
   "pcReleaseDate": "2024-06-05T15:00:00.000Z",
