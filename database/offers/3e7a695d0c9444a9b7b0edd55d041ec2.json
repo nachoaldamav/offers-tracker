@@ -106,8 +106,28 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "expeditions-rome--official-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "expeditions-rome--death-or-glory",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "expeditions-rome",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "expeditions-rome",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Logic Artists",
   "publisherDisplayName": "THQ Nordic",
   "price": null,
