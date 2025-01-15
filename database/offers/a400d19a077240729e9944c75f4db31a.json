@@ -114,7 +114,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sonic-colors-ultimate",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "sonic-colors-ultimate--digital-deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
