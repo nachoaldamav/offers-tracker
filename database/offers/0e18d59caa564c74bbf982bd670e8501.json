@@ -143,22 +143,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "ng2025-faq-b78960",
-        "pageType": "info"
-      },
-      {
-        "pageSlug": "ng2025-6b16ae",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "ng2025-new-year-simulator-2025-demo-d6a8e6",
-        "pageType": "offer"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "ng2025-6b16ae",
@@ -167,7 +152,24 @@
   ],
   "developerDisplayName": "HappyJack, PureDeli",
   "publisherDisplayName": "WorldSimulatorGame",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1799,
+      "originalPrice": 1799,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-02-28T00:00:00.000Z",
   "pcReleaseDate": "2024-12-31T00:00:00.000Z",
