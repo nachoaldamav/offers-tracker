@@ -86,8 +86,15 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tunic",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "ISOMETRICORP Games Ltd.",
   "publisherDisplayName": "Finji",
   "price": null,
