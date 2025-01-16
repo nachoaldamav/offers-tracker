@@ -94,11 +94,47 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "starsand",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "starsand--digital-supporter-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "starsand--digital-supporter-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "starsand--early-access-faq",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Tunnel Vision Studio",
   "publisherDisplayName": "Toplitz Productions",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-11-14T17:00:00.000Z",
   "pcReleaseDate": "2021-11-04T11:00:00.000Z",
