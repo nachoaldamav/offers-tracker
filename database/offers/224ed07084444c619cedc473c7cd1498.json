@@ -140,10 +140,10 @@
   "publisherDisplayName": "iam8bit Presents",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 0,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1999,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -152,7 +152,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "fa7604156c304ee8970fc3a3218f7d0c"
+          }
+        ]
       }
     ]
   },
