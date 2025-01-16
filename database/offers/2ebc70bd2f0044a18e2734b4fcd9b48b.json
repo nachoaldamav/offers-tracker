@@ -122,7 +122,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "star-wars-squadrons",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "star-wars-squadrons--x-wing-glider-faq",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
