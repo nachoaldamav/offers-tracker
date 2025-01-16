@@ -99,7 +99,30 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "versus-foxcode-dlc-cavestation-a246f5",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "versus-faq-f50a32",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "versus-foxcode-dlc-bank-1dc5c3",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "versus-foxcode-dlc-battleship-820bce",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "versus-0763da",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "versus-0763da",
@@ -108,7 +131,24 @@
   ],
   "developerDisplayName": "FoxCode Games",
   "publisherDisplayName": "FoxCode Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-04-30T23:00:00.000Z",
   "pcReleaseDate": "2024-04-30T23:00:00.000Z",

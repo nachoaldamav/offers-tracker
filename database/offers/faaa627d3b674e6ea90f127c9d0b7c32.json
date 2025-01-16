@@ -99,7 +99,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "hidden-shapes-cat-realm-3fed96",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "hidden-shapes-cat-realm-3fed96",
@@ -108,7 +115,28 @@
   ],
   "developerDisplayName": "YAW Studios",
   "publisherDisplayName": "YAW Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 119,
+      "originalPrice": 199,
+      "voucherDiscount": 0,
+      "discount": 80,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "fbadc1045f114981a3b97b93b812ca4a"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-05-02T17:00:00.000Z",
   "pcReleaseDate": "2022-11-16T17:00:00.000Z",
