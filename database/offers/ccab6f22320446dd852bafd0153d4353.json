@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "creationDate": "2023-11-06T14:04:48.542Z",
-  "lastModifiedDate": "2025-01-14T20:59:56.321Z",
+  "lastModifiedDate": "2025-01-16T11:38:01.919Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -20,9 +20,33 @@
     {
       "type": "Thumbnail",
       "url": "https://cdn1.epicgames.com/spt-assets/796d86745a404abe8c6159a2ea304152/skystead-ranch-1d4uk.png"
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://06115510-e9bf-4a61-974d-959a5b7a063f?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F796d86745a404abe8c6159a2ea304152%2Fskystead-ranch-video-1lkm2.png"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/796d86745a404abe8c6159a2ea304152/skystead-ranch-y0i17.png"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/796d86745a404abe8c6159a2ea304152/skystead-ranch-17sa0.png"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/796d86745a404abe8c6159a2ea304152/skystead-ranch-r4bqz.png"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/796d86745a404abe8c6159a2ea304152/skystead-ranch-1w4hk.png"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/796d86745a404abe8c6159a2ea304152/skystead-ranch-5q5oe.png"
     }
   ],
-  "currentPrice": 1999,
+  "currentPrice": 2499,
   "seller": {
     "id": "o-9bf3y9nefnylbmlklynq2ya3pbd9bk",
     "name": "ToastieLabs Ltd"
@@ -54,6 +78,10 @@
     {
       "id": "1263",
       "name": "Indie"
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS"
     }
   ],
   "items": [
@@ -77,7 +105,7 @@
     },
     {
       "key": "isManuallySetPCReleaseDate",
-      "value": "false"
+      "value": "true"
     },
     {
       "key": "isBlockchainUsed",
@@ -95,7 +123,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "skystead-ranch-749c70",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "skystead-ranch-749c70",
@@ -104,7 +139,24 @@
   ],
   "developerDisplayName": "ToastieLabs",
   "publisherDisplayName": "ToastieLabs",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-01-17T00:00:00.000Z",
   "pcReleaseDate": "2025-01-17T00:00:00.000Z",
