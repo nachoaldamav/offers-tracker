@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "creationDate": "2023-03-10T00:14:29.005Z",
-  "lastModifiedDate": "2025-01-17T16:21:22.135Z",
+  "lastModifiedDate": "2025-01-17T16:25:46.382Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -187,16 +187,33 @@
   ],
   "developerDisplayName": "SpotPixle Studios",
   "publisherDisplayName": "SpotPixle Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
-  "releaseDate": "2025-04-30T00:00:00.000Z",
+  "releaseDate": "2025-04-05T00:00:00.000Z",
   "pcReleaseDate": "2023-01-03T03:00:00.000Z",
   "viewableDate": "2024-04-19T06:06:47.955Z",
   "approximateReleasePlan": {
-    "day": null,
+    "day": 5,
     "month": 4,
     "quarter": null,
     "year": 2025,
-    "releaseDateType": "BY_MONTH"
+    "releaseDateType": "BY_DATE"
   }
 }
