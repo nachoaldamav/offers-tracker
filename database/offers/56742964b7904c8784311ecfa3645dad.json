@@ -99,11 +99,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "skye-tales-02bf5b",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "skye-tales-02bf5b",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Puny Astronaut",
   "publisherDisplayName": "4J Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1399,
+      "originalPrice": 1399,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-08-16T23:00:00.000Z",
   "pcReleaseDate": "2023-08-16T23:00:00.000Z",
