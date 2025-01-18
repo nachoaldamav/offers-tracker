@@ -79,26 +79,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "patron-4ab1c1",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "patron-patron-supporter-pack-a85bf0",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "patron-patron-soundtrack-3cf0e5",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "patron-patron-mare-nostrum-7b5748",
-        "pageType": "offer"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "patron-4ab1c1",
@@ -107,7 +88,24 @@
   ],
   "developerDisplayName": "Overseer Games",
   "publisherDisplayName": "Overseer Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-03-10T18:00:00.000Z",
   "pcReleaseDate": "2022-03-10T00:00:00.000Z",

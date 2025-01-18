@@ -83,14 +83,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "vengeful-heart-5a2fb9",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "vengeful-heart-5a2fb9",
@@ -99,7 +92,24 @@
   ],
   "developerDisplayName": "Salmon Snake",
   "publisherDisplayName": "Top Hat Studios, Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-03-14T00:00:00.000Z",
   "pcReleaseDate": "2020-08-27T00:00:00.000Z",
