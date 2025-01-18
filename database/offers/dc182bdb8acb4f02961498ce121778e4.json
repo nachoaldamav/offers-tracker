@@ -90,7 +90,30 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "hypercharge-unboxed--complete-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hypercharge-unboxed--original-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "hypercharge-unboxed--supporter-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "hypercharge-unboxed--breaker-and-mightus-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "hypercharge-unboxed",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Digital Cybercherries LTD",
   "publisherDisplayName": "Digital Cybercherries LTD",
