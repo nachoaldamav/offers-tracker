@@ -111,7 +111,18 @@
       "path": "games/edition"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "synergia--soundtrack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "synergia",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "synergia",
