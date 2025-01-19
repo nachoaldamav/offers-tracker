@@ -91,13 +91,15 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "battle-ram-d001fd",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "battle-ram-d001fd",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Anatoliy Loginovskikh",
   "publisherDisplayName": "khukhrovr",
   "price": null,

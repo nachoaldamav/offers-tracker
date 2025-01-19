@@ -87,13 +87,15 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "the-alchemist-of-ars-magna-e68b84",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-alchemist-of-ars-magna-e68b84",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Ninetail",
   "publisherDisplayName": "MediBang",
   "price": null,

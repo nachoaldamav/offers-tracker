@@ -91,13 +91,15 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "video-game-trivia-5db425",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "video-game-trivia-5db425",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "LoadUpGames.com",
   "publisherDisplayName": "LoadUpGames.com",
   "price": null,
