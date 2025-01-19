@@ -138,7 +138,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "detroit-become-human--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "detroit-become-human",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
