@@ -103,7 +103,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "echo-of-the-horizon-12b9ee",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "echo-of-the-horizon-faq-c6c88b",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "echo-of-the-horizon-12b9ee",
@@ -112,7 +123,24 @@
   ],
   "developerDisplayName": "Echo Of The Horizon CO. L.L.C",
   "publisherDisplayName": "Echo Of The Horizon CO. L.L.C",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-04T00:00:00.000Z",
   "pcReleaseDate": "2024-04-26T16:00:00.000Z",
