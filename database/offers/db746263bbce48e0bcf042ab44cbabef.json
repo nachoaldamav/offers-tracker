@@ -151,7 +151,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "saiko-bot-f5351a",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "saiko-bot-faq-974e8a",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "saiko-bot-f5351a",
@@ -160,24 +171,7 @@
   ],
   "developerDisplayName": "GOKU SAIKO",
   "publisherDisplayName": "Firestorm Interactive",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 0,
-      "originalPrice": 0,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2025-01-02T05:00:00.000Z",
   "pcReleaseDate": "2025-01-02T05:00:00.000Z",

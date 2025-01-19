@@ -135,7 +135,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tronix-carnivalgames-7238a2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "tronix-carnivalgames-faq-d9cee2",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "tronix-carnivalgames-7238a2",
@@ -144,24 +155,7 @@
   ],
   "developerDisplayName": "Baubau Games",
   "publisherDisplayName": "Baubau Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1499,
-      "originalPrice": 1499,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2025-02-28T00:00:00.000Z",
   "pcReleaseDate": "2025-02-28T00:00:00.000Z",
