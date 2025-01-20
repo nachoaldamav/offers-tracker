@@ -90,7 +90,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-guild-3",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-guild-3--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Purple Lamp",
   "publisherDisplayName": "THQ Nordic GmbH  ",
