@@ -119,13 +119,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "directive-zero-238b99",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "directive-zero-238b99",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "directive-zero-faq-31083f",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "EndPoint",
   "publisherDisplayName": "EndPoint",
   "price": null,
