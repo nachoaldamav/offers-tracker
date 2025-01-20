@@ -142,8 +142,23 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "death-stranding-directors-cut--technical-support",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "death-stranding-directors-cut--upgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "death-stranding-directors-cut",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "KOJIMA PRODUCTIONS",
   "publisherDisplayName": "505 Games",
   "price": null,
