@@ -187,7 +187,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "torque-drift-2-d3ff95",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "torque-drift-2-faq-ab91b0",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "torque-drift-2-d3ff95",
@@ -196,7 +207,28 @@
   ],
   "developerDisplayName": "Grease Monkey Games Pty Ltd",
   "publisherDisplayName": "Grease Monkey Games Pty Ltd",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "b605249977734df6a7ef25438f897ac1"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-11-27T02:00:00.000Z",
   "pcReleaseDate": "2024-11-27T02:00:00.000Z",
