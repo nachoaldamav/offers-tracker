@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "organs-please-a5e5e4",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "organs-please-a5e5e4",
@@ -100,7 +107,28 @@
   ],
   "developerDisplayName": "TECHHOME",
   "publisherDisplayName": "HeroCraft PC",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1119,
+      "originalPrice": 1399,
+      "voucherDiscount": 0,
+      "discount": 280,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "693a8785f97948249669707e4881564c"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-07-26T20:00:00.000Z",
   "pcReleaseDate": "2023-04-05T16:00:00.000Z",
