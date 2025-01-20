@@ -94,8 +94,15 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "human-resource-machine",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Tomorrow Corporation",
   "publisherDisplayName": "Tomorrow Corporation",
   "price": null,
