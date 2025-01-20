@@ -90,8 +90,15 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "system-shock",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Nightdive Studios",
   "publisherDisplayName": "Prime Matter",
   "price": null,
