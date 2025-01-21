@@ -83,11 +83,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "timothy-vs-the-aliens-2f5b36",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "timothy-vs-the-aliens-2f5b36",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "WildSphere",
   "publisherDisplayName": "WildSphere",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-05-19T16:00:00.000Z",
   "pcReleaseDate": "2021-07-21T22:00:00.000Z",
