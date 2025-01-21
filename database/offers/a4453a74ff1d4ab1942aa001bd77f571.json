@@ -95,13 +95,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "colony-defense-tower-defense-e6e2bf",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "colony-defense-tower-defense-e6e2bf",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "colony-defense-tower-defense-faq-51db16",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "McPeppergames UG (haftungsbeschraenkt) & Co. KG",
   "publisherDisplayName": "McPeppergames UG (haftungsbeschraenkt) & Co. KG",
   "price": null,

@@ -103,13 +103,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "konfronto-623aa3",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "konfronto-623aa3",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "konfronto-faq-b62585",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Flaming Fowl Studios",
   "publisherDisplayName": "Flaming Fowl Studios",
   "price": null,
