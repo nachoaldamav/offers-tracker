@@ -91,8 +91,24 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "mirage-a-biplane-adventure-912065",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "mirage-a-biplane-adventure-mirage-a-biplane-adventure-demo-ffe1cf",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "mirage-a-biplane-adventure-912065",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "AD3D",
   "publisherDisplayName": "AD3D",
   "price": null,
