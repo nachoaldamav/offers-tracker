@@ -177,10 +177,10 @@
   "publisherDisplayName": "Grindstone",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 899,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 100,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -189,7 +189,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "01500b90e8fe43229dba653d29e877b3"
+          }
+        ]
       }
     ]
   },
