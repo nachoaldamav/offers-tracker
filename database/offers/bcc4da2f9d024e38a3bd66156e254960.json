@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-09-08T14:00:00.000Z",
   "creationDate": "2024-09-08T13:40:46.933Z",
-  "lastModifiedDate": "2024-09-08T13:42:05.605Z",
+  "lastModifiedDate": "2025-01-21T16:00:30.003Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,6 +42,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1198",
@@ -109,10 +113,10 @@
   "publisherDisplayName": "INSPECTOR STUDIOS",
   "price": {
     "totalPrice": {
-      "discountPrice": 99,
+      "discountPrice": 59,
       "originalPrice": 99,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 40,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "8347078ed27b4dfe876ac31094ef3c33"
+          }
+        ]
       }
     ]
   },
