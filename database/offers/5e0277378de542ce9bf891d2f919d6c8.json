@@ -55,8 +55,14 @@
       "id": "21122",
       "name": "Diverse Characters"
     },
-    null,
-    null,
+    {
+      "id": "1188",
+      "name": "RELAXING"
+    },
+    {
+      "id": "21894",
+      "name": "Cloud Saves"
+    },
     {
       "id": "19847",
       "name": "Achievements"
@@ -156,7 +162,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "cyberpunk-2077",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "cyberpunk-2077--ultimate-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "cyberpunk-2077--phantom-liberty",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

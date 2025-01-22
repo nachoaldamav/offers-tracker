@@ -47,7 +47,10 @@
       "id": "1393",
       "name": "Simulation"
     },
-    null,
+    {
+      "id": "21894",
+      "name": "Cloud Saves"
+    },
     {
       "id": "19847",
       "name": "Achievements"
@@ -107,7 +110,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "port-royale-4--buccaneers",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "port-royale-4",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "port-royale-4--extended-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

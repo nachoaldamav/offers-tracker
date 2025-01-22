@@ -55,7 +55,10 @@
       "id": "1203",
       "name": "Multiplayer"
     },
-    null,
+    {
+      "id": "21894",
+      "name": "Cloud Saves"
+    },
     {
       "id": "1336",
       "name": "Action-Adventure"
@@ -111,7 +114,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "aquanox-deep-descent",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "aquanox-deep-descent--collectors-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

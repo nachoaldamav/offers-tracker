@@ -43,7 +43,10 @@
   "urlSlug": "phantom-brigade",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "21894",
+      "name": "Cloud Saves"
+    },
     {
       "id": "1367",
       "name": "RPG"
@@ -91,7 +94,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "phantom-brigade",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "phantom-brigade--early-access-faq",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Brace Yourself Games",
   "publisherDisplayName": "Brace Yourself Games",

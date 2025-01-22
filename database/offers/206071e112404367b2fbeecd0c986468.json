@@ -47,7 +47,10 @@
       "id": "1395",
       "name": "Narration"
     },
-    null,
+    {
+      "id": "21894",
+      "name": "Cloud Saves"
+    },
     {
       "id": "1127",
       "name": "Investigation"
@@ -103,7 +106,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "twin-mirror--epilepsy-warning",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "twin-mirror",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "twin-mirror--demo",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

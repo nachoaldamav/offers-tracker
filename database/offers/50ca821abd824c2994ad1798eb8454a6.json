@@ -39,8 +39,14 @@
       "id": "21122",
       "name": "Diverse Characters"
     },
-    null,
-    null,
+    {
+      "id": "1188",
+      "name": "RELAXING"
+    },
+    {
+      "id": "21125",
+      "name": "Competitive Community"
+    },
     {
       "id": "21127",
       "name": "Creative Community"
@@ -132,7 +138,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "far-cry-3",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "far-cry-3--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

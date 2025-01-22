@@ -51,13 +51,22 @@
       "id": "21121",
       "name": "Great for Quick Sessions"
     },
-    null,
+    {
+      "id": "1188",
+      "name": "RELAXING"
+    },
     {
       "id": "1349",
       "name": "FAST-PACED"
     },
-    null,
-    null,
+    {
+      "id": "21125",
+      "name": "Competitive Community"
+    },
+    {
+      "id": "21894",
+      "name": "Cloud Saves"
+    },
     {
       "id": "21129",
       "name": "Challenging Combat"
@@ -141,7 +150,30 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "diabotical--big-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "diabotical--fan-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "diabotical",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "diabotical--starter-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "diabotical--standard-pack",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
