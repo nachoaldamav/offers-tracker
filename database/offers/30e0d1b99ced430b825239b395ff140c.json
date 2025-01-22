@@ -90,11 +90,55 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "shenmue-3--season-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "shenmue-3--story-quest-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "shenmue-3",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "shenmue-3--big-merry-cruise",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "shenmue-3--battle-rally",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "shenmue-3--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "YsNet",
   "publisherDisplayName": "Prime Matter",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2019-11-19T15:00:00.000Z",
   "pcReleaseDate": null,

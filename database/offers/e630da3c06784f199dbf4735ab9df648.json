@@ -106,7 +106,30 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "graven--graven-early-access-faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "graven",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "graven--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "graven--artbook",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "graven--soundtrack",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "graven",
