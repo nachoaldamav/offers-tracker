@@ -103,13 +103,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "geojelly-a44cfe",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "geojelly-a44cfe",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "geojelly-faq-7d467b",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Source Byte",
   "publisherDisplayName": "Source Byte",
   "price": null,
