@@ -143,7 +143,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "replikantchat-e8ad69",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "replikantchat-faq-9c8aba",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "replikantchat-e8ad69",
@@ -152,7 +163,24 @@
   ],
   "developerDisplayName": "Replikant",
   "publisherDisplayName": "Replikant",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-16T15:00:00.000Z",
   "pcReleaseDate": "2024-12-16T15:00:00.000Z",
