@@ -126,7 +126,14 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "oxenfree",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "oxenfree",
@@ -135,24 +142,7 @@
   ],
   "developerDisplayName": "Night School Studio",
   "publisherDisplayName": "Night School Studio",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 999,
-      "originalPrice": 999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2019-01-15T15:00:00.000Z",
   "pcReleaseDate": null,

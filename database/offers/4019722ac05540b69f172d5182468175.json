@@ -90,28 +90,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": "Runic Games",
-  "publisherDisplayName": "Arc Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1499,
-      "originalPrice": 1499,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": []
+        "pageSlug": "torchlight",
+        "pageType": "productHome"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": "Runic Games",
+  "publisherDisplayName": "Arc Games",
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2019-07-09T15:00:00.000Z",
   "pcReleaseDate": "2009-10-27T15:00:00.000Z",
