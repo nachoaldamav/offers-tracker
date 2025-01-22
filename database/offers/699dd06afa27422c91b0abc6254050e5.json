@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "1001-jigsaw-world-tour-australian-puzzles-ae477c",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "1001-jigsaw-world-tour-australian-puzzles-ae477c",
@@ -100,28 +107,7 @@
   ],
   "developerDisplayName": "Creobit",
   "publisherDisplayName": "8Floor ltd",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 149,
-      "originalPrice": 499,
-      "voucherDiscount": 0,
-      "discount": 350,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "c9fe2f6763334da8b644adcda8ba5e8b"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2024-02-22T21:00:00.000Z",
   "pcReleaseDate": "2019-01-06T21:00:00.000Z",
