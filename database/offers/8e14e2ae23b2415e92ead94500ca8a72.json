@@ -107,13 +107,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "knights-of-cathena-d09e32",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "knights-of-cathena-faq-9b4dd5",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "knights-of-cathena-d09e32",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "fivefingergames GmbH",
   "publisherDisplayName": "fivefingergames GmbH",
   "price": null,
