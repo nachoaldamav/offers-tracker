@@ -94,8 +94,19 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "moonlighter--dlc",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "moonlighter",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Digital Sun Games",
   "publisherDisplayName": "11 Bit Studios",
   "price": null,
