@@ -88,10 +88,36 @@
     }
   ],
   "catalogNs": null,
-  "offerMappings": null,
+  "offerMappings": [
+    {
+      "pageSlug": "lines-guarder-174742",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Meng Games",
   "publisherDisplayName": "Meng Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "09a2dec99d6c484f82c686ab3eb20dbb"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-07-05T17:00:00.000Z",
   "pcReleaseDate": "2023-06-21T17:00:00.000Z",
