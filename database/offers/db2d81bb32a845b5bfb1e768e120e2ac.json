@@ -202,11 +202,112 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "neverwinter--5000-zen-300-bonus-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "neverwinter--20000-zen-3000-bonus-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "neverwinter--epic-starter-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "neverwinter--2000-zen-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "neverwinter--10000-zen-1000-bonus-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "neverwinter--1000-zen-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "neverwinter--1000-zen-and-15-mount-companion-upgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "neverwinter--2000-zen-and-60-slot-bag",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "neverwinter--5300-zen-and-artifact-choice-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "neverwinter--500-zen-and-25-reroll-tokens",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "neverwinter--11000-zen-and-cunning-mimic-companion",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "neverwinter--17250-zen-and-frost-giantess-mount",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "neverwinter--calamity-of-undeath-epic-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "neverwinter--epic-lightning-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "neverwinter--underdark-legend-epic-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "neverwinter--realm-engineer-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "neverwinter",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "neverwinter--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "neverwinter--earth-rumbler-pack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "neverwinter",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Cryptic Studios",
   "publisherDisplayName": "Arc Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-11-10T17:00:00.000Z",
   "pcReleaseDate": null,
