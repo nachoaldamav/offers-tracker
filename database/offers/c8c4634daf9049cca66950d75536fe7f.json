@@ -118,32 +118,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": null,
-  "publisherDisplayName": null,
-  "price": {
-    "totalPrice": {
-      "discountPrice": 374,
-      "originalPrice": 1499,
-      "voucherDiscount": 0,
-      "discount": 1125,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": [
-          {
-            "id": "d66b317e93b945c0b497f581d183e9e5"
-          }
-        ]
+        "pageSlug": "disc-room",
+        "pageType": "productHome"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2020-10-22T13:00:00.000Z",
   "pcReleaseDate": "2020-10-22T13:00:00.000Z",
