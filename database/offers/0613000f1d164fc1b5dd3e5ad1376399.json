@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-06-01T15:00:00.000Z",
   "creationDate": "2023-04-18T21:42:35.407Z",
-  "lastModifiedDate": "2024-12-12T14:21:54.106Z",
+  "lastModifiedDate": "2025-01-23T16:00:36.608Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -66,6 +66,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "35244",
+      "name": "Epic Savings"
     },
     {
       "id": "21138",
@@ -151,10 +155,10 @@
   "publisherDisplayName": "Coffee Stain Publishing",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 499,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -163,7 +167,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "97b958ef9a664327ac0c40b3bf3a02d2"
+          }
+        ]
       }
     ]
   },

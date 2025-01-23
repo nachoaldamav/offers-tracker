@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-10-27T21:59:00.000Z",
   "creationDate": "2021-06-25T06:05:32.106Z",
-  "lastModifiedDate": "2024-11-01T15:03:16.477Z",
+  "lastModifiedDate": "2025-01-23T16:00:34.039Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "35244",
+      "name": "Epic Savings"
     },
     {
       "id": "1117",
@@ -127,10 +131,10 @@
   "publisherDisplayName": "Focus Entertainment",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 299,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1700,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -139,7 +143,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "7eb165918ff7494eaa3b40b046519ba8"
+          }
+        ]
       }
     ]
   },

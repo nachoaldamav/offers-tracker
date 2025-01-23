@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-10-04T14:00:00.000Z",
   "creationDate": "2022-03-18T15:21:08.807Z",
-  "lastModifiedDate": "2025-01-14T08:23:09.946Z",
+  "lastModifiedDate": "2025-01-23T16:00:35.888Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -48,6 +48,10 @@
       "name": "Windows"
     },
     {
+      "id": "35244",
+      "name": "Epic Savings"
+    },
+    {
       "id": "1294",
       "name": "First Person"
     },
@@ -86,23 +90,16 @@
       "path": "applications"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "outlast-2",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [],
   "developerDisplayName": "Red Barrels",
   "publisherDisplayName": "Red Barrels",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 299,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2700,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -111,7 +108,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "12699818348e40f5bca289596d2edb1a"
+          }
+        ]
       }
     ]
   },

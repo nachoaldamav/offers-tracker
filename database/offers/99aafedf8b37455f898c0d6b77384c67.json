@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-04-23T23:00:00.000Z",
   "creationDate": "2019-11-12T23:31:21.431Z",
-  "lastModifiedDate": "2024-12-03T16:05:59.517Z",
+  "lastModifiedDate": "2025-01-23T16:00:37.522Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -66,6 +66,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "35244",
+      "name": "Epic Savings"
     },
     {
       "id": "21138",
@@ -241,7 +245,28 @@
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": "IllFonic",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "26ead82d1ed44bd8b97c6d89e8fc7104"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-04-23T23:00:00.000Z",
   "pcReleaseDate": "2020-04-23T23:00:00.000Z",

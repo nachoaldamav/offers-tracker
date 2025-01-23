@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-08-14T16:00:00.000Z",
   "creationDate": "2024-08-06T03:08:48.448Z",
-  "lastModifiedDate": "2024-12-03T16:05:59.505Z",
+  "lastModifiedDate": "2025-01-23T16:00:33.154Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "35244",
+      "name": "Epic Savings"
     }
   ],
   "items": [
@@ -109,10 +113,10 @@
   "publisherDisplayName": "luolei",
   "price": {
     "totalPrice": {
-      "discountPrice": 299,
+      "discountPrice": 239,
       "originalPrice": 299,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 60,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "2a97e8dface74112b9c98c54f0a21210"
+          }
+        ]
       }
     ]
   },

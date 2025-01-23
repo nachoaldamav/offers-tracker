@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-05-27T02:00:00.000Z",
   "creationDate": "2024-05-26T20:16:16.577Z",
-  "lastModifiedDate": "2024-11-26T16:00:12.104Z",
+  "lastModifiedDate": "2025-01-23T16:00:36.605Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "35244",
+      "name": "Epic Savings"
     },
     {
       "id": "1117",
@@ -109,10 +113,10 @@
   "publisherDisplayName": "8Floor ltd",
   "price": {
     "totalPrice": {
-      "discountPrice": 899,
+      "discountPrice": 449,
       "originalPrice": 899,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 450,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "bc4725d1c6324e21b2a3a8cf13329478"
+          }
+        ]
       }
     ]
   },

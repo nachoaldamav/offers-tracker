@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-07-29T22:00:00.000Z",
   "creationDate": "2021-07-19T20:52:00.424Z",
-  "lastModifiedDate": "2024-06-04T15:00:04.392Z",
+  "lastModifiedDate": "2025-01-23T16:00:33.151Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -56,6 +56,10 @@
       "name": "Windows"
     },
     {
+      "id": "35244",
+      "name": "Epic Savings"
+    },
+    {
       "id": "9549",
       "name": "Controller Support"
     }
@@ -101,10 +105,10 @@
   "publisherDisplayName": "Carlos Coronado",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 299,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -113,7 +117,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "bbf0351d82334d238506a52e6387832f"
+          }
+        ]
       }
     ]
   },

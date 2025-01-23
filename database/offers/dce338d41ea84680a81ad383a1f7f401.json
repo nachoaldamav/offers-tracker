@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2019-10-11T12:00:00.000Z",
   "creationDate": "2019-03-18T16:22:05.168Z",
-  "lastModifiedDate": "2024-11-18T16:06:39.674Z",
+  "lastModifiedDate": "2025-01-23T16:00:34.040Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "35244",
+      "name": "Epic Savings"
     }
   ],
   "items": [
@@ -95,10 +99,10 @@
   "publisherDisplayName": "Gwen Frey",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 374,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1125,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -107,7 +111,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "fa51e92201a34e369030a82224f69acd"
+          }
+        ]
       }
     ]
   },

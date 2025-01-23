@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-07-22T17:00:00.000Z",
   "creationDate": "2021-05-27T10:23:32.801Z",
-  "lastModifiedDate": "2024-12-18T11:14:12.670Z",
+  "lastModifiedDate": "2025-01-23T16:00:34.037Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -52,6 +52,10 @@
       "name": "Strategy"
     },
     {
+      "id": "35244",
+      "name": "Epic Savings"
+    },
+    {
       "id": "1181",
       "name": "Card Game"
     }
@@ -91,18 +95,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "deepest-chamber-f7085f",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "deepest-chamber-faq-e17d3c",
-        "pageType": "info"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "deepest-chamber-f7085f",
@@ -113,10 +106,10 @@
   "publisherDisplayName": "Those Awesome Guys",
   "price": {
     "totalPrice": {
-      "discountPrice": 1299,
+      "discountPrice": 649,
       "originalPrice": 1299,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 650,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +118,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "5c39a4eec32c4b09b582050b6cbe7fb9"
+          }
+        ]
       }
     ]
   },

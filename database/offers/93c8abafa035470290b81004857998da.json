@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-07-22T17:00:00.000Z",
   "creationDate": "2021-04-12T16:32:37.269Z",
-  "lastModifiedDate": "2025-01-16T11:39:05.263Z",
+  "lastModifiedDate": "2025-01-23T16:00:36.605Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "35244",
+      "name": "Epic Savings"
     }
   ],
   "items": [
@@ -160,10 +164,10 @@
   "publisherDisplayName": "Slitherine Ltd.",
   "price": {
     "totalPrice": {
-      "discountPrice": 3999,
+      "discountPrice": 1999,
       "originalPrice": 3999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -172,7 +176,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "83ed0b99a8eb496eac6ee602827e46e4"
+          }
+        ]
       }
     ]
   },
