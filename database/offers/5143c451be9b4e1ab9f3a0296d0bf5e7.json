@@ -4,9 +4,9 @@
   "namespace": "b2818b59c0bb420e9647983dfd254931",
   "description": "The incredible power of the symbiote forces Peter Parker and Miles Morales into a desperate fight as they balance their lives, friendships, and their duty to protect in an exciting chapter of the acclaimed Spider-man franchise.",
   "offerType": "BASE_GAME",
-  "effectiveDate": "2099-01-30T00:00:00.000Z",
+  "effectiveDate": "2025-01-23T16:00:00.000Z",
   "creationDate": "2024-09-11T18:36:06.818Z",
-  "lastModifiedDate": "2025-01-22T18:57:17.106Z",
+  "lastModifiedDate": "2025-01-23T00:34:46.827Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -22,13 +22,13 @@
       "url": "https://cdn1.epicgames.com/offer/b2818b59c0bb420e9647983dfd254931/EGS_Octopus_InsomniacGamesNixxesSoftware_S2_1200x1600-5831c61378872a1fe233b295fbf3140f"
     }
   ],
-  "currentPrice": 0,
+  "currentPrice": 5999,
   "seller": {
     "id": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
     "name": "Sony Interactive Entertainment"
   },
   "productSlug": "marvels-spider-man-2",
-  "urlSlug": "marvels-spider-man-2",
+  "urlSlug": "marvels-spider-man-2-pre-purchase",
   "url": null,
   "tags": [
     {
@@ -36,8 +36,8 @@
       "name": "Action"
     },
     {
-      "id": "19847",
-      "name": "Achievements"
+      "id": "21894",
+      "name": "Cloud Saves"
     },
     {
       "id": "1370",
@@ -60,6 +60,14 @@
   ],
   "customAttributes": [
     {
+      "key": "availableDate",
+      "value": "1738252800"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
       "key": "com.epicgames.app.productSlug",
       "value": "marvels-spider-man-2"
     }
@@ -78,14 +86,46 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "marvels-spider-man-2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "marvels-spider-man-2--digital-deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "marvels-spider-man-2--digital-deluxe-edition-upgrade",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Insomniac Games, Nixxes Software",
   "publisherDisplayName": "PlayStation Publishing LLC",
-  "price": null,
-  "prePurchase": null,
-  "releaseDate": "2025-01-30T21:00:00.000Z",
-  "pcReleaseDate": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 5999,
+      "originalPrice": 5999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
+  "prePurchase": true,
+  "releaseDate": "2025-01-30T16:00:00.000Z",
+  "pcReleaseDate": "2025-01-30T16:00:00.000Z",
   "viewableDate": "2024-10-18T21:00:00.000Z",
   "approximateReleasePlan": null
 }
