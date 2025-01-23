@@ -102,11 +102,43 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "gods-trigger--omg-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "gods-trigger",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "gods-trigger--omg-edition-extras",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-08-20T15:00:00.000Z",
   "pcReleaseDate": "2020-08-20T15:00:00.000Z",
