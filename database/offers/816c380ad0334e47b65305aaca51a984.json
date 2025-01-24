@@ -147,11 +147,56 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-stone-of-madness-special-edition-content-6ed1d9",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-stone-of-madness-prepurchase-testing-2b9486",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-stone-of-madness-special-edition-08d9cb",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-stone-of-madness-7b22f3",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "the-stone-of-madness-7b22f3",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "The Game Kitchen",
   "publisherDisplayName": "Tripwire Presents",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2699,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 300,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "fd29295dace54f4dad7095343292065d"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": true,
   "releaseDate": "2025-01-28T16:00:00.000Z",
   "pcReleaseDate": "2025-01-28T16:00:00.000Z",
