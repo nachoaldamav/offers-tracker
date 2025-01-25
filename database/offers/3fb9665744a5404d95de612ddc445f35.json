@@ -158,7 +158,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "barony--legends-and-pariahs",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "barony--myths-and-outcasts",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "barony",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "barony",
