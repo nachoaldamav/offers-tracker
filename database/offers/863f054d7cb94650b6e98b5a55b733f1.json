@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-12-14T17:04:51.000Z",
   "creationDate": "2023-08-10T18:25:39.410Z",
-  "lastModifiedDate": "2025-01-23T16:00:34.963Z",
+  "lastModifiedDate": "2025-01-25T15:48:33.071Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -60,10 +60,6 @@
       "name": "Windows"
     },
     {
-      "id": "35244",
-      "name": "Epic Savings"
-    },
-    {
       "id": "1151",
       "name": "Platformer"
     }
@@ -107,7 +103,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-last-three-50d8e0",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-last-three-50d8e0",
@@ -116,7 +119,28 @@
   ],
   "developerDisplayName": "Putnai Csaba",
   "publisherDisplayName": "Putnai Csaba",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1619,
+      "originalPrice": 1799,
+      "voucherDiscount": 0,
+      "discount": 180,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "5b341206c1a44cb6b2b0c8180a07c3cc"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-14T15:00:00.000Z",
   "pcReleaseDate": "2024-12-14T00:00:00.000Z",

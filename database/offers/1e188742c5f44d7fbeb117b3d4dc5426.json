@@ -99,11 +99,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "turbo-sloths-912a73",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "turbo-sloths-turbo-sloths-expansion-pack-7af0f5",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "turbo-sloths-912a73",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "RainStyle games",
   "publisherDisplayName": "RainStyle games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-31T00:00:00.000Z",
   "pcReleaseDate": "2024-04-11T15:00:00.000Z",
