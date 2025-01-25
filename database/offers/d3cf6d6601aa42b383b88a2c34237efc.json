@@ -82,11 +82,47 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-great-war-western-front",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-great-war-western-front--victory-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-great-war-western-front--victory-upgrade-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-great-war-western-front--original-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Petroglyph Games",
   "publisherDisplayName": "Frontier Foundry",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3499,
+      "originalPrice": 3499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-03-30T16:00:00.000Z",
   "pcReleaseDate": "2023-03-30T16:00:00.000Z",

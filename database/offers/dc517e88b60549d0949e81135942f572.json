@@ -95,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "wtc-relentless-protagonist-06c355",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "wtc-relentless-protagonist-06c355",
@@ -104,7 +111,24 @@
   ],
   "developerDisplayName": "Triority Interactive Novels",
   "publisherDisplayName": "Triority Interactive Novels",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 399,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-05-01T05:00:00.000Z",
   "pcReleaseDate": "2022-09-27T23:00:00.000Z",

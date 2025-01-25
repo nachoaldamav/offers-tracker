@@ -95,11 +95,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "scholar-of-the-arcane-arts-6f4c67",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "scholar-of-the-arcane-arts-faq-17441a",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "scholar-of-the-arcane-arts-6f4c67",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Courtesy of Endo",
   "publisherDisplayName": "ESDigital Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 399,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-03-17T15:00:00.000Z",
   "pcReleaseDate": "2022-12-15T15:00:00.000Z",
