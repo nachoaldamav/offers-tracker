@@ -106,7 +106,38 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "roller-champions",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "roller-champions--gold-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "roller-champions--silver-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "roller-champions--gold-bundle-2",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "roller-champions--silver-bundle-2",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "roller-champions--silver-bundle-4",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "roller-champions--gold-bundle-4",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "UBISOFT MONTREAL",
   "publisherDisplayName": "UBISOFT",
