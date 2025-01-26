@@ -99,7 +99,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "dreadful-river-21e04b",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "dreadful-river-faq-df3592",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "dreadful-river-21e04b",
@@ -108,24 +119,7 @@
   ],
   "developerDisplayName": "SureAI",
   "publisherDisplayName": "SureAI",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1999,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2024-03-19T23:00:00.000Z",
   "pcReleaseDate": "2023-02-28T11:00:00.000Z",
