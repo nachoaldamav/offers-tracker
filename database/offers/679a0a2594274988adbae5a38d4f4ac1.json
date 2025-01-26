@@ -78,11 +78,43 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-expanse-a-telltale-series",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-expanse-a-telltale-series--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-expanse-a-telltale-series--archangel",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Deck Nine",
   "publisherDisplayName": "Telltale, Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-07-27T07:00:00.000Z",
   "pcReleaseDate": "2023-07-27T07:00:00.000Z",
