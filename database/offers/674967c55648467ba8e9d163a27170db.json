@@ -118,8 +118,20 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-bridge",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "the-bridge",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "The Quantum Astrophysicists Guild",
   "publisherDisplayName": "The Quantum Astrophysicists Guild",
   "price": null,
