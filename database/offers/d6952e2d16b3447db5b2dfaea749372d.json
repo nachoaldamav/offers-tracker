@@ -146,8 +146,24 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "skul-the-hero-slayer--mythology-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "skul-the-hero-slayer",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "skul-the-hero-slayer",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "SOUTHPAW GAMES",
   "publisherDisplayName": "NEOWIZ",
   "price": null,
