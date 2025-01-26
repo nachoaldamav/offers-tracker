@@ -99,11 +99,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "geometric-sniper-blood-in-paris-17ce16",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "geometric-sniper-blood-in-paris-17ce16",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "YAW Studios",
   "publisherDisplayName": "YAW Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 149,
+      "originalPrice": 299,
+      "voucherDiscount": 0,
+      "discount": 150,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "deebe89ea58f429db63230b96b0e790b"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-02-29T17:00:00.000Z",
   "pcReleaseDate": "2021-09-09T17:00:00.000Z",
