@@ -103,7 +103,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "danger-scavenger-0cd9a9",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "danger-scavenger-0cd9a9",
@@ -112,7 +119,24 @@
   ],
   "developerDisplayName": "Star Drifters, Piotr Wolk",
   "publisherDisplayName": "Star Drifters",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-12-13T17:00:00.000Z",
   "pcReleaseDate": "2021-03-25T17:00:00.000Z",
