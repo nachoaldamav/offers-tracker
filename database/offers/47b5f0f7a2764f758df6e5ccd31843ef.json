@@ -99,11 +99,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "rise-of-anupet-b02993",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "rise-of-anupet-faq-703a06",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "rise-of-anupet-b02993",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "26horses",
   "publisherDisplayName": "26horses",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-07-04T01:00:00.000Z",
   "pcReleaseDate": "2024-07-04T01:00:00.000Z",

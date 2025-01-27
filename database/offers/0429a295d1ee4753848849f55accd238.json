@@ -122,11 +122,48 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "world-of-goo-2-world-of-goo-2-soundtrack-8f1a9d",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "world-of-goo-2-world-of-goo-2-plus-soundtrack-pack-510f23",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "world-of-goo-2",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "world-of-goo-2",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "2D BOY",
   "publisherDisplayName": "Tomorrow Corporation",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-08-02T15:00:00.000Z",
   "pcReleaseDate": "2024-08-02T15:00:00.000Z",
