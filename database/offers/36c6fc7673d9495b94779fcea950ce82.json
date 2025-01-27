@@ -2,11 +2,11 @@
   "title": "Tronix CarnivalGames",
   "id": "36c6fc7673d9495b94779fcea950ce82",
   "namespace": "0be0da3613f54391b5e34a12ddbdad7a",
-  "description": "Tronix Carnival Games is a rogue-like blending FPS and TPS gameplay in a dystopian robotic world. Set in a ruined carnival overtaken by Tronix robots, it’s now a deadly playground. Players uncover its secrets, battle enemies, and survive unique challenges.",
+  "description": "Tronix Carnival Games is a rogue-like TPS gameplay in a dystopian robotic world. Set in a ruined carnival overtaken by Tronix robots, it’s now a deadly playground. Players uncover its secrets, battle enemies, and survive unique challenges.",
   "offerType": "BASE_GAME",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "creationDate": "2025-01-03T19:46:37.281Z",
-  "lastModifiedDate": "2025-01-26T14:02:55.140Z",
+  "lastModifiedDate": "2025-01-27T15:25:15.688Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -22,12 +22,12 @@
       "url": "https://cdn1.epicgames.com/spt-assets/51db101ab1504751805a848971238400/tronix-carnivalgames-11b4y.png"
     },
     {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/51db101ab1504751805a848971238400/tronix-carnivalgames-h425n.png"
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://5d2c7827-6fb4-4cbc-9fd9-2437c8fc7983?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F51db101ab1504751805a848971238400%2Ftronix-carnival-games-video-1fsbh.png"
     },
     {
-      "type": "heroCarouselVideo",
-      "url": "com.epicgames.video://ed46c128-6d85-4348-9214-984b367223bf?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F51db101ab1504751805a848971238400%2Ftronix-carnivalgames-video-18wvg.png"
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/51db101ab1504751805a848971238400/tronix-carnivalgames-h425n.png"
     },
     {
       "type": "featuredMedia",
@@ -76,12 +76,12 @@
       "name": "Single Player"
     },
     {
-      "id": "1083",
-      "name": "Rogue-Lite"
-    },
-    {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "1083",
+      "name": "Rogue-Lite"
     },
     {
       "id": "1310",
@@ -131,7 +131,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tronix-carnivalgames-faq-d9cee2",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "tronix-carnivalgames-7238a2",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "tronix-carnivalgames-7238a2",
@@ -140,7 +151,24 @@
   ],
   "developerDisplayName": "Baubau Games",
   "publisherDisplayName": "Baubau Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-02-01T00:00:00.000Z",
   "pcReleaseDate": "2025-02-01T00:00:00.000Z",
