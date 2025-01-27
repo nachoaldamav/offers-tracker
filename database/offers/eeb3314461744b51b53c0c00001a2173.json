@@ -102,8 +102,20 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "arc-raiders",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "arc-raiders",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Embark Studios",
   "publisherDisplayName": "Embark Studios",
   "price": null,

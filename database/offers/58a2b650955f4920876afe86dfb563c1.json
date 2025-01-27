@@ -143,7 +143,26 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "horizon-chase-turbo",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "horizon-chase-turbo--senna-forever",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "horizon-chase-turbo--horizon-chase-turbo-rookie-series",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "horizon-chase-turbo--horizon-chase-turbo-summer-vibes",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
