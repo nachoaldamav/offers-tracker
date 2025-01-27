@@ -110,8 +110,23 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "hellpoint",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "hellpoint--ultimate-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hellpoint--blue-sun",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
   "price": null,

@@ -134,8 +134,27 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "20xx--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "20xx--draco-character",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "20xx--hawk-character",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "20xx",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
   "price": null,

@@ -138,8 +138,20 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "crashlands",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "crashlands",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Butterscotch Shenanigans",
   "publisherDisplayName": "Butterscotch Shenanigans",
   "price": null,
