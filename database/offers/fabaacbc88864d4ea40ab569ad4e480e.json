@@ -95,7 +95,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "thimbleweed-park--delores",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "thimbleweed-park",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "thimbleweed-park--delores",
