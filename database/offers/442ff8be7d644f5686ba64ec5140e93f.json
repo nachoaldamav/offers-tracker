@@ -102,28 +102,34 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": null,
-  "publisherDisplayName": null,
-  "price": {
-    "totalPrice": {
-      "discountPrice": 2499,
-      "originalPrice": 2499,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": []
+        "pageSlug": "as-far-as-the-eye--soundtrack-bundle",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "as-far-as-the-eye--soundtrack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "as-far-as-the-eye--supporter-bundle",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "as-far-as-the-eye",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "as-far-as-the-eye--supporter-dlc",
+        "pageType": "offer"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2020-09-10T16:00:00.000Z",
   "pcReleaseDate": "2020-09-10T16:00:00.000Z",
