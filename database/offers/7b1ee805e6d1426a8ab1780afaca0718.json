@@ -99,8 +99,24 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "we-are-not-alone-0afd5f",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "we-are-not-alone-demo-7c9a44",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "we-are-not-alone-0afd5f",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Stasis Booth Games Pty. Ltd.",
   "publisherDisplayName": "Stasis Booth Games Pty. Ltd.",
   "price": null,
