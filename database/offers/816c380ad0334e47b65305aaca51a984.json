@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-01-14T18:00:00.000Z",
   "creationDate": "2023-08-07T18:51:52.155Z",
-  "lastModifiedDate": "2025-01-27T23:15:39.590Z",
+  "lastModifiedDate": "2025-01-28T14:52:51.254Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -88,6 +88,10 @@
       "name": "Cloud Saves"
     },
     {
+      "id": "19847",
+      "name": "Achievements"
+    },
+    {
       "id": "1370",
       "name": "Single Player"
     },
@@ -147,7 +151,26 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-stone-of-madness-special-edition-content-6ed1d9",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-stone-of-madness-prepurchase-testing-2b9486",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-stone-of-madness-special-edition-08d9cb",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-stone-of-madness-7b22f3",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-stone-of-madness-7b22f3",
@@ -156,7 +179,28 @@
   ],
   "developerDisplayName": "The Game Kitchen",
   "publisherDisplayName": "Tripwire Presents",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2699,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 300,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "fd29295dace54f4dad7095343292065d"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": true,
   "releaseDate": "2025-01-28T16:00:00.000Z",
   "pcReleaseDate": "2025-01-28T16:00:00.000Z",
