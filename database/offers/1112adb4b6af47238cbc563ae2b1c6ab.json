@@ -194,7 +194,28 @@
   ],
   "developerDisplayName": "ZA/UM",
   "publisherDisplayName": "ZA/UM",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 3000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "4b8e6b13954c44a79116c33b77cf9984"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-06-06T18:00:00.000Z",
   "pcReleaseDate": null,
