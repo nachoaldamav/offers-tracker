@@ -86,8 +86,15 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "steelseries-gg",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "SteelSeries",
   "publisherDisplayName": "SteelSeries",
   "price": null,
