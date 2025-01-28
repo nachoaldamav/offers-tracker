@@ -98,11 +98,51 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "destroy-all-humans-2-reprobed--dressed-to-skill-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "destroy-all-humans-2-reprobed--challenge-accepted-dlc",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "destroy-all-humans-2-reprobed--skin-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "destroy-all-humans-2-reprobed--official-orchestral-score",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "destroy-all-humans-2-reprobed",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Black Forest Games",
   "publisherDisplayName": "THQ Nordic",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-08-30T17:00:00.000Z",
   "pcReleaseDate": "2022-08-30T17:00:00.000Z",
