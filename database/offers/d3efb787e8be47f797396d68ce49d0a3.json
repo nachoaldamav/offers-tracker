@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-12-27T00:00:00.000Z",
   "creationDate": "2024-06-08T07:59:16.328Z",
-  "lastModifiedDate": "2025-01-13T19:00:10.187Z",
+  "lastModifiedDate": "2025-01-28T16:00:30.683Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -76,6 +76,10 @@
       "name": "Windows"
     },
     {
+      "id": "29899",
+      "name": "Deals of the Week"
+    },
+    {
       "id": "1310",
       "name": "EARLY ACCESS"
     }
@@ -119,8 +123,24 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "dimond-hunt-03a766",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "dimond-hunt-faq-54f4da",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "dimond-hunt-03a766",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Black Apple",
   "publisherDisplayName": "Black Apple",
   "price": null,
