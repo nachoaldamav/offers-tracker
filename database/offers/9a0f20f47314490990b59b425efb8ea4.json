@@ -135,7 +135,22 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "into-the-emberlands-supporter-bundle-44a363",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "into-the-emberlands-a8dbd9",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "into-the-emberlands-supporter-pack-ee7529",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "into-the-emberlands-a8dbd9",
@@ -144,28 +159,7 @@
   ],
   "developerDisplayName": "Tiny Roar",
   "publisherDisplayName": "Daedalic Entertainment",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 494,
-      "originalPrice": 659,
-      "voucherDiscount": 0,
-      "discount": 165,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "46bc15bfd7fc4b8cb7822f24e357465e"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2025-01-22T18:00:00.000Z",
   "pcReleaseDate": "2025-01-22T18:00:00.000Z",
