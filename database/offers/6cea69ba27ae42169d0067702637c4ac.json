@@ -171,22 +171,7 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "the-end-of-the-sun-1f25f4",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "the-end-of-the-sun-the-end-of-the-sun-soundtrack-2247de",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "the-end-of-the-sun-the-end-of-the-sun-soundtrack-edition-8a53f5",
-        "pageType": "offer"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "the-end-of-the-sun-1f25f4",
@@ -195,7 +180,24 @@
   ],
   "developerDisplayName": "The End of the Sun Team",
   "publisherDisplayName": "The End of the Sun Team",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-01-29T17:00:00.000Z",
   "pcReleaseDate": "2025-01-29T17:00:00.000Z",

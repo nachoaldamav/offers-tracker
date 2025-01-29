@@ -115,14 +115,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "crazy-bus-3ea206",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "crazy-bus-3ea206",
@@ -131,7 +124,24 @@
   ],
   "developerDisplayName": "Vault Games",
   "publisherDisplayName": "Vault Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-01-18T21:00:00.000Z",
   "pcReleaseDate": "2025-01-18T21:00:00.000Z",
