@@ -114,7 +114,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ashen",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "ashen--dlc1",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "ashen--faq",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

@@ -99,7 +99,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "super-adventure-hand-62ec9a",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "super-adventure-hand-62ec9a",
@@ -108,7 +115,28 @@
   ],
   "developerDisplayName": "DevM Games AB",
   "publisherDisplayName": "DevM Games AB",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 519,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 780,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "fefc587c1ec44362bee1ea666e5a12cb"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-09-21T11:00:00.000Z",
   "pcReleaseDate": "2023-09-21T11:00:00.000Z",
