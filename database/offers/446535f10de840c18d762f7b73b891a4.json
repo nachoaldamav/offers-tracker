@@ -4,9 +4,9 @@
   "namespace": "8069d3d85ff14575bf6a73ca463f217f",
   "description": "Blade Prince Academy is a new take on tactical RPGs, where you lead your squad of Blade Princes to defend the city of Abjectalia with real-time with pause combat. Use your team's power to devastate threats, but be vigilant—there’s always a price to pay for a pact with darkness!",
   "offerType": "BASE_GAME",
-  "effectiveDate": "2025-01-29T10:00:00.000Z",
+  "effectiveDate": "2099-01-29T10:00:00.000Z",
   "creationDate": "2025-01-06T21:40:17.243Z",
-  "lastModifiedDate": "2025-01-23T16:36:36.479Z",
+  "lastModifiedDate": "2025-01-30T20:10:45.021Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -135,7 +135,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "blade-prince-academy-144cbf",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "blade-prince-academy-144cbf",
@@ -144,9 +151,26 @@
   ],
   "developerDisplayName": "Angel Corp",
   "publisherDisplayName": "Firesquid",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
-  "releaseDate": "2025-01-29T10:00:00.000Z",
+  "releaseDate": "2099-01-29T10:00:00.000Z",
   "pcReleaseDate": "2024-03-07T15:00:00.000Z",
   "viewableDate": "2025-01-06T21:40:00.000Z",
   "approximateReleasePlan": {
