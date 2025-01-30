@@ -127,7 +127,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "big-adventure-trip-to-europe-4-601ae6",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "big-adventure-trip-to-europe-4-601ae6",
@@ -136,7 +143,28 @@
   ],
   "developerDisplayName": "Avigamesltd",
   "publisherDisplayName": "Avigamesltd",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 449,
+      "originalPrice": 899,
+      "voucherDiscount": 0,
+      "discount": 450,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "2a8a7e04c101498e87bb5603ee94fe34"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-29T05:20:42.000Z",
   "pcReleaseDate": "2023-04-27T09:00:00.000Z",
