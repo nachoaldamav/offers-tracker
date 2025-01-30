@@ -99,11 +99,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-mims-beginning-996468",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "the-mims-beginning-996468",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Squatting Penguins",
   "publisherDisplayName": "The End of the Sun Team",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 749,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 750,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "527dcf7c9c0d43f6bea4033d8404a711"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-04-13T15:00:00.000Z",
   "pcReleaseDate": "2015-01-14T17:00:00.000Z",
