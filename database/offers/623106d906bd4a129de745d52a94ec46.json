@@ -110,32 +110,26 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": "Passtech Games",
-  "publisherDisplayName": "Focus Entertainment",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 499,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 1500,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": [
-          {
-            "id": "533408c8c0994f2dac2539d8ac748e03"
-          }
-        ]
+        "pageSlug": "curse-of-the-dead-gods--ost-bundle",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "curse-of-the-dead-gods--ost",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "curse-of-the-dead-gods",
+        "pageType": "productHome"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": "Passtech Games",
+  "publisherDisplayName": "Focus Entertainment",
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2021-02-23T17:00:00.000Z",
   "pcReleaseDate": "2021-02-23T17:00:00.000Z",
