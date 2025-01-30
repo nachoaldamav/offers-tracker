@@ -154,27 +154,16 @@
       "path": "applications"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "kingdom-hearts-iii",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "kingdom-hearts-iii--disneyplus-offer-faq",
-        "pageType": "info"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
   "price": {
     "totalPrice": {
-      "discountPrice": 5999,
+      "discountPrice": 3899,
       "originalPrice": 5999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2100,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -183,7 +172,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "e7e4469cad634bbf89bcfd0436c5074e"
+          }
+        ]
       }
     ]
   },

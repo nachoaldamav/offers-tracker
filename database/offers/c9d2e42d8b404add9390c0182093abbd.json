@@ -110,10 +110,10 @@
   "publisherDisplayName": "Skystone Games Inc.",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 0,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1999,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -122,7 +122,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "c101dc1cbe814f44a0e2c605f008e6d0"
+          }
+        ]
       }
     ]
   },
