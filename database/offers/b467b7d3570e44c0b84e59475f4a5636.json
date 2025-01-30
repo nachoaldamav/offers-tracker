@@ -90,8 +90,27 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "cardpocalypse--soundtrack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "cardpocalypse",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "cardpocalypse--out-of-time",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "cardpocalypse--time-warp-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
   "price": null,
