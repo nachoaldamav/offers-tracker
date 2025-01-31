@@ -139,14 +139,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "color-fear-49bdee",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "color-fear-49bdee",
@@ -155,7 +148,24 @@
   ],
   "developerDisplayName": "West View",
   "publisherDisplayName": "West View",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1199,
+      "originalPrice": 1199,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-03-31T00:00:00.000Z",
   "pcReleaseDate": "2025-03-31T00:00:00.000Z",
