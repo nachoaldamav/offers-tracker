@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-01-21T15:00:00.000Z",
   "creationDate": "2024-10-15T13:34:26.398Z",
-  "lastModifiedDate": "2025-01-23T16:14:15.962Z",
+  "lastModifiedDate": "2025-01-31T09:29:38.763Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -139,7 +139,34 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "jotunnslayer-hordes-of-hel-jotunnslayer-hordes-of-hel-odins-legendary-armor-pack-555a32",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "jotunnslayer-hordes-of-hel-jotunnslayer-hordes-of-hel-founders-edition-e341f2",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "jotunnslayer-hordes-of-hel-3579b3",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "jotunnslayer-hordes-of-hel-faq-9eb300",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "jotunnslayer-hordes-of-hel-jotunnslayer-hordes-of-hel-digital-artbook-d77613",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "jotunnslayer-hordes-of-hel-jotunnslayer-hordes-of-hel-soundtrack-f96c4c",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "jotunnslayer-hordes-of-hel-3579b3",
@@ -148,7 +175,28 @@
   ],
   "developerDisplayName": "Games Farm",
   "publisherDisplayName": "Grindstone",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 899,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 100,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "01500b90e8fe43229dba653d29e877b3"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-01-21T15:00:00.000Z",
   "pcReleaseDate": "2025-01-21T15:00:00.000Z",
