@@ -110,8 +110,28 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "syberia-the-world-before--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "syberia-the-world-before-deluxe-content-82d19a",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "syberia-the-world-before",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "syberia-the-world-before",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Koalabs",
   "publisherDisplayName": "Microids",
   "price": null,
