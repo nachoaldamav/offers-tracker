@@ -98,7 +98,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "icewind-dale-enhanced-edition",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "icewind-dale-enhanced-edition--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

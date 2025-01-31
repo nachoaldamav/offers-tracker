@@ -138,7 +138,30 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "against-the-storm--royal-woodlands-demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "against-the-storm",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "against-the-storm--early-access-faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "against-the-storm--keepers-of-the-stone",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "against-the-storm--supporter-pack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": "Hooded Horse Inc.",

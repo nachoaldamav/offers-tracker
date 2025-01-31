@@ -87,7 +87,26 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "dark-deception--chapter-02",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "dark-deception--chapter-03",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "dark-deception--complete-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "dark-deception",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Glowstick Entertainment, Inc.",
   "publisherDisplayName": "Glowstick Entertainment, Inc.",
