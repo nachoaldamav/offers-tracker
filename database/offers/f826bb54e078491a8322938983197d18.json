@@ -107,32 +107,26 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": null,
-  "publisherDisplayName": null,
-  "price": {
-    "totalPrice": {
-      "discountPrice": 699,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 1300,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": [
-          {
-            "id": "d2590c9e147e46b3b29ca06ed4977f87"
-          }
-        ]
+        "pageSlug": "little-big-workshop",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "little-big-workshop--the-evil-dlc",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "little-big-workshop--good-vs-evil-bundle",
+        "pageType": "offer"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2021-06-10T17:00:00.000Z",
   "pcReleaseDate": "2019-10-19T16:00:00.000Z",
