@@ -95,7 +95,18 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "criticalorb-282b62",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "criticalorb-faq-3a6e0a",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "criticalorb-282b62",
@@ -104,24 +115,7 @@
   ],
   "developerDisplayName": "Karno",
   "publisherDisplayName": "AbsoluteZeroPoint",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 399,
-      "originalPrice": 399,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2024-03-29T03:00:00.000Z",
   "pcReleaseDate": "2024-03-29T03:00:00.000Z",
