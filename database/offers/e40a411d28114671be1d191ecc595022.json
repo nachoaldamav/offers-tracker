@@ -83,7 +83,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "kapital-sparks-of-revolution-70f07b",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "kapital-sparks-of-revolution-kapital-soundtrack-f23b83",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "kapital-sparks-of-revolution-70f07b",
@@ -92,24 +103,7 @@
   ],
   "developerDisplayName": "Lapovich Team",
   "publisherDisplayName": "Fulqrum Publishing",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1999,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2022-04-28T17:00:00.000Z",
   "pcReleaseDate": "2022-04-28T17:00:00.000Z",
