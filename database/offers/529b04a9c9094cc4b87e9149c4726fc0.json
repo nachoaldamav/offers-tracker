@@ -154,11 +154,43 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "borderlands-2--ultra-hd-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "borderlands-2--commander-lilith",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "borderlands-2",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Gearbox Software",
   "publisherDisplayName": "2K",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-05-28T15:00:00.000Z",
   "pcReleaseDate": "2012-09-18T15:00:00.000Z",
