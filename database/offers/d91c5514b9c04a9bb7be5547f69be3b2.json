@@ -47,7 +47,10 @@
       "id": "21894",
       "name": "Cloud Saves"
     },
-    null,
+    {
+      "id": "1367",
+      "name": "RPG"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -71,8 +74,7 @@
     {
       "id": "1263",
       "name": "Indie"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -112,32 +114,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": null,
-  "publisherDisplayName": null,
-  "price": {
-    "totalPrice": {
-      "discountPrice": 279,
-      "originalPrice": 1399,
-      "voucherDiscount": 0,
-      "discount": 1120,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": [
-          {
-            "id": "5114a08734fa48b88ca251de1aef701c"
-          }
-        ]
+        "pageSlug": "neurodeck",
+        "pageType": "productHome"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2021-03-18T17:00:00.000Z",
   "pcReleaseDate": "2021-03-18T17:00:00.000Z",

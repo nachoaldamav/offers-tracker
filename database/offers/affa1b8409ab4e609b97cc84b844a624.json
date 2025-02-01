@@ -51,7 +51,10 @@
       "id": "1298",
       "name": "Puzzle"
     },
-    null,
+    {
+      "id": "1367",
+      "name": "RPG"
+    },
     {
       "id": "9547",
       "name": "Windows"
@@ -63,8 +66,7 @@
     {
       "id": "1263",
       "name": "Indie"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -104,7 +106,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-forgotten-city",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-forgotten-city--digital-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-forgotten-city--collectors-dlc",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

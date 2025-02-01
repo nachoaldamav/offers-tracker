@@ -75,7 +75,10 @@
       "id": "9547",
       "name": "Windows"
     },
-    null
+    {
+      "id": "1294",
+      "name": "First Person"
+    }
   ],
   "items": [
     {
@@ -115,7 +118,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "wolfenstein-the-old-blood",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "wolfenstein-the-old-blood--worldwide",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

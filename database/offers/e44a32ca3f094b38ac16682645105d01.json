@@ -39,7 +39,10 @@
       "id": "21894",
       "name": "Cloud Saves"
     },
-    null,
+    {
+      "id": "1367",
+      "name": "RPG"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -51,8 +54,7 @@
     {
       "id": "1389",
       "name": "MANAGEMENT"
-    },
-    null
+    }
   ],
   "items": [
     {
@@ -104,7 +106,14 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "yes-your-grace",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "yes-your-grace",
@@ -113,28 +122,7 @@
   ],
   "developerDisplayName": "Brave At Night",
   "publisherDisplayName": "No More Robots",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 499,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 1500,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "72ff1715ed4a44bf9bf82ba943a6cdd9"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2021-03-26T16:00:00.000Z",
   "pcReleaseDate": null,
