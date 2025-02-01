@@ -114,7 +114,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "demons-tilt",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "demons-tilt--collector-pack",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "demons-tilt",
