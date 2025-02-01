@@ -126,7 +126,30 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "control",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "control--the-foundation",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "control--season-pass",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "control--awe",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "control--ultimate-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Remedy Entertainment Plc",
   "publisherDisplayName": "Remedy Entertainment",
