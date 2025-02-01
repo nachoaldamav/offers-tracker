@@ -171,7 +171,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "foxyball-686c20",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "foxyball-686c20",
@@ -180,7 +187,28 @@
   ],
   "developerDisplayName": "Hayen Interactive Entertainment Limited",
   "publisherDisplayName": "Hayen Interactive Entertainment Limited",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 559,
+      "originalPrice": 699,
+      "voucherDiscount": 0,
+      "discount": 140,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "7f0d48d2326a40d988379921e8574eca"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-11-08T07:30:00.000Z",
   "pcReleaseDate": "2024-11-08T07:30:00.000Z",
