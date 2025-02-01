@@ -83,13 +83,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "kapital-sparks-of-revolution-70f07b",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "kapital-sparks-of-revolution-70f07b",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "kapital-sparks-of-revolution-kapital-soundtrack-f23b83",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Lapovich Team",
   "publisherDisplayName": "Fulqrum Publishing",
   "price": null,
