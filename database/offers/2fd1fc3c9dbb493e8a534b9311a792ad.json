@@ -215,7 +215,24 @@
   ],
   "developerDisplayName": "MY.GAMES",
   "publisherDisplayName": "MY.GAMES",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-05-23T12:00:00.000Z",
   "pcReleaseDate": "2024-02-14T20:00:00.000Z",
