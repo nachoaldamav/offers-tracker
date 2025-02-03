@@ -135,13 +135,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "chaincrisis-fcfa66",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "chaincrisis-fcfa66",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "chaincrisis-faq-42959c",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "WARPGATE TECHNOLOGIES CORP",
   "publisherDisplayName": "WARPGATE TECHNOLOGIES CORP",
   "price": null,
