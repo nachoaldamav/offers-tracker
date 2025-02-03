@@ -99,11 +99,34 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": null
+  },
   "offerMappings": null,
   "developerDisplayName": "Square Enix",
   "publisherDisplayName": "Square Enix",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 6999,
+      "originalPrice": 9999,
+      "voucherDiscount": 0,
+      "discount": 3000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "7ea6c138914946c6b610cc1e2b62f501"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-01-23T14:00:00.000Z",
   "pcReleaseDate": "2025-01-23T14:00:00.000Z",
