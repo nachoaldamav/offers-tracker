@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "cleaning-queens-crystal-clean-home-2fd49c",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "cleaning-queens-crystal-clean-home-2fd49c",
@@ -100,7 +107,24 @@
   ],
   "developerDisplayName": "Brave Giant",
   "publisherDisplayName": "Trela Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1199,
+      "originalPrice": 1199,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-05-16T22:00:00.000Z",
   "pcReleaseDate": "2023-02-02T23:00:00.000Z",
