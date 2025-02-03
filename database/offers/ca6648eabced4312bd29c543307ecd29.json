@@ -87,13 +87,23 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "gravity-circuit-489baa",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "gravity-circuit-489baa",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "gravity-circuit-gravity-circuit-plus-ost-109e87",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "gravity-circuit-gravity-circuit-soundtrack-bbc5fe",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Domesticated Ant Games",
   "publisherDisplayName": "PID Games",
   "price": null,
