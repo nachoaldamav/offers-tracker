@@ -114,7 +114,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "biomutant",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "biomutant--mercenary-class",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "biomutant--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
