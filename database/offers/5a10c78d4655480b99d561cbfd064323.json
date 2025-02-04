@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-11-21T18:30:00.000Z",
   "creationDate": "2024-10-04T09:15:00.564Z",
-  "lastModifiedDate": "2025-01-28T16:00:30.686Z",
+  "lastModifiedDate": "2025-02-04T16:00:30.705Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -92,10 +92,6 @@
       "name": "Windows"
     },
     {
-      "id": "29899",
-      "name": "Deals of the Week"
-    },
-    {
       "id": "1117",
       "name": "Adventure"
     }
@@ -139,7 +135,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "snowboard-legends-snowboard-legends-demo-21c614",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "snowboard-legends-245393",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "snowboard-legends-245393",
@@ -148,7 +155,24 @@
   ],
   "developerDisplayName": "Yash Future Tech Solutions Pvt Ltd",
   "publisherDisplayName": "Yash Future Tech Solutions Pvt Ltd",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-11-21T18:30:00.000Z",
   "pcReleaseDate": "2024-11-21T18:30:00.000Z",

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-01-17T21:00:00.000Z",
   "creationDate": "2023-12-12T04:29:36.899Z",
-  "lastModifiedDate": "2024-12-03T16:00:23.403Z",
+  "lastModifiedDate": "2025-02-04T16:00:30.829Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1181",
@@ -105,10 +109,10 @@
   "publisherDisplayName": "8Floor ltd",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 199,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 300,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -117,7 +121,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "8ef68fce938a4896b7342475b1bce6b0"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-11-26T15:00:00.000Z",
   "creationDate": "2024-11-15T09:23:38.160Z",
-  "lastModifiedDate": "2025-01-31T16:00:39.182Z",
+  "lastModifiedDate": "2025-02-04T16:00:30.828Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -92,6 +92,10 @@
       "name": "Windows"
     },
     {
+      "id": "29899",
+      "name": "Deals of the Week"
+    },
+    {
       "id": "1117",
       "name": "Adventure"
     }
@@ -135,7 +139,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "hero-of-the-kingdom-the-lost-tales-3-hero-of-the-kingdom-the-lost-tales-3-demo-7e1f03",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hero-of-the-kingdom-the-lost-tales-3-4c728d",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "hero-of-the-kingdom-the-lost-tales-3-4c728d",
@@ -144,7 +159,28 @@
   ],
   "developerDisplayName": "Lonely Troops",
   "publisherDisplayName": "Lonely Troops",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 489,
+      "originalPrice": 699,
+      "voucherDiscount": 0,
+      "discount": 210,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "971cd56b4cea40e8973a6fa3c4563ec9"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-11-26T15:00:00.000Z",
   "pcReleaseDate": "2024-11-26T15:00:00.000Z",

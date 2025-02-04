@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-01-01T20:31:03.000Z",
   "creationDate": "2023-03-20T05:28:11.691Z",
-  "lastModifiedDate": "2025-02-04T09:39:40.259Z",
+  "lastModifiedDate": "2025-02-04T16:00:30.829Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -136,6 +136,10 @@
       "name": "Windows"
     },
     {
+      "id": "29899",
+      "name": "Deals of the Week"
+    },
+    {
       "id": "9549",
       "name": "Controller Support"
     },
@@ -191,7 +195,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "saelig-02ab2d",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "saelig-faq-5a5d84",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "saelig-02ab2d",
@@ -200,7 +215,28 @@
   ],
   "developerDisplayName": "Atorcoppe Games",
   "publisherDisplayName": "Atorcoppe Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1199,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 300,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "6963c419111747e28518456ca80e8dd2"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-01-01T02:30:00.000Z",
   "pcReleaseDate": "2017-06-30T12:00:00.000Z",

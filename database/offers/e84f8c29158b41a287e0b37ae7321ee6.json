@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-06-23T20:00:00.000Z",
   "creationDate": "2023-05-07T22:26:50.790Z",
-  "lastModifiedDate": "2024-12-24T00:02:36.744Z",
+  "lastModifiedDate": "2025-02-04T16:00:30.829Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1263",
@@ -129,10 +133,10 @@
   "publisherDisplayName": "Black Apple",
   "price": {
     "totalPrice": {
-      "discountPrice": 399,
+      "discountPrice": 239,
       "originalPrice": 399,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 160,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -141,7 +145,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "765d05d620b44bae86c11a99d77402ed"
+          }
+        ]
       }
     ]
   },
