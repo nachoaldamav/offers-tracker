@@ -95,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "legend-bowl-10bc86",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "legend-bowl-10bc86",
@@ -104,24 +111,7 @@
   ],
   "developerDisplayName": "Super Pixel Games",
   "publisherDisplayName": "Top Hat Studios, Inc.",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 2499,
-      "originalPrice": 2499,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2022-05-02T23:00:00.000Z",
   "pcReleaseDate": "2021-09-02T00:00:00.000Z",
