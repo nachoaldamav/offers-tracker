@@ -106,7 +106,26 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "scourgebringer--soundtrack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "scourgebringer--supporter-bundle",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "scourgebringer",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "scourgebringer--supporter-pack",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

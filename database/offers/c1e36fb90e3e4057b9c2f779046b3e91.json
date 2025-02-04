@@ -106,11 +106,51 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "aeon-must-die--original-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "aeon-must-die",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "aeon-must-die--ost-bundle",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "aeon-must-die--wrathful-king-set",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Limestone Games",
   "publisherDisplayName": "Focus Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1700,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "7eb165918ff7494eaa3b40b046519ba8"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-10-27T21:59:00.000Z",
   "pcReleaseDate": "2021-10-27T21:59:00.000Z",
