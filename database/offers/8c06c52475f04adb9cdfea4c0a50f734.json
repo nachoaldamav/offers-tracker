@@ -90,7 +90,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "neko-ghost-jump",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "neko-ghost-jump--early-access-faq",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Burgos Games  ",
   "publisherDisplayName": "Burgos Games  ",
