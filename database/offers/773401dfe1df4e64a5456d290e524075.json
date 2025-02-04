@@ -83,7 +83,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-forest-cathedral-54f32c",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-forest-cathedral-54f32c",
@@ -92,7 +99,24 @@
   ],
   "developerDisplayName": "Brian Wilson",
   "publisherDisplayName": "Whitethorn Games, Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-03-14T16:00:00.000Z",
   "pcReleaseDate": "2023-03-14T16:00:00.000Z",

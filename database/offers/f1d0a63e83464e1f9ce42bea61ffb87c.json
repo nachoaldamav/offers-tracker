@@ -91,11 +91,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "heist-force-e1edb9",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "heist-force-e1edb9",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "HALVA Studio",
   "publisherDisplayName": "HALVA Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 599,
+      "originalPrice": 599,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-08-31T00:00:00.000Z",
   "pcReleaseDate": "2023-07-25T01:00:00.000Z",

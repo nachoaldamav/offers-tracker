@@ -110,8 +110,23 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "lumberjacks-dynasty--digital-supporter-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "lumberjacks-dynasty",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "lumberjacks-dynasty--digital-supporter-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
   "price": null,

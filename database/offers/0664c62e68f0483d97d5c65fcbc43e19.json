@@ -162,8 +162,20 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "star-stable",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "star-stable",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Star Stable Entertainment AB",
   "publisherDisplayName": "Star Stable Entertainment AB",
   "price": null,
