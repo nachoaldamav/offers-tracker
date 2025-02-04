@@ -91,13 +91,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "nocturnal-ef3fa0",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "nocturnal-ef3fa0",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "nocturnal-nocturnal-soundtrack-c8d1e7",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Sunnyside Games",
   "publisherDisplayName": "Dear Villagers",
   "price": null,
