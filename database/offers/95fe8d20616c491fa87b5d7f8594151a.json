@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-01-01T20:31:03.000Z",
   "creationDate": "2023-03-20T05:28:11.691Z",
-  "lastModifiedDate": "2025-02-03T09:02:08.876Z",
+  "lastModifiedDate": "2025-02-04T09:39:40.259Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -191,8 +191,24 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "saelig-02ab2d",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "saelig-faq-5a5d84",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "saelig-02ab2d",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Atorcoppe Games",
   "publisherDisplayName": "Atorcoppe Games",
   "price": null,
