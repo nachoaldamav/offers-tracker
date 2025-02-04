@@ -142,7 +142,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ooblets--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "ooblets",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Glumberland",
   "publisherDisplayName": "Glumberland",
