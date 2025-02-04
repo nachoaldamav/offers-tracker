@@ -139,22 +139,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "paw-paw-destiny-demo-8ef487",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "paw-paw-destiny-843848",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "paw-paw-destiny-paw-paw-destiny_demo-c8fe16",
-        "pageType": "offer"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "paw-paw-destiny-843848",
@@ -163,7 +148,24 @@
   ],
   "developerDisplayName": "Daiyu.studio",
   "publisherDisplayName": "Daiyu.studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-09-11T15:00:00.000Z",
   "pcReleaseDate": "2023-09-11T08:00:00.000Z",
