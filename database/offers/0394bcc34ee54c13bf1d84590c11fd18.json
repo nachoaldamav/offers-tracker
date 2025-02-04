@@ -106,8 +106,19 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "rollercoaster-tycoon-adventures",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "rollercoaster-tycoon-adventures--six-flags",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
   "price": null,
