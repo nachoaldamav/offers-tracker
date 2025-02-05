@@ -95,13 +95,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "refugees-shelter-0c849d",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "refugees-shelter-0c849d",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "refugees-shelter-faq-f9be42",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Roche Limit Studios",
   "publisherDisplayName": "Roche Limit Studios",
   "price": null,
