@@ -107,7 +107,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-last-three-50d8e0",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-last-three-50d8e0",
@@ -116,7 +123,28 @@
   ],
   "developerDisplayName": "Putnai Csaba",
   "publisherDisplayName": "Putnai Csaba",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1619,
+      "originalPrice": 1799,
+      "voucherDiscount": 0,
+      "discount": 180,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "5b341206c1a44cb6b2b0c8180a07c3cc"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-14T15:00:00.000Z",
   "pcReleaseDate": "2024-12-14T00:00:00.000Z",
