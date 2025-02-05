@@ -83,13 +83,23 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "camp-sunshine-fee104",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "camp-sunshine-fee104",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "camp-sunshine-camp-sunshine-ost-4460db",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "camp-sunshine-camp-sunshine-ultimate-edition-wallpapers-a9e809",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Fossil Games",
   "publisherDisplayName": "Hound Picked Games",
   "price": null,
