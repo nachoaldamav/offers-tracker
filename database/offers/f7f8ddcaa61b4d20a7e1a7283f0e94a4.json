@@ -114,11 +114,43 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "outlast",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "outlast--whistleblower",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Red Barrels",
   "publisherDisplayName": "Red Barrels",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1800,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "7da5f3d7f6e7480799fc4bfca43e9b7f"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-10-04T14:00:00.000Z",
   "pcReleaseDate": "2013-09-04T14:00:00.000Z",
