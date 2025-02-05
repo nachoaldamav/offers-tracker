@@ -122,11 +122,55 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-evil-within--season-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-evil-within--the-assignment",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-evil-within--the-executioner",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-evil-within--the-consequence",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-evil-within",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-evil-within--digital-bundle",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Tango Gameworks",
   "publisherDisplayName": "Bethesda Softworks",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-08-02T15:00:00.000Z",
   "pcReleaseDate": "2014-07-13T00:00:00.000Z",
