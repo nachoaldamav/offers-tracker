@@ -87,11 +87,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tv-head-eight-pages-85b4f3",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "tv-head-eight-pages-85b4f3",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Performance Artist",
   "publisherDisplayName": "Performance Artist",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 9,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 90,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "c61891115c96402fac53478a4e5545c0"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-16T07:00:00.000Z",
   "pcReleaseDate": "2023-06-16T07:00:00.000Z",
