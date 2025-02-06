@@ -94,11 +94,55 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "story-of-seasons-friends-of-mineral-town--sheep-costume",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "story-of-seasons-friends-of-mineral-town--chicken-costume",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "story-of-seasons-friends-of-mineral-town--dog-costume",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "story-of-seasons-friends-of-mineral-town--cow-costume",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "story-of-seasons-friends-of-mineral-town--chick-costume",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "story-of-seasons-friends-of-mineral-town",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Marvelous Inc.",
   "publisherDisplayName": "XSEED Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-11-30T16:00:00.000Z",
   "pcReleaseDate": "2020-07-14T16:00:00.000Z",
