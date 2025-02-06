@@ -95,18 +95,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "headquarters-world-war-2-7ad107",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "headquarters-world-war-2-headquarters-world-war-ii-market-garden-00049a",
-        "pageType": "offer"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "headquarters-world-war-2-7ad107",
@@ -115,7 +104,28 @@
   ],
   "developerDisplayName": "Starni Games",
   "publisherDisplayName": "Slitherine Ltd.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2599,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 1400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "d13097dd7e45498b9ae53d4f5d3876e2"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-04-24T15:07:22.442Z",
   "pcReleaseDate": "2024-04-11T13:00:00.000Z",
