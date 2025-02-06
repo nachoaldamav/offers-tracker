@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-03-28T16:00:01.000Z",
   "creationDate": "2022-11-04T09:01:32.075Z",
-  "lastModifiedDate": "2025-01-23T16:00:33.154Z",
+  "lastModifiedDate": "2025-02-06T16:00:34.977Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -56,10 +56,6 @@
       "name": "Windows"
     },
     {
-      "id": "35244",
-      "name": "Epic Savings"
-    },
-    {
       "id": "9549",
       "name": "Controller Support"
     },
@@ -107,7 +103,18 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "pepper-grinder-48f87f",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "pepper-grinder-pepper-grinder-original-soundtrack-b9fdb1",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "pepper-grinder-48f87f",
@@ -116,28 +123,7 @@
   ],
   "developerDisplayName": "Ahr Ech",
   "publisherDisplayName": "Devolver Digital",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 899,
-      "originalPrice": 1499,
-      "voucherDiscount": 0,
-      "discount": 600,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "d35591d968de4cc6aeaca09bb288b0b6"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2024-03-28T16:00:01.000Z",
   "pcReleaseDate": "2024-03-28T16:00:00.000Z",

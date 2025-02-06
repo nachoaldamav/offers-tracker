@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-04-24T15:07:22.441Z",
   "creationDate": "2021-12-28T16:13:19.120Z",
-  "lastModifiedDate": "2025-01-23T16:00:36.607Z",
+  "lastModifiedDate": "2025-02-06T16:00:38.090Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,10 +46,6 @@
     {
       "id": "9547",
       "name": "Windows"
-    },
-    {
-      "id": "35244",
-      "name": "Epic Savings"
     },
     {
       "id": "1183",
@@ -95,7 +91,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "headquarters-world-war-2-7ad107",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "headquarters-world-war-2-headquarters-world-war-ii-market-garden-00049a",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "headquarters-world-war-2-7ad107",
@@ -106,10 +113,10 @@
   "publisherDisplayName": "Slitherine Ltd.",
   "price": {
     "totalPrice": {
-      "discountPrice": 2599,
+      "discountPrice": 3999,
       "originalPrice": 3999,
       "voucherDiscount": 0,
-      "discount": 1400,
+      "discount": 0,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -118,11 +125,7 @@
     },
     "lineOffers": [
       {
-        "appliedRules": [
-          {
-            "id": "d13097dd7e45498b9ae53d4f5d3876e2"
-          }
-        ]
+        "appliedRules": []
       }
     ]
   },

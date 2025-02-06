@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-04-18T00:35:20.575Z",
   "creationDate": "2023-10-22T08:57:23.289Z",
-  "lastModifiedDate": "2025-01-23T16:00:34.040Z",
+  "lastModifiedDate": "2025-02-06T16:00:35.775Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,10 +46,6 @@
     {
       "id": "9547",
       "name": "Windows"
-    },
-    {
-      "id": "35244",
-      "name": "Epic Savings"
     }
   ],
   "items": [
@@ -91,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "happiness-market-0572e2",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "happiness-market-0572e2",
@@ -102,10 +105,10 @@
   "publisherDisplayName": "luolei",
   "price": {
     "totalPrice": {
-      "discountPrice": 64,
+      "discountPrice": 99,
       "originalPrice": 99,
       "voucherDiscount": 0,
-      "discount": 35,
+      "discount": 0,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -114,11 +117,7 @@
     },
     "lineOffers": [
       {
-        "appliedRules": [
-          {
-            "id": "eca823408a124f14ac9f064d34ca350b"
-          }
-        ]
+        "appliedRules": []
       }
     ]
   },

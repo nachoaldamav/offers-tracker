@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-08-17T14:00:00.000Z",
   "creationDate": "2020-09-08T17:30:29.799Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.318Z",
+  "lastModifiedDate": "2025-02-06T15:57:29.892Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -134,6 +134,9 @@
   ],
   "categories": [
     {
+      "path": "freegames"
+    },
+    {
       "path": "games"
     },
     {
@@ -195,10 +198,10 @@
   "publisherDisplayName": null,
   "price": {
     "totalPrice": {
-      "discountPrice": 4999,
+      "discountPrice": 0,
       "originalPrice": 4999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 4999,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -207,7 +210,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "d480984cb6714bad93c7e3ffe448bf18"
+          }
+        ]
       }
     ]
   },
