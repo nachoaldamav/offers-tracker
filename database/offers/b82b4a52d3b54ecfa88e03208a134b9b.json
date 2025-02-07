@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-12-21T23:57:47.000Z",
   "creationDate": "2024-09-26T08:54:52.208Z",
-  "lastModifiedDate": "2025-01-07T15:55:30.874Z",
+  "lastModifiedDate": "2025-02-07T21:11:18.223Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -151,7 +151,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "geopolitical-simulator-5-ffd53e",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "geopolitical-simulator-5-godn-spy-geopolitical-simulator-5-e9eb6d",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "geopolitical-simulator-5-ffd53e",
@@ -160,7 +171,24 @@
   ],
   "developerDisplayName": "Eversim",
   "publisherDisplayName": "Eversim",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 5999,
+      "originalPrice": 5999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-21T19:00:00.000Z",
   "pcReleaseDate": "2024-10-22T10:00:00.000Z",
