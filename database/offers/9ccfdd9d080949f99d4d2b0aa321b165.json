@@ -94,7 +94,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "little-inferno",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "little-inferno--ho-ho-holiday-edition",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
