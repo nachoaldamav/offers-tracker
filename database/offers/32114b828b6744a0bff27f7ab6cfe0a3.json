@@ -142,7 +142,26 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "outriders--hells-rangers",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "outriders",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "outriders--worldslayer-upgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "outriders--complete-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "People Can Fly",
   "publisherDisplayName": "Square Enix",
