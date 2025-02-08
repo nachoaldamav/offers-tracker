@@ -133,10 +133,10 @@
   "publisherDisplayName": "DIanku",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 449,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 50,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -145,7 +145,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "713bcfe37efb476ba940a8f8a245db9b"
+          }
+        ]
       }
     ]
   },
