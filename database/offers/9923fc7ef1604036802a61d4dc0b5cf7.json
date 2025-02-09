@@ -106,7 +106,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "it-takes-two",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "it-takes-two--friends-pass",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Hazelight",
   "publisherDisplayName": "Electronic Arts",
