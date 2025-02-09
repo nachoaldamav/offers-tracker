@@ -98,8 +98,23 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "operencia--explorers-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "operencia",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "operencia--explorers-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Zen Studios",
   "publisherDisplayName": "Zen Studios",
   "price": null,
