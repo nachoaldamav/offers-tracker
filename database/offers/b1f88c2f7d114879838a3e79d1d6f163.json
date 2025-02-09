@@ -126,8 +126,27 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "deathloop",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "deathloop--original-game-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "deathloop--deluxe-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "deathloop--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Arkane Studios",
   "publisherDisplayName": "Bethesda Softworks",
   "price": null,
