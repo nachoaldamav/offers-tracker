@@ -98,7 +98,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "bandle-tale-a-league-of-legends-story",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "bandle-tale-a-league-of-legends-story--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "bandle-tale-a-league-of-legends-story--bandle-tale-bigger-on-the-inside-pack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Lazy Bear Games",
   "publisherDisplayName": "Riot Forge",
