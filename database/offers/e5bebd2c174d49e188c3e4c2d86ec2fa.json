@@ -79,7 +79,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "crowns-and-pawns-kingdom-of-deceit-51b045",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "crowns-and-pawns-kingdom-of-deceit-crowns-and-pawns-kingdom-of-deceit-soundtrack-e7bf63",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "crowns-and-pawns-kingdom-of-deceit-51b045",
@@ -88,7 +99,24 @@
   ],
   "developerDisplayName": "Tag of Joy",
   "publisherDisplayName": "Headup Gmbh",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-05-06T15:00:00.000Z",
   "pcReleaseDate": "2022-05-06T15:00:00.000Z",
