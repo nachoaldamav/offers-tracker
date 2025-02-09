@@ -142,28 +142,46 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": null,
-  "publisherDisplayName": null,
-  "price": {
-    "totalPrice": {
-      "discountPrice": 5999,
-      "originalPrice": 5999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": []
+        "pageSlug": "assassins-creed-odyssey--free-trial",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-odyssey--ultimate-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-odyssey--dlc-1",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-odyssey--dlc-2",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-odyssey--gold-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-odyssey--season-pass",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-odyssey",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "assassins-creed-odyssey--deluxe-edition",
+        "pageType": "offer"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2018-10-05T15:00:00.000Z",
   "pcReleaseDate": null,
