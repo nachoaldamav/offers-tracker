@@ -86,28 +86,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": "Jackbox Games",
-  "publisherDisplayName": "Jackbox Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 999,
-      "originalPrice": 999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": []
+        "pageSlug": "drawful-2",
+        "pageType": "productHome"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": "Jackbox Games",
+  "publisherDisplayName": "Jackbox Games",
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2016-06-21T15:00:00.000Z",
   "pcReleaseDate": null,
