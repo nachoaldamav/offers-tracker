@@ -91,7 +91,22 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "steamworld-build-steamworld-build-demo-af3891",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "steamworld-build-71ee6c",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "steamworld-build-steamworld-build-mechanized-85e540",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "steamworld-build-71ee6c",
@@ -100,7 +115,24 @@
   ],
   "developerDisplayName": "Thunderful Development",
   "publisherDisplayName": "Thunderful Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-01T14:00:00.000Z",
   "pcReleaseDate": "2023-12-01T14:00:00.000Z",
