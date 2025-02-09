@@ -94,11 +94,55 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "south-park-the-fractured-but-whole--season-pass",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "south-park-the-fractured-but-whole",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "south-park-the-fractured-but-whole--danger-deck",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "south-park-the-fractured-but-whole--from-dusk-till-casa-bonita",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "south-park-the-fractured-but-whole--gold-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "south-park-the-fractured-but-whole--bring-the-crunch",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2017-10-16T10:00:00.000Z",
   "pcReleaseDate": null,
