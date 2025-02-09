@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-12-20T14:00:00.000Z",
   "creationDate": "2024-10-23T04:44:41.607Z",
-  "lastModifiedDate": "2025-01-29T18:41:19.320Z",
+  "lastModifiedDate": "2025-02-09T17:25:40.941Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -131,7 +131,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "fountains-87e36d",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "fountains-87e36d",
@@ -140,7 +147,24 @@
   ],
   "developerDisplayName": "John Pywell",
   "publisherDisplayName": "John Pywell",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-20T14:00:00.000Z",
   "pcReleaseDate": "2024-12-20T14:00:00.000Z",
