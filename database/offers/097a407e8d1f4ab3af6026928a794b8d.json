@@ -106,7 +106,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "no-straight-roads",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "no-straight-roads--mother-and-child-demo",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "no-straight-roads",
