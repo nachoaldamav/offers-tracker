@@ -82,7 +82,26 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "eyes-in-the-dark--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "eyes-in-the-dark--soundtrack-bundle",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "eyes-in-the-dark--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "eyes-in-the-dark",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": "Under the Stairs Limited",
