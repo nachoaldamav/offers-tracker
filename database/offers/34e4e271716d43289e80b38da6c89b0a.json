@@ -99,13 +99,19 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "striker-manager-3-83d916",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "striker-manager-3-83d916",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "striker-manager-3-faq-dcc347",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "UPLAY Online",
   "publisherDisplayName": "UPLAY Online",
   "price": null,
