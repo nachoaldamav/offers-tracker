@@ -80,28 +80,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": "The Game Creators",
-  "publisherDisplayName": "The Game Creators",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 4999,
-      "originalPrice": 4999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": []
+        "pageSlug": "gameguru-max",
+        "pageType": "productHome"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": "The Game Creators",
+  "publisherDisplayName": "The Game Creators",
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2025-01-15T13:00:00.000Z",
   "pcReleaseDate": null,
