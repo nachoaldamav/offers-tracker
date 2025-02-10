@@ -147,7 +147,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "onlyfalse-faq-d1e044",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "onlyfalse-d97998",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "onlyfalse-d97998",
@@ -156,7 +167,28 @@
   ],
   "developerDisplayName": "VoidSpark",
   "publisherDisplayName": "VoidSpark",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 509,
+      "originalPrice": 599,
+      "voucherDiscount": 0,
+      "discount": 90,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "c33c8a2239ff4ae09a71684f48ff730c"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-02-07T18:00:00.000Z",
   "pcReleaseDate": "2025-02-07T18:00:00.000Z",
