@@ -98,7 +98,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sid-meiers-civilization-vii",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "sid-meiers-civilization-vii--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "sid-meiers-civilization-vii--founders-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Firaxis Games",
   "publisherDisplayName": "2K",
