@@ -95,13 +95,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "everlasting-guilt-213534",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "everlasting-guilt-faq-4e0fbd",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "everlasting-guilt-213534",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Geeky Mouse",
   "publisherDisplayName": "Geeky Mouse",
   "price": null,
