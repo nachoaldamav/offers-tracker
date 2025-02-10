@@ -106,7 +106,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "figment",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "figment-ios-982b04",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "figment-android-38e58f",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "figment",
@@ -115,28 +130,7 @@
   ],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": {
-    "totalPrice": {
-      "discountPrice": 199,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 1800,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "481f3d86d79241ca9066885f871b9efb"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2020-03-26T15:00:00.000Z",
   "pcReleaseDate": null,

@@ -130,32 +130,38 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": null,
-  "publisherDisplayName": null,
-  "price": {
-    "totalPrice": {
-      "discountPrice": 499,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 1500,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": [
-          {
-            "id": "052ea0fecd3f4f93bbad362784531c50"
-          }
-        ]
+        "pageSlug": "watch-dogs--bad-blood-dlc",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "watch-dogs--season-pass",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "watch-dogs--access-granted-dlc",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "watch-dogs",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "watch-dogs--complete-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "watch-dogs--conspiracy-dlc",
+        "pageType": "offer"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2020-03-19T15:00:00.000Z",
   "pcReleaseDate": null,
