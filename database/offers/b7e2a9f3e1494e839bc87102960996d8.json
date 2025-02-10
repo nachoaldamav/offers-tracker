@@ -95,7 +95,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "cornucopia-053d20",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "cornucopia-faq-4f4425",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "cornucopia-053d20",
@@ -104,24 +115,7 @@
   ],
   "developerDisplayName": "Subconscious Games",
   "publisherDisplayName": "Subconscious Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 2499,
-      "originalPrice": 2499,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2025-12-31T00:00:00.000Z",
   "pcReleaseDate": "2024-12-31T00:00:00.000Z",
