@@ -87,23 +87,32 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
+  "catalogNs": null,
+  "offerMappings": null,
+  "developerDisplayName": "Performance Artist",
+  "publisherDisplayName": "Performance Artist",
+  "price": {
+    "totalPrice": {
+      "discountPrice": 49,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 50,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
       {
-        "pageSlug": "backrooms-doors-248a0f",
-        "pageType": "productHome"
+        "appliedRules": [
+          {
+            "id": "048ed5a2b26d42039c053f5d2a7b9992"
+          }
+        ]
       }
     ]
   },
-  "offerMappings": [
-    {
-      "pageSlug": "backrooms-doors-248a0f",
-      "pageType": "productHome"
-    }
-  ],
-  "developerDisplayName": "Performance Artist",
-  "publisherDisplayName": "Performance Artist",
-  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-08-10T07:00:00.000Z",
   "pcReleaseDate": "2023-08-10T07:00:00.000Z",
