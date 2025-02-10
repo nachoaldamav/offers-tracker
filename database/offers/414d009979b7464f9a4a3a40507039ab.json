@@ -6,31 +6,19 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-10-08T17:00:00.000Z",
   "creationDate": "2020-08-21T13:46:02.309Z",
-  "lastModifiedDate": "2025-02-07T21:51:17.381Z",
+  "lastModifiedDate": "2025-02-10T20:26:33.095Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/5d24ed888f9542a09dc406f66705631a/offer/LandscapeProdImage-2560x1440-d9113ff23c86c855afb318c7f7e01874.png"
-    },
     {
       "type": "OfferImageTall",
       "url": "https://cdn1.epicgames.com/5d24ed888f9542a09dc406f66705631a/offer/portraitProductImage-1200x1600-c62d577d1522e4a4e9d94b0665b5a16b.png"
     },
     {
-      "type": "DieselStoreFrontWide",
+      "type": "OfferImageWide",
       "url": "https://cdn1.epicgames.com/5d24ed888f9542a09dc406f66705631a/offer/LandscapeProdImage-2560x1440-d9113ff23c86c855afb318c7f7e01874.png"
     },
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/5d24ed888f9542a09dc406f66705631a/offer/portraitProductImage-1200x1600-c62d577d1522e4a4e9d94b0665b5a16b.png"
-    },
-    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/5d24ed888f9542a09dc406f66705631a/offer/portraitProductImage-1200x1600-c62d577d1522e4a4e9d94b0665b5a16b.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
       "url": "https://cdn1.epicgames.com/5d24ed888f9542a09dc406f66705631a/offer/portraitProductImage-1200x1600-c62d577d1522e4a4e9d94b0665b5a16b.png"
     }
   ],
@@ -86,11 +74,35 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "neighbours-back-from-hell",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Farbworks & THQ Nordic",
   "publisherDisplayName": "HandyGames",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-10-08T17:00:00.000Z",
   "pcReleaseDate": "2020-10-08T17:00:00.000Z",
