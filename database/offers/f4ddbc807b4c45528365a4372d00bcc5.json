@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-06-15T12:00:00.000Z",
   "creationDate": "2024-05-31T17:46:45.016Z",
-  "lastModifiedDate": "2025-01-31T21:07:33.973Z",
+  "lastModifiedDate": "2025-02-10T16:01:01.733Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -122,6 +122,10 @@
     {
       "id": "1110",
       "name": "Party"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1370",
@@ -249,10 +253,10 @@
   "publisherDisplayName": "Soer Game Studio",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 249,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 250,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -261,7 +265,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "3a8e495410c74bc386f7f51bf92e969c"
+          }
+        ]
       }
     ]
   },

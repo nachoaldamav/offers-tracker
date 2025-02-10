@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-05-11T23:00:00.000Z",
   "creationDate": "2023-04-11T18:43:48.800Z",
-  "lastModifiedDate": "2024-12-03T16:05:59.526Z",
+  "lastModifiedDate": "2025-02-10T16:01:15.480Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,6 +42,10 @@
     {
       "id": "19847",
       "name": "Achievements"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1146",
@@ -113,10 +117,10 @@
   "publisherDisplayName": "PLYOUNG",
   "price": {
     "totalPrice": {
-      "discountPrice": 1699,
+      "discountPrice": 679,
       "originalPrice": 1699,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1020,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "c0f7d8891bc544c2bbe3f6fd4d2625b0"
+          }
+        ]
       }
     ]
   },

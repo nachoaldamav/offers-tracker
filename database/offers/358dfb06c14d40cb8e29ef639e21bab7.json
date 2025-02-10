@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-05-02T16:00:00.000Z",
   "creationDate": "2024-02-05T14:38:26.815Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.222Z",
+  "lastModifiedDate": "2025-02-10T16:01:04.236Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,6 +42,10 @@
     {
       "id": "21894",
       "name": "Cloud Saves"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1370",
@@ -95,30 +99,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "undead-inc-undead-inc-digital-artbook-45bc26",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "undead-inc-undead-inc-original-soundtrack-2f9fc0",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "undead-inc-undead-inc-worky-dlc-6c9056",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "undead-inc-undead-inc-deluxe-edition-15d6cc",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "undead-inc-3bb783",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "undead-inc-3bb783",
@@ -129,10 +110,10 @@
   "publisherDisplayName": "Rightsized Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 999,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -141,7 +122,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "e4cb75c734c949389b17b3457bc27572"
+          }
+        ]
       }
     ]
   },

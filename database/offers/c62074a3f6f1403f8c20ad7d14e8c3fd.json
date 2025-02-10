@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-06-20T17:00:00.000Z",
   "creationDate": "2024-05-07T11:41:35.995Z",
-  "lastModifiedDate": "2025-01-08T10:44:48.442Z",
+  "lastModifiedDate": "2025-02-10T16:01:20.818Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -38,6 +38,10 @@
     {
       "id": "19847",
       "name": "Achievements"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1370",
@@ -121,10 +125,10 @@
   "publisherDisplayName": "Hooded Horse",
   "price": {
     "totalPrice": {
-      "discountPrice": 3999,
+      "discountPrice": 1999,
       "originalPrice": 3999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +137,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "e3256ab68ba5476da2a84c02b9cd289d"
+          }
+        ]
       }
     ]
   },

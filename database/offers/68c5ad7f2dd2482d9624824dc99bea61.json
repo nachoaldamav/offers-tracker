@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-09-16T17:00:00.000Z",
   "creationDate": "2024-09-09T09:39:02.180Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.311Z",
+  "lastModifiedDate": "2025-02-10T16:01:33.061Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -38,6 +38,10 @@
     {
       "id": "19847",
       "name": "Achievements"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1210",
@@ -113,10 +117,10 @@
   "publisherDisplayName": "Fulqrum Publishing",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 749,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 250,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "0a61f7e5b33b49e5893b1411857a4ea8"
+          }
+        ]
       }
     ]
   },

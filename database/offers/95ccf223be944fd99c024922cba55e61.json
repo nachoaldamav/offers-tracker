@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-12-11T17:00:00.000Z",
   "creationDate": "2024-10-10T20:06:46.424Z",
-  "lastModifiedDate": "2025-01-27T20:52:04.020Z",
+  "lastModifiedDate": "2025-02-10T16:01:02.463Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -108,6 +108,10 @@
       "name": "Achievements"
     },
     {
+      "id": "39911",
+      "name": "Winter Sale"
+    },
+    {
       "id": "1210",
       "name": "Shooter"
     },
@@ -167,11 +171,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tankhead-2f3b51",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "tankhead-2f3b51",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Alpha Channel Inc.",
   "publisherDisplayName": "Alpha Channel Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2699,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 300,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "e426347a386243fea5f9c95fd77458e4"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-11T17:00:00.000Z",
   "pcReleaseDate": "2024-12-11T17:00:00.000Z",

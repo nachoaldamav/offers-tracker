@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-09-11T04:00:00.000Z",
   "creationDate": "2022-09-06T21:32:56.954Z",
-  "lastModifiedDate": "2024-12-03T16:00:23.402Z",
+  "lastModifiedDate": "2025-02-10T16:01:40.049Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -31,6 +31,10 @@
   "urlSlug": "5800538a57874321861e384bd056198a",
   "url": null,
   "tags": [
+    {
+      "id": "39911",
+      "name": "Winter Sale"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -71,14 +75,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "vegas-make-it-big-7584d3",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "vegas-make-it-big-7584d3",
@@ -87,7 +84,28 @@
   ],
   "developerDisplayName": "Deepred",
   "publisherDisplayName": "Strategy First",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 99,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "95b1d7f87f674ba9b3dac16f767b6243"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-09-11T04:00:00.000Z",
   "pcReleaseDate": "2006-12-21T03:00:00.000Z",

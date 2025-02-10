@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-10-06T15:00:00.000Z",
   "creationDate": "2020-02-14T16:55:56.025Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.491Z",
+  "lastModifiedDate": "2025-02-10T16:01:33.946Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "1188",
       "name": "RELAXING"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "21127",
@@ -143,10 +147,10 @@
   "publisherDisplayName": null,
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 499,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -155,7 +159,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "045d4dc0982b47308607deec094906d5"
+          }
+        ]
       }
     ]
   },

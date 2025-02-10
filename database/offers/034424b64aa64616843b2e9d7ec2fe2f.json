@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-04-26T17:00:00.000Z",
   "creationDate": "2023-03-09T17:45:24.316Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.312Z",
+  "lastModifiedDate": "2025-02-10T16:01:33.946Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,6 +42,10 @@
     {
       "id": "19847",
       "name": "Achievements"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1080",
@@ -109,10 +113,10 @@
   "publisherDisplayName": "Indie Games Studio",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1299,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 700,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "3e1ece317eaa4014a61c7a1719ad4bdd"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-05-13T15:00:00.000Z",
   "creationDate": "2024-04-23T08:43:08.295Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.245Z",
+  "lastModifiedDate": "2025-02-10T16:01:11.559Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -34,6 +34,10 @@
     {
       "id": "19847",
       "name": "Achievements"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1386",
@@ -91,14 +95,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "the-land-beneath-us-85394f",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "the-land-beneath-us-85394f",
@@ -109,10 +106,10 @@
   "publisherDisplayName": "Dear Villagers",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 899,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 600,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +118,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "bd221f46898e41ddb31aa33dd7066bed"
+          }
+        ]
       }
     ]
   },

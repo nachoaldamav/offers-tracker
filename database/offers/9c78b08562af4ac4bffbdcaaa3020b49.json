@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-06-01T15:00:00.000Z",
   "creationDate": "2021-03-18T01:16:52.292Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.468Z",
+  "lastModifiedDate": "2025-02-10T16:01:25.043Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "21127",
       "name": "Creative Community"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "9547",
@@ -143,10 +147,10 @@
   "publisherDisplayName": "Mythwright",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 1874,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 625,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -155,7 +159,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "e09855385ec9406eb9ee3b15914e0fbd"
+          }
+        ]
       }
     ]
   },

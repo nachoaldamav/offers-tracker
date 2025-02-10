@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-10-09T17:00:00.000Z",
   "creationDate": "2023-12-14T17:42:16.248Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.438Z",
+  "lastModifiedDate": "2025-02-10T16:01:18.764Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -38,6 +38,10 @@
     {
       "id": "1367",
       "name": "RPG"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1370",
@@ -117,10 +121,10 @@
   "publisherDisplayName": "WASD Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 1199,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 300,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "475f8e81a24c4679a04ebc115c62d311"
+          }
+        ]
       }
     ]
   },

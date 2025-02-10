@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-10-08T15:41:30.292Z",
   "creationDate": "2024-09-23T11:34:06.096Z",
-  "lastModifiedDate": "2024-12-03T16:05:59.510Z",
+  "lastModifiedDate": "2025-02-10T16:01:10.728Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,6 +42,10 @@
     {
       "id": "19847",
       "name": "Achievements"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1386",
@@ -121,10 +125,10 @@
   "publisherDisplayName": "Iceberg Interactive",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1399,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 600,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +137,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "a0712ee428be4e838b7f704b5ff3915d"
+          }
+        ]
       }
     ]
   },

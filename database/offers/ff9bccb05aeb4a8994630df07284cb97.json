@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-09-12T08:00:00.000Z",
   "creationDate": "2022-09-02T08:22:21.825Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.499Z",
+  "lastModifiedDate": "2025-02-10T16:01:36.180Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -31,6 +31,10 @@
   "urlSlug": "241201bf07be447e8bc7ba2079fe193c",
   "url": null,
   "tags": [
+    {
+      "id": "39911",
+      "name": "Winter Sale"
+    },
     {
       "id": "1336",
       "name": "Action-Adventure"
@@ -75,14 +79,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "haimrik-5f59a7",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "haimrik-5f59a7",
@@ -91,7 +88,28 @@
   ],
   "developerDisplayName": "Below the Game",
   "publisherDisplayName": "Fulqrum Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 99,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 900,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "0d078321921c42c3bbd17e52f8ef3074"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-09-12T08:00:00.000Z",
   "pcReleaseDate": "2018-06-19T17:00:00.000Z",

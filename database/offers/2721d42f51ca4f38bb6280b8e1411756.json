@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-10-14T05:00:00.000Z",
   "creationDate": "2021-09-23T21:33:58.157Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.403Z",
+  "lastModifiedDate": "2025-02-10T16:01:12.852Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "1110",
       "name": "Party"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "9547",
@@ -115,10 +119,10 @@
   "publisherDisplayName": null,
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 1649,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1350,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -127,7 +131,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "fbd0274e97074ea699758015ad963f8a"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-03-30T16:00:00.000Z",
   "creationDate": "2023-02-02T18:44:52.236Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.226Z",
+  "lastModifiedDate": "2025-02-10T16:01:04.846Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,6 +42,10 @@
     {
       "id": "19847",
       "name": "Achievements"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1370",
@@ -107,10 +111,10 @@
   "publisherDisplayName": "Frontier Foundry",
   "price": {
     "totalPrice": {
-      "discountPrice": 3499,
+      "discountPrice": 1049,
       "originalPrice": 3499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2450,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -119,7 +123,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "19ef1e186e454a9f82195f6be16bfbec"
+          }
+        ]
       }
     ]
   },

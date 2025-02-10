@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-04-04T12:00:00.000Z",
   "creationDate": "2023-03-09T14:43:35.630Z",
-  "lastModifiedDate": "2024-12-20T08:11:15.638Z",
+  "lastModifiedDate": "2025-02-10T16:01:35.529Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "19847",
       "name": "Achievements"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1370",
@@ -165,10 +169,10 @@
   "publisherDisplayName": "Lost Pilgrims Studios",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 1799,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -177,7 +181,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "4522cc4b7a94480abd181be8e2c7bc10"
+          }
+        ]
       }
     ]
   },

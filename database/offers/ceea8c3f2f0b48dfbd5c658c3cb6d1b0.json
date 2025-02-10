@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-01-30T17:00:00.000Z",
   "creationDate": "2023-09-09T00:36:19.054Z",
-  "lastModifiedDate": "2024-12-03T16:05:59.518Z",
+  "lastModifiedDate": "2025-02-10T16:01:24.353Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -38,6 +38,10 @@
     {
       "id": "19847",
       "name": "Achievements"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1336",
@@ -113,10 +117,10 @@
   "publisherDisplayName": "WayForward / Arc System Works",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 1499,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "1461e58eebbd40748a9f9176578bfe74"
+          }
+        ]
       }
     ]
   },

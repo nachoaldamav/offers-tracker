@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2019-07-18T14:59:00.000Z",
   "creationDate": "2019-06-14T15:50:45.438Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.491Z",
+  "lastModifiedDate": "2025-02-10T16:01:33.062Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,6 +42,10 @@
     {
       "id": "21894",
       "name": "Cloud Saves"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1370",
@@ -111,10 +115,10 @@
   "publisherDisplayName": null,
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 249,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 750,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -123,7 +127,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "807b88a44e7747be94829bab3e014d7e"
+          }
+        ]
       }
     ]
   },

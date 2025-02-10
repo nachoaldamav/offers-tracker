@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-10-19T14:00:00.000Z",
   "creationDate": "2023-10-16T04:12:03.534Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.354Z",
+  "lastModifiedDate": "2025-02-10T16:01:02.464Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -38,6 +38,10 @@
     {
       "id": "21894",
       "name": "Cloud Saves"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1336",
@@ -109,10 +113,10 @@
   "publisherDisplayName": "DANGEN Entertainment",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 599,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 900,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "f60fae8844ff4f36a9550eea5420baac"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-06-20T16:00:00.000Z",
   "creationDate": "2024-03-26T20:49:52.494Z",
-  "lastModifiedDate": "2024-12-03T16:05:59.531Z",
+  "lastModifiedDate": "2025-02-10T16:01:40.046Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "19847",
       "name": "Achievements"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1370",
@@ -121,10 +125,10 @@
   "publisherDisplayName": "Akupara Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1599,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +137,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "14739184666a444f83eca585db40f79b"
+          }
+        ]
       }
     ]
   },

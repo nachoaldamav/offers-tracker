@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-10-22T15:30:00.000Z",
   "creationDate": "2024-03-25T16:57:27.556Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.243Z",
+  "lastModifiedDate": "2025-02-10T16:01:10.726Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "19847",
       "name": "Achievements"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1336",
@@ -145,10 +149,10 @@
   "publisherDisplayName": "ESDigital Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1599,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -157,7 +161,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "7c53d4485eac4890b8cd7a139e119325"
+          }
+        ]
       }
     ]
   },

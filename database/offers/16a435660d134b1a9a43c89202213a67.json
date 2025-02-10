@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-11-19T09:00:00.000Z",
   "creationDate": "2024-01-17T13:55:03.380Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.203Z",
+  "lastModifiedDate": "2025-02-10T16:00:57.794Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -38,6 +38,10 @@
     {
       "id": "19847",
       "name": "Achievements"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1336",
@@ -113,10 +117,10 @@
   "publisherDisplayName": "Microids",
   "price": {
     "totalPrice": {
-      "discountPrice": 3999,
+      "discountPrice": 2799,
       "originalPrice": 3999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "6fbfa791423449f788025b06d5c0dd79"
+          }
+        ]
       }
     ]
   },

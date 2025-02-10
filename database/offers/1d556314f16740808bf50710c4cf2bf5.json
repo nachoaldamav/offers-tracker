@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-10-12T15:00:00.000Z",
   "creationDate": "2022-09-05T09:09:43.802Z",
-  "lastModifiedDate": "2024-11-18T16:06:39.679Z",
+  "lastModifiedDate": "2025-02-10T16:01:05.676Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -34,6 +34,10 @@
     {
       "id": "1296",
       "name": "Casual"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1370",
@@ -107,7 +111,28 @@
   ],
   "developerDisplayName": "ClockStone",
   "publisherDisplayName": "Thunderful Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 899,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 2100,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "595ca14ef3e44dd88ed3695eb62ceda5"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-10-12T15:00:00.000Z",
   "pcReleaseDate": "2022-10-12T15:00:00.000Z",

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-04-09T13:00:00.000Z",
   "creationDate": "2022-07-08T15:52:47.764Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.457Z",
+  "lastModifiedDate": "2025-02-10T16:01:22.452Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "19847",
       "name": "Achievements"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "9547",
@@ -115,7 +119,28 @@
   ],
   "developerDisplayName": "Abstraction Games",
   "publisherDisplayName": "Arc Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 799,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "f7369da950d64d958defe87073c793af"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-04-09T13:00:00.000Z",
   "pcReleaseDate": "2024-04-09T13:00:00.000Z",

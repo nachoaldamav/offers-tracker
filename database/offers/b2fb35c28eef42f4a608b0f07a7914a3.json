@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-10-21T04:00:00.000Z",
   "creationDate": "2021-10-01T21:14:06.855Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.245Z",
+  "lastModifiedDate": "2025-02-10T16:01:10.728Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -38,6 +38,10 @@
     {
       "id": "38257",
       "name": "Borderlands Franchise Sale"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1370",
@@ -97,7 +101,28 @@
   "offerMappings": [],
   "developerDisplayName": "Gearbox Software",
   "publisherDisplayName": "2K",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 2000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "593db9146999489ab882b72f7174eb05"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-10-21T04:00:00.000Z",
   "pcReleaseDate": "2022-10-21T04:00:00.000Z",

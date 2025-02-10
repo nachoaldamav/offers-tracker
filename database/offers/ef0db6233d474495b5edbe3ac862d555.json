@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-05-13T18:00:00.000Z",
   "creationDate": "2023-11-06T21:26:40.876Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.498Z",
+  "lastModifiedDate": "2025-02-10T16:01:35.529Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "1203",
       "name": "Multiplayer"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1370",
@@ -102,67 +106,16 @@
       "path": "applications"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "homeworld-3--war-games-kalan-raiders-fleet-pack",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "homeworld-3--war-games-taiidan-fleet-pack",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "homeworld-3--war-games-somtaaw-fleet-pack",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "homeworld-3--fleet-command-edition",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "homeworld-3--mod-tools-and-editor-preview",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "homeworld-3--historical-and-technical-manual",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "homeworld-3--soundtrack",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "homeworld-3--year-one-pass",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "homeworld-3--fleet-command-edition-upgrade-pack",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "homeworld-3--deluxe-edition",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "homeworld-3",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "homeworld-3--mod-tools-and-editor",
-        "pageType": "offer"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [],
   "developerDisplayName": "Blackbird Interactive",
   "publisherDisplayName": "Gearbox Publishing",
   "price": {
     "totalPrice": {
-      "discountPrice": 5999,
+      "discountPrice": 2999,
       "originalPrice": 5999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 3000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -171,7 +124,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "28f62c8a7e654d1db4033ca82775f244"
+          }
+        ]
       }
     ]
   },

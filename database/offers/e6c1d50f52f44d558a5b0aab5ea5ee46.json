@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-03-29T17:00:00.000Z",
   "creationDate": "2024-03-28T09:47:39.407Z",
-  "lastModifiedDate": "2024-10-16T21:44:31.941Z",
+  "lastModifiedDate": "2025-02-10T16:01:40.047Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -38,6 +38,10 @@
     {
       "id": "19847",
       "name": "Achievements"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1370",
@@ -119,7 +123,28 @@
   ],
   "developerDisplayName": "Dingaling Productions",
   "publisherDisplayName": "Serenity Forge",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1399,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "a77150b456d547fa8e9481f0f8d47ebc"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-29T17:00:00.000Z",
   "pcReleaseDate": "2023-07-18T17:00:00.000Z",

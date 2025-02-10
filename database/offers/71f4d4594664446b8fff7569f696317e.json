@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-06-10T17:00:00.000Z",
   "creationDate": "2021-04-05T16:38:40.970Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.367Z",
+  "lastModifiedDate": "2025-02-10T16:01:04.846Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "1393",
       "name": "Simulation"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1370",
@@ -112,10 +116,10 @@
   "publisherDisplayName": null,
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 624,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1875,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -124,7 +128,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "30c7c3754fad4cca937cd6d5e72293cc"
+          }
+        ]
       }
     ]
   },

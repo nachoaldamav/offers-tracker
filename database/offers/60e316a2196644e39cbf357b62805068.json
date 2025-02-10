@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-12-18T14:00:00.000Z",
   "creationDate": "2024-08-02T11:27:11.792Z",
-  "lastModifiedDate": "2024-10-03T15:03:27.183Z",
+  "lastModifiedDate": "2025-02-10T16:01:32.224Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -38,6 +38,10 @@
     {
       "id": "21894",
       "name": "Cloud Saves"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1370",
@@ -132,10 +136,10 @@
   "publisherDisplayName": "Mi'pu'mi Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 599,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 900,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -144,7 +148,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "9401f55d1d11483b95138b3e030991ac"
+          }
+        ]
       }
     ]
   },

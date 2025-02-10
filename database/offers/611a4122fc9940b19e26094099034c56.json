@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-10-31T00:00:00.000Z",
   "creationDate": "2024-08-21T21:34:43.611Z",
-  "lastModifiedDate": "2025-02-05T17:23:22.171Z",
+  "lastModifiedDate": "2025-02-10T16:01:11.556Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -94,6 +94,10 @@
     {
       "id": "19847",
       "name": "Achievements"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "21127",
@@ -213,10 +217,10 @@
   "publisherDisplayName": "Krafton",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 1874,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 625,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -225,7 +229,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "ef7d1d0d40de470692975af9f3547296"
+          }
+        ]
       }
     ]
   },

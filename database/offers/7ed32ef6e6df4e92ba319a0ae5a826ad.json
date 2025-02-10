@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-05-30T20:00:00.000Z",
   "creationDate": "2024-05-30T18:36:04.336Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.499Z",
+  "lastModifiedDate": "2025-02-10T16:01:36.183Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,6 +42,10 @@
     {
       "id": "32709",
       "name": "EA Play"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "34567",
@@ -117,10 +121,10 @@
   "publisherDisplayName": "Electronic Arts",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 99,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "53a23ffce236481db612df57da63d22f"
+          }
+        ]
       }
     ]
   },

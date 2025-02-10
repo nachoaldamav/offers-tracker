@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-11-01T07:00:00.000Z",
   "creationDate": "2021-09-29T20:11:03.739Z",
-  "lastModifiedDate": "2024-12-03T16:05:59.533Z",
+  "lastModifiedDate": "2025-02-10T16:01:40.878Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -34,6 +34,10 @@
     {
       "id": "1381",
       "name": "Exploration"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "9547",
@@ -101,10 +105,10 @@
   "publisherDisplayName": "Akupara Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 749,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 750,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -113,7 +117,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "58b7c87e2339451ab0e3784190b2a632"
+          }
+        ]
       }
     ]
   },

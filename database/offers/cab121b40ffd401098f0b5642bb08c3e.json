@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-07-22T03:00:00.000Z",
   "creationDate": "2021-06-16T05:11:41.039Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.301Z",
+  "lastModifiedDate": "2025-02-10T16:01:30.377Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -34,6 +34,10 @@
     {
       "id": "1393",
       "name": "Simulation"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1370",
@@ -101,10 +105,10 @@
   "publisherDisplayName": "Alawar",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 399,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1600,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -113,7 +117,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "c51e9cdcd2ef4ae29895693090026c47"
+          }
+        ]
       }
     ]
   },

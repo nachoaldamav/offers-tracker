@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-12-19T16:00:00.000Z",
   "creationDate": "2020-05-12T21:17:05.288Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.227Z",
+  "lastModifiedDate": "2025-02-10T16:01:05.675Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "21127",
       "name": "Creative Community"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "9547",
@@ -155,10 +159,10 @@
   "publisherDisplayName": null,
   "price": {
     "totalPrice": {
-      "discountPrice": 3499,
+      "discountPrice": 1749,
       "originalPrice": 3499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1750,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -167,7 +171,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "96fa4b15930c401cb23a4782052b0f20"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-08-12T13:00:00.000Z",
   "creationDate": "2024-06-19T08:03:59.445Z",
-  "lastModifiedDate": "2024-11-19T16:00:21.473Z",
+  "lastModifiedDate": "2025-02-10T16:01:30.932Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -38,6 +38,10 @@
     {
       "id": "21894",
       "name": "Cloud Saves"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1370",
@@ -124,10 +128,10 @@
   "publisherDisplayName": "Anshar Publishing",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 299,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 700,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -136,7 +140,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "0ca08c577fa94f01b8fccfa4c5ae8414"
+          }
+        ]
       }
     ]
   },

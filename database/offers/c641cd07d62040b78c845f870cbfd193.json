@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-08-15T15:00:00.000Z",
   "creationDate": "2024-08-12T11:17:36.717Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.512Z",
+  "lastModifiedDate": "2025-02-10T16:01:41.671Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -31,6 +31,10 @@
   "urlSlug": "4e33e1a5ec8942dfb03184be131654c0",
   "url": null,
   "tags": [
+    {
+      "id": "39911",
+      "name": "Winter Sale"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -105,10 +109,10 @@
   "publisherDisplayName": "Headup",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 199,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1800,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -117,7 +121,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "13ecd7e51b5245f295e36602e691c819"
+          }
+        ]
       }
     ]
   },

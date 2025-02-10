@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-08-20T00:00:00.000Z",
   "creationDate": "2024-06-03T15:33:21.540Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.482Z",
+  "lastModifiedDate": "2025-02-10T16:01:30.380Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,6 +42,10 @@
     {
       "id": "19847",
       "name": "Achievements"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1210",
@@ -121,10 +125,10 @@
   "publisherDisplayName": "ULBE",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 299,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +137,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "deb8e5cb8cbd49dbbe87ff96e3c1f10c"
+          }
+        ]
       }
     ]
   },

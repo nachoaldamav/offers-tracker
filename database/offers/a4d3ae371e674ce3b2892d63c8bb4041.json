@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-07-18T15:00:00.000Z",
   "creationDate": "2023-06-12T13:38:22.860Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.475Z",
+  "lastModifiedDate": "2025-02-10T16:01:28.313Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -38,6 +38,10 @@
     {
       "id": "19847",
       "name": "Achievements"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1336",
@@ -117,10 +121,10 @@
   "publisherDisplayName": "GBROSSOFT",
   "price": {
     "totalPrice": {
-      "discountPrice": 799,
+      "discountPrice": 199,
       "originalPrice": 799,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 600,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "9a544458e8ff48a083f4ec9516de16f0"
+          }
+        ]
       }
     ]
   },

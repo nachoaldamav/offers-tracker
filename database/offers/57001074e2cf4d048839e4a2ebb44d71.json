@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2019-05-06T12:00:00.000Z",
   "creationDate": "2019-02-10T17:03:38.863Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.280Z",
+  "lastModifiedDate": "2025-02-10T16:01:21.574Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,6 +42,10 @@
     {
       "id": "1188",
       "name": "RELAXING"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "9547",
@@ -141,7 +145,28 @@
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 749,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 4250,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "e95cf061803d456f9a4e8e2140801952"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2016-11-15T15:21:00.000Z",
   "pcReleaseDate": null,

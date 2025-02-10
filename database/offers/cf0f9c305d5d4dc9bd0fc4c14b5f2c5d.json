@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-05-20T15:00:00.000Z",
   "creationDate": "2018-11-30T01:28:02.630Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.493Z",
+  "lastModifiedDate": "2025-02-10T16:01:33.948Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "21127",
       "name": "Creative Community"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "9547",
@@ -151,10 +155,10 @@
   "publisherDisplayName": "Tripwire Interactive",
   "price": {
     "totalPrice": {
-      "discountPrice": 3999,
+      "discountPrice": 999,
       "originalPrice": 3999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 3000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -163,7 +167,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "f85b1a488aa441a1a51d86a7550f80ba"
+          }
+        ]
       }
     ]
   },

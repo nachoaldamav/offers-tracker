@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-12-28T16:00:00.000Z",
   "creationDate": "2024-12-27T21:55:46.342Z",
-  "lastModifiedDate": "2024-12-31T21:26:18.781Z",
+  "lastModifiedDate": "2025-02-10T16:01:14.184Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -88,6 +88,10 @@
       "name": "Fantasy"
     },
     {
+      "id": "39911",
+      "name": "Winter Sale"
+    },
+    {
       "id": "1210",
       "name": "Shooter"
     },
@@ -143,11 +147,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "kill-knight-kill-knight-dev-0e22a1",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "kill-knight-e981b3",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "kill-knight-e981b3",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "PlaySide",
   "publisherDisplayName": "PlaySide",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1004,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 495,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "01fe9c91572a4087a6ab4011f16f7436"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-28T16:00:00.000Z",
   "pcReleaseDate": "2024-10-02T15:00:00.000Z",

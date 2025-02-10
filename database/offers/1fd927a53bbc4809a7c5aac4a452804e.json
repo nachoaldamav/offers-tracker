@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-08-06T15:00:00.000Z",
   "creationDate": "2024-05-17T05:32:13.143Z",
-  "lastModifiedDate": "2025-01-31T15:05:12.897Z",
+  "lastModifiedDate": "2025-02-10T16:01:36.985Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -92,6 +92,10 @@
       "name": "Achievements"
     },
     {
+      "id": "39911",
+      "name": "Winter Sale"
+    },
+    {
       "id": "1210",
       "name": "Shooter"
     },
@@ -173,10 +177,10 @@
   "publisherDisplayName": "Adrián Corbalán",
   "price": {
     "totalPrice": {
-      "discountPrice": 199,
+      "discountPrice": 129,
       "originalPrice": 199,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 70,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -185,7 +189,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "5e1a2e659f574df2943a955e55b516fb"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-12-22T07:00:00.000Z",
   "creationDate": "2023-12-20T01:22:52.348Z",
-  "lastModifiedDate": "2024-12-03T16:05:59.524Z",
+  "lastModifiedDate": "2025-02-10T16:01:04.847Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -38,6 +38,10 @@
     {
       "id": "1395",
       "name": "Narration"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1370",
@@ -101,10 +105,10 @@
   "publisherDisplayName": "MediBang Inc.",
   "price": {
     "totalPrice": {
-      "discountPrice": 299,
+      "discountPrice": 209,
       "originalPrice": 299,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 90,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -113,7 +117,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "f6f8a88018cf4303af13aa796cb2fb9a"
+          }
+        ]
       }
     ]
   },

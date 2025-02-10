@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-10-17T20:25:05.213Z",
   "creationDate": "2024-08-05T14:44:02.601Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.273Z",
+  "lastModifiedDate": "2025-02-10T16:01:19.399Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -38,6 +38,10 @@
     {
       "id": "21894",
       "name": "Cloud Saves"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1210",
@@ -113,10 +117,10 @@
   "publisherDisplayName": "Dear Villagers",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 1124,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 375,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "250b8a280a8941a1805a11001678fe1d"
+          }
+        ]
       }
     ]
   },

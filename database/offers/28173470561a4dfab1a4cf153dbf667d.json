@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-05-07T17:00:00.000Z",
   "creationDate": "2024-05-03T16:15:18.566Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.347Z",
+  "lastModifiedDate": "2025-02-10T16:01:01.117Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -34,6 +34,10 @@
     {
       "id": "1298",
       "name": "Puzzle"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1370",
@@ -87,14 +91,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "darkestville-castle-cf4a56",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "darkestville-castle-cf4a56",
@@ -105,10 +102,10 @@
   "publisherDisplayName": "ESDigital Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 299,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -117,7 +114,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "a138d24e2ff846208baef950d09ed1ce"
+          }
+        ]
       }
     ]
   },

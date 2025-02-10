@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-10-18T04:00:00.000Z",
   "creationDate": "2023-08-19T00:56:50.277Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.348Z",
+  "lastModifiedDate": "2025-02-10T16:01:01.118Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -38,6 +38,10 @@
     {
       "id": "21894",
       "name": "Cloud Saves"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1370",
@@ -105,10 +109,10 @@
   "publisherDisplayName": "Blue Isle Publishing",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 999,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -117,7 +121,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "986cedd7913f4287b1ba90f12405fc2a"
+          }
+        ]
       }
     ]
   },

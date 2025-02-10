@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-12-17T17:00:00.000Z",
   "creationDate": "2021-10-12T14:48:51.661Z",
-  "lastModifiedDate": "2025-02-06T03:47:24.761Z",
+  "lastModifiedDate": "2025-02-10T16:00:58.728Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -38,6 +38,10 @@
     {
       "id": "1188",
       "name": "RELAXING"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "9547",
@@ -141,10 +145,10 @@
   "publisherDisplayName": "Freedom Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 499,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -153,7 +157,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "ff62284b51a84d2f8204f61634025811"
+          }
+        ]
       }
     ]
   },

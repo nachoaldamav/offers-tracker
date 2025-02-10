@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-01-20T15:00:00.000Z",
   "creationDate": "2023-01-09T22:42:46.101Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.478Z",
+  "lastModifiedDate": "2025-02-10T16:01:29.162Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -34,6 +34,10 @@
     {
       "id": "21894",
       "name": "Cloud Saves"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1336",
@@ -113,10 +117,10 @@
   "publisherDisplayName": "Inverge Studios",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 399,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1600,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "612fba60a44c49658035af045379f209"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-01-18T23:00:00.000Z",
   "creationDate": "2023-11-18T15:55:43.388Z",
-  "lastModifiedDate": "2024-12-03T16:05:59.506Z",
+  "lastModifiedDate": "2025-02-10T16:01:09.353Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "19847",
       "name": "Achievements"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1080",
@@ -129,10 +133,10 @@
   "publisherDisplayName": "Bëor Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 399,
+      "discountPrice": 159,
       "originalPrice": 399,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 240,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -141,7 +145,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "6fef10c93c6342699853c3c55e0ede5b"
+          }
+        ]
       }
     ]
   },

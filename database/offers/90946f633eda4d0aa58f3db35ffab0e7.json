@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-04-30T15:00:00.000Z",
   "creationDate": "2024-04-25T15:09:56.500Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.216Z",
+  "lastModifiedDate": "2025-02-10T16:01:01.731Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -31,6 +31,10 @@
   "urlSlug": "bbfd108dca8b4ddaa100643d3266d0b9",
   "url": null,
   "tags": [
+    {
+      "id": "39911",
+      "name": "Winter Sale"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -87,14 +91,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "the-inner-world-2e3e98",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "the-inner-world-2e3e98",
@@ -105,10 +102,10 @@
   "publisherDisplayName": "Headup Publishing",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 149,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1350,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -117,7 +114,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "0ee165da4c85438e8dfd6229995e63c4"
+          }
+        ]
       }
     ]
   },

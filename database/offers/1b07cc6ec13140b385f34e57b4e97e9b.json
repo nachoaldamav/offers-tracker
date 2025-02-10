@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-02-18T18:00:00.000Z",
   "creationDate": "2021-02-01T11:30:47.409Z",
-  "lastModifiedDate": "2024-12-03T16:05:59.511Z",
+  "lastModifiedDate": "2025-02-10T16:01:00.264Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "19847",
       "name": "Achievements"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1370",
@@ -119,10 +123,10 @@
   "publisherDisplayName": null,
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 624,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1875,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -131,7 +135,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "b10ff98565a449399f8f35456732a3be"
+          }
+        ]
       }
     ]
   },

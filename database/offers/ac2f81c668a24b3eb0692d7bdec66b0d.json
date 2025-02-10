@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-11-11T18:00:00.000Z",
   "creationDate": "2023-07-01T11:50:01.992Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.489Z",
+  "lastModifiedDate": "2025-02-10T16:01:33.060Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,6 +42,10 @@
     {
       "id": "19847",
       "name": "Achievements"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1370",
@@ -113,10 +117,10 @@
   "publisherDisplayName": "Hanoi Studios",
   "price": {
     "totalPrice": {
-      "discountPrice": 299,
+      "discountPrice": 209,
       "originalPrice": 299,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 90,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "082aa3892aae4beeab61c051afe22655"
+          }
+        ]
       }
     ]
   },

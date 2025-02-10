@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-09-22T20:00:00.000Z",
   "creationDate": "2021-10-26T15:35:32.249Z",
-  "lastModifiedDate": "2024-11-01T15:03:16.559Z",
+  "lastModifiedDate": "2025-02-10T16:01:36.983Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "19847",
       "name": "Achievements"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1370",
@@ -281,7 +285,28 @@
   "offerMappings": [],
   "developerDisplayName": "MassHive Media",
   "publisherDisplayName": "PQube",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 899,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1100,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "a97b3ada0ce846b7a7cca87f97d167d1"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-09-22T20:00:00.000Z",
   "pcReleaseDate": "2022-09-22T20:00:00.000Z",

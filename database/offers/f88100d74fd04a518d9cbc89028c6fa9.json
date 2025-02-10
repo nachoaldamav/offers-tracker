@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-09-29T16:00:00.000Z",
   "creationDate": "2020-07-03T22:20:17.290Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.203Z",
+  "lastModifiedDate": "2025-02-10T16:00:57.795Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "21894",
       "name": "Cloud Saves"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1370",
@@ -115,10 +119,10 @@
   "publisherDisplayName": "Assemble Entertainment",
   "price": {
     "totalPrice": {
-      "discountPrice": 1799,
+      "discountPrice": 359,
       "originalPrice": 1799,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1440,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -127,7 +131,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "fdee29c9587c48a8a24c60ff09ba6b62"
+          }
+        ]
       }
     ]
   },

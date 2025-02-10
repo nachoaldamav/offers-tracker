@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-09-12T14:06:27.482Z",
   "creationDate": "2024-04-01T16:29:40.868Z",
-  "lastModifiedDate": "2025-02-03T15:51:50.023Z",
+  "lastModifiedDate": "2025-02-10T16:01:35.528Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "19847",
       "name": "Achievements"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "9547",
@@ -125,10 +129,10 @@
   "publisherDisplayName": "Jackbox Games, Inc.",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1399,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 600,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -137,7 +141,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "ffc1ef94caab429c9960a5031035f7ca"
+          }
+        ]
       }
     ]
   },

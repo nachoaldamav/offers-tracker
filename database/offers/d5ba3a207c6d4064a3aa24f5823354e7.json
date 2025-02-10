@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-05-30T23:00:00.000Z",
   "creationDate": "2024-03-10T15:11:48.636Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.500Z",
+  "lastModifiedDate": "2025-02-10T16:01:36.181Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,6 +42,10 @@
     {
       "id": "19847",
       "name": "Achievements"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1370",
@@ -129,10 +133,10 @@
   "publisherDisplayName": "Calepin Studio",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 749,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 750,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -141,7 +145,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "63d0ade6f2f745a0a717975259762f8b"
+          }
+        ]
       }
     ]
   },

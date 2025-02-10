@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-08-23T17:00:00.000Z",
   "creationDate": "2024-05-26T14:09:50.440Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.474Z",
+  "lastModifiedDate": "2025-02-10T16:01:27.438Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -38,6 +38,10 @@
     {
       "id": "19847",
       "name": "Achievements"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1080",
@@ -129,10 +133,10 @@
   "publisherDisplayName": "Yaw Studios",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 299,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -141,7 +145,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "d235d31bfdd04f2ab06e325baca3fec1"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-08-08T19:04:40.272Z",
   "creationDate": "2024-01-25T18:52:54.145Z",
-  "lastModifiedDate": "2025-01-28T17:44:06.217Z",
+  "lastModifiedDate": "2025-02-10T16:01:28.313Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -38,6 +38,10 @@
     {
       "id": "21894",
       "name": "Cloud Saves"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "22776",
@@ -121,10 +125,10 @@
   "publisherDisplayName": "Bethesda Softworks",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 399,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 600,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +137,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "71b97ee194284c23a4c6bc4047dd5eb3"
+          }
+        ]
       }
     ]
   },

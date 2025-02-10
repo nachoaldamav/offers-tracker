@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-11-04T12:00:00.000Z",
   "creationDate": "2023-10-30T12:17:27.853Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.501Z",
+  "lastModifiedDate": "2025-02-10T16:01:36.985Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -38,6 +38,10 @@
     {
       "id": "1393",
       "name": "Simulation"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1370",
@@ -109,10 +113,10 @@
   "publisherDisplayName": "INSPECTOR STUDIOS",
   "price": {
     "totalPrice": {
-      "discountPrice": 299,
+      "discountPrice": 179,
       "originalPrice": 299,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 120,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "fa2cbe9b70cf4b0cb9706de73d6b6a4e"
+          }
+        ]
       }
     ]
   },

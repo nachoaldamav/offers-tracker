@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-09-09T08:00:00.000Z",
   "creationDate": "2022-09-05T14:51:48.021Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.238Z",
+  "lastModifiedDate": "2025-02-10T16:01:08.545Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -38,6 +38,10 @@
     {
       "id": "1367",
       "name": "RPG"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1370",
@@ -87,14 +91,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "space-rangers-hd-a-war-apart-455702",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "space-rangers-hd-a-war-apart-455702",
@@ -103,7 +100,28 @@
   ],
   "developerDisplayName": "SNK Games / Elemental Games / Katauri Interactive",
   "publisherDisplayName": "Fulqrum Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 224,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 1275,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "6068d69b257c450e8df8845935ff8345"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-09-09T08:00:00.000Z",
   "pcReleaseDate": "2013-10-17T17:00:00.000Z",

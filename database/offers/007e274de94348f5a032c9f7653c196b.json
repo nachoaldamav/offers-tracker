@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-06-04T09:00:00.000Z",
   "creationDate": "2023-12-19T13:24:53.180Z",
-  "lastModifiedDate": "2024-06-05T13:41:10.794Z",
+  "lastModifiedDate": "2025-02-10T16:01:31.622Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,6 +42,10 @@
     {
       "id": "19847",
       "name": "Achievements"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1370",
@@ -117,10 +121,10 @@
   "publisherDisplayName": "Nordcurrent Labs",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 1049,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 450,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "955cf305e0d044c8b0e6e74e3d57ffe4"
+          }
+        ]
       }
     ]
   },

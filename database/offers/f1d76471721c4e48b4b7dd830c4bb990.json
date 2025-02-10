@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-10-16T16:00:00.000Z",
   "creationDate": "2023-01-23T18:13:35.596Z",
-  "lastModifiedDate": "2025-01-30T02:40:09.834Z",
+  "lastModifiedDate": "2025-02-10T16:01:38.490Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -34,6 +34,10 @@
     {
       "id": "1296",
       "name": "Casual"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1370",
@@ -109,10 +113,10 @@
   "publisherDisplayName": "Freedom Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 449,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 550,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "4ac0d245f70845b1bb3e84bfc1f623b8"
+          }
+        ]
       }
     ]
   },

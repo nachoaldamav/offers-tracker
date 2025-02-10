@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-04-29T14:00:00.000Z",
   "creationDate": "2024-04-17T19:57:13.932Z",
-  "lastModifiedDate": "2024-11-01T15:03:16.523Z",
+  "lastModifiedDate": "2025-02-10T16:01:21.573Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "19847",
       "name": "Achievements"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1370",
@@ -140,10 +144,10 @@
   "publisherDisplayName": "META Publishing",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 149,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 850,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -152,7 +156,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "49e61eccc43545d4960fbdd7918a478f"
+          }
+        ]
       }
     ]
   },

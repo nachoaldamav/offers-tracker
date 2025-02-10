@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-11-19T08:00:00.000Z",
   "creationDate": "2021-05-11T15:52:11.029Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.311Z",
+  "lastModifiedDate": "2025-02-10T16:01:33.061Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "19847",
       "name": "Achievements"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "34567",
@@ -123,10 +127,10 @@
   "publisherDisplayName": "Electronic Arts",
   "price": {
     "totalPrice": {
-      "discountPrice": 5999,
+      "discountPrice": 899,
       "originalPrice": 5999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 5100,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -135,7 +139,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "9a2630549fbc41639ec49a396093a798"
+          }
+        ]
       }
     ]
   },

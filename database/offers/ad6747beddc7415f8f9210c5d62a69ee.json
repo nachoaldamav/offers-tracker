@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-05-19T16:00:00.000Z",
   "creationDate": "2023-05-10T07:54:04.489Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.258Z",
+  "lastModifiedDate": "2025-02-10T16:01:14.820Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -38,6 +38,10 @@
     {
       "id": "21894",
       "name": "Cloud Saves"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1370",
@@ -101,10 +105,10 @@
   "publisherDisplayName": "WildSphere",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 149,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1350,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -113,7 +117,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "9d2b9f96671a4fb28b53977f3f3404f9"
+          }
+        ]
       }
     ]
   },

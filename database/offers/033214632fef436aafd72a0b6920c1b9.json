@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-09-09T08:00:00.000Z",
   "creationDate": "2022-09-05T15:32:12.642Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.298Z",
+  "lastModifiedDate": "2025-02-10T16:01:29.161Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -31,6 +31,10 @@
   "urlSlug": "1e7f94b0b76046b08f050ad45d340ab1",
   "url": null,
   "tags": [
+    {
+      "id": "39911",
+      "name": "Winter Sale"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -79,14 +83,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "fantasy-wars-ec9601",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "fantasy-wars-ec9601",
@@ -95,7 +92,28 @@
   ],
   "developerDisplayName": "Ino-Co",
   "publisherDisplayName": "Fulqrum Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 99,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "493526a069a94101a1057d13f4541254"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-09-09T08:00:00.000Z",
   "pcReleaseDate": "2010-08-06T17:00:00.000Z",

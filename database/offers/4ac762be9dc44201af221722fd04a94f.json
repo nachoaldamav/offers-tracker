@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-09-06T12:00:00.000Z",
   "creationDate": "2024-08-17T14:53:31.394Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.327Z",
+  "lastModifiedDate": "2025-02-10T16:01:39.181Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -34,6 +34,10 @@
     {
       "id": "1381",
       "name": "Exploration"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1370",
@@ -101,10 +105,10 @@
   "publisherDisplayName": "Tonguc Bodur",
   "price": {
     "totalPrice": {
-      "discountPrice": 399,
+      "discountPrice": 279,
       "originalPrice": 399,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 120,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -113,7 +117,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "cd20fe9a9bd04aec9753d09e8586475a"
+          }
+        ]
       }
     ]
   },

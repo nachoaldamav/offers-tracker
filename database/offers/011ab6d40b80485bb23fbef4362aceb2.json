@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-09-09T15:00:00.000Z",
   "creationDate": "2020-10-06T21:32:40.998Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.232Z",
+  "lastModifiedDate": "2025-02-10T16:01:07.564Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -62,6 +62,10 @@
     {
       "id": "1367",
       "name": "RPG"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1370",
@@ -135,10 +139,10 @@
   "publisherDisplayName": "Team17",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 299,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -147,7 +151,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "49d078c4c9344a36906cb45b7f1113e7"
+          }
+        ]
       }
     ]
   },

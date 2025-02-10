@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-10-25T15:00:00.000Z",
   "creationDate": "2023-09-12T15:21:49.982Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.370Z",
+  "lastModifiedDate": "2025-02-10T16:01:06.297Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -34,6 +34,10 @@
     {
       "id": "1393",
       "name": "Simulation"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "9547",
@@ -79,10 +83,10 @@
   "publisherDisplayName": "Ubisoft Entertainment",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 249,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 750,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -91,7 +95,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "f7fc7f51ce6e4779b47b66c66d72e40c"
+          }
+        ]
       }
     ]
   },

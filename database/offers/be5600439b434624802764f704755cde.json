@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-10-26T15:00:00.000Z",
   "creationDate": "2023-05-01T16:18:13.645Z",
-  "lastModifiedDate": "2025-02-05T06:01:09.513Z",
+  "lastModifiedDate": "2025-02-10T16:01:02.465Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -38,6 +38,10 @@
     {
       "id": "21122",
       "name": "Diverse Characters"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "21127",
@@ -167,10 +171,10 @@
   "publisherDisplayName": "505 Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 3999,
+      "discountPrice": 999,
       "originalPrice": 3999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 3000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -179,7 +183,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "da5dab221b244e01b47abc2c2a0ba49d"
+          }
+        ]
       }
     ]
   },

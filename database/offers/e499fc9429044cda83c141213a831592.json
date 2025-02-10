@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-06-08T14:00:00.000Z",
   "creationDate": "2021-12-13T20:59:02.017Z",
-  "lastModifiedDate": "2025-01-10T06:39:24.052Z",
+  "lastModifiedDate": "2025-02-10T16:01:02.465Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "21127",
       "name": "Creative Community"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "21129",
@@ -233,10 +237,10 @@
   "publisherDisplayName": "META Publishing",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 374,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1125,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -245,7 +249,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "b2c4fb81ebf845bcbaa8b47511a13c83"
+          }
+        ]
       }
     ]
   },

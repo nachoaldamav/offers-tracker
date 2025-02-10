@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-05-13T13:00:00.000Z",
   "creationDate": "2024-05-10T08:52:41.273Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.228Z",
+  "lastModifiedDate": "2025-02-10T16:01:05.677Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -38,6 +38,10 @@
     {
       "id": "19847",
       "name": "Achievements"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1370",
@@ -99,14 +103,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "fabledom-6d35f7",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "fabledom-6d35f7",
@@ -117,10 +114,10 @@
   "publisherDisplayName": "Dear Villagers",
   "price": {
     "totalPrice": {
-      "discountPrice": 2099,
+      "discountPrice": 1259,
       "originalPrice": 2099,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 840,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +126,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "9b76a78016aa4ea58c920c07843af5fc"
+          }
+        ]
       }
     ]
   },

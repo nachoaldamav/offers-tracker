@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-12-11T12:00:00.000Z",
   "creationDate": "2023-11-21T21:34:07.593Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.212Z",
+  "lastModifiedDate": "2025-02-10T16:01:01.116Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -38,6 +38,10 @@
     {
       "id": "1121",
       "name": "Space"
+    },
+    {
+      "id": "39911",
+      "name": "Winter Sale"
     },
     {
       "id": "1370",
@@ -105,10 +109,10 @@
   "publisherDisplayName": "Massive Galaxy Studios",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 299,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -117,7 +121,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "7b3ad61f261d4f499331a8ceb2d10b49"
+          }
+        ]
       }
     ]
   },
