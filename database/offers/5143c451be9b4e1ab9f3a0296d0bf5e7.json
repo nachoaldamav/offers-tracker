@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-01-30T16:00:00.000Z",
   "creationDate": "2024-09-11T18:36:06.818Z",
-  "lastModifiedDate": "2025-02-10T18:33:08.863Z",
+  "lastModifiedDate": "2025-02-11T00:03:09.033Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -64,6 +64,10 @@
       "name": "Recommend this Game"
     },
     {
+      "id": "21139",
+      "name": "Amazing Characters"
+    },
+    {
       "id": "21140",
       "name": "Amazing Storytelling"
     },
@@ -114,11 +118,43 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "marvels-spider-man-2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "marvels-spider-man-2--digital-deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "marvels-spider-man-2--digital-deluxe-edition-upgrade",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Insomniac Games, Nixxes Software",
   "publisherDisplayName": "PlayStation Publishing LLC",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 5999,
+      "originalPrice": 5999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": false,
   "releaseDate": "2025-01-30T16:00:00.000Z",
   "pcReleaseDate": "2025-01-30T16:00:00.000Z",
