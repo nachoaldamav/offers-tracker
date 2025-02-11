@@ -150,7 +150,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "kingdom-hearts-iii",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "kingdom-hearts-iii--disneyplus-offer-faq",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
