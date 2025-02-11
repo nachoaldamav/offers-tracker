@@ -106,32 +106,26 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": null,
-  "publisherDisplayName": null,
-  "price": {
-    "totalPrice": {
-      "discountPrice": 899,
-      "originalPrice": 1499,
-      "voucherDiscount": 0,
-      "discount": 600,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": [
-          {
-            "id": "a39928dc85cd4073b56265c542ffac24"
-          }
-        ]
+        "pageSlug": "gone-home",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "gone-home--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "gone-home--tech-support",
+        "pageType": "info"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2020-04-02T15:00:00.000Z",
   "pcReleaseDate": null,
