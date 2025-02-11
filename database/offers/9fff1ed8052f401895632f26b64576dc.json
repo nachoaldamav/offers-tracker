@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-11-14T17:00:00.000Z",
   "creationDate": "2023-01-27T16:55:16.087Z",
-  "lastModifiedDate": "2024-11-18T16:06:39.684Z",
+  "lastModifiedDate": "2025-02-11T16:00:30.926Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "9549",
@@ -125,10 +129,10 @@
   "publisherDisplayName": "Devolver Digital",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 599,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -137,7 +141,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "12db90eb62724f7cb65af6154fd2ba77"
+          }
+        ]
       }
     ]
   },

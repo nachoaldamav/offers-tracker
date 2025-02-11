@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-04-28T13:00:00.000Z",
   "creationDate": "2021-11-16T12:27:14.845Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.383Z",
+  "lastModifiedDate": "2025-02-11T16:00:31.695Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -60,6 +60,10 @@
       "name": "Windows"
     },
     {
+      "id": "29899",
+      "name": "Deals of the Week"
+    },
+    {
       "id": "9549",
       "name": "Controller Support"
     }
@@ -91,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "imagine-earth-7498e4",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "imagine-earth-7498e4",
@@ -100,7 +111,28 @@
   ],
   "developerDisplayName": "Serious Bros.",
   "publisherDisplayName": "Serious Bros.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1124,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 1375,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "bcfb2368e37a4b9d80be32425549ada0"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-04-28T13:00:00.000Z",
   "pcReleaseDate": "2022-04-28T13:00:00.000Z",

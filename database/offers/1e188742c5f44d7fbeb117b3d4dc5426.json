@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-04-12T15:00:01.958Z",
   "creationDate": "2023-06-02T12:18:19.573Z",
-  "lastModifiedDate": "2025-02-04T16:00:30.829Z",
+  "lastModifiedDate": "2025-02-11T16:00:30.846Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,10 +46,6 @@
     {
       "id": "9547",
       "name": "Windows"
-    },
-    {
-      "id": "29899",
-      "name": "Deals of the Week"
     },
     {
       "id": "1212",
@@ -103,7 +99,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "turbo-sloths-912a73",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "turbo-sloths-turbo-sloths-expansion-pack-7af0f5",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "turbo-sloths-912a73",
@@ -112,7 +119,24 @@
   ],
   "developerDisplayName": "RainStyle games",
   "publisherDisplayName": "RainStyle games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-31T00:00:00.000Z",
   "pcReleaseDate": "2024-04-11T15:00:00.000Z",

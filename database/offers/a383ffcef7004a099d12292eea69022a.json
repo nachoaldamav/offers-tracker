@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-08-08T09:00:00.000Z",
   "creationDate": "2024-04-01T14:31:10.108Z",
-  "lastModifiedDate": "2024-11-01T15:03:16.534Z",
+  "lastModifiedDate": "2025-02-11T16:00:30.926Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1117",
@@ -121,10 +125,10 @@
   "publisherDisplayName": "Lost Sock Studio",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 1049,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 450,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +137,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "07e39d0ffad342aaa6894aea14b2b6b8"
+          }
+        ]
       }
     ]
   },

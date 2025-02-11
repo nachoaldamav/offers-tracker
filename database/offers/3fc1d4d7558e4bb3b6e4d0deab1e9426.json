@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-03-01T18:30:00.000Z",
   "creationDate": "2023-06-14T16:43:41.479Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.206Z",
+  "lastModifiedDate": "2025-02-11T16:00:30.924Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -52,6 +52,10 @@
       "name": "Windows"
     },
     {
+      "id": "29899",
+      "name": "Deals of the Week"
+    },
+    {
       "id": "1117",
       "name": "Adventure"
     },
@@ -95,7 +99,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "unwording-a20943",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "unwording-a20943",
@@ -104,7 +115,28 @@
   ],
   "developerDisplayName": "Frostwood Interactive",
   "publisherDisplayName": "Frostwood Interactive, Dino Digital",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 374,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 125,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "e0b5aea420584a5aa54635593a4ea399"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-01T18:30:00.000Z",
   "pcReleaseDate": "2023-04-24T10:00:00.000Z",
