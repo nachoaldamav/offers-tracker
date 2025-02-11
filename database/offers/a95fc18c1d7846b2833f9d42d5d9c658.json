@@ -90,8 +90,15 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "drawful-2",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Jackbox Games",
   "publisherDisplayName": "Jackbox Games",
   "price": null,

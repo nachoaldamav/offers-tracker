@@ -114,7 +114,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "kards-the-world-war-ii-card-game",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "kards-the-world-war-ii-card-game--starter-pack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "1939 Games",
   "publisherDisplayName": "1939 Games",
