@@ -95,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "hidden-shapes-lovely-cats-6bfb39",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "hidden-shapes-lovely-cats-6bfb39",
@@ -104,7 +111,28 @@
   ],
   "developerDisplayName": "YAW Studios",
   "publisherDisplayName": "YAW Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 119,
+      "originalPrice": 199,
+      "voucherDiscount": 0,
+      "discount": 80,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "2431e2132aa24cf29a208697c2c628f2"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-07T17:00:00.000Z",
   "pcReleaseDate": "2021-05-21T17:00:00.000Z",
