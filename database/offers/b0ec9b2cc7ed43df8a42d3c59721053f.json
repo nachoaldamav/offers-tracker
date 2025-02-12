@@ -117,11 +117,51 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "path-of-exile-2--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "path-of-exile-2--lord-of-ogham-supporter-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "path-of-exile-2--king-of-the-faridun-supporter-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "path-of-exile-2--early-access-supporter-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "path-of-exile-2",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Grinding Gear Games",
   "publisherDisplayName": "Grinding Gear Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-06T20:00:00.000Z",
   "pcReleaseDate": "2024-12-06T17:00:00.000Z",
