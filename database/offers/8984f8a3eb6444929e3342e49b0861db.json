@@ -95,14 +95,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "five-dates-60ef51",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "five-dates-60ef51",
@@ -111,7 +104,28 @@
   ],
   "developerDisplayName": "Wales Interactive, Good Gate Media",
   "publisherDisplayName": "Wales Interactive",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 779,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 520,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "7b4f901e4ff240a19566fb162e47e15b"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-10-14T07:00:00.000Z",
   "pcReleaseDate": "2020-11-17T18:00:00.000Z",
