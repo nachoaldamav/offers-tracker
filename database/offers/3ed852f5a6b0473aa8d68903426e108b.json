@@ -91,14 +91,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "prehistorik-d64136",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "prehistorik-d64136",
@@ -107,7 +100,28 @@
   ],
   "developerDisplayName": "Titus Interactive",
   "publisherDisplayName": "Interplay Entertainment Corp.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 799,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "7f9a89804581447e8fd077f7703062b4"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-07-08T16:00:00.000Z",
   "pcReleaseDate": "2022-07-08T16:00:00.000Z",
