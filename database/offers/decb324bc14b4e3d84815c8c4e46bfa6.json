@@ -83,11 +83,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "etherborn-00f378",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "etherborn-00f378",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Altered Matter",
   "publisherDisplayName": "Akupara Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 594,
+      "originalPrice": 1699,
+      "voucherDiscount": 0,
+      "discount": 1105,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "7810fb39e17c44679344fcc6739a4bfc"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-04-30T05:00:00.000Z",
   "pcReleaseDate": "2019-07-18T00:00:00.000Z",
