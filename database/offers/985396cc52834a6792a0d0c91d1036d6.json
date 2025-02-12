@@ -83,11 +83,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "surmount-d33e62",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "surmount-surmount-original-soundtrack-86f378",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "surmount-d33e62",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Jasper Oprel & Indiana-Jonas",
   "publisherDisplayName": "Indiana-Jonas & Jasper Oprel, popagenda",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-05-02T13:00:00.000Z",
   "pcReleaseDate": "2024-05-02T13:00:00.000Z",
