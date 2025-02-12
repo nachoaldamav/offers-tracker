@@ -91,7 +91,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "a-long-journey-to-an-uncertain-end-514c7e",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "a-long-journey-to-an-uncertain-end-514c7e",
@@ -100,7 +107,28 @@
   ],
   "developerDisplayName": "Crispy Creative",
   "publisherDisplayName": "Mooncat Games, FIG",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1249,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 1250,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "5f757a3ea4494c13a804dc8fa71d23d6"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-30T15:00:00.000Z",
   "pcReleaseDate": "2023-06-30T15:00:00.000Z",
