@@ -115,14 +115,7 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "bridge-constructor-the-walking-dead",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "bridge-constructor-the-walking-dead",
@@ -131,7 +124,28 @@
   ],
   "developerDisplayName": "ClockStone Software",
   "publisherDisplayName": "Headup",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 99,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 900,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "5ab49b9a83d84dbdb5eb6528962a52ee"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-11-19T16:00:00.000Z",
   "pcReleaseDate": "2020-11-19T16:00:00.000Z",
