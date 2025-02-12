@@ -107,11 +107,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "miracle-heroes-07c9fb",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "miracle-heroes-07c9fb",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "CatPlayStudio",
   "publisherDisplayName": "CatPlayGames",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 699,
+      "originalPrice": 699,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-13T10:00:00.000Z",
   "pcReleaseDate": "2024-12-07T09:30:00.000Z",
