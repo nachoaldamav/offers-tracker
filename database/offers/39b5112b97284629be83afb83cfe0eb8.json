@@ -91,7 +91,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-alchemist-of-ars-magna-e68b84",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-alchemist-of-ars-magna-e68b84",
@@ -100,7 +107,28 @@
   ],
   "developerDisplayName": "Ninetail",
   "publisherDisplayName": "MediBang",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 2000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "4dc853bb14cc4a19acbc3eeac4b56e6b"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-06T07:00:00.000Z",
   "pcReleaseDate": "2023-03-31T07:00:00.000Z",
