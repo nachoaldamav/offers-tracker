@@ -130,7 +130,26 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "trackmania--club-access-one-year",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "trackmania--club-access-three-years",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "trackmania--standard-access-one-year",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "trackmania",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
