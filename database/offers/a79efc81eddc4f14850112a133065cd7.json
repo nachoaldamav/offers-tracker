@@ -143,13 +143,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "replikantchat-e8ad69",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "replikantchat-e8ad69",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "replikantchat-faq-9c8aba",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Replikant",
   "publisherDisplayName": "Replikant",
   "price": null,
