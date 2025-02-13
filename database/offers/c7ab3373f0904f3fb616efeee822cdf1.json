@@ -83,7 +83,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "lost-eden-13175e",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "lost-eden-13175e",
@@ -92,28 +99,7 @@
   ],
   "developerDisplayName": "Cryo Interactive",
   "publisherDisplayName": "Interplay Entertainment Corp.",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 799,
-      "originalPrice": 999,
-      "voucherDiscount": 0,
-      "discount": 200,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "c50f31d54d2949d5a9cdcdb0034e9916"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2022-08-05T16:00:00.000Z",
   "pcReleaseDate": "2022-08-05T16:00:00.000Z",

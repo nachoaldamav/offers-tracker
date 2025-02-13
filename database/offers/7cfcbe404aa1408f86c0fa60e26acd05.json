@@ -87,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tyrants-blessing-02fddd",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "tyrants-blessing-02fddd",
@@ -96,28 +103,7 @@
   ],
   "developerDisplayName": "Mercury Game Studio",
   "publisherDisplayName": "Freedom Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 699,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 1300,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "6ea35f83c1e1465fa56ebaf0bcae73a7"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2022-08-08T16:00:00.000Z",
   "pcReleaseDate": "2022-08-08T16:00:00.000Z",
