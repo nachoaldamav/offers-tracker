@@ -91,7 +91,18 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tomb-raider-ivvi-remastered-prepurchase-testing-b4f9d0",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "tomb-raider-ivvi-remastered-0be789",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "tomb-raider-ivvi-remastered-0be789",
@@ -100,24 +111,7 @@
   ],
   "developerDisplayName": "Aspyr",
   "publisherDisplayName": "Aspyr",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 2999,
-      "originalPrice": 2999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": true,
   "releaseDate": "2025-02-14T16:00:00.000Z",
   "pcReleaseDate": "2025-02-14T16:00:00.000Z",
