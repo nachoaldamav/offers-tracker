@@ -99,7 +99,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "far-horizon-faq-a0bca7",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "far-horizon-dd7069",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "far-horizon-dd7069",
@@ -108,7 +119,28 @@
   ],
   "developerDisplayName": "BEACHAM Games",
   "publisherDisplayName": "BEACHAM Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1949,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 1050,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "96517bff67db48cba7fbcb041d30bbf8"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-11T11:00:00.000Z",
   "pcReleaseDate": "2024-03-11T11:00:00.000Z",
