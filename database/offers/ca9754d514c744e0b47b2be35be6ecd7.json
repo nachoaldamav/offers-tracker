@@ -95,7 +95,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "immortal-life-771430",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "immortal-life-faq-110121",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "immortal-life-771430",
@@ -104,7 +115,28 @@
   ],
   "developerDisplayName": "YiFang Studio",
   "publisherDisplayName": "2P Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1104,
+      "originalPrice": 1699,
+      "voucherDiscount": 0,
+      "discount": 595,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "e59b243743894461ac17c6e6142cadab"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-06-21T00:00:00.000Z",
   "pcReleaseDate": "2024-01-18T07:00:00.000Z",
