@@ -119,11 +119,56 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "guacamelee-2-three-enemigos-29de05",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "guacamelee-2-ac4977",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "guacamelee-2-the-proving-grounds-47f93c",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "guacamelee-2-guacamelee-2-soundtrack-8dbea6",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "guacamelee-2-ac4977",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "DrinkBox Studios",
   "publisherDisplayName": "DrinkBox Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "82d24f35983b4f80ba06495d758f27e3"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-15T15:00:00.000Z",
   "pcReleaseDate": "2018-08-21T21:00:00.000Z",
