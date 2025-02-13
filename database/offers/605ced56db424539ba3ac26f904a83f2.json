@@ -99,11 +99,39 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": null
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "pilgrims-6d250f",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Amanita Design",
   "publisherDisplayName": "Amanita Design",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 209,
+      "originalPrice": 699,
+      "voucherDiscount": 0,
+      "discount": 490,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "0962d11b1b8d4d739161b386a4081eea"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-16T11:00:00.000Z",
   "pcReleaseDate": "2019-10-07T12:00:00.000Z",
