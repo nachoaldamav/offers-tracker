@@ -115,7 +115,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "need-for-speed-rivals-21b76a",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "need-for-speed-rivals-21b76a",
@@ -124,28 +131,7 @@
   ],
   "developerDisplayName": "Ghost",
   "publisherDisplayName": "Electronic Arts",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 299,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 1700,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "6ead707d837d4a0eb816d0add06c8989"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2024-03-20T17:00:00.000Z",
   "pcReleaseDate": "2013-11-14T23:00:00.000Z",
