@@ -169,10 +169,10 @@
   "publisherDisplayName": "Torii Gate Studios",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1799,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -181,7 +181,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "6b1b8a55e4b341558dcef7372a53a6de"
+          }
+        ]
       }
     ]
   },
