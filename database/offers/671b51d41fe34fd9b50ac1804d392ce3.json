@@ -87,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "stonekeep-d87a3b",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "stonekeep-d87a3b",
@@ -96,7 +103,28 @@
   ],
   "developerDisplayName": "Interplay Entertainment Corp.",
   "publisherDisplayName": "Interplay Entertainment Corp.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 799,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "94533c2b477548cba8945c2bd5469329"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-07-22T16:00:00.000Z",
   "pcReleaseDate": "2022-07-22T16:00:00.000Z",
