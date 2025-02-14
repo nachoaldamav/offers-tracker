@@ -120,10 +120,10 @@
   "publisherDisplayName": "NIS America, Inc.",
   "price": {
     "totalPrice": {
-      "discountPrice": 3999,
+      "discountPrice": 2999,
       "originalPrice": 3999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -132,7 +132,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "572c2ef3b2b44c1abb971eca70b2d178"
+          }
+        ]
       }
     ]
   },
