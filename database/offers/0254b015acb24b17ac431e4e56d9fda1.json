@@ -87,7 +87,22 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "glitchhikers-the-spaces-between-3d7a5d",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "glitchhikers-the-spaces-between-glitchhikers-the-spaces-between-soundtrack-6ba6b2",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "glitchhikers-the-spaces-between-glitchhikers-deluxe-soundtrack-5volume-set-7ebcbb",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "glitchhikers-the-spaces-between-3d7a5d",
@@ -96,7 +111,28 @@
   ],
   "developerDisplayName": "Silverstring Media Inc.",
   "publisherDisplayName": "Fellow Traveller",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 649,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 650,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "241c3b7dd18841fb864abb91a4b837b3"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-03-31T15:00:00.000Z",
   "pcReleaseDate": "2022-03-31T00:00:00.000Z",
