@@ -154,8 +154,24 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "totally-accurate-battle-simulator--bug-dlc",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "totally-accurate-battle-simulator",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "totally-accurate-battle-simulator",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Landfall Games",
   "publisherDisplayName": "Landfall Games",
   "price": null,
