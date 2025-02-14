@@ -95,7 +95,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "mineral-dae5b1",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "mineral-faq-19b5d8",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "mineral-dae5b1",
@@ -104,7 +115,28 @@
   ],
   "developerDisplayName": "Xitol",
   "publisherDisplayName": "Xitol",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 359,
+      "originalPrice": 599,
+      "voucherDiscount": 0,
+      "discount": 240,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "29bd4f4159bd4900b5f1ce12637bf3b0"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-01-10T00:00:00.000Z",
   "pcReleaseDate": "2024-08-08T07:00:00.000Z",
