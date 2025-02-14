@@ -87,7 +87,22 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "dark-journey-the-fate-of-the-demon-king-4bf628",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "dark-journey-the-fate-of-the-demon-king-黑暗征途：魔王的命运-8bee27",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "dark-journey-the-fate-of-the-demon-king-faq-5f618b",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "dark-journey-the-fate-of-the-demon-king-4bf628",
@@ -96,24 +111,7 @@
   ],
   "developerDisplayName": "Fate of Demon King Studio",
   "publisherDisplayName": "Fate of Demon King Studio",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 699,
-      "originalPrice": 699,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2024-03-09T02:00:00.315Z",
   "pcReleaseDate": "2024-02-04T16:00:00.000Z",
