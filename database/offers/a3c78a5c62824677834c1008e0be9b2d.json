@@ -150,11 +150,47 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "red-dead-redemption-2--red-dead-online",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "red-dead-redemption-2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "red-dead-redemption-2--ultimate-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 5999,
+      "voucherDiscount": 0,
+      "discount": 4500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "48a3e454c71a44fa836b09919e513b78"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2019-11-05T13:00:00.000Z",
   "pcReleaseDate": null,
