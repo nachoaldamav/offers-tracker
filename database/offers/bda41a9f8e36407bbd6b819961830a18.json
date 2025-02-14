@@ -95,22 +95,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "the-tale-of-bistun-9d6c5f",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "the-tale-of-bistun-the-tale-of-bistun-original-soundtrack-9e86bc",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "the-tale-of-bistun-the-tale-of-bistun-artbook-e26922",
-        "pageType": "offer"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "the-tale-of-bistun-9d6c5f",
@@ -119,7 +104,28 @@
   ],
   "developerDisplayName": "Black Cube Games",
   "publisherDisplayName": "IMGN.PRO",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 809,
+      "originalPrice": 1799,
+      "voucherDiscount": 0,
+      "discount": 990,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "ccdb3d82d5d5440c9491e3b9c4117e2c"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-07-13T16:00:00.000Z",
   "pcReleaseDate": "2022-07-13T14:00:00.000Z",
