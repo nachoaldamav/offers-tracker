@@ -87,11 +87,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "metro-simulator-494510",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "metro-simulator-494510",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "KishMish Games",
   "publisherDisplayName": "KishMish Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 149,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 1350,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "22da88194a394ab5a9c14959ace2aee4"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-14T03:00:00.000Z",
   "pcReleaseDate": "2021-12-07T22:00:00.000Z",
