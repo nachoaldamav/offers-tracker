@@ -95,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-last-hope-atomic-bomb-crypto-war-d307f6",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-last-hope-atomic-bomb-crypto-war-d307f6",
@@ -104,7 +111,28 @@
   ],
   "developerDisplayName": "Atomic Fabrik",
   "publisherDisplayName": "Atomic Fabrik",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 19,
+      "originalPrice": 199,
+      "voucherDiscount": 0,
+      "discount": 180,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "be87fb5ac9054999ad2aca4c00abeb20"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-08-19T07:00:00.000Z",
   "pcReleaseDate": "2019-04-01T07:00:00.000Z",
