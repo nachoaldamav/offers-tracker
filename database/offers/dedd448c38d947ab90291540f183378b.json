@@ -86,7 +86,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "abzu",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "abzu--technical-support",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Giant Squid",
   "publisherDisplayName": "505 Games",
