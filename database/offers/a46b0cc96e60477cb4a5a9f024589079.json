@@ -142,7 +142,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-messenger--picnic-panic",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-messenger",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
