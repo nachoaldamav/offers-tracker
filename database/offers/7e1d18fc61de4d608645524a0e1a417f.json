@@ -99,7 +99,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "recollection-71f3a4",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "recollection-recollection-demo-8704d3",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "recollection-71f3a4",
@@ -108,7 +119,24 @@
   ],
   "developerDisplayName": "Erkberg Games",
   "publisherDisplayName": "Erkberg Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-14T14:00:00.000Z",
   "pcReleaseDate": "2023-04-17T15:00:00.000Z",
