@@ -75,7 +75,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "combat-naval-package-hunter-killer-685f4a",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "combat-naval-package-hunter-killer-685f4a",
@@ -84,28 +91,7 @@
   ],
   "developerDisplayName": "Sonalysts",
   "publisherDisplayName": "Strategy First",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 199,
-      "originalPrice": 999,
-      "voucherDiscount": 0,
-      "discount": 800,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "5fc7fe8ce4024dc3b0091c345f1115bd"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2022-07-04T04:00:00.000Z",
   "pcReleaseDate": "1997-07-04T03:00:00.000Z",
