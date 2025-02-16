@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-01-09T16:00:00.000Z",
   "creationDate": "2024-05-22T13:06:45.321Z",
-  "lastModifiedDate": "2025-02-15T13:25:55.875Z",
+  "lastModifiedDate": "2025-02-16T17:05:52.744Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -116,6 +116,10 @@
       "name": "Controller Support"
     },
     {
+      "id": "21136",
+      "name": "Playful Visuals"
+    },
+    {
       "id": "1393",
       "name": "Simulation"
     },
@@ -203,11 +207,48 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "turmoil-the-heat-is-on-76c679",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "turmoil-26318a",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "turmoil-deeper-underground-fcf955",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "turmoil-26318a",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Gamious",
   "publisherDisplayName": "Gamious",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1299,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-01-09T16:00:00.000Z",
   "pcReleaseDate": "2016-06-01T22:00:00.000Z",
