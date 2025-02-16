@@ -114,26 +114,32 @@
       "path": "applications"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "airborne-kingdom",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "airborne-kingdom--deluxe-edition",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "airborne-kingdom--cte",
-        "pageType": "addon--cms-hybrid"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [],
   "developerDisplayName": "The Wandering Band LLC",
   "publisherDisplayName": "Freedom Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 749,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 1750,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "094a8200c25849d1a53d4f126e8a501b"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-12-17T15:00:00.000Z",
   "pcReleaseDate": "2020-12-17T16:00:00.000Z",
