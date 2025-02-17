@@ -103,7 +103,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "fireside-ff8e68",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "fireside-ff8e68",
@@ -112,7 +119,28 @@
   ],
   "developerDisplayName": "Emergo Entertainment",
   "publisherDisplayName": "Nordcurrent Labs",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1049,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 450,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "955cf305e0d044c8b0e6e74e3d57ffe4"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-06-04T09:00:00.000Z",
   "pcReleaseDate": "2024-06-04T09:00:00.000Z",
