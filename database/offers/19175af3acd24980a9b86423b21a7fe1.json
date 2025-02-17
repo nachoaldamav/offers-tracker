@@ -79,7 +79,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "bibots-aad4d0",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "bibots-aad4d0",
@@ -88,28 +95,7 @@
   ],
   "developerDisplayName": "Square Squid",
   "publisherDisplayName": "PID Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 454,
-      "originalPrice": 1299,
-      "voucherDiscount": 0,
-      "discount": 845,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "f34a5ca38c3c4ad4ac894fa7835d9260"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2022-10-05T15:00:00.000Z",
   "pcReleaseDate": "2022-10-05T15:00:00.000Z",
