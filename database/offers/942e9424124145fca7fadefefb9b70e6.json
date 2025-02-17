@@ -110,7 +110,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "superhot-mind-control-delete",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "superhot-mind-control-delete--faq",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
