@@ -126,26 +126,28 @@
       "path": "applications"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "f1-23--champions-edition",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "f1-23",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "f1-23--champions-upgrade",
-        "pageType": "addon--cms-hybrid"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [],
   "developerDisplayName": "Codemasters",
   "publisherDisplayName": "Electronic Arts",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 6999,
+      "originalPrice": 6999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-16T04:00:00.000Z",
   "pcReleaseDate": "2023-06-13T04:00:00.000Z",

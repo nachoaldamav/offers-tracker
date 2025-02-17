@@ -87,14 +87,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "fall-of-porcupine-659d85",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "fall-of-porcupine-659d85",
@@ -103,7 +96,28 @@
   ],
   "developerDisplayName": "Critical Rabbit",
   "publisherDisplayName": "Assemble Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 799,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "f50e30512d7949a29f2e4a46a2469768"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-15T14:00:00.000Z",
   "pcReleaseDate": "2023-06-15T14:00:00.000Z",
