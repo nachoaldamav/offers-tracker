@@ -79,14 +79,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "haimrik-5f59a7",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "haimrik-5f59a7",
@@ -95,7 +88,28 @@
   ],
   "developerDisplayName": "Below the Game",
   "publisherDisplayName": "Fulqrum Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 99,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 900,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "0d078321921c42c3bbd17e52f8ef3074"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-09-12T08:00:00.000Z",
   "pcReleaseDate": "2018-06-19T17:00:00.000Z",

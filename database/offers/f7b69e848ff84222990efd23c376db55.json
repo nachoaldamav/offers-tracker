@@ -135,11 +135,56 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-thaumaturge-3d7b2c",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-thaumaturge-the-thaumaturge-original-soundtrack-1dc7ef",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-thaumaturge-the-thaumaturge-digital-deluxe-edition-30926c",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-thaumaturge-the-thaumaturge-digital-deluxe-content-01e851",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "the-thaumaturge-3d7b2c",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Fool's Theory",
   "publisherDisplayName": "11 bit studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1924,
+      "originalPrice": 3499,
+      "voucherDiscount": 0,
+      "discount": 1575,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "302d7d4d458546cc8684700b3346f684"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-04T18:00:00.000Z",
   "pcReleaseDate": "2024-03-04T18:00:00.000Z",
