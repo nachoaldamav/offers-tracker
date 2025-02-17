@@ -68,8 +68,23 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "griftlands--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "griftlands--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "griftlands",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
   "price": null,
