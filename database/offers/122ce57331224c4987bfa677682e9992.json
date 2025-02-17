@@ -34,7 +34,7 @@
       "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AMonstersExpedition_DraknekFriends_S2_1200x1600-12a8b0a23d31eb4cc7cedf52c01f3877"
     }
   ],
-  "currentPrice": 2499,
+  "currentPrice": 1999,
   "seller": {
     "id": "o-8n38qrvfawma8qsmu3d37bw7gasm2a",
     "name": "Draknek"
@@ -99,14 +99,21 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "a-monsters-expedition",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
-      "originalPrice": 2499,
+      "discountPrice": 1999,
+      "originalPrice": 1999,
       "voucherDiscount": 0,
       "discount": 0,
       "currencyCode": "USD",
