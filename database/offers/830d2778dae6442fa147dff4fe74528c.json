@@ -95,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-glitch-fairy-1e0211",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-glitch-fairy-1e0211",
@@ -104,7 +111,24 @@
   ],
   "developerDisplayName": "Cannon Cow",
   "publisherDisplayName": "Cannon Cow",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1099,
+      "originalPrice": 1099,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-02-29T00:00:00.000Z",
   "pcReleaseDate": "2023-12-13T17:00:00.000Z",
