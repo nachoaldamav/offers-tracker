@@ -95,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "rising-mist-36ba97",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "rising-mist-36ba97",
@@ -104,28 +111,7 @@
   ],
   "developerDisplayName": "WASD Games",
   "publisherDisplayName": "WASD Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 749,
-      "originalPrice": 1499,
-      "voucherDiscount": 0,
-      "discount": 750,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "583b2c2f64eb4c29a3be0a0341e9b2a6"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-06-15T17:00:00.000Z",
   "pcReleaseDate": "2022-02-24T18:00:00.000Z",

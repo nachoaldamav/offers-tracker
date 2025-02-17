@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "suicide-guy-9f7963",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "suicide-guy-9f7963",
@@ -100,28 +107,7 @@
   ],
   "developerDisplayName": "Chubby Pixel",
   "publisherDisplayName": "Chubby Pixel",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 199,
-      "originalPrice": 799,
-      "voucherDiscount": 0,
-      "discount": 600,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "fd851b2c07d04579a36d5938deb34e05"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-06-14T00:00:00.000Z",
   "pcReleaseDate": "2017-06-14T00:00:00.000Z",
