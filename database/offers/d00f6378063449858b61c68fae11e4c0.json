@@ -126,11 +126,47 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "realm-royale-reforged--epic-launch-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "realm-royale-reforged--bass-drop-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "realm-royale-reforged--cute-but-deadly-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "realm-royale-reforged",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Heroic Leap Games",
   "publisherDisplayName": "Hi-Rez Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-11-29T12:00:00.000Z",
   "pcReleaseDate": null,
