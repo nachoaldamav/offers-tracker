@@ -95,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "euphoria-supreme-mechanics-590b33",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "euphoria-supreme-mechanics-590b33",
@@ -104,28 +111,7 @@
   ],
   "developerDisplayName": "Whale Rock Games",
   "publisherDisplayName": "Whale Rock Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 89,
-      "originalPrice": 1499,
-      "voucherDiscount": 0,
-      "discount": 1410,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "dd21da23d36c40f4b1ffe9b421a4917a"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2024-05-09T09:00:00.000Z",
   "pcReleaseDate": "2020-04-17T09:00:00.000Z",
