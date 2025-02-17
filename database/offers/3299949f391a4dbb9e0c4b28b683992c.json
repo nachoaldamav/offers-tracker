@@ -122,28 +122,26 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": null,
-  "publisherDisplayName": null,
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1999,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": []
+        "pageSlug": "griftlands--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "griftlands--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "griftlands",
+        "pageType": "productHome"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2019-07-11T15:00:00.000Z",
   "pcReleaseDate": null,
