@@ -95,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "abriss-build-to-destroy-a12a7a",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "abriss-build-to-destroy-a12a7a",
@@ -104,7 +111,28 @@
   ],
   "developerDisplayName": "Randwerk Games",
   "publisherDisplayName": "astragon Entertainment GmbH",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 974,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 525,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "1b27871f7091427aa28da5481e735e89"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-07T00:00:00.000Z",
   "pcReleaseDate": "2023-09-05T07:00:00.000Z",
