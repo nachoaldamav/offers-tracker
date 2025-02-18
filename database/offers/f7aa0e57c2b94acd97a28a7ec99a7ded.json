@@ -43,10 +43,7 @@
       "id": "21894",
       "name": "Cloud Saves"
     },
-    {
-      "id": "19847",
-      "name": "Achievements"
-    },
+    null,
     {
       "id": "39911",
       "name": "Winter Sale"
@@ -55,14 +52,8 @@
       "id": "21129",
       "name": "Challenging Combat"
     },
-    {
-      "id": "9547",
-      "name": "Windows"
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support"
-    },
+    null,
+    null,
     {
       "id": "1264",
       "name": "Co-op"
@@ -147,7 +138,28 @@
   ],
   "developerDisplayName": "DrinkBox Studios",
   "publisherDisplayName": "DrinkBox Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "82d24f35983b4f80ba06495d758f27e3"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-15T15:00:00.000Z",
   "pcReleaseDate": "2018-08-21T21:00:00.000Z",
