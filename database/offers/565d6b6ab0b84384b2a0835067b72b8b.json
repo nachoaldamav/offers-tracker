@@ -159,7 +159,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "naiad-88d201",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "naiad-88d201",
@@ -168,28 +175,7 @@
   ],
   "developerDisplayName": "HiWarp",
   "publisherDisplayName": "HiWarp",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1599,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 400,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "d945eb7d5af847cd96e7ecec10755fb7"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2025-02-16T23:00:00.000Z",
   "pcReleaseDate": "2024-12-10T20:00:00.000Z",

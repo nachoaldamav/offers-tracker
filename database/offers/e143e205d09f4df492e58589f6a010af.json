@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "creationDate": "2024-12-29T20:49:54.354Z",
-  "lastModifiedDate": "2025-02-18T10:09:03.029Z",
+  "lastModifiedDate": "2025-02-18T13:54:49.162Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -147,7 +147,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "station-77b322",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "station-faq-0b1ecd",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "station-77b322",
@@ -156,33 +167,16 @@
   ],
   "developerDisplayName": "UN reliable company",
   "publisherDisplayName": "UN reliable company",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1699,
-      "originalPrice": 1699,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
-  "releaseDate": "2025-02-28T00:00:00.000Z",
-  "pcReleaseDate": "2025-02-28T00:00:00.000Z",
+  "releaseDate": "2025-02-20T00:00:00.000Z",
+  "pcReleaseDate": "2025-02-20T00:00:00.000Z",
   "viewableDate": "2025-02-07T17:11:20.000Z",
   "approximateReleasePlan": {
-    "day": null,
+    "day": 20,
     "month": 2,
     "quarter": null,
     "year": 2025,
-    "releaseDateType": "BY_MONTH"
+    "releaseDateType": "BY_DATE"
   }
 }

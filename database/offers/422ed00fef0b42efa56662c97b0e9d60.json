@@ -95,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sunday-gold-e572e6",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "sunday-gold-e572e6",
@@ -104,28 +111,7 @@
   ],
   "developerDisplayName": "BKOM Studios",
   "publisherDisplayName": "Team17",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1319,
-      "originalPrice": 2199,
-      "voucherDiscount": 0,
-      "discount": 880,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "0b1fc99d70af47c3b8c9b52829141318"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2025-02-10T16:00:00.000Z",
   "pcReleaseDate": "2022-10-13T09:00:00.000Z",
