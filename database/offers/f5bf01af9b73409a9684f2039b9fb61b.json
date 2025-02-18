@@ -107,12 +107,38 @@
     }
   ],
   "catalogNs": {
-    "mappings": null
+    "mappings": [
+      {
+        "pageSlug": "secret-government",
+        "pageType": "productHome"
+      }
+    ]
   },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "cd91f5d63a864b5f87edb23cfcadb34a"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-04-15T17:00:00.000Z",
   "pcReleaseDate": "2021-04-15T17:00:00.000Z",
