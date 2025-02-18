@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-11-25T15:00:00.000Z",
   "creationDate": "2024-11-20T21:28:45.060Z",
-  "lastModifiedDate": "2025-01-14T16:00:32.008Z",
+  "lastModifiedDate": "2025-02-18T16:00:31.352Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -84,6 +84,10 @@
       "name": "Windows"
     },
     {
+      "id": "29899",
+      "name": "Deals of the Week"
+    },
+    {
       "id": "9549",
       "name": "Controller Support"
     }
@@ -145,10 +149,10 @@
   "publisherDisplayName": "Goonswarm Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 999,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -157,7 +161,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "f33cfec565f44aaa823f9fd88597c55d"
+          }
+        ]
       }
     ]
   },

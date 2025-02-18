@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-07-30T12:00:00.000Z",
   "creationDate": "2021-07-21T02:44:51.384Z",
-  "lastModifiedDate": "2025-02-11T16:00:30.925Z",
+  "lastModifiedDate": "2025-02-18T16:00:30.727Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -64,10 +64,6 @@
       "name": "Windows"
     },
     {
-      "id": "29899",
-      "name": "Deals of the Week"
-    },
-    {
       "id": "1263",
       "name": "Indie"
     }
@@ -110,11 +106,43 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "no-longer-home--no-longer-home-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "no-longer-home",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "no-longer-home--farewell-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-07-30T12:00:00.000Z",
   "pcReleaseDate": "2021-07-30T12:00:00.000Z",
