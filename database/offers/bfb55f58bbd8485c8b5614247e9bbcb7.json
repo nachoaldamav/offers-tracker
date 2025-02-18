@@ -6,24 +6,24 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-03-26T15:00:00.000Z",
   "creationDate": "2023-11-07T20:13:07.954Z",
-  "lastModifiedDate": "2025-02-10T16:01:33.949Z",
+  "lastModifiedDate": "2025-02-18T16:56:11.042Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/76cd63399a874c2b854fd74cda49a256/EGS_SuicideSquadKilltheJusticeLeague_RocksteadyStudios_S1_2560x1440-4e0fccbbb7ce39d2e9651efa6dde4ab2"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/76cd63399a874c2b854fd74cda49a256/EGS_SuicideSquadKilltheJusticeLeague_RocksteadyStudios_S2_1200x1600-de19e59d88cabce5d7767cbf12acf504"
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/76cd63399a874c2b854fd74cda49a256/EGS_SuicideSquadKilltheJusticeLeague_RocksteadyStudios_S2_1200x1600-912d3b1e42fc9d3e51d4798756f115b9"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/76cd63399a874c2b854fd74cda49a256/EGS_SuicideSquadKilltheJusticeLeague_RocksteadyStudios_S1_2560x1440-47933348a0228088e550cf861c2d01c9"
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/76cd63399a874c2b854fd74cda49a256/EGS_SuicideSquadKilltheJusticeLeague_RocksteadyStudios_S2_1200x1600-912d3b1e42fc9d3e51d4798756f115b9"
+      "url": "https://cdn1.epicgames.com/offer/76cd63399a874c2b854fd74cda49a256/EGS_SuicideSquadKilltheJusticeLeague_RocksteadyStudios_S2_1200x1600-de19e59d88cabce5d7767cbf12acf504"
     },
     {
       "type": "ProductLogo",
-      "url": "https://cdn1.epicgames.com/offer/76cd63399a874c2b854fd74cda49a256/EGS_SuicideSquadKilltheJusticeLeague_RocksteadyStudios_IC1_400x400-4d7445a8ab7fe474056447ddac0ad792"
+      "url": "https://cdn1.epicgames.com/offer/76cd63399a874c2b854fd74cda49a256/EGS_SuicideSquadKilltheJusticeLeague_RocksteadyStudios_IC1_200x200-3fcb2cef90263a6db1f5a2af9d91d734"
     }
   ],
   "currentPrice": 6999,
@@ -50,10 +50,6 @@
     {
       "id": "19847",
       "name": "Achievements"
-    },
-    {
-      "id": "39911",
-      "name": "Winter Sale"
     },
     {
       "id": "9547",
@@ -130,11 +126,67 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "suicide-squad-kill-the-justice-league--digital-deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "suicide-squad-kill-the-justice-league",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "suicide-squad-kill-the-justice-league--3700-luthor-coin",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "suicide-squad-kill-the-justice-league--digital-deluxe-upgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "suicide-squad-kill-the-justice-league--500-luthor-coin",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "suicide-squad-kill-the-justice-league--6300-luthor-coin",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "suicide-squad-kill-the-justice-league--1100-luthor-coin",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "suicide-squad-kill-the-justice-league--2400-luthor-coin",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 699,
+      "originalPrice": 6999,
+      "voucherDiscount": 0,
+      "discount": 6300,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "4451cfe8275843d49fabb965b4ba2460"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-26T15:00:00.000Z",
   "pcReleaseDate": "2024-02-02T18:00:00.000Z",
