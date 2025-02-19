@@ -6,24 +6,68 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-05-06T16:30:00.000Z",
   "creationDate": "2024-04-03T17:06:16.834Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.280Z",
+  "lastModifiedDate": "2025-02-19T17:54:00.818Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-14pcw.png"
+      "url": "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-3q240.png"
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-acu3y.png"
+      "url": "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-1ltst.png"
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-acu3y.png"
+      "url": "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-1ltst.png"
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://364e626c-e5a7-4a30-b7cd-340bcde8552e?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fea0a24395cd641d7bbde3e5d78ad462c%2Fhades-ii-video-nu5hv.png"
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://20dcf5fd-982a-4297-82ff-6a7fc16cc919?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fea0a24395cd641d7bbde3e5d78ad462c%2Fhades-ii-video-usn1s.png"
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://29924a4e-2c59-46a9-a855-cb8f7b82556d?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fea0a24395cd641d7bbde3e5d78ad462c%2Fhades-ii-video-1oxpu.png"
     },
     {
       "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/36a21c249987423a93f8442cc40a0e33/EGS_HadesII_SupergiantGames_S1_2560x1440-eeb7cc190a7b33f8e8831dee6f7a70ac"
+      "url": "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-mn0v.png"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-1giqq.jpg"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-6l588.jpg"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-qx46j.jpg"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-5b7wi.jpg"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-ztuff.jpg"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-1uumn.jpg"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-g8dr4.jpg"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-1p0tt.jpg"
     }
   ],
   "currentPrice": 2999,
@@ -174,7 +218,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "hades-ii",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "hades-ii-ost-da923c",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hades-ii-faq-25dbc1",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "hades-ii",
@@ -183,7 +242,24 @@
   ],
   "developerDisplayName": "Supergiant Games",
   "publisherDisplayName": "Supergiant Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-05-06T16:30:00.000Z",
   "pcReleaseDate": "2024-05-06T16:30:00.000Z",
