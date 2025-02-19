@@ -147,7 +147,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "stone-age-b7594d",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "stone-age-faq-53cd5c",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "stone-age-b7594d",
@@ -156,7 +167,28 @@
   ],
   "developerDisplayName": "Torii Gate Studios",
   "publisherDisplayName": "Torii Gate Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1799,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "6b1b8a55e4b341558dcef7372a53a6de"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-01-14T09:00:00.000Z",
   "pcReleaseDate": "2025-01-14T09:00:00.000Z",
