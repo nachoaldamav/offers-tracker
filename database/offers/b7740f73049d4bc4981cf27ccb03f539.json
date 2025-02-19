@@ -106,7 +106,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "expeditions-viking--soundtrack-and-art-book",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "expeditions-viking",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
