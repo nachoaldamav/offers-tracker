@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-03-07T00:00:00.000Z",
   "creationDate": "2024-07-12T03:02:40.861Z",
-  "lastModifiedDate": "2025-02-06T06:46:35.128Z",
+  "lastModifiedDate": "2025-02-19T02:03:43.487Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -128,12 +128,12 @@
       "name": "Shooter"
     },
     {
-      "id": "1275",
-      "name": "MOBA"
-    },
-    {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "1275",
+      "name": "MOBA"
     },
     {
       "id": "9549",
@@ -161,11 +161,11 @@
     },
     {
       "key": "isPromotionalContentUsed",
-      "value": "null"
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",
-      "value": "false"
+      "value": "true"
     },
     {
       "key": "isBlockchainUsed",
@@ -186,7 +186,11 @@
   "catalogNs": {
     "mappings": [
       {
-        "pageSlug": "fragpunk-fragpunk-pioneer-bundle-bae51c",
+        "pageSlug": "fragpunk-fragpunk-for-testing-0dbbe9",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "fragpunk-fragpunk-pioneer-pack-preorder-bonus-43007c",
         "pageType": "offer"
       },
       {
@@ -194,7 +198,7 @@
         "pageType": "productHome"
       },
       {
-        "pageSlug": "fragpunk-fragpunk-pioneer-pack-preorder-bonus-43007c",
+        "pageSlug": "fragpunk-fragpunk-pioneer-bundle-bae51c",
         "pageType": "offer"
       }
     ]
@@ -207,10 +211,27 @@
   ],
   "developerDisplayName": "Bad Guitar Studio",
   "publisherDisplayName": "Bad Guitar Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-03-07T00:00:00.000Z",
-  "pcReleaseDate": "2025-03-06T00:00:00.000Z",
+  "pcReleaseDate": "2025-03-07T00:00:00.000Z",
   "viewableDate": "2024-08-14T16:00:00.000Z",
   "approximateReleasePlan": null
 }

@@ -95,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "chess-knights-shinobi-649437",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "chess-knights-shinobi-649437",
@@ -104,7 +111,28 @@
   ],
   "developerDisplayName": "Minimol Games",
   "publisherDisplayName": "Minimol Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 254,
+      "originalPrice": 299,
+      "voucherDiscount": 0,
+      "discount": 45,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "9e9eb3bbad0e4be799f03bdf664f3674"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-06-27T15:30:00.000Z",
   "pcReleaseDate": "2020-11-18T20:00:00.000Z",
