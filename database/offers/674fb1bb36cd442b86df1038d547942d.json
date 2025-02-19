@@ -122,32 +122,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": null,
-  "publisherDisplayName": null,
-  "price": {
-    "totalPrice": {
-      "discountPrice": 749,
-      "originalPrice": 2999,
-      "voucherDiscount": 0,
-      "discount": 2250,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": [
-          {
-            "id": "e8cc41d2968e425787ba33335876c433"
-          }
-        ]
+        "pageSlug": "chronos-before-the-ashes--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "chronos-before-the-ashes",
+        "pageType": "productHome"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2020-12-01T18:00:00.000Z",
   "pcReleaseDate": "2020-12-01T18:00:00.000Z",
