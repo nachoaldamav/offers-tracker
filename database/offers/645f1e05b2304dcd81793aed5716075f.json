@@ -87,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "titus-the-fox-150ecc",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "titus-the-fox-150ecc",
@@ -96,28 +103,7 @@
   ],
   "developerDisplayName": "Titus Interactive",
   "publisherDisplayName": "Interplay Entertainment Corp",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 799,
-      "originalPrice": 999,
-      "voucherDiscount": 0,
-      "discount": 200,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "3d8ac3a6bc584b9baee2c94d99285dac"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2022-07-08T16:00:00.000Z",
   "pcReleaseDate": "2022-07-08T16:00:00.000Z",
