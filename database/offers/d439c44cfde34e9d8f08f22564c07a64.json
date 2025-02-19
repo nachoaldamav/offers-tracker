@@ -83,7 +83,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ubersoldier-83a15a",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "ubersoldier-83a15a",
@@ -92,7 +99,24 @@
   ],
   "developerDisplayName": "Burut CT",
   "publisherDisplayName": "Strategy First",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-30T02:32:36.091Z",
   "pcReleaseDate": "2024-03-27T04:00:00.000Z",
