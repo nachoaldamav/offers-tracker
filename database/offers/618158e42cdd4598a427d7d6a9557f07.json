@@ -122,8 +122,20 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "jusant",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "jusant",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "DON'T NOD",
   "publisherDisplayName": "DON'T NOD",
   "price": null,
