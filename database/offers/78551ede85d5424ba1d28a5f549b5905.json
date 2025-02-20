@@ -106,32 +106,26 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": null,
-  "publisherDisplayName": null,
-  "price": {
-    "totalPrice": {
-      "discountPrice": 749,
-      "originalPrice": 2999,
-      "voucherDiscount": 0,
-      "discount": 2250,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": [
-          {
-            "id": "17bb5854997940438bf2d0182e780b73"
-          }
-        ]
+        "pageSlug": "monster-jam-steel-titans-2--inverse-truck-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "monster-jam-steel-titans-2--inverse-higher-education",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "monster-jam-steel-titans-2",
+        "pageType": "productHome"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2021-03-02T18:00:00.000Z",
   "pcReleaseDate": "2021-03-02T18:00:00.000Z",
