@@ -99,11 +99,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "silenced-the-house-e6fd68",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "silenced-the-house-e6fd68",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Graven Visual Novels",
   "publisherDisplayName": "Graven Visual Novels",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 399,
+      "voucherDiscount": 0,
+      "discount": 200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "1b80bcf6fa1f4d4791f0935ad0b8a968"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-07-24T16:00:00.000Z",
   "pcReleaseDate": "2018-03-07T22:00:00.000Z",

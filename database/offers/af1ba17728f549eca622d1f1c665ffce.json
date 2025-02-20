@@ -95,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "i-chatbot-aisylum-83b2b5",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "i-chatbot-aisylum-83b2b5",
@@ -104,7 +111,28 @@
   ],
   "developerDisplayName": "Ludetis",
   "publisherDisplayName": "Ludetis",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "fea52b1b6b094a198522069d33725f36"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-08-06T11:00:00.000Z",
   "pcReleaseDate": "2024-08-06T11:00:00.000Z",

@@ -119,11 +119,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tactical-bandits-0a6961",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "tactical-bandits-launch-discount-de7c5c",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "tactical-bandits-0a6961",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Make Good Games",
   "publisherDisplayName": "Make Good Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 719,
+      "originalPrice": 1199,
+      "voucherDiscount": 0,
+      "discount": 480,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "1341affa5f9f4dbcbbd53ed2a92d84a5"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-07-25T09:00:00.000Z",
   "pcReleaseDate": "2024-07-25T09:00:00.000Z",

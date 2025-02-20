@@ -87,11 +87,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "welcome-to-elk-0baebd",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "welcome-to-elk-0baebd",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Triple Topping",
   "publisherDisplayName": "Akupara Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 524,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 975,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "161656f89fe44c079f3a88ad3e6283b3"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-08-01T20:45:07.475Z",
   "pcReleaseDate": "2020-09-17T14:00:00.000Z",
