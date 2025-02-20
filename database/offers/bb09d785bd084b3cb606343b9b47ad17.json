@@ -92,10 +92,36 @@
     }
   ],
   "catalogNs": null,
-  "offerMappings": null,
+  "offerMappings": [
+    {
+      "pageSlug": "lizard-slayer-5c25ba",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Astra Playroom",
   "publisherDisplayName": "Astra Playroom",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 49,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 50,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "43fee67c38b04ed1aa83dbf765c0aa8f"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-05-14T05:00:00.000Z",
   "pcReleaseDate": "2024-05-14T05:00:00.000Z",
