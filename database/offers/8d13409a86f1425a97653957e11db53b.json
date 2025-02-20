@@ -99,14 +99,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "lifeless-moon-9bdb88",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "lifeless-moon-9bdb88",
@@ -115,7 +108,28 @@
   ],
   "developerDisplayName": "Stage 2 Studios",
   "publisherDisplayName": "Serenity Forge",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1039,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 260,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "551d2cd7eeea48ab82664b4ea2211d3c"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-07-09T16:00:00.000Z",
   "pcReleaseDate": "2024-07-09T16:00:00.000Z",
