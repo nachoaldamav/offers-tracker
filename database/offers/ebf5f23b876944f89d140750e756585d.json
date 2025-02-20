@@ -126,8 +126,20 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "oxenfree",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "oxenfree",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Night School Studio",
   "publisherDisplayName": "Night School Studio",
   "price": null,

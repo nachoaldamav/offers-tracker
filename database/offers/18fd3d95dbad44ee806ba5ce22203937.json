@@ -130,8 +130,19 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "satisfactory--dedicated-server",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "satisfactory",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Coffee Stain Studios",
   "publisherDisplayName": "Coffee Stain Publishing",
   "price": null,

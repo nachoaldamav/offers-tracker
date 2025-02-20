@@ -158,8 +158,19 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "mutant-year-zero--dlc-1",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "mutant-year-zero",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
   "price": null,
