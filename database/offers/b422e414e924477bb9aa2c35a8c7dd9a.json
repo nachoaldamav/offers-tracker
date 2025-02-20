@@ -99,11 +99,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "unlock-the-king-f05e24",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "unlock-the-king-f05e24",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Minimol Games",
   "publisherDisplayName": "Minimol Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 84,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 15,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "2a609a05033b4b2c92e1a096802a570e"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-05-29T16:30:00.000Z",
   "pcReleaseDate": "2019-11-20T08:00:00.000Z",
