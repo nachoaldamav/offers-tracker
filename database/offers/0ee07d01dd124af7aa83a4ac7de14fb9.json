@@ -99,7 +99,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "star-trek-prodigy-supernova-cdb770",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "star-trek-prodigy-supernova-cdb770",
@@ -108,7 +115,28 @@
   ],
   "developerDisplayName": "Tessera Studios",
   "publisherDisplayName": "Outright Games Ltd.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 4500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "1d84327063964e97bdfc1c6053b2603b"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-01-18T19:00:00.000Z",
   "pcReleaseDate": "2022-10-13T23:00:00.000Z",
