@@ -146,30 +146,32 @@
       "path": "applications"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "slime-rancher-2--original-soundtrack",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "slime-rancher-2--game-and-soundtrack-bundle",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "slime-rancher-2--early-access-faq",
-        "pageType": "info"
-      },
-      {
-        "pageSlug": "slime-rancher-2",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2099,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 900,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "cabd7768f8f34210a9fdf6c015125a2c"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-09-22T17:00:00.000Z",
   "pcReleaseDate": "2022-09-22T17:00:00.000Z",
