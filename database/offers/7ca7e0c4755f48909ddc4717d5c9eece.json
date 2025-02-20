@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-02-20T17:30:00.000Z",
   "creationDate": "2025-02-20T00:23:41.717Z",
-  "lastModifiedDate": "2025-02-20T17:23:44.040Z",
+  "lastModifiedDate": "2025-02-20T22:31:25.680Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -72,10 +72,6 @@
       "name": "Simulation"
     },
     {
-      "id": "31313",
-      "name": "First Run"
-    },
-    {
       "id": "1146",
       "name": "City Builder"
     },
@@ -122,16 +118,27 @@
   ],
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "geopogo-cities-game-833f62",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "geopogo-cities-game-faq-029d33",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "geopogo-cities-game-833f62",
@@ -140,7 +147,24 @@
   ],
   "developerDisplayName": "Geopogo",
   "publisherDisplayName": "Geopogo",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-02-20T17:30:00.000Z",
   "pcReleaseDate": "2025-02-20T17:30:00.000Z",
