@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-03-03T14:00:00.000Z",
   "creationDate": "2023-06-22T15:15:58.595Z",
-  "lastModifiedDate": "2025-02-18T18:44:44.884Z",
+  "lastModifiedDate": "2025-02-20T16:51:55.686Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -115,14 +115,51 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "expedition-33-b3240d",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "expedition-33-clair-obscur-expedition-33-–-deluxe-edition-upgrade-94c5b3",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "expedition-33-clair-obscur-expedition-33-–-deluxe-edition-38655b",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "expedition-33-b3240d",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Sandfall Interactive",
   "publisherDisplayName": "Kepler Interactive",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": true,
   "releaseDate": "2025-04-24T07:00:00.000Z",
-  "pcReleaseDate": "2025-04-24T00:00:00.000Z",
+  "pcReleaseDate": "2025-04-24T07:00:00.000Z",
   "viewableDate": "2024-06-09T17:00:00.000Z",
   "approximateReleasePlan": null
 }
