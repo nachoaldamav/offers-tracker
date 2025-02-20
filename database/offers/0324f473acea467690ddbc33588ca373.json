@@ -107,7 +107,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "bewitched-part-1-8e6964",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "bewitched-part-1-8e6964",
@@ -116,7 +123,28 @@
   ],
   "developerDisplayName": "Graven Visual Novels",
   "publisherDisplayName": "Graven Visual Novels",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 399,
+      "voucherDiscount": 0,
+      "discount": 200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "ad16849aed7a407fb163c6d44cdbee5e"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-07-26T07:00:00.000Z",
   "pcReleaseDate": "2019-10-30T22:00:00.000Z",

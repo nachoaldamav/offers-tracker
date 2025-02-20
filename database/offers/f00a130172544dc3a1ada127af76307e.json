@@ -99,7 +99,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "daylife-in-japan-pixel-art-jigsaw-puzzle-625af9",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "daylife-in-japan-pixel-art-jigsaw-puzzle-625af9",
@@ -108,7 +115,28 @@
   ],
   "developerDisplayName": "Minimol Games",
   "publisherDisplayName": "Minimol Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 129,
+      "originalPrice": 199,
+      "voucherDiscount": 0,
+      "discount": 70,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "e0f444d08f6c47598006fe8411c0ecb2"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-07-25T15:00:00.000Z",
   "pcReleaseDate": "2019-10-26T20:00:00.000Z",
