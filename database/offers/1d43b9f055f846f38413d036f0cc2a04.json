@@ -150,11 +150,67 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "frostpunk",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "frostpunk--game-of-the-year-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "frostpunk--expansions-original-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "frostpunk--the-rifts",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "frostpunk--the-last-autumn",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "frostpunk--season-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "frostpunk--original-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "frostpunk--on-the-edge",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 449,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 2550,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "8ad219e92b6045348fa96d2313d9592a"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-06-03T15:00:00.000Z",
   "pcReleaseDate": "2021-06-03T15:00:00.000Z",
