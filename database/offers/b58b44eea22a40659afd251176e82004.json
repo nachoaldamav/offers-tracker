@@ -107,7 +107,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "mass-effect-2-digital-deluxe-edition-1427fe",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "mass-effect-2-digital-deluxe-edition-1427fe",
@@ -116,28 +123,7 @@
   ],
   "developerDisplayName": "Bioware",
   "publisherDisplayName": "Electronic Arts",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 749,
-      "originalPrice": 2999,
-      "voucherDiscount": 0,
-      "discount": 2250,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "f86d701403164898a32914459a68fe84"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2024-06-06T20:00:00.000Z",
   "pcReleaseDate": "2010-01-26T09:00:00.000Z",
