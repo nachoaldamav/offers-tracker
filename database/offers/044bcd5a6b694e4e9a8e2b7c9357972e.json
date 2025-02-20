@@ -115,7 +115,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "a-way-out-635680",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "a-way-out-635680",
@@ -124,28 +131,7 @@
   ],
   "developerDisplayName": "Hazelight",
   "publisherDisplayName": "Electronic Arts",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 599,
-      "originalPrice": 2999,
-      "voucherDiscount": 0,
-      "discount": 2400,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "e431a2a49b504701bf751ee6b97a2640"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2024-05-09T20:00:00.000Z",
   "pcReleaseDate": "2018-03-23T08:00:00.000Z",
