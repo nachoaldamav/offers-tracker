@@ -122,14 +122,7 @@
       "path": "applications"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "jusant",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "jusant",
@@ -138,7 +131,28 @@
   ],
   "developerDisplayName": "DON'T NOD",
   "publisherDisplayName": "DON'T NOD",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1249,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 1250,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "88aa73ef44414a3fbe0035d2a4f0dd11"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-19T09:00:00.000Z",
   "pcReleaseDate": "2023-10-31T01:00:00.000Z",

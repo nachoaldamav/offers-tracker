@@ -131,14 +131,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "need-for-speed-payback-fd57e4",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "need-for-speed-payback-fd57e4",
@@ -147,7 +140,28 @@
   ],
   "developerDisplayName": "Ghost",
   "publisherDisplayName": "Electronic Arts",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 449,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 2550,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "caf001f9b4544cc2bf96b37d26203f6d"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-28T15:00:00.000Z",
   "pcReleaseDate": "2017-11-05T23:00:00.000Z",

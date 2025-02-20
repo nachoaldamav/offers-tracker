@@ -111,14 +111,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "saviorless-bdcd28",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "saviorless-bdcd28",
@@ -127,7 +120,28 @@
   ],
   "developerDisplayName": "Empty Head Games",
   "publisherDisplayName": "Dear Villagers",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 519,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 780,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "e88c78df2c56456b80d59c2970dce88d"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-04-02T13:00:00.000Z",
   "pcReleaseDate": "2024-04-02T13:00:00.000Z",
