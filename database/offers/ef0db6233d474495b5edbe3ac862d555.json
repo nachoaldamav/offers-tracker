@@ -106,62 +106,32 @@
       "path": "applications"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "homeworld-3--war-games-kalan-raiders-fleet-pack",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "homeworld-3--war-games-taiidan-fleet-pack",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "homeworld-3--war-games-somtaaw-fleet-pack",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "homeworld-3--fleet-command-edition",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "homeworld-3--mod-tools-and-editor-preview",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "homeworld-3--historical-and-technical-manual",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "homeworld-3--soundtrack",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "homeworld-3--year-one-pass",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "homeworld-3--fleet-command-edition-upgrade-pack",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "homeworld-3--deluxe-edition",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "homeworld-3",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "homeworld-3--mod-tools-and-editor",
-        "pageType": "offer"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [],
   "developerDisplayName": "Blackbird Interactive",
   "publisherDisplayName": "Gearbox Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 5999,
+      "voucherDiscount": 0,
+      "discount": 3000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "28f62c8a7e654d1db4033ca82775f244"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": false,
   "releaseDate": "2024-05-13T18:00:00.000Z",
   "pcReleaseDate": "2024-05-13T18:00:00.000Z",
