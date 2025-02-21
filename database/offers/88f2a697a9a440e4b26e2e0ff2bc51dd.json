@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "purpose-1951-e7a88b",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "purpose-1951-e7a88b",
@@ -100,7 +107,28 @@
   ],
   "developerDisplayName": "Tonguc Bodur",
   "publisherDisplayName": "Tonguc Bodur",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 149,
+      "originalPrice": 299,
+      "voucherDiscount": 0,
+      "discount": 150,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "2bcd82dbb7c444d99b2476e9b4eda269"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-29T12:00:00.000Z",
   "pcReleaseDate": "2024-03-29T12:00:00.000Z",
