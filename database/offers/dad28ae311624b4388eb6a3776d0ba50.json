@@ -151,8 +151,24 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "a-way-home-a-way-home-demo-c61573",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "a-way-home-a397f1",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "a-way-home-a397f1",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Spillutvikler Mæhle - Hellfire RHG",
   "publisherDisplayName": "Spillutvikler Mæhle",
   "price": null,
