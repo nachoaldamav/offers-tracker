@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "creationDate": "2025-02-20T14:00:20.843Z",
-  "lastModifiedDate": "2025-02-20T14:00:20.843Z",
+  "lastModifiedDate": "2025-02-21T14:49:17.306Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -84,8 +84,8 @@
   ],
   "currentPrice": 2999,
   "seller": {
-    "id": "o-ce943yjdjtkxyhtgsql8mpwznrxvgt",
-    "name": "Digital Sun"
+    "id": "o-4ftedygtvtsgp7tbaf49mpm7lt6u2e",
+    "name": "Hooded Horse Inc."
   },
   "productSlug": null,
   "urlSlug": "9884ada79e3248e299205d1ae9cfafa7",
@@ -155,7 +155,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "cataclismo-f191d4",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "cataclismo-f191d4",
@@ -164,7 +171,24 @@
   ],
   "developerDisplayName": "Digital Sun",
   "publisherDisplayName": "Hooded Horse",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-03-20T00:00:00.000Z",
   "pcReleaseDate": "2025-03-20T00:00:00.000Z",
