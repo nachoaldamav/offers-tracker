@@ -86,11 +86,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "might-and-magic-heroes-6",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 249,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 750,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "4a7100a85f15408aa9ea4ce482dca136"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-04-08T15:00:00.000Z",
   "pcReleaseDate": null,
