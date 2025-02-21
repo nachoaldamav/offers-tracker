@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "creationDate": "2024-08-23T08:42:13.310Z",
-  "lastModifiedDate": "2025-02-13T07:37:29.500Z",
+  "lastModifiedDate": "2025-02-21T15:05:49.574Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -151,7 +151,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "countless-army-9a65de",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "countless-army-9a65de",
@@ -160,14 +167,31 @@
   ],
   "developerDisplayName": "Dos Estrellas",
   "publisherDisplayName": "Dos Estrellas",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
-  "releaseDate": "2025-02-28T00:00:00.000Z",
+  "releaseDate": "2025-03-31T00:00:00.000Z",
   "pcReleaseDate": "2024-07-18T06:00:00.000Z",
   "viewableDate": "2025-02-04T15:23:52.000Z",
   "approximateReleasePlan": {
     "day": null,
-    "month": 2,
+    "month": 3,
     "quarter": null,
     "year": 2025,
     "releaseDateType": "BY_MONTH"
