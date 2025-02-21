@@ -102,32 +102,34 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": "Ocean Drive Studio, Inc.",
-  "publisherDisplayName": "PID Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1924,
-      "originalPrice": 3499,
-      "voucherDiscount": 0,
-      "discount": 1575,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": [
-          {
-            "id": "0e47bc6312fa40d0a6f4ba53642f1109"
-          }
-        ]
+        "pageSlug": "lost-eidolons--white-horse",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "lost-eidolons--original-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "lost-eidolons--artbook-world-map",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "lost-eidolons--digital-deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "lost-eidolons",
+        "pageType": "productHome"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": "Ocean Drive Studio, Inc.",
+  "publisherDisplayName": "PID Games",
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2022-10-13T15:00:00.000Z",
   "pcReleaseDate": "2022-10-13T15:00:00.000Z",
