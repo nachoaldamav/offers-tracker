@@ -103,7 +103,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "outliver-tribulations-679884",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "outliver-tribulations-679884",
@@ -112,7 +119,28 @@
   ],
   "developerDisplayName": "GBROSSOFT",
   "publisherDisplayName": "GBROSSOFT",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 799,
+      "voucherDiscount": 0,
+      "discount": 600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "9a544458e8ff48a083f4ec9516de16f0"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-07-18T15:00:00.000Z",
   "pcReleaseDate": "2023-07-18T15:00:00.000Z",
