@@ -95,7 +95,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "settlement-survival-923f57",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "settlement-survival-tourism-75a29c",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "settlement-survival-923f57",
@@ -104,7 +115,28 @@
   ],
   "developerDisplayName": "Gleamer Studio",
   "publisherDisplayName": "Gleamer Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "1f0f1895a09942c0abbfe6ae3caab1b6"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-13T04:00:00.000Z",
   "pcReleaseDate": "2022-10-24T16:00:00.000Z",

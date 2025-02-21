@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "back-then-2072ca",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "back-then-2072ca",
@@ -100,7 +107,28 @@
   ],
   "developerDisplayName": "Octopus Embrace LDA",
   "publisherDisplayName": "Octopus Embrace LDA",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 649,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 650,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "47c9d86eeae04bb18dcce4275d435145"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-08T17:00:00.000Z",
   "pcReleaseDate": "2023-12-08T17:00:00.000Z",
