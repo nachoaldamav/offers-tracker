@@ -95,7 +95,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "argol-kronoss-castle-84d829",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "argol-kronoss-castle-84d829",
@@ -104,7 +111,28 @@
   ],
   "developerDisplayName": "Olivier Poli",
   "publisherDisplayName": "Olivier Poli",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 149,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 350,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "2cf8e6fc0bbd4b92b7eae18e212686ad"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-26T23:00:00.000Z",
   "pcReleaseDate": "2023-12-24T23:00:00.000Z",

@@ -143,7 +143,26 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "illuvium-illuvium-experimental-36cc40",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "illuvium-60064c",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "illuvium-faq-fc92df",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "illuvium-illuvium-testnet-e85ffd",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "illuvium-60064c",
@@ -152,7 +171,24 @@
   ],
   "developerDisplayName": "Illuvium Labs",
   "publisherDisplayName": "Illuvium Labs",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-11-28T20:00:00.000Z",
   "pcReleaseDate": "2023-11-28T20:00:00.000Z",

@@ -83,7 +83,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "psychiatrist-simulator-bfbcc4",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "psychiatrist-simulator-bfbcc4",
@@ -92,7 +99,28 @@
   ],
   "developerDisplayName": "Eathrabaria",
   "publisherDisplayName": "Eathrabaria",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 100,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "ec497ba651434528968adf027eb2c810"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-19T13:00:00.000Z",
   "pcReleaseDate": "2018-01-27T00:00:00.000Z",

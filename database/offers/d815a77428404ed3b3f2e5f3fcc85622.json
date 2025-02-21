@@ -103,7 +103,22 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "jewel-run-629837",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "jewel-run-jewel-run-premium-pack-438ca4",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "jewel-run-faq-15d205",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "jewel-run-629837",
@@ -112,7 +127,24 @@
   ],
   "developerDisplayName": "Cerbere Games",
   "publisherDisplayName": "Cerbere Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-08T09:50:20.259Z",
   "pcReleaseDate": "2023-10-19T22:00:00.000Z",

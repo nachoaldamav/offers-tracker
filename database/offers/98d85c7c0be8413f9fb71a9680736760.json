@@ -99,7 +99,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ash-of-gods-redemption-e0b97d",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "ash-of-gods-redemption-e0b97d",
@@ -108,7 +115,28 @@
   ],
   "developerDisplayName": "AurumDust",
   "publisherDisplayName": "AurumDust, Game Seer Ventures",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 624,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 1875,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "dfc858a93e064ab1b6b32607348dc67c"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-11T09:00:00.000Z",
   "pcReleaseDate": "2018-03-22T23:00:00.000Z",

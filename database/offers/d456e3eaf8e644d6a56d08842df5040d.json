@@ -83,7 +83,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "bc-kings-779bb0",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "bc-kings-779bb0",
@@ -92,7 +99,28 @@
   ],
   "developerDisplayName": "Mascot Entertainment",
   "publisherDisplayName": "Strategy First",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 159,
+      "originalPrice": 799,
+      "voucherDiscount": 0,
+      "discount": 640,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "427599b5c9124913b14404233297ff61"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-24T04:00:00.000Z",
   "pcReleaseDate": "2024-01-24T04:00:00.000Z",

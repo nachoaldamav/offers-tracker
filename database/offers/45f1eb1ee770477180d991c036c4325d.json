@@ -99,7 +99,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "asterix-and-obelix-slap-them-all-2-0ca63e",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "asterix-and-obelix-slap-them-all-2-0ca63e",
@@ -108,7 +115,28 @@
   ],
   "developerDisplayName": "Mr Nutz Studio",
   "publisherDisplayName": "Microids",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 674,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 1825,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "065d992b9af642a5bdd7c7e4c0b20fff"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-11-13T09:00:00.000Z",
   "pcReleaseDate": "2023-11-13T09:00:00.000Z",

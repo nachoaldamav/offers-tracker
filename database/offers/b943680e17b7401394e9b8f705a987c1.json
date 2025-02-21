@@ -95,7 +95,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "contraption-maker-66e1ec",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "contraption-maker-66e1ec",
@@ -104,7 +111,28 @@
   ],
   "developerDisplayName": "Kevin Ryan",
   "publisherDisplayName": "Top Meadow Inc",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 599,
+      "originalPrice": 1199,
+      "voucherDiscount": 0,
+      "discount": 600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "01152e6eec5a4ed5b8b60392554ab0a2"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-22T18:00:00.000Z",
   "pcReleaseDate": "2014-07-07T17:00:00.000Z",

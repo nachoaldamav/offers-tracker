@@ -110,7 +110,26 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-invincible",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-invincible--art-book-and-comic-book",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-invincible--original-soundtrack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-invincible--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-invincible",
@@ -119,7 +138,28 @@
   ],
   "developerDisplayName": "Starward Industries",
   "publisherDisplayName": "11 bit studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1799,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 1200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "b121446dd471449689149c9e667e0b68"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-11-06T15:00:00.000Z",
   "pcReleaseDate": "2023-11-06T15:00:00.000Z",

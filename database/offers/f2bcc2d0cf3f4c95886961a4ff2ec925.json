@@ -95,7 +95,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "dizzy-fight-7bbfe7",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "dizzy-fight-faq-d3f38d",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "dizzy-fight-7bbfe7",
@@ -104,7 +115,28 @@
   ],
   "developerDisplayName": "Soer Game Studio",
   "publisherDisplayName": "Soer Game Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 79,
+      "originalPrice": 799,
+      "voucherDiscount": 0,
+      "discount": 720,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "e8501ff1d7c14e16b873ccc9ece1082e"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-11-30T00:00:00.000Z",
   "pcReleaseDate": "2023-12-05T19:00:00.000Z",
