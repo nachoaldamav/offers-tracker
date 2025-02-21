@@ -83,7 +83,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "battle-of-europe-00b917",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "battle-of-europe-00b917",
@@ -92,7 +99,28 @@
   ],
   "developerDisplayName": "Maus Software",
   "publisherDisplayName": "Strategy First",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 800,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "5bf125a9760b4278bbec9782a07ef93d"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-02-16T05:00:00.000Z",
   "pcReleaseDate": "2006-03-23T04:00:00.000Z",

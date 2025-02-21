@@ -83,7 +83,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "clad-in-iron-war-of-the-pacific-1879-68f244",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "clad-in-iron-war-of-the-pacific-1879-68f244",
@@ -92,7 +99,28 @@
   ],
   "developerDisplayName": "Strategy First",
   "publisherDisplayName": "Strategy First",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 2700,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "c04c718002834129b2e72f5f3a817967"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-02-22T10:00:00.000Z",
   "pcReleaseDate": "2023-02-22T10:00:00.000Z",

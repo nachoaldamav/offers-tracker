@@ -122,8 +122,20 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "lego-brawls",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "lego-brawls",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Red Games Co",
   "publisherDisplayName": "LEGO",
   "price": null,

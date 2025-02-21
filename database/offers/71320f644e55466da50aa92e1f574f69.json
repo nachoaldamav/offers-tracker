@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "two-world-portal-mysterious-adventure-ca391a",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "two-world-portal-mysterious-adventure-ca391a",
@@ -100,7 +107,28 @@
   ],
   "developerDisplayName": "NextSquareStudio",
   "publisherDisplayName": "NextSquareStudio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 119,
+      "originalPrice": 299,
+      "voucherDiscount": 0,
+      "discount": 180,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "871a913f4af3470d94b72eb4f6a4ab03"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-13T22:00:00.000Z",
   "pcReleaseDate": "2023-04-13T22:00:00.000Z",
