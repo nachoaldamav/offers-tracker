@@ -75,7 +75,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "pato-box-311c99",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "pato-box-311c99",
@@ -84,7 +91,28 @@
   ],
   "developerDisplayName": "Bromio",
   "publisherDisplayName": "Bromio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 700,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "67e5489a25ab49039f127224da5e171b"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-09-02T05:00:00.000Z",
   "pcReleaseDate": "2021-09-02T05:00:00.000Z",
