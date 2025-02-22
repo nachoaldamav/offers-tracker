@@ -91,7 +91,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "espiocracy-e70901",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "espiocracy-e70901",
@@ -100,7 +107,24 @@
   ],
   "developerDisplayName": "Ex Vivo Studios",
   "publisherDisplayName": "Hooded Horse",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-12-31T00:00:00.000Z",
   "pcReleaseDate": null,
