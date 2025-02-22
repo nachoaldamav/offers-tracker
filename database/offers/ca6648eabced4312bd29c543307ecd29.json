@@ -91,7 +91,22 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "gravity-circuit-489baa",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "gravity-circuit-gravity-circuit-plus-ost-109e87",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "gravity-circuit-gravity-circuit-soundtrack-bbc5fe",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "gravity-circuit-489baa",
@@ -100,7 +115,28 @@
   ],
   "developerDisplayName": "Domesticated Ant Games",
   "publisherDisplayName": "PID Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 849,
+      "originalPrice": 1699,
+      "voucherDiscount": 0,
+      "discount": 850,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "c88c973b9aac46369277734be1bf32a2"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-07-13T18:00:00.000Z",
   "pcReleaseDate": "2023-07-13T18:00:00.000Z",

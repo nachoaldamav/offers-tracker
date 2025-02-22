@@ -87,7 +87,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "battle-chess-83c4f8",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "battle-chess-battle-chess-enhanced-4f8151",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "battle-chess-83c4f8",
@@ -96,28 +107,7 @@
   ],
   "developerDisplayName": "Interplay Entertainment Corp.",
   "publisherDisplayName": "Interplay Entertainment Corp.",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 799,
-      "originalPrice": 999,
-      "voucherDiscount": 0,
-      "discount": 200,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "e9910cadcd774327acf7e8b4ad0d2bfd"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2022-07-01T16:00:00.000Z",
   "pcReleaseDate": "2022-07-01T16:00:00.000Z",
