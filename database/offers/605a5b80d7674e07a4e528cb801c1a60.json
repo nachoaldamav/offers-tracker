@@ -151,18 +151,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "12-12-2025-5a260d",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "12-12-2025-faq-e58188",
-        "pageType": "info"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "12-12-2025-5a260d",
@@ -171,7 +160,24 @@
   ],
   "developerDisplayName": "Alexander Zmeev",
   "publisherDisplayName": "Alexander Zmeev",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-01-15T22:00:00.000Z",
   "pcReleaseDate": "2025-01-15T22:00:00.000Z",

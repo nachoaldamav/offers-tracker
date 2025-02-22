@@ -95,22 +95,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "killer-frequency-98d436",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "killer-frequency-killer-frequency-original-soundtrack-e9f98d",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "killer-frequency-killer-frequency-deluxe-edition-dbb3af",
-        "pageType": "offer"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "killer-frequency-98d436",
@@ -119,7 +104,28 @@
   ],
   "developerDisplayName": "Team17",
   "publisherDisplayName": "Team17",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 1000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "823498dbeb3a43f18b226a41b5ad99fc"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-02-10T16:00:00.000Z",
   "pcReleaseDate": "2023-06-01T10:00:00.000Z",
