@@ -99,7 +99,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "funtasia-furry-road-bd0756",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "funtasia-furry-road-bd0756",
@@ -108,28 +115,7 @@
   ],
   "developerDisplayName": "Fantastico Studio",
   "publisherDisplayName": "Freedom Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 449,
-      "originalPrice": 1499,
-      "voucherDiscount": 0,
-      "discount": 1050,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "3c294441634d492bb99881abbf75bb2f"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2022-09-29T16:00:00.000Z",
   "pcReleaseDate": "2022-09-29T16:00:00.000Z",
