@@ -126,8 +126,23 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "kingdoms-of-amalur-re-reckoning",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "kingdoms-of-amalur-re-reckoning--fate-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "kingdoms-of-amalur-re-reckoning--fatesworn",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
   "price": null,
