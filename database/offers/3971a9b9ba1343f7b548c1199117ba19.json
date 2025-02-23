@@ -126,32 +126,26 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": null,
-  "publisherDisplayName": null,
-  "price": {
-    "totalPrice": {
-      "discountPrice": 999,
-      "originalPrice": 3999,
-      "voucherDiscount": 0,
-      "discount": 3000,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": [
-          {
-            "id": "753b22c45780443da58a7580eb8abbea"
-          }
-        ]
+        "pageSlug": "kingdoms-of-amalur-re-reckoning",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "kingdoms-of-amalur-re-reckoning--fate-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "kingdoms-of-amalur-re-reckoning--fatesworn",
+        "pageType": "addon--cms-hybrid"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2020-09-08T17:00:00.000Z",
   "pcReleaseDate": "2020-09-08T17:00:00.000Z",
