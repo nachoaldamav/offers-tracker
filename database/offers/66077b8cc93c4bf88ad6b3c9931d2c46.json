@@ -91,11 +91,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "class-of-09-b7c7ab",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "class-of-09-b7c7ab",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "SBN3",
   "publisherDisplayName": "MediBang",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "3b2fc3e1557748c9af5f6b28b9fbb2ba"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-28T07:00:00.000Z",
   "pcReleaseDate": "2021-06-11T07:00:00.000Z",
