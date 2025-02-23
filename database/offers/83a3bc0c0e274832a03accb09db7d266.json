@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "creationDate": "2025-02-22T21:31:48.404Z",
-  "lastModifiedDate": "2025-02-22T21:31:48.404Z",
+  "lastModifiedDate": "2025-02-23T17:53:32.136Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -167,7 +167,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "flight-737-maximum-773394",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "flight-737-maximum-773394",
@@ -178,14 +185,14 @@
   "publisherDisplayName": "idris Celik",
   "price": null,
   "prePurchase": null,
-  "releaseDate": "2025-02-28T00:00:00.000Z",
+  "releaseDate": "2025-02-23T00:00:00.000Z",
   "pcReleaseDate": "2022-03-21T22:00:00.000Z",
   "viewableDate": "2025-02-22T21:31:32.000Z",
   "approximateReleasePlan": {
-    "day": null,
+    "day": 23,
     "month": 2,
     "quarter": null,
     "year": 2025,
-    "releaseDateType": "BY_MONTH"
+    "releaseDateType": "BY_DATE"
   }
 }
