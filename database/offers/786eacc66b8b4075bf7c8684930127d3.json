@@ -110,30 +110,32 @@
       "path": "applications"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "scourgebringer--soundtrack",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "scourgebringer--supporter-bundle",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "scourgebringer",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "scourgebringer--supporter-pack",
-        "pageType": "offer"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 424,
+      "originalPrice": 1699,
+      "voucherDiscount": 0,
+      "discount": 1275,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "cd4c1fa129af458cad93484aab71fe41"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-10-21T14:00:00.000Z",
   "pcReleaseDate": "2020-10-21T14:00:00.000Z",
