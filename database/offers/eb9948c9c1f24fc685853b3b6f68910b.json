@@ -87,11 +87,48 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-saviors-gang-faq-dea459",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "the-saviors-gang-959fd2",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "the-saviors-gang-959fd2",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Catness Game Studios",
   "publisherDisplayName": "Catness Game Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 800,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "c1c5af7254324e089e08af6a67e62b73"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-28T13:00:00.000Z",
   "pcReleaseDate": "2019-03-02T09:00:00.000Z",
