@@ -142,11 +142,63 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "wrc-8--wrc-8-legendary-car-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wrc-8--wrc-8-rwd-legends",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wrc-8--wrc-8-lancia-delta-hf-integrale-evoluzione",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wrc-8--wrc-8-alpine-a110",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wrc-8--wrc-8-ford-escort-mkii1800",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wrc-8--wrc-8-senior-staff-members-unlock",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wrc-8",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "wrc-8--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2019-09-05T15:00:00.000Z",
   "pcReleaseDate": null,
