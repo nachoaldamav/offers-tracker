@@ -106,32 +106,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": null,
-  "publisherDisplayName": null,
-  "price": {
-    "totalPrice": {
-      "discountPrice": 499,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 1500,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": [
-          {
-            "id": "bac1279c52b94d87845fddae9cdb15bf"
-          }
-        ]
+        "pageSlug": "shadowrun-hong-kong--extended-edition-deluxe",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "shadowrun-hong-kong",
+        "pageType": "productHome"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2020-08-27T15:00:00.000Z",
   "pcReleaseDate": null,
