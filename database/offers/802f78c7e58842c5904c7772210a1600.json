@@ -99,14 +99,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "chicken-journey-415550",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "chicken-journey-415550",
@@ -115,7 +108,28 @@
   ],
   "developerDisplayName": "loonyware",
   "publisherDisplayName": "loonyware",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 649,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 350,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "447aaa35ab494cfbbe871221589c41c0"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-08-31T20:00:00.000Z",
   "pcReleaseDate": "2023-08-22T16:00:00.000Z",
