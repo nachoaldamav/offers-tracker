@@ -114,8 +114,20 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "jackbox-party-starter",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "jackbox-party-starter",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Jackbox Games, Inc.",
   "publisherDisplayName": "Jackbox Games, Inc.",
   "price": null,
