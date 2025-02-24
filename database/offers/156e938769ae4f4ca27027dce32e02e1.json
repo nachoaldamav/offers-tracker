@@ -103,7 +103,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-story-goes-on-f8a65a",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-story-goes-on-f8a65a",
@@ -112,7 +119,24 @@
   ],
   "developerDisplayName": "Scarecrow Arts",
   "publisherDisplayName": "Scarecrow Arts",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-02T14:00:00.000Z",
   "pcReleaseDate": "2018-03-02T14:00:00.000Z",
