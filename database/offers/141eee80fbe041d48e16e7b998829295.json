@@ -154,30 +154,32 @@
       "path": "applications"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "hundred-days-winemaking-simulator",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "hundred-days-winemaking-simulator--demo",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "hundred-days-wine-simulator--grape-lab",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "hundred-days-wine-simulator--napa-valley",
-        "pageType": "addon--cms-hybrid"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 849,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 1650,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "50da72ea5db1425dbe4499c9b51317db"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-05-13T14:00:00.000Z",
   "pcReleaseDate": null,
