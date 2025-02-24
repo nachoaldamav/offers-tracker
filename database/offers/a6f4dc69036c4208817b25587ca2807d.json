@@ -94,32 +94,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": null,
-  "publisherDisplayName": null,
-  "price": {
-    "totalPrice": {
-      "discountPrice": 399,
-      "originalPrice": 999,
-      "voucherDiscount": 0,
-      "discount": 600,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": [
-          {
-            "id": "e9a2dca96f014ace9c8efb6bf72bae85"
-          }
-        ]
+        "pageSlug": "doom-3",
+        "pageType": "productHome"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2022-08-18T15:00:00.000Z",
   "pcReleaseDate": "2004-08-03T12:00:00.000Z",
