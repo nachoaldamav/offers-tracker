@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-09-22T17:00:00.000Z",
   "creationDate": "2021-06-10T22:54:55.648Z",
-  "lastModifiedDate": "2025-02-10T16:01:07.566Z",
+  "lastModifiedDate": "2025-02-24T16:01:18.077Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -62,10 +62,6 @@
     {
       "id": "21127",
       "name": "Creative Community"
-    },
-    {
-      "id": "39911",
-      "name": "Winter Sale"
     },
     {
       "id": "21130",
@@ -146,7 +142,26 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "slime-rancher-2--original-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "slime-rancher-2--game-and-soundtrack-bundle",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "slime-rancher-2--early-access-faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "slime-rancher-2",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
