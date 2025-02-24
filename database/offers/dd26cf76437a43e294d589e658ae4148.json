@@ -95,11 +95,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "train-valley-ead642",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "train-valley-train-valley-germany-pack-2b313d",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "train-valley-ead642",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Flazm",
   "publisherDisplayName": "META Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 179,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 820,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "dca94914084c41b99fba7bc7d22a97e4"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-04-27T14:00:00.000Z",
   "pcReleaseDate": "2015-09-16T00:00:00.000Z",
