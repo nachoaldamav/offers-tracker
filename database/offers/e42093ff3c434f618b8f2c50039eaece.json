@@ -130,11 +130,67 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "immortals-fenyx-rising--myths-of-the-eastern-realm",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "immortals-fenyx-rising--ulimate-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "immortals-fenyx-rising--season-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "immortals-fenyx-rising--the-lost-gods",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "immortals-fenyx-rising--a-new-god",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "immortals-fenyx-rising--starter-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "immortals-fenyx-rising",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "immortals-fenyx-rising--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "immortals-fenyx-rising--gold-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": false,
   "releaseDate": "2020-12-03T16:00:00.000Z",
   "pcReleaseDate": "2020-12-03T16:00:00.000Z",
