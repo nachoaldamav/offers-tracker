@@ -78,8 +78,23 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-expanse-a-telltale-series",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-expanse-a-telltale-series--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-expanse-a-telltale-series--archangel",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Deck Nine",
   "publisherDisplayName": "Telltale, Inc.",
   "price": null,
