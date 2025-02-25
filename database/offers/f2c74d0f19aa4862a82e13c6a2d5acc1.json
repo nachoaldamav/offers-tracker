@@ -79,7 +79,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "urban-trial-playground-41e403",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "urban-trial-playground-41e403",
@@ -88,24 +95,7 @@
   ],
   "developerDisplayName": "Tate Multimedia, Teyon",
   "publisherDisplayName": "Tate Multimedia",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 699,
-      "originalPrice": 699,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2022-05-13T13:00:00.000Z",
   "pcReleaseDate": "2019-04-05T00:00:00.000Z",
