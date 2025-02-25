@@ -6,20 +6,32 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-08-13T15:00:00.000Z",
   "creationDate": "2020-05-27T21:28:54.750Z",
-  "lastModifiedDate": "2025-02-24T16:01:14.751Z",
+  "lastModifiedDate": "2025-02-25T14:43:15.605Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/663e521f2a444199be58152fd93fa66e/offer/EGS_RemnantFromtheAshes_GunfireGames_S2-1200x1600-394c6f196cf496047862762b3cc0c2a9.jpg"
-    },
     {
       "type": "OfferImageWide",
       "url": "https://cdn1.epicgames.com/663e521f2a444199be58152fd93fa66e/offer/EGS_RemnantFromtheAshes_GunfireGames_S1-2560x1440-7263019d76982af81d67ed2c1c0e7c7b.jpg"
     },
     {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/663e521f2a444199be58152fd93fa66e/offer/EGS_RemnantFromtheAshes_GunfireGames_S2-1200x1600-394c6f196cf496047862762b3cc0c2a9.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/663e521f2a444199be58152fd93fa66e/offer/EGS_RemnantFromtheAshes_GunfireGames_S2-1200x1600-394c6f196cf496047862762b3cc0c2a9.jpg"
+    },
+    {
       "type": "Thumbnail",
       "url": "https://cdn1.epicgames.com/663e521f2a444199be58152fd93fa66e/offer/EGS_RemnantFromtheAshes_GunfireGames_S2-1200x1600-394c6f196cf496047862762b3cc0c2a9.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/663e521f2a444199be58152fd93fa66e/offer/EGS_RemnantFromtheAshes_GunfireGames_S2-1200x1600-394c6f196cf496047862762b3cc0c2a9.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/663e521f2a444199be58152fd93fa66e/offer/EGS_RemnantFromtheAshes_GunfireGames_S1-2560x1440-7263019d76982af81d67ed2c1c0e7c7b.jpg"
     }
   ],
   "currentPrice": 3999,
@@ -50,6 +62,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     },
     {
       "id": "1264",
@@ -117,20 +133,20 @@
   "catalogNs": {
     "mappings": [
       {
-        "pageSlug": "remnant-from-the-ashes",
-        "pageType": "productHome"
-      },
-      {
         "pageSlug": "remnant-from-the-ashes--subject-2923",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "remnant-from-the-ashes--swamps-of-corsus",
-        "pageType": "offer"
+        "pageType": "addon--cms-hybrid"
       },
       {
         "pageSlug": "remnant-from-the-ashes--complete-edition",
         "pageType": "offer"
+      },
+      {
+        "pageSlug": "remnant-from-the-ashes",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "remnant-from-the-ashes--swamps-of-corsus",
+        "pageType": "addon--cms-hybrid"
       }
     ]
   },
