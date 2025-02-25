@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-05-26T17:00:00.000Z",
   "creationDate": "2023-03-19T00:41:11.572Z",
-  "lastModifiedDate": "2024-12-31T22:21:16.612Z",
+  "lastModifiedDate": "2025-02-25T16:00:31.915Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "10719",
@@ -121,10 +125,10 @@
   "publisherDisplayName": "Lost Abroad",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 399,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 100,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +137,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "0261b6cf366a40dfbf94ad1eed156f17"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-11-05T22:00:00.000Z",
   "creationDate": "2023-05-11T12:25:45.404Z",
-  "lastModifiedDate": "2024-12-10T16:01:09.010Z",
+  "lastModifiedDate": "2025-02-25T16:00:31.913Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "10719",
@@ -117,10 +121,10 @@
   "publisherDisplayName": "Skydome Entertainment Oy",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 749,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 750,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "ba5ad72240f849aabd1ee45e23379e24"
+          }
+        ]
       }
     ]
   },

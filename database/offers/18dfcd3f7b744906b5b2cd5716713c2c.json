@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-11-01T12:00:00.000Z",
   "creationDate": "2023-03-19T05:01:18.459Z",
-  "lastModifiedDate": "2025-01-21T16:00:30.690Z",
+  "lastModifiedDate": "2025-02-25T16:00:31.914Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "9549",
@@ -121,10 +125,10 @@
   "publisherDisplayName": "Mana Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 899,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2100,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +137,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "a457869bb75443ce885b7e0f2947e0ef"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-01-20T17:30:00.000Z",
   "creationDate": "2023-03-10T11:08:08.349Z",
-  "lastModifiedDate": "2025-01-21T16:00:31.261Z",
+  "lastModifiedDate": "2025-02-25T16:00:33.352Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "9549",
@@ -113,10 +117,10 @@
   "publisherDisplayName": "Blackburne Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 299,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1700,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "d3760f9cfda04b80a98493e2f2b96ac0"
+          }
+        ]
       }
     ]
   },

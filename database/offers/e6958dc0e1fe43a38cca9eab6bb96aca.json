@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-09-13T13:00:00.000Z",
   "creationDate": "2024-05-27T11:06:44.464Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.485Z",
+  "lastModifiedDate": "2025-02-25T16:00:31.914Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1117",
@@ -117,10 +121,10 @@
   "publisherDisplayName": "HypeTrain Digital",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 1199,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 300,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "9fb565a9da714c598e33b4f395f9de85"
+          }
+        ]
       }
     ]
   },
