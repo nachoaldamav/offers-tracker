@@ -127,11 +127,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "speedborn-faq-549c3d",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "speedborn-9af387",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "speedborn-9af387",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Vault Games",
   "publisherDisplayName": "Vault Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-02-11T09:00:00.000Z",
   "pcReleaseDate": "2025-02-11T09:00:00.000Z",
