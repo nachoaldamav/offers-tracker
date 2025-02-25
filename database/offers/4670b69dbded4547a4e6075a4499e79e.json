@@ -87,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "dark-fantasy-jigsaw-puzzle-12769c",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "dark-fantasy-jigsaw-puzzle-12769c",
@@ -96,7 +103,28 @@
   ],
   "developerDisplayName": "NAISU",
   "publisherDisplayName": "NAISU",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 149,
+      "originalPrice": 299,
+      "voucherDiscount": 0,
+      "discount": 150,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "e18565c34c874b8f8221832922c8a38e"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-08-04T03:00:00.000Z",
   "pcReleaseDate": "2018-11-16T06:00:00.000Z",
