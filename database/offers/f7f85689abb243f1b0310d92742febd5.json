@@ -131,7 +131,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "screamer-c51829",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "screamer-c51829",
@@ -140,7 +147,24 @@
   ],
   "developerDisplayName": "Milestone S.r.l.",
   "publisherDisplayName": "Milestone S.r.l.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 6999,
+      "originalPrice": 6999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2026-12-31T00:00:00.000Z",
   "pcReleaseDate": "2026-12-31T00:00:00.000Z",
