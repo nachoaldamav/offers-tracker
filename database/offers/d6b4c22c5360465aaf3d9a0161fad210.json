@@ -146,11 +146,67 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "assassins-creed-valhalla--the-siege-of-paris",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "assassins-creed-valhalla--season-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "assassins-creed-valhalla",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "assassins-creed-valhalla--wrath-of-the-druids",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "assassins-creed-valhalla--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-valhalla--ragnarok-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-valhalla--dawn-of-ragnarok",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "assassins-creed-valhalla--assassins-creed-valhalla-faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "assassins-creed-valhalla--complete-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 5999,
+      "originalPrice": 5999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": false,
   "releaseDate": "2020-11-17T15:00:00.000Z",
   "pcReleaseDate": null,
