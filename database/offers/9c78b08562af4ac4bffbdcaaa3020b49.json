@@ -122,7 +122,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "going-medieval--going-medieval-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "going-medieval--early-access-faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "going-medieval",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Foxy Voxel",
   "publisherDisplayName": "Mythwright",
