@@ -122,8 +122,19 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "uncharted-legacy-of-thieves-collection",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "uncharted-legacy-of-thieves-collection--faq",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Naughty Dog LLC",
   "publisherDisplayName": "PlayStation Publishing LLC",
   "price": null,
