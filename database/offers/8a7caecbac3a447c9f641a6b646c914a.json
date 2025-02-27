@@ -79,7 +79,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "he-will-shoot-46efff",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "he-will-shoot-46efff",
@@ -88,7 +95,24 @@
   ],
   "developerDisplayName": "Boom Games",
   "publisherDisplayName": "Boom Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 199,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-12-15T21:00:00.000Z",
   "pcReleaseDate": "2021-12-15T21:00:00.000Z",
