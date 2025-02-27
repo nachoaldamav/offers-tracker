@@ -118,7 +118,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "undying--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "undying",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Vanimals",
   "publisherDisplayName": "Skystone Games Inc.",
