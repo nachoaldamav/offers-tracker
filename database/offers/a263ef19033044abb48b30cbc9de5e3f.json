@@ -87,13 +87,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "tokyo-waning-moon-3d5c44",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tokyo-waning-moon-3d5c44",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "tokyo-waning-moon-faq-55983c",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Midnight Cupcakes",
   "publisherDisplayName": "Midnight Cupcakes",
   "price": null,
