@@ -83,7 +83,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "golf-club-wasteland-f6771e",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "golf-club-wasteland-f6771e",
@@ -92,24 +99,7 @@
   ],
   "developerDisplayName": "Demagog Studio",
   "publisherDisplayName": "Untold Tales S.A.",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 999,
-      "originalPrice": 999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2021-09-03T08:00:00.000Z",
   "pcReleaseDate": "2021-09-03T19:00:00.000Z",
