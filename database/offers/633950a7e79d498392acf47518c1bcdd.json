@@ -146,8 +146,23 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "f1-24",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "f1-24--champions-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "f1-24--champions-upgrade",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Codemasters",
   "publisherDisplayName": "Electronic Arts",
   "price": null,
