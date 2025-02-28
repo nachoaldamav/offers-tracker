@@ -143,32 +143,22 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": "HypeTrain Digital",
-  "publisherDisplayName": "HypeTrain Digital",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 2249,
-      "originalPrice": 2999,
-      "voucherDiscount": 0,
-      "discount": 750,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": [
-          {
-            "id": "70356fd660b44938a948b97957c79f78"
-          }
-        ]
+        "pageSlug": "voidtrain--early-access-faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "voidtrain",
+        "pageType": "productHome"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": "HypeTrain Digital",
+  "publisherDisplayName": "HypeTrain Digital",
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2021-08-12T17:00:00.000Z",
   "pcReleaseDate": "2021-08-12T17:00:00.000Z",
