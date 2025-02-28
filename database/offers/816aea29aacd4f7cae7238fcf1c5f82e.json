@@ -127,11 +127,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "arenaoffaith-bed423",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "arenaoffaith-faq-20d5d7",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "arenaoffaith-bed423",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "HK Super eSports Technology Co., Limited",
   "publisherDisplayName": "HK Super eSports Technology Co., Limited",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-19T16:00:00.000Z",
   "pcReleaseDate": "2024-09-30T16:00:00.000Z",
