@@ -103,14 +103,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "dungeons-of-hinterberg-854b1e",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "dungeons-of-hinterberg-854b1e",
@@ -121,10 +114,10 @@
   "publisherDisplayName": "Curve Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 1499,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +126,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "e22f61b4c4224c5da663dda82817f61e"
+          }
+        ]
       }
     ]
   },
