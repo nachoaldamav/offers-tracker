@@ -87,7 +87,22 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "flintlock-the-siege-of-dawn-210044",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "flintlock-the-siege-of-dawn-flintlock-the-siege-of-dawn-–-deluxe-edition-4eae64",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "flintlock-the-siege-of-dawn-flintlockdlc1-016812",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "flintlock-the-siege-of-dawn-210044",
@@ -96,7 +111,24 @@
   ],
   "developerDisplayName": "A44 Games",
   "publisherDisplayName": "Kepler Interactive",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-07-18T07:00:00.000Z",
   "pcReleaseDate": "2024-07-18T07:00:00.000Z",
