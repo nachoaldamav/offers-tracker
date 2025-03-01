@@ -95,7 +95,22 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "cant-be-touch-7e87e8",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "cant-be-touch-faq-142852",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "cant-be-touch-cant-be-touched-test-adc9ea",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "cant-be-touch-7e87e8",
@@ -104,7 +119,24 @@
   ],
   "developerDisplayName": "KATSU",
   "publisherDisplayName": "DZTFIX STUDIO",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",
