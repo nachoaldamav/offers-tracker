@@ -86,8 +86,27 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "scorn",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "scorn--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "scorn--original-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "scorn--digital-artbook",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
   "price": null,
