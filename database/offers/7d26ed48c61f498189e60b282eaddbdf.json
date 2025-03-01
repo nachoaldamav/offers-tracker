@@ -166,7 +166,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "verdun--supporter-edition",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "verdun",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": "BlackMill Games B.V.",
