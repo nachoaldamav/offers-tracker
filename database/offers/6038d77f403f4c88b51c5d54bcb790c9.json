@@ -91,11 +91,48 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "trigon-ce1936",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "trigon-trigon-space-story-deluxe-dlc-647796",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "trigon-ce1936",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Sernur.tech",
   "publisherDisplayName": "Gameforge 4D GmbH",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 599,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "dcbe193587db44a0bb87354dede1f028"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-04-28T12:00:00.000Z",
   "pcReleaseDate": "2022-04-28T12:00:00.000Z",
