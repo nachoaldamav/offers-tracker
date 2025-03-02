@@ -95,8 +95,24 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "solars-dominion-200fd8",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "solars-dominion-faq-111795",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "solars-dominion-200fd8",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Solar Dex",
   "publisherDisplayName": "Solar",
   "price": null,
