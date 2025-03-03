@@ -84,8 +84,19 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "diabotical-rogue--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "diabotical-rogue",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "GD Studio",
   "publisherDisplayName": "GD Studio",
   "price": null,
