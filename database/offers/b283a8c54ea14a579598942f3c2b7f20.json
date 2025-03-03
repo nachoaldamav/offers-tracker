@@ -102,11 +102,75 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "worms-rumble--legends-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "worms-rumble",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "worms-rumble--digital-deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "worms-rumble--armageddon-weapon-skin-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "worms-rumble--spaceworm-and-alien-double-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "worms-rumble--emote-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "worms-rumble--honor-and-death-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "worms-rumble--captain-and-shark-double-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "worms-rumble--bank-heist-double-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "worms-rumble--action-all-stars-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "worms-rumble--cats-and-dogs-double-pack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-06-23T18:00:00.000Z",
   "pcReleaseDate": "2020-12-01T11:00:00.000Z",
