@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-10-28T23:00:00.000Z",
   "creationDate": "2024-08-28T19:12:32.581Z",
-  "lastModifiedDate": "2025-02-02T20:30:13.874Z",
+  "lastModifiedDate": "2025-03-04T16:00:31.161Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -92,6 +92,10 @@
       "name": "Windows"
     },
     {
+      "id": "29899",
+      "name": "Deals of the Week"
+    },
+    {
       "id": "1151",
       "name": "Platformer"
     },
@@ -161,10 +165,10 @@
   "publisherDisplayName": "Daefiant Armory GS",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 699,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 300,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -173,7 +177,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "e66fc73863b0469bae7894e46bae414c"
+          }
+        ]
       }
     ]
   },
