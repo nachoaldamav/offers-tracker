@@ -95,7 +95,18 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "nova-lands-nova-lands-prologue-2fcdcc",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "nova-lands-4d1788",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "nova-lands-4d1788",
@@ -104,7 +115,28 @@
   ],
   "developerDisplayName": "BEHEMUTT",
   "publisherDisplayName": "HypeTrain Digital",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1099,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 900,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "972d2632d65f4cbfad3126cb24c39838"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-22T17:00:00.000Z",
   "pcReleaseDate": "2023-06-22T17:00:00.000Z",
