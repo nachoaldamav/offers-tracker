@@ -138,7 +138,46 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "blazing-sails--crab-lord-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "blazing-sails--undead-pirate-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "blazing-sails--barbary-corsair-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "blazing-sails--original-soundtrack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "blazing-sails",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "blazing-sails--limbs-of-lore-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "blazing-sails--supporters-bundle",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "blazing-sails--privateer-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "blazing-sails--conquistador-pack",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "blazing-sails",
@@ -147,7 +186,24 @@
   ],
   "developerDisplayName": "Get Up Games",
   "publisherDisplayName": "Iceberg Interactive",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-12T15:00:00.000Z",
   "pcReleaseDate": "2020-11-05T15:00:00.000Z",
