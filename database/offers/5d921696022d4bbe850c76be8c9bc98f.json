@@ -142,8 +142,19 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sunless-sea--zubmariner",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "sunless-sea",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
   "price": null,
