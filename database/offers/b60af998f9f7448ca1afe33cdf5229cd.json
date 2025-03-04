@@ -90,7 +90,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "gangs-of-sherwood",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "gangs-of-sherwood--lionheart-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Appeal Studio",
   "publisherDisplayName": "Nacon",
