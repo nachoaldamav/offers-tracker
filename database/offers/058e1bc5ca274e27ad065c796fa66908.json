@@ -143,14 +143,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "fate-reawakened-dab2fa",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "fate-reawakened-dab2fa",
@@ -159,7 +152,24 @@
   ],
   "developerDisplayName": "gamigo US, Inc.",
   "publisherDisplayName": "gamigo US, Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-03-11T23:00:00.000Z",
   "pcReleaseDate": "2025-03-11T23:00:00.000Z",
