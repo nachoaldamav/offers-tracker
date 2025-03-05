@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "creationDate": "2025-01-06T22:25:39.695Z",
-  "lastModifiedDate": "2025-01-20T21:12:29.341Z",
+  "lastModifiedDate": "2025-03-05T15:09:12.027Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -20,6 +20,10 @@
     {
       "type": "Thumbnail",
       "url": "https://cdn1.epicgames.com/spt-assets/66ff4216e2df4e56bda7e88c382da75a/corrigendum-1cqnq.png"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/66ff4216e2df4e56bda7e88c382da75a/corrigendum-fcafe.png"
     },
     {
       "type": "featuredMedia",
@@ -105,7 +109,7 @@
     },
     {
       "key": "isPromotionalContentUsed",
-      "value": "null"
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",
@@ -127,7 +131,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "corrigendum-faq-001731",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "corrigendum-2b15ec",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "corrigendum-2b15ec",
