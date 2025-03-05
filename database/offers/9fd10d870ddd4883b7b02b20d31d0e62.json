@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "creationDate": "2023-06-23T13:05:22.158Z",
-  "lastModifiedDate": "2024-11-13T16:33:09.158Z",
+  "lastModifiedDate": "2025-03-05T19:58:54.744Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -183,16 +183,33 @@
   ],
   "developerDisplayName": "Romain Maurel, Jérémy Gardier",
   "publisherDisplayName": "Twin Suns",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
-  "releaseDate": "2025-02-28T00:00:00.000Z",
-  "pcReleaseDate": "2025-02-28T00:00:00.000Z",
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2023-07-31T07:00:00.000Z",
   "approximateReleasePlan": {
     "day": null,
-    "month": 2,
+    "month": null,
     "quarter": null,
-    "year": 2025,
-    "releaseDateType": "BY_MONTH"
+    "year": null,
+    "releaseDateType": "UNKNOWN"
   }
 }

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "creationDate": "2024-02-29T11:58:58.507Z",
-  "lastModifiedDate": "2025-02-25T08:37:50.942Z",
+  "lastModifiedDate": "2025-03-05T19:58:54.437Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -107,16 +107,33 @@
   ],
   "developerDisplayName": "ArtDock",
   "publisherDisplayName": "ArtDock",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
-  "releaseDate": "2025-02-28T00:00:00.000Z",
-  "pcReleaseDate": "2025-02-28T00:00:00.000Z",
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2024-06-27T08:00:22.865Z",
   "approximateReleasePlan": {
-    "day": 28,
-    "month": 2,
+    "day": null,
+    "month": null,
     "quarter": null,
-    "year": 2025,
-    "releaseDateType": "BY_DATE"
+    "year": null,
+    "releaseDateType": "UNKNOWN"
   }
 }
