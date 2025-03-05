@@ -175,8 +175,24 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "space-outpost-silicon-one-e41922",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "space-outpost-silicon-one-faq-980acf",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "space-outpost-silicon-one-e41922",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "SiliconZero",
   "publisherDisplayName": "SiliconZero",
   "price": null,
