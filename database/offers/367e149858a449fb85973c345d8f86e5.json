@@ -90,8 +90,19 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "atomfall--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "atomfall",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Rebellion",
   "publisherDisplayName": "Rebellion",
   "price": null,
