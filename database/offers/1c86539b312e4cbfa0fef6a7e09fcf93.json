@@ -95,14 +95,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "ninja-kato-3-76c9c5",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "ninja-kato-3-76c9c5",
@@ -111,7 +104,28 @@
   ],
   "developerDisplayName": "KIBODO, KIBODO GAMES",
   "publisherDisplayName": "KIBODO",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 175,
+      "originalPrice": 350,
+      "voucherDiscount": 0,
+      "discount": 175,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "ef271e8296ad4e8eb9b84677e470405a"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-04-21T15:00:00.000Z",
   "pcReleaseDate": "2024-04-21T15:00:00.000Z",
