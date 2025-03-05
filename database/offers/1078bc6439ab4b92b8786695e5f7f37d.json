@@ -86,8 +86,19 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "two-point-hospital--full-health-collection",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "two-point-hospital",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Two Point Studios",
   "publisherDisplayName": "SEGA",
   "price": null,
