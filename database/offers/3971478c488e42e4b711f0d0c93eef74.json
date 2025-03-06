@@ -95,8 +95,24 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "brand-new-world-cedac8",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "brand-new-world-faq-7125c1",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "brand-new-world-cedac8",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "LandS Studio",
   "publisherDisplayName": "LandS Studio",
   "price": null,
