@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "creationDate": "2025-03-06T14:41:25.922Z",
-  "lastModifiedDate": "2025-03-06T14:41:25.922Z",
+  "lastModifiedDate": "2025-03-06T20:11:01.595Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -112,6 +112,10 @@
       "name": "Fantasy"
     },
     {
+      "id": "19847",
+      "name": "Achievements"
+    },
+    {
       "id": "1370",
       "name": "Single Player"
     },
@@ -175,7 +179,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "paladins-passage-5ab676",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "paladins-passage-5ab676",
@@ -184,7 +195,24 @@
   ],
   "developerDisplayName": "Bent Vector Studios, Inc.",
   "publisherDisplayName": "Bent Vector Studios, Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-02-28T00:00:00.000Z",
   "pcReleaseDate": "2023-08-22T22:00:00.000Z",
