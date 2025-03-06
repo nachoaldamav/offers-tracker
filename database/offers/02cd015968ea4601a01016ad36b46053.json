@@ -69,7 +69,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "assassins-creed-shadows",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "assassins-creed-shadows--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Ubisoft Entertainment",
   "publisherDisplayName": "Ubisoft Entertainment",
