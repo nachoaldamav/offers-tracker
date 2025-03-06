@@ -111,7 +111,30 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "hardspace-shipbreaker",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "hardspace-shipbreaker--original-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "hardspace-shipbreaker--ost-bundle",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hardspace-shipbreaker--digital-artbook",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "hardspace-shipbreaker--game-ost-artbook",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Blackbird Interactive",
   "publisherDisplayName": "Blackbird Interactive",
