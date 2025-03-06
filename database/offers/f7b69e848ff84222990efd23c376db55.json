@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-03-04T19:36:41.000Z",
   "creationDate": "2022-09-26T12:10:38.995Z",
-  "lastModifiedDate": "2025-02-24T16:01:17.424Z",
+  "lastModifiedDate": "2025-03-06T14:09:26.982Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -112,6 +112,10 @@
       "value": "true"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
+    {
       "key": "isManuallySetPCReleaseDate",
       "value": "false"
     },
@@ -131,7 +135,26 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-thaumaturge-3d7b2c",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-thaumaturge-the-thaumaturge-original-soundtrack-1dc7ef",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-thaumaturge-the-thaumaturge-digital-deluxe-edition-30926c",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-thaumaturge-the-thaumaturge-digital-deluxe-content-01e851",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-thaumaturge-3d7b2c",
