@@ -191,10 +191,10 @@
   "publisherDisplayName": "Maximum Entertainment LLC",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 0,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1999,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -203,7 +203,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "fbbf86292a2e4552a7b85c2c3f17c56b"
+          }
+        ]
       }
     ]
   },
