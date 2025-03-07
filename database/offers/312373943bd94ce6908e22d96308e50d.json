@@ -99,14 +99,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "night-book-77f2c7",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "night-book-77f2c7",
@@ -115,7 +108,28 @@
   ],
   "developerDisplayName": "Wales Interactive, Good Gate Media",
   "publisherDisplayName": "Wales Interactive",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 779,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 520,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "657e357b60eb461cae3d51e9bfd18358"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-11-18T05:00:00.000Z",
   "pcReleaseDate": "2021-07-27T17:00:00.000Z",
