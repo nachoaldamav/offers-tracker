@@ -99,7 +99,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "shelter-an-elephant-adventure-soundtrack-d2c18d",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "shelter-an-elephant-adventure-0dd0a0",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "shelter-an-elephant-adventure-0dd0a0",
@@ -108,24 +119,7 @@
   ],
   "developerDisplayName": "Might and Delight",
   "publisherDisplayName": "Might and Delight",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 799,
-      "originalPrice": 799,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2021-03-30T17:00:00.000Z",
