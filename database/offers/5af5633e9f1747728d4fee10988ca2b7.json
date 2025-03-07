@@ -47,7 +47,10 @@
       "id": "1121",
       "name": "Space"
     },
-    null,
+    {
+      "id": "21122",
+      "name": "Diverse Characters"
+    },
     {
       "id": "1188",
       "name": "RELAXING"
@@ -64,7 +67,10 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
     {
       "id": "21138",
       "name": "Recommend this Game"
@@ -140,11 +146,55 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-outer-worlds--non-mandatory-corporate-sponsored-bundle",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-outer-worlds",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-outer-worlds--murder-on-eridanos",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-outer-worlds--expansion-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-outer-worlds--original-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-outer-worlds--peril-on-gorgon",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2019-10-25T15:00:00.000Z",
   "pcReleaseDate": "2019-10-25T15:00:00.000Z",

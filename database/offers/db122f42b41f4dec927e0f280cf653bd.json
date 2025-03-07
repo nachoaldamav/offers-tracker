@@ -43,7 +43,10 @@
   "urlSlug": "loop-hero",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "21122",
+      "name": "Diverse Characters"
+    },
     {
       "id": "1188",
       "name": "RELAXING"
@@ -60,7 +63,10 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
+    {
+      "id": "1263",
+      "name": "Indie"
+    },
     {
       "id": "21137",
       "name": "Unique Visuals"
@@ -127,11 +133,35 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "loop-hero",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-03-04T18:00:00.000Z",
   "pcReleaseDate": "2021-03-04T18:00:00.000Z",

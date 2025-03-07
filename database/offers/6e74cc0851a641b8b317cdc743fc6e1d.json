@@ -62,6 +62,14 @@
     {
       "id": "22924",
       "name": "Raw Fury Publisher Sale"
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
+    {
+      "id": "1263",
+      "name": "Indie"
     }
   ],
   "items": [
@@ -102,11 +110,47 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "star-renegades",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "star-renegades--ost",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "star-renegades--artbook",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "star-renegades--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-03-04T16:00:00.000Z",
   "pcReleaseDate": null,

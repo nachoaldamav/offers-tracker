@@ -62,6 +62,10 @@
     {
       "id": "1212",
       "name": "Racing"
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support"
     }
   ],
   "items": [
@@ -102,11 +106,59 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "overpass--yamaha-special-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "overpass--expert-vehicles-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "overpass--smart-start-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "overpass--drive-with-style",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "overpass",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "overpass--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 3600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "ca5ebff3251c4b99a8d9c31a91dc7595"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-02-27T16:00:00.000Z",
   "pcReleaseDate": null,

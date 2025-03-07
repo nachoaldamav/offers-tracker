@@ -47,7 +47,10 @@
       "id": "1281",
       "name": "Space Sim"
     },
-    null,
+    {
+      "id": "21122",
+      "name": "Diverse Characters"
+    },
     {
       "id": "1188",
       "name": "RELAXING"
@@ -68,7 +71,10 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
     {
       "id": "21137",
       "name": "Unique Visuals"
@@ -140,11 +146,43 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "outerwilds--echoes-of-the-eye",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "outerwilds",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "outerwilds--archaeologist-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2019-05-28T15:00:00.000Z",
   "pcReleaseDate": null,

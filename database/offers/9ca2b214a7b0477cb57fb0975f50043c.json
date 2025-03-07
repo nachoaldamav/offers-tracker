@@ -43,8 +43,14 @@
   "urlSlug": "torchlight-ii",
   "url": null,
   "tags": [
-    null,
-    null,
+    {
+      "id": "1216",
+      "name": "Action"
+    },
+    {
+      "id": "21122",
+      "name": "Diverse Characters"
+    },
     {
       "id": "1188",
       "name": "RELAXING"
@@ -144,11 +150,35 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "torchlight-2",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Runic Games",
   "publisherDisplayName": "Arc Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-07-16T15:00:00.000Z",
   "pcReleaseDate": null,

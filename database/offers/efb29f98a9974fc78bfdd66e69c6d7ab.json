@@ -35,7 +35,10 @@
   "urlSlug": "empiresoftheundergrowth",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "21122",
+      "name": "Diverse Characters"
+    },
     {
       "id": "1188",
       "name": "RELAXING"
@@ -163,7 +166,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "empires-of-the-undergrowth--early-access-faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "empires-of-the-undergrowth",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "empires-of-the-undergrowth",
@@ -172,7 +186,24 @@
   ],
   "developerDisplayName": "Slug Disco",
   "publisherDisplayName": "Hooded Horse Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-10-28T14:00:00.000Z",
   "pcReleaseDate": "2020-10-28T14:00:00.000Z",
