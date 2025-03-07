@@ -85,11 +85,67 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "taxi-life-a-city-driving-simulator--christmas-cosmetic-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "taxi-life-a-city-driving-simulator--delivery-driver",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "taxi-life-a-city-driving-simulator--summer-cosmetic-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "taxi-life-a-city-driving-simulator--halloween-cosmetic-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "taxi-life-a-city-driving-simulator--supporter-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "taxi-life-a-city-driving-simulator",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "taxi-life-a-city-driving-simulator--vip-vintage-convertible-car",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "taxi-life-a-city-driving-simulator--supporter-pack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Simteract",
   "publisherDisplayName": "Nacon",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 1500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "72f01aa7b8e84c8e899ac68bc1cd4600"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-07T17:00:00.000Z",
   "pcReleaseDate": "2024-03-07T17:00:00.000Z",
