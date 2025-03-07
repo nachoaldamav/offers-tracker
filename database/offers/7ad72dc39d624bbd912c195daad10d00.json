@@ -43,10 +43,7 @@
   "urlSlug": "discusgeneralaudience",
   "url": null,
   "tags": [
-    {
-      "id": "21122",
-      "name": "Diverse Characters"
-    },
+    null,
     {
       "id": "1188",
       "name": "RELAXING"
@@ -138,11 +135,43 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "for-the-king--lost-civilization",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "for-the-king",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "d92534bef54041ebb41e55f5ec8fc22c"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-04-23T15:00:00.000Z",
   "pcReleaseDate": null,

@@ -51,10 +51,7 @@
       "id": "1120",
       "name": "RTS"
     },
-    {
-      "id": "21122",
-      "name": "Diverse Characters"
-    },
+    null,
     {
       "id": "1188",
       "name": "RELAXING"
@@ -193,7 +190,24 @@
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-08-13T13:00:00.000Z",
   "pcReleaseDate": "2020-10-08T15:00:00.000Z",
