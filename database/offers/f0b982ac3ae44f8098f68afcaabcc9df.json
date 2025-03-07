@@ -115,7 +115,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "trib3-78216c",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "trib3-faq-6bced5",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "trib3-78216c",
@@ -124,24 +135,7 @@
   ],
   "developerDisplayName": "Flux Point Studios",
   "publisherDisplayName": "Flux Point Studios",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 0,
-      "originalPrice": 0,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2024-03-27T00:00:00.000Z",
   "pcReleaseDate": "2024-03-27T00:00:00.000Z",
