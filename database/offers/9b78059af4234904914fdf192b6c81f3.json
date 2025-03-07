@@ -105,10 +105,10 @@
   "publisherDisplayName": "SimFabric S.A.",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 799,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -117,7 +117,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "0550cf50dbfa4e2aa6821f84e86ed2cc"
+          }
+        ]
       }
     ]
   },
