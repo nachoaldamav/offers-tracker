@@ -114,11 +114,75 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ghostrunner-2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "ghostrunner-2--endless-mode",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "ghostrunner-2--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ghostrunner-2--brutal-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ghostrunner-2--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "ghostrunner-2--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "ghostrunner-2--season-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "ghostrunner-2--ice-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "ghostrunner-2--dragon-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "ghostrunner-2--anniversary-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "ghostrunner-2--heat-pack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "One More Level",
   "publisherDisplayName": "505 Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-26T15:00:00.000Z",
   "pcReleaseDate": "2023-10-26T15:00:00.000Z",
