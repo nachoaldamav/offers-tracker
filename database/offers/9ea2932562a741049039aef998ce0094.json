@@ -190,8 +190,28 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "motogp-21",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "motogp-21--vip-multiplayer-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "motogp-21--limited-edition-liveries",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "motogp-21",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Milestone S.r.l.",
   "publisherDisplayName": "Milestone S.r.l.",
   "price": null,
