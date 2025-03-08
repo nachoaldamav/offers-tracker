@@ -122,32 +122,30 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": "King Art Games",
-  "publisherDisplayName": "PRIME MATTER",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 449,
-      "originalPrice": 2999,
-      "voucherDiscount": 0,
-      "discount": 2550,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": [
-          {
-            "id": "8b969f73053f452ea25051e54c276cad"
-          }
-        ]
+        "pageSlug": "iron-harvest--rusviet-revolution",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "iron-harvest--operation-eagle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "iron-harvest--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "iron-harvest",
+        "pageType": "productHome"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": "King Art Games",
+  "publisherDisplayName": "PRIME MATTER",
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2020-11-19T18:00:00.000Z",
   "pcReleaseDate": "2020-11-19T18:00:00.000Z",
