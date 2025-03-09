@@ -113,11 +113,79 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sherlock-holmes-chapter-one--victorian-starter-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "sherlock-holmes-chapter-one--saints-and-sinners",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "sherlock-holmes-chapter-one--season-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "sherlock-holmes-chapter-one--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "sherlock-holmes-chapter-one",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "sherlock-holmes-chapter-one--detective-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "sherlock-holmes-chapter-one--ost-and-artbook",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "sherlock-holmes-chapter-one--beyond-a-joke",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "sherlock-holmes-chapter-one--mycrofts-pride",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "sherlock-holmes-chapter-one--plague-doctor-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "sherlock-holmes-chapter-one--m-for-mystery",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "sherlock-holmes-chapter-one--clergyman-cassock",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4499,
+      "originalPrice": 4499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-11-16T16:00:00.000Z",
   "pcReleaseDate": "2021-11-16T16:00:00.000Z",
