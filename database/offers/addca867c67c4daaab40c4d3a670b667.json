@@ -2,11 +2,11 @@
   "title": "REVENGE",
   "id": "addca867c67c4daaab40c4d3a670b667",
   "namespace": "6beebb4d356a48118e607e2112bca45f",
-  "description": "REVENGE is a co-op PvE shooter where players and spectators join forces against MARA, a sentient virus invading The Everreach. Fight her digital creatures, recover powerful artifacts, and prove your skill by surviving to claim your place at the top and save the future.",
+  "description": "REVENGE a co-op PvE shooter where players and spectators work together to save the future of The Everreach.",
   "offerType": "BASE_GAME",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "creationDate": "2024-02-01T13:15:59.750Z",
-  "lastModifiedDate": "2024-12-30T23:55:48.597Z",
+  "lastModifiedDate": "2025-03-10T13:29:25.707Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -20,6 +20,34 @@
     {
       "type": "Thumbnail",
       "url": "https://cdn1.epicgames.com/spt-assets/a966511fc02b48d49df3375f8d9af6a1/revenge-1fktf.png"
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://66629eed-4452-4835-bc38-9e2ad0a2272f?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fa966511fc02b48d49df3375f8d9af6a1%2Frevenge-video-1qbjh.jpg"
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://957a4268-0898-47a9-b574-46da0ab49e10?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fa966511fc02b48d49df3375f8d9af6a1%2Fr3v3nge-video-14eu9.png"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/a966511fc02b48d49df3375f8d9af6a1/r3v3nge-1b8xo.png"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/a966511fc02b48d49df3375f8d9af6a1/r3v3nge-klyii.png"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/a966511fc02b48d49df3375f8d9af6a1/r3v3nge-1n7cr.png"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/a966511fc02b48d49df3375f8d9af6a1/r3v3nge-1sx3a.png"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/a966511fc02b48d49df3375f8d9af6a1/r3v3nge-10s2d.png"
     }
   ],
   "currentPrice": 0,
@@ -42,6 +70,10 @@
     {
       "id": "29088",
       "name": "Online Multiplayer"
+    },
+    {
+      "id": "33639",
+      "name": "Promotional Content"
     },
     {
       "id": "1210",
@@ -81,7 +113,7 @@
     },
     {
       "key": "isPromotionalContentUsed",
-      "value": "null"
+      "value": "true"
     },
     {
       "key": "isManuallySetPCReleaseDate",
@@ -103,18 +135,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "r3v3nge1-0be179",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "r3v3nge1-faq-807a5d",
-        "pageType": "info"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "r3v3nge1-0be179",
@@ -123,33 +144,16 @@
   ],
   "developerDisplayName": "Everreach Labs",
   "publisherDisplayName": "Everreach Labs",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 0,
-      "originalPrice": 0,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
-  "releaseDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": "2099-01-01T00:00:00.000Z",
+  "releaseDate": "2025-06-30T00:00:00.000Z",
+  "pcReleaseDate": "2025-06-30T00:00:00.000Z",
   "viewableDate": "2024-02-04T09:24:16.470Z",
   "approximateReleasePlan": {
     "day": null,
     "month": null,
-    "quarter": null,
-    "year": null,
-    "releaseDateType": "UNKNOWN"
+    "quarter": "q2",
+    "year": 2025,
+    "releaseDateType": "BY_QUARTER"
   }
 }
