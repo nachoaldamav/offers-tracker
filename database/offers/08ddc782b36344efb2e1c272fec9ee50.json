@@ -143,13 +143,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "apeshootergame_alphatest-0e0d26",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "apeshootergame_alphatest-0e0d26",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "apeshootergame_alphatest-faq-78e715",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Creative Testudo",
   "publisherDisplayName": "Arcas Games",
   "price": null,

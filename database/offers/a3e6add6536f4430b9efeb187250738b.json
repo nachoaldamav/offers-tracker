@@ -143,13 +143,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "terra-firma-83c09e",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "terra-firma-83c09e",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "terra-firma-faq-4e3bc8",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Working as Intended",
   "publisherDisplayName": "Working as Intended",
   "price": null,
