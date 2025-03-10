@@ -145,11 +145,68 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "thems-fightin-herds--season-1-pass",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "thems-fightin-herds--texas",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "thems-fightin-herds--stronghoof",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "thems-fightin-herds",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "thems-fightin-herds--baihe",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "thems-fightin-herds--nidra",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "thems-fightin-herds--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "thems-fightin-herds",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Mane6",
   "publisherDisplayName": "Maximum Entertainment LLC",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1999,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "fbbf86292a2e4552a7b85c2c3f17c56b"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-12-19T16:00:00.000Z",
   "pcReleaseDate": "2020-04-30T15:00:00.000Z",
