@@ -155,7 +155,22 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "metalcore-faq-470cfe",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "metalcore-metalcore-progression-test-47092e",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "metalcore-f60c27",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "metalcore-f60c27",
@@ -164,7 +179,24 @@
   ],
   "developerDisplayName": "Studio 369",
   "publisherDisplayName": "MetalCore United",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-11-30T00:00:00.000Z",
   "pcReleaseDate": "2023-11-30T00:00:00.000Z",

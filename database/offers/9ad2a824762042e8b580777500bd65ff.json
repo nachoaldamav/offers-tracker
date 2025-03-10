@@ -87,7 +87,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "a-christmas-carol-vr-00de5c",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "a-christmas-carol-vr-00de5c",
@@ -96,7 +103,24 @@
   ],
   "developerDisplayName": "Agile Lens",
   "publisherDisplayName": "Agile Lens",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-12T00:32:47.480Z",
   "pcReleaseDate": "2023-12-01T06:00:00.000Z",
