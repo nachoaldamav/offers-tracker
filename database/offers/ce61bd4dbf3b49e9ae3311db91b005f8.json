@@ -138,34 +138,28 @@
       "path": "applications"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "against-the-storm--royal-woodlands-demo",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "against-the-storm",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "against-the-storm--early-access-faq",
-        "pageType": "info"
-      },
-      {
-        "pageSlug": "against-the-storm--keepers-of-the-stone",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "against-the-storm--supporter-pack",
-        "pageType": "addon--cms-hybrid"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": "Hooded Horse Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-10-18T15:00:00.000Z",
   "pcReleaseDate": "2021-10-18T15:00:00.000Z",
