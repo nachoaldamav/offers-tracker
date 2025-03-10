@@ -135,7 +135,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "balls-up-811fd0",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "balls-up-faq-56a399",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "balls-up-811fd0",
@@ -144,7 +155,24 @@
   ],
   "developerDisplayName": "ScarWalkerGames",
   "publisherDisplayName": "ScarWalkerGames",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-09T23:00:00.000Z",
   "pcReleaseDate": "2024-12-09T23:00:00.000Z",
