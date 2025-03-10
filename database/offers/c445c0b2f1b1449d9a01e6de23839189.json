@@ -114,7 +114,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "spellforce-3-versus--full-pvp-upgrade",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "spellforce-3-versus",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "spellforce-3-versus",
@@ -123,7 +134,24 @@
   ],
   "developerDisplayName": "Grimlore Games",
   "publisherDisplayName": "THQ Nordic",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-12-14T18:00:00.000Z",
   "pcReleaseDate": "2020-12-14T18:00:00.000Z",
