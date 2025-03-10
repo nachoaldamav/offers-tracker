@@ -5,10 +5,14 @@
   "description": "Eternights is a dating action game where you try to make the most out of life during the apocalypse. Monday: Go on a date. Tuesday: Clear dungeon. Friday: Freak out! The clock is ticking!!",
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-09-12T07:00:00.000Z",
-  "creationDate": "2023-05-31T19:40:44.751Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.271Z",
+  "creationDate": "2025-03-10T16:36:53.146Z",
+  "lastModifiedDate": "2025-03-10T19:41:27.569Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/63c94a59a4b84942a5ea12a818ad13d0/eternights-offer-picpb.jpg"
+    },
     {
       "type": "OfferImageWide",
       "url": "https://cdn1.epicgames.com/spt-assets/63c94a59a4b84942a5ea12a818ad13d0/eternights-offer-picpb.jpg"
@@ -76,16 +80,28 @@
       "value": "true"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
+    {
+      "key": "publisherName",
+      "value": "Studio Sai"
+    },
+    {
       "key": "isManuallySetPCReleaseDate",
+      "value": "false"
+    },
+    {
+      "key": "developerName",
+      "value": "Studio Sai"
+    },
+    {
+      "key": "isBlockchainUsed",
       "value": "false"
     },
     {
       "key": "com.epicgames.app.productSlug",
       "value": "eternights-c2fbca"
-    },
-    {
-      "key": "isBlockchainUsed",
-      "value": "false"
     }
   ],
   "categories": [
@@ -102,20 +118,21 @@
   "catalogNs": {
     "mappings": [
       {
-        "pageSlug": "eternights-c2fbca",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "eternights-c2fbca--deluxe-edition",
+        "pageSlug": "eternights-c2fbca--deluxe-upgrade-bundle",
         "pageType": "offer"
       },
       {
-        "pageSlug": "eternights-c2fbca--deluxe-upgrade-bundle",
-        "pageType": "addon--cms-hybrid"
+        "pageSlug": "eternights-c2fbca",
+        "pageType": "productHome"
       }
     ]
   },
-  "offerMappings": [],
+  "offerMappings": [
+    {
+      "pageSlug": "eternights-c2fbca",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Studio Sai",
   "publisherDisplayName": "Studio Sai",
   "price": {
