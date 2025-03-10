@@ -190,7 +190,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "motogp-21",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "motogp-21--vip-multiplayer-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "motogp-21--limited-edition-liveries",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "motogp-21",
@@ -199,7 +214,28 @@
   ],
   "developerDisplayName": "Milestone S.r.l.",
   "publisherDisplayName": "Milestone S.r.l.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 249,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 2250,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "e8ef7ca97dc940f5b03f35b7ed1de9f3"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-04-22T15:00:00.000Z",
   "pcReleaseDate": "2021-04-22T15:00:00.000Z",
