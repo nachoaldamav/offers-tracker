@@ -95,7 +95,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "meta_nanos_rumble_race-7f0696",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "meta_nanos_rumble_race-faq-ffc1bc",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "meta_nanos_rumble_race-7f0696",
@@ -104,7 +115,24 @@
   ],
   "developerDisplayName": "Nano Meta Games GmbH",
   "publisherDisplayName": "Nano Meta Games GmbH",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-08-30T15:00:00.000Z",
   "pcReleaseDate": "2023-03-13T10:00:00.000Z",
