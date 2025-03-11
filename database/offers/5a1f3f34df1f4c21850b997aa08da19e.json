@@ -146,8 +146,23 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "outerwilds--echoes-of-the-eye",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "outerwilds",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "outerwilds--archaeologist-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
   "price": null,

@@ -95,13 +95,23 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "samorost-2-1b9bb1",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "samorost-2-android-96a371",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "samorost-2-ios-990d45",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "samorost-2-1b9bb1",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Amanita Design",
   "publisherDisplayName": "Amanita Design",
   "price": null,
