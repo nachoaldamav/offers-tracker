@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-01-05T21:00:00.000Z",
   "creationDate": "2024-03-27T20:58:19.621Z",
-  "lastModifiedDate": "2025-03-09T15:49:02.485Z",
+  "lastModifiedDate": "2025-03-11T22:05:26.700Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -151,11 +151,40 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ghost-at-dawn-c007a3",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "ghost-at-dawn-c007a3",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Blue and Red Games",
   "publisherDisplayName": "Blue and Red Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-01-05T21:00:00.000Z",
   "pcReleaseDate": "2023-10-06T05:00:00.000Z",
