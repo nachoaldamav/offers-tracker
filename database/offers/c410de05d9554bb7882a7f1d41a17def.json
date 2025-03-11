@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-05-06T13:00:00.000Z",
   "creationDate": "2022-02-15T15:18:31.541Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.321Z",
+  "lastModifiedDate": "2025-03-11T15:00:31.349Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -44,6 +44,10 @@
       "name": "Windows"
     },
     {
+      "id": "29899",
+      "name": "Deals of the Week"
+    },
+    {
       "id": "1212",
       "name": "Racing"
     }
@@ -71,11 +75,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "skydrift-infinity-c4ca37",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "skydrift-infinity-c4ca37",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Digital Reality",
   "publisherDisplayName": "HandyGames",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "8679f9532bfe48f78887d18818619a83"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-05-06T13:00:00.000Z",
   "pcReleaseDate": "2021-07-29T00:00:00.000Z",

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-10-04T11:30:00.000Z",
   "creationDate": "2022-09-15T10:20:36.222Z",
-  "lastModifiedDate": "2025-03-04T16:00:31.162Z",
+  "lastModifiedDate": "2025-03-11T15:00:30.469Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,10 +42,6 @@
     {
       "id": "9547",
       "name": "Windows"
-    },
-    {
-      "id": "29899",
-      "name": "Deals of the Week"
     },
     {
       "id": "1117",
@@ -91,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-complex-0ca5bb",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-complex-0ca5bb",
@@ -100,7 +103,24 @@
   ],
   "developerDisplayName": "Wales Interactive",
   "publisherDisplayName": "Wales Interactive",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1299,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-10-04T11:30:00.000Z",
   "pcReleaseDate": "2020-03-31T05:00:00.000Z",
