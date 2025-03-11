@@ -143,7 +143,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "beyond-the-ice-palace-2-aed03d",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "beyond-the-ice-palace-2-aed03d",
@@ -152,28 +159,7 @@
   ],
   "developerDisplayName": "STORYBIRD Studio",
   "publisherDisplayName": "PQube Limited and PIXELHEART Corporation",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1799,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 200,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "9992b5b9709f40d0a9da98bbb271b715"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2025-03-10T13:00:00.000Z",
   "pcReleaseDate": "2025-03-10T13:00:00.000Z",
