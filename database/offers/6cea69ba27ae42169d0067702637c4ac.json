@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-01-29T17:00:00.000Z",
   "creationDate": "2024-03-13T19:08:44.844Z",
-  "lastModifiedDate": "2025-03-11T15:14:24.822Z",
+  "lastModifiedDate": "2025-03-11T15:59:33.213Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -128,6 +128,10 @@
       "name": "Windows"
     },
     {
+      "id": "29899",
+      "name": "Deals of the Week"
+    },
+    {
       "id": "1117",
       "name": "Adventure"
     }
@@ -197,10 +201,10 @@
   "publisherDisplayName": "The End of the Sun Team",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 1999,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -209,7 +213,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "7afa01e8a9fb485dbb12c8b8f5cafce4"
+          }
+        ]
       }
     ]
   },
