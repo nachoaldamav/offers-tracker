@@ -114,11 +114,63 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "roguebook",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "roguebook--art-of-roguebook",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "roguebook--original-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "roguebook--alternate-art-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "roguebook--heroes-skin-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "roguebook--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "roguebook--fugoro-merchant-of-wonders",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 2000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "3842f28b20b243f2b3d3b32f0d9461b6"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-10-20T08:00:00.000Z",
   "pcReleaseDate": "2021-06-17T12:00:00.000Z",
