@@ -114,8 +114,20 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "horace",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "horace",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Paul Helman, Sean Scapelhorn",
   "publisherDisplayName": "505 Games",
   "price": null,

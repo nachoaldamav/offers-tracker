@@ -95,11 +95,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "i-saw-black-clouds-67008d",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "i-saw-black-clouds-67008d",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Ghost Dog Films",
   "publisherDisplayName": "Wales Interactive",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1299,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-11-18T05:00:00.000Z",
   "pcReleaseDate": "2021-03-30T17:00:00.000Z",
