@@ -91,11 +91,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "monmusu-gladiator-e00e4d",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "monmusu-gladiator-e00e4d",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "ZephyrStudio",
   "publisherDisplayName": "Waku Waku Games G.K.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-08-20T15:00:00.000Z",
   "pcReleaseDate": "2021-07-14T15:00:00.000Z",
