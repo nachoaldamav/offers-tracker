@@ -39,10 +39,7 @@
       "id": "1264",
       "name": "Co-op"
     },
-    {
-      "id": "29088",
-      "name": "Online Multiplayer"
-    },
+    null,
     {
       "id": "31313",
       "name": "First Run"
@@ -62,10 +59,6 @@
     {
       "id": "9547",
       "name": "Windows"
-    },
-    {
-      "id": "1310",
-      "name": "EARLY ACCESS"
     }
   ],
   "items": [
@@ -107,11 +100,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "containment-sector-faq-43bc2a",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "containment-sector-e26cb5",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "containment-sector-e26cb5",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Fog Studio",
   "publisherDisplayName": "Alps Global Management",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-03-31T00:00:00.000Z",
   "pcReleaseDate": "2025-01-31T00:00:00.000Z",

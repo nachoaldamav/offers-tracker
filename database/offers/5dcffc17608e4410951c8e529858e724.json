@@ -71,10 +71,7 @@
       "id": "1117",
       "name": "Adventure"
     },
-    {
-      "id": "1310",
-      "name": "EARLY ACCESS"
-    },
+    null,
     {
       "id": "1263",
       "name": "Indie"
@@ -119,11 +116,48 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "akolyta-460155",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "akolyta-faq-9dcfd1",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "akolyta-460155",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Pterosoft studio",
   "publisherDisplayName": "Pterosoft studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2249,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 750,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "9ae943dc176644c3b0914de6e505fd6c"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-01-31T23:00:00.000Z",
   "pcReleaseDate": "2024-11-11T00:00:00.000Z",

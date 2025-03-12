@@ -51,10 +51,7 @@
   "urlSlug": "24966ab0c0684cc88db0b74d6d54fd56",
   "url": null,
   "tags": [
-    {
-      "id": "1298",
-      "name": "Puzzle"
-    },
+    null,
     {
       "id": "1370",
       "name": "Single Player"
@@ -67,10 +64,7 @@
       "id": "1179",
       "name": "VR"
     },
-    {
-      "id": "1310",
-      "name": "EARLY ACCESS"
-    },
+    null,
     {
       "id": "1151",
       "name": "Platformer"
@@ -115,11 +109,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tradiecraft-tool-trials-f886d5",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "tradiecraft-tool-trials-faq-3b855a",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "tradiecraft-tool-trials-f886d5",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "ELN Studios",
   "publisherDisplayName": "ELN Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-01-14T04:00:00.000Z",
   "pcReleaseDate": "2024-10-21T07:00:00.000Z",

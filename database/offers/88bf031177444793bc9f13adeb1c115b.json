@@ -35,14 +35,8 @@
       "id": "1264",
       "name": "Co-op"
     },
-    {
-      "id": "29088",
-      "name": "Online Multiplayer"
-    },
-    {
-      "id": "1298",
-      "name": "Puzzle"
-    },
+    null,
+    null,
     {
       "id": "1307",
       "name": "Open World"
@@ -95,11 +89,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "big-walk-7a4b8f",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "big-walk-7a4b8f",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "House House",
   "publisherDisplayName": "Panic",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 19999,
+      "originalPrice": 19999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-12-31T00:00:00.000Z",
   "pcReleaseDate": "2025-12-31T00:00:00.000Z",

@@ -99,10 +99,7 @@
   "urlSlug": "0890f2caa7434878a2ca0d1012a7aad8",
   "url": null,
   "tags": [
-    {
-      "id": "29088",
-      "name": "Online Multiplayer"
-    },
+    null,
     {
       "id": "1299",
       "name": "Competitive"
@@ -115,10 +112,7 @@
       "id": "19847",
       "name": "Achievements"
     },
-    {
-      "id": "22776",
-      "name": "Cross Platform"
-    },
+    null,
     {
       "id": "1210",
       "name": "Shooter"
@@ -183,11 +177,56 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "death-blonde-42f4ff",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "death-blonde-premium-cash-2000-1bed1e",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "death-blonde-premium-cash-5000-985b84",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "death-blonde-faq-5c0461",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "death-blonde-premium-cash-1000-df8256",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "death-blonde-42f4ff",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Demon Girl",
   "publisherDisplayName": "Demon Girl",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-12-31T00:00:00.000Z",
   "pcReleaseDate": "2025-12-31T00:00:00.000Z",

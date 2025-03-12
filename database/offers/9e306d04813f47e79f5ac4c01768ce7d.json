@@ -78,10 +78,6 @@
     {
       "id": "9547",
       "name": "Windows"
-    },
-    {
-      "id": "1310",
-      "name": "EARLY ACCESS"
     }
   ],
   "items": [
@@ -123,11 +119,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "mineshaft-maze-faq-938ea8",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "mineshaft-maze-e8f906",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "mineshaft-maze-e8f906",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Labyrinth Studios",
   "publisherDisplayName": "Labyrinth Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 199,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-02-25T04:00:00.000Z",
   "pcReleaseDate": "2025-02-25T04:00:00.000Z",

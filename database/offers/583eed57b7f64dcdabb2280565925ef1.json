@@ -86,10 +86,6 @@
     {
       "id": "1294",
       "name": "First Person"
-    },
-    {
-      "id": "1310",
-      "name": "EARLY ACCESS"
     }
   ],
   "items": [
@@ -131,11 +127,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "frozen-ship-d4d185",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "frozen-ship-faq-213157",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "frozen-ship-d4d185",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Nionetix",
   "publisherDisplayName": "Nionetix",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-08-31T00:00:00.000Z",
   "pcReleaseDate": "2025-08-31T00:00:00.000Z",

@@ -107,10 +107,7 @@
       "id": "1264",
       "name": "Co-op"
     },
-    {
-      "id": "29088",
-      "name": "Online Multiplayer"
-    },
+    null,
     {
       "id": "1299",
       "name": "Competitive"
@@ -119,10 +116,7 @@
       "id": "33639",
       "name": "Promotional Content"
     },
-    {
-      "id": "22776",
-      "name": "Cross Platform"
-    },
+    null,
     {
       "id": "1210",
       "name": "Shooter"
@@ -138,10 +132,6 @@
     {
       "id": "9547",
       "name": "Windows"
-    },
-    {
-      "id": "1310",
-      "name": "EARLY ACCESS"
     }
   ],
   "items": [
@@ -183,11 +173,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "open-d754ec",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "open-faq-b066f1",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "open-d754ec",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Walker Labs",
   "publisherDisplayName": "The Readyverse",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-03-31T00:00:00.000Z",
   "pcReleaseDate": "2025-03-31T00:00:00.000Z",

@@ -91,10 +91,7 @@
       "id": "1296",
       "name": "Casual"
     },
-    {
-      "id": "29088",
-      "name": "Online Multiplayer"
-    },
+    null,
     {
       "id": "1299",
       "name": "Competitive"
@@ -163,11 +160,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "forgotten-playland-a6ffdb",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "forgotten-playland-faq-701683",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "forgotten-playland-a6ffdb",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Vermilion Studios Limited",
   "publisherDisplayName": "Vermilion Studios Limited",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-03-31T00:00:00.000Z",
   "pcReleaseDate": "2025-03-31T00:00:00.000Z",

@@ -31,14 +31,8 @@
   "urlSlug": "9b1cb36c1a1a4d4c9f1ff45c5af9a14b",
   "url": null,
   "tags": [
-    {
-      "id": "29088",
-      "name": "Online Multiplayer"
-    },
-    {
-      "id": "22776",
-      "name": "Cross Platform"
-    },
+    null,
+    null,
     {
       "id": "1210",
       "name": "Shooter"
@@ -62,10 +56,6 @@
     {
       "id": "1212",
       "name": "Racing"
-    },
-    {
-      "id": "1310",
-      "name": "EARLY ACCESS"
     }
   ],
   "items": [
@@ -107,11 +97,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "netvrk-78be3a",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "netvrk-faq-33ec49",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "netvrk-78be3a",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "XMOD, INC.",
   "publisherDisplayName": "XMOD, INC.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-02-18T03:30:00.000Z",
   "pcReleaseDate": "2025-02-18T03:30:00.000Z",
