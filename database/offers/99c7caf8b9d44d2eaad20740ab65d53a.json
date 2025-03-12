@@ -103,7 +103,26 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "bloodloop-bloodloop-ea-0fdebc",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "bloodloop-2c05b9",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "bloodloop-faq-b684ae",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "bloodloop-bloodloop-ea-94204c",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "bloodloop-2c05b9",
@@ -112,7 +131,24 @@
   ],
   "developerDisplayName": "Ragnarok",
   "publisherDisplayName": "7 Digital Labs Sgl",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",
