@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-03-12T11:00:00.000Z",
   "creationDate": "2024-06-07T02:58:43.595Z",
-  "lastModifiedDate": "2025-03-06T10:26:57.242Z",
+  "lastModifiedDate": "2025-03-12T11:00:10.660Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -23,7 +23,7 @@
     },
     {
       "type": "heroCarouselVideo",
-      "url": "com.epicgames.video://bd0cf035-b838-4f7d-8e42-11ef191043c1?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fbd57dd50e0754654ab0b7c1e0941b179%2Ffate-reawakened-video-1rsym.jpg"
+      "url": "com.epicgames.video://e128ab1f-7960-492c-9795-2fcc8aeeb8cd?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fbd57dd50e0754654ab0b7c1e0941b179%2Ffate-reawakened-video-b4ogu.png"
     },
     {
       "type": "featuredMedia",
@@ -143,14 +143,47 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "fate-reawakened-dab2fa",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "fate-reawakened-dab2fa",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "gamigo US, Inc.",
   "publisherDisplayName": "gamigo US, Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "136a4da167a04a069cc7cec580396777"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-03-12T11:00:00.000Z",
-  "pcReleaseDate": "2025-03-11T23:00:00.000Z",
+  "pcReleaseDate": "2025-03-12T11:00:00.000Z",
   "viewableDate": "2024-08-09T14:00:00.000Z",
   "approximateReleasePlan": null
 }

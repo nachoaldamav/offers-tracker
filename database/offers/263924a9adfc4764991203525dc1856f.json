@@ -6,20 +6,20 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "creationDate": "2022-06-06T18:46:30.198Z",
-  "lastModifiedDate": "2025-02-13T11:39:25.588Z",
+  "lastModifiedDate": "2025-03-12T11:02:23.849Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/cbdabb1be05c4501bc3c37538d939bb3/the-alters-5pkdm.jpg"
+      "url": "https://cdn1.epicgames.com/spt-assets/cbdabb1be05c4501bc3c37538d939bb3/the-alters-1nzq5.jpg"
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/cbdabb1be05c4501bc3c37538d939bb3/the-alters-hgsdx.jpg"
+      "url": "https://cdn1.epicgames.com/spt-assets/cbdabb1be05c4501bc3c37538d939bb3/the-alters-100bg.jpg"
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/cbdabb1be05c4501bc3c37538d939bb3/the-alters-hgsdx.jpg"
+      "url": "https://cdn1.epicgames.com/spt-assets/cbdabb1be05c4501bc3c37538d939bb3/the-alters-100bg.jpg"
     }
   ],
   "currentPrice": 19999,
@@ -64,6 +64,10 @@
       "value": "true"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
+    {
       "key": "isManuallySetPCReleaseDate",
       "value": "false"
     },
@@ -74,23 +78,52 @@
   ],
   "categories": [
     {
-      "path": "games"
+      "path": "games/edition/base"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games/edition/base"
+      "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-alters-5df5b6",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "the-alters-5df5b6",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "11 bit studios",
   "publisherDisplayName": "11 bit studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 19999,
+      "originalPrice": 19999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-12-31T00:00:00.000Z",
-  "pcReleaseDate": null,
+  "pcReleaseDate": "2025-03-31T00:00:00.000Z",
   "viewableDate": "2022-06-12T20:00:00.000Z",
   "approximateReleasePlan": {
     "day": null,

@@ -103,11 +103,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "extremely-realistic-siege-warfare-simulator-f83575",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "extremely-realistic-siege-warfare-simulator-faq-f0cbfc",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "extremely-realistic-siege-warfare-simulator-f83575",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Screambox Studio",
   "publisherDisplayName": "Screambox Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1799,
+      "originalPrice": 1799,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2022-09-07T17:00:00.000Z",
