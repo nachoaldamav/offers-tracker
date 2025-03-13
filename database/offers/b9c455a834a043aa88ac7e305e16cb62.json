@@ -83,11 +83,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "nova-91cb04",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "nova-faq-93ab6d",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "nova-91cb04",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Sayantan sarkar",
   "publisherDisplayName": "Sayantan sarkar",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 399,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-08-10T02:30:00.000Z",
   "pcReleaseDate": "2023-08-10T05:30:00.000Z",

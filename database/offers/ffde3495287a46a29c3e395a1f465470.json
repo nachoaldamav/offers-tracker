@@ -91,11 +91,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "its-a-wrap-its-a-wrap-demo-edbb4d",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "its-a-wrap-f392ae",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "its-a-wrap-f392ae",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Chanko Studios",
   "publisherDisplayName": "AMC Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1799,
+      "originalPrice": 1799,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-08-23T17:30:00.000Z",
   "pcReleaseDate": "2023-08-23T17:30:00.000Z",
