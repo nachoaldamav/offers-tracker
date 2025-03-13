@@ -86,11 +86,51 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "road-96-mile-0",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "road-96-mile-0--about-a-girl",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "road-96-mile-0--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "road-96-mile-0--stronger-together-bundle",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "DigixArt Entertainment SAS",
   "publisherDisplayName": "Ravenscourt",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 324,
+      "originalPrice": 1296,
+      "voucherDiscount": 0,
+      "discount": 972,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "72b0173daa244e7e9d50cbcc034bb067"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-04T15:00:00.000Z",
   "pcReleaseDate": "2023-04-04T15:00:00.000Z",
