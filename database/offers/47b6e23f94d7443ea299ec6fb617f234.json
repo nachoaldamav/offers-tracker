@@ -127,7 +127,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "heroes-of-rome-dangerous-roads-78ab94",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "heroes-of-rome-dangerous-roads-78ab94",
@@ -136,24 +143,7 @@
   ],
   "developerDisplayName": "magnussoft",
   "publisherDisplayName": "magnussoft",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1099,
-      "originalPrice": 1099,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",
