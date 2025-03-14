@@ -167,7 +167,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "survival-in-the-backrooms-0bc60b",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "survival-in-the-backrooms-0bc60b",
@@ -176,7 +183,24 @@
   ],
   "developerDisplayName": "Pine Games",
   "publisherDisplayName": "Pine Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 199,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-03-22T01:00:00.000Z",
   "pcReleaseDate": "2022-11-03T22:00:00.000Z",
