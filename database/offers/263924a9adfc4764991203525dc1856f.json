@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "creationDate": "2022-06-06T18:46:30.198Z",
-  "lastModifiedDate": "2025-03-12T11:15:41.409Z",
+  "lastModifiedDate": "2025-03-14T09:17:55.362Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -87,7 +87,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-alters-5df5b6",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-alters-5df5b6",
@@ -96,10 +103,27 @@
   ],
   "developerDisplayName": "11 bit studios",
   "publisherDisplayName": "11 bit studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 19999,
+      "originalPrice": 19999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-12-31T00:00:00.000Z",
-  "pcReleaseDate": null,
+  "pcReleaseDate": "2025-12-31T00:00:00.000Z",
   "viewableDate": "2022-06-12T20:00:00.000Z",
   "approximateReleasePlan": {
     "day": null,
