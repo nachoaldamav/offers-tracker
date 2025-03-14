@@ -94,7 +94,26 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "starsand",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "starsand--digital-supporter-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "starsand--digital-supporter-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "starsand--early-access-faq",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Tunnel Vision Studio",
   "publisherDisplayName": "Toplitz Productions",
