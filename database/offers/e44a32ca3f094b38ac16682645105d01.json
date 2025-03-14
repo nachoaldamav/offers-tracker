@@ -106,7 +106,14 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "yes-your-grace",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "yes-your-grace",
@@ -115,28 +122,7 @@
   ],
   "developerDisplayName": "Brave At Night",
   "publisherDisplayName": "No More Robots",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 499,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 1500,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "81a3f1eed00a4578a97888b117c25289"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2021-03-26T16:00:00.000Z",
   "pcReleaseDate": null,
