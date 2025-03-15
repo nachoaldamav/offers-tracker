@@ -123,8 +123,19 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "split-fiction",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "split-fiction--friends-pass",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Hazelight Studios AB",
   "publisherDisplayName": "Electronic Arts",
   "price": null,
