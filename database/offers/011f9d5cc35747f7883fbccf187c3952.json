@@ -175,11 +175,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "v-gate-last-camp-556f58",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "v-gate-last-camp-faq-2f328d",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "v-gate-last-camp-556f58",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Onur Gencay GÖKÇE",
   "publisherDisplayName": "DMT PRODUCTION",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 267,
+      "originalPrice": 399,
+      "voucherDiscount": 0,
+      "discount": 132,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "d95d03c8bc1846f2bfa5084ed123faac"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-01-27T12:00:00.000Z",
   "pcReleaseDate": "2025-01-27T12:00:00.000Z",
