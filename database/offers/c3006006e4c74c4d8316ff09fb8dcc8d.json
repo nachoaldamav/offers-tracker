@@ -166,8 +166,20 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "beyond-blue",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "beyond-blue",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "E-Line Media",
   "publisherDisplayName": "E-Line Media",
   "price": null,
