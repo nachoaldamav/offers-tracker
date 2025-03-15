@@ -103,18 +103,32 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "niche-a-genetics-survival-game",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 629,
+      "originalPrice": 1799,
+      "voucherDiscount": 0,
+      "discount": 1170,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "0f17eab0922247cfbc9b103507160799"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-09-15T15:00:00.000Z",
   "pcReleaseDate": "2016-09-15T15:00:00.000Z",
