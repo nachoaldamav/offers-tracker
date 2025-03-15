@@ -131,7 +131,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "death-in-the-water-2-8dd412",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "death-in-the-water-2-8dd412",
@@ -140,7 +147,28 @@
   ],
   "developerDisplayName": "Lighthouse Games Studio",
   "publisherDisplayName": "Lighthouse Games Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1199,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 300,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "b13604ba05de4468b03abc1ab8d6bfc9"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-03-01T18:00:00.000Z",
   "pcReleaseDate": "2023-01-26T18:00:00.000Z",
