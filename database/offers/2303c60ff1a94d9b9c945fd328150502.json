@@ -163,11 +163,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "backrooms-furry-e07e63",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "backrooms-furry-e07e63",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Pine Games",
   "publisherDisplayName": "Pine Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 49,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 50,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "5bcfb6fe71884b24a55f298997001d88"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-01-24T05:00:00.000Z",
   "pcReleaseDate": "2025-01-24T05:00:00.000Z",
