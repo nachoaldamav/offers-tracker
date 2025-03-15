@@ -111,7 +111,18 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "dream-engines-nomad-cities--dream-engines-faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "dream-engines-nomad-cities",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "dream-engines-nomad-cities",
