@@ -151,11 +151,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "nancy-drew-mystery-of-the-seven-keys-a4c5fb",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "nancy-drew-mystery-of-the-seven-keys-a4c5fb",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "HeR Interactive",
   "publisherDisplayName": "HeR Interactive",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2560,
+      "originalPrice": 3200,
+      "voucherDiscount": 0,
+      "discount": 640,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "f1ed994fcbca4b7ba54de3d8e43527cf"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-03-13T17:00:00.000Z",
   "pcReleaseDate": "2024-05-07T16:00:00.000Z",
