@@ -158,8 +158,28 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "barony--legends-and-pariahs",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "barony--myths-and-outcasts",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "barony",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "barony",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Turning Wheel LLC",
   "publisherDisplayName": "Turning Wheel LLC",
   "price": null,
