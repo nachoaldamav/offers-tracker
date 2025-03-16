@@ -87,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "car-mechanic-city-driving-4996c5",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "car-mechanic-city-driving-4996c5",
@@ -96,7 +103,24 @@
   ],
   "developerDisplayName": "Performance Artist",
   "publisherDisplayName": "Performance Artist",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 99,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-09-17T23:00:00.000Z",
   "pcReleaseDate": "2023-09-17T23:00:00.000Z",
