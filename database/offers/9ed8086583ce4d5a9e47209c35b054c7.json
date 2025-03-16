@@ -87,13 +87,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "are-you-smarter-than-a-5th-grader-bc328a",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "are-you-smarter-than-a-5th-grader-bc328a",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "are-you-smarter-than-a-5th-grader-are-you-smarter-than-a-5th-grader-homework-7000f7",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Massive Miniteam",
   "publisherDisplayName": "HandyGames",
   "price": null,
