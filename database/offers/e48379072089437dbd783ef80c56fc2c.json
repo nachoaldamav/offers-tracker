@@ -119,7 +119,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "dark-deity-0b08d1",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "dark-deity-suns-out-swords-out-dlc-f710e6",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "dark-deity-0b08d1",
@@ -128,7 +139,24 @@
   ],
   "developerDisplayName": "Sword & Axe LLC",
   "publisherDisplayName": "Freedom Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-12-17T17:00:00.000Z",
   "pcReleaseDate": "2021-06-15T00:00:00.000Z",
