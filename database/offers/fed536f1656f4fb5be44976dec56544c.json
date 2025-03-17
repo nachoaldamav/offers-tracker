@@ -119,13 +119,15 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "brigand-gold-8aa2bb",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "brigand-gold-8aa2bb",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Brian J. Lancaster",
   "publisherDisplayName": "Brian J. Lancaster",
   "price": null,
