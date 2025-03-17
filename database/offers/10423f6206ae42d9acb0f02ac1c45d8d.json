@@ -134,11 +134,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "dragon-quest-xi-s-echoes-of-an-elusive-age",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 2000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "f0439dc5fc484bd2af913199c4eb10e0"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": false,
   "releaseDate": "2020-09-24T09:00:00.000Z",
   "pcReleaseDate": "2020-12-04T17:00:00.000Z",
