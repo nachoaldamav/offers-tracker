@@ -147,7 +147,22 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "star-vortex-faq-9165f3",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "star-vortex-a093bc",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "star-vortex-star-vortex-demo-8054f3",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "star-vortex-a093bc",
@@ -156,7 +171,24 @@
   ],
   "developerDisplayName": "Zorg Games",
   "publisherDisplayName": "Hunted Cow Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-06-30T00:00:00.000Z",
   "pcReleaseDate": "2024-12-31T00:00:00.000Z",
