@@ -102,7 +102,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "champions-tactics--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "champions-tactics",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Ubisoft Entertainment",
   "publisherDisplayName": "Ubisoft Entertainment",

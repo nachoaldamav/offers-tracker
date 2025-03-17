@@ -131,11 +131,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "unholy-village-bf7edb",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "unholy-village-product1-d0fd12",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "unholy-village-faq-1557cf",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "unholy-village-bf7edb",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Vault Games",
   "publisherDisplayName": "Vault Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-08-09T17:30:00.000Z",
   "pcReleaseDate": "2024-04-27T13:00:00.000Z",
