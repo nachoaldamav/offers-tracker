@@ -99,22 +99,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "moons-of-ardan-faq-cc9794",
-        "pageType": "info"
-      },
-      {
-        "pageSlug": "moons-of-ardan-moons-of-ardan-demo-ad9717",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "moons-of-ardan-d4f9a3",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "moons-of-ardan-d4f9a3",
@@ -123,7 +108,24 @@
   ],
   "developerDisplayName": "Pandora Technology",
   "publisherDisplayName": "Pandora Technology",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-12T14:30:00.000Z",
   "pcReleaseDate": "2021-10-21T17:00:00.000Z",
