@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-12-15T14:00:00.000Z",
   "creationDate": "2021-06-24T17:08:47.973Z",
-  "lastModifiedDate": "2025-03-05T12:41:41.891Z",
+  "lastModifiedDate": "2025-03-17T10:27:32.983Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -43,10 +43,6 @@
   "urlSlug": "clid-the-snail",
   "url": null,
   "tags": [
-    {
-      "id": "27366",
-      "name": "Plaion Publisher Sale"
-    },
     {
       "id": "1210",
       "name": "Shooter"
@@ -102,7 +98,14 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "clid-the-snail",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": "Plaion",

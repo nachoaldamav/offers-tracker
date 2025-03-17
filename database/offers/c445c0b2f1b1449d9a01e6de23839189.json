@@ -114,8 +114,24 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "spellforce-3-versus--full-pvp-upgrade",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "spellforce-3-versus",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "spellforce-3-versus",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Grimlore Games",
   "publisherDisplayName": "THQ Nordic",
   "price": null,
