@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-01-31T12:00:01.000Z",
   "creationDate": "2022-04-25T17:57:25.898Z",
-  "lastModifiedDate": "2025-02-19T18:41:47.270Z",
+  "lastModifiedDate": "2025-03-17T15:13:08.385Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -128,12 +128,12 @@
       "value": "true"
     },
     {
-      "key": "isPromotionalContentUsed",
-      "value": "false"
-    },
-    {
       "key": "com.epicgames.app.blacklist",
       "value": "[]"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
     },
     {
       "key": "publisherName",
@@ -148,12 +148,12 @@
       "value": "Tripwire Interactive"
     },
     {
-      "key": "isBlockchainUsed",
-      "value": "false"
-    },
-    {
       "key": "com.epicgames.app.productSlug",
       "value": "killing-floor-3"
+    },
+    {
+      "key": "isBlockchainUsed",
+      "value": "false"
     }
   ],
   "categories": [
@@ -193,15 +193,15 @@
         "pageType": "offer"
       },
       {
-        "pageSlug": "killing-floor-3-killing-floor-3-deluxe-edition-d3d5a4",
-        "pageType": "offer"
-      },
-      {
         "pageSlug": "killing-floor-3-killing-floor-3-elite-nightfall-edition-upgrade-8eeddb",
         "pageType": "offer"
       },
       {
         "pageSlug": "killing-floor-3-killing-floor-3-elite-nightfall-edition-6bc658",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "killing-floor-3-killing-floor-3-deluxe-edition-d3d5a4",
         "pageType": "offer"
       }
     ]
@@ -232,9 +232,15 @@
       }
     ]
   },
-  "prePurchase": true,
-  "releaseDate": "2025-03-25T14:00:00.000Z",
-  "pcReleaseDate": "2025-03-25T14:00:00.000Z",
+  "prePurchase": false,
+  "releaseDate": null,
+  "pcReleaseDate": null,
   "viewableDate": "2023-08-22T20:00:00.000Z",
-  "approximateReleasePlan": null
+  "approximateReleasePlan": {
+    "day": null,
+    "month": null,
+    "quarter": null,
+    "year": 2025,
+    "releaseDateType": "BY_YEAR"
+  }
 }
