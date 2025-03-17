@@ -122,11 +122,59 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "multiversus",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "multiversus--gleamium-bonus-offer",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "multiversus--pouch-of-gleamium",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "multiversus--box-of-gleamium",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "multiversus--sack-of-gleamium",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "multiversus--handful-of-gleamium",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "multiversus--chest-of-gleamium",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Player First Games",
   "publisherDisplayName": "Warner Bros. Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-05-28T17:00:00.000Z",
   "pcReleaseDate": "2024-05-28T17:00:00.000Z",
