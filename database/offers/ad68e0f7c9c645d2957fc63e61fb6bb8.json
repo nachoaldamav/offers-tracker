@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "creationDate": "2025-03-11T23:42:05.741Z",
-  "lastModifiedDate": "2025-03-18T02:43:55.202Z",
+  "lastModifiedDate": "2025-03-18T20:25:06.347Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -151,16 +151,33 @@
   ],
   "developerDisplayName": "AKIYAM",
   "publisherDisplayName": "AKIYAM",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
-  "releaseDate": "2025-03-31T00:00:00.000Z",
-  "pcReleaseDate": "2025-03-17T00:00:00.000Z",
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2025-03-12T03:00:00.000Z",
   "approximateReleasePlan": {
     "day": null,
-    "month": 3,
+    "month": null,
     "quarter": null,
-    "year": 2025,
-    "releaseDateType": "BY_MONTH"
+    "year": null,
+    "releaseDateType": "UNKNOWN"
   }
 }

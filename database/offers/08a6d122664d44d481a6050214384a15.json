@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "creationDate": "2025-03-05T14:35:28.666Z",
-  "lastModifiedDate": "2025-03-11T15:45:07.699Z",
+  "lastModifiedDate": "2025-03-18T20:25:06.682Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -155,16 +155,33 @@
   ],
   "developerDisplayName": "CYP",
   "publisherDisplayName": "BZH Gamez Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
-  "releaseDate": "2025-03-13T00:00:00.000Z",
-  "pcReleaseDate": "2025-03-06T00:00:00.000Z",
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2025-03-05T14:35:27.000Z",
   "approximateReleasePlan": {
-    "day": 13,
-    "month": 3,
+    "day": null,
+    "month": null,
     "quarter": null,
-    "year": 2025,
-    "releaseDateType": "BY_DATE"
+    "year": null,
+    "releaseDateType": "UNKNOWN"
   }
 }
