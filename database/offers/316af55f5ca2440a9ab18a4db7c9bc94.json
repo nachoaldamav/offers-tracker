@@ -103,11 +103,40 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-rusty-sword-vanguard-island-704cbe",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "the-rusty-sword-vanguard-island-704cbe",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Plow Games, LLC.",
   "publisherDisplayName": "Plow Games, LLC.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 99,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-10T17:00:00.000Z",
   "pcReleaseDate": "2022-05-02T04:00:00.000Z",
