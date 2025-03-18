@@ -139,13 +139,19 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "tomb-raider-ivvi-remastered-0be789",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tomb-raider-ivvi-remastered-0be789",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "tomb-raider-ivvi-remastered-prepurchase-testing-b4f9d0",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Aspyr",
   "publisherDisplayName": "Aspyr",
   "price": null,
