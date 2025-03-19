@@ -94,8 +94,15 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "loopmancer",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "eBrain Studio",
   "publisherDisplayName": "EHOME ENTERTAINMENT DEVELOPMENT COMPANY LIMITED",
   "price": null,

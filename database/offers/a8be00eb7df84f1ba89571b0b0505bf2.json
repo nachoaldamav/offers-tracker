@@ -103,13 +103,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "aegis-descent-a1f5a0",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "aegis-descent-a1f5a0",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "aegis-descent-aegis-descent-soundtrack-2f1f9c",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Traega Entertainment",
   "publisherDisplayName": "Traega Entertainment",
   "price": null,
