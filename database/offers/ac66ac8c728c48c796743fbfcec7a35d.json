@@ -91,13 +91,15 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "ships-cat-05cc6b",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ships-cat-05cc6b",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Caddy Computing",
   "publisherDisplayName": "Caddy Computing",
   "price": null,
