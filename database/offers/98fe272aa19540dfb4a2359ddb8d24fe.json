@@ -166,8 +166,20 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "bugsnax",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "bugsnax",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Young Horses",
   "publisherDisplayName": "Young Horses",
   "price": null,

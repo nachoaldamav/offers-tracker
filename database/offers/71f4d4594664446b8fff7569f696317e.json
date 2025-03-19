@@ -91,8 +91,23 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "we-are-football",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "we-are-football--dlc-edition-bundesliga",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "we-are-football--national-teams",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
   "price": null,

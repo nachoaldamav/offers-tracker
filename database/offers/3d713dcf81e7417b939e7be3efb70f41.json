@@ -110,8 +110,23 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-signifier-directors-cut--ost",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-signifier-directors-cut--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-signifier-directors-cut",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
   "price": null,

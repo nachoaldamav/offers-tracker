@@ -90,8 +90,23 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "unexplored-2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "unexplored-2--official-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "unexplored-2--digital-artbook",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Ludomotion",
   "publisherDisplayName": "Ludomotion",
   "price": null,
