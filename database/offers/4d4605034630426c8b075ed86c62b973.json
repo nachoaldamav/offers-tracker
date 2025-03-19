@@ -139,13 +139,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "defense-of-fort-burton-3836db",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "defense-of-fort-burton-3836db",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "defense-of-fort-burton-faq-ade65c",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Ledx",
   "publisherDisplayName": "Ledx",
   "price": null,
