@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-03-20T17:00:00.000Z",
   "creationDate": "2024-03-07T11:15:00.469Z",
-  "lastModifiedDate": "2025-03-17T11:41:20.204Z",
+  "lastModifiedDate": "2025-03-20T11:19:39.437Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -100,6 +100,10 @@
       "name": "Cloud Saves"
     },
     {
+      "id": "19847",
+      "name": "Achievements"
+    },
+    {
       "id": "1146",
       "name": "City Builder"
     },
@@ -155,7 +159,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "cataclismo-f191d4",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "cataclismo-f191d4",
@@ -164,7 +175,24 @@
   ],
   "developerDisplayName": "Digital Sun",
   "publisherDisplayName": "Hooded Horse",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-03-20T17:00:00.000Z",
   "pcReleaseDate": "2025-03-20T00:00:00.000Z",
