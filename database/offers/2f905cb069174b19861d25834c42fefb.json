@@ -87,13 +87,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "run-a-cafe-58705c",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "run-a-cafe-58705c",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "run-a-cafe-faq-70876f",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "PixelRift Studios",
   "publisherDisplayName": "PixelRift Studios",
   "price": null,
