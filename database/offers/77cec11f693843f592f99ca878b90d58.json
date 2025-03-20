@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-03-20T17:00:00.000Z",
   "creationDate": "2024-03-07T11:15:00.469Z",
-  "lastModifiedDate": "2025-03-20T11:19:39.437Z",
+  "lastModifiedDate": "2025-03-20T16:59:33.828Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -20,6 +20,10 @@
     {
       "type": "Thumbnail",
       "url": "https://cdn1.epicgames.com/spt-assets/a730a8b1b09148619db00c18bc998f09/cataclismo-1cdwe.jpg"
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://de4e52d3-c01a-458e-8430-f80383db3e35?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fa730a8b1b09148619db00c18bc998f09%2Fcataclismo-video-1jusd.jpg"
     },
     {
       "type": "heroCarouselVideo",
@@ -74,10 +78,6 @@
       "url": "https://cdn1.epicgames.com/spt-assets/a730a8b1b09148619db00c18bc998f09/cataclismo-1mt6s.png"
     },
     {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/a730a8b1b09148619db00c18bc998f09/cataclismo-1ne2b.png"
-    },
-    {
       "type": "OgImage",
       "url": "https://cdn1.epicgames.com/spt-assets/a730a8b1b09148619db00c18bc998f09/cataclismo-ao90c.jpg"
     }
@@ -112,12 +112,12 @@
       "name": "Single Player"
     },
     {
-      "id": "9547",
-      "name": "Windows"
-    },
-    {
       "id": "1115",
       "name": "Strategy"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
     }
   ],
   "items": [
@@ -177,10 +177,10 @@
   "publisherDisplayName": "Hooded Horse",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 1949,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1050,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -189,13 +189,17 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "d47340f2e1494e67af8b741749392065"
+          }
+        ]
       }
     ]
   },
   "prePurchase": null,
   "releaseDate": "2025-03-20T17:00:00.000Z",
-  "pcReleaseDate": "2025-03-20T00:00:00.000Z",
+  "pcReleaseDate": "2025-03-20T17:00:00.000Z",
   "viewableDate": "2025-02-20T14:00:01.000Z",
   "approximateReleasePlan": null
 }
