@@ -106,8 +106,19 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tacoma",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "tacoma--faq",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
   "price": null,
