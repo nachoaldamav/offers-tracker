@@ -223,10 +223,10 @@
   "publisherDisplayName": "Frontier Developments",
   "price": {
     "totalPrice": {
-      "discountPrice": 5999,
+      "discountPrice": 0,
       "originalPrice": 5999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 5999,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -235,7 +235,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "7ea8924459ac40a0b61e5e1223e0f864"
+          }
+        ]
       }
     ]
   },
