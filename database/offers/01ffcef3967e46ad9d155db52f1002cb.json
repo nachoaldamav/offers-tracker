@@ -119,7 +119,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "metaverser-faq-1153cd",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "metaverser-725e3c",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "metaverser-725e3c",
@@ -128,7 +139,24 @@
   ],
   "developerDisplayName": "TerraMetas",
   "publisherDisplayName": "TerraMetas",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-08-07T20:30:00.000Z",
   "pcReleaseDate": "2023-08-07T20:30:00.000Z",
