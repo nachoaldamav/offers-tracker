@@ -79,7 +79,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "scarf-dd1030",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "scarf-dd1030",
@@ -88,7 +95,28 @@
   ],
   "developerDisplayName": "Uprising Studios SL",
   "publisherDisplayName": "HandyGames",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 494,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 1005,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "c5685fb346ab49c2aa25121a8a53dfc9"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-12-23T14:00:00.000Z",
   "pcReleaseDate": "2021-12-23T14:00:00.000Z",
