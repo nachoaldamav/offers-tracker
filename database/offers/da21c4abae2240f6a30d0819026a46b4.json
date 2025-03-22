@@ -87,28 +87,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": "Hidden Leaf Games",
-  "publisherDisplayName": "Hidden Leaf Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 0,
-      "originalPrice": 0,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": []
+        "pageSlug": "fangs--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "fangs",
+        "pageType": "productHome"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": "Hidden Leaf Games",
+  "publisherDisplayName": "Hidden Leaf Games",
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2022-11-30T18:00:00.000Z",
   "pcReleaseDate": "2022-11-30T18:00:00.000Z",
