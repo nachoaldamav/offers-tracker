@@ -95,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sunlight-scream-de8642",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "sunlight-scream-de8642",
@@ -104,24 +111,7 @@
   ],
   "developerDisplayName": "Faithy",
   "publisherDisplayName": "Faithy Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 699,
-      "originalPrice": 699,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-10-01T15:00:00.000Z",
   "pcReleaseDate": "2023-10-01T15:00:00.000Z",
