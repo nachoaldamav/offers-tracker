@@ -179,11 +179,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "build-from-block-6832bb",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "build-from-block-6832bb",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Pine Games",
   "publisherDisplayName": "Pine Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 49,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 50,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "6d386be25f3d4198815e196aa3a9331d"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-02-01T07:00:00.000Z",
   "pcReleaseDate": "2025-02-01T07:00:00.000Z",
