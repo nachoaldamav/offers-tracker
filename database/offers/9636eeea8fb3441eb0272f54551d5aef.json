@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-03-30T13:00:00.000Z",
   "creationDate": "2020-07-02T12:15:27.539Z",
-  "lastModifiedDate": "2025-03-12T13:55:36.973Z",
+  "lastModifiedDate": "2025-03-22T17:01:55.451Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -104,10 +104,6 @@
       "name": "Single Player"
     },
     {
-      "id": "21147",
-      "name": "Inclusive Character Customization"
-    },
-    {
       "id": "1117",
       "name": "Adventure"
     },
@@ -154,7 +150,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "kingdom-hearts-iii",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "kingdom-hearts-iii--disneyplus-offer-faq",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
