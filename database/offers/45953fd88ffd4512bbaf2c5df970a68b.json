@@ -87,7 +87,22 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-hidden-room-pyramid-the-hidden-room-pyramid-demo-021fab",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-hidden-room-pyramid-b0b04a",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-hidden-room-pyramid-faq-c8a59e",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-hidden-room-pyramid-b0b04a",
@@ -96,7 +111,24 @@
   ],
   "developerDisplayName": "Mario Amato, Emanuele Avallone",
   "publisherDisplayName": "Emanuele Avallone",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 199,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-06-06T17:00:00.000Z",
   "pcReleaseDate": "2024-06-06T17:00:00.000Z",
