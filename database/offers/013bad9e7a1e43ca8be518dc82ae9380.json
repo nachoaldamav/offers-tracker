@@ -155,11 +155,52 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "virtual-girlfriend-c73dd6",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "virtual-girlfriend-faq-592b78",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "virtual-girlfriend-virtual-girlfriend-extended-edition-f32e4e",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "virtual-girlfriend-virtual-girlfriend-fashion-and-style-expansion-f88b1a",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "virtual-girlfriend-c73dd6",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Soer Game Studio",
   "publisherDisplayName": "Soer Game Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-03-30T12:00:00.000Z",
   "pcReleaseDate": "2025-03-30T12:00:00.000Z",
