@@ -131,7 +131,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "system-shock-2-25th-anniversary-remaster-cb94d9",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "system-shock-2-25th-anniversary-remaster-cb94d9",
@@ -140,7 +147,28 @@
   ],
   "developerDisplayName": "Nightdive Studios",
   "publisherDisplayName": "Nightdive Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2699,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 300,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "13cca74d8fd240b8895c1edb3161a048"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": true,
   "releaseDate": "2025-06-26T12:00:00.000Z",
   "pcReleaseDate": "2025-06-26T12:00:00.000Z",
