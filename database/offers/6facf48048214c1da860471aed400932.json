@@ -94,8 +94,19 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "phantom-brigade",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "phantom-brigade--early-access-faq",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Brace Yourself Games",
   "publisherDisplayName": "Brace Yourself Games",
   "price": null,

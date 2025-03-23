@@ -162,8 +162,23 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "cyberpunk-2077",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "cyberpunk-2077--ultimate-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "cyberpunk-2077--phantom-liberty",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
   "price": null,
