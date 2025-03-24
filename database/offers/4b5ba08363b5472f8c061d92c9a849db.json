@@ -130,8 +130,15 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ring-of-pain",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Simon Boxer, Twice Different",
   "publisherDisplayName": "Humble Games",
   "price": null,
