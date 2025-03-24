@@ -135,8 +135,19 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "madden-nfl-24",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "madden-nfl-24--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Tiburon",
   "publisherDisplayName": "Electronic Arts",
   "price": null,
