@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-09-09T08:00:00.000Z",
   "creationDate": "2022-09-05T15:21:20.715Z",
-  "lastModifiedDate": "2025-02-24T16:01:41.018Z",
+  "lastModifiedDate": "2025-03-24T13:41:20.571Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -56,6 +56,10 @@
       "value": "false"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
+    {
       "key": "isManuallySetPCReleaseDate",
       "value": "true"
     },
@@ -91,7 +95,24 @@
   ],
   "developerDisplayName": "Foldergeist Studios",
   "publisherDisplayName": "Fulqrum Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 699,
+      "originalPrice": 699,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-09-09T08:00:00.000Z",
   "pcReleaseDate": "2016-09-12T17:00:00.000Z",

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-05-19T14:00:00.000Z",
   "creationDate": "2022-04-05T08:46:07.526Z",
-  "lastModifiedDate": "2025-02-24T16:01:42.301Z",
+  "lastModifiedDate": "2025-03-24T13:42:11.909Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -68,6 +68,10 @@
       "value": "false"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
+    {
       "key": "isManuallySetPCReleaseDate",
       "value": "true"
     },
@@ -87,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "fall-of-light-darkest-edition-055f95",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "fall-of-light-darkest-edition-055f95",
@@ -96,7 +107,24 @@
   ],
   "developerDisplayName": "RuneHeads",
   "publisherDisplayName": "Fulqrum Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-05-19T14:00:00.000Z",
   "pcReleaseDate": "2017-09-28T00:00:00.000Z",
