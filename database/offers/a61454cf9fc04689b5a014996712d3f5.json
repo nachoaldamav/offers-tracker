@@ -118,7 +118,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "fell-seal-arbiters-mark",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "fell-seal-arbiters-mark--missions-and-monsters",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

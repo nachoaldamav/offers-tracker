@@ -102,8 +102,23 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "gods-trigger--omg-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "gods-trigger",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "gods-trigger--omg-edition-extras",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
   "price": null,
