@@ -111,13 +111,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "project_war-cc055b",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "project_war-cc055b",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "project_war-faq-e3250a",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "TAG Technology Group LLC dba Together Again Gaming",
   "publisherDisplayName": "TAG Technology Group LLC dba Together Again Gaming",
   "price": null,
