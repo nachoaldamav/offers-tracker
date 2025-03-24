@@ -79,11 +79,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "civil-war-1862-f542d2",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "civil-war-1862-f542d2",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "HexWar Games Ltd",
   "publisherDisplayName": "Hunted Cow Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 799,
+      "originalPrice": 799,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-08-31T11:00:00.000Z",
   "pcReleaseDate": "2016-10-06T11:00:00.000Z",
