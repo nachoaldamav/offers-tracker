@@ -119,7 +119,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "beyond-limits-eb8966",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "beyond-limits-eb8966",
@@ -128,7 +135,28 @@
   ],
   "developerDisplayName": "Vault Games",
   "publisherDisplayName": "Vault Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 419,
+      "originalPrice": 599,
+      "voucherDiscount": 0,
+      "discount": 180,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "f6f46bd9a5794214b1eaa84854f309d7"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-03-24T21:00:00.000Z",
   "pcReleaseDate": "2025-03-24T21:00:00.000Z",
