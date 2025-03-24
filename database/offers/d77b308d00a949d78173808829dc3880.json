@@ -107,13 +107,19 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "active-and-operational-a827e6",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "active-and-operational-a827e6",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "active-and-operational-faq-61877e",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Intellicialis",
   "publisherDisplayName": "Intellicialis",
   "price": null,
