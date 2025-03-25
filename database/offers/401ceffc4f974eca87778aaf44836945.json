@@ -99,13 +99,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "planeticusgame-5dd84a",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "planeticusgame-5dd84a",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "planeticusgame-faq-499c65",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Keshbel Games",
   "publisherDisplayName": "Keshbel Games",
   "price": null,

@@ -94,8 +94,15 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "aragami-2",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Lince Works",
   "publisherDisplayName": "Lince Works",
   "price": null,

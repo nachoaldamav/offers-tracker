@@ -91,13 +91,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "wildfire-f4546e",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "wildfire-f4546e",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "wildfire-faq-d815ba",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Beslogic inc",
   "publisherDisplayName": "Beslogic inc",
   "price": null,

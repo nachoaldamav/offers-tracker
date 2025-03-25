@@ -91,13 +91,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "frigato-shadows-of-the-caribbean-7bf7bf",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "frigato-shadows-of-the-caribbean-7bf7bf",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "frigato-shadows-of-the-caribbean-faq-f90856",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Mercat Games",
   "publisherDisplayName": "FreeMind",
   "price": null,

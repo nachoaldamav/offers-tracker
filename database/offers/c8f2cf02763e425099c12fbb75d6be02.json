@@ -91,13 +91,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "aquarist-eb083d",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "aquarist-eb083d",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "aquarist-faq-c42644",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "FreeMind",
   "publisherDisplayName": "FreeMind",
   "price": null,
