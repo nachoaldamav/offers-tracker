@@ -163,8 +163,24 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "quacksquad-64a215",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "quacksquad-faq-6fa336",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "quacksquad-64a215",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "BoxCutter GameDev",
   "publisherDisplayName": "BoxCutter GameDev",
   "price": null,
