@@ -91,11 +91,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "daymare-1994-sandcastle-eb41d5",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "daymare-1994-sandcastle-eb41d5",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Invader Stuidios",
   "publisherDisplayName": "Leonardo Interactive, 4Divinity",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-08-30T13:00:00.000Z",
   "pcReleaseDate": "2023-08-30T13:00:00.000Z",
