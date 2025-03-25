@@ -99,11 +99,48 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "forest-quartet-android-eb07b9",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "forest-quartet-ios-eea63c",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "forest-quartet-5d03e3",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "forest-quartet-5d03e3",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Mads & Friends",
   "publisherDisplayName": "Bedtime Digital Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-09-21T15:00:00.000Z",
   "pcReleaseDate": "2022-12-08T17:00:00.000Z",
