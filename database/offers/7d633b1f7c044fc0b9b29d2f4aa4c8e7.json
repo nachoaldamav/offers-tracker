@@ -82,8 +82,31 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "steelrising",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "steelrising--discus-chain",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "steelrising--cagliostros-secrets",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "steelrising--marie-antoinette-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "steelrising--bastille-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "SPIDERS S.A.R.L.",
   "publisherDisplayName": "Nacon",
   "price": null,

@@ -73,8 +73,23 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "assassins-creed-shadows",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "assassins-creed-shadows--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-shadows--premium-starter-pack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Ubisoft Entertainment",
   "publisherDisplayName": "Ubisoft Entertainment",
   "price": null,
