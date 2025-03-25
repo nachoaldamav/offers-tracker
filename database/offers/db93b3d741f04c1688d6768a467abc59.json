@@ -118,7 +118,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "wolfenstein-the-old-blood",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "wolfenstein-the-old-blood--worldwide",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
