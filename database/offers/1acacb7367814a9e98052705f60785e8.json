@@ -96,7 +96,30 @@
       "path": "games/edition"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "chivalry-2--special-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "chivalry-2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "chivalry-2--kings-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "chivalry-2--special-edition-content",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "chivalry-2--kings-edition-content",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "chivalry-2--special-edition",
@@ -105,7 +128,24 @@
   ],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-06-08T15:00:00.000Z",
   "pcReleaseDate": "2021-06-08T15:00:00.000Z",
