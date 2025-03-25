@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-08-15T23:00:00.000Z",
   "creationDate": "2023-11-13T00:18:01.882Z",
-  "lastModifiedDate": "2025-02-18T16:00:30.727Z",
+  "lastModifiedDate": "2025-03-25T15:00:30.459Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1294",
@@ -109,10 +113,10 @@
   "publisherDisplayName": "JMG",
   "price": {
     "totalPrice": {
-      "discountPrice": 599,
+      "discountPrice": 299,
       "originalPrice": 599,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 300,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "ec8214fa48c3489e88345b3be0593bcd"
+          }
+        ]
       }
     ]
   },
