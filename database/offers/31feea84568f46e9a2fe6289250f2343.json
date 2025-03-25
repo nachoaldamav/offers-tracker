@@ -147,18 +147,28 @@
       "path": "games/edition"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "alan-wake-remastered",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [],
   "developerDisplayName": "",
   "publisherDisplayName": "",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": false,
   "releaseDate": "2021-10-05T04:00:00.000Z",
   "pcReleaseDate": "2021-10-05T04:00:00.000Z",
