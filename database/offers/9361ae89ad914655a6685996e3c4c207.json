@@ -99,13 +99,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "fusyfox-752d01",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "fusyfox-752d01",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "fusyfox-faq-224a48",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "FSN Global",
   "publisherDisplayName": "FSN Global",
   "price": null,
