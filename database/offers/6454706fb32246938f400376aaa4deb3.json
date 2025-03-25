@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-throne-c82f40",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-throne-c82f40",
@@ -100,7 +107,28 @@
   ],
   "developerDisplayName": "BeByte Publisher, Sociedad Limitada",
   "publisherDisplayName": "BeByte Publisher, Sociedad Limitada",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 699,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 300,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "0b787e436ea0446f9435415ff092ce8c"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-02-20T23:00:00.000Z",
   "pcReleaseDate": "2025-02-20T23:00:00.000Z",
