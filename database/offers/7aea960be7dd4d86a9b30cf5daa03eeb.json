@@ -130,11 +130,55 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "mudrunner--old-timers",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "mudrunner--american-wilds-expansion",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "mudrunner--american-wilds-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "mudrunner--the-ridge",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "mudrunner--the-valley",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "mudrunner",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Saber Interactive",
   "publisherDisplayName": "Focus Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-11-26T16:00:00.000Z",
   "pcReleaseDate": "2020-11-26T16:00:00.000Z",
