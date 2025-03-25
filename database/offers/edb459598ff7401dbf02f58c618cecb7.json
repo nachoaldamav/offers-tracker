@@ -150,13 +150,15 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "dungeon-fighter-online",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "dungeon-fighter-online",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Neople, INC",
   "publisherDisplayName": "Neople, INC",
   "price": null,
