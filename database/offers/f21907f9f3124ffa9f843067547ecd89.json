@@ -99,13 +99,19 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "havens-compass-c31bb4",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "havens-compass-c31bb4",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "havens-compass-faq-31efac",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Ghost Ivy Development Studio AG",
   "publisherDisplayName": "Ghost Ivy Development Studio AG",
   "price": null,
