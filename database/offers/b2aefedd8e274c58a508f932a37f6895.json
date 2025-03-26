@@ -91,11 +91,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "remedium-811743",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "remedium-faq-22aadd",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "remedium-811743",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Sobaka Studio",
   "publisherDisplayName": "ESDigital Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1259,
+      "originalPrice": 1799,
+      "voucherDiscount": 0,
+      "discount": 540,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "0a310fc2b22245f5b25b5230ca5cb36d"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-09-14T15:00:00.000Z",
   "pcReleaseDate": "2023-09-14T15:00:00.000Z",
