@@ -95,28 +95,31 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
-  "developerDisplayName": "Hazimation",
-  "publisherDisplayName": "Hazimation",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1499,
-      "originalPrice": 1499,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": []
+        "pageSlug": "max-beyond-c85995",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "max-beyond-demo-9552fb",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "max-beyond-faq-4e1032",
+        "pageType": "info"
       }
     ]
   },
+  "offerMappings": [
+    {
+      "pageSlug": "max-beyond-c85995",
+      "pageType": "productHome"
+    }
+  ],
+  "developerDisplayName": "Hazimation",
+  "publisherDisplayName": "Hazimation",
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",
