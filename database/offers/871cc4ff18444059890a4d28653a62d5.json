@@ -95,7 +95,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "beacon-pines-faq-5bc0cc",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "beacon-pines-629fc3",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "beacon-pines-629fc3",
@@ -104,7 +115,28 @@
   ],
   "developerDisplayName": "Hiding Spot",
   "publisherDisplayName": "Fellow Traveller",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 799,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "45e72b250a434cd796e1aed1270675f8"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-09-22T15:00:00.000Z",
   "pcReleaseDate": "2022-09-22T15:00:00.000Z",
