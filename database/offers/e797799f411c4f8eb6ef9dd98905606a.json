@@ -98,13 +98,19 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "endling-extinction-is-forever",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "endling-extinction-is-forever",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "endling-extinction-is-forever-android-290a3d",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Herobeat Studios",
   "publisherDisplayName": "HandyGames",
   "price": null,
