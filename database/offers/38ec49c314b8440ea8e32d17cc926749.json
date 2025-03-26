@@ -87,7 +87,22 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "relegion-relegion-digital_artbook_-ce51af",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "relegion-fe9684",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "relegion-relegion-digital_soundtrack_-8a2caf",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "relegion-fe9684",
@@ -96,7 +111,24 @@
   ],
   "developerDisplayName": "Ice Code Games",
   "publisherDisplayName": "Fulqrum Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-05-19T14:00:00.000Z",
   "pcReleaseDate": "2019-01-31T00:00:00.000Z",
