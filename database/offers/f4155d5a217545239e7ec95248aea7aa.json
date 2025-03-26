@@ -91,13 +91,15 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "beyond-these-stars-a5b977",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "beyond-these-stars-a5b977",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Balancing Monkey Games",
   "publisherDisplayName": "Hooded Horse",
   "price": null,

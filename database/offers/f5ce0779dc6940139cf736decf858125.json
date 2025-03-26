@@ -131,13 +131,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "the-readyverse-9bb701",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-readyverse-9bb701",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-readyverse-faq-f2f5c9",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "The Readyverse",
   "publisherDisplayName": "Readyverse Studios",
   "price": null,

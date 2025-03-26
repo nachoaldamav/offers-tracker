@@ -135,13 +135,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "knock-on-the-coffin-lid-701ec9",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "knock-on-the-coffin-lid-701ec9",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "knock-on-the-coffin-lid-nightmares-of-millenis-43342b",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "RedBoon",
   "publisherDisplayName": "RedBoon",
   "price": null,
