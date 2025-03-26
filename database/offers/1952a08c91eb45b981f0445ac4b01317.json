@@ -154,7 +154,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "serial-cleaners--dino-park",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "serial-cleaners",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "serial-cleaners",
