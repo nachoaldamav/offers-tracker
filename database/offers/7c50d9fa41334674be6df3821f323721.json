@@ -147,7 +147,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "illuvium-zero-ca46a6",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "illuvium-zero-faq-68acbd",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "illuvium-zero-ca46a6",
@@ -156,7 +167,24 @@
   ],
   "developerDisplayName": "Illuvium Labs",
   "publisherDisplayName": "Illuvium Labs",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-07-12T16:21:58.130Z",
   "pcReleaseDate": "2024-07-10T16:00:00.000Z",
