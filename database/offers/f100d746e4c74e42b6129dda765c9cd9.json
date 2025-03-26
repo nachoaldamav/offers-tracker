@@ -238,7 +238,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "medieval-dynasty--digital-supporter-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "medieval-dynasty",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "medieval-dynasty",
@@ -247,28 +258,7 @@
   ],
   "developerDisplayName": "Render Cube",
   "publisherDisplayName": "Toplitz Productions",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 2274,
-      "originalPrice": 3499,
-      "voucherDiscount": 0,
-      "discount": 1225,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "4119a9586cad40dd9a47e0373ee3eed5"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2020-12-17T16:00:00.000Z",
   "pcReleaseDate": "2020-12-17T16:00:00.000Z",
