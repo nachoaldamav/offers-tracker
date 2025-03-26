@@ -103,13 +103,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "art-is-rifle-897224",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "art-is-rifle-faq-ded02a",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "art-is-rifle-897224",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Arman Pakan",
   "publisherDisplayName": "Code Psyche Productions",
   "price": null,
