@@ -96,10 +96,36 @@
     }
   ],
   "catalogNs": null,
-  "offerMappings": null,
+  "offerMappings": [
+    {
+      "pageSlug": "everlasting-guilt-213534",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Geeky Mouse",
   "publisherDisplayName": "Geeky Mouse",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "83140d4f1251415dbdec2ec1713519d0"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-07-01T10:00:00.000Z",
   "pcReleaseDate": "2021-07-11T23:00:00.000Z",
