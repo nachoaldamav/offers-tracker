@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-06-10T22:00:00.000Z",
   "creationDate": "2024-05-06T05:54:30.643Z",
-  "lastModifiedDate": "2025-02-18T16:00:30.726Z",
+  "lastModifiedDate": "2025-03-26T16:01:42.696Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "1263",
       "name": "Indie"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -113,10 +117,10 @@
   "publisherDisplayName": "A Devs",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 199,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 300,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "24c80b7c641b4628b1e9c1f3fe89d077"
+          }
+        ]
       }
     ]
   },

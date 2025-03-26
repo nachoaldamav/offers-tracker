@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-10-16T16:00:00.000Z",
   "creationDate": "2023-01-23T18:13:35.596Z",
-  "lastModifiedDate": "2025-02-24T16:01:50.409Z",
+  "lastModifiedDate": "2025-03-26T16:01:52.870Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "10719",
       "name": "Mac OS"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -109,10 +113,10 @@
   "publisherDisplayName": "Freedom Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 449,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 550,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "77d7ff5dd0ad4f63b9a9c2cee315cd0a"
+          }
+        ]
       }
     ]
   },

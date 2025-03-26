@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-04-05T16:30:00.000Z",
   "creationDate": "2023-01-09T05:46:45.004Z",
-  "lastModifiedDate": "2025-02-24T16:01:26.867Z",
+  "lastModifiedDate": "2025-03-26T16:02:17.929Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "1263",
       "name": "Indie"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -105,10 +109,10 @@
   "publisherDisplayName": "Alawar Premium",
   "price": {
     "totalPrice": {
-      "discountPrice": 699,
+      "discountPrice": 209,
       "originalPrice": 699,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 490,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -117,7 +121,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "061199963dd74e4487100137695c9561"
+          }
+        ]
       }
     ]
   },

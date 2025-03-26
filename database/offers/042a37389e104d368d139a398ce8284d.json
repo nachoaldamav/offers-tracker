@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-12-20T04:30:00.000Z",
   "creationDate": "2024-12-16T17:35:15.621Z",
-  "lastModifiedDate": "2025-02-04T16:00:30.705Z",
+  "lastModifiedDate": "2025-03-26T16:02:03.483Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -106,6 +106,10 @@
     {
       "id": "1294",
       "name": "First Person"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -169,10 +173,10 @@
   "publisherDisplayName": "Yash Future Tech Solutions Pvt Ltd",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 99,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 900,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -181,7 +185,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "a5833127af8943a2998793542122bc3b"
+          }
+        ]
       }
     ]
   },

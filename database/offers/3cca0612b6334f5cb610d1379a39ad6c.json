@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-03-04T16:00:00.000Z",
   "creationDate": "2024-08-13T06:44:29.044Z",
-  "lastModifiedDate": "2024-10-18T05:15:21.700Z",
+  "lastModifiedDate": "2025-03-26T16:02:06.466Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     },
     {
       "id": "1264",
@@ -202,7 +206,28 @@
   ],
   "developerDisplayName": "Eugen Systems",
   "publisherDisplayName": "Eugen Systems",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 749,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 2250,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "7f4b1b0961f04aa3aa9e84adaf9bc2a5"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-03-04T16:00:00.000Z",
   "pcReleaseDate": "2014-04-17T16:00:00.000Z",

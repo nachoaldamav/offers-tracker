@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-12-19T16:00:00.000Z",
   "creationDate": "2021-11-15T22:32:04.592Z",
-  "lastModifiedDate": "2022-05-19T14:23:01.971Z",
+  "lastModifiedDate": "2025-03-26T16:01:52.869Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -62,6 +62,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -107,10 +111,10 @@
   "publisherDisplayName": "The Astronauts",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 399,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1600,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -119,7 +123,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "7675eec196a9432eb4e163c441219913"
+          }
+        ]
       }
     ]
   },

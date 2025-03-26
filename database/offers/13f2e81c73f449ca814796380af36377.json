@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-10-19T17:00:00.000Z",
   "creationDate": "2023-03-31T14:54:15.976Z",
-  "lastModifiedDate": "2025-02-24T16:01:16.519Z",
+  "lastModifiedDate": "2025-03-26T16:01:12.553Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "1263",
       "name": "Indie"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -127,7 +131,28 @@
   ],
   "developerDisplayName": "Byte Barrel",
   "publisherDisplayName": "Fulqrum Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "25f7eb2497e74120b90610b37c8f3c01"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-19T17:00:00.000Z",
   "pcReleaseDate": "2023-10-19T17:00:00.000Z",

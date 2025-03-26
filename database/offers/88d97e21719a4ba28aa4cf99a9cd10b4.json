@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-04-28T09:00:00.000Z",
   "creationDate": "2021-10-07T21:23:51.874Z",
-  "lastModifiedDate": "2025-02-24T16:01:45.311Z",
+  "lastModifiedDate": "2025-03-26T16:01:46.228Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -62,6 +62,10 @@
     {
       "id": "1263",
       "name": "Indie"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -121,10 +125,10 @@
   "publisherDisplayName": "Fireshine Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 499,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +137,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "8f50dd39e1134b59b66904ebef9bfc0f"
+          }
+        ]
       }
     ]
   },

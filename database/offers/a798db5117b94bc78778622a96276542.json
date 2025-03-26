@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-08-31T15:00:00.000Z",
   "creationDate": "2021-08-25T23:04:39.032Z",
-  "lastModifiedDate": "2025-02-24T16:01:13.344Z",
+  "lastModifiedDate": "2025-03-26T16:02:02.009Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -66,6 +66,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -122,10 +126,10 @@
   "publisherDisplayName": null,
   "price": {
     "totalPrice": {
-      "discountPrice": 4999,
+      "discountPrice": 1499,
       "originalPrice": 4999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 3500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -134,7 +138,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "1388fc73707b4ec78aa8e1c343e5d84a"
+          }
+        ]
       }
     ]
   },

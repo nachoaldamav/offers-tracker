@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-12-01T10:00:00.000Z",
   "creationDate": "2023-11-30T01:42:49.505Z",
-  "lastModifiedDate": "2025-02-24T16:01:11.936Z",
+  "lastModifiedDate": "2025-03-26T16:02:00.374Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -105,10 +109,10 @@
   "publisherDisplayName": "MediBang",
   "price": {
     "totalPrice": {
-      "discountPrice": 1599,
+      "discountPrice": 639,
       "originalPrice": 1599,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 960,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -117,7 +121,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "49f9211046d9435d8d31819d0fb0ed58"
+          }
+        ]
       }
     ]
   },

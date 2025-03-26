@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-10-31T12:00:00.000Z",
   "creationDate": "2023-03-12T16:16:55.410Z",
-  "lastModifiedDate": "2025-03-17T14:53:24.507Z",
+  "lastModifiedDate": "2025-03-26T16:01:55.824Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "1263",
       "name": "Indie"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -133,10 +137,10 @@
   "publisherDisplayName": "Amanita Design",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 449,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1050,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -145,7 +149,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "6a2e0d2e88284c1ab550ff47d6794124"
+          }
+        ]
       }
     ]
   },

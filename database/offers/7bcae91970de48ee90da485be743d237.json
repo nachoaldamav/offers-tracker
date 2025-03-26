@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-09-27T20:30:00.000Z",
   "creationDate": "2023-10-27T16:22:45.023Z",
-  "lastModifiedDate": "2025-03-15T19:26:38.293Z",
+  "lastModifiedDate": "2025-03-26T16:02:39.082Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "1263",
       "name": "Indie"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -113,10 +117,10 @@
   "publisherDisplayName": "BoxGames Productions",
   "price": {
     "totalPrice": {
-      "discountPrice": 799,
+      "discountPrice": 599,
       "originalPrice": 799,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "0b26ca90d24c417ab20406d8bfafd056"
+          }
+        ]
       }
     ]
   },

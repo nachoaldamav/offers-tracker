@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2019-09-13T00:00:00.000Z",
   "creationDate": "2024-06-17T15:36:35.265Z",
-  "lastModifiedDate": "2025-02-24T16:01:13.346Z",
+  "lastModifiedDate": "2025-03-26T16:02:02.014Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -62,6 +62,10 @@
     {
       "id": "10719",
       "name": "Mac OS"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -132,10 +136,10 @@
   "publisherDisplayName": "Panic",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 999,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -144,7 +148,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "7993a9db0614412fa1c41209d2bf1a1c"
+          }
+        ]
       }
     ]
   },

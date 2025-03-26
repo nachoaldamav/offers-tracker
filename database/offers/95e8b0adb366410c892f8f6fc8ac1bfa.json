@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-02-27T16:00:00.000Z",
   "creationDate": "2019-05-05T20:52:38.048Z",
-  "lastModifiedDate": "2025-02-24T16:01:25.290Z",
+  "lastModifiedDate": "2025-03-26T16:02:16.094Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "10719",
       "name": "Mac OS"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -91,10 +95,10 @@
   "publisherDisplayName": "Aspyr Media, Inc.",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 199,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1800,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -103,7 +107,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "7522f166841d42f9807d12be78678cb0"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-06-27T08:00:00.000Z",
   "creationDate": "2024-03-21T16:40:36.912Z",
-  "lastModifiedDate": "2025-02-24T16:01:53.327Z",
+  "lastModifiedDate": "2025-03-26T16:01:55.825Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "1117",
       "name": "Adventure"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -113,10 +117,10 @@
   "publisherDisplayName": "Microids",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 499,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "df81098e4de7457abc16cb1ccb8a309e"
+          }
+        ]
       }
     ]
   },

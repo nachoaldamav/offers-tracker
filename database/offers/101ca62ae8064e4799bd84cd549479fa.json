@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-05-19T15:00:00.000Z",
   "creationDate": "2021-09-22T23:57:27.953Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.441Z",
+  "lastModifiedDate": "2025-03-26T16:02:24.137Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     },
     {
       "id": "21137",
@@ -135,7 +139,26 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "iratus-d0e5ba",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "iratus-iratus-lord-of-the-dead-supporter-pack-d40cdd",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "iratus-iratus-wrath-of-the-necromancer-e3424b",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "iratus-iratus-dlcs-limited-time-bundle-cae2f7",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "iratus-d0e5ba",
@@ -144,7 +167,28 @@
   ],
   "developerDisplayName": "Unfrozen",
   "publisherDisplayName": "Daedalic Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 2700,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "728fd4cac86444bdb071de75423c8be8"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-05-19T15:00:00.000Z",
   "pcReleaseDate": "2020-04-23T00:00:00.000Z",

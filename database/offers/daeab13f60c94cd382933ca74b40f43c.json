@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-10-19T08:00:00.000Z",
   "creationDate": "2023-04-24T17:08:32.466Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.401Z",
+  "lastModifiedDate": "2025-03-26T16:02:12.799Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "1117",
       "name": "Adventure"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -111,7 +115,28 @@
   ],
   "developerDisplayName": "Microids Studio Lyon",
   "publisherDisplayName": "Microids",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1599,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 2400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "b4c22e98f6c042b999bee4b698db9ea7"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-19T08:00:00.000Z",
   "pcReleaseDate": "2023-10-19T08:00:00.000Z",

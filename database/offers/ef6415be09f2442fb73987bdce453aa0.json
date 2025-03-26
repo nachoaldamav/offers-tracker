@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-11-14T16:00:00.000Z",
   "creationDate": "2023-02-17T15:00:39.797Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.281Z",
+  "lastModifiedDate": "2025-03-26T16:01:34.085Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "9549",
       "name": "Controller Support"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -129,10 +133,10 @@
   "publisherDisplayName": "Microids",
   "price": {
     "totalPrice": {
-      "discountPrice": 3999,
+      "discountPrice": 1599,
       "originalPrice": 3999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -141,7 +145,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "89c9dc19e862421f95faa563ab88176c"
+          }
+        ]
       }
     ]
   },

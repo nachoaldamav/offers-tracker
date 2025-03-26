@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-07-18T17:00:00.000Z",
   "creationDate": "2022-09-15T09:34:57.877Z",
-  "lastModifiedDate": "2025-02-24T16:01:43.965Z",
+  "lastModifiedDate": "2025-03-26T16:01:44.363Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -169,10 +173,10 @@
   "publisherDisplayName": "Wales Interactive",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 1624,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 875,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -181,7 +185,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "7070cf4491cc4ba69e887b31ce08a347"
+          }
+        ]
       }
     ]
   },

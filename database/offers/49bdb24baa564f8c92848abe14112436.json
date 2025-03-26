@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2019-07-18T14:59:00.000Z",
   "creationDate": "2019-06-14T15:50:45.438Z",
-  "lastModifiedDate": "2025-02-24T16:01:44.582Z",
+  "lastModifiedDate": "2025-03-26T16:02:40.671Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -62,6 +62,10 @@
     {
       "id": "1263",
       "name": "Indie"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -111,10 +115,10 @@
   "publisherDisplayName": null,
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 249,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 750,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -123,7 +127,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "6322ed4a3bb8490d9de24b8949738f1b"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-02-08T12:00:00.000Z",
   "creationDate": "2024-12-05T14:08:37.699Z",
-  "lastModifiedDate": "2025-03-26T15:33:05.932Z",
+  "lastModifiedDate": "2025-03-26T16:01:15.898Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -70,6 +70,10 @@
     {
       "id": "1263",
       "name": "Indie"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     },
     {
       "id": "21137",
@@ -176,10 +180,10 @@
   "publisherDisplayName": "Sloclap",
   "price": {
     "totalPrice": {
-      "discountPrice": 3999,
+      "discountPrice": 1599,
       "originalPrice": 3999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -188,7 +192,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "13ed8c78e9834565808b97e9d1939017"
+          }
+        ]
       }
     ]
   },

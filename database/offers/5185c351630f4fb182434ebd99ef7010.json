@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-04-27T14:00:00.000Z",
   "creationDate": "2023-03-09T22:29:25.216Z",
-  "lastModifiedDate": "2025-03-05T03:29:58.558Z",
+  "lastModifiedDate": "2025-03-26T16:01:32.588Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -70,6 +70,10 @@
     {
       "id": "1294",
       "name": "First Person"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -133,10 +137,10 @@
   "publisherDisplayName": "Megastorm Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 399,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 600,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -145,7 +149,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "9771cdbbe1894bf6ac8a6d1408bc8ba5"
+          }
+        ]
       }
     ]
   },

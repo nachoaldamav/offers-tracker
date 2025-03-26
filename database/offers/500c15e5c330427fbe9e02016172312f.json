@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-05-11T17:00:00.000Z",
   "creationDate": "2023-05-11T13:27:31.345Z",
-  "lastModifiedDate": "2025-02-24T16:01:47.985Z",
+  "lastModifiedDate": "2025-03-26T16:02:43.726Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -101,10 +105,10 @@
   "publisherDisplayName": "Fulqrum Publishing",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 74,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 425,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -113,7 +117,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "075b7091f73d445c8017f8ce57d94628"
+          }
+        ]
       }
     ]
   },

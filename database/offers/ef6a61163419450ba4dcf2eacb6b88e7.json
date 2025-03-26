@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-12-06T18:00:00.000Z",
   "creationDate": "2021-09-22T23:56:44.417Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.403Z",
+  "lastModifiedDate": "2025-03-26T16:02:14.537Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "9549",
       "name": "Controller Support"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -105,10 +109,10 @@
   "publisherDisplayName": "Daedalic Entertainment",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 499,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -117,7 +121,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "b2025792a6d948e89f509fc054191774"
+          }
+        ]
       }
     ]
   },

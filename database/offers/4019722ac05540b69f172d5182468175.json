@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2019-07-09T15:00:00.000Z",
   "creationDate": "2019-05-08T15:55:29.588Z",
-  "lastModifiedDate": "2025-02-24T16:01:33.381Z",
+  "lastModifiedDate": "2025-03-26T16:02:25.826Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -103,10 +107,10 @@
   "publisherDisplayName": "Arc Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 299,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -115,7 +119,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "dcc0adefc6ae437d9c52980f025006c7"
+          }
+        ]
       }
     ]
   },

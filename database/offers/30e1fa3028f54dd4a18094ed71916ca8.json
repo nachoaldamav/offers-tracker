@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-12-17T23:00:00.000Z",
   "creationDate": "2023-12-11T18:51:11.919Z",
-  "lastModifiedDate": "2025-02-24T16:01:34.649Z",
+  "lastModifiedDate": "2025-03-26T16:02:27.475Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "10719",
       "name": "Mac OS"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -149,10 +153,10 @@
   "publisherDisplayName": "Pixelsplit",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 749,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1750,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -161,7 +165,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "f1eeaa9b4ede49a8b95039c15be58a51"
+          }
+        ]
       }
     ]
   },

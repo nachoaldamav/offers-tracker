@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-08-07T17:38:33.682Z",
   "creationDate": "2024-02-02T14:24:31.217Z",
-  "lastModifiedDate": "2025-03-19T11:54:37.883Z",
+  "lastModifiedDate": "2025-03-26T16:02:14.535Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "1263",
       "name": "Indie"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -129,10 +133,10 @@
   "publisherDisplayName": "11 bit studios",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 1749,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 750,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -141,7 +145,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "9669a361838a4f688b7181ebd80e1021"
+          }
+        ]
       }
     ]
   },

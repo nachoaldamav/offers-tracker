@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-02-14T18:00:00.000Z",
   "creationDate": "2022-05-12T16:55:53.838Z",
-  "lastModifiedDate": "2025-03-18T16:55:38.815Z",
+  "lastModifiedDate": "2025-03-26T16:01:15.897Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "1263",
       "name": "Indie"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -107,7 +111,28 @@
   ],
   "developerDisplayName": "Casus Ludi",
   "publisherDisplayName": "2K Games, Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 749,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 750,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "cc9943b286814889af58ad595da62aff"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-02-14T18:00:00.000Z",
   "pcReleaseDate": "2023-02-14T18:00:00.000Z",

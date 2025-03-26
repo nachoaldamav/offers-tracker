@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-08-01T00:00:00.000Z",
   "creationDate": "2024-05-27T06:28:44.174Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.245Z",
+  "lastModifiedDate": "2025-03-26T16:01:19.016Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "9549",
       "name": "Controller Support"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -141,10 +145,10 @@
   "publisherDisplayName": "KEMCO",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 749,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 750,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -153,7 +157,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "d663240476d94c63ab78e26e896776d6"
+          }
+        ]
       }
     ]
   },

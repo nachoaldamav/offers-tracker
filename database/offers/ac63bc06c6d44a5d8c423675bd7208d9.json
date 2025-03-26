@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-03-28T13:00:00.000Z",
   "creationDate": "2023-02-22T20:08:11.867Z",
-  "lastModifiedDate": "2025-02-24T16:01:32.810Z",
+  "lastModifiedDate": "2025-03-26T16:01:30.912Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -95,10 +99,10 @@
   "publisherDisplayName": "Mythwright",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1339,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 660,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -107,7 +111,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "7da9938e8dc44a0e8eaf59c10c1c7adc"
+          }
+        ]
       }
     ]
   },

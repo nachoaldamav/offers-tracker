@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-09-06T15:00:00.000Z",
   "creationDate": "2021-11-11T22:25:13.424Z",
-  "lastModifiedDate": "2025-02-08T15:10:41.491Z",
+  "lastModifiedDate": "2025-03-26T16:01:30.908Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -76,6 +76,10 @@
       "name": "Indie"
     },
     {
+      "id": "15375",
+      "name": "Spring Sale"
+    },
+    {
       "id": "21119",
       "name": "Great for Beginners"
     }
@@ -135,10 +139,10 @@
   "publisherDisplayName": "Saber Interactive",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 499,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -147,7 +151,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "af101a395e314a108495e2ff79339845"
+          }
+        ]
       }
     ]
   },

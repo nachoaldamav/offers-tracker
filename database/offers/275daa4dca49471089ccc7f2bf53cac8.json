@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-11-20T16:00:00.000Z",
   "creationDate": "2021-06-10T02:00:14.492Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.292Z",
+  "lastModifiedDate": "2025-03-26T16:01:37.425Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -70,6 +70,10 @@
     {
       "id": "9549",
       "name": "Controller Support"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     },
     {
       "id": "21138",
@@ -171,10 +175,10 @@
   "publisherDisplayName": "GSC Game World",
   "price": {
     "totalPrice": {
-      "discountPrice": 5999,
+      "discountPrice": 5099,
       "originalPrice": 5999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 900,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -183,7 +187,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "401db7b0b1c647d2824e2ede463b8c30"
+          }
+        ]
       }
     ]
   },

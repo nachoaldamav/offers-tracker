@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-09-21T15:00:00.000Z",
   "creationDate": "2023-03-13T17:27:41.239Z",
-  "lastModifiedDate": "2025-02-19T15:18:17.176Z",
+  "lastModifiedDate": "2025-03-26T16:01:40.982Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "9549",
       "name": "Controller Support"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -125,10 +129,10 @@
   "publisherDisplayName": "Bedtime Digital Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 99,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 900,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -137,7 +141,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "2598d6b16e5142c3bd9dec6b4dbe6dbe"
+          }
+        ]
       }
     ]
   },

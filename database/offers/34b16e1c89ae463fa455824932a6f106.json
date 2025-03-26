@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-06-09T06:00:00.000Z",
   "creationDate": "2023-06-06T19:15:14.802Z",
-  "lastModifiedDate": "2024-11-01T15:03:16.518Z",
+  "lastModifiedDate": "2025-03-26T16:02:24.137Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -70,6 +70,10 @@
     {
       "id": "1263",
       "name": "Indie"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -137,10 +141,10 @@
   "publisherDisplayName": "2 Zombie Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 399,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1600,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -149,7 +153,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "a455ad10259a42129090638947934727"
+          }
+        ]
       }
     ]
   },

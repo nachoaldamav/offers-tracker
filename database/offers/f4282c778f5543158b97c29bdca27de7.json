@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-06-22T17:00:00.000Z",
   "creationDate": "2023-06-19T23:39:20.813Z",
-  "lastModifiedDate": "2025-02-18T16:00:30.726Z",
+  "lastModifiedDate": "2025-03-26T16:01:30.908Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "1117",
       "name": "Adventure"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -105,10 +109,10 @@
   "publisherDisplayName": "Fellow Traveller",
   "price": {
     "totalPrice": {
-      "discountPrice": 1299,
+      "discountPrice": 259,
       "originalPrice": 1299,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1040,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -117,7 +121,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "f26010de07d14cfba0618c3de914b4fd"
+          }
+        ]
       }
     ]
   },

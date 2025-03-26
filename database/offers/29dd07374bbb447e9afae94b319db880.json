@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-11-06T15:00:00.000Z",
   "creationDate": "2024-09-02T14:50:09.344Z",
-  "lastModifiedDate": "2025-03-23T09:15:25.461Z",
+  "lastModifiedDate": "2025-03-26T16:02:04.991Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -144,6 +144,10 @@
       "name": "Strategy"
     },
     {
+      "id": "15375",
+      "name": "Spring Sale"
+    },
+    {
       "id": "21119",
       "name": "Great for Beginners"
     }
@@ -225,10 +229,10 @@
   "publisherDisplayName": "Frontier Developments",
   "price": {
     "totalPrice": {
-      "discountPrice": 4999,
+      "discountPrice": 3999,
       "originalPrice": 4999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -237,7 +241,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "47984efcde374187bd3078e0234a1bec"
+          }
+        ]
       }
     ]
   },

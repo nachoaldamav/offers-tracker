@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2019-03-07T16:00:00.000Z",
   "creationDate": "2019-02-18T19:47:51.317Z",
-  "lastModifiedDate": "2025-02-24T16:01:42.301Z",
+  "lastModifiedDate": "2025-03-26T16:02:37.516Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -86,6 +86,10 @@
     {
       "id": "1294",
       "name": "First Person"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     },
     {
       "id": "21138",
@@ -183,10 +187,10 @@
   "publisherDisplayName": null,
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 499,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -195,7 +199,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "873101e7971c4f2cbfb145a2fa4304da"
+          }
+        ]
       }
     ]
   },

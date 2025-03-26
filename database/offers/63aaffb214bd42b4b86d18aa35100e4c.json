@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-01-05T11:00:00.000Z",
   "creationDate": "2023-10-19T21:34:03.804Z",
-  "lastModifiedDate": "2025-03-18T23:11:51.798Z",
+  "lastModifiedDate": "2025-03-26T16:02:50.374Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -62,6 +62,10 @@
     {
       "id": "1183",
       "name": "Local Multiplayer"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -125,10 +129,10 @@
   "publisherDisplayName": "Kimulator's Films",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1199,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 800,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -137,7 +141,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "ac9d494d57304c549bf5c326a0284976"
+          }
+        ]
       }
     ]
   },

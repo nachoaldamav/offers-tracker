@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-10-20T17:00:00.000Z",
   "creationDate": "2021-06-21T09:16:38.045Z",
-  "lastModifiedDate": "2025-02-24T16:01:18.075Z",
+  "lastModifiedDate": "2025-03-26T16:02:08.070Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "1263",
       "name": "Indie"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -83,14 +87,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "they-always-run-965bb3",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "they-always-run-965bb3",
@@ -101,10 +98,10 @@
   "publisherDisplayName": "Alawar",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 299,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 700,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -113,7 +110,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "20e02fafbd5e45e4a883689adc795f33"
+          }
+        ]
       }
     ]
   },

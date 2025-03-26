@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-10-04T16:00:00.000Z",
   "creationDate": "2023-05-06T11:06:57.768Z",
-  "lastModifiedDate": "2025-02-24T16:01:31.899Z",
+  "lastModifiedDate": "2025-03-26T16:02:24.138Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -70,6 +70,10 @@
     {
       "id": "1183",
       "name": "Local Multiplayer"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -131,7 +135,28 @@
   ],
   "developerDisplayName": "Woondas",
   "publisherDisplayName": "LuckyVerse",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 249,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 250,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "06055a9bd7074c7d9ac5622440f7e32a"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-04T16:00:00.000Z",
   "pcReleaseDate": "2023-01-01T11:00:00.000Z",

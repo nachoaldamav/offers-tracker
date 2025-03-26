@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-08-23T17:00:00.000Z",
   "creationDate": "2024-05-26T14:09:50.440Z",
-  "lastModifiedDate": "2025-02-24T16:01:38.944Z",
+  "lastModifiedDate": "2025-03-26T16:02:32.455Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "9549",
       "name": "Controller Support"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -129,10 +133,10 @@
   "publisherDisplayName": "Yaw Studios",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 299,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -141,7 +145,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "0b713f891614489cb7bfaeb31b7fec4f"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2019-05-13T08:00:00.000Z",
   "creationDate": "2019-02-15T17:38:12.957Z",
-  "lastModifiedDate": "2025-02-24T16:01:26.869Z",
+  "lastModifiedDate": "2025-03-26T16:01:24.267Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -66,6 +66,10 @@
     {
       "id": "1263",
       "name": "Indie"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -107,10 +111,10 @@
   "publisherDisplayName": "Tomorrow Corporation",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 749,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 750,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -119,7 +123,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "d0ff4ba5d97d4686a5e4d060e64f20e2"
+          }
+        ]
       }
     ]
   },

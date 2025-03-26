@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-05-09T16:00:00.000Z",
   "creationDate": "2023-04-19T08:45:24.980Z",
-  "lastModifiedDate": "2025-02-24T16:01:36.182Z",
+  "lastModifiedDate": "2025-03-26T16:01:35.784Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "1151",
       "name": "Platformer"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -91,10 +95,10 @@
   "publisherDisplayName": "Ubisoft",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 199,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 800,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -103,7 +107,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "f0e8f075eb8e42f6ae1532314d08c521"
+          }
+        ]
       }
     ]
   },

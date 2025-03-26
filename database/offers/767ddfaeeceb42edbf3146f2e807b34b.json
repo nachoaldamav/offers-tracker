@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-02-07T17:00:00.000Z",
   "creationDate": "2023-03-19T10:52:53.950Z",
-  "lastModifiedDate": "2025-02-24T16:01:25.290Z",
+  "lastModifiedDate": "2025-03-26T16:01:24.268Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -101,10 +105,10 @@
   "publisherDisplayName": "Overaction Game Studio",
   "price": {
     "totalPrice": {
-      "discountPrice": 299,
+      "discountPrice": 149,
       "originalPrice": 299,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 150,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -113,7 +117,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "923c9cdb936749849b53a4121734cb03"
+          }
+        ]
       }
     ]
   },

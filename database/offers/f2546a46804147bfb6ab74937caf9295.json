@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2019-01-24T16:00:00.000Z",
   "creationDate": "2025-03-18T17:58:27.927Z",
-  "lastModifiedDate": "2025-03-24T15:13:40.600Z",
+  "lastModifiedDate": "2025-03-26T16:01:40.981Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -62,6 +62,10 @@
     {
       "id": "1183",
       "name": "Local Multiplayer"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -136,10 +140,10 @@
   "publisherDisplayName": "Jackbox Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 1374,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1125,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -148,7 +152,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "a8f9c834e46348f78640ad579ec30776"
+          }
+        ]
       }
     ]
   },

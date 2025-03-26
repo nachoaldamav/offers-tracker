@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-10-04T15:00:00.000Z",
   "creationDate": "2024-10-01T15:16:19.991Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.493Z",
+  "lastModifiedDate": "2025-03-26T16:02:42.232Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "1115",
       "name": "Strategy"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -125,10 +129,10 @@
   "publisherDisplayName": "Daedalic Entertainment",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 799,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -137,7 +141,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "276423f7a3c44707a6969e28e7fc2403"
+          }
+        ]
       }
     ]
   },

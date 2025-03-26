@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-10-09T17:00:00.000Z",
   "creationDate": "2023-12-14T17:42:16.248Z",
-  "lastModifiedDate": "2025-02-24T16:01:30.885Z",
+  "lastModifiedDate": "2025-03-26T16:02:22.620Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "1263",
       "name": "Indie"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -117,10 +121,10 @@
   "publisherDisplayName": "WASD Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 1199,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 300,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "1ddc13ab9b524df1b4a7ea8d93b7de1b"
+          }
+        ]
       }
     ]
   },

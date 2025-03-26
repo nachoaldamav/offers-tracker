@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-09-12T13:00:00.000Z",
   "creationDate": "2024-03-19T17:27:33.888Z",
-  "lastModifiedDate": "2025-02-18T04:11:47.880Z",
+  "lastModifiedDate": "2025-03-26T16:01:57.303Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "1263",
       "name": "Indie"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -132,10 +136,10 @@
   "publisherDisplayName": "Silver Lining Interactive",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 999,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -144,7 +148,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "bc8cc7f851fd4dcc844edc605fdfd28a"
+          }
+        ]
       }
     ]
   },

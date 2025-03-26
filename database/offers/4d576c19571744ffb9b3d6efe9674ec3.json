@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-12-11T14:05:10.000Z",
   "creationDate": "2024-12-07T11:27:27.394Z",
-  "lastModifiedDate": "2025-01-21T16:00:30.688Z",
+  "lastModifiedDate": "2025-03-26T16:02:08.070Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -94,6 +94,10 @@
     {
       "id": "1263",
       "name": "Indie"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -153,10 +157,10 @@
   "publisherDisplayName": "Horizon Studios",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 749,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 750,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -165,7 +169,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "040de42a097b4f36a9b849cfbb32ee53"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-05-14T14:00:00.000Z",
   "creationDate": "2020-04-28T15:35:25.863Z",
-  "lastModifiedDate": "2025-02-24T16:01:25.969Z",
+  "lastModifiedDate": "2025-03-26T16:02:17.931Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "9549",
       "name": "Controller Support"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     },
     {
       "id": "21138",
@@ -138,11 +142,43 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-witcher-3-wild-hunt",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-witcher-3-wild-hunt--redkit",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 4996,
+      "voucherDiscount": 0,
+      "discount": 3997,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "1d5396163ac84c54b7fe0883078033bd"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-05-14T14:00:00.000Z",
   "pcReleaseDate": null,

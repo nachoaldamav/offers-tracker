@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-06-10T19:00:00.000Z",
   "creationDate": "2023-03-22T22:02:18.568Z",
-  "lastModifiedDate": "2025-02-24T16:01:45.313Z",
+  "lastModifiedDate": "2025-03-26T16:02:42.233Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "1310",
       "name": "EARLY ACCESS"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -117,10 +121,10 @@
   "publisherDisplayName": "Halcyon Winds",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1599,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "d2e64f02c5554575ae41e9d1f00826d3"
+          }
+        ]
       }
     ]
   },

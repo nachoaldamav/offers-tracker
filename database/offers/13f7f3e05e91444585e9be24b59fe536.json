@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-05-28T13:00:00.000Z",
   "creationDate": "2020-02-18T21:49:47.745Z",
-  "lastModifiedDate": "2025-02-04T16:00:30.705Z",
+  "lastModifiedDate": "2025-03-26T16:02:02.012Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "38237",
       "name": "Devolver Digital Publisher Sale"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -98,11 +102,43 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sludge-life",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "sludge-life--ost",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 1200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "43c9eb42d4b549f7b03b794ddf06c128"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-05-28T13:00:00.000Z",
   "pcReleaseDate": null,

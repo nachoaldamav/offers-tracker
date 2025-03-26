@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2019-10-23T03:00:00.000Z",
   "creationDate": "2019-03-16T06:35:04.064Z",
-  "lastModifiedDate": "2025-02-24T16:01:38.108Z",
+  "lastModifiedDate": "2025-03-26T16:02:32.454Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -70,6 +70,10 @@
     {
       "id": "9549",
       "name": "Controller Support"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     },
     {
       "id": "21138",
@@ -179,10 +183,10 @@
   "publisherDisplayName": null,
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 1499,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -191,7 +195,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "95ab3474399d4146864f2aa5277d3048"
+          }
+        ]
       }
     ]
   },

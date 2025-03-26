@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-01-15T18:00:00.000Z",
   "creationDate": "2023-03-11T23:42:19.535Z",
-  "lastModifiedDate": "2025-01-14T16:00:31.209Z",
+  "lastModifiedDate": "2025-03-26T16:02:25.824Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "1263",
       "name": "Indie"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -117,10 +121,10 @@
   "publisherDisplayName": "VuVuu Inc.",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 299,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "d8b1347132104d06be927610555dfaac"
+          }
+        ]
       }
     ]
   },

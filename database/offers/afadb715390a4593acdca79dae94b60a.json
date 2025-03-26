@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-04-09T15:00:00.000Z",
   "creationDate": "2020-02-12T13:19:45.946Z",
-  "lastModifiedDate": "2025-03-05T07:56:29.300Z",
+  "lastModifiedDate": "2025-03-26T16:01:42.697Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -64,6 +64,10 @@
       "name": "Adventure"
     },
     {
+      "id": "15375",
+      "name": "Spring Sale"
+    },
+    {
       "id": "21119",
       "name": "Great for Beginners"
     }
@@ -102,11 +106,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sherlock-holmes-crimes-and-punishments",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 2700,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "b1133d79ac9d484196684536c85cb07d"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-04-02T15:00:00.000Z",
   "pcReleaseDate": null,

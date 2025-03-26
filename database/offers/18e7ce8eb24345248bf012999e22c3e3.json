@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-01-14T14:00:00.000Z",
   "creationDate": "2024-12-24T04:38:57.267Z",
-  "lastModifiedDate": "2025-02-13T13:52:25.235Z",
+  "lastModifiedDate": "2025-03-26T16:02:21.112Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -94,6 +94,10 @@
     {
       "id": "1263",
       "name": "Indie"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -157,10 +161,10 @@
   "publisherDisplayName": "Hell Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 499,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -169,7 +173,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "4f17b1453f7543eb87fca91678f4c8e9"
+          }
+        ]
       }
     ]
   },

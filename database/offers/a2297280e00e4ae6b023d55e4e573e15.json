@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-12-05T12:00:00.000Z",
   "creationDate": "2023-04-04T19:24:41.336Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.295Z",
+  "lastModifiedDate": "2025-03-26T16:01:39.303Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "1263",
       "name": "Indie"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -117,10 +121,10 @@
   "publisherDisplayName": "NikosDreams",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 399,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 100,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "c2f11687cd53484e9e07287fe571da8c"
+          }
+        ]
       }
     ]
   },

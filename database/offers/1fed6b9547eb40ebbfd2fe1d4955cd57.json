@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-05-12T13:00:00.000Z",
   "creationDate": "2023-03-10T08:20:30.073Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.318Z",
+  "lastModifiedDate": "2025-03-26T16:01:49.660Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "1263",
       "name": "Indie"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -113,10 +117,10 @@
   "publisherDisplayName": "Atomic Elbow",
   "price": {
     "totalPrice": {
-      "discountPrice": 899,
+      "discountPrice": 449,
       "originalPrice": 899,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 450,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "eb4c8ff20cdf478f809d93b9afbb1dbf"
+          }
+        ]
       }
     ]
   },

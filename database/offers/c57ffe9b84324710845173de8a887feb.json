@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-08-26T15:00:00.000Z",
   "creationDate": "2020-08-04T14:42:04.657Z",
-  "lastModifiedDate": "2025-03-23T23:30:43.744Z",
+  "lastModifiedDate": "2025-03-26T16:01:46.228Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -86,6 +86,10 @@
     {
       "id": "1263",
       "name": "Indie"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -127,10 +131,10 @@
   "publisherDisplayName": "Team17",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 299,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -139,7 +143,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "0249a73f8f574f4287aa510c47034a82"
+          }
+        ]
       }
     ]
   },

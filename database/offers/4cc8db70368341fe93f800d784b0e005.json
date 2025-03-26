@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-12-06T18:00:00.000Z",
   "creationDate": "2025-03-05T02:33:08.405Z",
-  "lastModifiedDate": "2025-03-06T07:41:20.609Z",
+  "lastModifiedDate": "2025-03-26T16:02:03.481Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "1117",
       "name": "Adventure"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -124,10 +128,10 @@
   "publisherDisplayName": "THQ Nordic",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 374,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1125,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -136,7 +140,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "c806fa33858a4caf8ada1ba3ea84bcde"
+          }
+        ]
       }
     ]
   },

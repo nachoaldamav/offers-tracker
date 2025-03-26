@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-09-20T11:00:00.000Z",
   "creationDate": "2024-07-03T21:15:14.105Z",
-  "lastModifiedDate": "2025-02-24T16:01:19.562Z",
+  "lastModifiedDate": "2025-03-26T16:02:09.662Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -62,6 +62,10 @@
     {
       "id": "1263",
       "name": "Indie"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -121,10 +125,10 @@
   "publisherDisplayName": "Saint Pixels Entertainment",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 149,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 350,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +137,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "0664df55bf994e7c8dc5e74298767854"
+          }
+        ]
       }
     ]
   },

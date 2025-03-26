@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-06-01T15:00:00.000Z",
   "creationDate": "2023-04-18T21:42:35.407Z",
-  "lastModifiedDate": "2025-03-03T04:16:32.773Z",
+  "lastModifiedDate": "2025-03-26T16:02:06.468Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -70,6 +70,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     },
     {
       "id": "21138",
@@ -155,10 +159,10 @@
   "publisherDisplayName": "Coffee Stain Publishing",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 499,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -167,7 +171,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "a006883dd33945d28f59dc8dcc23ac01"
+          }
+        ]
       }
     ]
   },

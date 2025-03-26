@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-08-09T02:00:00.000Z",
   "creationDate": "2024-04-07T09:09:02.555Z",
-  "lastModifiedDate": "2025-02-24T16:01:41.588Z",
+  "lastModifiedDate": "2025-03-26T16:01:42.699Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "1117",
       "name": "Adventure"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -109,10 +113,10 @@
   "publisherDisplayName": "2P Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1699,
+      "discountPrice": 1189,
       "originalPrice": 1699,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 510,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "a5b9c1347ebb4231abce492a4c814341"
+          }
+        ]
       }
     ]
   },

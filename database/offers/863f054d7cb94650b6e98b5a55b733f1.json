@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-12-14T17:04:51.000Z",
   "creationDate": "2023-08-10T18:25:39.410Z",
-  "lastModifiedDate": "2025-02-24T09:15:20.670Z",
+  "lastModifiedDate": "2025-03-26T16:02:04.991Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -70,6 +70,10 @@
     {
       "id": "1151",
       "name": "Platformer"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -129,10 +133,10 @@
   "publisherDisplayName": "Putnai Csaba",
   "price": {
     "totalPrice": {
-      "discountPrice": 1799,
+      "discountPrice": 1439,
       "originalPrice": 1799,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 360,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -141,7 +145,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "ff08b3fb8002416d9017af919bf45afb"
+          }
+        ]
       }
     ]
   },

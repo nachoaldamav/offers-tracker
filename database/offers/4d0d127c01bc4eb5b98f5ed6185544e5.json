@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-05-17T22:00:00.000Z",
   "creationDate": "2023-04-08T12:25:56.810Z",
-  "lastModifiedDate": "2024-06-13T14:51:39.941Z",
+  "lastModifiedDate": "2025-03-26T16:01:04.352Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "1310",
       "name": "EARLY ACCESS"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -113,10 +117,10 @@
   "publisherDisplayName": "KriLi Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 299,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "dced3fc5f39c4f92b906445df934fa73"
+          }
+        ]
       }
     ]
   },

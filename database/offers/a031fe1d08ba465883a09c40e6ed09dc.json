@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-06-02T14:00:00.000Z",
   "creationDate": "2021-11-22T02:58:14.886Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.483Z",
+  "lastModifiedDate": "2025-03-26T16:02:37.515Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "10719",
       "name": "Mac OS"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -101,10 +105,10 @@
   "publisherDisplayName": "Devolver Digital",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 799,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -113,7 +117,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "277b673cd31c4492989fbab843fc576c"
+          }
+        ]
       }
     ]
   },

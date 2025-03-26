@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-04-13T22:00:00.000Z",
   "creationDate": "2023-04-12T11:19:32.448Z",
-  "lastModifiedDate": "2025-02-18T16:00:31.318Z",
+  "lastModifiedDate": "2025-03-26T16:01:34.086Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -62,6 +62,10 @@
     {
       "id": "1263",
       "name": "Indie"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -117,10 +121,10 @@
   "publisherDisplayName": "Skermunkel",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 149,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1350,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "5e83fe1ac396466491db98ff1613bea4"
+          }
+        ]
       }
     ]
   },

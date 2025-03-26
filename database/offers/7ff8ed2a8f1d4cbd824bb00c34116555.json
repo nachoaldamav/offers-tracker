@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-12-02T17:00:00.000Z",
   "creationDate": "2021-11-17T18:36:05.214Z",
-  "lastModifiedDate": "2025-02-24T16:01:31.898Z",
+  "lastModifiedDate": "2025-03-26T16:01:30.909Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -70,6 +70,10 @@
     {
       "id": "1263",
       "name": "Indie"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -111,10 +115,10 @@
   "publisherDisplayName": "Annapurna Interactive",
   "price": {
     "totalPrice": {
-      "discountPrice": 3999,
+      "discountPrice": 1599,
       "originalPrice": 3999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -123,7 +127,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "2f41804f48da4eada9081ca5c720d2c8"
+          }
+        ]
       }
     ]
   },

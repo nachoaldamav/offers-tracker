@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-06-14T03:00:00.000Z",
   "creationDate": "2023-06-05T15:54:39.708Z",
-  "lastModifiedDate": "2025-02-24T16:01:38.944Z",
+  "lastModifiedDate": "2025-03-26T16:02:32.455Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "1263",
       "name": "Indie"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -101,10 +105,10 @@
   "publisherDisplayName": "KishMish Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 149,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1350,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -113,7 +117,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "80d20a1ce10441cca16960366889654d"
+          }
+        ]
       }
     ]
   },

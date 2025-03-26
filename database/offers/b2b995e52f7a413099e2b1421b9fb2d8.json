@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-11-16T17:00:00.000Z",
   "creationDate": "2023-11-16T17:02:54.251Z",
-  "lastModifiedDate": "2025-02-24T16:01:13.347Z",
+  "lastModifiedDate": "2025-03-26T16:02:02.014Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "1263",
       "name": "Indie"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -105,10 +109,10 @@
   "publisherDisplayName": "Akupara Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 1274,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 225,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -117,7 +121,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "b53d5ca0c8b6421c8eeecb7cda8a8b80"
+          }
+        ]
       }
     ]
   },

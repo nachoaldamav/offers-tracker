@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-05-31T13:10:22.574Z",
   "creationDate": "2024-05-09T21:26:37.737Z",
-  "lastModifiedDate": "2025-02-24T16:01:44.579Z",
+  "lastModifiedDate": "2025-03-26T16:01:46.230Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "1263",
       "name": "Indie"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -109,10 +113,10 @@
   "publisherDisplayName": "waleedzo",
   "price": {
     "totalPrice": {
-      "discountPrice": 699,
+      "discountPrice": 349,
       "originalPrice": 699,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 350,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "a93c0a980eef4b368db90d054e9bb26d"
+          }
+        ]
       }
     ]
   },

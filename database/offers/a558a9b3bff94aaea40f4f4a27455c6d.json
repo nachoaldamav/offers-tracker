@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-10-16T13:00:00.000Z",
   "creationDate": "2023-09-12T22:42:36.792Z",
-  "lastModifiedDate": "2024-11-01T15:03:16.512Z",
+  "lastModifiedDate": "2025-03-26T16:02:21.111Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "1117",
       "name": "Adventure"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -103,7 +107,28 @@
   ],
   "developerDisplayName": "Indiesruption",
   "publisherDisplayName": "Blowfish Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "ab81b7061ee44bab9bc82d5236297f0b"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-16T13:00:00.000Z",
   "pcReleaseDate": "2023-10-16T13:00:00.000Z",

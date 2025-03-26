@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-10-26T16:00:00.000Z",
   "creationDate": "2021-04-15T14:43:43.001Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.213Z",
+  "lastModifiedDate": "2025-03-26T16:01:07.883Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -70,6 +70,10 @@
     {
       "id": "9549",
       "name": "Controller Support"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     },
     {
       "id": "21138",
@@ -163,10 +167,10 @@
   "publisherDisplayName": "Eidos-Montréal",
   "price": {
     "totalPrice": {
-      "discountPrice": 5999,
+      "discountPrice": 899,
       "originalPrice": 5999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 5100,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -175,7 +179,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "9fa390d82840457bb53a988821ccefa9"
+          }
+        ]
       }
     ]
   },

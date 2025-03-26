@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-11-14T17:00:00.000Z",
   "creationDate": "2023-01-27T16:55:16.087Z",
-  "lastModifiedDate": "2025-02-18T16:00:30.728Z",
+  "lastModifiedDate": "2025-03-26T16:01:27.662Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -70,6 +70,10 @@
     {
       "id": "1183",
       "name": "Local Multiplayer"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -125,10 +129,10 @@
   "publisherDisplayName": "Devolver Digital",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 499,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -137,7 +141,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "d9ca5cfdf95f4d2f9b7ba64df8c5f1ae"
+          }
+        ]
       }
     ]
   },

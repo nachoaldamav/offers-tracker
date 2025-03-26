@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-11-25T16:00:00.000Z",
   "creationDate": "2024-04-01T20:33:59.858Z",
-  "lastModifiedDate": "2025-03-25T11:32:46.359Z",
+  "lastModifiedDate": "2025-03-26T16:02:39.082Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "1294",
       "name": "First Person"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     },
     {
       "id": "1264",
@@ -460,10 +464,10 @@
   "publisherDisplayName": "Expansive Worlds",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 699,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1300,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -472,7 +476,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "0c6b6fa3cdc6433da2333c13af958493"
+          }
+        ]
       }
     ]
   },

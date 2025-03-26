@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-11-02T09:00:00.000Z",
   "creationDate": "2023-04-24T17:01:56.973Z",
-  "lastModifiedDate": "2025-02-24T16:01:33.380Z",
+  "lastModifiedDate": "2025-03-26T16:01:32.589Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "1183",
       "name": "Local Multiplayer"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -121,10 +125,10 @@
   "publisherDisplayName": "Microids",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 989,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2010,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +137,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "015f6a9ac29e4c4597e722954b70868b"
+          }
+        ]
       }
     ]
   },

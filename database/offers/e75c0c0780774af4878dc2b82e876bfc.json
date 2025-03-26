@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-10-04T15:00:00.000Z",
   "creationDate": "2024-08-13T21:44:00.916Z",
-  "lastModifiedDate": "2024-10-04T10:10:00.735Z",
+  "lastModifiedDate": "2025-03-26T16:01:35.782Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "1117",
       "name": "Adventure"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -99,10 +103,10 @@
   "publisherDisplayName": "PlayStation Publishing LLC",
   "price": {
     "totalPrice": {
-      "discountPrice": 5999,
+      "discountPrice": 4499,
       "originalPrice": 5999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -111,7 +115,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "8146932fad2747e08130b4837c0d2163"
+          }
+        ]
       }
     ]
   },

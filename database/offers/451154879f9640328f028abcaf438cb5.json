@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-08-08T15:00:00.000Z",
   "creationDate": "2024-02-06T13:04:06.725Z",
-  "lastModifiedDate": "2025-02-24T16:01:31.899Z",
+  "lastModifiedDate": "2025-03-26T16:01:30.910Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -62,6 +62,10 @@
     {
       "id": "9549",
       "name": "Controller Support"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -121,10 +125,10 @@
   "publisherDisplayName": "Thunderful Publishing",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 1499,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +137,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "67e8b96c13b2427d9f14f2c6f9da024c"
+          }
+        ]
       }
     ]
   },

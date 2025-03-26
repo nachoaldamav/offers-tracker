@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-10-27T15:00:00.000Z",
   "creationDate": "2020-03-19T20:34:51.604Z",
-  "lastModifiedDate": "2025-02-06T16:00:36.655Z",
+  "lastModifiedDate": "2025-03-26T16:01:44.363Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -70,6 +70,10 @@
     {
       "id": "10719",
       "name": "Mac OS"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -115,10 +119,10 @@
   "publisherDisplayName": "Santa Ragione",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 399,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1600,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -127,7 +131,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "e6fb1fdb45fe4beebb1104f7e95fdf8f"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-07-29T17:00:00.000Z",
   "creationDate": "2023-05-24T12:21:32.814Z",
-  "lastModifiedDate": "2025-02-24T16:01:21.148Z",
+  "lastModifiedDate": "2025-03-26T16:02:11.142Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "1263",
       "name": "Indie"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -133,10 +137,10 @@
   "publisherDisplayName": "ESDigital Games ltd",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 699,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 300,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -145,7 +149,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "effadd1cdf3a43d5a124a794d89e23d9"
+          }
+        ]
       }
     ]
   },

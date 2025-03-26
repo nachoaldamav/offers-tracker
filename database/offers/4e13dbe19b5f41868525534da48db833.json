@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-10-17T00:00:00.000Z",
   "creationDate": "2023-04-13T23:06:58.537Z",
-  "lastModifiedDate": "2025-03-24T21:46:04.615Z",
+  "lastModifiedDate": "2025-03-26T16:01:57.304Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -66,6 +66,10 @@
     {
       "id": "21134",
       "name": "Beautiful Visuals"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     },
     {
       "id": "1264",
@@ -193,10 +197,10 @@
   "publisherDisplayName": "Piranha Games Inc",
   "price": {
     "totalPrice": {
-      "discountPrice": 4999,
+      "discountPrice": 3499,
       "originalPrice": 4999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -205,7 +209,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "d64ed9259f224d43b52e79136ee7738f"
+          }
+        ]
       }
     ]
   },

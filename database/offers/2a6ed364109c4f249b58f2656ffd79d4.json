@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-10-15T22:00:00.000Z",
   "creationDate": "2023-07-26T10:38:23.112Z",
-  "lastModifiedDate": "2024-11-01T15:03:16.502Z",
+  "lastModifiedDate": "2025-03-26T16:02:16.096Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "10719",
       "name": "Mac OS"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -103,7 +107,28 @@
   ],
   "developerDisplayName": "Peaksel",
   "publisherDisplayName": "Peaksel",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "68db78912b804e85bc695d540a9501ac"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-15T22:00:00.000Z",
   "pcReleaseDate": "2022-02-28T23:00:00.000Z",

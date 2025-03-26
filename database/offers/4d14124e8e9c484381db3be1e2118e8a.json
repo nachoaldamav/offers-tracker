@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-08-18T15:00:00.000Z",
   "creationDate": "2022-03-11T22:54:37.048Z",
-  "lastModifiedDate": "2025-02-24T16:01:25.970Z",
+  "lastModifiedDate": "2025-03-26T16:01:24.269Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -62,6 +62,10 @@
     {
       "id": "1198",
       "name": "Retro"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     },
     {
       "id": "21138",
@@ -135,10 +139,10 @@
   "publisherDisplayName": null,
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 199,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 300,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -147,7 +151,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "3178e9d59bd84d8c89229b09a3ba7edd"
+          }
+        ]
       }
     ]
   },

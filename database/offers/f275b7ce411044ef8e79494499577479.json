@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-06-19T16:00:00.000Z",
   "creationDate": "2023-08-02T15:53:23.590Z",
-  "lastModifiedDate": "2024-11-01T15:03:16.552Z",
+  "lastModifiedDate": "2025-03-26T16:01:46.228Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -62,6 +62,10 @@
     {
       "id": "9549",
       "name": "Controller Support"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -129,10 +133,10 @@
   "publisherDisplayName": "PQube",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 1749,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 750,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -141,7 +145,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "aaaf67a8de59466aa0f4833ee83066a0"
+          }
+        ]
       }
     ]
   },

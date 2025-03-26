@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-03-29T17:00:00.000Z",
   "creationDate": "2024-03-28T09:48:42.131Z",
-  "lastModifiedDate": "2025-02-24T16:01:39.853Z",
+  "lastModifiedDate": "2025-03-26T16:02:34.156Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "1263",
       "name": "Indie"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -117,10 +121,10 @@
   "publisherDisplayName": "Serenity Forge",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 649,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 350,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "d8e47480c32e41dea1b624dda1577805"
+          }
+        ]
       }
     ]
   },

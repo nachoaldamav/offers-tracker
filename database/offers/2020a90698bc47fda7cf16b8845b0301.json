@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-03-01T14:00:00.000Z",
   "creationDate": "2021-12-14T20:27:29.903Z",
-  "lastModifiedDate": "2025-02-24T16:01:43.189Z",
+  "lastModifiedDate": "2025-03-26T16:02:39.082Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -66,6 +66,10 @@
     {
       "id": "1263",
       "name": "Indie"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -119,10 +123,10 @@
   "publisherDisplayName": "Frontier Developments  ",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 599,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -131,7 +135,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "96d0bdd764b8453b9ff764c8f2e52451"
+          }
+        ]
       }
     ]
   },

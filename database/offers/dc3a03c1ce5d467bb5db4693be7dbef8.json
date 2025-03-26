@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-12-09T16:00:00.000Z",
   "creationDate": "2020-01-17T15:26:46.835Z",
-  "lastModifiedDate": "2025-03-04T23:32:12.607Z",
+  "lastModifiedDate": "2025-03-26T16:01:25.887Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -62,6 +62,10 @@
     {
       "id": "1131",
       "name": "SURVIVAL HORROR"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     },
     {
       "id": "21138",
@@ -368,10 +372,10 @@
   "publisherDisplayName": "Behaviour Interactive",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 799,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -380,7 +384,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "d916992142c74977a0a4cd7f0b66476e"
+          }
+        ]
       }
     ]
   },

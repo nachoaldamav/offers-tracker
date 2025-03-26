@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-10-20T16:00:00.000Z",
   "creationDate": "2021-09-22T23:55:54.407Z",
-  "lastModifiedDate": "2024-11-18T16:06:39.692Z",
+  "lastModifiedDate": "2025-03-26T16:01:15.898Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -66,6 +66,10 @@
     {
       "id": "1263",
       "name": "Indie"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -91,14 +95,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "jars-e39063",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "jars-e39063",
@@ -109,10 +106,10 @@
   "publisherDisplayName": "Daedalic Entertainment",
   "price": {
     "totalPrice": {
-      "discountPrice": 1199,
+      "discountPrice": 119,
       "originalPrice": 1199,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1080,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +118,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "d961153ff7ad4374969e4141016151f8"
+          }
+        ]
       }
     ]
   },

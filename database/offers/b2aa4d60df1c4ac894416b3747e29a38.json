@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-11-04T15:00:00.000Z",
   "creationDate": "2021-10-06T15:53:18.093Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.308Z",
+  "lastModifiedDate": "2025-03-26T16:01:44.362Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -70,6 +70,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -349,10 +353,10 @@
   "publisherDisplayName": "Dovetail Games  ",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 1199,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1800,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -361,7 +365,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "feb7564bfd02475e9648423005774bc4"
+          }
+        ]
       }
     ]
   },

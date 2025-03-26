@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-12-07T14:00:00.000Z",
   "creationDate": "2023-09-18T14:37:42.891Z",
-  "lastModifiedDate": "2025-02-24T16:01:40.417Z",
+  "lastModifiedDate": "2025-03-26T16:01:39.302Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,6 +42,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -97,10 +101,10 @@
   "publisherDisplayName": "Gameparic",
   "price": {
     "totalPrice": {
-      "discountPrice": 1099,
+      "discountPrice": 439,
       "originalPrice": 1099,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 660,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -109,7 +113,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "b8f672fa9f9d4a1e8c50a29d494ad674"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-04-02T15:00:00.000Z",
   "creationDate": "2019-10-17T18:38:20.358Z",
-  "lastModifiedDate": "2025-02-24T16:01:07.766Z",
+  "lastModifiedDate": "2025-03-26T16:01:04.351Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -62,6 +62,10 @@
     {
       "id": "1117",
       "name": "Adventure"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -107,10 +111,10 @@
   "publisherDisplayName": "Arc Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 399,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1600,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -119,7 +123,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "1c2719fae18844218a6aabada2b95b16"
+          }
+        ]
       }
     ]
   },

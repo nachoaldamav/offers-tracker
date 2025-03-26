@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-04-01T15:00:00.000Z",
   "creationDate": "2019-09-12T18:24:18.231Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.449Z",
+  "lastModifiedDate": "2025-03-26T16:02:25.826Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -62,6 +62,10 @@
     {
       "id": "10719",
       "name": "Mac OS"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -135,10 +139,10 @@
   "publisherDisplayName": "Infogrames LLC",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 299,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -147,7 +151,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "4e48a73c296e4cc68ad14a62753b6c0d"
+          }
+        ]
       }
     ]
   },

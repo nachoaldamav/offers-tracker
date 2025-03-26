@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-09-17T17:00:00.000Z",
   "creationDate": "2024-04-19T11:12:26.122Z",
-  "lastModifiedDate": "2025-02-24T16:01:30.218Z",
+  "lastModifiedDate": "2025-03-26T16:01:29.245Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "21135",
       "name": "Realistic Visuals"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     },
     {
       "id": "1393",
@@ -635,10 +639,10 @@
   "publisherDisplayName": "Dovetail Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 4999,
+      "discountPrice": 1499,
       "originalPrice": 4999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 3500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -647,7 +651,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "52e001f87d30443ab7037992ef16f247"
+          }
+        ]
       }
     ]
   },

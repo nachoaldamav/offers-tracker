@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-10-24T14:00:00.000Z",
   "creationDate": "2024-02-27T10:47:53.818Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.353Z",
+  "lastModifiedDate": "2025-03-26T16:02:00.372Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "1117",
       "name": "Adventure"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -113,10 +117,10 @@
   "publisherDisplayName": "Gaming Factory",
   "price": {
     "totalPrice": {
-      "discountPrice": 1799,
+      "discountPrice": 1079,
       "originalPrice": 1799,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 720,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "be8e1ef4e66a4ed3801f126912c813cf"
+          }
+        ]
       }
     ]
   },

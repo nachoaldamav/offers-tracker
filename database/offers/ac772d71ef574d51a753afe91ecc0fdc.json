@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-05-11T17:00:00.000Z",
   "creationDate": "2023-05-11T13:26:02.048Z",
-  "lastModifiedDate": "2025-02-24T16:01:34.007Z",
+  "lastModifiedDate": "2025-03-26T16:02:25.825Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "1294",
       "name": "First Person"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -105,10 +109,10 @@
   "publisherDisplayName": "Fulqrum Publishing",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 74,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 425,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -117,7 +121,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "bd9395b248504ef48ae0e2b35b09ff5e"
+          }
+        ]
       }
     ]
   },

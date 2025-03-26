@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-06-28T12:00:00.000Z",
   "creationDate": "2023-03-10T10:53:19.459Z",
-  "lastModifiedDate": "2025-02-24T16:01:23.698Z",
+  "lastModifiedDate": "2025-03-26T16:02:14.535Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -62,6 +62,10 @@
     {
       "id": "1263",
       "name": "Indie"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -117,10 +121,10 @@
   "publisherDisplayName": "Tenebris Studio",
   "price": {
     "totalPrice": {
-      "discountPrice": 1199,
+      "discountPrice": 299,
       "originalPrice": 1199,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 900,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "bd380906b7ef43e6987ad1d2045df57f"
+          }
+        ]
       }
     ]
   },

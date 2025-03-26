@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-01-02T16:00:00.000Z",
   "creationDate": "2024-02-19T14:27:25.405Z",
-  "lastModifiedDate": "2025-01-15T11:45:04.334Z",
+  "lastModifiedDate": "2025-03-26T16:01:52.871Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -66,6 +66,10 @@
     {
       "id": "21135",
       "name": "Realistic Visuals"
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale"
     },
     {
       "id": "21138",
@@ -289,10 +293,10 @@
   "publisherDisplayName": "Team17",
   "price": {
     "totalPrice": {
-      "discountPrice": 4999,
+      "discountPrice": 2999,
       "originalPrice": 4999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -301,7 +305,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "c09eb0700a6742b78e192e7b7ce930d0"
+          }
+        ]
       }
     ]
   },
