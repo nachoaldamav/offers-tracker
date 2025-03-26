@@ -114,7 +114,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "viscerafest--early-access-faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "viscerafest",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "viscerafest",
