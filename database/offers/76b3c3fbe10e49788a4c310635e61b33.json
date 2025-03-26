@@ -110,7 +110,30 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tchia--oleti-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "tchia--kepler-customization-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "tchia--original-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "tchia--the-beach-sides",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "tchia",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "tchia",
@@ -119,7 +142,24 @@
   ],
   "developerDisplayName": "Awaceb",
   "publisherDisplayName": "Kepler Interactive",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-03-21T09:00:00.000Z",
   "pcReleaseDate": "2023-03-21T09:00:00.000Z",
