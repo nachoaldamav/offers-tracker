@@ -127,8 +127,24 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "happy-game-ios-4fd73a",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "happy-game-android-4cc2f5",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "happy-game-ios-4fd73a",
+      "pageType": "offer"
+    }
+  ],
   "developerDisplayName": "Amanita Design",
   "publisherDisplayName": "Amanita Design",
   "price": null,
