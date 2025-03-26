@@ -151,7 +151,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "vampires-bloodlord-rising-44ee5c",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "vampires-bloodlord-rising-faq-b90002",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "vampires-bloodlord-rising-44ee5c",
@@ -160,7 +171,24 @@
   ],
   "developerDisplayName": "Mehuman Games",
   "publisherDisplayName": "Toplitz Productions",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-12-31T00:00:00.000Z",
   "pcReleaseDate": "2025-12-31T00:00:00.000Z",
