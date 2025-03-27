@@ -103,7 +103,26 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "survivor-cells-survivor-cells-virusbane-f7dd4a",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "survivor-cells-survivor-cells-premium-edition-59cde0",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "survivor-cells-survivor-cells-robin-90b42c",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "survivor-cells-a0622f",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "survivor-cells-a0622f",
@@ -112,28 +131,7 @@
   ],
   "developerDisplayName": "Yaw Studios",
   "publisherDisplayName": "Yaw Studios",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 299,
-      "originalPrice": 499,
-      "voucherDiscount": 0,
-      "discount": 200,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "0b713f891614489cb7bfaeb31b7fec4f"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2024-08-23T17:00:00.000Z",
   "pcReleaseDate": "2024-05-10T17:00:00.000Z",
