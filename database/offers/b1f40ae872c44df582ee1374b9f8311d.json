@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-03-30T13:00:00.000Z",
   "creationDate": "2020-09-11T12:00:05.954Z",
-  "lastModifiedDate": "2025-02-17T14:03:53.439Z",
+  "lastModifiedDate": "2025-03-27T16:02:51.061Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,10 +58,6 @@
     {
       "id": "9549",
       "name": "Controller Support"
-    },
-    {
-      "id": "20237",
-      "name": "Square Enix Sale"
     },
     {
       "id": "21139",
@@ -134,11 +130,35 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "kingdom-hearts-hd-2-8-final-chapter-prologue",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 5999,
+      "originalPrice": 5999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-03-30T13:00:00.000Z",
   "pcReleaseDate": "2021-03-30T13:00:00.000Z",
