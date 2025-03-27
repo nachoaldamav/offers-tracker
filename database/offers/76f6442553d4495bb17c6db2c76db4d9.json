@@ -115,7 +115,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "norush-67f385",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "norush-67f385",
@@ -124,7 +131,28 @@
   ],
   "developerDisplayName": "FiveStar",
   "publisherDisplayName": "FiveStar",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 249,
+      "voucherDiscount": 0,
+      "discount": 50,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "f79c7b538d4b48c8aa3b532870b2613f"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-01-31T23:00:00.000Z",
   "pcReleaseDate": "2025-01-31T23:00:00.000Z",
