@@ -122,8 +122,19 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "destroy-all-humans",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "destroy-all-humans--destroy-all-humans-skin-pack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
   "price": null,
