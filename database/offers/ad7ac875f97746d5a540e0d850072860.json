@@ -114,32 +114,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": null,
-  "publisherDisplayName": null,
-  "price": {
-    "totalPrice": {
-      "discountPrice": 999,
-      "originalPrice": 3999,
-      "voucherDiscount": 0,
-      "discount": 3000,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": [
-          {
-            "id": "acbfff68a27e4f8bb5b6f35de7e5cf3d"
-          }
-        ]
+        "pageSlug": "spacebase-startopia",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "spacebase-startopia--extended-edition",
+        "pageType": "offer"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2021-03-26T17:00:00.000Z",
   "pcReleaseDate": "2021-03-26T17:00:00.000Z",
