@@ -118,11 +118,51 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "desperados-3",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "desperados-3--soundtrack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "desperados-3--season-pass",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "desperados-3--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Mimimi Games",
   "publisherDisplayName": "THQ Nordic",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 3000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "5616ec5acbdd48029fdf110dc999500d"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-06-16T17:00:00.000Z",
   "pcReleaseDate": null,
