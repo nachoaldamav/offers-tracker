@@ -111,7 +111,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "command-and-conquer-remastered-e107f6",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "command-and-conquer-remastered-e107f6",
@@ -120,7 +127,28 @@
   ],
   "developerDisplayName": "Petroglyph, Lemon Sky Studios",
   "publisherDisplayName": "Electronic Arts",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 599,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "041b6c16f3d44d24a8d9edbbf53ec183"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-06-06T20:00:00.000Z",
   "pcReleaseDate": "2020-06-05T08:00:00.000Z",
