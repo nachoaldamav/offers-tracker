@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "elderand-09e6bc",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "elderand-09e6bc",
@@ -100,24 +107,7 @@
   ],
   "developerDisplayName": "Mantra, Sinergia Games",
   "publisherDisplayName": "Graffiti Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1999,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-02-16T18:00:00.000Z",
   "pcReleaseDate": "2023-02-16T18:00:00.000Z",
