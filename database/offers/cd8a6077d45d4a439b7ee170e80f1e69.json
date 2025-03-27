@@ -106,39 +106,16 @@
       "path": "applications"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "forspoken",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "forspoken--deluxe-edition",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "forspoken--deluxe-upgrade",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "forspoken--demo",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "forspoken--in-tanta-we-trust",
-        "pageType": "addon--cms-hybrid"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [],
   "developerDisplayName": "Square Enix",
   "publisherDisplayName": "Square Enix",
   "price": {
     "totalPrice": {
-      "discountPrice": 2099,
+      "discountPrice": 6999,
       "originalPrice": 6999,
       "voucherDiscount": 0,
-      "discount": 4900,
+      "discount": 0,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -147,11 +124,7 @@
     },
     "lineOffers": [
       {
-        "appliedRules": [
-          {
-            "id": "78efb411ff71469ab19b44d3fdd93e1e"
-          }
-        ]
+        "appliedRules": []
       }
     ]
   },
