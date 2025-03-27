@@ -139,7 +139,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "deck-of-souls-31284b",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "deck-of-souls-31284b",
@@ -148,7 +155,28 @@
   ],
   "developerDisplayName": "Bigboot Studios",
   "publisherDisplayName": "HeroCraft PC",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 959,
+      "originalPrice": 1199,
+      "voucherDiscount": 0,
+      "discount": 240,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "0a7853087f3b40d48c12f2909c545015"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-20T16:00:00.000Z",
   "pcReleaseDate": "2024-06-20T10:00:00.000Z",

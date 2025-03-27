@@ -123,11 +123,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "dimond-hunt-03a766",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "dimond-hunt-faq-54f4da",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "dimond-hunt-03a766",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Black Apple",
   "publisherDisplayName": "Black Apple",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 419,
+      "originalPrice": 699,
+      "voucherDiscount": 0,
+      "discount": 280,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "ab87f8c638134967ad5efc121e68460a"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-27T00:00:00.000Z",
   "pcReleaseDate": "2024-12-27T00:00:00.000Z",

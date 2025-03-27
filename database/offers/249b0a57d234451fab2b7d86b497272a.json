@@ -127,7 +127,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "my-lovely-pets-088358",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "my-lovely-pets-088358",
@@ -136,7 +143,28 @@
   ],
   "developerDisplayName": "Avigames",
   "publisherDisplayName": "Avigames",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 449,
+      "originalPrice": 899,
+      "voucherDiscount": 0,
+      "discount": 450,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "2a94dacc86c7485386a5874ed9afeca0"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-19T10:00:00.000Z",
   "pcReleaseDate": "2023-03-27T09:00:00.000Z",

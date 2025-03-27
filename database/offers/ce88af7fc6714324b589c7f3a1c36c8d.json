@@ -127,7 +127,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "around-the-world-travel-to-brazil-8ca2bd",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "around-the-world-travel-to-brazil-8ca2bd",
@@ -136,7 +143,28 @@
   ],
   "developerDisplayName": "Avigamesltd",
   "publisherDisplayName": "Avigamesltd",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 449,
+      "originalPrice": 899,
+      "voucherDiscount": 0,
+      "discount": 450,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "417f476e75274924827d110e0c5d15dd"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-22T18:00:00.000Z",
   "pcReleaseDate": "2023-09-20T09:00:00.000Z",

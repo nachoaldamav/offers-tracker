@@ -99,7 +99,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "go-home-annie-26ee8e",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "go-home-annie-26ee8e",
@@ -108,7 +115,28 @@
   ],
   "developerDisplayName": "Misfit Village",
   "publisherDisplayName": "Nordcurrent Labs",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1599,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "feb874c53edd4f499d43b83c0f0da225"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-19T08:00:00.000Z",
   "pcReleaseDate": "2024-12-10T00:00:00.000Z",

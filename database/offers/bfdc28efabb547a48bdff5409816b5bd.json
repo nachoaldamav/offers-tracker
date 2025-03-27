@@ -127,7 +127,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sweet-home-look-and-find-1b9146",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "sweet-home-look-and-find-1b9146",
@@ -136,7 +143,28 @@
   ],
   "developerDisplayName": "Avigamesltd",
   "publisherDisplayName": "Avigamesltd",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 449,
+      "originalPrice": 899,
+      "voucherDiscount": 0,
+      "discount": 450,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "f90ee31cc5a7408983d36e173c2ba5cd"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-22T18:00:00.000Z",
   "pcReleaseDate": "2023-12-05T09:00:00.000Z",

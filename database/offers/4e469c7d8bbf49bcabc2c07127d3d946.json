@@ -99,11 +99,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sorry-were-closed-724c86",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "sorry-were-closed-724c86",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "à la mode games",
   "publisherDisplayName": "Akupara Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "6c1c2747cd3b467d80f6bf2254fc9aea"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-11-14T17:00:00.000Z",
   "pcReleaseDate": "2024-11-14T17:00:00.000Z",

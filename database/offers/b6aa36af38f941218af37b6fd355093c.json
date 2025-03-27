@@ -167,11 +167,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ved-a4f9dc",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "ved-a4f9dc",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Karaclan",
   "publisherDisplayName": "Fulqrum Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "ca346d5c8000460da5597ef35b6a4899"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-11-14T18:00:00.000Z",
   "pcReleaseDate": "2024-11-14T18:00:00.000Z",

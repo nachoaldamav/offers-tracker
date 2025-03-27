@@ -91,7 +91,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-serpent-rogue-2a6f4c",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-serpent-rogue-the-serpent-rogue-original-soundtrack-bab418",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-serpent-rogue-2a6f4c",
@@ -100,7 +111,28 @@
   ],
   "developerDisplayName": "SENGI GAMES",
   "publisherDisplayName": "Team17",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 799,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "a1b102375a8d4831956e41d0341365c6"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-24T16:00:00.000Z",
   "pcReleaseDate": "2022-04-26T09:00:00.000Z",

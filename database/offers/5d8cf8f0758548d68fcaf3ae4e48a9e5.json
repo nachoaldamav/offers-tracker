@@ -131,7 +131,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "fell-in-love-with-coser-3-fd7fb9",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "fell-in-love-with-coser-3-fd7fb9",
@@ -140,7 +147,28 @@
   ],
   "developerDisplayName": "Thermae",
   "publisherDisplayName": "Thermae",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1359,
+      "originalPrice": 1699,
+      "voucherDiscount": 0,
+      "discount": 340,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "c93ec009f4444bb49a4b288e70c07949"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-22T02:00:00.000Z",
   "pcReleaseDate": "2024-12-22T02:00:00.000Z",

@@ -99,7 +99,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "technotopia-86fcb8",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "technotopia-86fcb8",
@@ -108,7 +115,28 @@
   ],
   "developerDisplayName": "Yustas",
   "publisherDisplayName": "Alawar",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 334,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 165,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "eb7571440de848019cf5b1f88c608802"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-23T14:58:00.000Z",
   "pcReleaseDate": null,
