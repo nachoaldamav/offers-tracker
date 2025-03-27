@@ -127,7 +127,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "terrorsepsis-783b54",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "terrorsepsis-783b54",
@@ -136,7 +143,28 @@
   ],
   "developerDisplayName": "659 Records (PTY) LTD",
   "publisherDisplayName": "659 Records (PTY) LTD",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 319,
+      "originalPrice": 399,
+      "voucherDiscount": 0,
+      "discount": 80,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "d89c9c6ea0aa411eb075c5c7e7efe603"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-02-11T03:00:00.000Z",
   "pcReleaseDate": "2024-11-25T08:00:00.000Z",
