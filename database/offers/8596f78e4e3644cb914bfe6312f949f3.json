@@ -69,11 +69,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "rainbow-six-vegas-2",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Ubisoft",
   "publisherDisplayName": "Ubisoft",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 249,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 750,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "e9aee978470347d1a191ec8bfb80236e"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-06-04T00:00:00.000Z",
   "pcReleaseDate": null,
