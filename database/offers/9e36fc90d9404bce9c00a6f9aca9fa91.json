@@ -87,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "police-car-suv-simulator-092560",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "police-car-suv-simulator-092560",
@@ -96,7 +103,28 @@
   ],
   "developerDisplayName": "Samet Acar",
   "publisherDisplayName": "UPCELL TELEKOMUNIKASYON LIMITED SIRKETI",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 59,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 40,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "719960088b334dfe90b97ae3970baa05"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-07-25T17:30:00.000Z",
   "pcReleaseDate": "2023-07-13T17:00:00.000Z",
