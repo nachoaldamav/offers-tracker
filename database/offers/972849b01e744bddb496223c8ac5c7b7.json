@@ -154,7 +154,30 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "watch-dogs-legion--bloodline-dlc",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "watch-dogs-legion--season-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "watch-dogs-legion",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "watch-dogs-legion--free-trial",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "watch-dogs-legion--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

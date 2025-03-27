@@ -91,7 +91,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "kings-bounty-dark-side-c3066f",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "kings-bounty-dark-side-kings-bounty-dark-side-premium-edition-upgrade-98bbc1",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "kings-bounty-dark-side-c3066f",
@@ -100,7 +111,28 @@
   ],
   "developerDisplayName": "Fulqrum Publishing",
   "publisherDisplayName": "Fulqrum Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 194,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 1105,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "b703531d867842058b6c5ac3addab525"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-06-02T15:00:00.000Z",
   "pcReleaseDate": "2014-08-14T00:00:00.000Z",

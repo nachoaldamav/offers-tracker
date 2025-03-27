@@ -118,7 +118,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "death-trash--early-access-faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "death-trash",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "death-trash",
@@ -127,7 +138,28 @@
   ],
   "developerDisplayName": "Crafting Legends",
   "publisherDisplayName": "Crafting Legends",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1599,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "04d69bf2aa8142dbab6162074c0849f4"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-08-05T15:00:00.000Z",
   "pcReleaseDate": "2021-08-05T15:00:00.000Z",
