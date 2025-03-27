@@ -111,7 +111,22 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "capes-supporter-bundle-f29eb4",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "capes-supporter-pack-cb09a6",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "capes-884728",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "capes-884728",
@@ -120,7 +135,28 @@
   ],
   "developerDisplayName": "Spitfire Interactive",
   "publisherDisplayName": "Daedalic Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 2000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "3d704d9f83bb4e1f97aa0283477c33d6"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-05-29T17:00:00.000Z",
   "pcReleaseDate": "2024-05-29T16:00:00.000Z",
