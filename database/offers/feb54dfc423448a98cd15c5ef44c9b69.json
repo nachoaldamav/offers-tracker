@@ -87,28 +87,30 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": "Glowstick Entertainment, Inc.",
-  "publisherDisplayName": "Glowstick Entertainment, Inc.",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1999,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": []
+        "pageSlug": "dark-deception--chapter-02",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "dark-deception--chapter-03",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "dark-deception--complete-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "dark-deception",
+        "pageType": "productHome"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": "Glowstick Entertainment, Inc.",
+  "publisherDisplayName": "Glowstick Entertainment, Inc.",
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2021-10-30T00:00:00.000Z",
   "pcReleaseDate": "2018-09-27T15:00:00.000Z",
