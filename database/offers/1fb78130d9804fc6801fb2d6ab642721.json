@@ -110,22 +110,7 @@
       "path": "applications"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "figment2-creed-valley",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "figment2-creed-valley-ios-db9160",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "figment2-creed-valley-android-e5f2c9",
-        "pageType": "offer"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "figment2-creed-valley",
@@ -134,7 +119,28 @@
   ],
   "developerDisplayName": "Bedtime Digital Games",
   "publisherDisplayName": "Bedtime Digital Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 2000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "aba475557ded4fdd8ca880b1ad07df5e"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-03-09T17:00:00.000Z",
   "pcReleaseDate": "2023-03-09T17:00:00.000Z",
