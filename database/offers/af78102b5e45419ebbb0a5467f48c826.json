@@ -119,11 +119,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "somber-echoes-71966b",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "somber-echoes-71966b",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Rock Pocket Games, Lav Games",
   "publisherDisplayName": "Bonus Stage Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-03-29T12:00:00.000Z",
   "pcReleaseDate": "2025-01-21T12:00:00.000Z",
