@@ -95,11 +95,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "silence-57bc4e",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "silence-57bc4e",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Daedalic Entertainment",
   "publisherDisplayName": "Daedalic Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1800,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "dfc407863ee04b3ea87e4b7e32ca2c7d"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-07-21T15:00:00.000Z",
   "pcReleaseDate": "2016-11-15T17:00:00.000Z",
