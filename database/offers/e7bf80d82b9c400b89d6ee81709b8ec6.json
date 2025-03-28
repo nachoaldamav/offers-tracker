@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "creationDate": "2023-06-05T13:42:06.707Z",
-  "lastModifiedDate": "2025-03-26T13:54:26.269Z",
+  "lastModifiedDate": "2025-03-28T19:39:21.696Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -77,7 +77,7 @@
     },
     {
       "key": "isManuallySetViewableDate",
-      "value": "true"
+      "value": "false"
     },
     {
       "key": "isPromotionalContentUsed",
@@ -103,57 +103,20 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "super-farming-boy-c4ec02",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "super-farming-boy-faq-946c59",
-        "pageType": "info"
-      },
-      {
-        "pageSlug": "super-farming-boy-super-farming-boy-demo-c6b13f",
-        "pageType": "offer"
-      }
-    ]
-  },
-  "offerMappings": [
-    {
-      "pageSlug": "super-farming-boy-c4ec02",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": null,
+  "offerMappings": null,
   "developerDisplayName": "LemonChili",
   "publisherDisplayName": "Renxo Europe Limited",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 999,
-      "originalPrice": 999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
-  "releaseDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": "2099-01-01T00:00:00.000Z",
+  "releaseDate": "2025-04-30T00:00:00.000Z",
+  "pcReleaseDate": "2025-04-30T00:00:00.000Z",
   "viewableDate": "2024-06-19T18:57:58.086Z",
   "approximateReleasePlan": {
     "day": null,
-    "month": null,
+    "month": 4,
     "quarter": null,
-    "year": null,
-    "releaseDateType": "UNKNOWN"
+    "year": 2025,
+    "releaseDateType": "BY_MONTH"
   }
 }
