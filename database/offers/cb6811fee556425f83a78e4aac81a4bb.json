@@ -98,11 +98,43 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-valiant--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-valiant",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "KITE Games",
   "publisherDisplayName": "THQ Nordic",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 624,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 1875,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "ddd0484e8e5e4c1b9b7184eb5908f515"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-10-19T17:00:00.000Z",
   "pcReleaseDate": "2022-10-19T17:00:00.000Z",
