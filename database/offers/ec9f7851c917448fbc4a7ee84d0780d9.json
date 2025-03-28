@@ -94,11 +94,63 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tribes-of-midgard",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "tribes-of-midgard--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "tribes-of-midgard--deluxe-edition-contents",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "tribes-of-midgard--eira-cosmetic-set",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "tribes-of-midgard--500-platinum-coins",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "tribes-of-midgard--1050-platinum-coins",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "tribes-of-midgard--2200-platinum-coins",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Norsfell",
   "publisherDisplayName": "2K Games, Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "9ed19032b25048a5bc14ea9a34e8a8f6"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-12-14T17:00:00.000Z",
   "pcReleaseDate": "2021-07-27T17:00:18.000Z",
