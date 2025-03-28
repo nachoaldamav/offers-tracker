@@ -87,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "kholat-3f394b",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "kholat-3f394b",
@@ -96,7 +103,28 @@
   ],
   "developerDisplayName": "IMGN.PRO",
   "publisherDisplayName": "IMGN.PRO",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 219,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1780,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "3bc73c6a270e49e6b6f2e00fbf2bc2c7"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-02-23T18:00:00.000Z",
   "pcReleaseDate": "2015-06-09T22:30:00.000Z",

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "creationDate": "2024-03-11T11:09:39.755Z",
-  "lastModifiedDate": "2025-02-17T15:37:04.646Z",
+  "lastModifiedDate": "2025-03-28T21:55:34.924Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -112,6 +112,10 @@
       "value": "false"
     },
     {
+      "key": "extraLaunchOption_001_Args",
+      "value": "-dx11"
+    },
+    {
       "key": "isManuallySetViewableDate",
       "value": "true"
     },
@@ -130,16 +134,27 @@
   ],
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "promise-mascot-agency-dd7a9c",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "promise-mascot-agency-promise-mascot-agency-demo-85764f",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "promise-mascot-agency-dd7a9c",
@@ -152,7 +167,7 @@
   "prePurchase": null,
   "releaseDate": "2025-12-31T00:00:00.000Z",
   "pcReleaseDate": "2025-12-31T00:00:00.000Z",
-  "viewableDate": "2024-04-29T17:36:10.968Z",
+  "viewableDate": "2024-04-29T17:36:10.000Z",
   "approximateReleasePlan": {
     "day": null,
     "month": null,
