@@ -79,11 +79,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "firegirl-29bf39",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "firegirl-29bf39",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Dejima",
   "publisherDisplayName": "Thunderful Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 179,
+      "originalPrice": 1799,
+      "voucherDiscount": 0,
+      "discount": 1620,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "ddd2ca0a6cfc4d7e853ee3bc41d96825"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-10-11T15:00:00.000Z",
   "pcReleaseDate": "2021-12-14T16:00:00.000Z",

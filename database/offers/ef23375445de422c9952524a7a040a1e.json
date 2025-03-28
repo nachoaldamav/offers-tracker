@@ -95,11 +95,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "monorail-stories-4b4a69",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "monorail-stories-4b4a69",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Stelex Software",
   "publisherDisplayName": "Freedom Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 974,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 525,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "cfacfea48e3d4966aa71cb104cb9e231"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-09-30T12:00:00.000Z",
   "pcReleaseDate": "2022-09-30T12:00:00.000Z",

@@ -99,7 +99,30 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "forgive-me-father-2-ea03a5",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "forgive-me-father-2-faq-1e9b95",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "forgive-me-father-2-forgive-me-father-2-digital-artbook-d59e66",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "forgive-me-father-2-forgive-me-father-2-deluxe-edition-e5352e",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "forgive-me-father-2-forgive-me-father-2-soundtrack-c7fd7a",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "forgive-me-father-2-ea03a5",
@@ -108,7 +131,28 @@
   ],
   "developerDisplayName": "Byte Barrel",
   "publisherDisplayName": "Fulqrum Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "25f7eb2497e74120b90610b37c8f3c01"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-19T17:00:00.000Z",
   "pcReleaseDate": "2023-10-19T17:00:00.000Z",
