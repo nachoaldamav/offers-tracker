@@ -98,8 +98,20 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "shadowhand",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "shadowhand",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Grey Alien Games",
   "publisherDisplayName": "Positech Games",
   "price": null,
