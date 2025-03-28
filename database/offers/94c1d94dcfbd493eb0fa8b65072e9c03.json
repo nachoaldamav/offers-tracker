@@ -122,11 +122,83 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "assassins-creed-mirage",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "assassins-creed-mirage--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-mirage--map-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "assassins-creed-mirage--deluxe-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "assassins-creed-mirage--jinn-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "assassins-creed-mirage--lightning-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "assassins-creed-mirage--master-assassin-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "assassins-creed-mirage--fire-demon-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "assassins-creed-mirage--guardian-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "assassins-creed-mirage--master-assassin-upgrade-2",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "assassins-creed-mirage--master-assassin-upgrade-1",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "assassins-creed-mirage--master-assassin-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Ubisoft",
   "publisherDisplayName": "Ubisoft",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 3000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "f623e3f50c284f99b02eaca1e32fd915"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-05T16:00:00.000Z",
   "pcReleaseDate": "2023-10-05T16:00:00.000Z",
