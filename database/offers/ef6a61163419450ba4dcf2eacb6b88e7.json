@@ -87,7 +87,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "shadow-tactics-aikos-choice-5678c1",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "shadow-tactics-aikos-choice-shadow-tactics-aikos-choice-soundtrack-51ab32",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "shadow-tactics-aikos-choice-5678c1",
@@ -96,7 +107,28 @@
   ],
   "developerDisplayName": "Mimimi Games",
   "publisherDisplayName": "Daedalic Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "b2025792a6d948e89f509fc054191774"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-12-06T18:00:00.000Z",
   "pcReleaseDate": "2021-12-06T00:00:00.000Z",
