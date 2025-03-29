@@ -106,7 +106,14 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "spellforce-3",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "spellforce-3",
@@ -115,28 +122,7 @@
   ],
   "developerDisplayName": "Grimlore Games",
   "publisherDisplayName": "THQ Nordic",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 999,
-      "originalPrice": 3999,
-      "voucherDiscount": 0,
-      "discount": 3000,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "6ed8c3be035444eea1d028c952878af3"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2021-12-06T18:00:00.000Z",
   "pcReleaseDate": "2017-12-07T18:00:00.000Z",
