@@ -95,7 +95,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "kids-learn-kids-learn-demo-a1e844",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "kids-learn-e4a163",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "kids-learn-e4a163",
@@ -104,7 +115,28 @@
   ],
   "developerDisplayName": "Yash Future Tech Solutions Pvt Ltd",
   "publisherDisplayName": "Yash Future Tech Solutions Pvt Ltd",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 139,
+      "originalPrice": 699,
+      "voucherDiscount": 0,
+      "discount": 560,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "3d32def04d124229a0fb28af3e32d139"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-01T18:30:00.000Z",
   "pcReleaseDate": "2016-03-30T18:30:00.000Z",

@@ -91,7 +91,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "space-fishing-074665",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "space-fishing-faq-e44f80",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "space-fishing-074665",
@@ -100,24 +111,7 @@
   ],
   "developerDisplayName": "Mineria Studios",
   "publisherDisplayName": "Mineria Studios",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 249,
-      "originalPrice": 249,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2024-08-06T19:00:00.000Z",
   "pcReleaseDate": "2024-06-12T09:00:00.000Z",
