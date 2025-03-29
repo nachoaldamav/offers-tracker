@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "zombie-rollerz-7aa027",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "zombie-rollerz-7aa027",
@@ -100,7 +107,28 @@
   ],
   "developerDisplayName": "Zing Games Inc.",
   "publisherDisplayName": "Daedalic Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 239,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 1260,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "d1dc89fd38204b1c98d4537758997337"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-03-02T18:00:00.000Z",
   "pcReleaseDate": "2022-03-02T18:00:00.000Z",
