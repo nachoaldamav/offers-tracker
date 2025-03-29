@@ -126,11 +126,47 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ea-sports-fc-25--ultimate-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ea-sports-fc-25",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "ea-sports-fc-25--showcase",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "EA Canada",
   "publisherDisplayName": "Electronic Arts",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2099,
+      "originalPrice": 6999,
+      "voucherDiscount": 0,
+      "discount": 4900,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "6dc68207fd0440c4b0a33d4acb10a4f6"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-09-27T04:00:00.000Z",
   "pcReleaseDate": "2024-09-27T04:00:00.000Z",
