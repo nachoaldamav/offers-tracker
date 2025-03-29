@@ -103,22 +103,7 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "cygni-all-guns-blazing-cygni-soundtrack-231041",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "cygni-all-guns-blazing-98f872",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "cygni-all-guns-blazing-cygni-all-guns-blazing-digital-deluxe-edition-27b6f3",
-        "pageType": "offer"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "cygni-all-guns-blazing-98f872",
@@ -127,7 +112,24 @@
   ],
   "developerDisplayName": "KeelWorks",
   "publisherDisplayName": "KONAMI",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-08-05T23:00:00.000Z",
   "pcReleaseDate": "2024-08-05T23:00:00.000Z",
