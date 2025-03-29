@@ -87,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "angry-video-game-nerd-1-and-2-deluxe-1eea79",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "angry-video-game-nerd-1-and-2-deluxe-1eea79",
@@ -96,24 +103,7 @@
   ],
   "developerDisplayName": "FreakZone Games",
   "publisherDisplayName": "Retroware",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 999,
-      "originalPrice": 999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2021-12-21T00:00:00.000Z",
   "pcReleaseDate": "2020-10-29T00:00:00.000Z",
