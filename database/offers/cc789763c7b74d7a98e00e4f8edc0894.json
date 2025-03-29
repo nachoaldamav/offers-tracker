@@ -115,7 +115,18 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "spellforce-3-soul-harvest--digital-extras",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "spellforce-3-soul-harvest",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "spellforce-3-soul-harvest",
@@ -124,7 +135,28 @@
   ],
   "developerDisplayName": "Grimlore Games",
   "publisherDisplayName": "THQ Nordic",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "9208e771533a46349f571d68b7151ab6"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-07-16T16:00:00.000Z",
   "pcReleaseDate": "2019-05-28T15:00:00.000Z",
