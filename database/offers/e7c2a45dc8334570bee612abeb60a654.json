@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "wavetale-f9cfdf",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "wavetale-f9cfdf",
@@ -100,28 +107,7 @@
   ],
   "developerDisplayName": "Thunderful Development",
   "publisherDisplayName": "Thunderful Publishing",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 599,
-      "originalPrice": 2999,
-      "voucherDiscount": 0,
-      "discount": 2400,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "24a61e75e55245259370c88aabd278b3"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2022-12-12T16:00:00.000Z",
   "pcReleaseDate": "2022-12-12T16:00:00.000Z",

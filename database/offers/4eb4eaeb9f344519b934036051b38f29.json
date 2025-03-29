@@ -142,11 +142,55 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "rimworld--royalty-dlc",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "rimworld--ideology-dlc",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "rimworld",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "rimworld--biotech",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "rimworld--anomaly",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2799,
+      "originalPrice": 3499,
+      "voucherDiscount": 0,
+      "discount": 700,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "a8b07d52907e41d48c0dc6b5ebf26a60"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-06-09T14:00:00.000Z",
   "pcReleaseDate": null,
