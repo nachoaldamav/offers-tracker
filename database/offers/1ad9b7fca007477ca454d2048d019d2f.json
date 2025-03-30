@@ -154,11 +154,59 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "neon-abyss",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "neon-abyss--alter-ego-dlc-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "neon-abyss--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "neon-abyss--the-lovable-rogues",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "neon-abyss--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "neon-abyss--chrono-trap",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "4792e7e7489c48e1a3910b9ecb49b8dd"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-07-29T15:00:00.000Z",
   "pcReleaseDate": "2020-07-29T15:00:00.000Z",
