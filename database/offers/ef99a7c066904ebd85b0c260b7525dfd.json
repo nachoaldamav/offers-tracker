@@ -163,11 +163,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "oirbo-faq-8d1cda",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "oirbo-c063b7",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "oirbo-c063b7",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "ImaginationOverflow",
   "publisherDisplayName": "ImaginationOverflow",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1184,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 315,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "3e8a114612a740a18972ab800f5bea30"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-07-19T14:00:00.000Z",
   "pcReleaseDate": "2023-07-19T14:00:00.000Z",
