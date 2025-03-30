@@ -91,14 +91,7 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "vlad-circus-descend-into-madness-9d1ed2",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "vlad-circus-descend-into-madness-9d1ed2",
@@ -107,7 +100,28 @@
   ],
   "developerDisplayName": "Indiesruption",
   "publisherDisplayName": "Blowfish Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "ab81b7061ee44bab9bc82d5236297f0b"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-16T13:00:00.000Z",
   "pcReleaseDate": "2023-10-16T13:00:00.000Z",
