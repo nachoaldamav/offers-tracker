@@ -102,28 +102,26 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": "Scavengers Studio",
-  "publisherDisplayName": "Scavengers Studio",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 2499,
-      "originalPrice": 2499,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": []
+        "pageSlug": "season",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "season--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "season--bundle",
+        "pageType": "offer"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": "Scavengers Studio",
+  "publisherDisplayName": "Scavengers Studio",
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-01-31T17:00:00.000Z",
   "pcReleaseDate": "2023-01-31T17:00:00.000Z",

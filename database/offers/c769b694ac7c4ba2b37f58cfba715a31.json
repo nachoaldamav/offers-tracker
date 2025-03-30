@@ -126,11 +126,47 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "gotham-knights",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "gotham-knights--visionary-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "gotham-knights--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Warner Bros. Games Montreal | QLOC",
   "publisherDisplayName": "Warner Bros. Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1199,
+      "originalPrice": 5999,
+      "voucherDiscount": 0,
+      "discount": 4800,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "d6d87ce6f6634abf86173419ee99e624"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": false,
   "releaseDate": "2022-10-21T17:00:00.000Z",
   "pcReleaseDate": "2022-10-21T17:00:00.000Z",
