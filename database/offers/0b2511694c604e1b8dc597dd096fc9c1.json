@@ -146,7 +146,28 @@
   "offerMappings": [],
   "developerDisplayName": "Urban Games",
   "publisherDisplayName": "Good Shepherd Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 3000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "8d3a3448caf346c4bc903fa2d600b273"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-08-18T14:00:00.000Z",
   "pcReleaseDate": "2021-08-18T14:00:00.000Z",
