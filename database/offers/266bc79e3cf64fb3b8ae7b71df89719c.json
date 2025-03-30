@@ -86,7 +86,30 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "gravewood-high--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "gravewood-high",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "gravewood-high--early-access-faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "gravewood-high--chapter-1",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "gravewood-high--complete",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "HeroCraft",
   "publisherDisplayName": "HeroCraft",
