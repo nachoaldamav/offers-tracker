@@ -87,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "horror-tales-the-wine-3ab2b2",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "horror-tales-the-wine-3ab2b2",
@@ -96,7 +103,28 @@
   ],
   "developerDisplayName": "Carlos Coronado",
   "publisherDisplayName": "Carlos Coronado",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 1200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "411469d0087d41798ee038611e3d5b74"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-07-29T22:00:00.000Z",
   "pcReleaseDate": "2021-07-29T22:00:00.000Z",
