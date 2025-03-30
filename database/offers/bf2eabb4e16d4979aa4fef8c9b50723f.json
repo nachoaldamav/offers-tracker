@@ -142,8 +142,23 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "immortals-of-aveum--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "immortals-of-aveum",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "immortals-of-aveum--deluxe-edition-upgrade",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Ascendant Studios",
   "publisherDisplayName": "Electronic Arts",
   "price": null,
