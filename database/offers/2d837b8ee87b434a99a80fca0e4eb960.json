@@ -131,10 +131,31 @@
     }
   ],
   "catalogNs": null,
-  "offerMappings": null,
+  "offerMappings": [],
   "developerDisplayName": "Bethesda Game Studios",
   "publisherDisplayName": "Bethesda Softworks",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 3000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "4207e2c8702d492f90966f0f034b9829"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-10-06T14:00:00.000Z",
   "pcReleaseDate": "2016-10-28T17:56:00.000Z",
