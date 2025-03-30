@@ -242,10 +242,31 @@
       }
     ]
   },
-  "offerMappings": null,
+  "offerMappings": [],
   "developerDisplayName": "CREATIVE ASSEMBLY",
   "publisherDisplayName": "SEGA",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 5999,
+      "voucherDiscount": 0,
+      "discount": 4500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "defe5087565e4c6ca7033235a1d12d25"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-04-28T14:00:00.000Z",
   "pcReleaseDate": "2017-09-28T11:20:00.000Z",
