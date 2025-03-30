@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "classic-car-drive-simulator-a540a9",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "classic-car-drive-simulator-a540a9",
@@ -100,28 +107,7 @@
   ],
   "developerDisplayName": "Yusuf Islam Seyhan, Samet Acar",
   "publisherDisplayName": "INSPECTOR STUDIOS",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 59,
-      "originalPrice": 99,
-      "voucherDiscount": 0,
-      "discount": 40,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "8b773a79de57444688efadc86fe46d24"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-11-13T18:00:00.000Z",
   "pcReleaseDate": "2023-02-21T17:00:00.000Z",
