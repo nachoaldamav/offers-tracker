@@ -87,11 +87,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "my-summer-adventure-memories-of-another-life-e30d54",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "my-summer-adventure-memories-of-another-life-e30d54",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Alkinoy",
   "publisherDisplayName": "101XP",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 799,
+      "voucherDiscount": 0,
+      "discount": 400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "59242b0b2f7e422785a0b8e5a01a615e"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-07-17T15:00:00.000Z",
   "pcReleaseDate": "2023-05-30T15:00:00.000Z",
