@@ -95,11 +95,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "extreme-formula-championship-a8271d",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "extreme-formula-championship-extreme-formula-championship-demo-31920a",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "extreme-formula-championship-a8271d",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Yash Future Tech Solutions Pvt Ltd",
   "publisherDisplayName": "Yash Future Tech Solutions Pvt Ltd",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 119,
+      "originalPrice": 799,
+      "voucherDiscount": 0,
+      "discount": 680,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "98bf262d239645078c3c2aba2a77c1a5"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-05T18:30:00.000Z",
   "pcReleaseDate": "2015-05-03T18:30:00.000Z",
