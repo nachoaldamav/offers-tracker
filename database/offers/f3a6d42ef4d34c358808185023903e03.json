@@ -103,11 +103,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "lisa-the-joyful-219c24",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "lisa-the-joyful-219c24",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Dingaling Productions",
   "publisherDisplayName": "Serenity Forge",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 649,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 350,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "d8e47480c32e41dea1b624dda1577805"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-29T17:00:00.000Z",
   "pcReleaseDate": "2023-07-18T17:00:00.000Z",
