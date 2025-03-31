@@ -95,7 +95,18 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "terrorbane-terrorbane-soundtrack-70e0f6",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "terrorbane-437dd3",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "terrorbane-437dd3",
@@ -104,24 +115,7 @@
   ],
   "developerDisplayName": "BitNine Studio",
   "publisherDisplayName": "WhisperGames",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1499,
-      "originalPrice": 1499,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-04-01T00:00:00.000Z",
   "pcReleaseDate": "2022-04-01T00:00:00.000Z",
