@@ -47,10 +47,7 @@
       "id": "9547",
       "name": "Windows"
     },
-    {
-      "id": "1310",
-      "name": "EARLY ACCESS"
-    },
+    null,
     {
       "id": "10719",
       "name": "Mac OS"
@@ -123,7 +120,24 @@
   ],
   "developerDisplayName": "Phyrexi, Inc",
   "publisherDisplayName": "Phyrexi, Inc",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 199,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",
