@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-12-19T16:00:00.000Z",
   "creationDate": "2020-05-12T21:17:05.288Z",
-  "lastModifiedDate": "2025-03-26T16:01:12.555Z",
+  "lastModifiedDate": "2025-03-31T13:45:09.698Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -102,6 +102,10 @@
     {
       "id": "10719",
       "name": "Mac OS"
+    },
+    {
+      "id": "21119",
+      "name": "Great for Beginners"
     }
   ],
   "items": [
@@ -138,11 +142,47 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-long-dark",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-long-dark--tales-from-the-far-territory",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-long-dark--wintermute",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1749,
+      "originalPrice": 3499,
+      "voucherDiscount": 0,
+      "discount": 1750,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "9a5890dbd5e44c70ba880b02ebeeca60"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-12-19T16:00:00.000Z",
   "pcReleaseDate": "2020-12-19T16:00:00.000Z",
