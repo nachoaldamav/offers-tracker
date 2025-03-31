@@ -143,11 +143,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "undead-horde-2-necropolis-382453",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "undead-horde-2-necropolis-382453",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "10tons Ltd",
   "publisherDisplayName": "10tons Ltd",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1699,
+      "originalPrice": 1699,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-03-13T09:00:00.000Z",
   "pcReleaseDate": "2023-03-29T21:00:00.000Z",
