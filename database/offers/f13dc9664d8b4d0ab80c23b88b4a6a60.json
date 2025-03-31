@@ -95,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tetragon-edc5d5",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "tetragon-edc5d5",
@@ -104,28 +111,7 @@
   ],
   "developerDisplayName": "Cafundo Estudio Criativo Eireli",
   "publisherDisplayName": "ESDigital Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 374,
-      "originalPrice": 1499,
-      "voucherDiscount": 0,
-      "discount": 1125,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "1b688bee83844030afd45577a435b9ea"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-03-24T15:00:00.000Z",
   "pcReleaseDate": "2021-08-12T17:00:00.000Z",
