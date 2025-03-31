@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-04-25T14:00:00.000Z",
   "creationDate": "2023-02-09T20:58:01.980Z",
-  "lastModifiedDate": "2025-03-26T16:01:22.598Z",
+  "lastModifiedDate": "2025-03-31T21:14:19.093Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "15375",
       "name": "Spring Sale"
+    },
+    {
+      "id": "21137",
+      "name": "Unique Visuals"
     },
     {
       "id": "21138",
@@ -122,11 +126,91 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "fallout-4--game-of-the-year-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "fallout-4",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "fallout-4--1000-creation-credits",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fallout-4--nuka-world",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fallout-4--2700-creation-credits",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fallout-4--wasteland-workshop",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fallout-4--contraptions-workshop",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fallout-4--far-harbor",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fallout-4--automatron",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fallout-4--high-resolution-texture-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fallout-4--500-creation-credits",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fallout-4--5500-creation-credits",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fallout-4--vault-tec-workshop",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fallout-4--season-pass",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Bethesda Game Studios",
   "publisherDisplayName": "Bethesda Softworks",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 799,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "d21a26198dda450a98ad432ff900bb02"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-04-25T14:00:00.000Z",
   "pcReleaseDate": "2015-11-10T00:00:00.000Z",
