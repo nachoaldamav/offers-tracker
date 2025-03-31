@@ -31,7 +31,10 @@
   "urlSlug": "d485f5a46e0d4feaa15025e345853bbb",
   "url": null,
   "tags": [
-    null,
+    {
+      "id": "1298",
+      "name": "Puzzle"
+    },
     {
       "id": "19847",
       "name": "Achievements"
@@ -92,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "loop-d5c6d1",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "loop-d5c6d1",
@@ -101,24 +111,7 @@
   ],
   "developerDisplayName": "Team Chili",
   "publisherDisplayName": "Team Chili",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 599,
-      "originalPrice": 599,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2022-07-04T00:00:00.000Z",
