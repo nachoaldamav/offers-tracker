@@ -95,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "annas-quest-fbefa2",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "annas-quest-fbefa2",
@@ -104,28 +111,7 @@
   ],
   "developerDisplayName": "Daedalic Entertainment",
   "publisherDisplayName": "Daedalic Entertainment",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 199,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 1800,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "0699ca51fe104f99903cd372c488ad8f"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-02-01T16:00:00.000Z",
   "pcReleaseDate": "2015-07-01T22:00:00.000Z",
