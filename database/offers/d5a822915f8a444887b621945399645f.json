@@ -83,7 +83,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "extreme-offroad-racing-439263",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "extreme-offroad-racing-extreme-offroad-racing-demo-da7ace",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "extreme-offroad-racing-439263",
@@ -92,28 +103,7 @@
   ],
   "developerDisplayName": "Yash Future Tech Solutions Pvt Ltd",
   "publisherDisplayName": "Yash Future Tech Solutions Pvt Ltd",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 199,
-      "originalPrice": 999,
-      "voucherDiscount": 0,
-      "discount": 800,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "e1c5fab23c294fc08e60980d9fea9660"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-10-14T18:30:00.000Z",
   "pcReleaseDate": "2023-10-14T18:30:00.000Z",
