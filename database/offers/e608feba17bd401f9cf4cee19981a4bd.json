@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "creationDate": "2025-03-18T12:38:03.301Z",
-  "lastModifiedDate": "2025-03-18T12:38:03.301Z",
+  "lastModifiedDate": "2025-03-31T23:18:41.355Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -135,20 +135,53 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "project-origin-a3a24a",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "project-origin-faq-85aba8",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "project-origin-a3a24a",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Rouge Studio",
   "publisherDisplayName": "Rouge Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
-  "releaseDate": "2025-03-31T00:00:00.000Z",
-  "pcReleaseDate": "2025-03-31T00:00:00.000Z",
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2025-03-18T12:37:47.000Z",
   "approximateReleasePlan": {
     "day": null,
-    "month": 3,
+    "month": null,
     "quarter": null,
-    "year": 2025,
-    "releaseDateType": "BY_MONTH"
+    "year": null,
+    "releaseDateType": "UNKNOWN"
   }
 }

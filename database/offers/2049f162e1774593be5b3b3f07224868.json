@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "creationDate": "2023-05-21T11:45:18.398Z",
-  "lastModifiedDate": "2024-12-14T17:30:09.798Z",
+  "lastModifiedDate": "2025-03-31T23:18:44.193Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -107,20 +107,53 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "degenheim-f84f02",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "degenheim-faq-bd8f29",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "degenheim-f84f02",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Highrise Studios",
   "publisherDisplayName": "Highrise Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1299,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
-  "releaseDate": "2025-03-31T00:00:00.000Z",
-  "pcReleaseDate": "2025-03-31T00:00:00.000Z",
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2023-12-08T04:00:00.000Z",
   "approximateReleasePlan": {
     "day": null,
     "month": null,
-    "quarter": "q1",
-    "year": 2025,
-    "releaseDateType": "BY_QUARTER"
+    "quarter": null,
+    "year": null,
+    "releaseDateType": "UNKNOWN"
   }
 }

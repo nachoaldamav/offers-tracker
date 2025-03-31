@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "creationDate": "2024-08-13T00:36:12.783Z",
-  "lastModifiedDate": "2024-08-13T00:36:12.783Z",
+  "lastModifiedDate": "2025-03-31T23:18:40.910Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -95,20 +95,53 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "refugees-shelter-0c849d",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "refugees-shelter-faq-f9be42",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "refugees-shelter-0c849d",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Roche Limit Studios",
   "publisherDisplayName": "Roche Limit Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
-  "releaseDate": "2025-03-31T00:00:00.000Z",
-  "pcReleaseDate": "2025-03-31T00:00:00.000Z",
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2024-08-13T00:35:54.409Z",
   "approximateReleasePlan": {
     "day": null,
-    "month": 3,
+    "month": null,
     "quarter": null,
-    "year": 2025,
-    "releaseDateType": "BY_MONTH"
+    "year": null,
+    "releaseDateType": "UNKNOWN"
   }
 }

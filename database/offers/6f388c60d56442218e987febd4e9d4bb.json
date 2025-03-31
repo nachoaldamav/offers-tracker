@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "creationDate": "2025-01-02T11:12:04.514Z",
-  "lastModifiedDate": "2025-02-17T15:30:00.574Z",
+  "lastModifiedDate": "2025-03-31T23:18:45.931Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -95,20 +95,49 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "loop-of-anomalies-liz-66e7a1",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "loop-of-anomalies-liz-66e7a1",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "ARGameDev",
   "publisherDisplayName": "ARGameDev",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 399,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
-  "releaseDate": "2025-03-31T00:00:00.000Z",
-  "pcReleaseDate": "2025-03-31T00:00:00.000Z",
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2025-02-04T16:02:26.000Z",
   "approximateReleasePlan": {
     "day": null,
-    "month": 3,
+    "month": null,
     "quarter": null,
-    "year": 2025,
-    "releaseDateType": "BY_MONTH"
+    "year": null,
+    "releaseDateType": "UNKNOWN"
   }
 }

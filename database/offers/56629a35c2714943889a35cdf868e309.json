@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "creationDate": "2025-03-27T08:00:18.300Z",
-  "lastModifiedDate": "2025-03-27T08:17:33.267Z",
+  "lastModifiedDate": "2025-03-31T23:18:47.303Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -151,20 +151,49 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tensei-0694a3",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "tensei-0694a3",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Project Pegasus",
   "publisherDisplayName": "NEURON-AGE",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 299,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
-  "releaseDate": "2025-03-28T00:00:00.000Z",
-  "pcReleaseDate": "2024-03-25T08:00:00.000Z",
+  "releaseDate": "2099-01-01T00:00:00.000Z",
+  "pcReleaseDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2025-03-27T08:00:00.000Z",
   "approximateReleasePlan": {
-    "day": 28,
-    "month": 3,
+    "day": null,
+    "month": null,
     "quarter": null,
-    "year": 2025,
-    "releaseDateType": "BY_DATE"
+    "year": null,
+    "releaseDateType": "UNKNOWN"
   }
 }
