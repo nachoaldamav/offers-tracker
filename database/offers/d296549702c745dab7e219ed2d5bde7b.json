@@ -95,11 +95,48 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "turbo-overkill-c5e3c7",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "turbo-overkill-faq-a26233",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "turbo-overkill-c5e3c7",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Trigger Happy Interactive",
   "publisherDisplayName": "Apogee Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1874,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 625,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "65a846241fa54c4ebe30a4920c7d80b4"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-08-11T13:30:00.000Z",
   "pcReleaseDate": "2022-04-22T17:00:00.000Z",
