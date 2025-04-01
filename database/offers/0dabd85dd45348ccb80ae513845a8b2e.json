@@ -139,11 +139,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ship-simulator-realistic-faq-6615d5",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "ship-simulator-realistic-434fc0",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "ship-simulator-realistic-434fc0",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Gregory Nikolaidis",
   "publisherDisplayName": "Gregory Nikolaidis",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-07-21T18:00:00.000Z",
   "pcReleaseDate": "2022-01-11T07:00:00.000Z",

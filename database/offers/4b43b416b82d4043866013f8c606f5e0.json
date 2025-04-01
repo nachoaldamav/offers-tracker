@@ -6,20 +6,20 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-11-17T15:00:00.000Z",
   "creationDate": "2022-07-13T21:32:13.033Z",
-  "lastModifiedDate": "2025-03-26T16:01:15.896Z",
+  "lastModifiedDate": "2025-04-01T14:01:05.115Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/50bbaf85f4454b1c88786efeede5b302/EGS_GoatSimulator3_CoffeeStainNorthAB_S2_1200x1600-d0d2a500c86abe6bc5de83a4de72ad2b"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/50bbaf85f4454b1c88786efeede5b302/EGS_GoatSimulator3_CoffeeStainNorthAB_S1_2560x1440-1cc70d3f96e7663320eef4b7e417c40d"
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/50bbaf85f4454b1c88786efeede5b302/EGS_GoatSimulator3_CoffeeStainNorthAB_S2_1200x1600-d0d2a500c86abe6bc5de83a4de72ad2b"
+      "url": "https://cdn1.epicgames.com/offer/50bbaf85f4454b1c88786efeede5b302/EGS_GoatSimulator3_CoffeeStainNorthAB_S2_1200x1600-862e4a5174ffbc93e61110c1639af7e4"
     },
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/50bbaf85f4454b1c88786efeede5b302/EGS_GoatSimulator3_CoffeeStainNorthAB_S1_2560x1440-0e0d45045a5c9cef7ed2f252faac10e2"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/50bbaf85f4454b1c88786efeede5b302/EGS_GoatSimulator3_CoffeeStainNorthAB_S2_1200x1600-862e4a5174ffbc93e61110c1639af7e4"
     }
   ],
   "currentPrice": 2999,
@@ -50,10 +50,6 @@
     {
       "id": "9547",
       "name": "Windows"
-    },
-    {
-      "id": "15375",
-      "name": "Spring Sale"
     },
     {
       "id": "1264",
@@ -130,11 +126,63 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "goat-simulator-3--digital-downgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "goat-simulator-3",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "goat-simulator-3--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "goat-simulator-3--super-duper-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "goat-simulator-3--multiverse-of-nonsense",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "goat-simulator-3--hocus-pocus-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "goat-simulator-3--multiversal-travelers-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Coffee Stain North AB",
   "publisherDisplayName": "Coffee Stain Publishing AB",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 989,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 2010,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "d3e1d1e7162a43e5bdc69c0707f22701"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-11-17T15:00:00.000Z",
   "pcReleaseDate": "2022-11-17T15:00:00.000Z",
