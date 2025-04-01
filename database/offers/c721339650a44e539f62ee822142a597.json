@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-08-05T15:00:00.000Z",
   "creationDate": "2021-06-10T05:04:41.271Z",
-  "lastModifiedDate": "2023-02-14T07:35:00.583Z",
+  "lastModifiedDate": "2025-04-01T19:49:56.989Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -72,8 +72,12 @@
       "value": "false"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
+    {
       "key": "isBlockchainUsed",
-      "value": "null"
+      "value": "false"
     }
   ],
   "categories": [
@@ -96,7 +100,24 @@
   ],
   "developerDisplayName": "Flightless",
   "publisherDisplayName": "Flightless",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 899,
+      "originalPrice": 899,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-08-05T15:00:00.000Z",
   "pcReleaseDate": "2021-08-05T15:00:00.000Z",
