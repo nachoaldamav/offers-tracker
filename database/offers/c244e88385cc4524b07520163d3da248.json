@@ -87,13 +87,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "the-dead-await-13afd0",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-dead-await-13afd0",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-dead-await-faq-67eb3c",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Shotx",
   "publisherDisplayName": "Freedom Games",
   "price": {
