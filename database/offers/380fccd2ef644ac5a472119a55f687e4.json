@@ -103,7 +103,38 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "asdivine-saga-faq-c10888",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "asdivine-saga-experience-and-sp-x2-asdivine-saga-c51a2e",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "asdivine-saga-experience-x3-asdivine-saga-b3a138",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "asdivine-saga-5fdefe",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "asdivine-saga-sp-x3-asdivine-saga-bd0d54",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "asdivine-saga-damage-x2-asdivine-saga-cb1825",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "asdivine-saga-full-restore-asdivine-saga-d1c03f",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "asdivine-saga-5fdefe",
@@ -112,7 +143,28 @@
   ],
   "developerDisplayName": "Exe Create Inc.",
   "publisherDisplayName": "KEMCO",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 749,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 750,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "d663240476d94c63ab78e26e896776d6"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-08-01T00:00:00.000Z",
   "pcReleaseDate": "2021-09-29T15:00:00.000Z",
