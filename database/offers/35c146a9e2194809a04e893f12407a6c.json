@@ -114,7 +114,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "syberia-the-world-before--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "syberia-the-world-before-deluxe-content-82d19a",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "syberia-the-world-before",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "syberia-the-world-before",
@@ -123,7 +138,28 @@
   ],
   "developerDisplayName": "Koalabs",
   "publisherDisplayName": "Microids",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1399,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 2600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "7f82735cbbcc41dd8867dfae5558b7c6"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-03-18T17:00:00.000Z",
   "pcReleaseDate": "2022-03-18T17:00:00.000Z",
