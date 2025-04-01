@@ -98,11 +98,51 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "trials-fusion--awesome-max-level-dlc",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "trials-fusion--season-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "trials-fusion",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "trials-fusion--the-awesome-max-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "e706d7940ad84f02a36e7bd8e9131b07"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-03-11T16:00:00.000Z",
   "pcReleaseDate": "2014-04-15T18:21:00.000Z",
