@@ -91,7 +91,18 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "elemental-wizards-tcg-4208fb",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "elemental-wizards-tcg-faq-d49bb2",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "elemental-wizards-tcg-4208fb",
@@ -100,24 +111,7 @@
   ],
   "developerDisplayName": "Ether Game Studios",
   "publisherDisplayName": "Ether Game Studios",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 299,
-      "originalPrice": 299,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-10-18T19:00:00.000Z",
   "pcReleaseDate": "2023-10-18T19:00:00.000Z",
