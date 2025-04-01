@@ -95,7 +95,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "remore-infested-kingdom-d1a6b5",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "remore-infested-kingdom-faq-e40803",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "remore-infested-kingdom-d1a6b5",
@@ -104,24 +115,7 @@
   ],
   "developerDisplayName": "Black Anchor",
   "publisherDisplayName": "Webzen",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1499,
-      "originalPrice": 1499,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-10-31T02:00:00.000Z",
   "pcReleaseDate": "2023-10-31T02:00:00.000Z",
