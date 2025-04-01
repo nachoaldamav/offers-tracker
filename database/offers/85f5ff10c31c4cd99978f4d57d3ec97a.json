@@ -154,11 +154,63 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "killing-floor-2--armory-season-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "killing-floor-2--digital-deluxe-upgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "killing-floor-2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "killing-floor-2--armory-season-pass-2",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "killing-floor-2--ultimate-edition-upgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "killing-floor-2--ultimate-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "killing-floor-2--cosmetic-sseason-pass",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 2700,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "7b99c064f51a4993961389574807f414"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-07-09T15:00:00.000Z",
   "pcReleaseDate": null,
