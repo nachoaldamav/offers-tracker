@@ -4,9 +4,9 @@
   "namespace": "d19746cad26549e69d42a019a4db4592",
   "description": "Uzy's navigation system got damaged in a storm, now he and his friends are separated from each other and their home. Join Uzy solving puzzles and help out others along the way.",
   "offerType": "BASE_GAME",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "effectiveDate": "2025-04-09T12:00:00.000Z",
   "creationDate": "2024-08-01T17:15:21.968Z",
-  "lastModifiedDate": "2024-12-02T15:40:36.767Z",
+  "lastModifiedDate": "2025-04-01T13:03:15.213Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -151,20 +151,47 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "a-way-home-a-way-home-demo-c61573",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "a-way-home-a397f1",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "a-way-home-a397f1",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Spillutvikler Mæhle - Hellfire RHG",
   "publisherDisplayName": "Spillutvikler Mæhle",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
-  "releaseDate": "2025-04-30T00:00:00.000Z",
-  "pcReleaseDate": "2025-04-30T00:00:00.000Z",
+  "releaseDate": "2025-04-09T12:00:00.000Z",
+  "pcReleaseDate": "2025-04-09T12:00:00.000Z",
   "viewableDate": "2024-11-11T07:26:03.000Z",
-  "approximateReleasePlan": {
-    "day": null,
-    "month": 4,
-    "quarter": null,
-    "year": 2025,
-    "releaseDateType": "BY_MONTH"
-  }
+  "approximateReleasePlan": null
 }
