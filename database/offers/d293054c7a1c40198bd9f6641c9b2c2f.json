@@ -87,22 +87,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "surviving-the-humans-surviving-the-humans-demo-5b68f1",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "surviving-the-humans-1e4834",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "surviving-the-humans-faq-6ca653",
-        "pageType": "info"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "surviving-the-humans-1e4834",
@@ -111,7 +96,24 @@
   ],
   "developerDisplayName": "Surprised Monkey Studio",
   "publisherDisplayName": "Surprised Monkey Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",
