@@ -87,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "to-the-rescue-a6c254",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "to-the-rescue-a6c254",
@@ -96,7 +103,28 @@
   ],
   "developerDisplayName": "Little Rock Games",
   "publisherDisplayName": "Freedom Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 899,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1100,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "6925282987e844a78ed9fa25c6087844"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-11-02T12:00:00.000Z",
   "pcReleaseDate": "2021-11-02T12:00:00.000Z",
