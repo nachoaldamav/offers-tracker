@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-08-21T15:00:00.000Z",
   "creationDate": "2024-08-10T18:16:49.823Z",
-  "lastModifiedDate": "2025-02-25T16:00:32.807Z",
+  "lastModifiedDate": "2025-04-01T15:00:32.182Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1263",
@@ -113,10 +117,10 @@
   "publisherDisplayName": "Extaz Game Developer",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 424,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 75,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "31fb1ec89d004709b17ccb8b07dea312"
+          }
+        ]
       }
     ]
   },

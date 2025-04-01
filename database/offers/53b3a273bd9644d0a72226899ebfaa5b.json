@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-11-17T21:00:00.000Z",
   "creationDate": "2023-11-08T04:28:35.529Z",
-  "lastModifiedDate": "2025-02-25T16:00:31.051Z",
+  "lastModifiedDate": "2025-04-01T15:00:30.664Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     }
   ],
   "items": [
@@ -87,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "cooking-trip-new-challenge-collectors-edition-59c8df",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "cooking-trip-new-challenge-collectors-edition-59c8df",
@@ -96,7 +107,28 @@
   ],
   "developerDisplayName": "GameOn Production",
   "publisherDisplayName": "8Floor ltd",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 249,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 250,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "1859b92f89fb4a45b8ad786abd2c4563"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-11-17T21:00:00.000Z",
   "pcReleaseDate": "2021-08-09T21:00:00.000Z",

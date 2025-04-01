@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-08-27T17:00:00.000Z",
   "creationDate": "2024-04-07T15:04:35.320Z",
-  "lastModifiedDate": "2025-02-11T15:06:53.547Z",
+  "lastModifiedDate": "2025-04-01T15:00:30.663Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "9549",
@@ -117,10 +121,10 @@
   "publisherDisplayName": "Lucid Dreams Studio",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1399,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 600,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "6cef1607da4b4d4b8df33b973984e79f"
+          }
+        ]
       }
     ]
   },

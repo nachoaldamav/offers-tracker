@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-04-07T14:00:00.000Z",
   "creationDate": "2023-03-09T20:21:29.906Z",
-  "lastModifiedDate": "2025-02-24T16:01:43.966Z",
+  "lastModifiedDate": "2025-04-01T15:00:30.663Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1117",
@@ -91,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "brok-the-investigator-fb0513",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "brok-the-investigator-fb0513",
@@ -100,7 +111,28 @@
   ],
   "developerDisplayName": "COWCAT",
   "publisherDisplayName": "COWCAT",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "f3b72146306b4c80aa03937331a69e30"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-07T14:00:00.000Z",
   "pcReleaseDate": "2022-08-26T19:00:00.000Z",
