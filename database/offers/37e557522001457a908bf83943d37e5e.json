@@ -111,14 +111,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "jackbox-naughty-pack-0bffd7",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "jackbox-naughty-pack-0bffd7",
@@ -127,7 +120,28 @@
   ],
   "developerDisplayName": "Jackbox Games, Inc.",
   "publisherDisplayName": "Jackbox Games, Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1399,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "3974d01452224483bfa33826a1d57392"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-09-12T14:06:27.482Z",
   "pcReleaseDate": "2024-09-12T05:00:00.000Z",

@@ -118,14 +118,7 @@
       "path": "applications"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "selfloss",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "selfloss",
@@ -134,7 +127,28 @@
   ],
   "developerDisplayName": "Goodwin Games",
   "publisherDisplayName": "Silver Lining Interactive",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 1500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "bc8cc7f851fd4dcc844edc605fdfd28a"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-09-12T13:00:00.000Z",
   "pcReleaseDate": "2024-09-12T13:00:00.000Z",
