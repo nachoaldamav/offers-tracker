@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-03-21T15:00:00.000Z",
   "creationDate": "2023-01-13T19:16:19.203Z",
-  "lastModifiedDate": "2025-03-30T11:48:44.863Z",
+  "lastModifiedDate": "2025-04-02T18:04:35.077Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -34,6 +34,10 @@
     {
       "id": "21122",
       "name": "Diverse Characters"
+    },
+    {
+      "id": "21125",
+      "name": "Competitive Community"
     },
     {
       "id": "19847",
@@ -130,7 +134,26 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "deceive-inc",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "deceive-inc--black-tie-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "deceive-inc--black-tie-dlc",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "deceive-inc--free-weekend",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Sweet Bandits Studios",
   "publisherDisplayName": "Tripwire Interactive",
