@@ -161,7 +161,28 @@
   "offerMappings": [],
   "developerDisplayName": "Ubisoft",
   "publisherDisplayName": "Ubisoft",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 3000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "e7ac4710539a484cb57ac03629d59688"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-01-20T05:00:00.000Z",
   "pcReleaseDate": "2022-01-20T05:00:00.000Z",
