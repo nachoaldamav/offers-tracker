@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "alchemist-adventure-fa9fca",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "alchemist-adventure-fa9fca",
@@ -100,7 +107,28 @@
   ],
   "developerDisplayName": "Bad Minions",
   "publisherDisplayName": "SuperGG.com",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 224,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 1275,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "72ad1c321e564517963d924fa1e89610"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-05-18T04:00:00.000Z",
   "pcReleaseDate": "2021-06-10T00:00:00.000Z",
