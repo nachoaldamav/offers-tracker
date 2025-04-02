@@ -142,7 +142,30 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "transport-fever-2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "transport-fever-2--early-supporter-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "transport-fever-2--deluxe-upgrade-es",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "transport-fever-2--deluxe-upgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "transport-fever-2--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Urban Games",
   "publisherDisplayName": "Good Shepherd Entertainment",
