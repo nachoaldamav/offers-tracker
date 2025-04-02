@@ -95,18 +95,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "life-of-delta-life-of-delta-supporter-pack-849383",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "life-of-delta-44f4e4",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "life-of-delta-44f4e4",
@@ -115,7 +104,28 @@
   ],
   "developerDisplayName": "Airo Games",
   "publisherDisplayName": "Daedalic Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "8c7fab564fc14774bd17fd0e61f43412"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-03-13T17:00:00.000Z",
   "pcReleaseDate": "2023-03-13T17:00:00.000Z",
