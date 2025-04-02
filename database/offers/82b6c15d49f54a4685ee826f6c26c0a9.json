@@ -146,7 +146,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ranch-simulator",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "ranch-simulator--early-access-faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "ranch-simulator-south-western-states-258b3c",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "ranch-simulator",
@@ -155,24 +170,7 @@
   ],
   "developerDisplayName": "Toxic Dog",
   "publisherDisplayName": "Excalibur Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 2499,
-      "originalPrice": 2499,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2022-02-10T16:30:00.000Z",
   "pcReleaseDate": "2021-03-04T12:00:00.000Z",

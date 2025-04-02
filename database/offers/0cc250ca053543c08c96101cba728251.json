@@ -6,20 +6,20 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-10-12T16:00:00.000Z",
   "creationDate": "2022-09-06T21:45:12.910Z",
-  "lastModifiedDate": "2025-03-26T16:02:35.850Z",
+  "lastModifiedDate": "2025-04-02T11:02:19.331Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/65a9273ec61f4bb6b94461eb1ce8ec23/EGS_PCBuildingSimulator2_SpiralHouseLtd_S2_1200x1600-e7dea8f74dcac04d5291dd677265f924"
+    },
+    {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/65a9273ec61f4bb6b94461eb1ce8ec23/ENG_1_1200x1600-3ad4b760a482b5c3f844edb54eeced1e"
+      "url": "https://cdn1.epicgames.com/offer/65a9273ec61f4bb6b94461eb1ce8ec23/EGS_PCBuildingSimulator2_SpiralHouseLtd_S2_1200x1600-e7dea8f74dcac04d5291dd677265f924"
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/65a9273ec61f4bb6b94461eb1ce8ec23/ENG_1_2560x1440-e8e4e32c96f3c0d0cb6bd3216888225c"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/65a9273ec61f4bb6b94461eb1ce8ec23/ENG_1_1200x1600-3ad4b760a482b5c3f844edb54eeced1e"
+      "url": "https://cdn1.epicgames.com/offer/65a9273ec61f4bb6b94461eb1ce8ec23/EGS_PCBuildingSimulator2_SpiralHouseLtd_S1_2560x1440-6429421f0fe68c4243dbba9fb25d8e16"
     }
   ],
   "currentPrice": 2499,
@@ -50,10 +50,6 @@
     {
       "id": "9547",
       "name": "Windows"
-    },
-    {
-      "id": "15375",
-      "name": "Spring Sale"
     },
     {
       "id": "1296",
@@ -122,11 +118,47 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "pc-building-simulator-2--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "pc-building-simulator-2--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "pc-building-simulator-2",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Spiral House Ltd",
   "publisherDisplayName": "Epic Games Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1674,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 825,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "9982e4ea87244796a3e0c518ecd3f509"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": false,
   "releaseDate": "2022-10-12T16:00:00.000Z",
   "pcReleaseDate": "2022-10-12T16:00:00.000Z",
