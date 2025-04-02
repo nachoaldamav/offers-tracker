@@ -155,11 +155,84 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "house-flipper--garden-dlc",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "house-flipper--hgtv-dlc",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "house-flipper--pets-dlc",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "house-flipper-house-flipper-dine-out-dlc-5ea2df",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "house-flipper-house-flipper-pop-art-furniture-pack-7fed63",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "house-flipper--luxury-dlc",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "house-flipper--apocalypse-dlc",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "house-flipper--cyberpunk-dlc",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "house-flipper--bundle-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "house-flipper--farm-dlc",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "house-flipper",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "house-flipper-house-flipper-party-furniture-pack-5691b5",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "house-flipper",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Empyrean",
   "publisherDisplayName": "Frozen District",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-08-05T17:00:00.000Z",
   "pcReleaseDate": "2018-05-17T15:00:00.000Z",
