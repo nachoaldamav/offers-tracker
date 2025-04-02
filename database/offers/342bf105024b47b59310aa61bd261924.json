@@ -87,10 +87,31 @@
     }
   ],
   "catalogNs": null,
-  "offerMappings": null,
+  "offerMappings": [],
   "developerDisplayName": "Harebrained Schemes",
   "publisherDisplayName": "Paradox Interactive",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 2500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "e3d65f6365b04f40a84d8f31aeb7cdaf"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-03T16:00:00.000Z",
   "pcReleaseDate": "2023-10-03T16:00:00.000Z",
