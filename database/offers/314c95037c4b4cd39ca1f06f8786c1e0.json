@@ -83,7 +83,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "anuchard-08179d",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "anuchard-08179d",
@@ -92,28 +99,7 @@
   ],
   "developerDisplayName": "stellarNull",
   "publisherDisplayName": "Freedom Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 224,
-      "originalPrice": 1499,
-      "voucherDiscount": 0,
-      "discount": 1275,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "a2deec81f6df44b49362f5288897315c"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2022-04-21T16:00:00.000Z",
   "pcReleaseDate": "2022-04-21T16:00:00.000Z",
