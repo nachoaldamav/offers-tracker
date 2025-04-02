@@ -6,23 +6,31 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "creationDate": "2024-06-03T11:55:23.532Z",
-  "lastModifiedDate": "2024-11-30T00:00:41.816Z",
+  "lastModifiedDate": "2025-04-02T13:45:02.227Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/04116b8f569e4a10afde50589dd01677/union-of-gnomes-e4yb2.png"
+      "url": "https://cdn1.epicgames.com/spt-assets/04116b8f569e4a10afde50589dd01677/union-of-gnomes-1j5y7.png"
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/04116b8f569e4a10afde50589dd01677/union-of-gnomes-q41f4.png"
+      "url": "https://cdn1.epicgames.com/spt-assets/04116b8f569e4a10afde50589dd01677/union-of-gnomes-guuc6.png"
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/04116b8f569e4a10afde50589dd01677/union-of-gnomes-q41f4.png"
+      "url": "https://cdn1.epicgames.com/spt-assets/04116b8f569e4a10afde50589dd01677/union-of-gnomes-guuc6.png"
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/spt-assets/04116b8f569e4a10afde50589dd01677/union-of-gnomes-11sos.jpg"
+    },
+    {
+      "type": "OgImage",
+      "url": "https://cdn1.epicgames.com/spt-assets/04116b8f569e4a10afde50589dd01677/union-of-gnomes-3q6te.jpg"
     }
   ],
-  "currentPrice": 1999,
+  "currentPrice": 1499,
   "seller": {
     "id": "o-8ux7xn386eqvrb5x2rxrjkyvnfdz7v",
     "name": "HeroCraft PC"
@@ -91,7 +99,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "union-of-gnomes-2a8863",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "union-of-gnomes-2a8863",
@@ -102,8 +117,8 @@
   "publisherDisplayName": "HeroCraft PC",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
-      "originalPrice": 1999,
+      "discountPrice": 1499,
+      "originalPrice": 1499,
       "voucherDiscount": 0,
       "discount": 0,
       "currencyCode": "USD",
@@ -119,14 +134,14 @@
     ]
   },
   "prePurchase": null,
-  "releaseDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": "2099-01-01T00:00:00.000Z",
+  "releaseDate": "2024-09-30T00:00:00.000Z",
+  "pcReleaseDate": "2024-09-30T00:00:00.000Z",
   "viewableDate": "2024-06-14T20:45:58.444Z",
   "approximateReleasePlan": {
     "day": null,
     "month": null,
-    "quarter": null,
-    "year": null,
-    "releaseDateType": "UNKNOWN"
+    "quarter": "q2",
+    "year": 2025,
+    "releaseDateType": "BY_QUARTER"
   }
 }
