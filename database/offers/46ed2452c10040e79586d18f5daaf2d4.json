@@ -99,7 +99,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "hunt-the-night-3f1eb5",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "hunt-the-night-3f1eb5",
@@ -108,7 +115,28 @@
   ],
   "developerDisplayName": "Moonlight Games",
   "publisherDisplayName": "DANGEN Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1399,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "3c60be4dd63d4aef8b3b44ae421fde5e"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-12T22:00:00.000Z",
   "pcReleaseDate": "2023-04-12T22:00:00.000Z",

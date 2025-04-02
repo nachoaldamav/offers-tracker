@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "match-3-game-the-world-is-going-to-9a5c08",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "match-3-game-the-world-is-going-to-9a5c08",
@@ -100,7 +107,24 @@
   ],
   "developerDisplayName": "Taras Maykovych",
   "publisherDisplayName": "Taras Maykovych",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-10-11T00:00:00.000Z",
   "pcReleaseDate": "2024-10-11T00:00:00.000Z",

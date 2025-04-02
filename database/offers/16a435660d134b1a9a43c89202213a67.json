@@ -99,7 +99,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "totally-spies-cyber-mission-051599",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "totally-spies-cyber-mission-051599",
@@ -108,7 +115,28 @@
   ],
   "developerDisplayName": "Balio Studio",
   "publisherDisplayName": "Microids",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2799,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 1200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "340d2ba0a454484ca1c5143fa2b85a1e"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-11-19T09:00:00.000Z",
   "pcReleaseDate": "2024-10-31T09:00:00.000Z",

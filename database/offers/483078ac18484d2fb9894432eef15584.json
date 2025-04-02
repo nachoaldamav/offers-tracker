@@ -139,7 +139,26 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "empire-of-the-ants-empire-of-the-ants-testing-edition-ee8ffd",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "empire-of-the-ants-ffcba5",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "empire-of-the-ants-empire-of-the-ants-deluxe-upgrade-7cbfeb",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "empire-of-the-ants-empire-of-the-ants-digital-deluxe-edition-920cca",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "empire-of-the-ants-ffcba5",
@@ -148,7 +167,28 @@
   ],
   "developerDisplayName": "Tower Five",
   "publisherDisplayName": "Microids",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2799,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 1200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "41b2c09f8bee42fa9333367338b0e23a"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-11-07T08:00:00.000Z",
   "pcReleaseDate": "2024-11-07T08:00:00.000Z",

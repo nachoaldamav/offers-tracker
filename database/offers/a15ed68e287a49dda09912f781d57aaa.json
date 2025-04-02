@@ -103,7 +103,22 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "hot-wheels-monster-trucks-stunt-mayhem-f209c0",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "hot-wheels-monster-trucks-stunt-mayhem-hot-wheels-monster-trucks-stunt-mayhem-treasure-hunt-pack-88b497",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hot-wheels-monster-trucks-stunt-mayhem-hot-wheels-monster-trucks-stunt-mayhem-deluxe-edition-9c7162",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "hot-wheels-monster-trucks-stunt-mayhem-f209c0",
@@ -112,7 +127,28 @@
   ],
   "developerDisplayName": "3DClouds",
   "publisherDisplayName": "GameMill Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1599,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 2400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "064dac792de74c1b8ef5c54941d15da5"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-10-18T16:00:00.000Z",
   "pcReleaseDate": "2024-10-18T16:00:00.000Z",

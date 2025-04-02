@@ -138,7 +138,54 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "wrc--season-1-vip-rally-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wrc--season-2-vip-rally-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wrc--season-3-vip-rally-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wrc--24-season-expansion-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wrc--24-locations-and-car-content-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wrc--season-4-vip-rally-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wrc--season-5-vip-rally-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "ea-sports-wrc-24--ea-play-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ea-sports-wrc-24--le-maestros-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "ea-sports-wrc-24",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "ea-sports-wrc-24--hard-chargers-pack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "ea-sports-wrc-24--ea-play-edition",
@@ -147,7 +194,24 @@
   ],
   "developerDisplayName": "Codemasters",
   "publisherDisplayName": "Electronic Arts",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-05T16:00:00.000Z",
   "pcReleaseDate": null,

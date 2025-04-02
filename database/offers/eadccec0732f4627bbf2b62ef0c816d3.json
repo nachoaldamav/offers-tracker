@@ -123,7 +123,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "goat-simulator-remastered-926445",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "goat-simulator-remastered-926445",
@@ -132,7 +139,28 @@
   ],
   "developerDisplayName": "Coffee Stain Publishing AB",
   "publisherDisplayName": "Coffee Stain Publishing AB",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1799,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 1200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "5479c09f73264307b177f33782fc8f58"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-11-07T00:00:00.000Z",
   "pcReleaseDate": "2024-11-07T00:00:00.000Z",

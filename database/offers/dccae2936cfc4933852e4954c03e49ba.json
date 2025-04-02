@@ -183,7 +183,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "bmx-bastards-013480",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "bmx-bastards-faq-16caad",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "bmx-bastards-013480",
@@ -192,7 +203,24 @@
   ],
   "developerDisplayName": "CSF Games Studio",
   "publisherDisplayName": "CSF Games Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-10-31T00:00:00.000Z",
   "pcReleaseDate": "2024-10-31T00:00:00.000Z",

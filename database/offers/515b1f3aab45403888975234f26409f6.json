@@ -102,8 +102,23 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "season",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "season--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "season--bundle",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Scavengers Studio",
   "publisherDisplayName": "Scavengers Studio",
   "price": null,

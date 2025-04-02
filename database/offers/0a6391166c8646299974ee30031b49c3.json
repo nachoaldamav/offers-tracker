@@ -147,7 +147,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "necroking-3ac46c",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "necroking-3ac46c",
@@ -156,7 +163,28 @@
   ],
   "developerDisplayName": "KORO.GAMES",
   "publisherDisplayName": "Alawar",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "b3b347af2e6b40b58038f4354a0a4c6d"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-11-14T17:37:24.000Z",
   "pcReleaseDate": "2024-09-04T17:00:00.000Z",
