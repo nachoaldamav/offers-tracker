@@ -131,13 +131,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "zombiegame-c8895b",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "zombiegame-c8895b",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "zombiegame-faq-683736",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Solar Gaming",
   "publisherDisplayName": "Solar Gaming",
   "price": null,
