@@ -126,11 +126,63 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "goat-simulator-3--digital-downgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "goat-simulator-3",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "goat-simulator-3--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "goat-simulator-3--super-duper-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "goat-simulator-3--multiverse-of-nonsense",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "goat-simulator-3--hocus-pocus-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "goat-simulator-3--multiversal-travelers-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Coffee Stain North AB",
   "publisherDisplayName": "Coffee Stain Publishing AB",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 989,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 2010,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "d3e1d1e7162a43e5bdc69c0707f22701"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-11-17T15:00:00.000Z",
   "pcReleaseDate": "2022-11-17T15:00:00.000Z",

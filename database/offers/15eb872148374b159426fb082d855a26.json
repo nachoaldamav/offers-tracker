@@ -91,7 +91,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "mirror-of-darkness-mirror-of-darkness-demo-6eb7ef",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "mirror-of-darkness-8ad368",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "mirror-of-darkness-8ad368",
@@ -100,7 +111,24 @@
   ],
   "developerDisplayName": "AFW Studios",
   "publisherDisplayName": "AFW Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-08-31T00:00:00.000Z",
   "pcReleaseDate": "2024-08-31T00:00:00.000Z",
