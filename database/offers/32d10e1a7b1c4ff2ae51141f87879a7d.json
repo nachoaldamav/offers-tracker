@@ -122,34 +122,28 @@
       "path": "applications"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "robocop-rogue-city",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "robocop-rogue-city--alex-murphy-edition",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "robocop-rogue-city--digital-artbook",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "robocop-rogue-city--vanguard-pack",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "robocop-rogue-city--alex-murphy-pack",
-        "pageType": "addon--cms-hybrid"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [],
   "developerDisplayName": "Teyon",
   "publisherDisplayName": "Nacon",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-11-02T15:00:00.000Z",
   "pcReleaseDate": "2023-11-02T15:00:00.000Z",
