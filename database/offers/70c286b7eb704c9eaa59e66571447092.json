@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-07-09T15:00:00.000Z",
   "creationDate": "2019-09-10T19:34:25.391Z",
-  "lastModifiedDate": "2025-03-26T16:01:32.591Z",
+  "lastModifiedDate": "2025-04-03T18:44:07.843Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -43,10 +43,6 @@
   "urlSlug": "fowlgeneralaudience",
   "url": null,
   "tags": [
-    {
-      "id": "21121",
-      "name": "Great for Quick Sessions"
-    },
     {
       "id": "21122",
       "name": "Diverse Characters"
@@ -146,11 +142,59 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-escapists-2--dungeons-and-duct-tape",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-escapists-2--wicked-ward",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-escapists-2--glorious-regime-prison",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-escapists-2--season-pass",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-escapists-2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-escapists-2--big-top-breakout",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "ff592f3624b94a77836f4b5b2c88c63a"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-07-09T15:00:00.000Z",
   "pcReleaseDate": null,
