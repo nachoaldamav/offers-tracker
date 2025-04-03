@@ -103,13 +103,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "cabbageball-e4dc40",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "cabbageball-e4dc40",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "cabbageball-faq-3fad2c",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Living on Ro Entertainment",
   "publisherDisplayName": "Living on Ro Entertainment",
   "price": null,
