@@ -91,14 +91,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "voodoo-kid-05b29a",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "voodoo-kid-05b29a",
@@ -107,7 +100,28 @@
   ],
   "developerDisplayName": "Infogrames Europe SA, Etranges Libellules Studios",
   "publisherDisplayName": "Digital Theory Ltd.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 349,
+      "originalPrice": 699,
+      "voucherDiscount": 0,
+      "discount": 350,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "e71bca100ece4d66ba38c53fe7cc9621"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-03T14:00:00.000Z",
   "pcReleaseDate": "1997-01-01T07:00:00.000Z",
