@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-01-28T16:00:00.000Z",
   "creationDate": "2024-12-11T21:23:11.709Z",
-  "lastModifiedDate": "2025-03-27T18:45:11.020Z",
+  "lastModifiedDate": "2025-04-03T10:19:01.826Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -80,10 +80,6 @@
   "url": null,
   "tags": [
     {
-      "id": "39040",
-      "name": "The MIX Seattle"
-    },
-    {
       "id": "1298",
       "name": "Puzzle"
     },
@@ -155,11 +151,56 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-stone-of-madness-special-edition-content-6ed1d9",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-stone-of-madness-prepurchase-testing-2b9486",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-stone-of-madness-special-edition-08d9cb",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-stone-of-madness-7b22f3",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "the-stone-of-madness-7b22f3",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "The Game Kitchen",
   "publisherDisplayName": "Tripwire Presents",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2399,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "03cd4fb250374ea6839ade387bc6b532"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-01-28T16:00:00.000Z",
   "pcReleaseDate": "2025-01-28T16:00:00.000Z",

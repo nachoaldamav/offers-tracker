@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-10-29T13:00:00.000Z",
   "creationDate": "2020-10-19T17:41:53.877Z",
-  "lastModifiedDate": "2025-03-26T16:02:03.482Z",
+  "lastModifiedDate": "2025-04-03T10:19:01.826Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -64,10 +64,6 @@
       "name": "Windows"
     },
     {
-      "id": "38237",
-      "name": "Devolver Digital Publisher Sale"
-    },
-    {
       "id": "10719",
       "name": "Mac OS"
     },
@@ -118,11 +114,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "carrion",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 599,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "3dcc8a891682421491ebfd13481f30c2"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-10-29T13:00:00.000Z",
   "pcReleaseDate": "2020-10-29T13:00:00.000Z",

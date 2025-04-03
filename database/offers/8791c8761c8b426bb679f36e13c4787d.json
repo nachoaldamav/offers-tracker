@@ -115,11 +115,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "luckygoal-201ee6",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "luckygoal-faq-427985",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "luckygoal-201ee6",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Woondas",
   "publisherDisplayName": "LuckyVerse",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 249,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 250,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "06055a9bd7074c7d9ac5622440f7e32a"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-04T16:00:00.000Z",
   "pcReleaseDate": "2023-01-01T11:00:00.000Z",
