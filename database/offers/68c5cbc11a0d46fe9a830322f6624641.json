@@ -94,7 +94,30 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "convergence-a-league-of-legends-story",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "convergence-a-league-of-legends-story--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "convergence-a-league-of-legends-story--star-guardian-ekko",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "convergence-a-league-of-legends-story--ruined-ekko-skin",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "convergence-a-league-of-legends-story--golden-ekko-skin",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Double Stallion",
   "publisherDisplayName": "Riot Forge",

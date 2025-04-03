@@ -110,8 +110,28 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "figment2-creed-valley",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "figment2-creed-valley-ios-db9160",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "figment2-creed-valley-android-e5f2c9",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "figment2-creed-valley",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Bedtime Digital Games",
   "publisherDisplayName": "Bedtime Digital Games",
   "price": null,
