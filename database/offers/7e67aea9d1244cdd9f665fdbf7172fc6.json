@@ -107,13 +107,19 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "panoverse2-8b60d6",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "panoverse2-8b60d6",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "panoverse2-faq-a10ba8",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "PanoVerse",
   "publisherDisplayName": "PanoVerse",
   "price": null,
