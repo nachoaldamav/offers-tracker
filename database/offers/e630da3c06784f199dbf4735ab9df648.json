@@ -110,7 +110,30 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "graven--graven-early-access-faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "graven",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "graven--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "graven--artbook",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "graven--soundtrack",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "graven",
@@ -119,7 +142,28 @@
   ],
   "developerDisplayName": "Slipgate Ironworks™",
   "publisherDisplayName": "Fulqrum Publishing, 3D Realms",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 624,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 1875,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "98d6c2d770724a809e37520deff82345"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-05-26T17:00:00.000Z",
   "pcReleaseDate": "2021-05-26T17:00:00.000Z",

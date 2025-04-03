@@ -103,7 +103,22 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "creaks-creaks-soundtrack-plus-art-book-57611c",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "creaks-creaks-collectors-edition-68a212",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "creaks-43f0f6",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "creaks-43f0f6",
@@ -112,7 +127,28 @@
   ],
   "developerDisplayName": "Amanita Design",
   "publisherDisplayName": "Amanita Design",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 599,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "4893f9fd287943d5b863f20650c50a1b"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-05-15T11:00:00.000Z",
   "pcReleaseDate": "2020-07-22T11:00:00.000Z",
