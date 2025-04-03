@@ -183,11 +183,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-crust-17f0f9",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-crust-faq-c7e18a",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "the-crust-17f0f9",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "VEOM Studio",
   "publisherDisplayName": "Crytivo",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2249,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 750,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "e7babd408a4144798175611505c3295f"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-02-04T19:00:00.000Z",
   "pcReleaseDate": "2023-11-30T00:00:00.000Z",
