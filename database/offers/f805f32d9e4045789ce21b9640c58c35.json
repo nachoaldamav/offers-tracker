@@ -99,7 +99,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "gladiator-blades-of-fury-gladiator-blades-of-fury-demo-1439db",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "gladiator-blades-of-fury-1a745b",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "gladiator-blades-of-fury-1a745b",
@@ -108,7 +119,28 @@
   ],
   "developerDisplayName": "Yash Future Tech Solutions Pvt Ltd",
   "publisherDisplayName": "Yash Future Tech Solutions Pvt Ltd",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 149,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 850,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "ee3140bfa0ab43abb3394fbaff0e48bc"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-11-30T18:30:00.000Z",
   "pcReleaseDate": "2019-03-07T18:30:00.000Z",
