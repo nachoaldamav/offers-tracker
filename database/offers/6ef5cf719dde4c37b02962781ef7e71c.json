@@ -99,7 +99,26 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "stellar-interface-stellar-interface-stellar-spacecrafts-b55ac2",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "stellar-interface-stellar-interface-golden-interface-7a59f2",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "stellar-interface-stellar-interface-original-soundtrack-c562a0",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "stellar-interface-d14cc4",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "stellar-interface-d14cc4",
@@ -108,28 +127,7 @@
   ],
   "developerDisplayName": "ImaginationOverflow",
   "publisherDisplayName": "ImaginationOverflow",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 259,
-      "originalPrice": 1299,
-      "voucherDiscount": 0,
-      "discount": 1040,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "dd36ab1c205c42769977eedb72d4d4b2"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-03-30T00:00:00.000Z",
   "pcReleaseDate": "2016-11-21T00:00:00.000Z",
