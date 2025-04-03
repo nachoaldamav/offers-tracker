@@ -103,7 +103,18 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "resonance-faq-5c5d58",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "resonance-3cc2ec",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "resonance-3cc2ec",
@@ -112,24 +123,7 @@
   ],
   "developerDisplayName": "Squalr, Inc.",
   "publisherDisplayName": "Squalr, Inc.",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 2499,
-      "originalPrice": 2499,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2024-08-30T04:00:00.000Z",
   "pcReleaseDate": "2024-08-30T04:00:00.000Z",
