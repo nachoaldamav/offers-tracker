@@ -186,7 +186,34 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "eximius-seize-the-frontline--weapons-of-war",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "eximius-seize-the-frontline--the-unseen",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "eximius-seize-the-frontline--signs-of-destiny",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "eximius-seize-the-frontline--kings-of-frontline",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "eximius-seize-the-frontline--the-hardened",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "eximius-seize-the-frontline",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "eximius-seize-the-frontline",
@@ -195,7 +222,24 @@
   ],
   "developerDisplayName": "Ammobox Studios",
   "publisherDisplayName": "Ammobox Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-10-22T11:18:36.000Z",
   "pcReleaseDate": "2022-10-22T11:18:36.000Z",
