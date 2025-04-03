@@ -79,7 +79,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "a-war-for-better-tomorrow-e77f40",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "a-war-for-better-tomorrow-faq-9add13",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "a-war-for-better-tomorrow-e77f40",
@@ -88,24 +99,7 @@
   ],
   "developerDisplayName": "CMBHARADWAJ SOFTWARE STUDIO (OPC) PRIVATE LIMITED",
   "publisherDisplayName": "CMBHARADWAJ SOFTWARE STUDIO (OPC) PRIVATE LIMITED",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 299,
-      "originalPrice": 299,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-10-16T00:30:00.000Z",
   "pcReleaseDate": "2023-10-16T00:30:00.000Z",
