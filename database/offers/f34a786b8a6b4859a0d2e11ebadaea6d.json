@@ -95,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "loretta-0099a6",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "loretta-0099a6",
@@ -104,28 +111,7 @@
   ],
   "developerDisplayName": "Yakov Butuzoff",
   "publisherDisplayName": "DANGEN Entertainment",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 974,
-      "originalPrice": 1499,
-      "voucherDiscount": 0,
-      "discount": 525,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "6406f7fae089413b913becaa51ab33b4"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-02-16T08:00:00.000Z",
   "pcReleaseDate": "2023-02-16T08:00:00.000Z",
