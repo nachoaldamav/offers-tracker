@@ -183,11 +183,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "pocket-cars-711585",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "pocket-cars-711585",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Gen90Software",
   "publisherDisplayName": "Gen90Software",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1049,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 450,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "17600ab4e5a942948b961a1dea066afe"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-02-03T18:00:00.000Z",
   "pcReleaseDate": "2024-12-11T16:00:00.000Z",

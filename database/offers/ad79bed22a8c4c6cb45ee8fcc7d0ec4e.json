@@ -99,7 +99,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "anime-vs-evil-apocalypse-4c8f91",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "anime-vs-evil-apocalypse-4c8f91",
@@ -108,7 +115,28 @@
   ],
   "developerDisplayName": "Axyos Games",
   "publisherDisplayName": "Axyos Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "4afaa8298f0c4bfa9720a3484b3c75de"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-11T07:00:00.000Z",
   "pcReleaseDate": "2023-02-16T06:00:00.000Z",
