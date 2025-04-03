@@ -87,8 +87,19 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "fangs--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "fangs",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Hidden Leaf Games",
   "publisherDisplayName": "Hidden Leaf Games",
   "price": null,

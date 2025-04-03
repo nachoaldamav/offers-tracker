@@ -146,8 +146,27 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "slime-rancher-2--original-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "slime-rancher-2--game-and-soundtrack-bundle",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "slime-rancher-2--early-access-faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "slime-rancher-2",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
   "price": null,
