@@ -99,7 +99,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "destructure-among-debris-b4aaf8",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "destructure-among-debris-b4aaf8",
@@ -108,7 +115,28 @@
   ],
   "developerDisplayName": "Team Instant Defeat",
   "publisherDisplayName": "RockGame S.A.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 799,
+      "voucherDiscount": 0,
+      "discount": 600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "f4574fb7bbb446c293a33b007f334aa9"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-27T13:00:00.000Z",
   "pcReleaseDate": "2023-04-27T13:00:00.000Z",

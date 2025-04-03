@@ -150,7 +150,34 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-outlast-trials-the-outlast-trials-the-exotica-pack-deefa4",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-outlast-trials--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "the-outlast-trials-the-outlast-trials-content-pack-3-ccc756",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-outlast-trials",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-outlast-trials--reagent-starter-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-outlast-trials--deluxe-edition",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-outlast-trials",
@@ -159,7 +186,28 @@
   ],
   "developerDisplayName": "Red Barrels",
   "publisherDisplayName": "Red Barrels",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1599,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 2400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "bdf6b2f659bf4e10a2abf77e22d60d6f"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-05-18T17:00:00.000Z",
   "pcReleaseDate": "2023-05-18T17:00:00.000Z",
