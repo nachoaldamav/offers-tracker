@@ -123,28 +123,27 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
-  "developerDisplayName": "256 Bits Studio",
-  "publisherDisplayName": "256 Bits Studio",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 3499,
-      "originalPrice": 3499,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": []
+        "pageSlug": "spellboundgame-610394",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "spellboundgame-faq-94a8cd",
+        "pageType": "info"
       }
     ]
   },
+  "offerMappings": [
+    {
+      "pageSlug": "spellboundgame-610394",
+      "pageType": "productHome"
+    }
+  ],
+  "developerDisplayName": "256 Bits Studio",
+  "publisherDisplayName": "256 Bits Studio",
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",
