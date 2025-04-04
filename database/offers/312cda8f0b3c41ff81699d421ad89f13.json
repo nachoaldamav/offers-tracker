@@ -112,7 +112,28 @@
   ],
   "developerDisplayName": "Rideon,Inc.",
   "publisherDisplayName": "KEMCO",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "7798123412b64b86963b4978eaf06ad6"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-09-06T00:00:00.000Z",
   "pcReleaseDate": "2021-01-06T15:00:00.000Z",
