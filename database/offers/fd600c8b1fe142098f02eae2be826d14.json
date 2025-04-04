@@ -95,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "fur-squadron-0042b8",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "fur-squadron-0042b8",
@@ -104,24 +111,7 @@
   ],
   "developerDisplayName": "Raptor Claw",
   "publisherDisplayName": "Raptor Claw",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 699,
-      "originalPrice": 699,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-05-04T13:30:00.000Z",
   "pcReleaseDate": "2023-03-16T00:00:00.000Z",
