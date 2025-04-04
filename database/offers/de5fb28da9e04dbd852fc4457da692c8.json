@@ -106,14 +106,7 @@
       "path": "applications"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "wild-west-dynasty",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "wild-west-dynasty",
@@ -122,7 +115,24 @@
   ],
   "developerDisplayName": "Moon Punch Studio",
   "publisherDisplayName": "Toplitz Productions",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2699,
+      "originalPrice": 2699,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-02-16T18:00:00.000Z",
   "pcReleaseDate": "2023-02-16T18:00:00.000Z",
