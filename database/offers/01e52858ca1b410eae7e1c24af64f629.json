@@ -99,7 +99,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "slay-the-princess-ce207e",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "slay-the-princess-ce207e",
@@ -108,7 +115,24 @@
   ],
   "developerDisplayName": "Black Tabby Games",
   "publisherDisplayName": "Black Tabby Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1799,
+      "originalPrice": 1799,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-10-24T17:00:00.000Z",
   "pcReleaseDate": "2023-10-23T17:00:00.000Z",

@@ -99,7 +99,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "diggersim-excavator-simulator-eb3684",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "diggersim-excavator-simulator-faq-cdfa90",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "diggersim-excavator-simulator-eb3684",
@@ -108,7 +119,24 @@
   ],
   "developerDisplayName": "Dreamsoft Innovations",
   "publisherDisplayName": "Dreamsoft Innovations",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-10-12T00:00:00.000Z",
   "pcReleaseDate": "2024-08-28T19:00:00.000Z",

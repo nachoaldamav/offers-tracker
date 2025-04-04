@@ -103,7 +103,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "dawn-of-anarchy-3309aa",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "dawn-of-anarchy-faq-bd069f",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "dawn-of-anarchy-3309aa",
@@ -112,7 +123,28 @@
   ],
   "developerDisplayName": "Whale Rock Games",
   "publisherDisplayName": "Whale Rock Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 59,
+      "originalPrice": 1199,
+      "voucherDiscount": 0,
+      "discount": 1140,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "1ccf537d5412426a9205445b8d6b4a50"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-10-30T10:00:00.000Z",
   "pcReleaseDate": "2024-10-01T09:00:00.000Z",
