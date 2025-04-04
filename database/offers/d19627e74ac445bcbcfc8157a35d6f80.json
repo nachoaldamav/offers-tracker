@@ -154,7 +154,14 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sable",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Shedworks",
   "publisherDisplayName": "Raw Fury",

@@ -166,11 +166,56 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "hundred-days-winemaking-simulator",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "hundred-days-winemaking-simulator--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hundred-days-wine-simulator--grape-lab",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hundred-days-wine-simulator--napa-valley",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "hundred-days-winemaking-simulator",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Broken Arms Games",
   "publisherDisplayName": "Broken Arms Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 849,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 1650,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "1fbc68479b5e4bbdb3b36d27c0eed40f"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-05-13T14:00:00.000Z",
   "pcReleaseDate": null,
