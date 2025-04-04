@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-03-18T15:00:00.000Z",
   "creationDate": "2023-05-23T23:36:07.477Z",
-  "lastModifiedDate": "2025-04-03T05:22:34.841Z",
+  "lastModifiedDate": "2025-04-04T16:48:34.907Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -88,12 +88,24 @@
       "name": "Action"
     },
     {
-      "id": "1264",
-      "name": "Co-op"
-    },
-    {
       "id": "29088",
       "name": "Online Multiplayer"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support"
+    },
+    {
+      "id": "1263",
+      "name": "Indie"
+    },
+    {
+      "id": "1264",
+      "name": "Co-op"
     },
     {
       "id": "21109",
@@ -108,16 +120,8 @@
       "name": "MMO"
     },
     {
-      "id": "9547",
-      "name": "Windows"
-    },
-    {
       "id": "21147",
       "name": "Inclusive Character Customization"
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support"
     },
     {
       "id": "21149",
@@ -128,8 +132,8 @@
       "name": "EARLY ACCESS"
     },
     {
-      "id": "1263",
-      "name": "Indie"
+      "id": "21119",
+      "name": "Great for Beginners"
     }
   ],
   "items": [
@@ -171,11 +175,72 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "33-immortals-33-immortals-beta-97c769",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "33-immortals-9873a2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "33-immortals-faq-d0b4f4",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "33-immortals-cosmetic_bundle_05-562838",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "33-immortals-placeholder_addon-be2fff",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "33-immortals-cosmetic_bundle_01-bb19d6",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "33-immortals-33-immortals-original-soundtrack-56d14c",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "33-immortals-placeholder_addon_2-f9a4f8",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "33-immortals-cosmetic_bundle_04-2f40f6",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "33-immortals-9873a2",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Thunder Lotus",
   "publisherDisplayName": "Thunder Lotus",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-03-18T15:00:00.000Z",
   "pcReleaseDate": "2025-03-18T15:00:00.000Z",
