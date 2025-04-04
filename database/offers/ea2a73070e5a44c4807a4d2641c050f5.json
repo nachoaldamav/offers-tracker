@@ -95,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "rise-of-the-third-power-682886",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "rise-of-the-third-power-682886",
@@ -104,7 +111,28 @@
   ],
   "developerDisplayName": "Stegosoft Games",
   "publisherDisplayName": "DANGEN Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1199,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 800,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "f01ffbc621624700a58cc20945f426cb"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-02-10T14:00:00.000Z",
   "pcReleaseDate": "2022-02-10T14:00:00.000Z",
