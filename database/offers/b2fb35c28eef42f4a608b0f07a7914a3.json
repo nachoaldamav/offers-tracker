@@ -78,11 +78,47 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "new-tales-from-the-borderlands--adventure-capital-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "new-tales-from-the-borderlands",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "new-tales-from-the-borderlands--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Gearbox Software",
   "publisherDisplayName": "2K",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 2000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "36ea48dd052544a39922c18e1340cf31"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-10-21T04:00:00.000Z",
   "pcReleaseDate": "2022-10-21T04:00:00.000Z",
