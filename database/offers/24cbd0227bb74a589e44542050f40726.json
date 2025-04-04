@@ -95,11 +95,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "xenonauts-2-faq-2f66f7",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "xenonauts-2-42a236",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "xenonauts-2-42a236",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Goldhawk Interactive",
   "publisherDisplayName": "Hooded Horse",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2599,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 1400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "52c596187e5c4be28180c353a68a8bd7"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-07-18T08:00:00.000Z",
   "pcReleaseDate": "2023-07-18T08:00:00.000Z",
