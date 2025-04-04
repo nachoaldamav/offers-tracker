@@ -118,11 +118,56 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "scorn--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "scorn--digital-artbook",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "scorn",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "scorn--original-soundtrack",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "scorn",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Ebb Software",
   "publisherDisplayName": "Kepler Interactive",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 3000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "dd488ce82cc14e9fbe78544c6388581a"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-10-14T10:00:00.000Z",
   "pcReleaseDate": "2022-10-14T10:00:00.000Z",
