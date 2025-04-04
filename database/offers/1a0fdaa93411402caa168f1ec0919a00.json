@@ -107,13 +107,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "crystale-b4f9c3",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "crystale-b4f9c3",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "crystale-faq-0b4bb2",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Starke Studios",
   "publisherDisplayName": "Starke Studios",
   "price": null,

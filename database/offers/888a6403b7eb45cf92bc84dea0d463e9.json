@@ -123,13 +123,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "alternates-b7fc88",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "alternates-b7fc88",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "alternates-faq-e65d58",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Brain Labs",
   "publisherDisplayName": "Brain Labs",
   "price": null,
