@@ -103,11 +103,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "acl-pro-cornhole-4dd419",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "acl-pro-cornhole-4dd419",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "FarSight Studios, Inc.",
   "publisherDisplayName": "FarSight Studios, Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-07-21T15:00:00.000Z",
   "pcReleaseDate": "2023-03-29T18:00:00.000Z",
