@@ -107,11 +107,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "baby-storm-426245",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "baby-storm-426245",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Baby Corp",
   "publisherDisplayName": "Forever Entertainment S. A.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 179,
+      "originalPrice": 1799,
+      "voucherDiscount": 0,
+      "discount": 1620,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "95fec91018db4396a58f3bf4f519ed58"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-09-07T22:00:00.000Z",
   "pcReleaseDate": "2023-09-07T22:00:00.000Z",
