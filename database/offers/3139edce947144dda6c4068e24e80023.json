@@ -99,11 +99,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ninja-chowdown-48113a",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "ninja-chowdown-48113a",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Dummy Dojo",
   "publisherDisplayName": "Abylight Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 749,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 250,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "6953a0b988554a0094963a5156cc6372"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-06-30T00:00:00.000Z",
   "pcReleaseDate": "2024-07-18T12:00:00.000Z",
