@@ -135,11 +135,63 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "old-world--heroes-of-the-aegean",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "old-world--the-sacred-and-the-profane",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "old-world--pharaohs-of-the-nile",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "old-world--wonders-and-dynasties",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "old-world--behind-the-throne",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "old-world",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "old-world--wrath-of-gods",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Mohawk Games",
   "publisherDisplayName": "Hooded Horse",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 3000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "ca756bc4a33a4054953c8445803a9b23"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-05-05T15:00:00.000Z",
   "pcReleaseDate": null,
