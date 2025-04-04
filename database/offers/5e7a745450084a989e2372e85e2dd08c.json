@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-04-04T20:00:00.000Z",
   "creationDate": "2024-02-09T18:59:38.748Z",
-  "lastModifiedDate": "2025-03-26T16:01:12.554Z",
+  "lastModifiedDate": "2025-04-04T02:39:52.048Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -80,6 +80,10 @@
       "name": "EA Classic Games on Epic"
     },
     {
+      "id": "21140",
+      "name": "Amazing Storytelling"
+    },
+    {
       "id": "21109",
       "name": "Great Boss Battles"
     },
@@ -127,11 +131,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "titanfall-2-6231e2",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "titanfall-2-6231e2",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Respawn Entertainment",
   "publisherDisplayName": "Electronic Arts",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 2700,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "2cb17d121714462e8d6fec434befe1fd"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-04-04T20:00:00.000Z",
   "pcReleaseDate": "2017-07-31T21:00:00.000Z",
