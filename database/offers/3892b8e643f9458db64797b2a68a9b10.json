@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "e30-drift-car-simulator-2d2977",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "e30-drift-car-simulator-2d2977",
@@ -100,7 +107,28 @@
   ],
   "developerDisplayName": "Yusuf Islam Seyhan, Samet Acar",
   "publisherDisplayName": "INSPECTOR STUDIOS",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 59,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 40,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "569b7bc152ed4c46961f2f80257aafba"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-09-03T17:00:00.000Z",
   "pcReleaseDate": "2023-02-10T17:00:00.000Z",
