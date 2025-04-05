@@ -118,32 +118,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": "Intercept Games",
-  "publisherDisplayName": "Private Division",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 2999,
-      "originalPrice": 4999,
-      "voucherDiscount": 0,
-      "discount": 2000,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": [
-          {
-            "id": "b6558b161cda41e09baa7397c98033da"
-          }
-        ]
+        "pageSlug": "kerbal-space-program-2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "kerbal-space-program-2--early-access-faq",
+        "pageType": "info"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": "Intercept Games",
+  "publisherDisplayName": "Private Division",
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-02-24T14:00:00.000Z",
   "pcReleaseDate": "2023-02-24T14:00:00.000Z",
