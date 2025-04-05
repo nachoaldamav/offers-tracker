@@ -102,7 +102,26 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "wolfstride",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "wolfstride--golden-god-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "wolfstride--script-wallpapers",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wolfstride--ost",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "OTA IMON Studios",
   "publisherDisplayName": "Raw Fury  ",
