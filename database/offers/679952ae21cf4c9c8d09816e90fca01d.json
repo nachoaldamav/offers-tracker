@@ -91,16 +91,39 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "silent-breath-902571",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "silent-breath-902571",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "silent-breath-faq-c861a5",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "EXODIAC STUDIOS",
   "publisherDisplayName": "EXODIAC STUDIOS",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",
