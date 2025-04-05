@@ -143,42 +143,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "karos-500-gxp-55235f",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "karos-100-gxp-dd3e55",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "karos-40-gxp-9a66d2",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "karos-20-gxp-64fccf",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "karos-10-gxp-815dff",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "karos-300-gxp-02126f",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "karos-faq-133d4f",
-        "pageType": "info"
-      },
-      {
-        "pageSlug": "karos-09de0a",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "karos-09de0a",
@@ -187,7 +152,24 @@
   ],
   "developerDisplayName": "Galaxy Gate, GameXP.com",
   "publisherDisplayName": "Galaxy Gate, GameXP.com",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-11-16T06:00:00.000Z",
   "pcReleaseDate": "2014-12-23T21:00:00.000Z",

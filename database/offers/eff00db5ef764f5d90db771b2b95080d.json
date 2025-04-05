@@ -191,7 +191,30 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "death-blonde-42f4ff",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "death-blonde-premium-cash-2000-1bed1e",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "death-blonde-premium-cash-5000-985b84",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "death-blonde-faq-5c0461",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "death-blonde-premium-cash-1000-df8256",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "death-blonde-42f4ff",
@@ -200,7 +223,24 @@
   ],
   "developerDisplayName": "Demon Girl",
   "publisherDisplayName": "Demon Girl",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-12-31T00:00:00.000Z",
   "pcReleaseDate": "2025-12-31T00:00:00.000Z",
