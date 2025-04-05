@@ -114,8 +114,24 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "demons-tilt",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "demons-tilt--collector-pack",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "demons-tilt",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "WIZNWAR",
   "publisherDisplayName": "FLARB LLC",
   "price": null,

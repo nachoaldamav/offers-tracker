@@ -110,8 +110,20 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "grindstone",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "grindstone",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "CAPY",
   "publisherDisplayName": "Capybara Games",
   "price": null,
