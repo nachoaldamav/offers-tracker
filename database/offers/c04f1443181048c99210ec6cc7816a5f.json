@@ -87,7 +87,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "chicken-vs-eggs-b807ab",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "chicken-vs-eggs-chicken-vs-eggs-demo-12f6fe",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "chicken-vs-eggs-b807ab",
@@ -96,7 +107,24 @@
   ],
   "developerDisplayName": "Super Sonic Snail - Tomas Pelak",
   "publisherDisplayName": "Super Sonic Snail - Tomas Pelak",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-31T04:00:00.000Z",
   "pcReleaseDate": "2023-10-31T04:00:00.000Z",
