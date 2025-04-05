@@ -90,42 +90,28 @@
       "path": "applications"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "the-mageseeker-a-league-of-legends-story--deluxe-edition",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "the-mageseeker-a-league-of-legends-story",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "the-mageseeker-a-league-of-legends-story--hijacked-spells-pack",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "the-mageseeker-a-league-of-legends-story--unchained-skins-pack",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "the-mageseeker-a-league-of-legends-story--silverwing-supply-station",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "the-mageseeker-a-league-of-legends-story--sweet-cave-pack",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "the-mageseeker-a-league-of-legends-story--lost-silverwing",
-        "pageType": "addon--cms-hybrid"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [],
   "developerDisplayName": "Digital Sun",
   "publisherDisplayName": "Riot Forge",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-18T16:00:00.000Z",
   "pcReleaseDate": "2023-04-18T16:00:00.000Z",

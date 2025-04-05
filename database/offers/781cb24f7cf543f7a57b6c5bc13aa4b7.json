@@ -91,18 +91,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "grief-trigger-012a5c",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "grief-trigger-grief-trigger-soundtrack-b465b4",
-        "pageType": "offer"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "grief-trigger-012a5c",
@@ -111,7 +100,24 @@
   ],
   "developerDisplayName": "Indignation LLC",
   "publisherDisplayName": "Indignation LLC",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-21T04:00:00.000Z",
   "pcReleaseDate": "2023-04-21T04:00:00.000Z",
