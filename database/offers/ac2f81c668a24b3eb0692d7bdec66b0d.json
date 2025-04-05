@@ -99,7 +99,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "hanoi-puzzles-solid-match-6a9e0c",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "hanoi-puzzles-solid-match-6a9e0c",
@@ -108,7 +115,28 @@
   ],
   "developerDisplayName": "Hanoi Studios",
   "publisherDisplayName": "Hanoi Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 89,
+      "originalPrice": 299,
+      "voucherDiscount": 0,
+      "discount": 210,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "1daaaee66f1e446da29c0ca9efd484f2"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-11-11T18:00:00.000Z",
   "pcReleaseDate": "2020-12-16T14:30:00.000Z",
