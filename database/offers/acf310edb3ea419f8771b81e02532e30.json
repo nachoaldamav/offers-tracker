@@ -82,7 +82,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "this-is-the-police-2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "this-is-the-police-2--official-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Weappy Studio",
   "publisherDisplayName": "THQ Nordic",
