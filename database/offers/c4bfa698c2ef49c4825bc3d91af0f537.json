@@ -103,7 +103,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "morbid-the-seven-acolytes-7c5303",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "morbid-the-seven-acolytes-7c5303",
@@ -112,7 +119,28 @@
   ],
   "developerDisplayName": "Still Running",
   "publisherDisplayName": "Silver Lining Interactive",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 624,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 1875,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "8e1b4c21af2a49ea849dc4cc56318ae4"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-09-19T09:17:02.386Z",
   "pcReleaseDate": "2020-12-03T14:00:00.000Z",
