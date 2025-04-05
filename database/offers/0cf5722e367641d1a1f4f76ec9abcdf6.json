@@ -91,7 +91,22 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "terra-nil-508d16",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "terra-nil-terra-nil-original-soundtrack-f78e31",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "terra-nil-terra-nil-digital-artbook-168152",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "terra-nil-508d16",
@@ -100,7 +115,28 @@
   ],
   "developerDisplayName": "Free Lives",
   "publisherDisplayName": "Devolver Digital",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1249,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 1250,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "59279befdac84c0a9267aa42a161f98d"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-03-28T15:00:00.000Z",
   "pcReleaseDate": "2023-03-28T15:00:00.000Z",
