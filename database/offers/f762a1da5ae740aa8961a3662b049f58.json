@@ -91,7 +91,18 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-dawning-clocks-of-time-a52f59",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-dawning-clocks-of-time-faq-5a6aa1",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-dawning-clocks-of-time-a52f59",
@@ -100,24 +111,7 @@
   ],
   "developerDisplayName": "Spacefarer Games Ltd",
   "publisherDisplayName": "Spacefarer Games Ltd",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1999,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-04-16T23:00:00.000Z",
   "pcReleaseDate": "2021-09-08T19:00:00.000Z",

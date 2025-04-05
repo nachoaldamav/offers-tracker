@@ -95,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "deexit-eternal-matters-da8992",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "deexit-eternal-matters-da8992",
@@ -104,28 +111,7 @@
   ],
   "developerDisplayName": "SandBloom Studio",
   "publisherDisplayName": "HandyGames",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 999,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 1000,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "58c157ea9cfc4518abf6baa64247dbba"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-04-14T16:30:00.000Z",
   "pcReleaseDate": "2023-04-14T16:30:00.000Z",
