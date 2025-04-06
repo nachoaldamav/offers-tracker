@@ -143,30 +143,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "engines-of-fury-1489b6",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "engines-of-fury-faq-a1bf23",
-        "pageType": "info"
-      },
-      {
-        "pageSlug": "engines-of-fury-engines-of-fury-unlimited-353fc9",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "engines-of-fury-engines-of-fury-cliffside-1febb1",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "engines-of-fury-engines-of-fury-infection-947558",
-        "pageType": "offer"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "engines-of-fury-1489b6",
@@ -175,7 +152,24 @@
   ],
   "developerDisplayName": "Engines of Fury",
   "publisherDisplayName": "Engines of Fury",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",
