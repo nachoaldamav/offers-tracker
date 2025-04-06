@@ -94,11 +94,99 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "doom-eternal--deluxe-edition",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "doom-eternal",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "doom-eternal--series-one-cosmetic-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "doom-eternal--year-one-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "doom-eternal--mullet-slayer-master-collection-cosmetic-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "doom-eternal--the-rip-and-tear-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "doom-eternal--series-seven-cosmetic-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "doom-eternal--the-ancient-gods-part-two",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "doom-eternal--the-ancient-gods-part-one",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "doom-eternal--cosplay-slayer-master-collection-cosmetic-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "doom-eternal--series-two-cosmetic-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "doom-eternal--series-five-cosmetic-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "doom-eternal--series-six-cosmetic-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "doom-eternal--series-three-cosmetic-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "doom-eternal--doomicorn-master-collection-cosmetic-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "doom-eternal--series-four-cosmetic-pack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "id Software",
   "publisherDisplayName": "Bethesda Softworks",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 3000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "b2c59415cf054add91333267facb76d3"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-08-08T19:00:00.000Z",
   "pcReleaseDate": "2024-08-08T19:00:00.000Z",
