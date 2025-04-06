@@ -130,11 +130,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sheltered",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Unicube",
   "publisherDisplayName": "Team17",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 1200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "6860ba1f711848e09b161604ad1ddaff"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-09-09T15:00:00.000Z",
   "pcReleaseDate": "2015-08-04T10:00:00.000Z",
