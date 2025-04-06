@@ -95,7 +95,18 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "cursed-to-golf-a6bc22",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "cursed-to-golf-faq-96114b",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "cursed-to-golf-a6bc22",
@@ -104,7 +115,28 @@
   ],
   "developerDisplayName": "Chuhai Labs",
   "publisherDisplayName": "Thunderful Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1700,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "269f8e7998ce4ca0a7b36c57b0ca24ff"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-08-18T15:00:00.000Z",
   "pcReleaseDate": "2022-08-18T15:00:00.000Z",
