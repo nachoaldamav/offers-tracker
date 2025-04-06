@@ -87,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tank-battle-north-africa-552efe",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "tank-battle-north-africa-552efe",
@@ -96,24 +103,7 @@
   ],
   "developerDisplayName": "HexWar Games Ltd",
   "publisherDisplayName": "Hunted Cow Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 799,
-      "originalPrice": 799,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-10-13T11:00:00.000Z",
   "pcReleaseDate": "2016-07-12T11:00:00.000Z",
