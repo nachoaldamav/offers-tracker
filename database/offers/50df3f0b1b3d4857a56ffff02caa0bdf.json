@@ -123,11 +123,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-werecleaner-android-0bff23",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-werecleaner-ios-109044",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-werecleaner-736968",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "the-werecleaner-736968",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Howlin' Hugs",
   "publisherDisplayName": "USC Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-02-25T18:00:00.000Z",
   "pcReleaseDate": "2024-05-07T18:00:00.000Z",
