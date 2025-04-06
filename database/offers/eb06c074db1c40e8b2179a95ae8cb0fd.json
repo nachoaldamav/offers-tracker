@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "creationDate": "2023-12-01T06:29:44.555Z",
-  "lastModifiedDate": "2025-04-06T04:50:26.470Z",
+  "lastModifiedDate": "2025-04-06T15:17:17.370Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -23,6 +23,10 @@
     },
     {
       "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://05c0ed3b-e038-4ea7-8d85-62b959096c3d?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F22af04e0d5714084adfd927e1d44ac16%2Fwildassault-video-1dea9.png"
+    },
+    {
+      "type": "heroCarouselVideo",
       "url": "com.epicgames.video://320487f6-3e90-4460-b611-09f94bea7a73?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F22af04e0d5714084adfd927e1d44ac16%2Fwildassault-video-19s6m.png"
     },
     {
@@ -31,23 +35,19 @@
     },
     {
       "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/22af04e0d5714084adfd927e1d44ac16/wildassault-1g5e6.png"
+      "url": "https://cdn1.epicgames.com/spt-assets/22af04e0d5714084adfd927e1d44ac16/wildassault-17gcl.png"
     },
     {
       "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/22af04e0d5714084adfd927e1d44ac16/iron-desert-1ikdf.jpeg"
+      "url": "https://cdn1.epicgames.com/spt-assets/22af04e0d5714084adfd927e1d44ac16/wildassault-1jlfm.png"
     },
     {
       "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/22af04e0d5714084adfd927e1d44ac16/wildassault-6lxu0.png"
+      "url": "https://cdn1.epicgames.com/spt-assets/22af04e0d5714084adfd927e1d44ac16/wildassault-1sk2j.png"
     },
     {
       "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/22af04e0d5714084adfd927e1d44ac16/wildassault-1rkpo.png"
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/22af04e0d5714084adfd927e1d44ac16/wildassault-1snlt.png"
+      "url": "https://cdn1.epicgames.com/spt-assets/22af04e0d5714084adfd927e1d44ac16/wildassault-4tuea.png"
     }
   ],
   "currentPrice": 1499,
@@ -60,8 +60,16 @@
   "url": null,
   "tags": [
     {
+      "id": "1264",
+      "name": "Co-op"
+    },
+    {
       "id": "1299",
       "name": "Competitive"
+    },
+    {
+      "id": "22775",
+      "name": "MMO"
     },
     {
       "id": "1210",
@@ -70,6 +78,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "1275",
+      "name": "MOBA"
     },
     {
       "id": "1310",
@@ -115,11 +127,68 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "wildassault-05e6bc",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "wildassault-faq-68d48f",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "wildassault-wild-assault-6250-beast-coins-9bc6f7",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "wildassault-wild-assault-500-beast-coin-99df0f",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "wildassault-《兽猎突袭》100兽猎币-f66617",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "wildassault-wild-assault-2400-beast-coins-e68090",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "wildassault-wild-assault-1150-beast-coin-d499e4",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "wildassault-wild-assault-13000-beast-coins-3a73ff",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "wildassault-05e6bc",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Combat Cat Studio",
   "publisherDisplayName": "Combat Cat Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-04-11T00:00:00.000Z",
   "pcReleaseDate": "2025-04-11T00:00:00.000Z",
