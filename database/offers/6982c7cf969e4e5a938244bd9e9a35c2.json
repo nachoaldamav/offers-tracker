@@ -95,13 +95,15 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "blood-on-the-thames-d4e0cb",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "blood-on-the-thames-d4e0cb",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Team Firestorm",
   "publisherDisplayName": "Team Firestorm",
   "price": null,
