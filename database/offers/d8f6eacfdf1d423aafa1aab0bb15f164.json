@@ -151,11 +151,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "night-is-coming-ddffc5",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "night-is-coming-faq-8dfb48",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "night-is-coming-ddffc5",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Wild Forest Studio",
   "publisherDisplayName": "101XP",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-04-30T00:00:00.000Z",
   "pcReleaseDate": "2025-04-30T00:00:00.000Z",
