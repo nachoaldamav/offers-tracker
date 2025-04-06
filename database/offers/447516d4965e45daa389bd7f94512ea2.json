@@ -111,7 +111,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-last-game-ea48de",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-last-game-ea48de",
@@ -120,7 +127,28 @@
   ],
   "developerDisplayName": "Frédéric Julian",
   "publisherDisplayName": "Frédéric Julian",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 349,
+      "originalPrice": 699,
+      "voucherDiscount": 0,
+      "discount": 350,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "a58675a31e7746e48b61f0e0b8353c54"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-03T19:30:00.000Z",
   "pcReleaseDate": "2023-10-02T12:00:00.000Z",

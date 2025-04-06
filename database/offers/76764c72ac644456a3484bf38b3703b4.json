@@ -111,7 +111,18 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "hero-battle-fantasy-arena-f15594",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "hero-battle-fantasy-arena-faq-a4d4b3",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "hero-battle-fantasy-arena-f15594",
@@ -120,7 +131,28 @@
   ],
   "developerDisplayName": "Bëor Games",
   "publisherDisplayName": "Bëor Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 399,
+      "voucherDiscount": 0,
+      "discount": 200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "86c94e9fd42047399111842e33f1585e"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-15T00:00:00.000Z",
   "pcReleaseDate": "2024-01-18T23:00:00.000Z",
