@@ -87,7 +87,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tails-noir-4240c4",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "tails-noir-tails-the-backbone-preludes-official-soundtrack-6af2aa",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "tails-noir-4240c4",
@@ -96,24 +107,7 @@
   ],
   "developerDisplayName": "Eggnut",
   "publisherDisplayName": "Raw Fury",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1499,
-      "originalPrice": 1499,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-02-02T17:00:00.000Z",
   "pcReleaseDate": "2023-02-02T17:00:00.000Z",
