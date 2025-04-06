@@ -102,11 +102,71 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "cartel-tycoon",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "cartel-tycoon--soundtrack-vol-01",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "cartel-tycoon--soundtrack-vol-02",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "cartel-tycoon--soundtrack-bundle",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "cartel-tycoon--artbook",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "cartel-tycoon--lieutenants-pack-guerillas",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "cartel-tycoon--la-familia",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "cartel-tycoon--san-rafaela",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "cartel-tycoon--anniversary-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "cartel-tycoon--divas-hotel",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Moon Moose",
   "publisherDisplayName": "tinyBuild",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-03-18T16:00:00.000Z",
   "pcReleaseDate": "2021-03-18T16:00:00.000Z",
