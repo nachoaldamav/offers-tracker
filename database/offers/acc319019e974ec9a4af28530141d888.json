@@ -150,7 +150,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "genshin-impact",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "genshin-impact--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "genshin-impact--mega-sale-bundle",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "genshin-impact",

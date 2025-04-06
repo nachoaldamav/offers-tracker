@@ -86,32 +86,46 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": "SEGA",
-  "publisherDisplayName": "SEGA",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 2399,
-      "originalPrice": 5999,
-      "voucherDiscount": 0,
-      "discount": 3600,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": [
-          {
-            "id": "8cb5ddb46ac14238b58b9a4200b438ba"
-          }
-        ]
+        "pageSlug": "sonic-superstars--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "sonic-superstars",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "sonic-superstars--lego-fun-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "sonic-superstars--lego-sonic-skin",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "sonic-superstars--digital-deluxe-upgrade-featuring-lego",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "sonic-superstars--sonic-holiday-costume",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "sonic-superstars--shadow-costume",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "sonic-superstars--retro-diner-style-amy-costume",
+        "pageType": "addon--cms-hybrid"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": "SEGA",
+  "publisherDisplayName": "SEGA",
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-10-17T04:00:00.000Z",
   "pcReleaseDate": null,
