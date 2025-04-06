@@ -83,7 +83,22 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "geppettos-workshop-33ab39",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "geppettos-workshop-faq-c8e81b",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "geppettos-workshop-50-lira-d175e7",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "geppettos-workshop-33ab39",
@@ -92,7 +107,24 @@
   ],
   "developerDisplayName": "GeppettoAI",
   "publisherDisplayName": "GeppettoAI",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-14T15:00:00.000Z",
   "pcReleaseDate": "2023-10-14T15:00:00.000Z",
