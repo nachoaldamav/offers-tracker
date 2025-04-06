@@ -150,7 +150,34 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "art-of-rally--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "art-of-rally--wallpaper-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "art-of-rally",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "art-of-rally-faq-c4cf98",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "art-of-rally--australia",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "art-of-rally--official-soundtrack",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "art-of-rally",
@@ -159,7 +186,24 @@
   ],
   "developerDisplayName": "Funselektor Labs Inc.",
   "publisherDisplayName": "Funselektor Labs Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-09-23T15:00:00.000Z",
   "pcReleaseDate": "2020-09-23T15:00:00.000Z",
