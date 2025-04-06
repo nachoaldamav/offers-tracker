@@ -91,11 +91,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "are-you-smarter-than-a-5th-grader-bc328a",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "are-you-smarter-than-a-5th-grader-are-you-smarter-than-a-5th-grader-homework-7000f7",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "are-you-smarter-than-a-5th-grader-bc328a",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Massive Miniteam",
   "publisherDisplayName": "HandyGames",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-08-23T13:00:00.000Z",
   "pcReleaseDate": "2022-08-23T13:00:00.000Z",
