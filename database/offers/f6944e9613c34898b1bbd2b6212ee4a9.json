@@ -95,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "unusual-findings-6997e3",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "unusual-findings-6997e3",
@@ -104,28 +111,7 @@
   ],
   "developerDisplayName": "Epic Llama Games",
   "publisherDisplayName": "ESDigital Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 799,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 1200,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "32724eff2b9d468391d2e75a6b17932e"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-04-06T15:00:00.000Z",
   "pcReleaseDate": "2022-10-12T17:00:00.000Z",

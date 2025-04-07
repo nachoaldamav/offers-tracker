@@ -127,7 +127,22 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "empyrion-galactic-survival-dark-faction-dd0288",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "empyrion-galactic-survival-complete-edition-a69112",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "empyrion-galactic-survival-fbd99f",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "empyrion-galactic-survival-fbd99f",
@@ -136,7 +151,28 @@
   ],
   "developerDisplayName": "Eleon Game Studios SA",
   "publisherDisplayName": "Eleon Game Studios SA",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 799,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "9225016277874b4aa8f3384cb85594fa"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-10-10T15:00:00.000Z",
   "pcReleaseDate": "2020-08-05T14:00:00.000Z",

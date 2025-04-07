@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "eldest-souls-83e12a",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "eldest-souls-83e12a",
@@ -100,28 +107,7 @@
   ],
   "developerDisplayName": "Fallen Flag Studio",
   "publisherDisplayName": "United Label",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 199,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 1800,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "9618284a4b874a8cb8358710cf3750f2"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-03-17T16:00:00.000Z",
   "pcReleaseDate": "2021-07-28T23:00:00.000Z",
