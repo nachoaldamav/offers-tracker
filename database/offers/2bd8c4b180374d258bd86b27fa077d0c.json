@@ -162,11 +162,51 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tony-hawks-pro-skater-1-and-2--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "tony-hawks-pro-skater-1-and-2--the-birdman-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "tony-hawks-pro-skater-1-and-2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "tony-hawks-pro-skater-1-and-2--the-united-pack",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1599,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 2400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "af5ecc2d957840dba71a6a601c45f764"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-09-04T01:00:00.000Z",
   "pcReleaseDate": "2020-09-04T01:00:00.000Z",
