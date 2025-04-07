@@ -118,7 +118,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "superliminal--double-album-soundtrack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "superliminal",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "superliminal",
@@ -127,7 +138,28 @@
   ],
   "developerDisplayName": "Pillow Castle",
   "publisherDisplayName": "Pillow Castle",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "12faa8ce77144103a6d6ce912b5403b8"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2019-11-12T09:00:00.000Z",
   "pcReleaseDate": "2019-11-12T09:00:00.000Z",

@@ -126,7 +126,14 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "jackbox-party-pack-4",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "jackbox-party-pack-4",
@@ -135,7 +142,28 @@
   ],
   "developerDisplayName": "Jackbox Games",
   "publisherDisplayName": "Jackbox Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1374,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 1125,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "0c6206488545415a82cf98a30962a1bc"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2017-10-19T15:00:00.000Z",
   "pcReleaseDate": null,

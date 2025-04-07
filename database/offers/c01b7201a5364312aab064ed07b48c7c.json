@@ -187,11 +187,72 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "paxdei-artisan-upgrade-14457a",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "paxdei-journeymans-founder-pack-5faa00",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "paxdei-masters-founder-pack-76fa04",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "paxdei-journeyman-upgrade-5e3987",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "paxdei-master-upgrade-2e7ac4",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "paxdei-faq-248b04",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "paxdei-0ee83f",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "paxdei-artisans-founder-pack-6dac94",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "paxdei-0ee83f",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Mainframe Industries",
   "publisherDisplayName": "Mainframe Industries, New Tales",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2479,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 1520,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "294de73c766b420eac11a96450c3f6df"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-01-30T13:00:00.000Z",
   "pcReleaseDate": "2024-06-18T02:00:00.000Z",

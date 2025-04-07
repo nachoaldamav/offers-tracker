@@ -150,7 +150,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-messenger--picnic-panic",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-messenger",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-messenger",
@@ -159,7 +170,28 @@
   ],
   "developerDisplayName": "Sabotage Studios",
   "publisherDisplayName": "Devolver Digital",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "aa351329a31a42668eea8d94a032e973"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2019-11-14T16:00:00.000Z",
   "pcReleaseDate": null,

@@ -158,11 +158,43 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "mutant-year-zero--dlc-1",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "mutant-year-zero",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1049,
+      "originalPrice": 3499,
+      "voucherDiscount": 0,
+      "discount": 2450,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "0dbe1327d6be4315a23a6a1ef1f108a9"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2018-12-04T15:00:00.000Z",
   "pcReleaseDate": null,

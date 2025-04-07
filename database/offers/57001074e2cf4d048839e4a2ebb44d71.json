@@ -122,11 +122,51 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "watch-dogs-2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "watch-dogs-2--gold-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "watch-dogs-2--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "watch-dogs-2--season-pass",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 4500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "b07a98c0fb8c468587230113115fa5bc"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2016-11-15T15:21:00.000Z",
   "pcReleaseDate": null,

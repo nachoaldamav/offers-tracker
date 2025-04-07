@@ -138,11 +138,59 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ghost-recon-wildlands--ultimate-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ghost-recon-wildlands--year-1-pass",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ghost-recon-wildlands--gold-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ghost-recon-wildlands--year-2-pass",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ghost-recon-wildlands",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "ghost-recon-wildlands--fallen-ghosts-dlc",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 4000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "cc2edb29b8f74f79a24d028e62f97b68"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2018-04-10T15:00:00.000Z",
   "pcReleaseDate": null,

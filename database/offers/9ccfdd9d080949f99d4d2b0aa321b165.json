@@ -98,11 +98,43 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "little-inferno",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "little-inferno--ho-ho-holiday-edition",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 494,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 1005,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "e1448294a9f946acb725800e153dba99"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2012-11-19T15:00:00.000Z",
   "pcReleaseDate": null,

@@ -166,11 +166,59 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "assassins-creed-origins--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-origins--the-hidden-ones",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-origins--season-pass",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-origins",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "assassins-creed-origins--the-curse-of-the-pharaohs",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "assassins-creed-origins--gold-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 899,
+      "originalPrice": 5999,
+      "voucherDiscount": 0,
+      "discount": 5100,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "e884d2f4201a466d85915c002487160a"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2017-10-26T11:00:00.000Z",
   "pcReleaseDate": null,
