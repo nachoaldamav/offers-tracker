@@ -163,11 +163,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "monster-knockout-895118",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "monster-knockout-monster-knockout-soundtrack-fafc27",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "monster-knockout-faq-7532b0",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "monster-knockout-895118",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "SpotPixle Studios",
   "publisherDisplayName": "SpotPixle Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-05-04T00:00:00.000Z",
   "pcReleaseDate": "2023-01-03T03:00:00.000Z",

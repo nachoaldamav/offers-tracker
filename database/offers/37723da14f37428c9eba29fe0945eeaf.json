@@ -75,7 +75,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "nadir-a-grimdark-deckbuilder-faq-095d6f",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "nadir-a-grimdark-deckbuilder-c70747",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "nadir-a-grimdark-deckbuilder-c70747",
@@ -84,7 +95,28 @@
   ],
   "developerDisplayName": "Black Eye Games",
   "publisherDisplayName": "Black Eye Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 599,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "8978b0c79b7c426dbdf00089040c021e"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-11-08T12:00:00.000Z",
   "pcReleaseDate": "2022-11-08T12:00:00.000Z",

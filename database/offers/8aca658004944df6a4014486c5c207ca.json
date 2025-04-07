@@ -91,11 +91,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "happiness-market-0572e2",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "happiness-market-0572e2",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "luolei",
   "publisherDisplayName": "luolei",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 64,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 35,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "47adbe1fc5834dd995e28e1e37ed7097"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-04-18T00:35:20.575Z",
   "pcReleaseDate": "2024-03-30T16:00:00.000Z",
