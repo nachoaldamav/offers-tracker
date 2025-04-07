@@ -95,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "faces-of-war-3c2686",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "faces-of-war-3c2686",
@@ -104,7 +111,28 @@
   ],
   "developerDisplayName": "Best Way",
   "publisherDisplayName": "Fulqrum Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 74,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 425,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "0bc5c4b514354347a316b075d721d08e"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-12-06T14:00:00.000Z",
   "pcReleaseDate": "2006-09-08T15:00:00.000Z",

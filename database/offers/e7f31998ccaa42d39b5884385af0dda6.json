@@ -95,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "men-of-war-74bf75",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "men-of-war-74bf75",
@@ -104,7 +111,28 @@
   ],
   "developerDisplayName": "Best Way",
   "publisherDisplayName": "Fulqrum Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 74,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 425,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "3692b3ab1d994b6cbe3fe19a14528be2"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-12-06T14:00:00.000Z",
   "pcReleaseDate": "2009-05-06T15:00:00.000Z",

@@ -87,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "absolute-tactics-ca91e4",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "absolute-tactics-ca91e4",
@@ -96,7 +103,28 @@
   ],
   "developerDisplayName": "Curious Fate",
   "publisherDisplayName": "Akupara Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1624,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 875,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "a5180744b0fc42a6b5952f09479308d6"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-09-15T16:00:00.000Z",
   "pcReleaseDate": "2022-09-15T16:00:00.000Z",
