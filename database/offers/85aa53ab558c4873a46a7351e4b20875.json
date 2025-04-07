@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "city-ambulance-car-driving-1d3872",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "city-ambulance-car-driving-1d3872",
@@ -100,7 +107,28 @@
   ],
   "developerDisplayName": "Yusuf Islam Seyhan, Samet Acar",
   "publisherDisplayName": "INSPECTOR STUDIOS",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 59,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 40,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "385a6b3ec3b34ec2a26db777cb13df08"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-09-05T19:30:00.000Z",
   "pcReleaseDate": "2023-02-07T17:00:00.000Z",

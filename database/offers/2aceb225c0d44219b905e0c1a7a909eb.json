@@ -87,11 +87,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "trex-dinosaur-game-d30355",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "trex-dinosaur-game-d30355",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Performance Artist",
   "publisherDisplayName": "Performance Artist",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 49,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 50,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "ef7fb1873b854508bd9f885bbf81b739"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-08-22T03:00:00.000Z",
   "pcReleaseDate": "2023-01-20T03:00:00.000Z",

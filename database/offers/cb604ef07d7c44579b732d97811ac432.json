@@ -83,7 +83,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "desert-law-81b321",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "desert-law-81b321",
@@ -92,7 +99,28 @@
   ],
   "developerDisplayName": "Arise",
   "publisherDisplayName": "Fulqrum Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 59,
+      "originalPrice": 299,
+      "voucherDiscount": 0,
+      "discount": 240,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "9ada1a0bacb045b2ad4c361a6b7d52a7"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-09-12T17:00:00.000Z",
   "pcReleaseDate": "2005-04-29T17:00:00.000Z",

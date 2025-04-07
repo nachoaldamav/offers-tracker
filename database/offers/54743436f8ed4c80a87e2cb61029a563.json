@@ -103,7 +103,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "cataire-6ce6b7",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "cataire-6ce6b7",
@@ -112,7 +119,28 @@
   ],
   "developerDisplayName": "Airem",
   "publisherDisplayName": "Airem",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 49,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 50,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "fa314c5e410949879852cb1af9bc182f"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-09-14T13:00:00.000Z",
   "pcReleaseDate": "2022-09-23T10:00:00.000Z",
