@@ -122,7 +122,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "kraken-academy",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "kraken-academy--end-of-the-world-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "kraken-academy--soundtrack",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "kraken-academy",
@@ -131,7 +146,28 @@
   ],
   "developerDisplayName": "Happy Broccoli Games",
   "publisherDisplayName": "Fellow Traveller",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 539,
+      "originalPrice": 1799,
+      "voucherDiscount": 0,
+      "discount": 1260,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "a6f860932b61424baabf87dfa5cfe000"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-09-03T16:00:00.000Z",
   "pcReleaseDate": "2021-09-10T16:00:00.000Z",
