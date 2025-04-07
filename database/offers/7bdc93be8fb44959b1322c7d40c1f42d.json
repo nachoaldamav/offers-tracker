@@ -142,11 +142,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ghost-of-tsushima",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Sucker Punch Productions, Nixxes Software",
   "publisherDisplayName": "PlayStation Publishing LLC",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4019,
+      "originalPrice": 5999,
+      "voucherDiscount": 0,
+      "discount": 1980,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "994c16ab17ec4190b89a284329b7ceb1"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-05-16T15:00:00.000Z",
   "pcReleaseDate": "2024-05-16T15:00:00.000Z",
