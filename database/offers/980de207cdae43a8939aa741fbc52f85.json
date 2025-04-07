@@ -146,7 +146,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "star-wars-jedi-survivor",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "star-wars-jedi-survivor--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "star-wars-jedi-survivor--deluxe-upgrade",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Electronic Arts",
   "publisherDisplayName": "Electronic Arts",

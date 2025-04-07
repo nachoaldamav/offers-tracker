@@ -103,11 +103,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tortuga-a-pirates-tale-tortuga-a-pirates-tale-closed-beta-f79911",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "tortuga-a-pirates-tale-e02635",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "tortuga-a-pirates-tale-e02635",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Gaming Minds Studios",
   "publisherDisplayName": "Kalypso Media",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1749,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 750,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "ffdaff2889ef489ea8e9229600226001"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-01-19T15:00:00.000Z",
   "pcReleaseDate": "2023-01-19T15:00:00.000Z",
