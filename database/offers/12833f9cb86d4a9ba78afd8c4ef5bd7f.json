@@ -142,11 +142,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "marvels-spider-man-miles-morales",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Insomniac Games, Nixxes Software",
   "publisherDisplayName": "PlayStation Publishing LLC",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 2500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "ce7eb23beb9e49649f71192e6191c4a6"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-11-18T16:00:00.000Z",
   "pcReleaseDate": "2022-11-18T16:00:00.000Z",

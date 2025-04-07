@@ -102,8 +102,19 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "saturnalia",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "saturnalia--soundtrack-and-artbook",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Santa Ragione",
   "publisherDisplayName": "Santa Ragione",
   "price": null,

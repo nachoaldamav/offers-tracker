@@ -131,7 +131,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "oli-one-sneak-in-update-14c960",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "oli-one-sneak-in-98322c",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "oli-one-sneak-in-98322c",
@@ -140,7 +151,28 @@
   ],
   "developerDisplayName": "Anaro Games",
   "publisherDisplayName": "Anaro Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 359,
+      "originalPrice": 1199,
+      "voucherDiscount": 0,
+      "discount": 840,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "a852a30a125a491f8a30172f2d857f19"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-03-16T22:00:00.000Z",
   "pcReleaseDate": "2023-03-09T11:00:00.000Z",

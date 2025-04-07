@@ -118,8 +118,19 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "dark-light",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "dark-light--early-access-faq",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
   "price": null,
