@@ -95,7 +95,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "imagine-earth-galaxies-90736a",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "imagine-earth-7498e4",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "imagine-earth-7498e4",
@@ -104,7 +115,28 @@
   ],
   "developerDisplayName": "Serious Bros.",
   "publisherDisplayName": "Serious Bros.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 1500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "b4a36c73abd1471d9ae031cafa5406fd"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-04-28T13:00:00.000Z",
   "pcReleaseDate": "2022-04-28T13:00:00.000Z",

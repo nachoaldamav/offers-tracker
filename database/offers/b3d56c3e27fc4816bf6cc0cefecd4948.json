@@ -99,7 +99,22 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "electrician-simulator-electrician-simulator-smart-devices-8bcfad",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "electrician-simulator-164e9f",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "electrician-simulator-complete-electrician-simulator-2939e1",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "electrician-simulator-164e9f",
@@ -108,7 +123,28 @@
   ],
   "developerDisplayName": "Take IT Studio!",
   "publisherDisplayName": "Gaming Factory, Ultimate Games S.A.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 539,
+      "originalPrice": 1799,
+      "voucherDiscount": 0,
+      "discount": 1260,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "1bbd587e5eae4fcd9b2bae4edf16f625"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-08-04T16:00:00.000Z",
   "pcReleaseDate": "2022-09-21T16:00:00.000Z",
