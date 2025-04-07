@@ -122,11 +122,43 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "marvels-spider-man-2--digital-deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "marvels-spider-man-2--digital-deluxe-edition-upgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "marvels-spider-man-2",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Insomniac Games, Nixxes Software",
   "publisherDisplayName": "PlayStation Publishing LLC",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 5999,
+      "originalPrice": 5999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": false,
   "releaseDate": "2025-01-30T16:00:00.000Z",
   "pcReleaseDate": "2025-01-30T16:00:00.000Z",
