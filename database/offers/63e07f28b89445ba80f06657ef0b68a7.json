@@ -154,11 +154,108 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "among-us",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "among-us--starter-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "among-us--all-in-one-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "among-us--airship-skins",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "among-us--mini-crewmate-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "among-us--stickmin-pet-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "among-us--bedcrab-pet-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "among-us--brainslug-pet-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "among-us--polus-skins",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "among-us--mira-hq-skins",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "among-us--hamster-pet-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "among-us--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "among-us--50-stars",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "among-us--300-stars",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "among-us--30-stars",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "among-us--20-stars",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "among-us--110-stars",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "among-us",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Innersloth",
   "publisherDisplayName": "Innersloth",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "8a379704f170489c85b802795fae7580"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-12-18T17:00:00.000Z",
   "pcReleaseDate": "2018-06-15T14:36:00.000Z",

@@ -138,11 +138,43 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-outer-worlds-spacers-choice-edition",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-outer-worlds-spacers-choice-edition--upgrade",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Obsidian Entertainment",
   "publisherDisplayName": "Private Division",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2399,
+      "originalPrice": 5999,
+      "voucherDiscount": 0,
+      "discount": 3600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "5a3ead71aaeb4980b58f1066e26c88fc"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-03-07T16:00:00.000Z",
   "pcReleaseDate": "2023-03-07T16:00:00.000Z",
