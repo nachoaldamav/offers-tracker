@@ -154,7 +154,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sonic-mania",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "sonic-mania--encore-dlc",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

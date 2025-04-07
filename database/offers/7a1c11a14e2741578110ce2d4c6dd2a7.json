@@ -91,11 +91,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "hell-pie-edc41f",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "hell-pie-hell-pie-soundtrack-810d73",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "hell-pie-edc41f",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Sluggerfly",
   "publisherDisplayName": "Headup",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 574,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 1925,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "645e0003fa6045de80dbdd91d876ef61"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-07-21T15:00:00.000Z",
   "pcReleaseDate": "2022-07-21T15:00:00.000Z",
