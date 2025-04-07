@@ -142,7 +142,26 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "titan-quest--ragnarok",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "titan-quest--eternal-embers",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "titan-quest",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "titan-quest--atlantis",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": " Iron Lore Entertainment, THQ Nordic",
   "publisherDisplayName": "THQ Nordic GmbH",
