@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-03-20T13:00:00.000Z",
   "creationDate": "2023-03-22T10:11:30.387Z",
-  "lastModifiedDate": "2025-04-03T13:25:01.493Z",
+  "lastModifiedDate": "2025-04-07T08:31:56.942Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -20,6 +20,30 @@
     {
       "type": "Thumbnail",
       "url": "https://cdn1.epicgames.com/spt-assets/344758d27c2f4bf3b3edb7decd08b111/commandos-origins-1tdpq.jpg"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/344758d27c2f4bf3b3edb7decd08b111/commandos-origins-jsqyw.png"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/344758d27c2f4bf3b3edb7decd08b111/commandos-origins-1bhl1.png"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/344758d27c2f4bf3b3edb7decd08b111/commandos-origins-1qgwn.png"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/344758d27c2f4bf3b3edb7decd08b111/commandos-origins-12c5a.png"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/344758d27c2f4bf3b3edb7decd08b111/commandos-origins-c1dxt.png"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/344758d27c2f4bf3b3edb7decd08b111/commandos-origins-5pk9j.png"
     }
   ],
   "currentPrice": 4999,
@@ -119,11 +143,52 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "commandos-origins-commandos-origins-deluxe-edition-cd31ee",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "commandos-origins-commandos-origins-deluxe-edition-upgrade-c86441",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "commandos-origins-ec78ba",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "commandos-origins-ec78ba",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Claymore Game Studios",
   "publisherDisplayName": "Kalypso Media",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4499,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "6ed673b0d4564783bb47b67ccbe8c5bd"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": true,
   "releaseDate": "2025-04-09T14:00:00.000Z",
   "pcReleaseDate": "2025-04-09T14:00:00.000Z",
