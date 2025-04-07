@@ -110,11 +110,56 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "democracy-4--voting-systems",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "democracy-4--country-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "democracy-4--event-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "democracy-4",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "democracy-4",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Positech Games",
   "publisherDisplayName": "Positech Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 917,
+      "originalPrice": 2699,
+      "voucherDiscount": 0,
+      "discount": 1782,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "361334cbad784984a575f12fd936f365"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-10-21T15:00:00.000Z",
   "pcReleaseDate": "2020-10-06T15:00:00.000Z",
