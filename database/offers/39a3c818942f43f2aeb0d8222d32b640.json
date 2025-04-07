@@ -87,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "kings-bounty-the-legend-b69320",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "kings-bounty-the-legend-b69320",
@@ -96,7 +103,28 @@
   ],
   "developerDisplayName": "Katauri Interactive",
   "publisherDisplayName": "Fulqrum Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 104,
+      "originalPrice": 699,
+      "voucherDiscount": 0,
+      "discount": 595,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "73e8611201374337a2da3a0ff93637d4"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-03-03T00:00:00.000Z",
   "pcReleaseDate": "2008-09-23T00:00:00.000Z",
