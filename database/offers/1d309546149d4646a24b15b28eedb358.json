@@ -158,11 +158,52 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "timberborn--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "timberborn-timberborn-experimental-7e8d3e",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "timberborn",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "timberborn",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Mechanistry",
   "publisherDisplayName": "Mechanistry",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2449,
+      "originalPrice": 3499,
+      "voucherDiscount": 0,
+      "discount": 1050,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "d751b0649a864905821c38a42d355708"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-09-15T15:00:00.000Z",
   "pcReleaseDate": "2021-09-15T15:00:00.000Z",
