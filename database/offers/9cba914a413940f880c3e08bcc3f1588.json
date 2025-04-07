@@ -139,11 +139,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "raid-shadow-legends-faq-0c4461",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "raid-shadow-legends-b70e14",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "raid-shadow-legends-b70e14",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Raid",
   "publisherDisplayName": "Plarium",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-07-20T10:30:00.000Z",
   "pcReleaseDate": "2019-09-29T07:00:00.000Z",
