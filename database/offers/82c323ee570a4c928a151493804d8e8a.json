@@ -91,11 +91,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "frogue-c91fc5",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "frogue-c91fc5",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Wired Dreams Studio",
   "publisherDisplayName": "Wired Dreams Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 659,
+      "originalPrice": 1099,
+      "voucherDiscount": 0,
+      "discount": 440,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "a683725cb2fa4bbfa90300167711b8a4"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-12-31T00:00:00.000Z",
   "pcReleaseDate": "2022-12-31T00:00:00.000Z",
