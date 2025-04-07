@@ -111,7 +111,28 @@
   ],
   "developerDisplayName": "COWCAT",
   "publisherDisplayName": "COWCAT",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "f3b72146306b4c80aa03937331a69e30"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-07T14:00:00.000Z",
   "pcReleaseDate": "2022-08-26T19:00:00.000Z",
