@@ -91,7 +91,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "symphony-of-war-60a76e",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "symphony-of-war-symphony-of-war-the-nephilim-saga-legends-62b08f",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "symphony-of-war-60a76e",
@@ -100,7 +111,28 @@
   ],
   "developerDisplayName": "Dancing Dragon Games",
   "publisherDisplayName": "Freedom Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 799,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "db5fc64f055a413199dc9f6653ff0114"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-06-10T20:00:00.000Z",
   "pcReleaseDate": "2022-06-10T20:00:00.000Z",

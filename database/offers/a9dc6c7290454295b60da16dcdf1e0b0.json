@@ -103,7 +103,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "road-defense-outsiders-22e4ba",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "road-defense-outsiders-22e4ba",
@@ -112,7 +119,28 @@
   ],
   "developerDisplayName": "Minicactus Games",
   "publisherDisplayName": "Minicactus Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 239,
+      "originalPrice": 299,
+      "voucherDiscount": 0,
+      "discount": 60,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "b72f75624cf04449b8323c80f33a2458"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-09-22T19:00:00.000Z",
   "pcReleaseDate": "2023-05-28T19:00:00.000Z",

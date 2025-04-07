@@ -114,11 +114,51 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "circus-electrique--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "circus-electrique--digital-artbook-game-maps",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "circus-electrique",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "circus-electrique--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Zen Studios",
   "publisherDisplayName": "Saber Interactive",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "af101a395e314a108495e2ff79339845"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-09-06T15:00:00.000Z",
   "pcReleaseDate": "2022-09-06T15:00:00.000Z",
