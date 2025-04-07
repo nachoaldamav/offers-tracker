@@ -83,7 +83,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "urban-trial-tricky-eb0205",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "urban-trial-tricky-eb0205",
@@ -92,7 +99,28 @@
   ],
   "developerDisplayName": "Tate Multimedia",
   "publisherDisplayName": "Tate Multimedia",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1800,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "f600004403914c71bd6f7d5f6933a462"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-05-13T13:00:00.000Z",
   "pcReleaseDate": "2021-07-22T00:00:00.000Z",
