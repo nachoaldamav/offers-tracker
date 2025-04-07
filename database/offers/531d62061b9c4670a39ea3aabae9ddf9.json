@@ -95,11 +95,56 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "agatha-christie-hercule-poirot-london-cases-digital-deluxe-content-3ef288",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "agatha-christie-hercule-poirot-london-cases-agatha-christie-hercule-poirot-the-london-case-deluxe-2113af",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "agatha-christie-hercule-poirot-london-cases-digital-soundtrack-7c3f6b",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "agatha-christie-hercule-poirot-london-cases-c81a32",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "agatha-christie-hercule-poirot-london-cases-c81a32",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Blazing Griffin",
   "publisherDisplayName": "Microids",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 899,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 2100,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "2c56061c833a49bf877f5a6b5b9896ff"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-08-29T08:00:00.000Z",
   "pcReleaseDate": "2023-08-29T08:00:00.000Z",
