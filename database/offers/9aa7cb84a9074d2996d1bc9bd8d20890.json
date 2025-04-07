@@ -99,11 +99,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "gravitar-recharged-e606fe",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "gravitar-recharged-e606fe",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "AdamVision, SneakyBox",
   "publisherDisplayName": "Atari",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 449,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 550,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "a41758fef7824b0890e669ee8938f467"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-06-02T04:00:00.000Z",
   "pcReleaseDate": "2022-06-01T00:00:00.000Z",
