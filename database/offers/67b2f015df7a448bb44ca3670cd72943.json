@@ -142,7 +142,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "madden-nfl-25",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "madden-nfl-25--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Tiburon",
   "publisherDisplayName": "Electronic Arts",
