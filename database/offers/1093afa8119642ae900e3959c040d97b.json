@@ -99,7 +99,26 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "strayed-lights-351d29",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "strayed-lights-strayed-lights-soundtrack-fdbd74",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "strayed-lights-strayed-lights-deluxe-edition-b8f9f3",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "strayed-lights-strayed-lights-artbook-22beb1",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "strayed-lights-351d29",
@@ -108,7 +127,28 @@
   ],
   "developerDisplayName": "Embers",
   "publisherDisplayName": "Embers",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 324,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 975,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "56c926c92a9c4fd0a284a0c56683feab"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-25T13:00:00.000Z",
   "pcReleaseDate": "2023-04-25T13:00:00.000Z",

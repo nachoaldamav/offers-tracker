@@ -94,11 +94,55 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "fae-farm",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "fae-farm--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "fae-farm--ost",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fae-farm--coasts-of-croakia",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fae-farm--skies-of-azoria",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Phoenix Labs",
   "publisherDisplayName": "Phoenix Labs",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 1500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "f0a2cd05f22e4e79ac69de0317f27f3f"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-09-08T16:00:00.000Z",
   "pcReleaseDate": "2023-09-08T16:00:00.000Z",

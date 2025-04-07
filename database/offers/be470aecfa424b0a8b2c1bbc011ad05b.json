@@ -95,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "morels-ed7501",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "morels-ed7501",
@@ -104,7 +111,28 @@
   ],
   "developerDisplayName": "Abrams Studios LLC",
   "publisherDisplayName": "Abrams Studios LLC",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "d9306ff6bb38481093343a2644ccc8e4"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-25T15:00:00.000Z",
   "pcReleaseDate": "2019-10-15T15:00:00.000Z",

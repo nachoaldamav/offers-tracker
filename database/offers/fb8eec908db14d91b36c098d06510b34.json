@@ -95,7 +95,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "3d-chess-online-615201",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "3d-chess-online-615201",
@@ -104,28 +111,7 @@
   ],
   "developerDisplayName": "Yusuf Islam Seyhan, Samet Acar",
   "publisherDisplayName": "INSPECTOR STUDIOS",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 59,
-      "originalPrice": 99,
-      "voucherDiscount": 0,
-      "discount": 40,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "d39a411d4f564a6a9598ef38a3d68607"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-09-26T13:00:00.000Z",
   "pcReleaseDate": "2023-10-06T17:00:00.000Z",
