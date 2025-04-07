@@ -5,8 +5,8 @@
   "description": "Figment 2: Creed Valley is an action-adventure game set in the human mind. Nightmares are spreading chaos and have overrun once-peaceful lands. Join Dusty, The Mind’s courage, as you make your way through puzzles, musical boss fights and unique environments.",
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-03-09T17:00:00.000Z",
-  "creationDate": "2025-02-06T17:00:15.422Z",
-  "lastModifiedDate": "2025-03-26T16:01:34.084Z",
+  "creationDate": "2024-03-04T19:07:26.236Z",
+  "lastModifiedDate": "2025-04-07T08:42:20.771Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,10 +58,6 @@
     {
       "id": "1117",
       "name": "Adventure"
-    },
-    {
-      "id": "15375",
-      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -82,6 +78,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
     },
     {
       "key": "publisherName",
@@ -110,7 +110,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "figment2-creed-valley",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "figment2-creed-valley-ios-db9160",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "figment2-creed-valley-android-e5f2c9",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "figment2-creed-valley",
