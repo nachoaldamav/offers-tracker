@@ -107,11 +107,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "vitamin-girl-556979",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "vitamin-girl-556979",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "A Penguin Studio",
   "publisherDisplayName": "A Penguin Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 479,
+      "originalPrice": 799,
+      "voucherDiscount": 0,
+      "discount": 320,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "ffcfec062d244af28d9dafe4ef4072c6"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-08-08T04:00:00.000Z",
   "pcReleaseDate": "2017-10-11T03:00:00.000Z",
