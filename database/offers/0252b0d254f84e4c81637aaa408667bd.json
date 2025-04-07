@@ -91,11 +91,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "zombie-soup-1006ea",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "zombie-soup-1006ea",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "AeonSparx Interactive",
   "publisherDisplayName": "Astrolabe Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-08-12T04:00:00.000Z",
   "pcReleaseDate": "2023-08-12T04:00:00.000Z",
