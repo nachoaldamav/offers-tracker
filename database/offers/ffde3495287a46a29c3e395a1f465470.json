@@ -95,8 +95,24 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "its-a-wrap-its-a-wrap-demo-edbb4d",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "its-a-wrap-f392ae",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "its-a-wrap-f392ae",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Chanko Studios",
   "publisherDisplayName": "AMC Games",
   "price": null,
