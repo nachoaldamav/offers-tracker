@@ -95,11 +95,52 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "my-lovely-wife-bef07f",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "my-lovely-wife-my-lovely-wife-soundtrack-7799cc",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "my-lovely-wife-my-lovely-wife-artbook-9d3a5d",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "my-lovely-wife-my-lovely-wife-comicbook-b726df",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "my-lovely-wife-bef07f",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "GameChanger Studio",
   "publisherDisplayName": "Neon Doctrine",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-06-07T16:00:00.000Z",
   "pcReleaseDate": "2022-06-07T16:00:00.000Z",
