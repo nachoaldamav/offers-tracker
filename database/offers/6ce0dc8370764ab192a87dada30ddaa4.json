@@ -100,7 +100,28 @@
   ],
   "developerDisplayName": "Blue Isle Studios",
   "publisherDisplayName": "Blue Isle Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "1060735c3eb648eba26c8ee1d5f6770f"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-18T04:00:00.000Z",
   "pcReleaseDate": "2023-10-18T04:00:00.000Z",
