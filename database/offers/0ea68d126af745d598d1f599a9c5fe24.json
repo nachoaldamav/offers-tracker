@@ -119,7 +119,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "orchard-odyssey-2e3ae8",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "orchard-odyssey-2e3ae8",
@@ -128,7 +135,28 @@
   ],
   "developerDisplayName": "Vault Games",
   "publisherDisplayName": "Vault Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 359,
+      "originalPrice": 599,
+      "voucherDiscount": 0,
+      "discount": 240,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "30dbd59ae7c64c93b3e4d0318c7f87c1"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-04-04T13:00:00.000Z",
   "pcReleaseDate": "2025-04-04T13:00:00.000Z",
