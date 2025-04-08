@@ -47,10 +47,7 @@
       "id": "1216",
       "name": "Action"
     },
-    {
-      "id": "21122",
-      "name": "Diverse Characters"
-    },
+    null,
     {
       "id": "1188",
       "name": "RELAXING"
@@ -162,7 +159,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tannenberg--supporter-edition",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "tannenberg",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

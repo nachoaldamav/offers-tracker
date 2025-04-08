@@ -47,10 +47,7 @@
       "id": "1216",
       "name": "Action"
     },
-    {
-      "id": "21122",
-      "name": "Diverse Characters"
-    },
+    null,
     {
       "id": "21894",
       "name": "Cloud Saves"
@@ -150,7 +147,14 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "prey",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

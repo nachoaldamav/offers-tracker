@@ -51,10 +51,7 @@
       "id": "21121",
       "name": "Great for Quick Sessions"
     },
-    {
-      "id": "21122",
-      "name": "Diverse Characters"
-    },
+    null,
     {
       "id": "1188",
       "name": "RELAXING"
@@ -146,11 +143,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "void-bastards--bang-tydy",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "void-bastards",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-08-19T15:00:00.000Z",
   "pcReleaseDate": "2019-05-28T07:08:49.000Z",
