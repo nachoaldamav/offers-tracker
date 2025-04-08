@@ -127,11 +127,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "train-world-train-world-demo-9d9d3e",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "train-world-07e156",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "train-world-07e156",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Turn Point Games",
   "publisherDisplayName": "Turn Point Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "94cba646e98e4029b8ca66aa0c16c0cb"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-07-19T21:00:00.000Z",
   "pcReleaseDate": "2023-07-19T21:00:00.000Z",

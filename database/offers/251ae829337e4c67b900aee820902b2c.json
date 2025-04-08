@@ -95,11 +95,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "remedium-sentinels-b5debd",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "remedium-sentinels-faq-9dde00",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "remedium-sentinels-b5debd",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Sobaka Studio",
   "publisherDisplayName": "ESDigital Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "7b145bce78f349b69b926a03a2bb1fa7"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-07-18T15:00:00.000Z",
   "pcReleaseDate": "2023-02-28T15:00:00.000Z",
