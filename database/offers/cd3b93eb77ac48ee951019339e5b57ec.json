@@ -143,11 +143,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "bettertogether-ec3fdb",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "bettertogether-ec3fdb",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Ömer Genç",
   "publisherDisplayName": "Ömer Genç",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 179,
+      "originalPrice": 299,
+      "voucherDiscount": 0,
+      "discount": 120,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "478638db150f4ff284628c44b9ecf13f"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-03-05T07:00:00.000Z",
   "pcReleaseDate": "2025-03-05T00:00:00.000Z",
