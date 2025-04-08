@@ -118,8 +118,32 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "scorn--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "scorn--digital-artbook",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "scorn",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "scorn--original-soundtrack",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "scorn",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Ebb Software",
   "publisherDisplayName": "Kepler Interactive",
   "price": null,

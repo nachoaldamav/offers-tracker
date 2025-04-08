@@ -98,8 +98,31 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "lost-eidolons--white-horse",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "lost-eidolons--original-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "lost-eidolons--artbook-world-map",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "lost-eidolons--digital-deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "lost-eidolons",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Ocean Drive Studio, Inc.",
   "publisherDisplayName": "PID Games",
   "price": null,
