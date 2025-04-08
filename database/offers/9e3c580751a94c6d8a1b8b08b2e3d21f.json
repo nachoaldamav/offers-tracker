@@ -87,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-darkside-detective-a-fumble-in-the-dark-174fcf",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-darkside-detective-a-fumble-in-the-dark-174fcf",
@@ -96,28 +103,7 @@
   ],
   "developerDisplayName": "Spooky Doorway",
   "publisherDisplayName": "Akupara Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 749,
-      "originalPrice": 1499,
-      "voucherDiscount": 0,
-      "discount": 750,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "269d121427ae4e679436803f7e94d500"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2021-11-01T07:00:00.000Z",
   "pcReleaseDate": "2021-11-01T07:00:00.000Z",

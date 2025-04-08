@@ -107,18 +107,7 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "spectra-faq-d8f541",
-        "pageType": "info"
-      },
-      {
-        "pageSlug": "spectra-354d90",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "spectra-354d90",
@@ -127,7 +116,28 @@
   ],
   "developerDisplayName": "Antoine",
   "publisherDisplayName": "Antoine",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 749,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 250,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "4e2ecd1925784bcc9ca24953d2123255"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-07-26T08:00:00.000Z",
   "pcReleaseDate": "2024-07-26T08:00:00.000Z",
