@@ -95,39 +95,16 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "another-world-b86b7e",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "another-world-faq-a49749",
-        "pageType": "info"
-      }
-    ]
-  },
-  "offerMappings": null,
+  "catalogNs": null,
+  "offerMappings": [
+    {
+      "pageSlug": "another-world-b86b7e",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Another World DAO",
   "publisherDisplayName": "ScienceVR, Inc.",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 0,
-      "originalPrice": 0,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",
