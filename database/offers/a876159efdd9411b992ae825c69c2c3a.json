@@ -107,11 +107,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "schoolteacher-simulator-ea252b",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "schoolteacher-simulator-ea252b",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Eathrabaria",
   "publisherDisplayName": "Eathrabaria",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 100,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "a818b206caea4626b55ab729a55ac1f8"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-03-05T14:00:00.000Z",
   "pcReleaseDate": "2025-01-01T03:00:00.000Z",
