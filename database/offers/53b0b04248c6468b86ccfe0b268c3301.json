@@ -111,7 +111,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-karate-kid-street-rumble-630b37",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-karate-kid-street-rumble-630b37",
@@ -120,7 +127,28 @@
   ],
   "developerDisplayName": "Odaclick Game Studio",
   "publisherDisplayName": "GameMill Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1799,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 2200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "7b8f28e3833048c789ceff8ec7124ab1"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-09-20T16:00:00.000Z",
   "pcReleaseDate": "2024-09-20T16:00:00.000Z",
