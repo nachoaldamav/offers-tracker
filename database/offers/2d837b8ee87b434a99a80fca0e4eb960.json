@@ -130,11 +130,79 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "skyrim--anniversary-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "skyrim--anniversary-upgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "skyrim",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "skyrim--500-creation-credits",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "skyrim--2700-creation-credits",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "skyrim--2700-creation-credits-jp",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "skyrim--500-creation-credits-jp",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "skyrim--5500-creation-credits",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "skyrim--5500-creation-credits-jp",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "skyrim--1000-creation-credits",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "skyrim--1000-creation-credits-jp",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Bethesda Game Studios",
   "publisherDisplayName": "Bethesda Softworks",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 3000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "4207e2c8702d492f90966f0f034b9829"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-10-06T14:00:00.000Z",
   "pcReleaseDate": "2016-10-28T17:56:00.000Z",
