@@ -130,11 +130,55 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ghostwire-tokyo--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ghostwire-tokyo",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "ghostwire-tokyo--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "ghostwire-tokyo--deluxe-upgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "ghostwire-tokyo--spiders-thread-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Tango Gameworks",
   "publisherDisplayName": "Bethesda Softworks",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 5999,
+      "voucherDiscount": 0,
+      "discount": 4500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "721580d337ae498291e8310eb772c7b3"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-03-25T04:00:00.000Z",
   "pcReleaseDate": "2022-03-25T04:00:00.000Z",
