@@ -139,11 +139,52 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "big-helmet-heroes-big-helmet-heroes-soundtrack-141642",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "big-helmet-heroes-big-helmet-heroes-exalted-edition-1faeb4",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "big-helmet-heroes-big-helmet-heroes-artbook-0c0c27",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "big-helmet-heroes-0ab7e6",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "big-helmet-heroes-0ab7e6",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Exalted Studio",
   "publisherDisplayName": "Dear Villagers",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-02-06T16:00:00.000Z",
   "pcReleaseDate": "2025-02-06T16:00:00.000Z",
