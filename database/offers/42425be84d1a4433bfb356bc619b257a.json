@@ -111,13 +111,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "midevil-ceab3e",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "midevil-ceab3e",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "midevil-faq-ed3ab7",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Killer Games",
   "publisherDisplayName": "Killer Games",
   "price": null,
