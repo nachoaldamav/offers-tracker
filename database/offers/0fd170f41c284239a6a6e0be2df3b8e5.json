@@ -150,11 +150,63 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "overcooked-2--too-many-cooks",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "overcooked-2--campfire-cook-off",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "overcooked-2--night-of-the-hangry-horde",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "overcooked-2--carnival-of-chaos",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "overcooked-2--surf-n-turf",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "overcooked-2--gourmet-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "overcooked-2",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 624,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 1875,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "5139c20722b040bcab34f42e270f213d"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-06-17T15:00:00.000Z",
   "pcReleaseDate": "2018-08-07T09:00:00.000Z",
