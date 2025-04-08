@@ -171,11 +171,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "heart-of-the-machine-faq-190156",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "heart-of-the-machine-84306f",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "heart-of-the-machine-84306f",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Arcen Games, LLC",
   "publisherDisplayName": "Hooded Horse",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2399,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "48fba2fdd6234c2e88a2da7dd18ac46f"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-01-31T14:00:00.000Z",
   "pcReleaseDate": "2025-01-31T14:00:00.000Z",

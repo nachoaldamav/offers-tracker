@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-09-14T08:00:00.000Z",
   "creationDate": "2023-06-06T13:52:22.930Z",
-  "lastModifiedDate": "2025-04-08T18:43:22.303Z",
+  "lastModifiedDate": "2025-04-08T20:38:38.027Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -126,11 +126,67 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-crew-motorfest",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-crew-motorfest--gold-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-crew-motorfest--ultimate-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-crew-motorfest--year-2-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-crew-motorfest--trial",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-crew-motorfest--year-1-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-crew-motorfest--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-crew-motorfest--audi-welcome-pack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Ubisoft Ivory Tower",
   "publisherDisplayName": "Ubisoft",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2099,
+      "originalPrice": 6999,
+      "voucherDiscount": 0,
+      "discount": 4900,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "054da046fd0e4f9abdefffd091debe6b"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": false,
   "releaseDate": "2023-09-14T08:00:00.000Z",
   "pcReleaseDate": "2023-09-14T08:00:00.000Z",
