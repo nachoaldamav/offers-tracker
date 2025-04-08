@@ -99,7 +99,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "plague-london-1665-faq-5203cf",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "plague-london-1665-203017",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "plague-london-1665-203017",
@@ -108,7 +119,28 @@
   ],
   "developerDisplayName": "WASD Games",
   "publisherDisplayName": "WASD Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1199,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 300,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "1ddc13ab9b524df1b4a7ea8d93b7de1b"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-10-09T17:00:00.000Z",
   "pcReleaseDate": "2024-10-09T17:00:00.000Z",
