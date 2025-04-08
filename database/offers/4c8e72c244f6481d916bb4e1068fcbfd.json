@@ -99,18 +99,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "shelter-1-c67d06",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "shelter-1-shelter-an-animal-adventure-soundtrack-ffe16e",
-        "pageType": "offer"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "shelter-1-c67d06",
@@ -119,7 +108,28 @@
   ],
   "developerDisplayName": "Might and Delight",
   "publisherDisplayName": "Might and Delight",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 239,
+      "originalPrice": 799,
+      "voucherDiscount": 0,
+      "discount": 560,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "1c3a669b24e941a593d9cacac3b2d639"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-09-12T14:00:00.000Z",
   "pcReleaseDate": "2013-08-28T07:00:00.000Z",
