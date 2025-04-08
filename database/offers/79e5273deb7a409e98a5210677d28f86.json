@@ -95,11 +95,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "vengeance-of-mr-peppermint-8953c5",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "vengeance-of-mr-peppermint-8953c5",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Hack The Publisher",
   "publisherDisplayName": "Freedom Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 899,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1100,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "1ad8a77f8d7d4e509ed18e0f9f2568e5"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-04-24T16:00:00.000Z",
   "pcReleaseDate": "2024-04-24T16:00:00.000Z",

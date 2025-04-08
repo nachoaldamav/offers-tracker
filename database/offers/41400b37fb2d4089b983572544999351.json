@@ -99,11 +99,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "russian-village-simulator-ddedb6",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "russian-village-simulator-ddedb6",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "VD Games",
   "publisherDisplayName": "VD Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 599,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 900,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "6cd8c39dc9ee44ff895261155ab8134e"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-05-02T13:00:00.000Z",
   "pcReleaseDate": "2023-09-25T01:00:00.000Z",
