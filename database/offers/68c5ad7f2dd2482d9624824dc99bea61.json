@@ -99,7 +99,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "chains-of-fury-f6f67f",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "chains-of-fury-f6f67f",
@@ -108,28 +115,7 @@
   ],
   "developerDisplayName": "Cobble Games",
   "publisherDisplayName": "Fulqrum Publishing",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 749,
-      "originalPrice": 999,
-      "voucherDiscount": 0,
-      "discount": 250,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "8f52ed5b30cc4b2f9a78e1f587f7a446"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2024-09-16T17:00:00.000Z",
   "pcReleaseDate": "2024-09-16T17:00:00.000Z",

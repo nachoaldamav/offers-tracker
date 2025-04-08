@@ -107,7 +107,26 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "edge-of-sanity-bonus-lamp-e82bb9",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "edge-of-sanity-3a2b7a",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "edge-of-sanity-eldritch-enthusiast-edition-7d952b",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "edge-of-sanity-supporter-pack-265274",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "edge-of-sanity-3a2b7a",
@@ -116,28 +135,7 @@
   ],
   "developerDisplayName": "Vixa Games",
   "publisherDisplayName": "Daedalic Entertainment",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1399,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 600,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "ceed2c3ae10c46429f47914659c6cf70"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2024-09-13T16:00:00.000Z",
   "pcReleaseDate": "2024-09-13T16:00:00.000Z",
