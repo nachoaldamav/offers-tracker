@@ -95,7 +95,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "hunter-girls-96020a",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "hunter-girls-hunter-girls-soundtrack-and-art-7da3f1",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "hunter-girls-96020a",
@@ -104,7 +115,28 @@
   ],
   "developerDisplayName": "Meridian4",
   "publisherDisplayName": "Denis Lutsenko",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 99,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "b0ca574f2aae478f91d8e188f8c85f30"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-11-09T05:00:00.000Z",
   "pcReleaseDate": "2021-08-06T16:00:00.000Z",
