@@ -5,8 +5,8 @@
   "description": "A unique artist sim game with realistic paint mixing, physics and numerous painting tools. Upgrade and customize your studio, complete tasks, sell and expose art, buy instruments and get famous!",
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-07-14T17:00:00.000Z",
-  "creationDate": "2024-07-16T11:15:41.425Z",
-  "lastModifiedDate": "2025-03-04T16:00:29.720Z",
+  "creationDate": "2024-03-31T16:54:15.383Z",
+  "lastModifiedDate": "2025-04-08T15:58:43.130Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -72,6 +72,10 @@
       "value": "true"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
+    {
       "key": "com.epicgames.app.blacklist",
       "value": "[]"
     },
@@ -84,12 +88,12 @@
       "value": "Voolgi"
     },
     {
-      "key": "com.epicgames.app.productSlug",
-      "value": "suchart-genius-artist-simulator"
-    },
-    {
       "key": "isBlockchainUsed",
       "value": "false"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "suchart-genius-artist-simulator"
     }
   ],
   "categories": [
@@ -104,7 +108,12 @@
     }
   ],
   "catalogNs": null,
-  "offerMappings": null,
+  "offerMappings": [
+    {
+      "pageSlug": "suchart-genius-artist-simulator",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Voolgi",
   "publisherDisplayName": "HypeTrain Digital",
   "price": null,
