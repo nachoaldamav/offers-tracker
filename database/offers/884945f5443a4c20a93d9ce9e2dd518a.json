@@ -114,7 +114,14 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "pumpkin-jack",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "pumpkin-jack",
@@ -123,7 +130,28 @@
   ],
   "developerDisplayName": "Nicolas Meyssonnier",
   "publisherDisplayName": "Headup GmbH",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 599,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 2400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "00311a06c39040858c946c0c7a78e9bb"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-10-23T15:00:00.000Z",
   "pcReleaseDate": null,
