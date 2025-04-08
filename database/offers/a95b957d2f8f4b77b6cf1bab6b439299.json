@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "forge-simulator-88a6f2",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "forge-simulator-88a6f2",
@@ -100,7 +107,24 @@
   ],
   "developerDisplayName": "GreenOnionGames",
   "publisherDisplayName": "GreenOnionGames",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1099,
+      "originalPrice": 1099,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-10-11T07:00:00.000Z",
   "pcReleaseDate": "2024-06-10T07:00:00.000Z",
