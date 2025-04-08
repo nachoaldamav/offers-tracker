@@ -142,11 +142,87 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "marvels-midnight-suns--season-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "marvels-midnight-suns--digital-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "marvels-midnight-suns--300-eclipse-credits",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "marvels-midnight-suns--600-eclipse-credits",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "marvels-midnight-suns--1200-eclipse-credits",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "marvels-midnight-suns--1500-eclipse-credits",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "marvels-midnight-suns--doctor-strange-defenders-skin",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "marvels-midnight-suns--the-good-the-bad-and-the-undead",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "marvels-midnight-suns--redemption",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "marvels-midnight-suns--the-hunger",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "marvels-midnight-suns--blood-storm",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "marvels-midnight-suns--legendary-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "marvels-midnight-suns",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Firaxis Games",
   "publisherDisplayName": "2K",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 899,
+      "originalPrice": 5999,
+      "voucherDiscount": 0,
+      "discount": 5100,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "f38d6f48f173413c98342e00c2f7a4ce"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": false,
   "releaseDate": "2022-12-02T05:00:00.000Z",
   "pcReleaseDate": "2022-12-02T05:00:00.000Z",

@@ -95,11 +95,48 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sons-of-valhalla-97db6e",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "sons-of-valhalla-sons-of-valhalla-supporter-pack-9eec08",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "sons-of-valhalla-97db6e",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Pixel Chest",
   "publisherDisplayName": "Hooded Horse",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "5fbe06f0898347a7a28e461a8fa83c8e"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-04-05T13:00:00.000Z",
   "pcReleaseDate": "2024-04-05T13:00:00.000Z",
