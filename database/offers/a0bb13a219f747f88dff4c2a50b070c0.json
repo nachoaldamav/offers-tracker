@@ -59,7 +59,10 @@
       "id": "29088",
       "name": "Online Multiplayer"
     },
-    null,
+    {
+      "id": "21122",
+      "name": "Diverse Characters"
+    },
     {
       "id": "1188",
       "name": "RELAXING"
@@ -167,11 +170,56 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "remnant-from-the-ashes--subject-2923",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "remnant-from-the-ashes--complete-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "remnant-from-the-ashes--swamps-of-corsus",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "remnant-from-the-ashes",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "remnant-from-the-ashes",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Gunfire Games",
   "publisherDisplayName": "Arc Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 3000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "9c32b1a485f549788b9c2ac83f00b068"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-08-13T15:00:00.000Z",
   "pcReleaseDate": "2020-08-13T15:00:00.000Z",

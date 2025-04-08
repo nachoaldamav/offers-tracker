@@ -51,7 +51,10 @@
       "id": "1185",
       "name": "FPS"
     },
-    null,
+    {
+      "id": "21122",
+      "name": "Diverse Characters"
+    },
     {
       "id": "1188",
       "name": "RELAXING"
@@ -163,11 +166,47 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "cyberpunk-2077",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "cyberpunk-2077--ultimate-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "cyberpunk-2077--phantom-liberty",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2399,
+      "originalPrice": 5999,
+      "voucherDiscount": 0,
+      "discount": 3600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "5bf8d91ec73f47b3966ea3250d2a0152"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-12-10T00:00:00.000Z",
   "pcReleaseDate": "2020-12-10T00:00:00.000Z",
