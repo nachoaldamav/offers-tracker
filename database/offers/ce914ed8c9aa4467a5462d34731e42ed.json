@@ -99,7 +99,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "trail-of-ayash-31a1d4",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "trail-of-ayash-faq-bc06a6",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "trail-of-ayash-31a1d4",
@@ -108,28 +119,7 @@
   ],
   "developerDisplayName": "Nowsky",
   "publisherDisplayName": "Nowsky",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 999,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 1000,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "a04ac5c3e1b849e8899e3f3d78af7fd7"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-10-25T13:00:00.000Z",
   "pcReleaseDate": "2023-05-15T13:00:00.000Z",
