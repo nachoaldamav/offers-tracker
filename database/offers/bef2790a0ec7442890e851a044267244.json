@@ -95,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-fabulous-fear-machine-8e7c6b",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-fabulous-fear-machine-8e7c6b",
@@ -104,7 +111,28 @@
   ],
   "developerDisplayName": "Fictiorama Studios",
   "publisherDisplayName": "AMC Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 899,
+      "originalPrice": 1799,
+      "voucherDiscount": 0,
+      "discount": 900,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "fab20d5ccb0c4c78b62dd03f993d81a1"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-04T16:00:00.000Z",
   "pcReleaseDate": "2023-10-04T16:00:00.000Z",
