@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-10-31T13:00:00.000Z",
   "creationDate": "2023-06-05T23:00:39.448Z",
-  "lastModifiedDate": "2024-09-17T15:00:54.763Z",
+  "lastModifiedDate": "2025-04-08T15:00:31.768Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1310",
@@ -95,7 +99,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-silent-city-chapter-2-cccb19",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-silent-city-chapter-2-faq-3c692c",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-silent-city-chapter-2-cccb19",
@@ -106,10 +121,10 @@
   "publisherDisplayName": "Jacob.K.Jufeili",
   "price": {
     "totalPrice": {
-      "discountPrice": 899,
+      "discountPrice": 314,
       "originalPrice": 899,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 585,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -118,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "373d74b8f94d4f86bfafbc96bbe21a00"
+          }
+        ]
       }
     ]
   },
