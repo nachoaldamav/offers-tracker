@@ -103,11 +103,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "videoverse-3e126a",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "videoverse-3e126a",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Kinmoku",
   "publisherDisplayName": "Kinmoku",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 870,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 429,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "800cbb1f34e54fc5b91f680e70b6500a"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-04-19T10:00:00.000Z",
   "pcReleaseDate": "2023-08-07T10:00:00.000Z",

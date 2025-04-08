@@ -99,11 +99,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "entomophobia-5e766c",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "entomophobia-faq-032d40",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "entomophobia-5e766c",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "VuVuu Inc.",
   "publisherDisplayName": "VuVuu Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "d8b1347132104d06be927610555dfaac"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-31T00:00:00.000Z",
   "pcReleaseDate": "2022-04-16T17:00:00.000Z",
