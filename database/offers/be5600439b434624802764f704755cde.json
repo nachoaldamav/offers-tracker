@@ -169,7 +169,28 @@
   "offerMappings": [],
   "developerDisplayName": "One More Level",
   "publisherDisplayName": "505 Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 3000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "689e31dfba8741098685b02ec61018df"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-26T15:00:00.000Z",
   "pcReleaseDate": "2023-10-26T15:00:00.000Z",
