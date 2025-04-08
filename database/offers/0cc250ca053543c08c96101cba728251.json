@@ -118,11 +118,47 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "pc-building-simulator-2--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "pc-building-simulator-2--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "pc-building-simulator-2",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Spiral House Ltd",
   "publisherDisplayName": "Epic Games Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1674,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 825,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "9982e4ea87244796a3e0c518ecd3f509"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": false,
   "releaseDate": "2022-10-12T16:00:00.000Z",
   "pcReleaseDate": "2022-10-12T16:00:00.000Z",
