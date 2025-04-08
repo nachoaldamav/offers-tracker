@@ -83,7 +83,30 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "lords-and-villeins-faq-ca23d6",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "lords-and-villeins-746931",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "lords-and-villeins-lords-and-villeins-ost-58b404",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "lords-and-villeins-lords-and-villeins-the-great-houses-edition-309361",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "lords-and-villeins-lords-and-villeins-the-great-houses-17bdb0",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "lords-and-villeins-746931",
@@ -92,7 +115,28 @@
   ],
   "developerDisplayName": "Honestly Games",
   "publisherDisplayName": "Fulqrum Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 624,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 1875,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "ae42b43edf464fbb9ea17b07e009f5a1"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-09-30T17:00:00.000Z",
   "pcReleaseDate": "2021-09-30T17:00:00.000Z",

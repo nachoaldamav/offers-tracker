@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-inner-world-the-last-windmonk-40da8a",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-inner-world-the-last-windmonk-40da8a",
@@ -100,28 +107,7 @@
   ],
   "developerDisplayName": "Studio Fizbin",
   "publisherDisplayName": "Headup",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 199,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 1800,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "4184dc36d73340139725b843eea766b5"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2024-08-15T15:00:00.000Z",
   "pcReleaseDate": "2017-10-20T10:00:00.000Z",
