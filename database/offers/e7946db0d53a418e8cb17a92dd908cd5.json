@@ -102,7 +102,26 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "halcyon-6",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "halcyon-6--artbook",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "halcyon-6--the-precursor-legacy",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "halcyon-6--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

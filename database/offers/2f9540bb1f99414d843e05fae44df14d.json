@@ -80,10 +80,36 @@
     }
   ],
   "catalogNs": null,
-  "offerMappings": null,
+  "offerMappings": [
+    {
+      "pageSlug": "steel-rats-445306",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Tate Multimedia",
   "publisherDisplayName": "Tate Multimedia",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 99,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 900,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "647d0ec4c5634903956e31249c0a9ab9"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-05-13T13:00:00.000Z",
   "pcReleaseDate": "2018-11-07T00:00:00.000Z",

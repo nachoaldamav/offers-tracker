@@ -100,7 +100,30 @@
       "path": "games/edition"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "chivalry-2--special-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "chivalry-2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "chivalry-2--kings-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "chivalry-2--special-edition-content",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "chivalry-2--kings-edition-content",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "chivalry-2--special-edition",

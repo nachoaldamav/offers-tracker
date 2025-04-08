@@ -122,7 +122,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "stranded-deep",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "stranded-deep--early-access-faq",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Beam Team Games",
   "publisherDisplayName": "Beam Team Publishing",
