@@ -91,7 +91,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "flunkyfarm-3bfece",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "flunkyfarm-faq-cb4f48",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "flunkyfarm-3bfece",
@@ -100,7 +111,24 @@
   ],
   "developerDisplayName": "Vneta Games Inc.",
   "publisherDisplayName": "Vneta Games Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-11-17T13:00:00.000Z",
   "pcReleaseDate": "2023-11-17T13:00:00.000Z",
