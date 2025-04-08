@@ -6,20 +6,20 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-01-16T18:00:00.000Z",
   "creationDate": "2019-05-20T18:23:14.676Z",
-  "lastModifiedDate": "2025-02-11T17:36:39.574Z",
+  "lastModifiedDate": "2025-04-08T16:59:05.959Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/5fdcc0dc67294af3be740f362bd976fd/EGS_MagicTheGatheringArena_WizardsoftheCoast_S1_2560x1440-b8d6a029eff8c26bd9588d5847f0bebb"
+      "url": "https://cdn1.epicgames.com/offer/5fdcc0dc67294af3be740f362bd976fd/EGS_MagicTheGatheringArena_WizardsoftheCoast_S1_2560x1440-fad72b20e672da5b05e46d1814fb995d"
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/5fdcc0dc67294af3be740f362bd976fd/EGS_MagicTheGatheringArena_WizardsoftheCoast_S2_1200x1600-c4e40f480cf4d556e7c2e9d85ea8de4f"
+      "url": "https://cdn1.epicgames.com/offer/5fdcc0dc67294af3be740f362bd976fd/EGS_MagicTheGatheringArena_WizardsoftheCoast_S2_1200x1600-0fc63bdcb5c988965a529a90a3914b7a"
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/5fdcc0dc67294af3be740f362bd976fd/EGS_MagicTheGatheringArena_WizardsoftheCoast_S2_1200x1600-c4e40f480cf4d556e7c2e9d85ea8de4f"
+      "url": "https://cdn1.epicgames.com/offer/5fdcc0dc67294af3be740f362bd976fd/EGS_MagicTheGatheringArena_WizardsoftheCoast_S2_1200x1600-0fc63bdcb5c988965a529a90a3914b7a"
     }
   ],
   "currentPrice": 0,
@@ -130,11 +130,35 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "mtg-arena",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Wizards of the Coast",
   "publisherDisplayName": "Wizards of the Coast",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-01-16T08:00:00.000Z",
   "pcReleaseDate": null,
