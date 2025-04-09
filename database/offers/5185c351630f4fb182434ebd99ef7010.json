@@ -115,7 +115,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "shotgun-farmers-d9f3f0",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "shotgun-farmers-shotgun-farmers-supporter-pack-b967dd",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "shotgun-farmers-d9f3f0",
@@ -124,7 +135,28 @@
   ],
   "developerDisplayName": "Megastorm Games",
   "publisherDisplayName": "Megastorm Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "9771cdbbe1894bf6ac8a6d1408bc8ba5"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-27T14:00:00.000Z",
   "pcReleaseDate": "2023-04-27T14:00:00.000Z",
