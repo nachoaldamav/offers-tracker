@@ -191,11 +191,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "haunted-forest-fbc4c3",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "haunted-forest-fbc4c3",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Pine Games",
   "publisherDisplayName": "Pine Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 74,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 25,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "0312fee5ff114a6d9dc1b0d0f9178993"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-03-27T22:00:00.000Z",
   "pcReleaseDate": "2025-03-27T22:00:00.000Z",
