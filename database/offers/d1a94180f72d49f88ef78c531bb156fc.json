@@ -103,7 +103,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "brawlers-faq-866820",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "brawlers-84957e",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "brawlers-84957e",
@@ -112,24 +123,7 @@
   ],
   "developerDisplayName": "Tyranno Studios",
   "publisherDisplayName": "Tyranno Studios",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 0,
-      "originalPrice": 0,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-10-17T19:00:00.000Z",
   "pcReleaseDate": "2023-10-17T19:00:00.000Z",
