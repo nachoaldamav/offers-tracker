@@ -106,11 +106,43 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "twin-mirror--epilepsy-warning",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "twin-mirror",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "twin-mirror--demo",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-12-01T14:00:00.000Z",
   "pcReleaseDate": "2020-12-01T14:00:00.000Z",
