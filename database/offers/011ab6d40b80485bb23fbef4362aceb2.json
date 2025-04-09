@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-09-09T15:00:00.000Z",
   "creationDate": "2020-10-06T21:32:40.998Z",
-  "lastModifiedDate": "2025-04-06T02:01:17.562Z",
+  "lastModifiedDate": "2025-04-09T15:12:19.985Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -86,10 +86,6 @@
     {
       "id": "21119",
       "name": "Great for Beginners"
-    },
-    {
-      "id": "15375",
-      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -130,7 +126,14 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sheltered",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Unicube",
   "publisherDisplayName": "Team17",

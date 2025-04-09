@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-03-18T16:00:00.000Z",
   "creationDate": "2024-03-18T14:13:13.993Z",
-  "lastModifiedDate": "2025-04-04T07:42:46.071Z",
+  "lastModifiedDate": "2025-04-09T15:13:50.333Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -78,10 +78,6 @@
     {
       "id": "21119",
       "name": "Great for Beginners"
-    },
-    {
-      "id": "15375",
-      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -131,7 +127,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ancient-enemy",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "ancient-enemy",
@@ -140,7 +143,24 @@
   ],
   "developerDisplayName": "Grey Alien Games",
   "publisherDisplayName": "Grey Alien Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-03-18T16:00:00.000Z",
   "pcReleaseDate": "2020-04-09T16:00:00.000Z",

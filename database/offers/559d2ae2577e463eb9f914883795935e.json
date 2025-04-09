@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-10-01T15:00:00.000Z",
   "creationDate": "2019-09-10T21:09:34.886Z",
-  "lastModifiedDate": "2025-04-03T10:19:01.826Z",
+  "lastModifiedDate": "2025-04-09T15:12:20.105Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -78,10 +78,6 @@
     {
       "id": "1263",
       "name": "Indie"
-    },
-    {
-      "id": "15375",
-      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -122,11 +118,35 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "pikuniku",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1299,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-10-01T15:00:00.000Z",
   "pcReleaseDate": "2020-10-01T15:00:00.000Z",

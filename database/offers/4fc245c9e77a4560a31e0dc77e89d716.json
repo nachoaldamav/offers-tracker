@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-08-13T13:00:00.000Z",
   "creationDate": "2020-01-17T23:15:28.040Z",
-  "lastModifiedDate": "2025-03-26T16:01:32.588Z",
+  "lastModifiedDate": "2025-04-09T15:12:20.024Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -66,10 +66,6 @@
     {
       "id": "9548",
       "name": "OSX"
-    },
-    {
-      "id": "15375",
-      "name": "Spring Sale"
     },
     {
       "id": "21138",
@@ -150,11 +146,71 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "a-total-war-saga-troy--blood-and-glory",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "a-total-war-saga-troy--amazons",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "a-total-war-saga-troy--mythos",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "a-total-war-saga-troy--mythic-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "a-total-war-saga-troy--heroic-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "a-total-war-saga-troy--ajax-and-diomedes",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "a-total-war-saga-troy",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "a-total-war-saga-troy--ultimate-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "a-total-war-saga-troy--rhesus-and-memnon",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "a-total-war-saga-troy--assembly-kit",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-08-13T13:00:00.000Z",
   "pcReleaseDate": "2020-10-08T15:00:00.000Z",

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-05-28T13:00:00.000Z",
   "creationDate": "2020-02-18T21:49:47.745Z",
-  "lastModifiedDate": "2025-04-03T10:19:01.839Z",
+  "lastModifiedDate": "2025-04-09T15:12:20.089Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,10 +54,6 @@
     {
       "id": "1117",
       "name": "Adventure"
-    },
-    {
-      "id": "15375",
-      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -98,11 +94,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sludge-life",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "sludge-life--ost",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-05-28T13:00:00.000Z",
   "pcReleaseDate": null,

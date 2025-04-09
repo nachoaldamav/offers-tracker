@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-08-02T13:00:00.000Z",
   "creationDate": "2021-02-19T02:13:53.945Z",
-  "lastModifiedDate": "2025-03-26T16:01:29.244Z",
+  "lastModifiedDate": "2025-04-09T15:12:20.017Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,10 +54,6 @@
     {
       "id": "9549",
       "name": "Controller Support"
-    },
-    {
-      "id": "15375",
-      "name": "Spring Sale"
     },
     {
       "id": "21137",
@@ -142,7 +138,14 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "grime",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "grime",
@@ -151,7 +154,24 @@
   ],
   "developerDisplayName": "Clover Bite",
   "publisherDisplayName": "Akupara Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-08-02T13:00:00.000Z",
   "pcReleaseDate": null,

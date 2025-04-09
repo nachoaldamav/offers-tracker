@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-10-19T17:00:00.000Z",
   "creationDate": "2022-04-15T19:39:17.988Z",
-  "lastModifiedDate": "2025-03-26T16:01:58.897Z",
+  "lastModifiedDate": "2025-04-09T15:12:20.080Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,10 +54,6 @@
     {
       "id": "9547",
       "name": "Windows"
-    },
-    {
-      "id": "15375",
-      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -98,7 +94,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-valiant--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-valiant",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "KITE Games",
   "publisherDisplayName": "THQ Nordic",

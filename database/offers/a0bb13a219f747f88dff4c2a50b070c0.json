@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-08-13T15:00:00.000Z",
   "creationDate": "2025-02-26T22:37:16.416Z",
-  "lastModifiedDate": "2025-03-05T21:27:22.944Z",
+  "lastModifiedDate": "2025-04-09T15:12:20.093Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -74,10 +74,6 @@
     {
       "id": "9547",
       "name": "Windows"
-    },
-    {
-      "id": "15375",
-      "name": "Spring Sale"
     },
     {
       "id": "1264",
@@ -170,11 +166,52 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "remnant-from-the-ashes--subject-2923",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "remnant-from-the-ashes--complete-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "remnant-from-the-ashes--swamps-of-corsus",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "remnant-from-the-ashes",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "remnant-from-the-ashes",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Gunfire Games",
   "publisherDisplayName": "Arc Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-08-13T15:00:00.000Z",
   "pcReleaseDate": "2020-08-13T15:00:00.000Z",

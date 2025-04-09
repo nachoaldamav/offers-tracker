@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-05-13T14:00:00.000Z",
   "creationDate": "2024-03-25T21:27:30.342Z",
-  "lastModifiedDate": "2025-03-26T16:01:09.554Z",
+  "lastModifiedDate": "2025-04-09T15:12:19.975Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -62,10 +62,6 @@
     {
       "id": "1263",
       "name": "Indie"
-    },
-    {
-      "id": "15375",
-      "name": "Spring Sale"
     },
     {
       "id": "1393",
@@ -166,7 +162,26 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "hundred-days-winemaking-simulator",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "hundred-days-winemaking-simulator--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hundred-days-wine-simulator--grape-lab",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hundred-days-wine-simulator--napa-valley",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "hundred-days-winemaking-simulator",
@@ -175,7 +190,24 @@
   ],
   "developerDisplayName": "Broken Arms Games",
   "publisherDisplayName": "Broken Arms Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-05-13T14:00:00.000Z",
   "pcReleaseDate": null,

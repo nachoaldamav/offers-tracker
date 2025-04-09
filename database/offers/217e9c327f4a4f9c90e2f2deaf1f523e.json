@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-10-31T08:00:00.000Z",
   "creationDate": "2021-04-13T18:02:16.411Z",
-  "lastModifiedDate": "2025-03-26T16:01:42.696Z",
+  "lastModifiedDate": "2025-04-09T15:12:20.042Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,10 +50,6 @@
     {
       "id": "9547",
       "name": "Windows"
-    },
-    {
-      "id": "15375",
-      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -94,7 +90,14 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tormented-souls",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

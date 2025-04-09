@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-04-16T15:00:00.000Z",
   "creationDate": "2020-02-10T20:00:28.633Z",
-  "lastModifiedDate": "2025-03-26T16:01:54.329Z",
+  "lastModifiedDate": "2025-04-09T15:13:30.385Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -62,10 +62,6 @@
     {
       "id": "10719",
       "name": "Mac OS"
-    },
-    {
-      "id": "15375",
-      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -102,11 +98,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "wheels-of-aurelia--ost",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wheels-of-aurelia",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-04-16T15:00:00.000Z",
   "pcReleaseDate": null,

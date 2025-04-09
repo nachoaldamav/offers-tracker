@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-08-27T15:00:00.000Z",
   "creationDate": "2020-06-18T23:06:58.313Z",
-  "lastModifiedDate": "2025-03-20T08:26:44.706Z",
+  "lastModifiedDate": "2025-04-09T15:12:20.130Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -62,10 +62,6 @@
     {
       "id": "1263",
       "name": "Indie"
-    },
-    {
-      "id": "15375",
-      "name": "Spring Sale"
     }
   ],
   "items": [
@@ -106,11 +102,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "shadowrun-hong-kong--extended-edition-deluxe",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "shadowrun-hong-kong",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-08-27T15:00:00.000Z",
   "pcReleaseDate": null,

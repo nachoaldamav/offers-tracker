@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-06-30T16:00:00.000Z",
   "creationDate": "2021-06-09T00:10:33.302Z",
-  "lastModifiedDate": "2025-04-02T14:20:29.453Z",
+  "lastModifiedDate": "2025-04-09T15:12:20.084Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,10 +58,6 @@
     {
       "id": "9547",
       "name": "Windows"
-    },
-    {
-      "id": "15375",
-      "name": "Spring Sale"
     },
     {
       "id": "21137",
@@ -146,11 +142,35 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "doki-doki-literature-club-plus",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-06-30T16:00:00.000Z",
   "pcReleaseDate": "2021-06-30T16:00:00.000Z",
