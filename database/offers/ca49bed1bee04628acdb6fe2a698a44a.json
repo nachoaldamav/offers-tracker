@@ -110,11 +110,52 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "spellforce-conquest-of-eo",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "spellforce-conquest-of-eo--demon-scourge",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "spellforce-conquest-of-eo-spellforce-conquest-of-eo-weavers-realms-0d33f8",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "spellforce-conquest-of-eo",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Owned by Gravity",
   "publisherDisplayName": "THQ Nordic",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1199,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 1800,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "656ee29da43c4347b8a036505da572f2"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-02-03T14:00:00.000Z",
   "pcReleaseDate": "2023-02-03T14:00:00.000Z",
