@@ -83,14 +83,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "kao-the-kangaroo-2000-rerelease-1b53f5",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "kao-the-kangaroo-2000-rerelease-1b53f5",
@@ -99,7 +92,28 @@
   ],
   "developerDisplayName": "Tate Multimedia",
   "publisherDisplayName": "Tate Multimedia",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 99,
+      "originalPrice": 199,
+      "voucherDiscount": 0,
+      "discount": 100,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "818690d276724c1fbd0b41abd4585f1a"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-27T13:00:00.000Z",
   "pcReleaseDate": "2001-02-20T11:00:00.000Z",

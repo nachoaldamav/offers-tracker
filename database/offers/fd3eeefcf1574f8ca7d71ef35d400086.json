@@ -162,18 +162,7 @@
       "path": "applications"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "stray-blade--valley-of-strays",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "stray-blade",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "stray-blade",
@@ -182,7 +171,28 @@
   ],
   "developerDisplayName": "Point Blank Games",
   "publisherDisplayName": "505 Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1199,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 800,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "0a6524a59f674ba19bfae371ddd3e865"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-20T15:00:00.000Z",
   "pcReleaseDate": "2023-04-20T15:00:00.000Z",

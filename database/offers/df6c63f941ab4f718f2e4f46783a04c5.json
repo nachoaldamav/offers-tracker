@@ -103,14 +103,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "arcrunner-61fee6",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "arcrunner-61fee6",
@@ -119,7 +112,28 @@
   ],
   "developerDisplayName": "Trickjump Games Ltd",
   "publisherDisplayName": "PQUBE",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1099,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 900,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "d7a439c5e33746fbab791516884d38e6"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-27T14:00:00.000Z",
   "pcReleaseDate": "2023-04-27T14:00:00.000Z",
