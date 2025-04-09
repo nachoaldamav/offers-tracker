@@ -99,11 +99,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "backrooms-1995-the-lost-footage-4a3d81",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "backrooms-1995-the-lost-footage-faq-57a5b0",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "backrooms-1995-the-lost-footage-4a3d81",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "LEMIOUTGAMES",
   "publisherDisplayName": "Jacob.K.Jufeili",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 584,
+      "originalPrice": 899,
+      "voucherDiscount": 0,
+      "discount": 315,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "1db541350367451c8a042332e1b3314f"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-04-12T12:00:00.000Z",
   "pcReleaseDate": "2024-04-12T12:00:00.000Z",
