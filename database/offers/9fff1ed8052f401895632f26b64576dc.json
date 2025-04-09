@@ -107,7 +107,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "karmazoo-616bd0",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "karmazoo-616bd0",
@@ -118,10 +125,10 @@
   "publisherDisplayName": "Devolver Digital",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 999,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 500,
+      "discount": 0,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -130,11 +137,7 @@
     },
     "lineOffers": [
       {
-        "appliedRules": [
-          {
-            "id": "d9ca5cfdf95f4d2f9b7ba64df8c5f1ae"
-          }
-        ]
+        "appliedRules": []
       }
     ]
   },

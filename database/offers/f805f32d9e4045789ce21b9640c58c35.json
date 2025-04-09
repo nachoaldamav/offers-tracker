@@ -99,7 +99,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "gladiator-blades-of-fury-gladiator-blades-of-fury-demo-1439db",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "gladiator-blades-of-fury-1a745b",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "gladiator-blades-of-fury-1a745b",
@@ -110,10 +121,10 @@
   "publisherDisplayName": "Yash Future Tech Solutions Pvt Ltd",
   "price": {
     "totalPrice": {
-      "discountPrice": 149,
+      "discountPrice": 999,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 850,
+      "discount": 0,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -122,11 +133,7 @@
     },
     "lineOffers": [
       {
-        "appliedRules": [
-          {
-            "id": "ee3140bfa0ab43abb3394fbaff0e48bc"
-          }
-        ]
+        "appliedRules": []
       }
     ]
   },

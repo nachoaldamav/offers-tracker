@@ -95,7 +95,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "kids-learn-kids-learn-demo-a1e844",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "kids-learn-e4a163",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "kids-learn-e4a163",
@@ -106,10 +117,10 @@
   "publisherDisplayName": "Yash Future Tech Solutions Pvt Ltd",
   "price": {
     "totalPrice": {
-      "discountPrice": 139,
+      "discountPrice": 699,
       "originalPrice": 699,
       "voucherDiscount": 0,
-      "discount": 560,
+      "discount": 0,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -118,11 +129,7 @@
     },
     "lineOffers": [
       {
-        "appliedRules": [
-          {
-            "id": "3d32def04d124229a0fb28af3e32d139"
-          }
-        ]
+        "appliedRules": []
       }
     ]
   },

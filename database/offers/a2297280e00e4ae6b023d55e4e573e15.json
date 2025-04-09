@@ -99,7 +99,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "snowmen-snowmen-demo-a30d19",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "snowmen-5987b9",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "snowmen-5987b9",
@@ -110,10 +121,10 @@
   "publisherDisplayName": "NikosDreams",
   "price": {
     "totalPrice": {
-      "discountPrice": 399,
+      "discountPrice": 499,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 100,
+      "discount": 0,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -122,11 +133,7 @@
     },
     "lineOffers": [
       {
-        "appliedRules": [
-          {
-            "id": "c2f11687cd53484e9e07287fe571da8c"
-          }
-        ]
+        "appliedRules": []
       }
     ]
   },

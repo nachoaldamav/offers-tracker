@@ -87,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "king-of-seas-646f95",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "king-of-seas-646f95",
@@ -98,10 +105,10 @@
   "publisherDisplayName": "Team17",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 2499,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 2000,
+      "discount": 0,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -110,11 +117,7 @@
     },
     "lineOffers": [
       {
-        "appliedRules": [
-          {
-            "id": "a3657035e1534af09ef00c8b19ed77e3"
-          }
-        ]
+        "appliedRules": []
       }
     ]
   },

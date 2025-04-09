@@ -95,7 +95,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "math-fun-9585ad",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "math-fun-math-fun-demo-6f48c1",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "math-fun-9585ad",
@@ -106,10 +117,10 @@
   "publisherDisplayName": "Yash Future Tech Solutions Pvt Ltd",
   "price": {
     "totalPrice": {
-      "discountPrice": 139,
+      "discountPrice": 699,
       "originalPrice": 699,
       "voucherDiscount": 0,
-      "discount": 560,
+      "discount": 0,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -118,11 +129,7 @@
     },
     "lineOffers": [
       {
-        "appliedRules": [
-          {
-            "id": "99643ce00723414db0c905a7c3dcf080"
-          }
-        ]
+        "appliedRules": []
       }
     ]
   },

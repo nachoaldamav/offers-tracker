@@ -99,7 +99,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "everreach-project-eden-aa25b8",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "everreach-project-eden-aa25b8",
@@ -110,10 +117,10 @@
   "publisherDisplayName": "Headup",
   "price": {
     "totalPrice": {
-      "discountPrice": 124,
+      "discountPrice": 2499,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 2375,
+      "discount": 0,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -122,11 +129,7 @@
     },
     "lineOffers": [
       {
-        "appliedRules": [
-          {
-            "id": "bd38045646114ef582f7bbdf09edf1c0"
-          }
-        ]
+        "appliedRules": []
       }
     ]
   },

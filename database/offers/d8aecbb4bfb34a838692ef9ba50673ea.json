@@ -103,7 +103,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "horse-racing-4192a0",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "horse-racing-horse-racing-demo-647b2a",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "horse-racing-4192a0",
@@ -114,10 +125,10 @@
   "publisherDisplayName": "Yash Future Tech Solutions Pvt Ltd",
   "price": {
     "totalPrice": {
-      "discountPrice": 199,
+      "discountPrice": 999,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 800,
+      "discount": 0,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -126,11 +137,7 @@
     },
     "lineOffers": [
       {
-        "appliedRules": [
-          {
-            "id": "732b149cd1284de28e0dcbaaeea58e7a"
-          }
-        ]
+        "appliedRules": []
       }
     ]
   },

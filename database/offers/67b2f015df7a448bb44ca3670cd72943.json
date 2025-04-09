@@ -138,16 +138,27 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "madden-nfl-25",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "madden-nfl-25--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Tiburon",
   "publisherDisplayName": "Electronic Arts",
   "price": {
     "totalPrice": {
-      "discountPrice": 1399,
+      "discountPrice": 6999,
       "originalPrice": 6999,
       "voucherDiscount": 0,
-      "discount": 5600,
+      "discount": 0,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -156,11 +167,7 @@
     },
     "lineOffers": [
       {
-        "appliedRules": [
-          {
-            "id": "04331f8d53fe44478d43e7f6cf3bac95"
-          }
-        ]
+        "appliedRules": []
       }
     ]
   },

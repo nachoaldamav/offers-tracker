@@ -107,7 +107,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sudoku-zenkai-3990b1",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "sudoku-zenkai-3990b1",
@@ -118,10 +125,10 @@
   "publisherDisplayName": "ImaginationOverflow",
   "price": {
     "totalPrice": {
-      "discountPrice": 319,
+      "discountPrice": 399,
       "originalPrice": 399,
       "voucherDiscount": 0,
-      "discount": 80,
+      "discount": 0,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -130,11 +137,7 @@
     },
     "lineOffers": [
       {
-        "appliedRules": [
-          {
-            "id": "3b2752d637cd4874a6b1fa81c03a609b"
-          }
-        ]
+        "appliedRules": []
       }
     ]
   },

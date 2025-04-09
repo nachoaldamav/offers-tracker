@@ -95,7 +95,22 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "steamworld-build-steamworld-build-demo-af3891",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "steamworld-build-71ee6c",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "steamworld-build-steamworld-build-mechanized-85e540",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "steamworld-build-71ee6c",
@@ -106,10 +121,10 @@
   "publisherDisplayName": "Thunderful Publishing",
   "price": {
     "totalPrice": {
-      "discountPrice": 749,
+      "discountPrice": 2499,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 1750,
+      "discount": 0,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -118,11 +133,7 @@
     },
     "lineOffers": [
       {
-        "appliedRules": [
-          {
-            "id": "35adb21d259b4e0ba55435c4978a23ce"
-          }
-        ]
+        "appliedRules": []
       }
     ]
   },

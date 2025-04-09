@@ -138,27 +138,16 @@
       "path": "applications"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "wolfenstein-the-new-order",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "wolfenstein-the-new-order--worldwide",
-        "pageType": "offer"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [],
   "developerDisplayName": "Machine Games",
   "publisherDisplayName": "Bethesda Softworks",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 1999,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 1500,
+      "discount": 0,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -167,11 +156,7 @@
     },
     "lineOffers": [
       {
-        "appliedRules": [
-          {
-            "id": "599c52f2c8f94a57b7efdc59d29617a2"
-          }
-        ]
+        "appliedRules": []
       }
     ]
   },

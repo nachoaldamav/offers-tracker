@@ -95,7 +95,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "balloon-strike-c9a1ac",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "balloon-strike-balloon-strike-demo-b0baab",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "balloon-strike-c9a1ac",
@@ -106,10 +117,10 @@
   "publisherDisplayName": "Yash Future Tech Solutions Pvt Ltd",
   "price": {
     "totalPrice": {
-      "discountPrice": 99,
+      "discountPrice": 499,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 400,
+      "discount": 0,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -118,11 +129,7 @@
     },
     "lineOffers": [
       {
-        "appliedRules": [
-          {
-            "id": "c648a8b7ad7d448997629e027d972aa7"
-          }
-        ]
+        "appliedRules": []
       }
     ]
   },

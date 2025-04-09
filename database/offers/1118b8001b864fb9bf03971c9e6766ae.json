@@ -102,16 +102,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sonic-frontiers--sonic-adventure-2-shoes",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "sonic-frontiers--monster-hunter-collaboration-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "sonic-frontiers--holiday-cheer-skin",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "sonic-frontiers--digital-deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "sonic-frontiers",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "SEGA",
   "publisherDisplayName": "SEGA",
   "price": {
     "totalPrice": {
-      "discountPrice": 1799,
+      "discountPrice": 5999,
       "originalPrice": 5999,
       "voucherDiscount": 0,
-      "discount": 4200,
+      "discount": 0,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -120,11 +143,7 @@
     },
     "lineOffers": [
       {
-        "appliedRules": [
-          {
-            "id": "33e587d04e0241e19ef6fb5fe3170538"
-          }
-        ]
+        "appliedRules": []
       }
     ]
   },

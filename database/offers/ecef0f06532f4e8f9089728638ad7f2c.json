@@ -91,7 +91,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "car-parking-real-driving-sim-ba7eed",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "car-parking-real-driving-sim-ba7eed",
@@ -102,10 +109,10 @@
   "publisherDisplayName": "INSPECTOR STUDIOS",
   "price": {
     "totalPrice": {
-      "discountPrice": 59,
+      "discountPrice": 99,
       "originalPrice": 99,
       "voucherDiscount": 0,
-      "discount": 40,
+      "discount": 0,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -114,11 +121,7 @@
     },
     "lineOffers": [
       {
-        "appliedRules": [
-          {
-            "id": "dea20934f79743508780bfcd095556c3"
-          }
-        ]
+        "appliedRules": []
       }
     ]
   },

@@ -131,7 +131,18 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "deaths-gambit-afterlife-b5f411",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "deaths-gambit-afterlife-deaths-gambit-afterlife-ashes-of-vados-f87688",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "deaths-gambit-afterlife-b5f411",
@@ -140,7 +151,24 @@
   ],
   "developerDisplayName": "White Rabbit",
   "publisherDisplayName": "Serenity Forge",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-07-25T16:00:00.000Z",
   "pcReleaseDate": "2018-08-13T05:00:00.000Z",

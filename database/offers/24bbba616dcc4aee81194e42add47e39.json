@@ -103,7 +103,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "orten-was-the-case-d108fb",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "orten-was-the-case-d108fb",
@@ -114,10 +121,10 @@
   "publisherDisplayName": "Woodhill Interactive AB",
   "price": {
     "totalPrice": {
-      "discountPrice": 899,
+      "discountPrice": 1499,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 600,
+      "discount": 0,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -126,11 +133,7 @@
     },
     "lineOffers": [
       {
-        "appliedRules": [
-          {
-            "id": "a20c61e47c0040f7b57c52757a035613"
-          }
-        ]
+        "appliedRules": []
       }
     ]
   },

@@ -146,7 +146,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "universe-sandbox",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "universe-sandbox--early-access-faq",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "universe-sandbox",
@@ -155,7 +166,24 @@
   ],
   "developerDisplayName": "Giant Army",
   "publisherDisplayName": "Giant Army",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-09-23T17:00:00.000Z",
   "pcReleaseDate": "2015-08-24T12:00:00.000Z",

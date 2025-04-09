@@ -91,7 +91,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "monster_adventurer_x-47a4be",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "monster_adventurer_x-monster-adventurer-x-demo-c63794",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "monster_adventurer_x-47a4be",
@@ -100,7 +111,24 @@
   ],
   "developerDisplayName": "luolei",
   "publisherDisplayName": "luolei",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 299,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-08-14T16:00:00.000Z",
   "pcReleaseDate": "2024-08-14T16:00:00.000Z",

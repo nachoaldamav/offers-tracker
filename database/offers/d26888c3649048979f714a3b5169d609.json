@@ -95,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
@@ -106,10 +113,10 @@
   "publisherDisplayName": "Microids",
   "price": {
     "totalPrice": {
-      "discountPrice": 1599,
+      "discountPrice": 3999,
       "originalPrice": 3999,
       "voucherDiscount": 0,
-      "discount": 2400,
+      "discount": 0,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -118,11 +125,7 @@
     },
     "lineOffers": [
       {
-        "appliedRules": [
-          {
-            "id": "9d5557f4d7e04ec6a86fbaab907c18a4"
-          }
-        ]
+        "appliedRules": []
       }
     ]
   },

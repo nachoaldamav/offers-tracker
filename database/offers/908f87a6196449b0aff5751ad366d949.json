@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "march-of-shrooms-2581de",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "march-of-shrooms-2581de",
@@ -102,10 +109,10 @@
   "publisherDisplayName": "Freedom Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 279,
+      "discountPrice": 699,
       "originalPrice": 699,
       "voucherDiscount": 0,
-      "discount": 420,
+      "discount": 0,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -114,11 +121,7 @@
     },
     "lineOffers": [
       {
-        "appliedRules": [
-          {
-            "id": "99d2b9382050447fb40af19d054c97e9"
-          }
-        ]
+        "appliedRules": []
       }
     ]
   },

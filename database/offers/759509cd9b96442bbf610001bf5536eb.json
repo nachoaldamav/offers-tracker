@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "black-academy-ed8e11",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "black-academy-ed8e11",
@@ -102,10 +109,10 @@
   "publisherDisplayName": "MediBang",
   "price": {
     "totalPrice": {
-      "discountPrice": 639,
+      "discountPrice": 1599,
       "originalPrice": 1599,
       "voucherDiscount": 0,
-      "discount": 960,
+      "discount": 0,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -114,11 +121,7 @@
     },
     "lineOffers": [
       {
-        "appliedRules": [
-          {
-            "id": "49f9211046d9435d8d31819d0fb0ed58"
-          }
-        ]
+        "appliedRules": []
       }
     ]
   },

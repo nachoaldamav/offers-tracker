@@ -83,7 +83,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "miniland-adventure-ee81ff",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "miniland-adventure-ee81ff",
@@ -94,10 +101,10 @@
   "publisherDisplayName": "Gameparic",
   "price": {
     "totalPrice": {
-      "discountPrice": 439,
+      "discountPrice": 1099,
       "originalPrice": 1099,
       "voucherDiscount": 0,
-      "discount": 660,
+      "discount": 0,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -106,11 +113,7 @@
     },
     "lineOffers": [
       {
-        "appliedRules": [
-          {
-            "id": "b8f672fa9f9d4a1e8c50a29d494ad674"
-          }
-        ]
+        "appliedRules": []
       }
     ]
   },

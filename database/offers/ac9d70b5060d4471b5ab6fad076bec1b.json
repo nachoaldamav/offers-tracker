@@ -231,11 +231,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "summer-dates-cef9fe",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "summer-dates-cef9fe",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Icarus Interactive Entertainment",
   "publisherDisplayName": "Icarus Interactive Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-02-13T05:00:00.000Z",
   "pcReleaseDate": "2025-02-13T05:00:00.000Z",

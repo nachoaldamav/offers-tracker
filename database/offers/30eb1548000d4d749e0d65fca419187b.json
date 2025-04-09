@@ -91,7 +91,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "mountain-racing-mountain-racing-demo-a42156",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "mountain-racing-47178d",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "mountain-racing-47178d",
@@ -102,10 +113,10 @@
   "publisherDisplayName": "Yash Future Tech Solutions Pvt Ltd",
   "price": {
     "totalPrice": {
-      "discountPrice": 99,
+      "discountPrice": 499,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 400,
+      "discount": 0,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -114,11 +125,7 @@
     },
     "lineOffers": [
       {
-        "appliedRules": [
-          {
-            "id": "b62d354ec5dc4b779f4c05c555c9205b"
-          }
-        ]
+        "appliedRules": []
       }
     ]
   },

@@ -103,7 +103,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "dark-mystery-baf914",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "dark-mystery-dark-mystery-demo-70c751",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "dark-mystery-baf914",
@@ -114,10 +125,10 @@
   "publisherDisplayName": "Yash Future Tech Solutions Pvt Ltd",
   "price": {
     "totalPrice": {
-      "discountPrice": 139,
+      "discountPrice": 699,
       "originalPrice": 699,
       "voucherDiscount": 0,
-      "discount": 560,
+      "discount": 0,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -126,11 +137,7 @@
     },
     "lineOffers": [
       {
-        "appliedRules": [
-          {
-            "id": "705650b281f34055b4ddf3f6373e1191"
-          }
-        ]
+        "appliedRules": []
       }
     ]
   },
