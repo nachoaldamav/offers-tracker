@@ -143,11 +143,48 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "commandos-origins-commandos-origins-deluxe-edition-cd31ee",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "commandos-origins-commandos-origins-deluxe-edition-upgrade-c86441",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "commandos-origins-ec78ba",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "commandos-origins-ec78ba",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Claymore Game Studios",
   "publisherDisplayName": "Kalypso Media",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-04-09T14:00:00.000Z",
   "pcReleaseDate": "2025-04-09T14:00:00.000Z",
