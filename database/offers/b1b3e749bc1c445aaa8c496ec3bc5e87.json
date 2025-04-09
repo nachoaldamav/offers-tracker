@@ -102,11 +102,52 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "production-line--doors-that-go-like-this",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "production-line",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "production-line--design-variety-pack",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "production-line",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Positech Games",
   "publisherDisplayName": "Positech Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1249,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 1250,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "0efa9683a1e943ad951a4c07eb1bb625"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-11-20T16:00:00.000Z",
   "pcReleaseDate": "2020-11-20T16:00:00.000Z",
