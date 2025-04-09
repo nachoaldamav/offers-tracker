@@ -99,11 +99,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "lost-wing-074a1b",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "lost-wing-074a1b",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "BoxFrog Games",
   "publisherDisplayName": " 2Awesome Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 239,
+      "originalPrice": 799,
+      "voucherDiscount": 0,
+      "discount": 560,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "bd405975c32f41689fb86b0cd3ee8d9c"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-07-20T12:00:00.000Z",
   "pcReleaseDate": "2020-07-30T16:00:00.000Z",
