@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-10-27T17:00:00.000Z",
   "creationDate": "2022-09-13T21:00:35.577Z",
-  "lastModifiedDate": "2025-04-07T01:54:52.382Z",
+  "lastModifiedDate": "2025-04-09T03:42:14.204Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,10 +42,6 @@
     {
       "id": "1188",
       "name": "RELAXING"
-    },
-    {
-      "id": "21125",
-      "name": "Competitive Community"
     },
     {
       "id": "9547",
@@ -130,11 +126,59 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sins-of-a-solar-empire-ii--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "sins-of-a-solar-empire-ii--premium-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "sins-of-a-solar-empire-ii",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "sins-of-a-solar-empire-ii--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "sins-of-a-solar-empire-ii--content-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "sins-of-a-solar-empire-ii--paths-to-power",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Ironclad Games",
   "publisherDisplayName": "Stardock Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3749,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 1250,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "82f65afc1a5c4a89a6eb70e66e04f0a1"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-10-27T17:00:00.000Z",
   "pcReleaseDate": "2022-10-27T17:00:00.000Z",
