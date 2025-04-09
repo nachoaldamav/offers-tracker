@@ -95,11 +95,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "commandos-3-commandos-3-hd-remaster-demo-e8db0b",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "commandos-3-ba41db",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "commandos-3-ba41db",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Raylight Games",
   "publisherDisplayName": "Kalypso Media Group GmbH",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1399,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "43b5d4f119134d7aa4f299822d8e5661"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-08-30T08:00:00.000Z",
   "pcReleaseDate": "2022-08-30T08:00:00.000Z",
