@@ -139,11 +139,56 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "manor-lords-manor-lords-art-book-c2d58d",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "manor-lords-manor-lords-soundtrack-a0c6d5",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "manor-lords-ef795f",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "manor-lords-faq-bd6d9f",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "manor-lords-ef795f",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Slavic Magic",
   "publisherDisplayName": "Hooded Horse",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2799,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 1200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "d933ec358f3549788d8acca60d06cd7b"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-04-26T13:00:00.000Z",
   "pcReleaseDate": "2024-04-26T13:00:00.000Z",
