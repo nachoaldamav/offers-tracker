@@ -154,7 +154,34 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "neon-abyss",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "neon-abyss--alter-ego-dlc-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "neon-abyss--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "neon-abyss--the-lovable-rogues",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "neon-abyss--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "neon-abyss--chrono-trap",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

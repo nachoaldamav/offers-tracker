@@ -99,7 +99,22 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "keywe-keywe-the-grand-ol-telepost-tournament-fc968c",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "keywe-keywe-early-bird-pack-dlc-6b0d4a",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "keywe-c3a70e",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "keywe-c3a70e",
@@ -108,7 +123,28 @@
   ],
   "developerDisplayName": "Stonewheat & Sons",
   "publisherDisplayName": "Fireshine Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 2000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "8f50dd39e1134b59b66904ebef9bfc0f"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-04-28T09:00:00.000Z",
   "pcReleaseDate": "2021-08-31T00:00:00.000Z",
