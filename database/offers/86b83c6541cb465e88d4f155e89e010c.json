@@ -87,7 +87,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "pirates-outlaws-pirates-outlaws-original-soundtrack-54636a",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "pirates-outlaws-a8cc60",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "pirates-outlaws-a8cc60",
@@ -96,7 +107,24 @@
   ],
   "developerDisplayName": "Fabled Game Limited",
   "publisherDisplayName": "Fabled Game Limited",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-12-12T06:00:00.000Z",
   "pcReleaseDate": "2022-12-12T06:00:00.000Z",

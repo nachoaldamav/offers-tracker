@@ -103,7 +103,22 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "potion-tycoon-supporter-pack-16ce29",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "potion-tycoon-c7a63a",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "potion-tycoon-supporter-edition-484101",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "potion-tycoon-c7a63a",
@@ -112,7 +127,28 @@
   ],
   "developerDisplayName": "Snowhound Games",
   "publisherDisplayName": "Daedalic Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 799,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "276423f7a3c44707a6969e28e7fc2403"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-10-04T15:00:00.000Z",
   "pcReleaseDate": "2024-10-04T15:00:00.000Z",
