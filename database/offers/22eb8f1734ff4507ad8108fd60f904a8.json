@@ -167,7 +167,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-secret-ops-2-3a5f8a",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-secret-ops-2-3a5f8a",
@@ -176,7 +183,24 @@
   ],
   "developerDisplayName": "Peter Juee",
   "publisherDisplayName": "Peter Juee",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 799,
+      "originalPrice": 799,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-12-05T00:00:00.000Z",
   "pcReleaseDate": "2024-12-05T00:00:00.000Z",
