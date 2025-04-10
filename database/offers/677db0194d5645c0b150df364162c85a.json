@@ -91,13 +91,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "first-jam-b123fc",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "first-jam-b123fc",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "first-jam-first-jam-demo-f9462e",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "GC Studio,busy bear",
   "publisherDisplayName": "GC Studio",
   "price": {
