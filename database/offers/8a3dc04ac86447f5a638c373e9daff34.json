@@ -107,7 +107,18 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "whispers-of-decay-the-beginning-0fead2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "whispers-of-decay-the-beginning-faq-eb141e",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "whispers-of-decay-the-beginning-0fead2",
@@ -116,7 +127,24 @@
   ],
   "developerDisplayName": "DCAY STUDIOS , AC Studios",
   "publisherDisplayName": "DCAY STUDIOS",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",
