@@ -87,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "cafe-owner-simulator-749e0f",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "cafe-owner-simulator-749e0f",
@@ -96,24 +103,7 @@
   ],
   "developerDisplayName": "Second Reality",
   "publisherDisplayName": "RockGame S.A.",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1899,
-      "originalPrice": 1899,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-04-12T13:00:00.000Z",
   "pcReleaseDate": "2022-12-05T12:00:00.000Z",
