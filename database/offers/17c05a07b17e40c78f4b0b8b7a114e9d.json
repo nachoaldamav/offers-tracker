@@ -83,11 +83,52 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "a-musical-story-973128",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "a-musical-story-a-musical-story-wallpaper-pack-b6a64b",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "a-musical-story-a-musical-story-soundtrack-9ca3f0",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "a-musical-story-a-musical-story-digital-artbook-f0f4de",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "a-musical-story-973128",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Glee-Cheese Studio",
   "publisherDisplayName": "Digerati",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-03-04T18:00:00.000Z",
   "pcReleaseDate": "2022-03-04T18:00:00.000Z",
