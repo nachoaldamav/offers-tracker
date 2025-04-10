@@ -95,7 +95,22 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-case-of-the-golden-idol-ce58f7",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-case-of-the-golden-idol-golden-idol-mysteries-the-spider-of-lanka-08da98",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-case-of-the-golden-idol-golden-idol-mysteries-the-lemurian-vampire-6480bb",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-case-of-the-golden-idol-ce58f7",
@@ -104,24 +119,7 @@
   ],
   "developerDisplayName": "Color Gray Games",
   "publisherDisplayName": "Playstack",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1799,
-      "originalPrice": 1799,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-03-23T16:00:00.000Z",
   "pcReleaseDate": "2022-10-13T15:00:00.000Z",
