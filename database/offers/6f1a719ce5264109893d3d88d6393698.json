@@ -75,11 +75,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ruggnar-06d06b",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "ruggnar-06d06b",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Sword N' Wands",
   "publisherDisplayName": "PID Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 279,
+      "originalPrice": 1399,
+      "voucherDiscount": 0,
+      "discount": 1120,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "df7e922fbd19444192377b330204d336"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-06-23T15:00:00.000Z",
   "pcReleaseDate": "2022-06-23T15:00:00.000Z",
