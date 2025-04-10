@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-07-18T15:00:00.000Z",
   "creationDate": "2023-06-12T13:38:22.860Z",
-  "lastModifiedDate": "2025-02-24T16:01:39.851Z",
+  "lastModifiedDate": "2025-04-10T15:00:45.876Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "35244",
+      "name": "Epic Savings"
     },
     {
       "id": "9549",
@@ -117,10 +121,10 @@
   "publisherDisplayName": "GBROSSOFT",
   "price": {
     "totalPrice": {
-      "discountPrice": 799,
+      "discountPrice": 199,
       "originalPrice": 799,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 600,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "cd531e00e6f345e69caba72eb23fa662"
+          }
+        ]
       }
     ]
   },

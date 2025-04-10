@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-05-08T22:00:00.000Z",
   "creationDate": "2023-03-09T15:54:23.003Z",
-  "lastModifiedDate": "2025-02-11T16:00:30.846Z",
+  "lastModifiedDate": "2025-04-10T15:00:40.760Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,6 +42,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "35244",
+      "name": "Epic Savings"
     }
   ],
   "items": [
@@ -97,10 +101,10 @@
   "publisherDisplayName": "LFR Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 374,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 125,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -109,7 +113,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "b7de9d58fd414572bf61d3b6effac727"
+          }
+        ]
       }
     ]
   },

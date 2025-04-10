@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-10-31T00:00:00.000Z",
   "creationDate": "2024-08-21T21:34:43.611Z",
-  "lastModifiedDate": "2025-03-04T06:04:57.733Z",
+  "lastModifiedDate": "2025-04-10T15:00:37.307Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -102,6 +102,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "35244",
+      "name": "Epic Savings"
     },
     {
       "id": "9549",
@@ -209,10 +213,10 @@
   "publisherDisplayName": "Krafton",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 1749,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 750,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -221,7 +225,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "c5f9a41850fc4f5b94abcd666dfc17a0"
+          }
+        ]
       }
     ]
   },

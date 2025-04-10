@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-06-06T20:00:00.000Z",
   "creationDate": "2024-05-07T14:33:54.213Z",
-  "lastModifiedDate": "2025-02-24T16:01:44.578Z",
+  "lastModifiedDate": "2025-04-10T15:00:37.307Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -70,6 +70,10 @@
     {
       "id": "1212",
       "name": "Racing"
+    },
+    {
+      "id": "35244",
+      "name": "Epic Savings"
     }
   ],
   "items": [
@@ -111,11 +115,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "grid-legends-grid-legends-deluxe-edition-5e3364",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "grid-legends-d7b0b7",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "grid-legends-d7b0b7",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Codemasters",
   "publisherDisplayName": "Electronic Arts",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1799,
+      "originalPrice": 5999,
+      "voucherDiscount": 0,
+      "discount": 4200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "94b91a0e663b4273bed76bd918954abf"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-06-06T20:00:00.000Z",
   "pcReleaseDate": "2022-02-24T09:00:00.000Z",

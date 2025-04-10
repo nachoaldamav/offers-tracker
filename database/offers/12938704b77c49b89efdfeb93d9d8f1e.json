@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-11-15T14:00:00.000Z",
   "creationDate": "2023-04-20T08:38:13.832Z",
-  "lastModifiedDate": "2025-02-24T16:01:40.416Z",
+  "lastModifiedDate": "2025-04-10T15:00:45.878Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "35244",
+      "name": "Epic Savings"
     }
   ],
   "items": [
@@ -87,22 +91,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "naheulbeuks-dungeon-master-b2694b",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "naheulbeuks-dungeon-master-naheulbeuks-dungeon-master-official-soundtrack-5583d4",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "naheulbeuks-dungeon-master-naheulbeuks-dungeon-master-steward-edition-b61480",
-        "pageType": "offer"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "naheulbeuks-dungeon-master-b2694b",
@@ -113,10 +102,10 @@
   "publisherDisplayName": "Dear Villagers",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 1374,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1125,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +114,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "b86b6d68618f4a1980d3a0d3f397a13d"
+          }
+        ]
       }
     ]
   },

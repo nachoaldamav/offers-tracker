@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-05-13T19:30:00.000Z",
   "creationDate": "2020-04-21T16:50:58.129Z",
-  "lastModifiedDate": "2024-10-22T18:03:48.331Z",
+  "lastModifiedDate": "2025-04-10T15:00:34.044Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -74,6 +74,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "35244",
+      "name": "Epic Savings"
     },
     {
       "id": "21138",
@@ -203,10 +207,10 @@
   "publisherDisplayName": "Knights Peak",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 399,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1600,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -215,7 +219,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "0c5a461a94964c9387a720feac062369"
+          }
+        ]
       }
     ]
   },

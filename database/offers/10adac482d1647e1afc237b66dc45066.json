@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-05-16T15:00:00.000Z",
   "creationDate": "2021-06-03T17:59:17.520Z",
-  "lastModifiedDate": "2025-04-07T17:28:46.950Z",
+  "lastModifiedDate": "2025-04-10T15:00:40.761Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "35244",
+      "name": "Epic Savings"
     },
     {
       "id": "9549",
@@ -211,10 +215,10 @@
   "publisherDisplayName": "Astragon Entertainment GmbH",
   "price": {
     "totalPrice": {
-      "discountPrice": 3499,
+      "discountPrice": 1399,
       "originalPrice": 3499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2100,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -223,7 +227,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "9f7821415997492bae0653e6721ac9a0"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-02-06T16:00:00.000Z",
   "creationDate": "2024-05-30T13:10:50.635Z",
-  "lastModifiedDate": "2025-03-27T14:05:19.686Z",
+  "lastModifiedDate": "2025-04-10T15:00:37.309Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -92,6 +92,10 @@
       "name": "Windows"
     },
     {
+      "id": "35244",
+      "name": "Epic Savings"
+    },
+    {
       "id": "9549",
       "name": "Controller Support"
     },
@@ -139,11 +143,56 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "big-helmet-heroes-big-helmet-heroes-soundtrack-141642",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "big-helmet-heroes-big-helmet-heroes-exalted-edition-1faeb4",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "big-helmet-heroes-big-helmet-heroes-artbook-0c0c27",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "big-helmet-heroes-0ab7e6",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "big-helmet-heroes-0ab7e6",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Exalted Studio",
   "publisherDisplayName": "Dear Villagers",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "bf3441ed09c34ca1bc58e78c75c27840"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-02-06T16:00:00.000Z",
   "pcReleaseDate": "2025-02-06T16:00:00.000Z",

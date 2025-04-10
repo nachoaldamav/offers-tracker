@@ -113,26 +113,28 @@
       "path": "applications"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "football-manager-2024",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "football-manager-2024--demo",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "football-manager-2024--in-game-editor",
-        "pageType": "addon--cms-hybrid"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [],
   "developerDisplayName": "Sports Interactive",
   "publisherDisplayName": "SEGA",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 5999,
+      "originalPrice": 5999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-11-06T16:00:00.000Z",
   "pcReleaseDate": "2023-10-19T15:00:00.000Z",
