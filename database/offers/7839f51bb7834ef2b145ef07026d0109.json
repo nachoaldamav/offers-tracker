@@ -99,11 +99,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "auto-legends-36ce7e",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "auto-legends-faq-e29721",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "auto-legends-36ce7e",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Autoverse Studios",
   "publisherDisplayName": "Autoverse Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-06-30T00:00:00.000Z",
   "pcReleaseDate": "2024-06-30T00:00:00.000Z",

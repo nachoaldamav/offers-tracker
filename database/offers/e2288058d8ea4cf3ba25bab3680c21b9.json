@@ -131,11 +131,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "lonestar-83f143",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "lonestar-faq-a4d082",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "lonestar-83f143",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Math Tide",
   "publisherDisplayName": "Thermite Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1104,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 195,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "c92bc4a53a8d4212afffafc7969e5f2a"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-04-03T07:00:00.000Z",
   "pcReleaseDate": "2024-01-18T08:00:00.000Z",
