@@ -111,11 +111,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "wildermyth-armors-and-skins-fabcb8",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "wildermyth-wildermyth-omenroad-55d9e3",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "wildermyth-593344",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "wildermyth-593344",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Worldwalker Games",
   "publisherDisplayName": "Worldwalker Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-04-22T17:00:00.000Z",
   "pcReleaseDate": "2021-06-15T00:00:00.000Z",

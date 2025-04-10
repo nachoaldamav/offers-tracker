@@ -226,7 +226,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "defense-grid",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "defense-grid--dlc-bundle",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "defense-grid",
