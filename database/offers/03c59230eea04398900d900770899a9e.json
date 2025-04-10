@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-10-31T12:00:00.000Z",
   "creationDate": "2023-03-12T16:16:55.410Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.075Z",
+  "lastModifiedDate": "2025-04-10T16:11:43.643Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -90,16 +90,42 @@
   ],
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "freegames"
+    },
+    {
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "botanicula-50043d",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "botanicula-botanicula-soundtrack-plus-art-book-690fee",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "botanicula-botanicula-collectors-edition-ef03d0",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "botanicula-ios-80ffa3",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "botanicula-android-7eeaa6",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "botanicula-50043d",
@@ -108,7 +134,24 @@
   ],
   "developerDisplayName": "Amanita Design",
   "publisherDisplayName": "Amanita Design",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-31T12:00:00.000Z",
   "pcReleaseDate": "2012-04-19T11:00:00.000Z",
