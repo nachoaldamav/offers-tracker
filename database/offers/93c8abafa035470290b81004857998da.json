@@ -106,7 +106,46 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "warhammer-40000-battlesector",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "warhammer-40000-battlesector--tyranid-elites",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "warhammer-40000-battlesector--blood-angels-elites",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "warhammer-40000-battlesector--sisters-of-battle",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "warhammer-40000-battlesector--orks",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "warhammer-40000-battlesector-warhammer-40000-battlesector-astra-militarum-902b30",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "warhammer-40000-battlesector--necrons",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "warhammer-40000-battlesector--daemons-of-khorne",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "warhammer-40000-battlesector--tau",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "warhammer-40000-battlesector",
@@ -115,7 +154,24 @@
   ],
   "developerDisplayName": "Black Lab Games",
   "publisherDisplayName": "Slitherine Ltd.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-07-22T17:00:00.000Z",
   "pcReleaseDate": "2021-07-22T17:00:00.000Z",
