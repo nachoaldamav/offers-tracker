@@ -131,11 +131,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ourlands-249335",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "ourlands-ios-491c6a",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ourlands-android-46a8ab",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "ourlands-249335",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "GrahamOfLegend",
   "publisherDisplayName": "GrahamOfLegend",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",
