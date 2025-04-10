@@ -99,7 +99,26 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "reliefs-the-time-of-the-lemures-872f85",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "reliefs-the-time-of-the-lemures-reliefs-the-time-of-the-lemures-demo-81397e",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "reliefs-the-time-of-the-lemures-reliefs-the-time-of-the-lemures-soundtracks-987649",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "reliefs-the-time-of-the-lemures-reliefs-the-time-of-the-lemures-plus-soundtracks-ae25c2",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "reliefs-the-time-of-the-lemures-872f85",
@@ -108,7 +127,24 @@
   ],
   "developerDisplayName": "Calepin Studio",
   "publisherDisplayName": "Calepin Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-05-30T23:00:00.000Z",
   "pcReleaseDate": "2023-10-17T19:00:00.000Z",
