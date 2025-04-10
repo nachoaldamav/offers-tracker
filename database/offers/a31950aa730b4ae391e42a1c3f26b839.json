@@ -130,28 +130,30 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": "Avalanche Software",
-  "publisherDisplayName": "Warner Bros. Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 5999,
-      "originalPrice": 5999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": []
+        "pageSlug": "hogwarts-legacy--digital-deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hogwarts-legacy--dark-arts-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "hogwarts-legacy--creator-kit",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hogwarts-legacy",
+        "pageType": "productHome"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": "Avalanche Software",
+  "publisherDisplayName": "Warner Bros. Games",
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-02-10T18:00:00.000Z",
   "pcReleaseDate": "2023-02-10T18:00:00.000Z",
