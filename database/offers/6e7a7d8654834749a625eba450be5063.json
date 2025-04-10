@@ -131,8 +131,28 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ourlands-249335",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "ourlands-ios-491c6a",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ourlands-android-46a8ab",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "ourlands-249335",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "GrahamOfLegend",
   "publisherDisplayName": "GrahamOfLegend",
   "price": null,
