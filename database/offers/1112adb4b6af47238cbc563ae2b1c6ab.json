@@ -162,7 +162,26 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "disco-elysium",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "disco-elysium--the-final-cut-ost",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "disco-elysium--soundtrack-and-artbook",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "disco-elysium--bundle",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "disco-elysium",
@@ -171,7 +190,24 @@
   ],
   "developerDisplayName": "ZA/UM",
   "publisherDisplayName": "ZA/UM",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-06-06T18:00:00.000Z",
   "pcReleaseDate": null,
