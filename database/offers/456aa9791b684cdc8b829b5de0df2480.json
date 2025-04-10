@@ -108,10 +108,36 @@
     }
   ],
   "catalogNs": null,
-  "offerMappings": null,
+  "offerMappings": [
+    {
+      "pageSlug": "terra-memoria-8b0a0e",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "La Moutarde",
   "publisherDisplayName": "Dear Villagers",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "b817291382f24704a03f01f4de91db0d"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-07-02T13:00:00.000Z",
   "pcReleaseDate": "2024-03-27T02:00:00.000Z",

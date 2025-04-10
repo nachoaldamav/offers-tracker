@@ -95,30 +95,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "outcore-desktop-adventure-eb3aff",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "outcore-desktop-adventure-faq-729a1e",
-        "pageType": "info"
-      },
-      {
-        "pageSlug": "outcore-desktop-adventure-outcore-clown-nose-dlc-4dacc2",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "outcore-desktop-adventure-outcore-ost-5a06fd",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "outcore-desktop-adventure-outcore-gaming-clown-nose-dlc-67b0c3",
-        "pageType": "offer"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "outcore-desktop-adventure-eb3aff",
@@ -127,7 +104,24 @@
   ],
   "developerDisplayName": "Doctor Shinobi",
   "publisherDisplayName": "Doctor Shinobi",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-05-07T07:00:00.000Z",
   "pcReleaseDate": "2022-09-25T21:00:00.000Z",

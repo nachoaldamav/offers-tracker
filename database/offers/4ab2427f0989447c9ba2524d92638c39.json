@@ -127,22 +127,7 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "dimensions-multiverse-faq-ba2ab8",
-        "pageType": "info"
-      },
-      {
-        "pageSlug": "dimensions-multiverse-21227d",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "dimensions-multiverse-dimensions-game-preview-3b474a",
-        "pageType": "offer"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "dimensions-multiverse-21227d",
@@ -151,7 +136,24 @@
   ],
   "developerDisplayName": "Villano Wild Studio",
   "publisherDisplayName": "Villano Wild Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1699,
+      "originalPrice": 1699,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-05-03T16:00:00.000Z",
   "pcReleaseDate": "2023-05-03T16:00:00.000Z",
