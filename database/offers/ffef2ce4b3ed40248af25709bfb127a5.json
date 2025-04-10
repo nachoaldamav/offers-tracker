@@ -110,8 +110,20 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "nour",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "nour",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Terrifying Jellyfish",
   "publisherDisplayName": "Panic",
   "price": null,

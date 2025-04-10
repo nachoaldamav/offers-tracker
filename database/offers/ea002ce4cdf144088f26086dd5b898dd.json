@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "jennifer-wilde-unlikely-revolutionaries-7eda5e",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "jennifer-wilde-unlikely-revolutionaries-7eda5e",
@@ -100,7 +107,24 @@
   ],
   "developerDisplayName": "Outsider Games",
   "publisherDisplayName": "Outsider Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1699,
+      "originalPrice": 1699,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-09T11:00:00.000Z",
   "pcReleaseDate": "2022-10-18T15:00:00.000Z",
