@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "police-car-simulator-d57d15",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "police-car-simulator-d57d15",
@@ -100,7 +107,28 @@
   ],
   "developerDisplayName": "Yusuf Islam Seyhan, Samet Acar",
   "publisherDisplayName": "INSPECTOR STUDIOS",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 59,
+      "originalPrice": 99,
+      "voucherDiscount": 0,
+      "discount": 40,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "e44f4cb8886d43ec9d65ca11b63f98d6"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-08-17T16:00:00.000Z",
   "pcReleaseDate": "2022-12-29T17:00:00.000Z",
