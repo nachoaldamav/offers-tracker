@@ -91,13 +91,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "unreachable-2339b0",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "unreachable-2339b0",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "unreachable-unreachable-demo-0c69ec",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "LOST ART STUDIOS LTD.",
   "publisherDisplayName": "LOST ART STUDIOS LTD.",
   "price": null,
