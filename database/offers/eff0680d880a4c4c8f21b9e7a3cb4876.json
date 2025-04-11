@@ -123,11 +123,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "treeverse-e5df22",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "treeverse-faq-2151f7",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "treeverse-e5df22",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Endless Clouds",
   "publisherDisplayName": "Endless Clouds",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-03-10T21:00:00.000Z",
   "pcReleaseDate": "2025-03-10T00:00:00.000Z",
