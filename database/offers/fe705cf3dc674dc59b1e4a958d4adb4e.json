@@ -103,13 +103,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "boxville-2b75d3",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "boxville-2b75d3",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "boxville-boxville-demo-8337dc",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Triomatica Games",
   "publisherDisplayName": "Triomatica Games",
   "price": {
