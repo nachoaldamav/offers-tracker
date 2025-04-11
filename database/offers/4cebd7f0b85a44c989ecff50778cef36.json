@@ -87,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "halloween-trick-or-treat-2-2c170d",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "halloween-trick-or-treat-2-2c170d",
@@ -96,24 +103,7 @@
   ],
   "developerDisplayName": "Casual Arts",
   "publisherDisplayName": "Casual Arts",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 699,
-      "originalPrice": 699,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-10-10T06:00:00.000Z",
   "pcReleaseDate": "2018-09-06T00:00:00.000Z",
