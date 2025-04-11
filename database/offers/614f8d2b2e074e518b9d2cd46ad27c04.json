@@ -6,20 +6,20 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-04-16T11:00:00.000Z",
   "creationDate": "2025-01-09T10:21:26.610Z",
-  "lastModifiedDate": "2025-04-10T08:03:00.877Z",
+  "lastModifiedDate": "2025-04-11T12:05:40.489Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-16lrz.jpg"
+      "url": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-1k5lx.jpg"
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-aj0m5.jpg"
+      "url": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-1m74d.jpg"
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-aj0m5.jpg"
+      "url": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-1m74d.jpg"
     },
     {
       "type": "heroCarouselVideo",
@@ -167,11 +167,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "albion-online-epic-launch-promo-bundle-fd0e2a",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "albion-online-7eb24d",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "albion-online-faq-009365",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "albion-online-7eb24d",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Sandbox Interactive GmbH",
   "publisherDisplayName": "Sandbox Interactive GmbH",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-04-16T11:00:00.000Z",
   "pcReleaseDate": "2017-07-16T22:00:00.000Z",
