@@ -102,7 +102,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "anodyne-2-return-to-dust",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "anodyne-2-return-to-dust--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "anodyne-2-return-to-dust--game-and-soundtrack-bundle",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

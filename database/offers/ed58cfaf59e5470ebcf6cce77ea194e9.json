@@ -103,7 +103,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "island-cities-0a3026",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "island-cities-0a3026",
@@ -112,28 +119,7 @@
   ],
   "developerDisplayName": "Mens Sana Interactive",
   "publisherDisplayName": "Mens Sana Interactive",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 139,
-      "originalPrice": 199,
-      "voucherDiscount": 0,
-      "discount": 60,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "047ef9632de14dc68e8026bdb7346d9e"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-04-27T05:00:00.000Z",
   "pcReleaseDate": "2022-08-30T23:00:00.000Z",
