@@ -107,7 +107,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "dungeon-keeper-2-bd3e81",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "dungeon-keeper-2-bd3e81",
@@ -116,28 +123,7 @@
   ],
   "developerDisplayName": "Bullfrog Productions",
   "publisherDisplayName": "Electronic Arts",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 249,
-      "originalPrice": 499,
-      "voucherDiscount": 0,
-      "discount": 250,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "f5f5b984e78042a39175288669c57e03"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2024-07-11T20:00:00.000Z",
   "pcReleaseDate": "2024-03-07T05:00:00.000Z",
