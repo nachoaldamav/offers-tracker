@@ -107,11 +107,39 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "netvrk-78be3a",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "netvrk-faq-33ec49",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": null,
   "developerDisplayName": "XMOD, INC.",
   "publisherDisplayName": "XMOD, INC.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-02-18T03:30:00.000Z",
   "pcReleaseDate": "2025-02-18T03:30:00.000Z",
