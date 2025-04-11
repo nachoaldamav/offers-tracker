@@ -130,8 +130,20 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "unspottable",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "unspottable",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Gros Chevaux",
   "publisherDisplayName": "Gros Chevaux",
   "price": null,

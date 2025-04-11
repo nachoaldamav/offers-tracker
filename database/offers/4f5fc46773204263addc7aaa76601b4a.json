@@ -102,8 +102,27 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "farmers-dynasty",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "farmers-dynasty--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "farmers-dynasty--potatoes-and-beets",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "farmers-dynasty--machines-pack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
   "price": null,

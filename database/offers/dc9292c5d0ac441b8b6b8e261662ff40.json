@@ -102,8 +102,24 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "one-hand-clapping",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "one-hand-clapping-android-c67271",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "one-hand-clapping",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Bad Dream Games  ",
   "publisherDisplayName": "HandyGames  ",
   "price": null,
