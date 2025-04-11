@@ -162,11 +162,71 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "pathfinder-kingmaker--royal-ascension",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "pathfinder-kingmaker--arcane-unleashed",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "pathfinder-kingmaker--beneath-the-stolen-lands",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "pathfinder-kingmaker--bloody-mess",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "pathfinder-kingmaker--season-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "pathfinder-kingmaker--the-wildcards",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "pathfinder-kingmaker--varnholds-lot",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "pathfinder-kingmaker",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "pathfinder-kingmaker--imperial-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Owlcat Games",
   "publisherDisplayName": "Knights Peak",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1600,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "0c5a461a94964c9387a720feac062369"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-05-13T19:30:00.000Z",
   "pcReleaseDate": "2021-05-13T19:30:00.000Z",

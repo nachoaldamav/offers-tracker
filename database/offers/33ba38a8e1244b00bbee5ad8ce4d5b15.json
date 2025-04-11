@@ -99,11 +99,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-isle-tide-hotel-adf588",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-isle-tide-hotel-the-isle-tide-hotel-4k-video-pack-1370b3",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "the-isle-tide-hotel-adf588",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Wales Interactive, Interflix Media",
   "publisherDisplayName": "Wales Interactive",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1199,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 800,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "c530d20b076f4ad1b7d44c73925ca69c"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-09-12T11:00:00.000Z",
   "pcReleaseDate": "2023-09-12T09:00:00.000Z",
