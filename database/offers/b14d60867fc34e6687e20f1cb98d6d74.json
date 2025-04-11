@@ -126,11 +126,55 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "anno-2205",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "anno-2205--ultimate-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "anno-2205--tundra",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "anno-2205--season-pass",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "anno-2205--frontiers",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "anno-2205--orbit",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-02-19T16:00:00.000Z",
   "pcReleaseDate": null,

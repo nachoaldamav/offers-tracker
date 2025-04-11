@@ -90,7 +90,30 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "fae-farm",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "fae-farm--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "fae-farm--ost",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fae-farm--coasts-of-croakia",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fae-farm--skies-of-azoria",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Phoenix Labs",
   "publisherDisplayName": "Phoenix Labs",
