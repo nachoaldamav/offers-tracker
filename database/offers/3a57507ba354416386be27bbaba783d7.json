@@ -142,7 +142,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "universe-sandbox",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "universe-sandbox--early-access-faq",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "universe-sandbox",
