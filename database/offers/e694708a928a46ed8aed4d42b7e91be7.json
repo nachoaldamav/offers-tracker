@@ -83,7 +83,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "1001-jigsaw-legends-of-mystery-14e62d",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "1001-jigsaw-legends-of-mystery-14e62d",
@@ -92,24 +99,7 @@
   ],
   "developerDisplayName": "Creobit",
   "publisherDisplayName": "8Floor ltd",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 499,
-      "originalPrice": 499,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-10-27T21:00:00.000Z",
   "pcReleaseDate": "2018-12-23T21:00:00.000Z",
