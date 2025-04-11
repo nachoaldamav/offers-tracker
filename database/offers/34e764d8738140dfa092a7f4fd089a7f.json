@@ -99,7 +99,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "cricket-jaes-really-peculiar-game-b86d2d",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "cricket-jaes-really-peculiar-game-b86d2d",
@@ -108,24 +115,7 @@
   ],
   "developerDisplayName": "Studio Kumiho",
   "publisherDisplayName": "PM Studios, Inc.",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 2499,
-      "originalPrice": 2499,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2024-09-19T14:00:00.000Z",
   "pcReleaseDate": "2024-09-19T14:00:00.000Z",
