@@ -134,11 +134,47 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "rainbow-six-extraction",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "rainbow-six-extraction--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "rainbow-six-extraction--react-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "rainbow-six-extraction--demo",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Ubisoft",
   "publisherDisplayName": "Ubisoft",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-01-20T05:00:00.000Z",
   "pcReleaseDate": "2022-01-20T05:00:00.000Z",

@@ -103,11 +103,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "old-skool-racer-378359",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "old-skool-racer-faq-0bb168",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "old-skool-racer-378359",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "KARMA PLAY",
   "publisherDisplayName": "KARMA PLAY",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-04-10T16:26:39.000Z",
   "pcReleaseDate": "2020-07-07T12:30:00.000Z",
