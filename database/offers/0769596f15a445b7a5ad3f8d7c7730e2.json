@@ -134,8 +134,19 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-outer-worlds-spacers-choice-edition",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-outer-worlds-spacers-choice-edition--upgrade",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Obsidian Entertainment",
   "publisherDisplayName": "Private Division",
   "price": null,
