@@ -130,54 +130,28 @@
       "path": "applications"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "star-wars-outlaws--gold-edition",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "star-wars-outlaws--cartel-ronin-bundle",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "star-wars-outlaws--wild-card",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "star-wars-outlaws--hunters-legacy-bundle",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "star-wars-outlaws--forest-commando-pack",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "star-wars-outlaws",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "star-wars-outlaws--deluxe-edition",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "star-wars-outlaws--ultimate-pack",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "star-wars-outlaws--season-pass",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "star-wars-outlaws--ultimate-edition",
-        "pageType": "offer"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [],
   "developerDisplayName": "Ubisoft Entertainment",
   "publisherDisplayName": "Ubisoft Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 6999,
+      "originalPrice": 6999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-08-30T04:00:00.000Z",
   "pcReleaseDate": "2024-08-30T04:00:00.000Z",
