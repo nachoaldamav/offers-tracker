@@ -114,8 +114,32 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-invincible",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-invincible--art-book-and-comic-book",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-invincible--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-invincible--original-soundtrack",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "the-invincible",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Starward Industries",
   "publisherDisplayName": "11 bit studios",
   "price": null,

@@ -103,8 +103,24 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "strange-house-5fd1b5",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "strange-house-faq-74cfc1",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "strange-house-5fd1b5",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Games4Wonders",
   "publisherDisplayName": "Games4Wonders",
   "price": null,
