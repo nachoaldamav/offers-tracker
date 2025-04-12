@@ -87,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "catoise-a45568",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "catoise-a45568",
@@ -96,7 +103,24 @@
   ],
   "developerDisplayName": "Portcullis Enterprises",
   "publisherDisplayName": "Portcullis Enterprises",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 299,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-03-21T19:00:00.000Z",
   "pcReleaseDate": "2023-03-21T19:00:00.000Z",
