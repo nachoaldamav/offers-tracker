@@ -110,11 +110,56 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "teenage-mutant-ninja-turtles-shredders-revenge-teenage-mutant-ninja-turtles-radical-reptiles-949cdc",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "teenage-mutant-ninja-turtles-shredders-revenge",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "teenage-mutant-ninja-turtles-shredders-revenge-tmnt-shredders-revenge-ultimate-edition-a0b996",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "teenage-mutant-ninja-turtles-shredders-revenge-dimension-shellshock-3df36e",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "teenage-mutant-ninja-turtles-shredders-revenge",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Tribute Games Inc.",
   "publisherDisplayName": "Dotemu",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1624,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 875,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "0dc8d43a8516488b8f21533f6aeb40fc"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-07-02T11:00:00.000Z",
   "pcReleaseDate": "2022-06-11T17:00:00.000Z",
