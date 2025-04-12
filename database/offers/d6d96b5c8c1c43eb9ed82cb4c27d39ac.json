@@ -135,7 +135,22 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "starport-trading-company-9b3538",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "starport-trading-company-faq-d943a8",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "starport-trading-company-spaceport-trading-company-demo-3534a0",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "starport-trading-company-9b3538",
@@ -144,7 +159,24 @@
   ],
   "developerDisplayName": "Digital Tectonics, LLC",
   "publisherDisplayName": "Digital Tectonics, LLC",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-12T17:00:00.000Z",
   "pcReleaseDate": "2023-11-08T21:00:00.000Z",
