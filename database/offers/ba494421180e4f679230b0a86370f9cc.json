@@ -91,11 +91,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "realmroyale-e3f4e3",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "realmroyale-faq-01bd2a",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "realmroyale-e3f4e3",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "DPOF Studios",
   "publisherDisplayName": "PerditumGames",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-08-23T14:00:00.000Z",
   "pcReleaseDate": "2024-08-22T22:00:00.000Z",
