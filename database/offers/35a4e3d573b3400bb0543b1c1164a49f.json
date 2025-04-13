@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-04-02T09:00:00.000Z",
   "creationDate": "2023-03-17T21:07:08.202Z",
-  "lastModifiedDate": "2025-03-10T12:09:37.759Z",
+  "lastModifiedDate": "2025-04-13T13:33:09.733Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -95,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tear-of-time-lost-memory-add761",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "tear-of-time-lost-memory-add761",
@@ -104,7 +111,24 @@
   ],
   "developerDisplayName": "SIMPRA ORG",
   "publisherDisplayName": "SIMPRA ORG",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 399,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-02T09:00:00.000Z",
   "pcReleaseDate": "2022-03-01T08:00:00.000Z",
