@@ -99,7 +99,18 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "forgotten-bunker-1939-eee8fa",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "forgotten-bunker-1939-faq-8f5f13",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "forgotten-bunker-1939-eee8fa",
@@ -108,7 +119,28 @@
   ],
   "developerDisplayName": "LEMIOUTGAMES",
   "publisherDisplayName": "Jacob Jufeili",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 587,
+      "originalPrice": 1399,
+      "voucherDiscount": 0,
+      "discount": 812,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "2e203d0efa6c4aae98db8e8a388177c5"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-09-18T10:00:00.000Z",
   "pcReleaseDate": "2024-09-18T10:00:00.000Z",
