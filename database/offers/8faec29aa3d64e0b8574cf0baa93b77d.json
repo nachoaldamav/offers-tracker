@@ -79,18 +79,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "truck-world-australia-3c2185",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "truck-world-australia-truck-world-driving-school-a559b9",
-        "pageType": "offer"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "truck-world-australia-3c2185",
@@ -99,7 +88,24 @@
   ],
   "developerDisplayName": "Truck World Studio",
   "publisherDisplayName": "HypeTrain Digital LTD",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",

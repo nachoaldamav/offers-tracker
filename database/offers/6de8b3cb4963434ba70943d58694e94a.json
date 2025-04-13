@@ -91,18 +91,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "voor-de-kroon-4820a4",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "voor-de-kroon-faq-592a1a",
-        "pageType": "info"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "voor-de-kroon-4820a4",
@@ -111,7 +100,24 @@
   ],
   "developerDisplayName": "Future Minimalism",
   "publisherDisplayName": "Future Minimalism",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2022-12-09T09:00:00.000Z",
