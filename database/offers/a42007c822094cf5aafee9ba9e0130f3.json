@@ -91,7 +91,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "moonfire-a-seekers-saga-moonfire-a-seekers-saga-deluxe-edition-101be6",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "moonfire-a-seekers-saga-498a9b",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "moonfire-a-seekers-saga-498a9b",
@@ -100,24 +111,7 @@
   ],
   "developerDisplayName": "Moon Munch Studio",
   "publisherDisplayName": "MediBang Inc.",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1999,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2024-08-07T02:00:00.000Z",
   "pcReleaseDate": "2024-08-07T02:00:00.000Z",
