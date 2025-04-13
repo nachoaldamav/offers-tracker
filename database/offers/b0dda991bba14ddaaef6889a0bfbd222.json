@@ -74,11 +74,51 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "war-hospital--digital-artbook",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "war-hospital--original-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "war-hospital--x-ray",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "war-hospital--supporter-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "war-hospital",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Brave Lamb",
   "publisherDisplayName": "Nacon",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-11T09:00:00.000Z",
   "pcReleaseDate": "2024-01-11T09:00:00.000Z",
