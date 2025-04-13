@@ -103,7 +103,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "fabledom-6d35f7",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "fabledom-6d35f7",
@@ -112,7 +119,28 @@
   ],
   "developerDisplayName": "Grenaa Games",
   "publisherDisplayName": "Dear Villagers",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1259,
+      "originalPrice": 2099,
+      "voucherDiscount": 0,
+      "discount": 840,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "1378e49a154d4c549c7ef95009d4f6cc"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-05-13T13:00:00.000Z",
   "pcReleaseDate": "2023-04-13T15:00:00.000Z",
