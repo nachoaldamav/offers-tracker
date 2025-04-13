@@ -110,11 +110,87 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "mordhau--editor",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "mordhau",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "mordhau--grotesque-set",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "mordhau--dragon-set",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "mordhau--supporter-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "mordhau--continental-voice-pack-2",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "mordhau--continental-voice-pack-1",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "mordhau--lion-set",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "mordhau--archduke-set",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "mordhau--gold-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "mordhau--platinum-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "mordhau--adventurer-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "mordhau--banisher-weapon-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "mordhau--diamond-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Triternion",
   "publisherDisplayName": "Triternion",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-13T15:00:00.000Z",
   "pcReleaseDate": "2019-04-29T00:00:00.000Z",
