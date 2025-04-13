@@ -95,11 +95,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "broken-roads-c8f827",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "broken-roads-c8f827",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Drop Bear Bytes",
   "publisherDisplayName": "Versus Evil",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1749,
+      "originalPrice": 3499,
+      "voucherDiscount": 0,
+      "discount": 1750,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "48ded53d84a0490cab16a16d20c664d3"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-04-10T17:00:00.000Z",
   "pcReleaseDate": "2024-04-10T17:00:00.000Z",
