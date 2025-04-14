@@ -103,8 +103,24 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "asilium-4f1858",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "asilium-faq-499fcf",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "asilium-4f1858",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Asilium Yazilim A.S",
   "publisherDisplayName": "Asilium Yazilim A.S",
   "price": null,

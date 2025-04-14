@@ -91,11 +91,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "machinika-museum-a1ef20",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "machinika-museum-a1ef20",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Littlefield Studio",
   "publisherDisplayName": "PID Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 119,
+      "originalPrice": 799,
+      "voucherDiscount": 0,
+      "discount": 680,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "0f1259b1d8364415883bab50f8f36d13"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-05-16T15:00:00.000Z",
   "pcReleaseDate": "2021-03-23T16:00:00.000Z",

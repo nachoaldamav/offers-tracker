@@ -103,7 +103,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "world-of-contraptions-6dbc07",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "world-of-contraptions-6dbc07",
@@ -112,7 +119,28 @@
   ],
   "developerDisplayName": "JCP Games Studio",
   "publisherDisplayName": "JCP Games Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 249,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 750,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "68c983e8363b4787a7ef85ebb7eb46d9"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-05-29T11:00:00.000Z",
   "pcReleaseDate": "2022-03-24T18:00:00.000Z",

@@ -94,11 +94,51 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "convergence-a-league-of-legends-story",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "convergence-a-league-of-legends-story--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "convergence-a-league-of-legends-story--star-guardian-ekko",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "convergence-a-league-of-legends-story--ruined-ekko-skin",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "convergence-a-league-of-legends-story--golden-ekko-skin",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Double Stallion",
   "publisherDisplayName": "Riot Forge",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-05-23T16:00:00.000Z",
   "pcReleaseDate": "2023-05-23T16:00:00.000Z",

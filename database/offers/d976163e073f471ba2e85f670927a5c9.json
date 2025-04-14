@@ -95,7 +95,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "nocturnal-ef3fa0",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "nocturnal-nocturnal-soundtrack-c8d1e7",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "nocturnal-ef3fa0",
@@ -104,7 +115,28 @@
   ],
   "developerDisplayName": "Sunnyside Games",
   "publisherDisplayName": "Dear Villagers",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 339,
+      "originalPrice": 1699,
+      "voucherDiscount": 0,
+      "discount": 1360,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "475446fbf42f47eebc67a487b76fe821"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-06-07T15:00:00.000Z",
   "pcReleaseDate": "2023-06-07T15:00:00.000Z",

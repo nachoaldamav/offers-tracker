@@ -103,11 +103,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "potato-sack-racing-simulator-2024-3c3c83",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "potato-sack-racing-simulator-2024-potato-sack-racing-simulator-2024-demo-94438d",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "potato-sack-racing-simulator-2024-3c3c83",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Kimulator's Films",
   "publisherDisplayName": "Kimulator's Films",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-05T11:00:00.000Z",
   "pcReleaseDate": "2024-01-05T11:00:00.000Z",
