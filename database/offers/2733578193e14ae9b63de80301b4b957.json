@@ -119,11 +119,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "duckxplanet-faq-e458c0",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "duckxplanet-6ae46f",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "duckxplanet-6ae46f",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "ReymelGames",
   "publisherDisplayName": "Reymel Import and Marketing LTD",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 199,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-08-21T18:57:40.524Z",
   "pcReleaseDate": "2024-08-21T18:57:40.524Z",
