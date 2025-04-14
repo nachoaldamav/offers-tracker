@@ -114,8 +114,20 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "colt-canyon",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "colt-canyon",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Retrific",
   "publisherDisplayName": "Headup",
   "price": null,

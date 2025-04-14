@@ -118,8 +118,28 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "kraken-academy",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "kraken-academy--end-of-the-world-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "kraken-academy--soundtrack",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "kraken-academy",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Happy Broccoli Games",
   "publisherDisplayName": "Fellow Traveller",
   "price": null,
