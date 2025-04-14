@@ -130,28 +130,26 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": " Mothership Entertainment LLC",
-  "publisherDisplayName": "Team17",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 2999,
-      "originalPrice": 2999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": []
+        "pageSlug": "aven-colony",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "aven-colony--the-cerulean-vale",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "aven-colony--soundtrack",
+        "pageType": "addon--cms-hybrid"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": " Mothership Entertainment LLC",
+  "publisherDisplayName": "Team17",
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2021-11-04T15:00:00.000Z",
   "pcReleaseDate": "2017-07-25T15:00:00.000Z",
