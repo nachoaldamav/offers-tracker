@@ -110,7 +110,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "prehistoric-kingdom",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "prehistoric-kingdom--early-access-faq",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "prehistoric-kingdom",
