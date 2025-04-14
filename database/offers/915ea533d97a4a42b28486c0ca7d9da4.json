@@ -95,11 +95,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "creamare-the-game-4a9c93",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "creamare-the-game-faq-3305ac",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "creamare-the-game-4a9c93",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "3D Research Srl",
   "publisherDisplayName": "CREAMARE Project",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-04-30T00:00:00.000Z",
   "pcReleaseDate": "2025-02-17T07:00:00.000Z",
