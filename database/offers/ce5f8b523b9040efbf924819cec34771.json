@@ -98,22 +98,7 @@
       "path": "applications"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "master-of-magic--rise-of-the-soultrapped",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "master-of-magic",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "master-of-magic--scourge-of-the-sea",
-        "pageType": "offer"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "master-of-magic",
@@ -122,7 +107,24 @@
   ],
   "developerDisplayName": "MuHa Games",
   "publisherDisplayName": "Slitherine Ltd.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-12-13T15:40:00.000Z",
   "pcReleaseDate": "2022-12-13T15:40:00.000Z",

@@ -127,22 +127,7 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "star-atlas-bead34",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "star-atlas-star-atlas-breakpoint-f57ece",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "star-atlas-faq-fb116c",
-        "pageType": "info"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "star-atlas-bead34",
@@ -151,7 +136,24 @@
   ],
   "developerDisplayName": "ATMTA, Inc.",
   "publisherDisplayName": "ATMTA, Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-12-31T00:00:00.000Z",
   "pcReleaseDate": "2022-12-31T00:00:00.000Z",

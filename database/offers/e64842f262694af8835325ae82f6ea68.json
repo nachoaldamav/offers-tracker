@@ -83,22 +83,7 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "sailingera-2233-dlc-372417",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "sailingera-450a80",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "sailingera-dlc_the-end-of-the-world-2db255",
-        "pageType": "offer"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "sailingera-450a80",
@@ -107,7 +92,24 @@
   ],
   "developerDisplayName": "GY Games",
   "publisherDisplayName": "bilibili",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-01-12T03:00:00.000Z",
   "pcReleaseDate": "2023-01-12T03:00:00.000Z",
