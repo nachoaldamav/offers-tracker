@@ -143,11 +143,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "once-upon-a-puppet-08ad66",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "once-upon-a-puppet-supporter-bundle-28bcf3",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "once-upon-a-puppet-supporter-pack-d28f7c",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "once-upon-a-puppet-08ad66",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Flatter Than Earth",
   "publisherDisplayName": "Daedalic Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-04-23T17:00:00.000Z",
   "pcReleaseDate": "2025-04-23T17:00:00.000Z",
