@@ -103,7 +103,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "asilium-2-b5402e",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "asilium-2-faq-f0fb6c",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "asilium-2-b5402e",
@@ -112,7 +123,24 @@
   ],
   "developerDisplayName": "Asilium Yazilim A.S",
   "publisherDisplayName": "Asilium Yazilim A.S",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-09-09T22:00:00.000Z",
   "pcReleaseDate": "2024-09-09T22:00:00.000Z",
