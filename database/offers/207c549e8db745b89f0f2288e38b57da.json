@@ -91,13 +91,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "worshippers-of-cthulhu-0fd3a2",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "worshippers-of-cthulhu-0fd3a2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "worshippers-of-cthulhu-faq-7f7299",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Crazy Goat Games",
   "publisherDisplayName": "Crazy Goat Games",
   "price": {

@@ -135,13 +135,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "netherak-demons-a419cf",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "netherak-demons-faq-ed21a9",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "netherak-demons-a419cf",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Netherak Entertaiment",
   "publisherDisplayName": "Netherak Entertaiment",
   "price": {

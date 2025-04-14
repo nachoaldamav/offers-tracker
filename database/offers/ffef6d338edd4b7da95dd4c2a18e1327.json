@@ -95,13 +95,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "tappyfowl-b7ce1f",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tappyfowl-b7ce1f",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "tappyfowl-faq-2b4fa4",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Thirdweb",
   "publisherDisplayName": "Thirdweb",
   "price": {

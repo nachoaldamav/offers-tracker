@@ -99,13 +99,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "project-qrs-a41a77",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "project-qrs-a41a77",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "project-qrs-faq-5f8bfc",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Quiet Rift Studios",
   "publisherDisplayName": "Quiet Rift Studios",
   "price": {
