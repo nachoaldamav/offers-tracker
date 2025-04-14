@@ -83,7 +83,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "they-always-run-965bb3",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "they-always-run-965bb3",
@@ -92,24 +99,7 @@
   ],
   "developerDisplayName": "Alawar",
   "publisherDisplayName": "Alawar",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 999,
-      "originalPrice": 999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2021-10-20T17:00:00.000Z",
   "pcReleaseDate": "2021-10-20T17:00:00.000Z",
