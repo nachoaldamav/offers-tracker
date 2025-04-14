@@ -106,11 +106,35 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "redout-space-assault",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-09-01T17:00:00.000Z",
   "pcReleaseDate": "2019-10-05T15:00:00.000Z",
