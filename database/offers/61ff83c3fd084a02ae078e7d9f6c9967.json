@@ -99,7 +99,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "line-time-fb0cd9",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "line-time-fb0cd9",
@@ -108,24 +115,7 @@
   ],
   "developerDisplayName": "FaMo9 Studio",
   "publisherDisplayName": "2P Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 599,
-      "originalPrice": 599,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2024-09-12T03:00:00.000Z",
   "pcReleaseDate": "2024-09-12T03:00:00.000Z",
