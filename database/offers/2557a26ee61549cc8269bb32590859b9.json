@@ -115,8 +115,24 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "smalland",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "smalland--faq",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "smalland",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Merge Games Ltd.",
   "publisherDisplayName": "Merge Games Ltd.",
   "price": {
