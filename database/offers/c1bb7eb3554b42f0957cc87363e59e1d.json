@@ -146,7 +146,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "void-bastards--bang-tydy",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "void-bastards",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
