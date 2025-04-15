@@ -127,7 +127,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "quiet-is-the-eyes-75ac86",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "quiet-is-the-eyes-75ac86",
@@ -136,7 +143,24 @@
   ],
   "developerDisplayName": "Ally Guo, Rachel Perry",
   "publisherDisplayName": "USC Games Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-04-11T18:00:02.000Z",
   "pcReleaseDate": "2023-12-18T18:00:00.000Z",
