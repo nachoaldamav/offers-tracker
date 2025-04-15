@@ -91,11 +91,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "cassiodora-090292",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "cassiodora-090292",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Void Studio",
   "publisherDisplayName": "PID Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 449,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 1050,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "aaef82ffb4b043bbaf22895bb2fbcb51"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-12-15T16:00:00.000Z",
   "pcReleaseDate": "2022-12-15T16:00:00.000Z",
