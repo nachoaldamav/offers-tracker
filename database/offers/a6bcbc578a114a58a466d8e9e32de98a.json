@@ -91,7 +91,18 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-sisters-2-road-to-fame-287bbe",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-sisters-2-road-to-fame-preorder-skin-690441",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-sisters-2-road-to-fame-287bbe",
@@ -100,7 +111,28 @@
   ],
   "developerDisplayName": "Balio Studio",
   "publisherDisplayName": "Microids",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1199,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 1800,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "8e7c071f64594034a1c5a0c8a55454ef"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-05T08:00:00.000Z",
   "pcReleaseDate": "2023-10-05T08:00:00.000Z",
