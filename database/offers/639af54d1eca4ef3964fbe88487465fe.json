@@ -106,8 +106,23 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "banners-of-ruin--supporter-bundle-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "banners-of-ruin",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "banners-of-ruin--supporter-pack-dlc",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
   "price": null,
