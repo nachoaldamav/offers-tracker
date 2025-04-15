@@ -99,11 +99,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "havens-compass-c31bb4",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "havens-compass-faq-31efac",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "havens-compass-c31bb4",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Ghost Ivy Development Studio AG",
   "publisherDisplayName": "Ghost Ivy Development Studio AG",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-08-15T19:00:00.000Z",
   "pcReleaseDate": "2023-08-15T19:00:00.000Z",
