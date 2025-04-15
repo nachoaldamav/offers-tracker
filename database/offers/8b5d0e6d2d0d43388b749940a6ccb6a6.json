@@ -127,7 +127,34 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-lord-of-the-rings-return-to-moria-the-lord-of-the-rings-return-to-moria-dlc-2-holiday-pack-10c8d8",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-lord-of-the-rings-return-to-moria-the-lord-of-the-rings-return-to-moria-dlc-1-rohan-armor-089fed",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-lord-of-the-rings-return-to-moria-the-lord-of-the-rings-return-to-moria-closed-beta-885fb4",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-lord-of-the-rings-return-to-moria-dev-only-edition-to-test-base-game-b8284a",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-lord-of-the-rings-return-to-moria-the-lord-of-the-rings-return-to-moria-entcraft-pack-0f315c",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-lord-of-the-rings-return-to-moria-f01344",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-lord-of-the-rings-return-to-moria-f01344",
@@ -136,7 +163,24 @@
   ],
   "developerDisplayName": "Free Range Games",
   "publisherDisplayName": "North Beach Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": false,
   "releaseDate": "2023-10-24T13:00:00.000Z",
   "pcReleaseDate": "2023-10-24T13:00:00.000Z",

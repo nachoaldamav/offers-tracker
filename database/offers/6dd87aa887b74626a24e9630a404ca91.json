@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-04-15T13:00:00.000Z",
   "creationDate": "2025-02-19T19:09:21.694Z",
-  "lastModifiedDate": "2025-04-10T15:30:30.713Z",
+  "lastModifiedDate": "2025-04-15T13:00:02.505Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -20,6 +20,10 @@
     {
       "type": "Thumbnail",
       "url": "https://cdn1.epicgames.com/spt-assets/6d0a83f4309e47eb914989709c8d812f/lushfoil-photography-sim-6m7z5.jpg"
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://fb3c7fa8-de6f-4d33-aade-1069a7fbdd44?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F6d0a83f4309e47eb914989709c8d812f%2Flushfoil-photography-sim-video-zbeea.png"
     },
     {
       "type": "heroCarouselVideo",
@@ -143,11 +147,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "lushfoil-photography-sim-080cce",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "lushfoil-photography-sim-080cce",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Matt Newell",
   "publisherDisplayName": "Annapurna Interactive",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1199,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 300,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "1756031c4f1247249b0735effdb610cc"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-04-15T13:00:00.000Z",
   "pcReleaseDate": "2025-04-15T13:00:00.000Z",

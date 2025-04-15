@@ -99,7 +99,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "murder-on-space-station-52-cf249f",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "murder-on-space-station-52-murder-on-space-station-52-demo-e59a0f",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "murder-on-space-station-52-cf249f",
@@ -108,7 +119,24 @@
   ],
   "developerDisplayName": "Made From Strings",
   "publisherDisplayName": "Dionous Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-09-25T10:00:00.000Z",
   "pcReleaseDate": "2024-09-25T10:00:00.000Z",
