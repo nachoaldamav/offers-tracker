@@ -110,7 +110,14 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-last-show-of-mr-chardish",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-last-show-of-mr-chardish",
@@ -119,7 +126,28 @@
   ],
   "developerDisplayName": "Punk Notion",
   "publisherDisplayName": "Anshar Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 700,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "95ef7719bbc34e3194c4ede9c01f99a7"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-08-12T13:00:00.000Z",
   "pcReleaseDate": "2020-11-05T13:00:00.000Z",
