@@ -103,11 +103,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "mirrors-edge-774f40",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "mirrors-edge-774f40",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Dice",
   "publisherDisplayName": "Electronic Arts",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 699,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1300,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "2db044f357d64b0c90806a92720fdc7e"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-05-23T20:00:00.000Z",
   "pcReleaseDate": "2009-01-13T06:00:00.000Z",
