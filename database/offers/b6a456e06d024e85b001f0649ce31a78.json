@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-11-11T21:00:00.000Z",
   "creationDate": "2023-10-20T05:15:09.659Z",
-  "lastModifiedDate": "2025-04-08T15:00:33.466Z",
+  "lastModifiedDate": "2025-04-15T15:00:32.093Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,10 +50,6 @@
     {
       "id": "9547",
       "name": "Windows"
-    },
-    {
-      "id": "29899",
-      "name": "Deals of the Week"
     }
   ],
   "items": [
@@ -91,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "royal-defense-invisible-threat-b39335",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "royal-defense-invisible-threat-b39335",
@@ -100,7 +103,24 @@
   ],
   "developerDisplayName": "Creobit",
   "publisherDisplayName": "8Floor ltd",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-11-11T21:00:00.000Z",
   "pcReleaseDate": "2014-12-03T21:00:00.000Z",

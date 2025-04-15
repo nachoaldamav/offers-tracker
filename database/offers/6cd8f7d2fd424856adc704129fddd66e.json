@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-11-02T21:00:00.000Z",
   "creationDate": "2023-10-20T05:12:15.068Z",
-  "lastModifiedDate": "2025-04-08T15:00:31.768Z",
+  "lastModifiedDate": "2025-04-15T15:00:30.700Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,10 +46,6 @@
     {
       "id": "9547",
       "name": "Windows"
-    },
-    {
-      "id": "29899",
-      "name": "Deals of the Week"
     }
   ],
   "items": [
@@ -87,11 +83,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "mosaics-galore-4fbedf",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "mosaics-galore-4fbedf",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Creobit",
   "publisherDisplayName": "8Floor ltd",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-11-02T21:00:00.000Z",
   "pcReleaseDate": "2018-07-26T21:00:00.000Z",

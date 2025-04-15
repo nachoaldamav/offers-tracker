@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-12-26T23:00:00.000Z",
   "creationDate": "2023-03-13T20:42:02.879Z",
-  "lastModifiedDate": "2025-04-08T15:00:33.466Z",
+  "lastModifiedDate": "2025-04-15T15:00:32.093Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,10 +46,6 @@
     {
       "id": "9547",
       "name": "Windows"
-    },
-    {
-      "id": "29899",
-      "name": "Deals of the Week"
     },
     {
       "id": "1198",
@@ -95,7 +91,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "argol-kronoss-castle-84d829",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "argol-kronoss-castle-84d829",
@@ -104,7 +107,24 @@
   ],
   "developerDisplayName": "Olivier Poli",
   "publisherDisplayName": "Olivier Poli",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-26T23:00:00.000Z",
   "pcReleaseDate": "2023-12-24T23:00:00.000Z",

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-11-05T21:00:00.000Z",
   "creationDate": "2023-10-20T05:13:56.976Z",
-  "lastModifiedDate": "2025-04-08T15:00:31.765Z",
+  "lastModifiedDate": "2025-04-15T15:00:30.697Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,10 +46,6 @@
     {
       "id": "9547",
       "name": "Windows"
-    },
-    {
-      "id": "29899",
-      "name": "Deals of the Week"
     }
   ],
   "items": [
@@ -87,11 +83,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "mystery-solitaire-the-black-raven-65336d",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "mystery-solitaire-the-black-raven-65336d",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Melon Games",
   "publisherDisplayName": "8Floor ltd",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-11-05T21:00:00.000Z",
   "pcReleaseDate": "2019-05-06T21:00:00.000Z",

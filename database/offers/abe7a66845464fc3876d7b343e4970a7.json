@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-02-01T21:00:00.000Z",
   "creationDate": "2023-12-13T04:32:07.607Z",
-  "lastModifiedDate": "2025-04-08T15:00:31.768Z",
+  "lastModifiedDate": "2025-04-15T15:00:30.699Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,10 +50,6 @@
     {
       "id": "9547",
       "name": "Windows"
-    },
-    {
-      "id": "29899",
-      "name": "Deals of the Week"
     }
   ],
   "items": [
@@ -91,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "argonauts-agency-captive-of-circe-547604",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "argonauts-agency-captive-of-circe-547604",
@@ -102,10 +105,10 @@
   "publisherDisplayName": "8Floor ltd",
   "price": {
     "totalPrice": {
-      "discountPrice": 199,
+      "discountPrice": 499,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 300,
+      "discount": 0,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -114,11 +117,7 @@
     },
     "lineOffers": [
       {
-        "appliedRules": [
-          {
-            "id": "f1603ed28ee84cca981f7149be7b27d9"
-          }
-        ]
+        "appliedRules": []
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-09-18T10:00:00.000Z",
   "creationDate": "2023-12-03T23:23:09.440Z",
-  "lastModifiedDate": "2025-04-08T15:00:33.465Z",
+  "lastModifiedDate": "2025-04-15T15:00:32.093Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,10 +42,6 @@
     {
       "id": "9547",
       "name": "Windows"
-    },
-    {
-      "id": "29899",
-      "name": "Deals of the Week"
     },
     {
       "id": "1294",
@@ -99,7 +95,18 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "forgotten-bunker-1939-eee8fa",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "forgotten-bunker-1939-faq-8f5f13",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "forgotten-bunker-1939-eee8fa",
@@ -110,10 +117,10 @@
   "publisherDisplayName": "Jacob Jufeili",
   "price": {
     "totalPrice": {
-      "discountPrice": 587,
+      "discountPrice": 1399,
       "originalPrice": 1399,
       "voucherDiscount": 0,
-      "discount": 812,
+      "discount": 0,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -122,11 +129,7 @@
     },
     "lineOffers": [
       {
-        "appliedRules": [
-          {
-            "id": "2e203d0efa6c4aae98db8e8a388177c5"
-          }
-        ]
+        "appliedRules": []
       }
     ]
   },

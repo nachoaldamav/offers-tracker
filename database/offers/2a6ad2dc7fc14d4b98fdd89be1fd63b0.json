@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-10-31T13:00:00.000Z",
   "creationDate": "2023-06-05T23:00:39.448Z",
-  "lastModifiedDate": "2025-04-08T15:00:31.768Z",
+  "lastModifiedDate": "2025-04-15T15:00:30.699Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,10 +46,6 @@
     {
       "id": "9547",
       "name": "Windows"
-    },
-    {
-      "id": "29899",
-      "name": "Deals of the Week"
     },
     {
       "id": "1310",
@@ -99,11 +95,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-silent-city-chapter-2-cccb19",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-silent-city-chapter-2-faq-3c692c",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "the-silent-city-chapter-2-cccb19",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "LEMIOUTGAMES",
   "publisherDisplayName": "Jacob.K.Jufeili",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 899,
+      "originalPrice": 899,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-31T13:00:00.000Z",
   "pcReleaseDate": "2023-10-31T13:00:00.000Z",

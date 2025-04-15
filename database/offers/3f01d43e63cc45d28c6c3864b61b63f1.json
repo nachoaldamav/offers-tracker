@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-02-13T21:00:00.000Z",
   "creationDate": "2023-12-13T04:36:07.466Z",
-  "lastModifiedDate": "2025-04-08T15:00:31.766Z",
+  "lastModifiedDate": "2025-04-15T15:00:30.697Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -48,10 +48,6 @@
       "name": "Windows"
     },
     {
-      "id": "29899",
-      "name": "Deals of the Week"
-    },
-    {
       "id": "1181",
       "name": "Card Game"
     }
@@ -91,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "pirate-mosaic-puzzle-caribbean-treasures-86cb74",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "pirate-mosaic-puzzle-caribbean-treasures-86cb74",
@@ -102,10 +105,10 @@
   "publisherDisplayName": "8Floor ltd",
   "price": {
     "totalPrice": {
-      "discountPrice": 149,
+      "discountPrice": 499,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 350,
+      "discount": 0,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -114,11 +117,7 @@
     },
     "lineOffers": [
       {
-        "appliedRules": [
-          {
-            "id": "97a3e3aa2d374726938234913ca74126"
-          }
-        ]
+        "appliedRules": []
       }
     ]
   },

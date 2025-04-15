@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-04-15T15:00:00.000Z",
   "creationDate": "2024-11-21T13:43:39.980Z",
-  "lastModifiedDate": "2025-04-14T16:26:51.040Z",
+  "lastModifiedDate": "2025-04-15T15:00:30.465Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -76,6 +76,10 @@
       "name": "Windows"
     },
     {
+      "id": "29899",
+      "name": "Deals of the Week"
+    },
+    {
       "id": "1263",
       "name": "Indie"
     }
@@ -119,11 +123,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "project-deepweb-a041a5",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "project-deepweb-a041a5",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "NightCat Studios",
   "publisherDisplayName": "NightCat Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 479,
+      "originalPrice": 799,
+      "voucherDiscount": 0,
+      "discount": 320,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "0510bdc06575447783418247f832dcde"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-04-15T15:00:00.000Z",
   "pcReleaseDate": "2020-04-15T16:00:00.000Z",
