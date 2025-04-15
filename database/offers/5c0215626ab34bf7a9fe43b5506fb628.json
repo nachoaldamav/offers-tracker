@@ -104,15 +104,27 @@
     }
   ],
   "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "booze-and-ooze-42a95b",
-      "pageType": "productHome"
-    }
-  ],
+  "offerMappings": null,
   "developerDisplayName": "AGORA:GAMEPLAY",
   "publisherDisplayName": "AGORA:GAMEPLAY",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2026-12-31T00:00:00.000Z",
   "pcReleaseDate": "2025-03-31T00:00:00.000Z",

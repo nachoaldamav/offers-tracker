@@ -92,15 +92,27 @@
     }
   ],
   "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "the-guardians-393182",
-      "pageType": "productHome"
-    }
-  ],
+  "offerMappings": null,
   "developerDisplayName": "Neutron Studios LLC",
   "publisherDisplayName": "Neutron Studios LLC",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2026-12-31T00:00:00.000Z",
   "pcReleaseDate": "2025-09-30T00:00:00.000Z",
