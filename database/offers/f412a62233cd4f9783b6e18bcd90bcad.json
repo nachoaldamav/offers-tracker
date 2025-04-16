@@ -130,7 +130,28 @@
   ],
   "developerDisplayName": "New Games Order",
   "publisherDisplayName": "META Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 149,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 850,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "f1b750de4f4545ca825759cb3a9955e2"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-07-13T15:00:00.000Z",
   "pcReleaseDate": "2020-10-08T15:22:24.000Z",
