@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-05-30T20:00:00.000Z",
   "creationDate": "2024-05-30T18:36:13.068Z",
-  "lastModifiedDate": "2025-04-13T19:17:12.276Z",
+  "lastModifiedDate": "2025-04-16T13:43:35.437Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "1188",
       "name": "RELAXING"
+    },
+    {
+      "id": "21125",
+      "name": "Competitive Community"
     },
     {
       "id": "32709",
@@ -159,11 +163,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "plants-vs-zombies-gw2-deluxe-edition-99b9fd",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "plants-vs-zombies-gw2-deluxe-edition-99b9fd",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "PopCap",
   "publisherDisplayName": "Electronic Arts",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 899,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 2100,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "3f4562b2023749688adf4a898e5a28ae"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-05-30T20:00:00.000Z",
   "pcReleaseDate": "2016-02-21T22:00:00.000Z",
