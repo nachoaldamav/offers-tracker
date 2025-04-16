@@ -131,11 +131,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "lab-rat-d2b044",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "lab-rat-d2b044",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Chump Squad",
   "publisherDisplayName": "Chump Squad",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1599,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "55edf80aa3b3488dbe1c80d798df9f74"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-04-15T17:00:00.000Z",
   "pcReleaseDate": "2025-04-15T17:00:00.000Z",
