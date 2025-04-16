@@ -114,11 +114,55 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sid-meiers-civilization-vii--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "sid-meiers-civilization-vii",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "sid-meiers-civilization-vii--crossroads-of-the-world-collection",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "sid-meiers-civilization-vii--deluxe-content-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "sid-meiers-civilization-vii--standard-to-deluxe-edition-upgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "sid-meiers-civilization-vii--tecumseh-and-shawnee-pack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Firaxis Games",
   "publisherDisplayName": "2K",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 6999,
+      "originalPrice": 6999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-02-10T23:00:00.000Z",
   "pcReleaseDate": "2025-02-10T23:00:00.000Z",
