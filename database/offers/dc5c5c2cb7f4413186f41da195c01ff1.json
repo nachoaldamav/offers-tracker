@@ -87,7 +87,30 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "asterigos-424313",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "asterigos-asterigos-mini-digital-art-book-03390f",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "asterigos-asterigos-complete-original-soundtrack-bb02a6",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "asterigos-asterigos-call-of-the-paragons-879933",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "asterigos-asterigos-preorder-bonus-pack-75818c",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "asterigos-424313",
@@ -96,7 +119,24 @@
   ],
   "developerDisplayName": "Acme Gamestudio",
   "publisherDisplayName": "tinyBuild",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3499,
+      "originalPrice": 3499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-10-11T17:00:00.000Z",
   "pcReleaseDate": "2022-10-11T17:00:00.000Z",
