@@ -115,7 +115,18 @@
       "path": "games/edition"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "darksiders-genesis",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "darksiders-genesis--digital-extras",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
