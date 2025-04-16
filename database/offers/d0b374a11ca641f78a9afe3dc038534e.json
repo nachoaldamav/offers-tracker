@@ -108,15 +108,27 @@
     }
   ],
   "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "voyager-bb2088",
-      "pageType": "productHome"
-    }
-  ],
+  "offerMappings": null,
   "developerDisplayName": "Refactor Games",
   "publisherDisplayName": "RFLXT Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",
