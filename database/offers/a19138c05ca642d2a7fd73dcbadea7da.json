@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-12-01T08:00:00.000Z",
   "creationDate": "2020-08-18T22:09:41.713Z",
-  "lastModifiedDate": "2025-04-10T22:46:43.016Z",
+  "lastModifiedDate": "2025-04-16T10:01:34.370Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -108,6 +108,10 @@
       "name": "Amazing Characters"
     },
     {
+      "id": "21140",
+      "name": "Amazing Storytelling"
+    },
+    {
       "id": "21141",
       "name": "Extremely Fun"
     },
@@ -178,7 +182,66 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "predecessor--early-access-faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "predecessor--epic-bundle",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "predecessor--1650-platinum-coins",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "predecessor-500-platinum-coins-530b9e",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "predecessor--600-platinum-coins",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "predecessor-600-platinum-coins-417d8a",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "predecessor-1300-platinum-coins-25903b",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "predecessor--legendary-bundle",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "predecessor-2500-platinum-coins-d9bddf",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "predecessor--rare-bundle",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "predecessor--5900-platinum-coins",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "predecessor--12200-platinum-coins",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "predecessor--2800-platinum-coins",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "predecessor",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "predecessor",
@@ -187,7 +250,24 @@
   ],
   "developerDisplayName": "Omeda Studios",
   "publisherDisplayName": "Omeda Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-12-01T08:00:00.000Z",
   "pcReleaseDate": null,
