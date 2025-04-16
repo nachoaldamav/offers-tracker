@@ -194,7 +194,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "motogp-21",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "motogp-21--vip-multiplayer-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "motogp-21--limited-edition-liveries",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "motogp-21",
