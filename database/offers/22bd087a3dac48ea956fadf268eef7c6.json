@@ -91,11 +91,40 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "slavicpunk-oldtimer-10ed1c",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "slavicpunk-oldtimer-10ed1c",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Red Square Games",
   "publisherDisplayName": "Red Square Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-08-11T18:00:00.000Z",
   "pcReleaseDate": "2023-06-28T09:00:00.000Z",
