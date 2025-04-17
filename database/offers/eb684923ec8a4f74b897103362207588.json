@@ -82,8 +82,23 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "monopoly-madness",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "monopoly-madness--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "monopoly-madness--dino-city-dlc",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Ubisoft",
   "publisherDisplayName": "Ubisoft",
   "price": null,
