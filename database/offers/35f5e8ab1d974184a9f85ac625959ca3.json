@@ -95,22 +95,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "below-the-stone-below-the-stone-demo-6a335c",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "below-the-stone-2be6fa",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "below-the-stone-faq-45b26d",
-        "pageType": "info"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "below-the-stone-2be6fa",
@@ -119,7 +104,24 @@
   ],
   "developerDisplayName": "Strollart",
   "publisherDisplayName": "Apogee Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-11-19T16:00:00.000Z",
   "pcReleaseDate": "2023-11-17T20:30:00.000Z",
