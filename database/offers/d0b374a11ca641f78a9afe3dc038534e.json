@@ -107,23 +107,13 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "voyager-bb2088",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "voyager-season-pass-4a4802",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "voyager-faq-6c5af1",
-        "pageType": "info"
-      }
-    ]
-  },
-  "offerMappings": null,
+  "catalogNs": null,
+  "offerMappings": [
+    {
+      "pageSlug": "voyager-bb2088",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Refactor Games",
   "publisherDisplayName": "RFLXT Studio",
   "price": null,
