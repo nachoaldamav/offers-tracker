@@ -103,11 +103,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "oddsparks-faq-0d6527",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "oddsparks-58440c",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "oddsparks-58440c",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Massive Miniteam",
   "publisherDisplayName": "HandyGames",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1979,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 1020,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "a86dafda1814443e93b079519a547e14"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-04-24T13:00:00.000Z",
   "pcReleaseDate": "2024-04-24T13:00:00.000Z",
