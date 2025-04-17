@@ -130,28 +130,50 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": "INGAME STUDIOS",
-  "publisherDisplayName": "505 Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 3999,
-      "originalPrice": 3999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": []
+        "pageSlug": "crime-boss--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "crime-boss--tactical-weapon-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "crime-boss--dragons-gold-cup",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "crime-boss--heavy-hitters-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "crime-boss--bakers-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "crime-boss--jupiter-character-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "crime-boss--cagnalis-order",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "crime-boss",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "crime-boss--cracker-character-pack",
+        "pageType": "addon--cms-hybrid"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": "INGAME STUDIOS",
+  "publisherDisplayName": "505 Games",
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-03-28T15:00:00.000Z",
   "pcReleaseDate": "2023-03-28T15:00:00.000Z",
