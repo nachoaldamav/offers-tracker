@@ -91,7 +91,34 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "earthlock-e7d979",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "earthlock-earthlock-comic-book-1-the-storm-dog-and-the-clay-orchid-d52245",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "earthlock-earthlock-comic-book-4-gnart-tigermoth-the-last-ingredient-e61af7",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "earthlock-earthlock-comic-book-2-gnart-tigermoth-trouble-in-ramoo-b32554",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "earthlock-earthlock-comic-book-5-in-the-shadow-of-mephos-1177bc",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "earthlock-earthlock-comic-book-3-gnart-tigermoth-chaos-in-konkylia-4b7afa",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "earthlock-e7d979",
@@ -100,24 +127,7 @@
   ],
   "developerDisplayName": "Snowcastle Games",
   "publisherDisplayName": "Snowcastle Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 2999,
-      "originalPrice": 2999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-11-16T16:00:00.000Z",
   "pcReleaseDate": "2018-03-08T17:00:00.000Z",
