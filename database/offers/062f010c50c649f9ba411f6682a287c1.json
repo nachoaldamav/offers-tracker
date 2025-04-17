@@ -103,7 +103,22 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "kakele-online-mmorpg-790f2f",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "kakele-online-mmorpg-kakele-online-mmorpg-update-45-bonanza-7e86e6",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "kakele-online-mmorpg-faq-1c5a45",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "kakele-online-mmorpg-790f2f",
@@ -112,24 +127,7 @@
   ],
   "developerDisplayName": "ViVa Games",
   "publisherDisplayName": "ViVa Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 0,
-      "originalPrice": 0,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-05-02T16:00:00.000Z",
   "pcReleaseDate": "2020-02-01T08:00:00.000Z",
