@@ -131,7 +131,22 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-forever-winter-8b8280",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-forever-winter-faq-da35f7",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "the-forever-winter-the-forever-winter-demo-6d525c",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-forever-winter-8b8280",
@@ -140,7 +155,24 @@
   ],
   "developerDisplayName": "Fun Dog Studios",
   "publisherDisplayName": "Fun Dog Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-09-24T19:00:00.000Z",
   "pcReleaseDate": "2024-09-24T19:00:00.000Z",
