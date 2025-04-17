@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-06-13T20:00:00.000Z",
   "creationDate": "2024-06-12T20:22:14.885Z",
-  "lastModifiedDate": "2025-04-10T15:00:47.515Z",
+  "lastModifiedDate": "2025-04-17T22:39:30.808Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -36,20 +36,12 @@
       "name": "Action"
     },
     {
-      "id": "1264",
-      "name": "Co-op"
-    },
-    {
       "id": "29088",
       "name": "Online Multiplayer"
     },
     {
       "id": "32709",
       "name": "EA Play"
-    },
-    {
-      "id": "1367",
-      "name": "RPG"
     },
     {
       "id": "19847",
@@ -64,20 +56,32 @@
       "name": "EA Play Discount"
     },
     {
-      "id": "1370",
-      "name": "Single Player"
-    },
-    {
       "id": "9547",
       "name": "Windows"
     },
     {
-      "id": "21147",
-      "name": "Inclusive Character Customization"
-    },
-    {
       "id": "35244",
       "name": "Epic Savings"
+    },
+    {
+      "id": "1264",
+      "name": "Co-op"
+    },
+    {
+      "id": "21109",
+      "name": "Great Boss Battles"
+    },
+    {
+      "id": "1367",
+      "name": "RPG"
+    },
+    {
+      "id": "1370",
+      "name": "Single Player"
+    },
+    {
+      "id": "21147",
+      "name": "Inclusive Character Customization"
     }
   ],
   "items": [
@@ -119,7 +123,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "mass-effect-andromeda-deluxe-edition-7a38d6",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "mass-effect-andromeda-deluxe-edition-7a38d6",
@@ -128,7 +139,28 @@
   ],
   "developerDisplayName": "Bioware",
   "publisherDisplayName": "Electronic Arts",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 799,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 3200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "c0193a51bcd848f5a4fd257f1e0f1e6f"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-06-13T20:00:00.000Z",
   "pcReleaseDate": "2017-03-20T05:00:00.000Z",
