@@ -111,18 +111,7 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "xr22seaguard-480497",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "xr22seaguard-faq-04eef0",
-        "pageType": "info"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "xr22seaguard-480497",
@@ -131,7 +120,24 @@
   ],
   "developerDisplayName": "J.G.A. HEURTAUX",
   "publisherDisplayName": "SEAHTX",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 399,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-16T23:00:00.000Z",
   "pcReleaseDate": "2023-10-18T12:00:00.000Z",
