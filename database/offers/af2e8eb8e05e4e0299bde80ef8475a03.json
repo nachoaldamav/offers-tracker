@@ -127,7 +127,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "boltbreak-2-6b3bfa",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "boltbreak-2-6b3bfa",
@@ -136,24 +143,7 @@
   ],
   "developerDisplayName": "KomodoBit Games",
   "publisherDisplayName": "KomodoBit Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 0,
-      "originalPrice": 0,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",

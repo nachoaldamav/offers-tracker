@@ -99,7 +99,26 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "vallarok-vallarok-prealpha-37c67e",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "vallarok-4ea087",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "vallarok-faq-7ce5ca",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "vallarok-concept-build-e0173d",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "vallarok-4ea087",
@@ -108,24 +127,7 @@
   ],
   "developerDisplayName": "Raez Games",
   "publisherDisplayName": "Raez Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 0,
-      "originalPrice": 0,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",
