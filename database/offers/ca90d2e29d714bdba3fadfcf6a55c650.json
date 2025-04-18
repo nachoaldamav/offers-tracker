@@ -106,7 +106,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-last-friend--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-last-friend",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "The Stonebot Studio, Ludus Games",
   "publisherDisplayName": "Skystone Games Inc.",
