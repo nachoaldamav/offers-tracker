@@ -153,10 +153,10 @@
   "publisherDisplayName": "John Pywell",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 1049,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 450,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -165,7 +165,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "dd09c3b2644b4f789fe9759819ce05e9"
+          }
+        ]
       }
     ]
   },
