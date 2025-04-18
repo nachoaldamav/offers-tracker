@@ -99,7 +99,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "wild-bastards-3e91e0",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "wild-bastards-3e91e0",
@@ -108,24 +115,7 @@
   ],
   "developerDisplayName": "Blue Manchu",
   "publisherDisplayName": "Maximum Entertainment",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 3499,
-      "originalPrice": 3499,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": false,
   "releaseDate": "2024-09-12T16:00:00.000Z",
   "pcReleaseDate": "2024-09-12T16:00:00.000Z",
