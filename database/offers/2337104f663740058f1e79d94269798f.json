@@ -139,13 +139,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "arsenal-3d-fps-a35a89",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "arsenal-3d-fps-a35a89",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "arsenal-3d-fps-faq-967367",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Gyros Studio",
   "publisherDisplayName": "Gyros Studio",
   "price": null,

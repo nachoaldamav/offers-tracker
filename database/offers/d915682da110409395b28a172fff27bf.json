@@ -111,13 +111,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "atlas-wars-5b83bd",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "atlas-wars-5b83bd",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "atlas-wars-faq-58ff4b",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Stone Shard Games, Nano Knight Studio",
   "publisherDisplayName": "Stone Shard Games",
   "price": null,
