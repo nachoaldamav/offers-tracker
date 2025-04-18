@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-02-14T16:00:00.000Z",
   "creationDate": "2024-09-10T15:47:31.148Z",
-  "lastModifiedDate": "2025-04-15T15:00:30.466Z",
+  "lastModifiedDate": "2025-04-18T16:00:11.158Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -96,10 +96,6 @@
       "name": "Windows"
     },
     {
-      "id": "29899",
-      "name": "Deals of the Week"
-    },
-    {
       "id": "9549",
       "name": "Controller Support"
     }
@@ -143,11 +139,48 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tomb-raider-ivvi-remastered-0be789",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "tomb-raider-ivvi-remastered-prepurchase-testing-b4f9d0",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "tomb-raider-ivvi-remastered-0be789",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Aspyr",
   "publisherDisplayName": "Aspyr",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2249,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 750,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "79fd66ccc71f4e8881c94c3f190700ef"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-02-14T16:00:00.000Z",
   "pcReleaseDate": "2025-02-14T16:00:00.000Z",
