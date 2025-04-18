@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-08-17T14:00:00.000Z",
   "creationDate": "2020-09-08T17:30:29.799Z",
-  "lastModifiedDate": "2025-04-18T05:19:44.039Z",
+  "lastModifiedDate": "2025-04-18T15:28:57.364Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -146,11 +146,71 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "humankind--digital-deluxe-upgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "humankind--digital-deluxe",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "humankind--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "humankind--cultures-of-africa-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "humankind--together-we-rule-expansion-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "humankind--cultures-of-latin-america",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "humankind",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "humankind--para-bellum-wonders-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "humankind--cultures-of-oceania",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "humankind--definitive-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-08-17T14:00:00.000Z",
   "pcReleaseDate": null,
