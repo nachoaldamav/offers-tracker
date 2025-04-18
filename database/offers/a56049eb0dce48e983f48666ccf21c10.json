@@ -102,11 +102,43 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited--art-book",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited--official-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-03-16T17:00:00.000Z",
   "pcReleaseDate": "2021-03-16T17:00:00.000Z",
