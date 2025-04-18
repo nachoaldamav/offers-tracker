@@ -83,7 +83,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-crows-eye-af7d60",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-crows-eye-af7d60",
@@ -92,24 +99,7 @@
   ],
   "developerDisplayName": "3D2 Entertainment",
   "publisherDisplayName": "Akupara Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 999,
-      "originalPrice": 999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2022-04-18T13:00:00.000Z",
   "pcReleaseDate": "2017-03-19T00:00:00.000Z",
