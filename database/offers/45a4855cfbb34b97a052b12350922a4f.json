@@ -79,7 +79,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sine-mora-ex-d4fd23",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "sine-mora-ex-d4fd23",
@@ -88,7 +95,28 @@
   ],
   "developerDisplayName": "Digit. Reality, Grassh. Manuf., Gyroscope Games",
   "publisherDisplayName": "HandyGames",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 99,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 900,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "78740e19f0464e83b51dff54f2dd27eb"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-07-29T13:00:00.000Z",
   "pcReleaseDate": "2017-08-08T00:00:00.000Z",
