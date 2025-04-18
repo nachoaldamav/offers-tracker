@@ -103,7 +103,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "art-is-rifle-897224",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "art-is-rifle-faq-ded02a",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "art-is-rifle-897224",
@@ -112,7 +123,24 @@
   ],
   "developerDisplayName": "Arman Pakan",
   "publisherDisplayName": "Code Psyche Productions",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-08-16T03:00:00.000Z",
   "pcReleaseDate": "2023-08-16T03:00:00.000Z",
