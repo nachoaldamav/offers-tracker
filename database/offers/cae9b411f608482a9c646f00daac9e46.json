@@ -226,7 +226,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "defense-grid",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "defense-grid--dlc-bundle",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "defense-grid",
@@ -235,7 +246,24 @@
   ],
   "developerDisplayName": "Hidden Path Entertainment",
   "publisherDisplayName": "Hidden Path Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-12-20T16:00:00.000Z",
   "pcReleaseDate": "2020-12-20T16:00:00.000Z",
