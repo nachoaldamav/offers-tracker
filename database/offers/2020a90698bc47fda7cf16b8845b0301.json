@@ -98,28 +98,26 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": "Frontier Developments  ",
-  "publisherDisplayName": "Frontier Developments  ",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1999,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": []
+        "pageSlug": "far-changing-tides",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "far-changing-tides--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "far-changing-tides--official-soundtrack",
+        "pageType": "addon--cms-hybrid"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": "Frontier Developments  ",
+  "publisherDisplayName": "Frontier Developments  ",
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2022-03-01T14:00:00.000Z",
   "pcReleaseDate": "2022-03-01T14:00:00.000Z",

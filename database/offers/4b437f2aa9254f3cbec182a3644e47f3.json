@@ -75,7 +75,22 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "fishing-north-atlantic-9fbc5c",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "fishing-north-atlantic-fishing-north-atlantic-scallop-067dd3",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "fishing-north-atlantic-fishing-north-atlantic-af-theriault-ab85b6",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "fishing-north-atlantic-9fbc5c",
@@ -84,28 +99,7 @@
   ],
   "developerDisplayName": "Misc Games",
   "publisherDisplayName": "Misc Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 624,
-      "originalPrice": 2499,
-      "voucherDiscount": 0,
-      "discount": 1875,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "55d9419c3c43433c8a7fd0efbc6e1d05"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2022-03-10T00:00:00.000Z",
   "pcReleaseDate": "2022-03-10T00:00:00.000Z",
