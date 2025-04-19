@@ -91,11 +91,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "alba-a-wildlife-adventure-93736a",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "alba-a-wildlife-adventure-93736a",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "ustwo games",
   "publisherDisplayName": "PID Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 254,
+      "originalPrice": 1699,
+      "voucherDiscount": 0,
+      "discount": 1445,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "52076b2008834339864ee6ee16e0f1c7"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-11-10T16:00:00.000Z",
   "pcReleaseDate": "2021-12-11T11:00:00.000Z",

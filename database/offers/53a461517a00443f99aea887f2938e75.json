@@ -95,13 +95,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "gray-dawn-a0cc44",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "gray-dawn-a0cc44",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "gray-dawn-gray-dawn-demo-dda1e4",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Interactive Stone",
   "publisherDisplayName": "Interactive Stone",
   "price": null,
