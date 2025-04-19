@@ -99,7 +99,22 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tiny-troopers-global-ops-4ac32b",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "tiny-troopers-global-ops-tiny-troopers-global-ops-soundtrack-73219a",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "tiny-troopers-global-ops-tiny-troopers-global-ops-comic-book-81b91b",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "tiny-troopers-global-ops-4ac32b",
@@ -108,7 +123,24 @@
   ],
   "developerDisplayName": "Epiphany Games",
   "publisherDisplayName": "Wired Productions",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-03-23T01:00:00.000Z",
   "pcReleaseDate": "2023-03-23T01:00:00.000Z",
