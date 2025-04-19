@@ -151,11 +151,52 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "gloomhaven-jaws-of-the-lion-alternative-skins-00eba1",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "gloomhaven-jaws-of-the-lion-expansion-799076",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "gloomhaven-solo-scenarios-pack-mercenary-challenges-c701f3",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "gloomhaven-92f741",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "gloomhaven-92f741",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Flaming Fowl Studios, and Saber Interactive Minsk",
   "publisherDisplayName": "Twin Sails Interactive",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3499,
+      "originalPrice": 3499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-09-22T15:00:00.000Z",
   "pcReleaseDate": "2021-10-20T12:00:00.000Z",
