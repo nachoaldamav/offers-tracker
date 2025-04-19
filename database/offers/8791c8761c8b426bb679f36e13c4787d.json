@@ -111,13 +111,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "luckygoal-201ee6",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "luckygoal-201ee6",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "luckygoal-faq-427985",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Woondas",
   "publisherDisplayName": "LuckyVerse",
   "price": null,
