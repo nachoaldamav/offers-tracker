@@ -91,7 +91,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "rough-justice-84-89dd7a",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "rough-justice-84-rough-justice-84-supporter-pack-4b8de9",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "rough-justice-84-89dd7a",
@@ -100,24 +111,7 @@
   ],
   "developerDisplayName": "Gamma Minus",
   "publisherDisplayName": "Daedalic Entertainment",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1999,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-03-13T18:00:00.000Z",
   "pcReleaseDate": "2023-03-13T18:00:00.000Z",
