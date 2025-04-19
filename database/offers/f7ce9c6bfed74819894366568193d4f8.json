@@ -142,7 +142,58 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "arcade-paradise",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "arcade-paradise--smokeem",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "arcade-paradise--kung-fury-street-rage",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "arcade-paradise--penquin-push",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "arcade-paradise--roger",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "arcade-paradise--coin-op-pack-2",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "arcade-paradise-arcade-paradise-official-soundtrack-39dc43",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "arcade-paradise--vostok-inc-pinball",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "arcade-paradise--empathy",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "arcade-paradise--summer-of-sports",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "arcade-paradise--coin-oppack1",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "arcade-paradise--cyberdance-euromix",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "arcade-paradise",
@@ -151,7 +202,24 @@
   ],
   "developerDisplayName": "Nosebleed Interactive",
   "publisherDisplayName": "Wired Productions",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-08-11T13:00:00.000Z",
   "pcReleaseDate": "2022-08-11T13:00:00.000Z",
