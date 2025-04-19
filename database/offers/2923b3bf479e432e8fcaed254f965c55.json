@@ -179,11 +179,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "space-outpost-silicon-one-faq-980acf",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "space-outpost-silicon-one-e41922",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "space-outpost-silicon-one-e41922",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "SiliconZero",
   "publisherDisplayName": "SiliconZero",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1199,
+      "originalPrice": 1199,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-05-01T15:00:00.000Z",
   "pcReleaseDate": "2024-05-01T15:00:00.000Z",
