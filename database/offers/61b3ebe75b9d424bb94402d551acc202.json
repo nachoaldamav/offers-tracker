@@ -115,13 +115,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "albatross-698861",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "albatross-698861",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "albatross-faq-4da9cc",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Qureo Studios",
   "publisherDisplayName": "Qureo Studios",
   "price": null,
