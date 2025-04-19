@@ -171,11 +171,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "dball-dball-demo-c21458",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "dball-46cd65",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "dball-46cd65",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Gaming Boy",
   "publisherDisplayName": "Gaming Boy",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 199,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-02-21T11:00:00.000Z",
   "pcReleaseDate": "2025-02-13T17:00:00.000Z",
