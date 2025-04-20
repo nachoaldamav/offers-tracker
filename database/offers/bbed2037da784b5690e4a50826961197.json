@@ -87,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "dustborn-467935",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "dustborn-467935",
@@ -96,24 +103,7 @@
   ],
   "developerDisplayName": "Red Thread Games",
   "publisherDisplayName": "Quantic Dream",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 2999,
-      "originalPrice": 2999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2024-08-20T00:00:00.000Z",
   "pcReleaseDate": "2024-08-20T00:00:00.000Z",
