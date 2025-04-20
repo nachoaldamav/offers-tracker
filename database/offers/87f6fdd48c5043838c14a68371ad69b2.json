@@ -106,7 +106,26 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "lovecrafts-untold-stories--bundle-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "lovecrafts-untold-stories",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "lovecrafts-untold-stories--artbook",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "lovecrafts-untold-stories--ost",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
