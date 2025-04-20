@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-09-03T13:00:00.000Z",
   "creationDate": "2019-10-04T22:11:22.672Z",
-  "lastModifiedDate": "2025-04-19T21:17:07.890Z",
+  "lastModifiedDate": "2025-04-20T21:55:11.328Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -150,11 +150,51 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "diabotical--big-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "diabotical--fan-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "diabotical",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "diabotical--starter-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "diabotical--standard-pack",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-09-03T13:00:00.000Z",
   "pcReleaseDate": "2020-09-03T13:00:00.000Z",
