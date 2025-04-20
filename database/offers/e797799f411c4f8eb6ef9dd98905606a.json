@@ -102,7 +102,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "endling-extinction-is-forever",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "endling-extinction-is-forever-android-290a3d",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "endling-extinction-is-forever",
@@ -111,7 +122,28 @@
   ],
   "developerDisplayName": "Herobeat Studios",
   "publisherDisplayName": "HandyGames",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 449,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 2550,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "dcacf145fc0e41b7a4c548bee832cbd9"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-07-19T13:00:00.000Z",
   "pcReleaseDate": "2022-07-19T13:00:00.000Z",
