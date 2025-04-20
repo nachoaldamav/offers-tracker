@@ -140,10 +140,32 @@
     }
   ],
   "catalogNs": null,
-  "offerMappings": null,
+  "offerMappings": [
+    {
+      "pageSlug": "palia-0d428e",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Singularity 6",
   "publisherDisplayName": "Singularity 6",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-24T17:00:00.000Z",
   "pcReleaseDate": "2023-08-10T17:00:00.000Z",
