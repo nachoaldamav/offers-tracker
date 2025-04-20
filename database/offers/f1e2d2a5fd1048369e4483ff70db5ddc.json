@@ -95,22 +95,7 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "rogue-waters-rogue-waters-official-soundtrack-76e145",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "rogue-waters-9764d6",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "rogue-waters-prepurchase-testing-59bd75",
-        "pageType": "offer"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "rogue-waters-9764d6",
@@ -119,7 +104,24 @@
   ],
   "developerDisplayName": "Ice Code Games",
   "publisherDisplayName": "Tripwire Presents",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-09-30T15:00:00.000Z",
   "pcReleaseDate": "2024-09-30T15:00:00.000Z",

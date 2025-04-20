@@ -102,11 +102,55 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "fights-in-tight-spaces",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "fights-in-tight-spaces--early-access-faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "fights-in-tight-spaces--ost",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "fights-in-tight-spaces--soundtrack-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "fights-in-tight-spaces--complete-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "fights-in-tight-spaces--weapon-of-choice",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Ground Shatter",
   "publisherDisplayName": "Raw Fury",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-02-24T18:00:00.000Z",
   "pcReleaseDate": "2021-02-24T18:00:00.000Z",
