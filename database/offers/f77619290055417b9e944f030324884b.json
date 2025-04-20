@@ -111,11 +111,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "quantum-command-983dc9",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "quantum-command-faq-1e05f2",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "quantum-command-983dc9",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Omm Games",
   "publisherDisplayName": "Omm Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-04-30T00:00:00.000Z",
   "pcReleaseDate": "2025-04-30T00:00:00.000Z",
