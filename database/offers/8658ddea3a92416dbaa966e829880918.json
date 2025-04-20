@@ -91,11 +91,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "mirage-a-biplane-adventure-912065",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "mirage-a-biplane-adventure-mirage-a-biplane-adventure-demo-ffe1cf",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "mirage-a-biplane-adventure-912065",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "AD3D",
   "publisherDisplayName": "AD3D",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-04-19T22:00:00.000Z",
   "pcReleaseDate": "2024-04-19T22:00:00.000Z",
