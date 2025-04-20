@@ -147,11 +147,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "station-77b322",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "station-faq-0b1ecd",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "station-77b322",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "UN reliable company",
   "publisherDisplayName": "UN reliable company",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-02-20T14:16:00.000Z",
   "pcReleaseDate": "2025-02-20T14:16:00.000Z",
