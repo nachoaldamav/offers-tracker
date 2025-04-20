@@ -99,7 +99,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "seed-of-heroes-demo-786df2",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "seed-of-heroes-2a7e47",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "seed-of-heroes-2a7e47",
@@ -108,24 +119,7 @@
   ],
   "developerDisplayName": "Vermillion Digital Co., Ltd.",
   "publisherDisplayName": "Sekai Project Inc",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1499,
-      "originalPrice": 1499,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2024-09-17T17:00:00.000Z",
   "pcReleaseDate": "2024-09-17T17:00:00.000Z",

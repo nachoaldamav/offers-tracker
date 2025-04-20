@@ -103,7 +103,26 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "caravan-sandwitch-carvan-sandwitch-goodies-pack-1fb217",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "caravan-sandwitch-caravan-sandwitch-soundtrack-ff919a",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "caravan-sandwitch-caravan-sandwitch-deluxe-edition-2f294a",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "caravan-sandwitch-05ff58",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "caravan-sandwitch-05ff58",
@@ -112,28 +131,7 @@
   ],
   "developerDisplayName": "Studio Plane Toast",
   "publisherDisplayName": "Dear Villagers",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1999,
-      "originalPrice": 2499,
-      "voucherDiscount": 0,
-      "discount": 500,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "4040c6f1204449f99a7d67955dc29a60"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2024-09-12T15:00:00.000Z",
   "pcReleaseDate": "2024-09-12T15:00:00.000Z",
