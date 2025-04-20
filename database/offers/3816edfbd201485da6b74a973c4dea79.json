@@ -83,11 +83,84 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "game_test-59999-pack-d0714c",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "game_test-29999-pack-4e8bab",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "game_test-19999-pack-9d68df",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "game_test-599-pack-bd86e0",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "game_test-test001-418706",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "game_test-9999-pack-7a62f5",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "game_test-faq-84b60f",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "game_test-4999-pack-557057",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "game_test-b9b5a1",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "game_test-199-pack-89ff32",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "game_test-999-pack-de9789",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "game_test-1999-pack-04344a",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "game_test-b9b5a1",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "gamehollywood",
   "publisherDisplayName": "gamehollywood",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-06-03T01:21:52.288Z",
   "pcReleaseDate": "2023-06-20T04:00:00.000Z",
