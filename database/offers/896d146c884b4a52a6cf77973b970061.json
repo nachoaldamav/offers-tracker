@@ -91,22 +91,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "popcorn-rocket-popcorn-rocket-demo-706ada",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "popcorn-rocket-base-game-4812c5",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "popcorn-rocket-869bc8",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "popcorn-rocket-869bc8",
@@ -115,7 +100,24 @@
   ],
   "developerDisplayName": "Battle Geek Plus, L.L.C.",
   "publisherDisplayName": "Battle Geek Plus, L.L.C.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 499,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-10-17T16:00:00.000Z",
   "pcReleaseDate": "2023-10-17T16:00:00.000Z",
