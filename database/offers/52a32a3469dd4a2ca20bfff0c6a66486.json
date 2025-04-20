@@ -134,28 +134,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": "Machine Games",
-  "publisherDisplayName": "Bethesda Softworks",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1999,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": []
+        "pageSlug": "wolfenstein-the-new-order",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "wolfenstein-the-new-order--worldwide",
+        "pageType": "offer"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": "Machine Games",
+  "publisherDisplayName": "Bethesda Softworks",
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2021-09-09T15:00:00.000Z",
   "pcReleaseDate": "2014-05-20T15:00:00.000Z",
