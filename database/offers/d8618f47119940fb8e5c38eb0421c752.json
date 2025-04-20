@@ -154,8 +154,23 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "kena-bridge-of-spirits",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "kena-bridge-of-spirits--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "kena-bridge-of-spirits--digital-deluxe-upgrade",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
   "price": null,
