@@ -4,9 +4,9 @@
   "namespace": "488a5a62532c4ce0bc3ced2a53c3a441",
   "description": "Play VR PvE missions, secure strategic positions, retrive data and equipments in restricted zones in a futuristic cyberpunk world. Play the game in single player or team up in co-op missions.",
   "offerType": "BASE_GAME",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "effectiveDate": "2025-04-20T10:33:00.000Z",
   "creationDate": "2024-02-23T15:40:29.230Z",
-  "lastModifiedDate": "2025-04-19T22:40:24.526Z",
+  "lastModifiedDate": "2025-04-20T10:33:17.368Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -22,8 +22,16 @@
       "url": "https://cdn1.epicgames.com/spt-assets/53a34f122f9f407f8e9e7932532a0d9b/containment-sector-1m8pu.png"
     },
     {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://e6f83c03-191e-4115-9a2f-4e4ad2ec0459?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F53a34f122f9f407f8e9e7932532a0d9b%2Fcontainment-sector-video-766y2.png"
+    },
+    {
       "type": "featuredMedia",
       "url": "https://cdn1.epicgames.com/spt-assets/53a34f122f9f407f8e9e7932532a0d9b/containment-sector-tsqly.png"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/53a34f122f9f407f8e9e7932532a0d9b/containment-sector-ljpoa.png"
     }
   ],
   "currentPrice": 2999,
@@ -85,7 +93,7 @@
     },
     {
       "key": "isManuallySetViewableDate",
-      "value": "true"
+      "value": "false"
     },
     {
       "key": "isPromotionalContentUsed",
@@ -111,20 +119,47 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "containment-sector-faq-43bc2a",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "containment-sector-e26cb5",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "containment-sector-e26cb5",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Fog Studio",
   "publisherDisplayName": "Alps Global Management",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
-  "releaseDate": "2025-04-25T00:00:00.000Z",
-  "pcReleaseDate": "2025-01-31T00:00:00.000Z",
+  "releaseDate": "2025-04-20T10:33:00.000Z",
+  "pcReleaseDate": "2025-04-19T23:00:00.000Z",
   "viewableDate": "2024-06-14T23:00:00.000Z",
-  "approximateReleasePlan": {
-    "day": 25,
-    "month": 4,
-    "quarter": null,
-    "year": 2025,
-    "releaseDateType": "BY_DATE"
-  }
+  "approximateReleasePlan": null
 }
