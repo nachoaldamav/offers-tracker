@@ -99,7 +99,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "escapegameshow-1cfe48",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "escapegameshow-faq-c51cbe",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "escapegameshow-1cfe48",
@@ -108,7 +119,24 @@
   ],
   "developerDisplayName": "Hapc",
   "publisherDisplayName": "Hapc",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1299,
+      "originalPrice": 1299,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-07-04T14:00:00.000Z",
   "pcReleaseDate": "2024-07-04T14:00:00.000Z",
