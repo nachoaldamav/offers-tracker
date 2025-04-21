@@ -98,7 +98,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "super-buckyball-tournament",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "super-buckyball-tournament--early-access-faq",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
