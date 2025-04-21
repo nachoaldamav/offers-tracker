@@ -131,11 +131,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "la-pasion-xr-52ecd2",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "la-pasion-xr-52ecd2",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Agile Lens, LLC.",
   "publisherDisplayName": "Agile Lens, LLC., Gateway Chamber Orchestra",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 399,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 100,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "086f3a2b210b4b7baab64a5aedeeef45"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-04-11T12:00:00.000Z",
   "pcReleaseDate": "2025-04-11T12:00:00.000Z",

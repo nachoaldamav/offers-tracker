@@ -87,14 +87,7 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "mahokenshi-2bffba",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "mahokenshi-2bffba",
@@ -103,7 +96,24 @@
   ],
   "developerDisplayName": "Game Source Studio",
   "publisherDisplayName": "Iceberg Interactive",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-01-24T15:00:00.000Z",
   "pcReleaseDate": "2023-01-24T15:00:00.000Z",
