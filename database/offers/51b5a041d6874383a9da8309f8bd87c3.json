@@ -87,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "mystery-solitaire-grimms-tales-2-e1e538",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "mystery-solitaire-grimms-tales-2-e1e538",
@@ -96,24 +103,7 @@
   ],
   "developerDisplayName": "Creobit",
   "publisherDisplayName": "8Floor ltd",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 499,
-      "originalPrice": 499,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-10-11T00:00:00.000Z",
   "pcReleaseDate": "2019-09-24T01:00:00.000Z",
