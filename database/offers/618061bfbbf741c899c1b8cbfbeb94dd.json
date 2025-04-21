@@ -75,11 +75,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "onsen-master-9e1323",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "onsen-master-9e1323",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Waking Oni",
   "publisherDisplayName": "Whitethorn Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 599,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 900,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "9a34530120d84ca4ad211663d4d1557b"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-09-01T16:00:00.000Z",
   "pcReleaseDate": "2022-09-01T16:00:00.000Z",
