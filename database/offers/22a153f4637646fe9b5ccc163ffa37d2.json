@@ -119,7 +119,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "scope-x-64942d",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "scope-x-faq-8eeeb3",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "scope-x-64942d",
@@ -128,7 +139,24 @@
   ],
   "developerDisplayName": "CenterPoint Gaming",
   "publisherDisplayName": "CenterPoint Gaming",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 899,
+      "originalPrice": 899,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-04-21T00:00:00.000Z",
   "pcReleaseDate": "2025-04-21T00:00:00.000Z",

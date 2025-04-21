@@ -159,7 +159,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "aliyas-awakening-70687e",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "aliyas-awakening-faq-b2d9e9",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "aliyas-awakening-70687e",
@@ -168,7 +179,24 @@
   ],
   "developerDisplayName": "Digital Strategies",
   "publisherDisplayName": "Digital Strategies",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-04-21T00:00:00.000Z",
   "pcReleaseDate": "2025-04-20T00:00:00.000Z",

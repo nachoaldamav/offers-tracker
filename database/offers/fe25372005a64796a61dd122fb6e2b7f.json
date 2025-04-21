@@ -166,7 +166,70 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "northgard",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "northgard--brundr-and-kaelinn-clan-of-the-lynx",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "northgard--ratatoskr-clan-of-the-squirrel",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "northgard--svafnir-clan-of-the-snake",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "northgard--nidhogg-clan-of-the-dragon",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "northgard--lyngbakr-clan-of-the-kraken",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "northgard--himminbrjotir-clan-of-the-ox",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "northgard--svardilfari-clan-of-the-horse",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "northgard--dodsvagr-clan-of-the-rat",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "northgard--hrsvelg-clan-of-the-eagle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "northgard--cross-of-vidar-expansion-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "northgard-northgard-hafgufa-clan-of-the-turtle-bc8ee3",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "northgard--kernev-clan-of-the-stoat",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "northgard--vordr-clan-of-the-owl",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "northgard-northgard-garm-clan-of-the-hounds-0f14ef",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "northgard",
@@ -175,7 +238,24 @@
   ],
   "developerDisplayName": "Shiro Games",
   "publisherDisplayName": "Shiro Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-07-21T14:00:00.000Z",
   "pcReleaseDate": "2021-07-21T14:00:00.000Z",
