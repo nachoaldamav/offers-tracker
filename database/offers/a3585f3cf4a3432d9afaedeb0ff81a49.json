@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "argonauts-agency-glove-of-midas-94bca3",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "argonauts-agency-glove-of-midas-94bca3",
@@ -100,7 +107,28 @@
   ],
   "developerDisplayName": "Workroom7",
   "publisherDisplayName": "8Floor ltd",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 499,
+      "voucherDiscount": 0,
+      "discount": 300,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "4793a121491f43a086113fd6d5d2c0db"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-02-16T21:00:00.000Z",
   "pcReleaseDate": "2022-01-04T21:00:00.000Z",

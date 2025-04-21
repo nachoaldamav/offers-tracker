@@ -106,7 +106,38 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "pacific-drive",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "pacific-drive-cosmetic-pack-490410",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "pacific-drive--we-have-liftoff-customization-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "pacific-drive-pacific-drive-content-pack-3-94c192",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "pacific-drive--official-game-soundtrack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "pacific-drive-content-pack-2-61a867",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "pacific-drive--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "pacific-drive",
@@ -115,7 +146,24 @@
   ],
   "developerDisplayName": "Ironwood Studios",
   "publisherDisplayName": "Kepler Interactive",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": false,
   "releaseDate": "2024-02-22T08:00:00.000Z",
   "pcReleaseDate": "2024-02-22T08:00:00.000Z",

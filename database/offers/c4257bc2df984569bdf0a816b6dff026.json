@@ -103,7 +103,22 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "reveil-43bd49",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "reveil-supporter-pack-17af30",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "reveil-supporter-bundle-7558b2",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "reveil-43bd49",
@@ -112,7 +127,24 @@
   ],
   "developerDisplayName": "Pixelsplit",
   "publisherDisplayName": "Daedalic Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-03-06T16:00:00.000Z",
   "pcReleaseDate": "2024-03-06T16:00:00.000Z",

@@ -106,11 +106,59 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "prince-of-persia-the-lost-crown--mask-of-darkness",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "prince-of-persia-the-lost-crown--dark-prince-costume",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "prince-of-persia-the-lost-crown--complete-upgrade-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "prince-of-persia-the-lost-crown--two-thrones-costume",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "prince-of-persia-the-lost-crown--complete-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "prince-of-persia-the-lost-crown--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "prince-of-persia-the-lost-crown",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "UBISOFT MONTPELLIER",
   "publisherDisplayName": "UBISOFT",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-18T05:00:00.000Z",
   "pcReleaseDate": "2024-01-18T05:00:00.000Z",

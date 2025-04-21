@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "john-mambo-f4d187",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "john-mambo-f4d187",
@@ -100,7 +107,28 @@
   ],
   "developerDisplayName": "Iction Games",
   "publisherDisplayName": "Iction Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 549,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 450,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "22b92bd5e1ab46428086d8567bd53d9b"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-23T14:00:00.000Z",
   "pcReleaseDate": "2023-12-15T00:00:00.000Z",

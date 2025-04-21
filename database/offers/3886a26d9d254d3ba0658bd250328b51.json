@@ -91,7 +91,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "geometric-sniper-82e0e0",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "geometric-sniper-82e0e0",
@@ -100,7 +107,24 @@
   ],
   "developerDisplayName": "YAW Studios",
   "publisherDisplayName": "YAW Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 199,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-19T18:00:00.000Z",
   "pcReleaseDate": "2020-12-17T17:00:00.000Z",

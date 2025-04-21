@@ -99,7 +99,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ex-natura-nature-corrupted-d92548",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "ex-natura-nature-corrupted-d92548",
@@ -108,7 +115,28 @@
   ],
   "developerDisplayName": "Blackburne Games",
   "publisherDisplayName": "Blackburne Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 279,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1720,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "558bb9f2bc984d2180711a15c1b9b757"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-01-20T17:30:00.000Z",
   "pcReleaseDate": "2023-07-19T03:00:00.000Z",
