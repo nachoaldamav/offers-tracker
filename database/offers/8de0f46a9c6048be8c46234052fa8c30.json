@@ -123,7 +123,22 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "dahlia-view-digital-deluxe-e97083",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "dahlia-view-5d6354",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "dahlia-view-soundtrack-d689f3",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "dahlia-view-5d6354",
@@ -132,7 +147,24 @@
   ],
   "developerDisplayName": "White Paper Games",
   "publisherDisplayName": "White Paper Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-11-02T10:00:00.000Z",
   "pcReleaseDate": "2021-11-02T00:00:00.000Z",
