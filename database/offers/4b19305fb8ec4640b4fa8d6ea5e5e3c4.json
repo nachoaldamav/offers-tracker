@@ -106,8 +106,23 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "soulstice--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "soulstice",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "soulstice--deluxe-edition-upgrade",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Reply Game Studios",
   "publisherDisplayName": "Maximum Entertainment LLC",
   "price": null,
