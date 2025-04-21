@@ -2,11 +2,11 @@
   "title": "Alternates",
   "id": "888a6403b7eb45cf92bc84dea0d463e9",
   "namespace": "3108f43b882f4977934f029346953497",
-  "description": "Alternates is a fast-paced FPS delivering intense action across multiple modes and maps, merging web3 technology and NFT integration. Players can own, customize, and trade in-game assets, forging alliances and shaping an ever-evolving battlefield.",
+  "description": "Alternates a fast-paced FPS experience focused on uniting NFT communitites through IP. Jump into your favorite classic FPS game modes, unique maps and  explore all available features of the ever evolving battlefield.",
   "offerType": "BASE_GAME",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2025-01-18T03:43:37.645Z",
-  "lastModifiedDate": "2025-02-06T18:56:45.876Z",
+  "creationDate": "2024-07-01T19:25:41.999Z",
+  "lastModifiedDate": "2025-04-21T15:59:27.845Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -123,7 +123,22 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "alternates-b7fc88",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "alternates-faq-e65d58",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "alternates-alternates-early-access-b04851",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "alternates-b7fc88",
@@ -132,16 +147,33 @@
   ],
   "developerDisplayName": "Brain Labs",
   "publisherDisplayName": "Brain Labs",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
-  "releaseDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": "2099-01-01T00:00:00.000Z",
+  "releaseDate": "2025-01-31T00:00:00.000Z",
+  "pcReleaseDate": "2025-01-31T00:00:00.000Z",
   "viewableDate": "2025-01-18T03:43:20.000Z",
   "approximateReleasePlan": {
     "day": null,
-    "month": null,
+    "month": 1,
     "quarter": null,
-    "year": null,
-    "releaseDateType": "UNKNOWN"
+    "year": 2025,
+    "releaseDateType": "BY_MONTH"
   }
 }
