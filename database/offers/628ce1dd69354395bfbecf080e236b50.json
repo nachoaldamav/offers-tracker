@@ -111,18 +111,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "target-073782",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "target-faq-b95a09",
-        "pageType": "info"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "target-073782",
@@ -131,7 +120,24 @@
   ],
   "developerDisplayName": "Matt Stott",
   "publisherDisplayName": "Pyron Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-08-31T00:00:00.000Z",
   "pcReleaseDate": "2024-08-31T00:00:00.000Z",
