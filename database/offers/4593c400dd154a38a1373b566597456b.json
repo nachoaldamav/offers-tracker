@@ -103,8 +103,24 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "titans-of-war-dd087e",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "titans-of-war-faq-d1cfbc",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "titans-of-war-dd087e",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Titans of War",
   "publisherDisplayName": "Titans of War",
   "price": null,
