@@ -87,11 +87,40 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "there-is-no-light-4eadf2",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "there-is-no-light-4eadf2",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Zelart",
   "publisherDisplayName": "HypeTrain Digital LTD",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-09-19T17:00:00.000Z",
   "pcReleaseDate": "2022-09-19T17:00:00.000Z",
