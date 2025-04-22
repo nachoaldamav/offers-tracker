@@ -83,11 +83,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "zool-redimensioned-5c52a7",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "zool-redimensioned-5c52a7",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Sumo Digital Academy",
   "publisherDisplayName": "Secret Mode",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-01-12T15:00:00.000Z",
   "pcReleaseDate": "2022-01-12T15:00:00.000Z",

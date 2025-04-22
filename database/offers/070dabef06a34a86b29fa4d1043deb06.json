@@ -87,11 +87,56 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "not-for-broadcast-7e523f",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "not-for-broadcast-not-for-broadcast-original-soundtrack-63f6be",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "not-for-broadcast-not-for-broadcast-live-and-spooky-da5946",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "not-for-broadcast-not-for-broadcast-bits-of-your-life-813534",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "not-for-broadcast-not-for-broadcast-the-timeloop-6c3191",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "not-for-broadcast-7e523f",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "NotGames",
   "publisherDisplayName": "tinyBuild",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-01-25T18:00:00.000Z",
   "pcReleaseDate": "2020-01-30T00:00:00.000Z",

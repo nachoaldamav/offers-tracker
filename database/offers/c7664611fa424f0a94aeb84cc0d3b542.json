@@ -138,11 +138,47 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "titan-quest--ragnarok",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "titan-quest--eternal-embers",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "titan-quest",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "titan-quest--atlantis",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": " Iron Lore Entertainment, THQ Nordic",
   "publisherDisplayName": "THQ Nordic GmbH",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-12-03T18:00:00.000Z",
   "pcReleaseDate": "2016-08-31T18:00:00.000Z",

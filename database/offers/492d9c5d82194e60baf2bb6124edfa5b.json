@@ -126,8 +126,20 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "biped",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "biped",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "NEXT Studios",
   "publisherDisplayName": "META Publishing",
   "price": null,
