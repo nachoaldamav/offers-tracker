@@ -103,11 +103,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "orphans-19d8aa",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "orphans-19d8aa",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Infinity Gears Studios",
   "publisherDisplayName": "Infinity Gears Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1529,
+      "originalPrice": 1699,
+      "voucherDiscount": 0,
+      "discount": 170,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "259cbb94fe3a4a16809c4f6044739d72"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-04-18T07:00:00.000Z",
   "pcReleaseDate": "2025-04-18T07:00:00.000Z",
