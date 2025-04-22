@@ -114,32 +114,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": null,
-  "publisherDisplayName": null,
-  "price": {
-    "totalPrice": {
-      "discountPrice": 349,
-      "originalPrice": 3499,
-      "voucherDiscount": 0,
-      "discount": 3150,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": [
-          {
-            "id": "7b7f1429a2a641868eba89ed7e83107f"
-          }
-        ]
+        "pageSlug": "astria-ascending--collector-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "astria-ascending",
+        "pageType": "productHome"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2021-09-30T15:00:00.000Z",
   "pcReleaseDate": "2021-09-30T15:00:00.000Z",

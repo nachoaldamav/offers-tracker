@@ -86,8 +86,15 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "my-fantastic-ranch",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Piece of Cake Fabulous",
   "publisherDisplayName": "Nacon",
   "price": null,
