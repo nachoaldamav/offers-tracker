@@ -91,7 +91,18 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "revive-and-prosper-267559",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "revive-and-prosper-faq-fcae11",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "revive-and-prosper-267559",
@@ -100,24 +111,7 @@
   ],
   "developerDisplayName": "Mystiqular",
   "publisherDisplayName": "Mystiqular",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1999,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-12-06T17:00:00.000Z",
   "pcReleaseDate": "2023-12-06T17:00:00.000Z",

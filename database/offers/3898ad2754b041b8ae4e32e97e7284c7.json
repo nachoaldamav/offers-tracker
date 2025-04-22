@@ -91,7 +91,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "funtoons-world-0e63dd",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "funtoons-world-funtoons-world-demo-e5e6b1",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "funtoons-world-0e63dd",
@@ -100,24 +111,7 @@
   ],
   "developerDisplayName": "Yash Future Tech Solutions Pvt Ltd",
   "publisherDisplayName": "Yash Future Tech Solutions Pvt Ltd",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 599,
-      "originalPrice": 599,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-12-07T18:30:00.000Z",
   "pcReleaseDate": "2015-04-30T18:30:00.000Z",

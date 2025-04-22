@@ -87,7 +87,18 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "rhythmictypex-bebc3b",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "rhythmictypex-faq-432a71",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "rhythmictypex-bebc3b",
@@ -96,24 +107,7 @@
   ],
   "developerDisplayName": "Yann Savard",
   "publisherDisplayName": "Yann Savard",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 499,
-      "originalPrice": 499,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-12-05T23:00:00.000Z",
   "pcReleaseDate": null,
