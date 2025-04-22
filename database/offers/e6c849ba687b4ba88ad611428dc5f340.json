@@ -107,11 +107,35 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "foreclosed",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": "Silver Lining Interactive Ltd ",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1699,
+      "originalPrice": 1699,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-08-12T13:00:00.000Z",
   "pcReleaseDate": "2021-08-12T13:00:00.000Z",

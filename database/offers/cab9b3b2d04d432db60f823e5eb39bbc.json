@@ -114,8 +114,19 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "hello-neighbor-2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "hello-neighbor-2--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Eerie Guest",
   "publisherDisplayName": "tinyBuild",
   "price": null,
