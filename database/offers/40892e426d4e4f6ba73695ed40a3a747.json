@@ -95,7 +95,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "anno-mutationem-ef8b9e",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "anno-mutationem-anno-mutationem-upgrade-pack-9b8b50",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "anno-mutationem-ef8b9e",
@@ -104,7 +115,24 @@
   ],
   "developerDisplayName": "ThinkingStars",
   "publisherDisplayName": "Lightning Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-09-22T09:00:00.000Z",
   "pcReleaseDate": "2022-03-17T09:00:00.000Z",
