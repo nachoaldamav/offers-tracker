@@ -95,11 +95,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "paquerette-down-the-bunburrows-2fd777",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "paquerette-down-the-bunburrows-2fd777",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Bunstack",
   "publisherDisplayName": "Abiding Bridge",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 839,
+      "originalPrice": 1199,
+      "voucherDiscount": 0,
+      "discount": 360,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "3fb5358ad1394d349b25138b25cf2390"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-08-02T15:00:00.000Z",
   "pcReleaseDate": "2023-08-02T15:00:00.000Z",
