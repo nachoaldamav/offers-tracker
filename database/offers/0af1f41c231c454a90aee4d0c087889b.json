@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-04-13T15:00:00.000Z",
   "creationDate": "2024-03-25T12:24:12.179Z",
-  "lastModifiedDate": "2025-04-02T16:18:25.493Z",
+  "lastModifiedDate": "2025-04-22T15:00:29.752Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "10719",
@@ -113,10 +117,10 @@
   "publisherDisplayName": "Kinga Rapala",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 599,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 900,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "6a5b43b9a9784b189270246d4afcb865"
+          }
+        ]
       }
     ]
   },

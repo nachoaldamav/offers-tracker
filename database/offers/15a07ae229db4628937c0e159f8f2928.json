@@ -83,7 +83,22 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "townsmen-a-kingdom-rebuilt-07c09d",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "townsmen-a-kingdom-rebuilt-townsmen-a-kingdom-rebuilt-the-seaside-empire-a810a5",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "townsmen-a-kingdom-rebuilt-townsmen-a-kingdom-rebuilt-complete-edition-6911d3",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "townsmen-a-kingdom-rebuilt-07c09d",
@@ -94,10 +109,10 @@
   "publisherDisplayName": "HandyGames",
   "price": {
     "totalPrice": {
-      "discountPrice": 399,
+      "discountPrice": 1999,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 1600,
+      "discount": 0,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -106,11 +121,7 @@
     },
     "lineOffers": [
       {
-        "appliedRules": [
-          {
-            "id": "f67f11b12d5a4c819fc4329ac2e6fbce"
-          }
-        ]
+        "appliedRules": []
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-01-22T05:00:00.000Z",
   "creationDate": "2024-09-12T04:07:34.163Z",
-  "lastModifiedDate": "2025-03-18T15:00:29.960Z",
+  "lastModifiedDate": "2025-04-22T15:00:29.751Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -62,6 +62,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1263",
@@ -125,10 +129,10 @@
   "publisherDisplayName": "ChenGame",
   "price": {
     "totalPrice": {
-      "discountPrice": 299,
+      "discountPrice": 224,
       "originalPrice": 299,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 75,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -137,7 +141,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "d2110922727c44fe985241478afaa1a1"
+          }
+        ]
       }
     ]
   },
