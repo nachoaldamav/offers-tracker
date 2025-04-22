@@ -135,11 +135,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "pirate-royalty-9942df",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "pirate-royalty-faq-6d0cbd",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "pirate-royalty-9942df",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Unreal Royalty, LLC",
   "publisherDisplayName": "Pirate Royalty, LLC",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-03-09T23:00:00.000Z",
   "pcReleaseDate": "2025-03-09T23:00:00.000Z",
