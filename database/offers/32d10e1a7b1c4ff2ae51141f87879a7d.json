@@ -122,8 +122,31 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "robocop-rogue-city",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "robocop-rogue-city--alex-murphy-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "robocop-rogue-city--digital-artbook",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "robocop-rogue-city--vanguard-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "robocop-rogue-city--alex-murphy-pack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Teyon",
   "publisherDisplayName": "Nacon",
   "price": null,
