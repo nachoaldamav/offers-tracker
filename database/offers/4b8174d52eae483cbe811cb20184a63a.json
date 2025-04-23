@@ -122,7 +122,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "aimlabs",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "aimlabs--faq",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "State Space Labs Inc.",
   "publisherDisplayName": "State Space Labs Inc",

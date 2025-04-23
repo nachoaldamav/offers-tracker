@@ -106,11 +106,47 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "dice-legacy",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "dice-legacy--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "dice-legacy--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "dice-legacy--corrupted-fates",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": "DESTINYbit S.r.l.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-09-09T16:00:00.000Z",
   "pcReleaseDate": "2021-09-09T16:00:00.000Z",
