@@ -146,28 +146,26 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": "Electronic Arts",
-  "publisherDisplayName": "Electronic Arts",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 6999,
-      "originalPrice": 6999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": []
+        "pageSlug": "star-wars-jedi-survivor",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "star-wars-jedi-survivor--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "star-wars-jedi-survivor--deluxe-upgrade",
+        "pageType": "addon--cms-hybrid"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": "Electronic Arts",
+  "publisherDisplayName": "Electronic Arts",
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-04-28T04:00:00.000Z",
   "pcReleaseDate": "2023-04-28T04:00:00.000Z",
