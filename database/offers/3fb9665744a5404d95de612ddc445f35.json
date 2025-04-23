@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-07-30T15:00:00.000Z",
   "creationDate": "2024-04-03T22:24:31.279Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.412Z",
+  "lastModifiedDate": "2025-04-23T23:34:41.807Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -158,11 +158,48 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "barony--legends-and-pariahs",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "barony--myths-and-outcasts",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "barony",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "barony",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Turning Wheel LLC",
   "publisherDisplayName": "Turning Wheel LLC",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2020-07-30T15:00:00.000Z",
   "pcReleaseDate": "2020-07-30T15:00:00.000Z",
