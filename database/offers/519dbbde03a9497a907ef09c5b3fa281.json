@@ -91,7 +91,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "urban-tale-75b4f0",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "urban-tale-75b4f0",
@@ -100,7 +107,24 @@
   ],
   "developerDisplayName": "WASD Games",
   "publisherDisplayName": "WASD Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1399,
+      "originalPrice": 1399,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-05-11T17:00:00.000Z",
   "pcReleaseDate": "2021-10-07T05:00:00.000Z",

@@ -87,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "csppi-faa354",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "csppi-faa354",
@@ -96,7 +103,24 @@
   ],
   "developerDisplayName": "D&A Studios",
   "publisherDisplayName": "D&A Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-11-23T03:10:47.000Z",
   "pcReleaseDate": "2024-08-30T13:00:00.000Z",

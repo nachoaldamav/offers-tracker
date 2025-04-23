@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "block-buster-billy-108756",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "block-buster-billy-108756",
@@ -100,7 +107,24 @@
   ],
   "developerDisplayName": "Bigosaur",
   "publisherDisplayName": "Bigosaur",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-24T15:00:00.000Z",
   "pcReleaseDate": "2023-08-28T05:00:00.000Z",
