@@ -91,7 +91,26 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "eastern-exorcist-android-8e99ad",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "eastern-exorcist-d49923",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "eastern-exorcist-ios-910c34",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "eastern-exorcist-faq-43376f",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "eastern-exorcist-d49923",
@@ -100,24 +119,7 @@
   ],
   "developerDisplayName": "Wildfire Game",
   "publisherDisplayName": "Wildfire Game",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1799,
-      "originalPrice": 1799,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-11-20T03:00:00.000Z",
   "pcReleaseDate": "2021-07-08T02:00:00.000Z",
