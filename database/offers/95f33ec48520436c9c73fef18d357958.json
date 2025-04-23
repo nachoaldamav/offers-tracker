@@ -102,54 +102,28 @@
       "path": "applications"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "rims-racing--career-pro-starter-pack",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "rims-racing--european-manufacturers-package",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "rims-racing--japanese-manufacturers-package",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "rims-racing--nolan-x-lite-helmets",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "rims-racing--the-bloody-beetroots-specials",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "rims-racing--bahrain-international-circuit",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "rims-racing--ultimate-edition",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "rims-racing--japanese-manufacturers-deluxe-edition",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "rims-racing--european-manufacturers-deluxe-edition",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "rims-racing",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-11-04T15:00:00.000Z",
   "pcReleaseDate": "2021-08-19T12:00:00.000Z",
