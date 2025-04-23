@@ -122,8 +122,32 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "realpolitiks-2--soundtrack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "realpolitiks-2--digital-artbook",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "realpolitiks-2--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "realpolitiks-2",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "realpolitiks-2",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Jujubee S.A.",
   "publisherDisplayName": "Fulqrum Publishing",
   "price": null,

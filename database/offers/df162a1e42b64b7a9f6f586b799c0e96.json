@@ -106,8 +106,23 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-longest-road-on-earth--backstage-edition",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-longest-road-on-earth",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-longest-road-on-earth--world-tour-bundle",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
   "price": null,
