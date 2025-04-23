@@ -90,11 +90,55 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sherlock-holmes-the-awakened--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "sherlock-holmes-the-awakened--premium-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "sherlock-holmes-the-awakened",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "sherlock-holmes-the-awakened--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "sherlock-holmes-the-awakened--the-whispered-dreams",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "sherlock-holmes-the-awakened--artbook",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Frogwares",
   "publisherDisplayName": "Frogwares",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-11T16:00:00.000Z",
   "pcReleaseDate": "2023-04-11T16:00:00.000Z",
