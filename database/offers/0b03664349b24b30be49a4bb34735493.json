@@ -119,7 +119,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "mass-effect-3-n7-digital-deluxe-edition-4ef6ed",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "mass-effect-3-n7-digital-deluxe-edition-4ef6ed",
@@ -128,7 +135,28 @@
   ],
   "developerDisplayName": "Bioware",
   "publisherDisplayName": "Electronic Arts",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 749,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 2250,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "f524ab1f97994c26832762cfa762df06"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-06-13T20:00:00.000Z",
   "pcReleaseDate": "2012-03-06T06:00:00.000Z",
