@@ -135,7 +135,26 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "rain-world-downpour-a3ccfb",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "rain-world-rain-world-deluxe-edition-15ece8",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "rain-world-rain-world-the-watcher-bab754",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "rain-world-4c860c",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "rain-world-4c860c",
@@ -144,24 +163,7 @@
   ],
   "developerDisplayName": "Videocult",
   "publisherDisplayName": "Akupara Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 2499,
-      "originalPrice": 2499,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-01-25T06:00:00.000Z",
   "pcReleaseDate": "2017-03-28T05:00:00.000Z",
