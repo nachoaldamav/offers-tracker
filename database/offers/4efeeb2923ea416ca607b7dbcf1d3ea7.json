@@ -103,8 +103,24 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-black-pool-ce55b8",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-black-pool-faq-090a6f",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "the-black-pool-ce55b8",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Smug Marmot Studios",
   "publisherDisplayName": "Smug Marmot Studios",
   "price": null,
