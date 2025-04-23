@@ -98,8 +98,24 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "lake",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "lake-seasons-greetings-4c92fa",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "lake",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Gamious",
   "publisherDisplayName": "Whitethorn Games",
   "price": null,

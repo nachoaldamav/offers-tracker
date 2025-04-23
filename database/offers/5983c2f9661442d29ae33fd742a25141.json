@@ -151,8 +151,24 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "voidtrain--early-access-faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "voidtrain",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "voidtrain",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "HypeTrain Digital",
   "publisherDisplayName": "HypeTrain Digital",
   "price": null,
