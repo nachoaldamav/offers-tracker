@@ -107,11 +107,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ertugrul-of-ulukayin-faq-477140",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "ertugrul-of-ulukayin-8bc359",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "ertugrul-of-ulukayin-8bc359",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Tekden Studio",
   "publisherDisplayName": "Tekden Film",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-08-16T19:00:00.000Z",
   "pcReleaseDate": "2024-08-16T19:00:00.000Z",
