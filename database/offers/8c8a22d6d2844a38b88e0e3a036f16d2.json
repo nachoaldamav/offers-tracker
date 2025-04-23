@@ -95,15 +95,27 @@
       }
     ]
   },
-  "offerMappings": [
-    {
-      "pageSlug": "valfaris-mecha-therion-e1182d",
-      "pageType": "productHome"
-    }
-  ],
+  "offerMappings": null,
   "developerDisplayName": "Steel Mantis",
   "publisherDisplayName": "Big Sugar",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2023-11-17T18:00:00.000Z",
