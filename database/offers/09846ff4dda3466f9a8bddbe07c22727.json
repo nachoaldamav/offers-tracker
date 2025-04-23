@@ -106,8 +106,20 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "rebel-cops",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "rebel-cops",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Weappy Studio",
   "publisherDisplayName": "THQ Nordic",
   "price": null,
