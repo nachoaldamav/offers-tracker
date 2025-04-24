@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "under-the-thorns-c308f9",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "under-the-thorns-c308f9",
@@ -100,24 +107,7 @@
   ],
   "developerDisplayName": "EVERIUM",
   "publisherDisplayName": "EVERIUM",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 0,
-      "originalPrice": 0,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2024-10-04T15:00:00.000Z",
   "pcReleaseDate": "2024-06-01T16:00:00.000Z",

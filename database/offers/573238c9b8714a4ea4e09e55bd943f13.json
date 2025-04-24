@@ -103,7 +103,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "neuragun-9ad15a",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "neuragun-faq-c07c49",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "neuragun-9ad15a",
@@ -112,28 +123,7 @@
   ],
   "developerDisplayName": "Whale Rock Games",
   "publisherDisplayName": "Whale Rock Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 83,
-      "originalPrice": 1199,
-      "voucherDiscount": 0,
-      "discount": 1116,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": [
-          {
-            "id": "d6a160a7d7684b8285d972ba62b17af0"
-          }
-        ]
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2024-10-01T09:00:00.000Z",
   "pcReleaseDate": "2022-01-21T10:00:00.000Z",

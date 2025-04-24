@@ -155,7 +155,26 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "city-20-city-20-demo-ead122",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "city-20-faq-1874ec",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "city-20-city-20-early-access-artbook-d88926",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "city-20-32eb30",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "city-20-32eb30",
@@ -164,24 +183,7 @@
   ],
   "developerDisplayName": "Untold Games",
   "publisherDisplayName": "Untold Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1999,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2024-09-23T13:00:00.000Z",
   "pcReleaseDate": "2024-09-23T13:00:00.000Z",
