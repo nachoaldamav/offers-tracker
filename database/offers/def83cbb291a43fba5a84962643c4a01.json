@@ -83,7 +83,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "cobra-kai-the-karate-kid-saga-continues-6ee85d",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "cobra-kai-the-karate-kid-saga-continues-6ee85d",
@@ -92,7 +99,24 @@
   ],
   "developerDisplayName": "Flux Games",
   "publisherDisplayName": "GameMill Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-01-10T00:00:00.000Z",
   "pcReleaseDate": "2022-01-10T00:00:00.000Z",
