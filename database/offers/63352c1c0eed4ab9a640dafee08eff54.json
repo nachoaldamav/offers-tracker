@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-01-19T16:00:00.000Z",
   "creationDate": "2022-10-05T21:32:47.210Z",
-  "lastModifiedDate": "2025-04-10T15:00:34.044Z",
+  "lastModifiedDate": "2025-04-24T15:00:46.258Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,10 +42,6 @@
     {
       "id": "9547",
       "name": "Windows"
-    },
-    {
-      "id": "35244",
-      "name": "Epic Savings"
     },
     {
       "id": "1117",
@@ -87,7 +83,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "epistory-typing-chronicles-445794",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "epistory-typing-chronicles-445794",
@@ -96,7 +99,24 @@
   ],
   "developerDisplayName": "Fishing Cactus",
   "publisherDisplayName": "Fishing Cactus",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-01-19T16:00:00.000Z",
   "pcReleaseDate": "2016-03-30T03:00:00.000Z",
