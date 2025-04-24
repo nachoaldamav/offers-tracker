@@ -162,7 +162,34 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "warhammer-40000-chaos-gate-daemonhunters",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "warhammer-40000-chaos-gate-daemonhunters--castellan-champion-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "warhammer-40000-chaos-gate-daemonhunters--castellan-upgrade-pack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "warhammer-40000-chaos-gate-daemonhunters--execution-force",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "warhammer-40000-chaos-gate-daemonhunters--duty-eternal",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "warhammer-40000-chaos-gate-daemonhunters--original-soundtrack",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "warhammer-40000-chaos-gate-daemonhunters",
@@ -171,7 +198,24 @@
   ],
   "developerDisplayName": "Complex Games",
   "publisherDisplayName": "Frontier Foundry",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4499,
+      "originalPrice": 4499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-05-05T14:00:00.000Z",
   "pcReleaseDate": "2022-05-05T14:00:00.000Z",
