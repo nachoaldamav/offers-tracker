@@ -87,7 +87,22 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "norco-3ba4e2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "norco-norco-original-soundtrack-a85e23",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "norco-the-art-of-norco-7eb291",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "norco-3ba4e2",
@@ -96,7 +111,24 @@
   ],
   "developerDisplayName": "Geography of Robots",
   "publisherDisplayName": "Raw Fury",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-03-24T15:00:00.000Z",
   "pcReleaseDate": "2022-03-24T15:00:00.000Z",
