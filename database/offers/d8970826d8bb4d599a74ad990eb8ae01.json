@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-02-24T14:00:00.000Z",
   "creationDate": "2021-02-12T22:36:58.000Z",
-  "lastModifiedDate": "2025-04-13T01:59:01.080Z",
+  "lastModifiedDate": "2025-04-24T03:04:28.046Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -126,11 +126,35 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "geneforge-1-mutagen",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1995,
+      "originalPrice": 1995,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-02-24T14:00:00.000Z",
   "pcReleaseDate": "2021-02-24T14:00:00.000Z",
