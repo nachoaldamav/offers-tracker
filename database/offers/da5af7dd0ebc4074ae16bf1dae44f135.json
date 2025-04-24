@@ -99,13 +99,23 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "moons-of-ardan-d4f9a3",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "moons-of-ardan-faq-cc9794",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "moons-of-ardan-moons-of-ardan-demo-ad9717",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "moons-of-ardan-d4f9a3",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Pandora Technology",
   "publisherDisplayName": "Pandora Technology",
   "price": null,
