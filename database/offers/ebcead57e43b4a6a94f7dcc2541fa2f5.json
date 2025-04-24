@@ -130,7 +130,26 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sonic-origins--start-dash-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "sonic-origins",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "sonic-origins--plus-expansion-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "sonic-origins--plus-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
