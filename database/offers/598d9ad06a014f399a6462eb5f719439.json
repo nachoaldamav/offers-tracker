@@ -91,11 +91,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "dark-fantasy-2-jigsaw-puzzle-d65d41",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "dark-fantasy-2-jigsaw-puzzle-d65d41",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "NAISU",
   "publisherDisplayName": "NAISU",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 299,
+      "originalPrice": 299,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-08-11T03:00:00.000Z",
   "pcReleaseDate": "2019-05-17T02:00:00.000Z",
