@@ -79,7 +79,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "guardians-of-hyelore-0b07d3",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "guardians-of-hyelore-0b07d3",
@@ -88,24 +95,7 @@
   ],
   "developerDisplayName": "Megaglope Studios",
   "publisherDisplayName": "Freedom Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1999,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2021-09-29T13:00:00.000Z",
   "pcReleaseDate": "2021-09-29T13:00:00.000Z",

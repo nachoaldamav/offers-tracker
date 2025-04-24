@@ -115,7 +115,22 @@
       "path": "games/edition"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "baldurs-gate-2-enhanced-edition--soundtrack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "baldurs-gate-2-enhanced-edition-baldurs-gate-ii-reflections-of-myth-and-valor-477d79",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "baldurs-gate-2-enhanced-edition",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "baldurs-gate-2-enhanced-edition",
@@ -124,24 +139,7 @@
   ],
   "developerDisplayName": "Beamdog",
   "publisherDisplayName": "Beamdog",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1999,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2021-09-28T15:00:00.000Z",
   "pcReleaseDate": "2013-11-15T21:02:32.000Z",
