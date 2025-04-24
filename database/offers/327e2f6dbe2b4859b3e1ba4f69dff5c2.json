@@ -130,8 +130,27 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "deceive-inc",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "deceive-inc--black-tie-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "deceive-inc--black-tie-dlc",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "deceive-inc--free-weekend",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Sweet Bandits Studios",
   "publisherDisplayName": "Tripwire Interactive",
   "price": {
