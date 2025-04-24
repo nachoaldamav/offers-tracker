@@ -91,18 +91,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "hyperviolent-5d1983",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "hyperviolent-faq-4a74bd",
-        "pageType": "info"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "hyperviolent-5d1983",
@@ -111,7 +100,24 @@
   ],
   "developerDisplayName": "Terminist Arcade",
   "publisherDisplayName": "Fulqrum Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-04-06T17:00:00.000Z",
   "pcReleaseDate": "2023-04-06T17:00:00.000Z",
