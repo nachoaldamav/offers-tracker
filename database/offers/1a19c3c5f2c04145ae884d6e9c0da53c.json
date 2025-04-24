@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-05-10T16:00:00.000Z",
   "creationDate": "2024-03-06T19:07:50.638Z",
-  "lastModifiedDate": "2025-01-08T16:47:14.624Z",
+  "lastModifiedDate": "2025-04-24T21:10:09.343Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -147,11 +147,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "crosshair-v2-d58322",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "crosshair-v2-d58322",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "CenterPoint Gaming",
   "publisherDisplayName": "CenterPoint Gaming",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-05-10T16:00:00.000Z",
   "pcReleaseDate": "2023-01-27T00:00:00.000Z",
