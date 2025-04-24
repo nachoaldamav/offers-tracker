@@ -162,7 +162,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ultros",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "ultros--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ultros--artbook-and-soundtrack",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "ultros",
