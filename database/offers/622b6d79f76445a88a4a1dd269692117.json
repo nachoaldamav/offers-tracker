@@ -79,14 +79,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "recursive-ruin-8fa892",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "recursive-ruin-8fa892",
@@ -95,7 +88,24 @@
   ],
   "developerDisplayName": "Bit Rot",
   "publisherDisplayName": "Iceberg Interactive",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-05-18T13:00:00.000Z",
   "pcReleaseDate": "2022-05-18T13:00:00.000Z",

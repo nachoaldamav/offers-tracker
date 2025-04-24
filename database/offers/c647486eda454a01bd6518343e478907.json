@@ -79,14 +79,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "dread-x-collection-2-8d7de9",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "dread-x-collection-2-8d7de9",
@@ -95,7 +88,24 @@
   ],
   "developerDisplayName": "Various Developers",
   "publisherDisplayName": "DreadXP",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-05-12T08:00:00.000Z",
   "pcReleaseDate": "2020-08-20T00:00:00.000Z",

@@ -79,14 +79,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "star-vikings-forever-215b84",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "star-vikings-forever-215b84",
@@ -95,7 +88,24 @@
   ],
   "developerDisplayName": "Rogue Snail",
   "publisherDisplayName": "Akupara Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-05-13T14:00:00.000Z",
   "pcReleaseDate": "2016-10-06T00:00:00.000Z",
