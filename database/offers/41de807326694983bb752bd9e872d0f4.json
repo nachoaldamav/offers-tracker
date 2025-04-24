@@ -150,7 +150,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sifu--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "sifu--deluxe-edition-upgrade",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "sifu",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "sifu",
@@ -159,7 +174,24 @@
   ],
   "developerDisplayName": "Sloclap",
   "publisherDisplayName": "Sloclap",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-02-08T12:00:00.000Z",
   "pcReleaseDate": "2022-02-08T12:00:00.000Z",
