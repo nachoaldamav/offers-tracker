@@ -111,13 +111,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "vivaion-0ae3ab",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "vivaion-0ae3ab",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "vivaion-faq-affa82",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Bifrost Inc",
   "publisherDisplayName": "Bifrost Inc",
   "price": {

@@ -91,16 +91,51 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "pufferfishshow-14b732",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "pufferfishshow-as_diamonds_pack_medium-717543",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "pufferfishshow-as_diamonds_pack_small-193d8c",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "pufferfishshow-14b732",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "pufferfishshow-faq-090e2c",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "pufferfishshow-as_diamonds_pack_large-8e2d8f",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Phyrexi, Inc",
   "publisherDisplayName": "Phyrexi, Inc",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 199,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",
