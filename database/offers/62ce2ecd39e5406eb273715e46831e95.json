@@ -82,8 +82,27 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "road-96-mile-0",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "road-96-mile-0--about-a-girl",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "road-96-mile-0--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "road-96-mile-0--stronger-together-bundle",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "DigixArt Entertainment SAS",
   "publisherDisplayName": "Ravenscourt",
   "price": null,

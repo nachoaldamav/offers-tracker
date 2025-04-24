@@ -162,8 +162,24 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "stray-blade--valley-of-strays",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "stray-blade",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "stray-blade",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Point Blank Games",
   "publisherDisplayName": "505 Games",
   "price": null,

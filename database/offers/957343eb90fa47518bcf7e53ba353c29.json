@@ -83,7 +83,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "avencast-rise-of-the-mage-4668a2",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "avencast-rise-of-the-mage-4668a2",
@@ -92,24 +99,7 @@
   ],
   "developerDisplayName": "Clockstone Studios",
   "publisherDisplayName": "Clockstone Studios",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 499,
-      "originalPrice": 499,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2022-05-23T16:00:00.000Z",
   "pcReleaseDate": "2010-03-17T00:00:00.000Z",

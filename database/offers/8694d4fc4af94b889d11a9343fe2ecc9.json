@@ -71,7 +71,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "seven-enhanced-edition-9ba7c7",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "seven-enhanced-edition-9ba7c7",
@@ -80,24 +87,7 @@
   ],
   "developerDisplayName": "IMGN.PRO / Fool's Theory",
   "publisherDisplayName": "IMGN.PRO",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 3499,
-      "originalPrice": 3499,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2022-05-26T14:00:00.000Z",
   "pcReleaseDate": "2017-12-01T00:00:00.000Z",

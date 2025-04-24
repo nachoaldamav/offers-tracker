@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-04-24T08:00:00.000Z",
   "creationDate": "2025-02-24T09:58:45.785Z",
-  "lastModifiedDate": "2025-04-24T07:35:04.851Z",
+  "lastModifiedDate": "2025-04-24T15:19:08.779Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -20,6 +20,10 @@
     {
       "type": "Thumbnail",
       "url": "https://cdn1.epicgames.com/spt-assets/6ca5202bcdcf44cba12437187b7b282f/amerzone--the-explorers-legacy-remake-1ypou.jpg"
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://a64947f4-7342-485b-b2a5-8853ef24bdf0?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F6ca5202bcdcf44cba12437187b7b282f%2Famerzone--the-explorers-legacy-remake-video-9k6rd.png"
     },
     {
       "type": "heroCarouselVideo",
@@ -135,11 +139,56 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "amerzone-the-explorers-legacy-remake-amerzone-the-explorers-legacy-deluxe-edition-654d8f",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "amerzone-the-explorers-legacy-remake-amerzone-testing-edition-ec4f33",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "amerzone-the-explorers-legacy-remake-amerzone-the-explorers-legacy-deluxe-upgrade-dlc-7f5e88",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "amerzone-the-explorers-legacy-remake-amerzone-the-explorers-legacy-demo-e2317f",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "amerzone-the-explorers-legacy-remake-88464f",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "amerzone-the-explorers-legacy-remake-88464f",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Microids Studio Paris",
   "publisherDisplayName": "Microids",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-04-24T08:00:00.000Z",
   "pcReleaseDate": "2025-04-24T08:00:00.000Z",
