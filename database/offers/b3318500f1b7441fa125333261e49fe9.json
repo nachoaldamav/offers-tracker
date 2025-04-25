@@ -143,46 +143,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "faaast-penguin-crystal-trial-pack-fb9458",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "faaast-penguin-4319d6",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "faaast-penguin-historiacbt-d14f75",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "faaast-penguin-クリスタル×500-47b87c",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "faaast-penguin-faq-90c5e0",
-        "pageType": "info"
-      },
-      {
-        "pageSlug": "faaast-penguin-クリスタル×1000-788af7",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "faaast-penguin-crystals-×13000-21b13b",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "faaast-penguin-クリスタル×2200-42a09d",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "faaast-penguin-crystals-×6000-24c8d0",
-        "pageType": "offer"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "faaast-penguin-4319d6",
@@ -191,7 +152,24 @@
   ],
   "developerDisplayName": "historia Inc.",
   "publisherDisplayName": "historia Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-09-20T03:00:00.000Z",
   "pcReleaseDate": "2024-09-20T03:00:00.000Z",
