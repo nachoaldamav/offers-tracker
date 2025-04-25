@@ -131,11 +131,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "workshop-rush-9b4071",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "workshop-rush-9b4071",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Vault Games",
   "publisherDisplayName": "Vault Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 359,
+      "originalPrice": 599,
+      "voucherDiscount": 0,
+      "discount": 240,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "ef954216fb3c40718a7dc328ac7eda29"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-04-19T10:00:00.000Z",
   "pcReleaseDate": "2025-04-19T10:00:00.000Z",
