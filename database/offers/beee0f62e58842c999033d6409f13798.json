@@ -91,14 +91,7 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "beyond-galaxyland-521b75",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "beyond-galaxyland-521b75",
@@ -107,7 +100,24 @@
   ],
   "developerDisplayName": "Sam Enright",
   "publisherDisplayName": "United Label",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": false,
   "releaseDate": "2024-09-24T15:00:00.000Z",
   "pcReleaseDate": "2024-09-24T15:00:00.000Z",
