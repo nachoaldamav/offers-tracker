@@ -94,11 +94,51 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "disgaea-6-complete",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "disgaea-6-complete--digital-dood-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "disgaea-6-complete--hololive-collaboration-set",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "disgaea-6-complete--digital-art-book",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Nippon Ichi Software, Inc.",
   "publisherDisplayName": "NIS America, Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 5999,
+      "voucherDiscount": 0,
+      "discount": 3000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "00971b8c6a61448d93a10b98c8f4940d"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-06-28T17:00:00.000Z",
   "pcReleaseDate": "2022-06-28T17:00:00.000Z",
