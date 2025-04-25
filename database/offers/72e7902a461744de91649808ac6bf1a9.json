@@ -4,9 +4,9 @@
   "namespace": "b4885f810e7b4319bca10d00f067e0e6",
   "description": "People and Zombies is a post apocalyptic survival game that currently only supports single player gameplay. Its characteristic is the story of survival in a post apocalyptic world of extreme poverty and resource scarcity.",
   "offerType": "BASE_GAME",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2025-04-20T22:00:20.051Z",
-  "lastModifiedDate": "2025-04-21T05:53:50.614Z",
+  "effectiveDate": "2025-04-25T12:30:01.000Z",
+  "creationDate": "2025-04-10T10:02:34.302Z",
+  "lastModifiedDate": "2025-04-25T12:30:18.294Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -93,7 +93,7 @@
     },
     {
       "key": "isManuallySetPCReleaseDate",
-      "value": "false"
+      "value": "true"
     },
     {
       "key": "isBlockchainUsed",
@@ -111,20 +111,43 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "people-and-zombies-edccb4",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "people-and-zombies-edccb4",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "HUKE",
   "publisherDisplayName": "HUKE",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 699,
+      "originalPrice": 699,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-04-25T00:00:00.000Z",
-  "pcReleaseDate": "2025-04-21T00:00:00.000Z",
+  "pcReleaseDate": "2025-04-18T22:00:00.000Z",
   "viewableDate": "2025-04-20T22:00:02.000Z",
-  "approximateReleasePlan": {
-    "day": 25,
-    "month": 4,
-    "quarter": null,
-    "year": 2025,
-    "releaseDateType": "BY_DATE"
-  }
+  "approximateReleasePlan": null
 }
