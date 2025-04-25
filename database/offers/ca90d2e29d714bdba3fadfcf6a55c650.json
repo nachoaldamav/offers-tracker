@@ -106,22 +106,28 @@
       "path": "applications"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "the-last-friend--demo",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "the-last-friend",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [],
   "developerDisplayName": "The Stonebot Studio, Ludus Games",
   "publisherDisplayName": "Skystone Games Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-09-30T16:00:00.000Z",
   "pcReleaseDate": "2021-09-30T16:00:00.000Z",

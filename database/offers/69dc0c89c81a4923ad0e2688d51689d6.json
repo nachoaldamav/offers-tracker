@@ -106,34 +106,28 @@
       "path": "applications"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "unmetal--undeluxe-edition",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "unmetal--creator-pack",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "unmetal--big-boom-box-soundtrack",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "unmetal",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "unmetal--demo",
-        "pageType": "offer"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-09-28T17:00:00.000Z",
   "pcReleaseDate": "2021-09-28T17:00:00.000Z",
