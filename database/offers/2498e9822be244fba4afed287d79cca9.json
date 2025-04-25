@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-04-22T00:54:19.000Z",
   "creationDate": "2025-02-23T10:06:47.190Z",
-  "lastModifiedDate": "2025-04-22T00:54:36.414Z",
+  "lastModifiedDate": "2025-04-25T16:32:43.158Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -72,6 +72,10 @@
       "name": "Windows"
     },
     {
+      "id": "21147",
+      "name": "Inclusive Character Customization"
+    },
+    {
       "id": "1294",
       "name": "First Person"
     }
@@ -115,11 +119,40 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "echo-flare-e4ff6f",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "echo-flare-e4ff6f",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "MetaEcho Interactive",
   "publisherDisplayName": "MetaEcho Interactive",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1399,
+      "originalPrice": 1399,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-04-22T00:54:19.000Z",
   "pcReleaseDate": "2025-04-21T07:00:00.000Z",
