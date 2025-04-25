@@ -91,13 +91,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "beyond-astra-0973b8",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "beyond-astra-0973b8",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "beyond-astra-faq-ecbf1c",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Nebule Games",
   "publisherDisplayName": "Nebule Games",
   "price": null,

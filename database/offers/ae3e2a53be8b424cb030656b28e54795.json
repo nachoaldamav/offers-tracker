@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "my-little-pony-a-maretime-bay-adventure-6a2cce",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "my-little-pony-a-maretime-bay-adventure-6a2cce",
@@ -100,7 +107,28 @@
   ],
   "developerDisplayName": "Melbot Studios",
   "publisherDisplayName": "Outright Games Ltd.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1599,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 2400,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "de7c91e19d09427c89897f62d510c082"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-12-15T18:00:00.000Z",
   "pcReleaseDate": "2022-05-26T23:00:00.000Z",
