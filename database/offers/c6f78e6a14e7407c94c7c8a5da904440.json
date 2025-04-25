@@ -90,90 +90,28 @@
       "path": "applications"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "lego-2k-drive--starter-pack",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "lego-2k-drive--stack-of-coins",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "lego-2k-drive--handful-of-coins",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "lego-2k-drive--crate-of-coins",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "lego-2k-drive--pallet-of-coins",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "lego-2k-drive--box-of-coins",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "lego-2k-drive--year-1-drive-pass",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "lego-2k-drive--premium-drive-pass-season-1-pre-purchase",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "lego-2k-drive--awesome-edition",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "lego-2k-drive--season-1-drive-pass",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "lego-2k-drive--season-1-coin-bundle",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "lego-2k-drive--season-2-coin-bundle",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "lego-2k-drive--season-2-drive-pass",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "lego-2k-drive--season-3-drive-pass",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "lego-2k-drive--season-3-coin-bundle",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "lego-2k-drive--season-4-coin-bundle",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "lego-2k-drive--season-4-drive-pass",
-        "pageType": "addon--cms-hybrid"
-      },
-      {
-        "pageSlug": "lego-2k-drive--awesome-rivals-edition",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "lego-2k-drive",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [],
   "developerDisplayName": "Visual Concepts",
   "publisherDisplayName": "2K",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-05-19T04:00:00.000Z",
   "pcReleaseDate": "2023-05-19T04:00:00.000Z",
