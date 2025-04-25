@@ -150,28 +150,50 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": null,
-  "publisherDisplayName": null,
-  "price": {
-    "totalPrice": {
-      "discountPrice": 5999,
-      "originalPrice": 5999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": []
+        "pageSlug": "tiny-tinas-wonderlands--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "tiny-tinas-wonderlands--season-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "tiny-tinas-wonderlands--coiled-captors",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "tiny-tinas-wonderlands--golden-hero-armor-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "tiny-tinas-wonderlands--gluttons-gamble",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "tiny-tinas-wonderlands--molten-mirrors",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "tiny-tinas-wonderlands--shattering-spectreglass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "tiny-tinas-wonderlands",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "tiny-tinas-wonderlands--chaotic-great-edition",
+        "pageType": "offer"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": null,
   "prePurchase": false,
   "releaseDate": "2022-03-24T23:00:00.000Z",
   "pcReleaseDate": "2022-03-24T23:00:00.000Z",

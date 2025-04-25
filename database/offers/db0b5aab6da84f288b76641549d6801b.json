@@ -107,13 +107,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "rooted-0d3110",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "rooted-0d3110",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "rooted-faq-7b34dd",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Headlight Studio",
   "publisherDisplayName": "Headlight Studio",
   "price": null,

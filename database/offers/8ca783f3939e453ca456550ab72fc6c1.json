@@ -142,28 +142,30 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": "KOEI TECMO GAMES CO., LTD.",
-  "publisherDisplayName": "Square Enix",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 3999,
-      "originalPrice": 3999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": []
+        "pageSlug": "stranger-of-paradise-final-fantasy-origin--digital-deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "stranger-of-paradise-final-fantasy-origin--season-pass",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "stranger-of-paradise-final-fantasy-origin",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "stranger-of-paradise-final-fantasy-origin--digital-deluxe-upgrade",
+        "pageType": "addon--cms-hybrid"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": "KOEI TECMO GAMES CO., LTD.",
+  "publisherDisplayName": "Square Enix",
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2022-04-18T04:00:00.000Z",
   "pcReleaseDate": "2022-03-18T04:00:00.000Z",

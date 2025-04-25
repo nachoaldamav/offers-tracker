@@ -83,7 +83,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "run-the-world-inbetween-soundtrack-d8df5c",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "run-the-world-inbetween-399e64",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "run-the-world-inbetween-399e64",
@@ -92,24 +103,7 @@
   ],
   "developerDisplayName": "Team RUN",
   "publisherDisplayName": "Plug In Digital SAS",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 999,
-      "originalPrice": 999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2022-04-14T13:00:00.000Z",
   "pcReleaseDate": "2022-04-14T13:00:00.000Z",
