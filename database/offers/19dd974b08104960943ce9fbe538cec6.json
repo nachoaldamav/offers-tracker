@@ -131,11 +131,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sea-of-dreams-survivors-e4ddfb",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "sea-of-dreams-survivors-sea-of-dreams-survivors-demo-270d4b",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "sea-of-dreams-survivors-e4ddfb",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Dezeiraud Games",
   "publisherDisplayName": "Dezeiraud Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 599,
+      "originalPrice": 599,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-12-31T00:00:00.000Z",
   "pcReleaseDate": "2025-12-31T00:00:00.000Z",
