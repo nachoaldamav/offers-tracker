@@ -130,7 +130,30 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "dragon-age-the-veilguard--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "dragon-age-the-veilguard--deluxe-upgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "dragon-age-the-veilguard--character-creator",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "dragon-age-the-veilguard",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "dragon-age-the-veilguard--weapon-appearances",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "BioWare",
   "publisherDisplayName": "Electronic Arts",
