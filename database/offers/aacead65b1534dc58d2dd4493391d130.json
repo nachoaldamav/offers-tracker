@@ -90,28 +90,54 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": "Frontier Developments",
-  "publisherDisplayName": "Frontier Developments",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 5999,
-      "originalPrice": 5999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": []
+        "pageSlug": "warhammer-age-of-sigmar-realms-of-ruin",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "warhammer-age-of-sigmar-realms-of-ruin--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "warhammer-age-of-sigmar-realms-of-ruin--ultimate-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "warhammer-age-of-sigmar-realms-of-ruin--deluxe-upgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "warhammer-age-of-sigmar-realms-of-ruin--gobsprakk-the-mouth-of-mork",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "warhammer-age-of-sigmar-realms-of-ruin--celestial-spear-and-mouth-of-mork-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "warhammer-age-of-sigmar-realms-of-ruin--yndrasta-the-celestial-spear",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "warhammer-age-of-sigmar-realms-of-ruin--kurdoss-valentian",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "warhammer-age-of-sigmar-realms-of-ruin--gaunt-summoner",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "warhammer-age-of-sigmar-realms-of-ruin--kurdoss-valentian-and-gaunt-summoner",
+        "pageType": "addon--cms-hybrid"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": "Frontier Developments",
+  "publisherDisplayName": "Frontier Developments",
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-11-17T16:00:00.000Z",
   "pcReleaseDate": "2023-11-17T16:00:00.000Z",
