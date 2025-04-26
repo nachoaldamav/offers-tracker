@@ -87,11 +87,40 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "evoland-legendary-edition-5753ec",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "evoland-legendary-edition-5753ec",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Shiro Games",
   "publisherDisplayName": "Shiro Unlimited",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-10-20T15:00:00.000Z",
   "pcReleaseDate": "2019-02-07T08:00:00.000Z",
