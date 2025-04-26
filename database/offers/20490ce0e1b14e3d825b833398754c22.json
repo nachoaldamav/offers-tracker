@@ -83,18 +83,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "stygian-reign-of-the-old-ones-56e1d7",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "stygian-reign-of-the-old-ones-stygian-reign-of-the-old-ones-artbook-1d8795",
-        "pageType": "offer"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "stygian-reign-of-the-old-ones-56e1d7",
@@ -103,7 +92,24 @@
   ],
   "developerDisplayName": "Cultic Games",
   "publisherDisplayName": "Fulqrum Publishing",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1999,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-03-03T10:00:00.000Z",
   "pcReleaseDate": "2019-09-26T00:00:00.000Z",
