@@ -99,7 +99,34 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "dungeons-4-595454",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "dungeons-4-dungeons-4-deluxe-edition-content-d60dd2",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "dungeons-4-dungeons-4-deluxe-edition-ba7fc8",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "dungeons-4-dungeons-4-testing-edition-5dee67",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "dungeons-4-dungeons-4-not-another-multiverse-15fd5d",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "dungeons-4-dungeons-4-the-good-the-bad-and-the-evil-fa2d08",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "dungeons-4-595454",
@@ -108,7 +135,24 @@
   ],
   "developerDisplayName": "Realmforge Studios",
   "publisherDisplayName": "Kalypso Media",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": false,
   "releaseDate": "2023-11-09T18:00:00.000Z",
   "pcReleaseDate": "2023-11-09T18:00:00.000Z",
