@@ -154,7 +154,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-messenger--picnic-panic",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-messenger",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-messenger",

@@ -119,10 +119,27 @@
     }
   ],
   "catalogNs": null,
-  "offerMappings": null,
+  "offerMappings": [],
   "developerDisplayName": "Dovetail Games",
   "publisherDisplayName": "Dovetail Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-09-17T17:00:00.000Z",
   "pcReleaseDate": "2024-09-17T17:00:00.000Z",

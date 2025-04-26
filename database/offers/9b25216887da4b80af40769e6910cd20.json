@@ -106,7 +106,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "hello-neighbor-hide-and-seek--demo",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "hello-neighbor-hide-and-seek",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

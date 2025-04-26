@@ -118,7 +118,26 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "watch-dogs-2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "watch-dogs-2--gold-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "watch-dogs-2--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "watch-dogs-2--season-pass",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,

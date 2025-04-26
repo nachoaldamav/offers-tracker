@@ -126,7 +126,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "moonlighter--dlc",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "moonlighter",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "moonlighter",

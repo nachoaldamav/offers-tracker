@@ -134,7 +134,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "hello-neighbor",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "hello-neighbor--modkit",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
