@@ -135,11 +135,39 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "madden-nfl-24",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "madden-nfl-24--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Tiburon",
   "publisherDisplayName": "Electronic Arts",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 6999,
+      "originalPrice": 6999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-08-18T00:00:00.000Z",
   "pcReleaseDate": "2023-08-18T00:00:00.000Z",
