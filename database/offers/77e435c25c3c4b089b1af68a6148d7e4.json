@@ -103,7 +103,22 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "atom-rpg-trudograd-atom-rpg-trudograd-supporter-pack-15089a",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "atom-rpg-trudograd-a97244",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "atom-rpg-trudograd-atom-rpg-trudograd-war-supply-pack-bf41b8",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "atom-rpg-trudograd-a97244",
@@ -112,7 +127,24 @@
   ],
   "developerDisplayName": "ATOM TEAM",
   "publisherDisplayName": "ATOM TEAM",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1099,
+      "originalPrice": 1099,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-11-07T12:00:00.000Z",
   "pcReleaseDate": "2022-11-07T12:00:00.000Z",
