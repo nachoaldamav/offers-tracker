@@ -170,54 +170,7 @@
       "path": "applications"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "final-fantasy-xvi-echoes-of-the-fallen-c4e824",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "final-fantasy-xvi",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "final-fantasy-xvi-sixteen-bells-orchestrion-roll-861aa0",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "final-fantasy-xvi-brave-blade-4b87f7",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "final-fantasy-xvi-cait-sith-charm-706dc4",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "final-fantasy-xvi-complete-edition-be3de8",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "final-fantasy-xvi-final-fantasy-xvi-test-edition-cef2ac",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "final-fantasy-xvi-the-rising-tide-c7ab63",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "final-fantasy-xvi-demo-c289c2",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "final-fantasy-xvi-final-fantasy-xvi-expansion-pass-c276c3",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "final-fantasy-xvi-complete-edition-7cfd7c",
-        "pageType": "offer"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "final-fantasy-xvi",
@@ -226,7 +179,24 @@
   ],
   "developerDisplayName": "Square Enix",
   "publisherDisplayName": "Square Enix",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-09-17T14:00:00.000Z",
   "pcReleaseDate": "2024-09-17T14:00:00.000Z",

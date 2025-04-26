@@ -83,46 +83,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "kurtzpel-kurtzpel-2000-kp-60835f",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "kurtzpel-fe28e8",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "kurtzpel-kurtzpel-4000-kp-a426ef",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "kurtzpel-kurtzpel-1000-kp-2024a4",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "kurtzpel-kurtzpel-5000-kp-3f7d39",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "kurtzpel-kurtzpel-3000-kp-cada1e",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "kurtzpel-kurtzpel-a129ff",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "kurtzpel-kurtzpel-500-kp-7c3839",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "kurtzpel-faq-7cd4f2",
-        "pageType": "info"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "kurtzpel-fe28e8",
@@ -131,7 +92,24 @@
   ],
   "developerDisplayName": "KOG",
   "publisherDisplayName": "KOG",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-09-11T05:00:00.000Z",
   "pcReleaseDate": "2019-04-30T15:00:00.000Z",
