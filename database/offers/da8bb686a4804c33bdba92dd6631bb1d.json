@@ -91,11 +91,52 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "born-of-bread-008e66",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "born-of-bread-born-of-bread-baker-edition-d1489d",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "born-of-bread-born-of-bread-soundtrack-bf97a7",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "born-of-bread-born-of-bread-artbook-b8643d",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "born-of-bread-008e66",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "WildArts Studio Inc.",
   "publisherDisplayName": "Dear Villagers",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-05T18:00:00.000Z",
   "pcReleaseDate": "2023-12-05T18:00:00.000Z",

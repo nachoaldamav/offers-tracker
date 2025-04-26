@@ -103,11 +103,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "legends-of-bezogia-faq-0cc3bc",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "legends-of-bezogia-33aa76",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "legends-of-bezogia-33aa76",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Zogi Labs",
   "publisherDisplayName": "Zogi Labs",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-11T16:01:04.001Z",
   "pcReleaseDate": "2023-12-07T16:00:00.000Z",
