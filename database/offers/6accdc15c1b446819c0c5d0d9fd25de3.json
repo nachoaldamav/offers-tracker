@@ -95,8 +95,24 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "another-world-b86b7e",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "another-world-faq-a49749",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "another-world-b86b7e",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Another World DAO",
   "publisherDisplayName": "ScienceVR, Inc.",
   "price": null,

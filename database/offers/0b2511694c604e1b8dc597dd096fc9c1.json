@@ -138,11 +138,51 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "transport-fever-2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "transport-fever-2--early-supporter-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "transport-fever-2--deluxe-upgrade-es",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "transport-fever-2--deluxe-upgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "transport-fever-2--deluxe-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Urban Games",
   "publisherDisplayName": "Good Shepherd Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-08-18T14:00:00.000Z",
   "pcReleaseDate": "2021-08-18T14:00:00.000Z",
