@@ -126,28 +126,50 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": "Stardock Entertainment",
-  "publisherDisplayName": "Stardock Entertainment",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 3999,
-      "originalPrice": 3999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": []
+        "pageSlug": "galactic-civilizations-iv-supernova--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "galactic-civilizations-iv-supernova",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "galactic-civilizations-iv-supernova--species-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "galactic-civilizations-iv-supernova--megastructures",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "galactic-civilizations-iv-supernova--tales-of-the-arnor",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "galactic-civilizations-iv-supernova--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "galactic-civilizations-iv-supernova--warlords",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "galactic-civilizations-iv-supernova--tales-of-centauron",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "galactic-civilizations-iv-supernova--expansion-pass",
+        "pageType": "addon--cms-hybrid"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": "Stardock Entertainment",
+  "publisherDisplayName": "Stardock Entertainment",
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-04-27T14:45:00.000Z",
   "pcReleaseDate": "2023-04-27T14:45:00.000Z",

@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "wild-animal-sports-day-2bd1c2",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "wild-animal-sports-day-2bd1c2",
@@ -100,24 +107,7 @@
   ],
   "developerDisplayName": "Paul Bird",
   "publisherDisplayName": "Marjupi Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 399,
-      "originalPrice": 399,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-04-28T11:00:00.000Z",
   "pcReleaseDate": "2018-08-18T09:00:00.000Z",
