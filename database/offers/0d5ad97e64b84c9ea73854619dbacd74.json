@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-03-01T00:00:00.000Z",
   "creationDate": "2022-02-25T22:02:36.065Z",
-  "lastModifiedDate": "2025-04-24T16:36:37.514Z",
+  "lastModifiedDate": "2025-04-26T10:40:02.550Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,10 +42,6 @@
     {
       "id": "1188",
       "name": "RELAXING"
-    },
-    {
-      "id": "21125",
-      "name": "Competitive Community"
     },
     {
       "id": "21127",
@@ -119,7 +115,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "five-nights-at-freddys-security-breach-8dee2a",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "five-nights-at-freddys-security-breach-8dee2a",
@@ -128,7 +131,24 @@
   ],
   "developerDisplayName": "Steel Wool Studios",
   "publisherDisplayName": "ScottGames",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 3999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-03-01T00:00:00.000Z",
   "pcReleaseDate": null,
