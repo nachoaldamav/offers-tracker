@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-08-16T15:00:00.000Z",
   "creationDate": "2023-04-28T22:40:37.185Z",
-  "lastModifiedDate": "2025-04-24T18:37:38.822Z",
+  "lastModifiedDate": "2025-04-26T02:36:41.794Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,10 +42,6 @@
     {
       "id": "21122",
       "name": "Diverse Characters"
-    },
-    {
-      "id": "21125",
-      "name": "Competitive Community"
     },
     {
       "id": "21129",
@@ -147,7 +143,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-etherscape-b2e3d2",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-etherscape-faq-6b54cb",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "the-etherscape-b2e3d2",
@@ -156,7 +163,24 @@
   ],
   "developerDisplayName": "The Etherscape",
   "publisherDisplayName": "The Etherscape",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-08-16T15:00:00.000Z",
   "pcReleaseDate": "2024-08-09T15:00:00.000Z",
