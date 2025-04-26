@@ -99,26 +99,28 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "lost-lullabies-faq-9118ac",
-        "pageType": "info"
-      },
-      {
-        "pageSlug": "lost-lullabies-02cba6",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "lost-lullabies-lost-lullabies-the-orphanage-chronicles-demo-72d3ab",
-        "pageType": "offer"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": null,
   "developerDisplayName": "Pugsy Studios",
   "publisherDisplayName": "Pugsy Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2099-01-01T00:00:00.000Z",
   "pcReleaseDate": "2099-01-01T00:00:00.000Z",
