@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-02-08T12:00:00.000Z",
   "creationDate": "2024-12-05T14:08:37.699Z",
-  "lastModifiedDate": "2025-04-25T15:56:20.667Z",
+  "lastModifiedDate": "2025-04-26T16:03:02.956Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,10 +46,6 @@
     {
       "id": "21122",
       "name": "Diverse Characters"
-    },
-    {
-      "id": "21125",
-      "name": "Competitive Community"
     },
     {
       "id": "21894",
@@ -154,7 +150,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "sifu--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "sifu--deluxe-edition-upgrade",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "sifu",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "sifu",
