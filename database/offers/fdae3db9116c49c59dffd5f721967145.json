@@ -91,18 +91,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "epic-world-hunt-for-quest-epic-world-hunt-for-quest-demo-8b4264",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "epic-world-hunt-for-quest-4500b1",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "epic-world-hunt-for-quest-4500b1",
@@ -111,7 +100,24 @@
   ],
   "developerDisplayName": "Yash Future Tech Solutions Pvt Ltd",
   "publisherDisplayName": "Yash Future Tech Solutions Pvt Ltd",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 699,
+      "originalPrice": 699,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-12-07T18:30:00.000Z",
   "pcReleaseDate": "2019-06-20T18:30:00.000Z",
