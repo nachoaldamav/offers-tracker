@@ -99,7 +99,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "super-smash-asteroids-faq-ac3185",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "super-smash-asteroids-afae0a",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "super-smash-asteroids-afae0a",
@@ -108,24 +119,7 @@
   ],
   "developerDisplayName": "Switchback",
   "publisherDisplayName": "Switchback",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 499,
-      "originalPrice": 499,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-04-10T00:00:00.000Z",
   "pcReleaseDate": "2023-04-30T00:00:00.000Z",
