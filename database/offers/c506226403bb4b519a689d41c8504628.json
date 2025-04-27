@@ -91,11 +91,40 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ginsha-604f11",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "ginsha-604f11",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "PolarityFlow, Adrian Zingg",
   "publisherDisplayName": "PolarityFlow, Adrian Zingg",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1599,
+      "originalPrice": 1599,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-08-24T15:00:00.000Z",
   "pcReleaseDate": "2023-08-24T15:00:00.000Z",

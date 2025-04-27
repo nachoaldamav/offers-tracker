@@ -91,7 +91,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "maze-the-amazing-labyrinth-maze-the-amazing-labyrinth-demo-ef1762",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "maze-the-amazing-labyrinth-291abe",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "maze-the-amazing-labyrinth-291abe",
@@ -100,24 +111,7 @@
   ],
   "developerDisplayName": "Yash Future Tech Solutions Pvt Ltd",
   "publisherDisplayName": "Yash Future Tech Solutions Pvt Ltd",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 799,
-      "originalPrice": 799,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-12-07T18:30:00.000Z",
   "pcReleaseDate": "2023-02-17T18:30:00.000Z",

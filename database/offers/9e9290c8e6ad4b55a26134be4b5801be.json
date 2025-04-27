@@ -99,7 +99,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "bio-inc-redemption-280fe5",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "bio-inc-redemption-280fe5",
@@ -108,24 +115,7 @@
   ],
   "developerDisplayName": "DryGin Studios",
   "publisherDisplayName": "DryGin Studios",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1199,
-      "originalPrice": 1199,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-12-12T05:00:00.000Z",
   "pcReleaseDate": "2018-03-08T05:00:00.000Z",

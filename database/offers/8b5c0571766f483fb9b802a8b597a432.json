@@ -87,7 +87,14 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "cynosure-f73b7d",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "cynosure-f73b7d",
@@ -96,24 +103,7 @@
   ],
   "developerDisplayName": "Zuko",
   "publisherDisplayName": "Zuko",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1299,
-      "originalPrice": 1299,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-12-10T22:30:00.000Z",
   "pcReleaseDate": "2023-12-12T07:00:00.000Z",
