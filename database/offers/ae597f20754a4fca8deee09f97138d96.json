@@ -87,7 +87,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "outworld-patrol-0a5088",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "outworld-patrol-0a5088",
@@ -96,24 +103,7 @@
   ],
   "developerDisplayName": "rainstory.games",
   "publisherDisplayName": "rainstory.games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 249,
-      "originalPrice": 249,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-04-30T00:00:00.000Z",
   "pcReleaseDate": "2022-12-11T23:00:00.000Z",
