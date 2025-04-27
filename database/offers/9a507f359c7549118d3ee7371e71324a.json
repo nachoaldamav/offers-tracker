@@ -102,8 +102,19 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "madden-nfl-26--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "madden-nfl-26",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Tiburon",
   "publisherDisplayName": "Electronic Arts",
   "price": null,
