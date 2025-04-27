@@ -99,18 +99,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "asylum-nightmares-784f14",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "asylum-nightmares-asylum-nightmares-demo-b95ac3",
-        "pageType": "offer"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "asylum-nightmares-784f14",
@@ -119,7 +108,24 @@
   ],
   "developerDisplayName": "Angel Ñeco aka. NecoPlanet",
   "publisherDisplayName": "Angel Ñeco aka. NecoPlanet",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1099,
+      "originalPrice": 1099,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-10-18T16:00:00.000Z",
   "pcReleaseDate": "2024-10-18T16:00:00.000Z",
