@@ -102,11 +102,51 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ys-ix-monstrum-nox",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "ys-ix-monstrum-nox--consumable-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "ys-ix-monstrum-nox--monstrum-troupe-bundle",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "ys-ix-monstrum-nox--attachments-bundle",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 5999,
+      "voucherDiscount": 0,
+      "discount": 3000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "96587da7206848b2ab855f66701d05d7"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-07-06T17:00:00.000Z",
   "pcReleaseDate": "2021-07-06T17:00:00.000Z",
