@@ -135,11 +135,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "cybertitans-faq-600272",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "cybertitans-b6acef",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "cybertitans-b6acef",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "LitLab Studio",
   "publisherDisplayName": "LitLab Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-08-30T22:00:00.000Z",
   "pcReleaseDate": "2023-04-03T10:00:00.000Z",
