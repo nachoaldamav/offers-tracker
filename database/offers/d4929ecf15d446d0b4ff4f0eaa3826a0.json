@@ -115,11 +115,47 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "warface",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "warface-clutch--leprechauns-gold-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "warface-clutch--blade-master",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "warface-clutch--easter-treasures-pack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-06-29T09:00:00.000Z",
   "pcReleaseDate": "2013-10-21T09:00:00.000Z",
