@@ -94,28 +94,26 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": "Electronic Arts - Tiburon",
-  "publisherDisplayName": "Electronic Arts",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 6999,
-      "originalPrice": 6999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": []
+        "pageSlug": "ea-sports-pga-tour--deluxe-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "ea-sports-pga-tour",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "ea-sports-pga-tour--deluxe-upgrade",
+        "pageType": "addon--cms-hybrid"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": "Electronic Arts - Tiburon",
+  "publisherDisplayName": "Electronic Arts",
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-04-07T04:00:00.000Z",
   "pcReleaseDate": "2023-04-07T04:00:00.000Z",
