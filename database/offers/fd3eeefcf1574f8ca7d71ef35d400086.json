@@ -162,7 +162,18 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "stray-blade--valley-of-strays",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "stray-blade",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "stray-blade",
