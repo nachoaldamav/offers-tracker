@@ -107,8 +107,15 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "foreclosed",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": "Silver Lining Interactive Ltd ",
   "price": null,

@@ -114,8 +114,24 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "death-trash--early-access-faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "death-trash",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "death-trash",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Crafting Legends",
   "publisherDisplayName": "Crafting Legends",
   "price": null,

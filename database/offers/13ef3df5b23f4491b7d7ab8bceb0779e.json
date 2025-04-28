@@ -102,8 +102,20 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "mars-horizon",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "mars-horizon",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Auroch Digital",
   "publisherDisplayName": "Secret Mode",
   "price": null,

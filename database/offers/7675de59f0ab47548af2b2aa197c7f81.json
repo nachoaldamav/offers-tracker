@@ -98,8 +98,19 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "super-squad--early-access-faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "super-squad",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
   "price": null,
