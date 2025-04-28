@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-12-07T00:00:00.000Z",
   "creationDate": "2021-11-09T23:28:58.609Z",
-  "lastModifiedDate": "2024-06-13T14:51:39.955Z",
+  "lastModifiedDate": "2025-04-28T14:40:44.622Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -72,6 +72,10 @@
       "value": "false"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
+    {
       "key": "isBlockchainUsed",
       "value": "false"
     }
@@ -87,14 +91,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "love-3-c2516f",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "love-3-c2516f",
@@ -103,7 +100,24 @@
   ],
   "developerDisplayName": "Fred Wood",
   "publisherDisplayName": "Retroware",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2021-12-07T00:00:00.000Z",
   "pcReleaseDate": "2021-12-07T00:00:00.000Z",
