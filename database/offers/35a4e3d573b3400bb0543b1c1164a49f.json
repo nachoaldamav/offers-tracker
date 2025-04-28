@@ -95,14 +95,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "tear-of-time-lost-memory-add761",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "tear-of-time-lost-memory-add761",
@@ -113,10 +106,10 @@
   "publisherDisplayName": "SIMPRA ORG",
   "price": {
     "totalPrice": {
-      "discountPrice": 399,
+      "discountPrice": 259,
       "originalPrice": 399,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 140,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +118,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "d55e0480cc2b44e4b5a890b08647ad0c"
+          }
+        ]
       }
     ]
   },
