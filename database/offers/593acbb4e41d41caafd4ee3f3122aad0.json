@@ -99,14 +99,7 @@
       "path": "games"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "bloodhound-af0194",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "bloodhound-af0194",
@@ -115,7 +108,24 @@
   ],
   "developerDisplayName": "Kruger & Flint Productions",
   "publisherDisplayName": "Kruger & Flint Productions",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 999,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-10-19T00:00:00.000Z",
   "pcReleaseDate": "2024-10-19T00:00:00.000Z",

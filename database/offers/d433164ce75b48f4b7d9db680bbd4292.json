@@ -83,14 +83,7 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "shop-manager-simulator-1f00df",
-        "pageType": "productHome"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "shop-manager-simulator-1f00df",
@@ -99,7 +92,24 @@
   ],
   "developerDisplayName": "Next Dimension Lab",
   "publisherDisplayName": "Next Dimension Lab",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 599,
+      "originalPrice": 599,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-10-11T09:30:00.000Z",
   "pcReleaseDate": "2024-10-11T09:30:00.000Z",

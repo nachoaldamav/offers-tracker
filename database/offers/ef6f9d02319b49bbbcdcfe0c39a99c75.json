@@ -155,22 +155,7 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": {
-    "mappings": [
-      {
-        "pageSlug": "off-the-grid-otg-fandf-e0c0a2",
-        "pageType": "offer"
-      },
-      {
-        "pageSlug": "off-the-grid-7e3cc5",
-        "pageType": "productHome"
-      },
-      {
-        "pageSlug": "off-the-grid-faq-8b009c",
-        "pageType": "info"
-      }
-    ]
-  },
+  "catalogNs": null,
   "offerMappings": [
     {
       "pageSlug": "off-the-grid-7e3cc5",
@@ -179,7 +164,24 @@
   ],
   "developerDisplayName": "Gunzilla Games",
   "publisherDisplayName": "Gunzilla Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-10-08T11:00:00.000Z",
   "pcReleaseDate": "2024-10-08T11:00:00.000Z",

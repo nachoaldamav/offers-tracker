@@ -79,7 +79,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "velone-3c0487",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "velone-velone-supporter-pack-f675b9",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "velone-3c0487",
@@ -88,7 +99,24 @@
   ],
   "developerDisplayName": "ZAR 21",
   "publisherDisplayName": "Daedalic Entertainment",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1699,
+      "originalPrice": 1699,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-04-21T17:00:00.000Z",
   "pcReleaseDate": "2022-04-21T17:00:00.000Z",
