@@ -91,11 +91,56 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "bratz-flaunt-your-fashion-bratz-girls-nite-out-fashion-pack-b02ef2",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "bratz-flaunt-your-fashion-bratz-flaunt-your-fashion-pretty-n-punk-ef3010",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "bratz-flaunt-your-fashion-complete-edition-b5f745",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "bratz-flaunt-your-fashion-95d529",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "bratz-flaunt-your-fashion-95d529",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Petoons Studio",
   "publisherDisplayName": "Outright Games Ltd.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1949,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 1050,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "e06c96b8ceaf49279671c51556ffcf79"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-01-24T09:30:00.000Z",
   "pcReleaseDate": "2022-11-04T00:00:00.000Z",

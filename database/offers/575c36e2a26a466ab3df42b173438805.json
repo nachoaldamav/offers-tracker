@@ -91,11 +91,52 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "my-friend-peppa-pig-my-friend-peppa-pig-pirate-adventures-dfc6ae",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "my-friend-peppa-pig-my-friend-peppa-pig-complete-edition-aafb9d",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "my-friend-peppa-pig-2de0dc",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "my-friend-peppa-pig-2de0dc",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Petoons Studio",
   "publisherDisplayName": "Outright Games Ltd.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1799,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 2200,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "5b8215e93ce546f78f221b4aaa720c59"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-12-15T18:00:00.000Z",
   "pcReleaseDate": "2021-10-21T23:00:00.000Z",
