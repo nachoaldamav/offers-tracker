@@ -119,7 +119,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "scrapped-e8a4a8",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "scrapped-e8a4a8",
@@ -128,7 +135,24 @@
   ],
   "developerDisplayName": "Page Murray and Julian Avrith",
   "publisherDisplayName": "USC Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-04-25T19:41:36.000Z",
   "pcReleaseDate": "2025-04-24T19:00:00.000Z",
