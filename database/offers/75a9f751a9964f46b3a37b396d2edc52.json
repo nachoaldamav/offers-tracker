@@ -167,7 +167,22 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "deliver-at-all-costs-a30c8d",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "deliver-at-all-costs-deliver-at-all-costs-soundtrack-0535ee",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "deliver-at-all-costs-deliver-at-all-costs-deluxe-2d351b",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "deliver-at-all-costs-a30c8d",
@@ -176,7 +191,24 @@
   ],
   "developerDisplayName": "Far Out Games",
   "publisherDisplayName": "KONAMI",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-05-22T00:00:00.000Z",
   "pcReleaseDate": "2025-05-22T00:00:00.000Z",
