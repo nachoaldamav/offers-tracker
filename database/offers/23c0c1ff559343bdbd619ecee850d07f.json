@@ -95,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "cyber-avenger-77cc63",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "cyber-avenger-77cc63",
@@ -104,7 +111,28 @@
   ],
   "developerDisplayName": "Whale Rock Games",
   "publisherDisplayName": "Whale Rock Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 99,
+      "originalPrice": 1999,
+      "voucherDiscount": 0,
+      "discount": 1900,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "476e31db048e451b8588579f3734687d"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-06-20T09:00:00.000Z",
   "pcReleaseDate": "2024-01-04T10:00:00.000Z",
