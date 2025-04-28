@@ -110,28 +110,38 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": null,
-  "publisherDisplayName": null,
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1999,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": []
+        "pageSlug": "lets-build-a-zoo",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "lets-build-a-zoo--dinosaur-island",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "lets-build-a-zoo--lets-build-a-zoo-dinosaur-island-bundle",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "lets-build-a-zoo--aquarium-odyssey",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "lets-build-a-zoo--lets-build-a-zoo-ultimate-bundle",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "lets-build-a-zoo--lets-build-a-zoo-aquarium-odyssey-bundle",
+        "pageType": "offer"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": null,
+  "publisherDisplayName": null,
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2021-11-05T16:00:00.000Z",
   "pcReleaseDate": "2021-11-05T16:00:00.000Z",
