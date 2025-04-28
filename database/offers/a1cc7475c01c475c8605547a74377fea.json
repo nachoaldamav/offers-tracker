@@ -87,11 +87,59 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "the-lord-of-the-rings-gollum-436d4f",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "the-lord-of-the-rings-gollum-436d4f--precious-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "the-lord-of-the-rings-gollum--lore-compendium",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-lord-of-the-rings-gollum--sindarin-vo",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-lord-of-the-rings-gollum--emotes-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-lord-of-the-rings-gollum--art-exhibition",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "the-lord-of-the-rings-gollum--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Daedalic Entertainment",
   "publisherDisplayName": "Daedalic Entertainment, Nacon",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 4999,
+      "originalPrice": 4999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": false,
   "releaseDate": "2023-05-25T16:00:00.000Z",
   "pcReleaseDate": "2023-05-25T16:00:00.000Z",

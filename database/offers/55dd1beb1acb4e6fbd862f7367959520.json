@@ -167,11 +167,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "ships-at-sea-faq-a00e67",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "ships-at-sea-e6d302",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "ships-at-sea-e6d302",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Misc Games",
   "publisherDisplayName": "Misc Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1624,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 875,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "aa6cbad0a3d341bbad4162aa6b39d882"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-05-23T10:00:00.000Z",
   "pcReleaseDate": "2024-05-23T10:00:00.000Z",
