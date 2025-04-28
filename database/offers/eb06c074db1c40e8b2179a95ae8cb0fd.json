@@ -127,11 +127,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "wildassault-05e6bc",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "wildassault-faq-68d48f",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "wildassault-wild-assault-early-access-supporter-pack-12240b",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "wildassault-05e6bc",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Combat Cat Studio",
   "publisherDisplayName": "Combat Cat Studio",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 1499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-04-11T14:00:00.000Z",
   "pcReleaseDate": "2025-04-11T14:00:00.000Z",
