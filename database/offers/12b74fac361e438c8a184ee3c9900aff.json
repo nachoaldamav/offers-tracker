@@ -123,13 +123,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "cross-the-ages-blast-a38816",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "cross-the-ages-blast-a38816",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "cross-the-ages-blast-faq-dc1afb",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Cross The Ages",
   "publisherDisplayName": "Cross The Ages",
   "price": null,

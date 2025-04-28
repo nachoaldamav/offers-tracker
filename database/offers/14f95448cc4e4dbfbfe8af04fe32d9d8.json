@@ -127,13 +127,15 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "quantic-river-9ac951",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "quantic-river-9ac951",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "FluidFury Interactive",
   "publisherDisplayName": "FluidFury Interactive",
   "price": null,
