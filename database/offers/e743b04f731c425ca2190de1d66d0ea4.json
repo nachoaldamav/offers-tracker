@@ -95,7 +95,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tales-of-the-orient-the-rising-sun-001806",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "tales-of-the-orient-the-rising-sun-001806",
@@ -104,24 +111,7 @@
   ],
   "developerDisplayName": "Green Sauce Games",
   "publisherDisplayName": "Green Sauce Games",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 999,
-      "originalPrice": 999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-04-01T09:00:00.000Z",
   "pcReleaseDate": "2015-02-27T03:00:00.000Z",
