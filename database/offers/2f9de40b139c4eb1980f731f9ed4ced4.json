@@ -102,8 +102,20 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "comanche",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "comanche",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "NUKKLEAR, Ashborne Games",
   "publisherDisplayName": "THQ Nordic",
   "price": null,

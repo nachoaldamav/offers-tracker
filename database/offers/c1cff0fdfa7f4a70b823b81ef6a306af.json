@@ -106,8 +106,23 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tohu--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "tohu--digital-art-book",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "tohu",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": "Fireart Sp. z o.o.",
   "price": null,

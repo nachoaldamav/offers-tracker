@@ -150,8 +150,24 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "universe-sandbox",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "universe-sandbox--early-access-faq",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "universe-sandbox",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Giant Army",
   "publisherDisplayName": "Giant Army",
   "price": null,

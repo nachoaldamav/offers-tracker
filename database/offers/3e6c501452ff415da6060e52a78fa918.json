@@ -102,8 +102,19 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "planescape-torment-enhanced-edition",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "planescape-torment-enhanced-edition--soundtrack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
   "price": null,

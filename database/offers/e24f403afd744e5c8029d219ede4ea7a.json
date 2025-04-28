@@ -111,8 +111,24 @@
       "path": "games/edition"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "synergia--soundtrack",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "synergia",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "synergia",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": " Radi Art",
   "publisherDisplayName": "Top Hat Studios, Inc.",
   "price": null,
