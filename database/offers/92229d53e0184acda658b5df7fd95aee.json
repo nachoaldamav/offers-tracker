@@ -205,10 +205,10 @@
   "publisherDisplayName": "Prophecy Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 1999,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -217,7 +217,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "f3fc0ee498cd46f691ac89eb13ffbc29"
+          }
+        ]
       }
     ]
   },
