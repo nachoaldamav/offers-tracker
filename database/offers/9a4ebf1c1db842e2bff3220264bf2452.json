@@ -103,8 +103,24 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "chains-of-war-faq-0684c9",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "chains-of-war-bd5b0b",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "chains-of-war-bd5b0b",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Blue Fork",
   "publisherDisplayName": "Blue Fork",
   "price": null,

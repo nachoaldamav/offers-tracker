@@ -118,28 +118,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": "Vanimals",
-  "publisherDisplayName": "Skystone Games Inc.",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1999,
-      "originalPrice": 1999,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": []
+        "pageSlug": "undying--faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "undying",
+        "pageType": "productHome"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": "Vanimals",
+  "publisherDisplayName": "Skystone Games Inc.",
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2021-10-19T13:00:00.000Z",
   "pcReleaseDate": "2021-10-19T13:00:00.000Z",
