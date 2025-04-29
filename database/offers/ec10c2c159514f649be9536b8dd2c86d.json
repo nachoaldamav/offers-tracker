@@ -123,7 +123,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "firelight-fantasy-force-energy-c5dce7",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "firelight-fantasy-force-energy-c5dce7",
@@ -132,7 +139,28 @@
   ],
   "developerDisplayName": "Whale Rock Games",
   "publisherDisplayName": "Whale Rock Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 83,
+      "originalPrice": 1199,
+      "voucherDiscount": 0,
+      "discount": 1116,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "5a69a2e68caf4aa7a6c8566b856867f9"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-06-26T09:00:00.000Z",
   "pcReleaseDate": "2022-02-18T10:00:00.000Z",
