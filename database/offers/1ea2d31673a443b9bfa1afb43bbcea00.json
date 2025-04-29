@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-02-23T15:22:24.678Z",
   "creationDate": "2024-02-23T15:22:33.587Z",
-  "lastModifiedDate": "2024-02-23T15:22:33.587Z",
+  "lastModifiedDate": "2025-04-29T15:00:29.230Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "9549",
@@ -105,10 +109,10 @@
   "publisherDisplayName": "Lesser Evil",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 499,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -117,7 +121,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "cbe7d0f29def4219b0fdcdfbc32b1940"
+          }
+        ]
       }
     ]
   },

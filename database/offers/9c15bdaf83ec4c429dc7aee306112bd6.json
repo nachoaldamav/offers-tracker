@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-07-07T17:00:00.000Z",
   "creationDate": "2023-03-29T01:40:29.331Z",
-  "lastModifiedDate": "2025-04-20T15:02:59.299Z",
+  "lastModifiedDate": "2025-04-29T15:00:29.230Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1117",
@@ -113,10 +117,10 @@
   "publisherDisplayName": "Cozy Marshmallow",
   "price": {
     "totalPrice": {
-      "discountPrice": 799,
+      "discountPrice": 719,
       "originalPrice": 799,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 80,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "afe189a1498d4f459f93296d2dcfa83f"
+          }
+        ]
       }
     ]
   },

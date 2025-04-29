@@ -167,10 +167,10 @@
   "publisherDisplayName": "Square Enix",
   "price": {
     "totalPrice": {
-      "discountPrice": 3999,
+      "discountPrice": 1999,
       "originalPrice": 3999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -179,7 +179,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "29bae99b4c8c4394810223d84957fba3"
+          }
+        ]
       }
     ]
   },
