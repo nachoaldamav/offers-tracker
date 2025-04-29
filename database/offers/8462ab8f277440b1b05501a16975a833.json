@@ -87,7 +87,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "blanc-703b40",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "blanc-blanc-soundtrack-6bca74",
+        "pageType": "offer"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "blanc-703b40",
@@ -96,24 +107,7 @@
   ],
   "developerDisplayName": "Casus Ludi",
   "publisherDisplayName": "2K Games, Inc.",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1499,
-      "originalPrice": 1499,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-02-14T18:00:00.000Z",
   "pcReleaseDate": "2023-02-14T18:00:00.000Z",
