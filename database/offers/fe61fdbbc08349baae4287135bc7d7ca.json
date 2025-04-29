@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-04-08T08:00:00.000Z",
   "creationDate": "2025-02-10T12:55:34.666Z",
-  "lastModifiedDate": "2025-04-27T21:53:50.158Z",
+  "lastModifiedDate": "2025-04-29T04:30:12.317Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -104,6 +104,10 @@
       "name": "Online Multiplayer"
     },
     {
+      "id": "21109",
+      "name": "Great Boss Battles"
+    },
+    {
       "id": "1287",
       "name": "Fantasy"
     },
@@ -167,11 +171,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "tibia-53bbb1",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "tibia-faq-648808",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "tibia-53bbb1",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "CipSoft GmbH",
   "publisherDisplayName": "CipSoft GmbH",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-04-08T08:00:00.000Z",
   "pcReleaseDate": "1997-01-06T23:00:00.000Z",
