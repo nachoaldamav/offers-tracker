@@ -87,13 +87,19 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "corsairs-legacy-44431c",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "corsairs-legacy-44431c",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "corsairs-legacy-corsairs-legacy-supporter-pack-5e7d39",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Mauris",
   "publisherDisplayName": "Mauris",
   "price": null,

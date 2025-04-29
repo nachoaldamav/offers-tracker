@@ -83,13 +83,15 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [
-    {
-      "pageSlug": "bogdans-cross-1b5dc5",
-      "pageType": "productHome"
-    }
-  ],
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "bogdans-cross-1b5dc5",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": null,
   "developerDisplayName": "Federico Breser",
   "publisherDisplayName": "Mcfly Tech",
   "price": null,
