@@ -95,11 +95,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "backrooms-realm-of-shadows-backrooms-eternal-shadows-771b93",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "backrooms-realm-of-shadows-1ca413",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "backrooms-realm-of-shadows-backrooms-realm-of-shadows-soundtracks-4afdd9",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "backrooms-realm-of-shadows-1ca413",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Cyprus Games",
   "publisherDisplayName": "Cyprus Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-09-12T08:00:00.000Z",
   "pcReleaseDate": "2023-07-11T08:00:00.000Z",

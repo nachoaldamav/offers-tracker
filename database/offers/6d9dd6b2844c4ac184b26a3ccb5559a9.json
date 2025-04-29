@@ -135,11 +135,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "enemania-557e4a",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "enemania-faq-3280a3",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "enemania-557e4a",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Amjad Yahya",
   "publisherDisplayName": "Amjad Yahya",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1099,
+      "originalPrice": 1099,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-05-01T20:00:00.000Z",
   "pcReleaseDate": "2025-02-20T22:00:00.000Z",

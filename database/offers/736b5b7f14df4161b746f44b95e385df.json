@@ -79,11 +79,52 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "fallen-legion-rise-to-glory-0ea64a",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "fallen-legion-rise-to-glory-fallen-legion-rise-to-glory-digital-soundtrack-c60694",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "fallen-legion-rise-to-glory-fallen-legion-revenants-digital-art-book-d3079b",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "fallen-legion-rise-to-glory-0ea64a",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "YummyYummyTummy, Inc.",
   "publisherDisplayName": "NIS America, Inc.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 1499,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 1500,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "57f5a044fe48445bab93908c012a703b"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-08-23T17:00:00.000Z",
   "pcReleaseDate": "2022-08-23T17:00:00.000Z",

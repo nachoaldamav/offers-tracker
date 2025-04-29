@@ -147,11 +147,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "eldrador-creatures-shadowfall-200ecf",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "eldrador-creatures-shadowfall-200ecf",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Wild River Games GmbH",
   "publisherDisplayName": "Wild River Games GmbH",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2009,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 990,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "ee53367da4fa457a9dca2c8d04158d24"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-03-05T23:00:00.000Z",
   "pcReleaseDate": "2025-03-05T23:00:00.000Z",

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-04-20T10:33:00.000Z",
   "creationDate": "2024-02-23T15:40:29.230Z",
-  "lastModifiedDate": "2025-04-20T10:33:17.368Z",
+  "lastModifiedDate": "2025-04-29T15:49:47.220Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -119,14 +119,53 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "containment-sector-faq-43bc2a",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "containment-sector-e26cb5",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "containment-sector-e26cb5",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Fog Studio",
   "publisherDisplayName": "Alps Global Management",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 2999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-04-20T10:33:00.000Z",
-  "pcReleaseDate": "2025-04-19T23:00:00.000Z",
+  "pcReleaseDate": "2025-04-20T10:33:00.000Z",
   "viewableDate": "2024-06-14T23:00:00.000Z",
-  "approximateReleasePlan": null
+  "approximateReleasePlan": {
+    "day": 30,
+    "month": 4,
+    "quarter": null,
+    "year": 2025,
+    "releaseDateType": "BY_DATE"
+  }
 }
