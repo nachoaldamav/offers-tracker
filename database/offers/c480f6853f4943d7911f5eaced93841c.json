@@ -103,8 +103,24 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "verse-world-faq-0f5c6b",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "verse-world-e4d877",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "verse-world-e4d877",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Verse Estate",
   "publisherDisplayName": "Verse Estate",
   "price": null,

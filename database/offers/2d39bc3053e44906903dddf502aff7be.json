@@ -103,8 +103,24 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "breachway-faq-b6a308",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "breachway-aa1bbf",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "breachway-aa1bbf",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Edgeflow Studio",
   "publisherDisplayName": "Hooded Horse",
   "price": null,

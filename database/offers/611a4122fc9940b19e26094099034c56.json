@@ -183,11 +183,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "redacted-d9d21e",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "redacted-epic-testing-do-not-use-1fa0eb",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "redacted-d9d21e",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Striking Distance Studios",
   "publisherDisplayName": "Krafton",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2499,
+      "originalPrice": 2499,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-10-31T00:00:00.000Z",
   "pcReleaseDate": "2024-10-31T00:00:00.000Z",

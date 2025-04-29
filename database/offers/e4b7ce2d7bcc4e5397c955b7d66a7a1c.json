@@ -147,7 +147,18 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "data2073-9d83d4",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "data2073-faq-c4abc2",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "data2073-9d83d4",
@@ -156,7 +167,24 @@
   ],
   "developerDisplayName": "Osten Games",
   "publisherDisplayName": "Osten Games",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-11-16T00:00:00.000Z",
   "pcReleaseDate": "2024-11-16T00:00:00.000Z",
