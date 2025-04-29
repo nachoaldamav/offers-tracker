@@ -143,11 +143,48 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "motogp25-iconic-liveries-pack-c75c1b",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "motogp25-off-road-helmets-pack-c1f61e",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "motogp25-12906a",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "motogp25-12906a",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Milestone S.r.l.",
   "publisherDisplayName": "Milestone S.r.l.",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 5999,
+      "originalPrice": 5999,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": true,
   "releaseDate": "2025-04-30T07:00:00.000Z",
   "pcReleaseDate": "2025-04-30T07:00:00.000Z",
