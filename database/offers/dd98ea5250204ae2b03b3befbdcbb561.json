@@ -91,7 +91,14 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "arctico-c29f1d",
+        "pageType": "productHome"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "arctico-c29f1d",
@@ -100,7 +107,28 @@
   ],
   "developerDisplayName": "Claudio Norori, Antonio Vargas",
   "publisherDisplayName": "Claudio Norori",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 199,
+      "originalPrice": 999,
+      "voucherDiscount": 0,
+      "discount": 800,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "bada3f650d7e4ec6af98c1e727ac04e1"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-03-16T17:00:00.000Z",
   "pcReleaseDate": "2022-02-15T18:00:00.000Z",
