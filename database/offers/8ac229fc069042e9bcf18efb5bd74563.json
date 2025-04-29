@@ -91,7 +91,18 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "cyvenge-55b56b",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "cyvenge-faq-38cfb0",
+        "pageType": "info"
+      }
+    ]
+  },
   "offerMappings": [
     {
       "pageSlug": "cyvenge-55b56b",
@@ -100,24 +111,7 @@
   ],
   "developerDisplayName": "Cave Beer Entertainment",
   "publisherDisplayName": "Cave Beer Entertainment",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 499,
-      "originalPrice": 499,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
-      {
-        "appliedRules": []
-      }
-    ]
-  },
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2023-10-18T10:00:00.000Z",
   "pcReleaseDate": "2023-10-18T10:00:00.000Z",
