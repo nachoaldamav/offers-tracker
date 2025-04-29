@@ -85,8 +85,27 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "endless-dungeon--last-wish-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "endless-dungeon",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "endless-dungeon--last-wish-upgrade",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "endless-dungeon--like-a-dragon-infinite-wealth",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Amplitude",
   "publisherDisplayName": "SEGA",
   "price": null,
