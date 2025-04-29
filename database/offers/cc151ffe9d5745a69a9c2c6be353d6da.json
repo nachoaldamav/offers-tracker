@@ -102,28 +102,30 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": [],
-  "developerDisplayName": "OTA IMON Studios",
-  "publisherDisplayName": "Raw Fury  ",
-  "price": {
-    "totalPrice": {
-      "discountPrice": 1499,
-      "originalPrice": 1499,
-      "voucherDiscount": 0,
-      "discount": 0,
-      "currencyCode": "USD",
-      "currencyInfo": {
-        "decimals": 2
-      },
-      "fmtPrice": null
-    },
-    "lineOffers": [
+  "catalogNs": {
+    "mappings": [
       {
-        "appliedRules": []
+        "pageSlug": "wolfstride",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "wolfstride--golden-god-edition",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "wolfstride--script-wallpapers",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "wolfstride--ost",
+        "pageType": "addon--cms-hybrid"
       }
     ]
   },
+  "offerMappings": [],
+  "developerDisplayName": "OTA IMON Studios",
+  "publisherDisplayName": "Raw Fury  ",
+  "price": null,
   "prePurchase": null,
   "releaseDate": "2021-12-07T20:00:00.000Z",
   "pcReleaseDate": "2021-12-07T20:00:00.000Z",
