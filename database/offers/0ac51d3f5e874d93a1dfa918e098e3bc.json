@@ -95,11 +95,48 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "atomic-shelter-9bf5c4",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "atomic-shelter-faq-36d3a3",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "atomic-shelter-9bf5c4",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "Onur Gencay GÖKÇE",
   "publisherDisplayName": "DMT PRODUCTION",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 239,
+      "originalPrice": 399,
+      "voucherDiscount": 0,
+      "discount": 160,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "70fecfc839d3498a8f8fe97faea69f04"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2024-09-16T00:00:00.000Z",
   "pcReleaseDate": "2024-09-16T00:00:00.000Z",

@@ -105,8 +105,27 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "smite-2--deluxe-founders-edition-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "smite-2--founders-edition-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "smite-2--ultimate-founders-edition-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "smite-2",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Titan Forge Games",
   "publisherDisplayName": "Hi-Rez Studios",
   "price": null,
