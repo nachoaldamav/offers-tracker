@@ -183,11 +183,44 @@
       "path": "games"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "open-d754ec",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "open-faq-b066f1",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "open-d754ec",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "READYVERSE STUDIOS NZ LIMITED",
   "publisherDisplayName": "READYVERSE STUDIOS NZ LIMITED",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2025-12-31T00:00:00.000Z",
   "pcReleaseDate": "2025-01-31T00:00:00.000Z",
