@@ -82,8 +82,15 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "from-dust",
+        "pageType": "productHome"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": "Ubisoft Montpellier",
   "publisherDisplayName": "Ubisoft",
   "price": null,
