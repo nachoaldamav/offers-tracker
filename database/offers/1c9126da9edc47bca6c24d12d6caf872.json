@@ -118,11 +118,79 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "disney-dreamlight-valley--big-moonstone-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "disney-dreamlight-valley--small-moonstone-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "disney-dreamlight-valley--huge-moonstone-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "disney-dreamlight-valley--regular-moonstone-pack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "disney-dreamlight-valley--early-access-faq",
+        "pageType": "info"
+      },
+      {
+        "pageSlug": "disney-dreamlight-valley--a-rift-in-time",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "disney-dreamlight-valley",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "disney-dreamlight-valley--the-storybook-vale-me",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "disney-dreamlight-valley--the-storybook-vale",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "disney-dreamlight-valley--storybook-vale-bundle",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "disney-dreamlight-valley--enchanted-edition",
+        "pageType": "offer"
+      }
+    ]
+  },
+  "offerMappings": [],
   "developerDisplayName": null,
   "publisherDisplayName": null,
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 2999,
+      "originalPrice": 3999,
+      "voucherDiscount": 0,
+      "discount": 1000,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "1ba182b7d6994cc68e4a78a2c4b01b3d"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2022-09-06T13:00:00.000Z",
   "pcReleaseDate": "2022-09-06T13:00:00.000Z",

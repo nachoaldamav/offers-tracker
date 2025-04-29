@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-09-15T06:00:00.000Z",
   "creationDate": "2023-07-11T09:27:30.490Z",
-  "lastModifiedDate": "2025-04-26T06:28:42.292Z",
+  "lastModifiedDate": "2025-04-29T07:45:02.089Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -223,11 +223,44 @@
       "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "blocklords-2a2ccd",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "blocklords-faq-b09583",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "blocklords-2a2ccd",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "MetaKing Studios",
   "publisherDisplayName": "MetaKing Studios",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 0,
+      "originalPrice": 0,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-09-15T06:00:00.000Z",
   "pcReleaseDate": "2023-09-15T06:00:00.000Z",
