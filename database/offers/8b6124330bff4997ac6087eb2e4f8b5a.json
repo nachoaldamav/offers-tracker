@@ -165,10 +165,10 @@
   "publisherDisplayName": "Annapurna Interactive",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1799,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -177,7 +177,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "fcb4dd189266477383660b66b46491c0"
+          }
+        ]
       }
     ]
   },
