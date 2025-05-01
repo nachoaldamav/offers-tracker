@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-01-20T23:00:00.000Z",
   "creationDate": "2024-12-24T19:47:31.032Z",
-  "lastModifiedDate": "2025-03-21T18:41:46.691Z",
+  "lastModifiedDate": "2025-05-01T15:02:58.142Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -201,10 +201,10 @@
   "publisherDisplayName": "Leedo Studio",
   "price": {
     "totalPrice": {
-      "discountPrice": 599,
+      "discountPrice": 299,
       "originalPrice": 599,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 300,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -213,7 +213,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "fa79cad784bc435da27e09fb68aa5df5"
+          }
+        ]
       }
     ]
   },

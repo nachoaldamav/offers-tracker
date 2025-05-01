@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-01-29T21:00:00.000Z",
   "creationDate": "2023-12-13T04:53:21.313Z",
-  "lastModifiedDate": "2025-03-25T15:00:29.328Z",
+  "lastModifiedDate": "2025-05-01T15:05:46.047Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -78,13 +78,13 @@
   ],
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "catalogNs": {
@@ -105,10 +105,10 @@
   "publisherDisplayName": "8Floor ltd",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 149,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 350,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -117,13 +117,17 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "fab1e6abc3524294986d22e3532654bc"
+          }
+        ]
       }
     ]
   },
   "prePurchase": null,
   "releaseDate": "2024-01-29T21:00:00.000Z",
   "pcReleaseDate": "2019-09-30T21:00:00.000Z",
-  "viewableDate": "2023-12-13T04:53:03.854Z",
+  "viewableDate": "2023-12-13T04:53:03.000Z",
   "approximateReleasePlan": null
 }

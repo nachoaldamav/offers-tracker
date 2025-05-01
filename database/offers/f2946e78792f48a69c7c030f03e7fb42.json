@@ -200,10 +200,10 @@
   "publisherDisplayName": "GrahamOfLegend",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 0,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1499,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -212,7 +212,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "e3cd37de9e86496b91443ac541c6fc01"
+          }
+        ]
       }
     ]
   },

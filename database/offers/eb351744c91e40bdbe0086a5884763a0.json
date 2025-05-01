@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-05-31T18:00:00.000Z",
   "creationDate": "2023-06-01T03:50:49.432Z",
-  "lastModifiedDate": "2025-03-25T15:00:29.330Z",
+  "lastModifiedDate": "2025-05-01T15:05:31.672Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -78,13 +78,13 @@
   ],
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "catalogNs": {
@@ -105,10 +105,10 @@
   "publisherDisplayName": "8floor",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 199,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 300,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -117,7 +117,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "83a611d1f2f644b1a676f303241b9cc4"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-06-01T08:00:00.000Z",
   "creationDate": "2023-03-24T10:26:11.151Z",
-  "lastModifiedDate": "2024-12-17T07:30:47.843Z",
+  "lastModifiedDate": "2025-05-01T15:03:27.985Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -86,13 +86,13 @@
   ],
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "catalogNs": {
@@ -129,10 +129,10 @@
   "publisherDisplayName": "Kodera Software",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 449,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 550,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -141,7 +141,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "43587efba69c4236bb4594d5381e1ff0"
+          }
+        ]
       }
     ]
   },

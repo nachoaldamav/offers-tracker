@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-12-08T18:00:00.000Z",
   "creationDate": "2024-11-15T12:11:56.934Z",
-  "lastModifiedDate": "2025-03-18T15:00:29.960Z",
+  "lastModifiedDate": "2025-05-01T15:02:39.003Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -126,13 +126,13 @@
   ],
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "catalogNs": {
@@ -153,10 +153,10 @@
   "publisherDisplayName": "Avigames",
   "price": {
     "totalPrice": {
-      "discountPrice": 899,
+      "discountPrice": 449,
       "originalPrice": 899,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 450,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -165,7 +165,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "0546e7b62cf841e48eea8ebeb34f7a7d"
+          }
+        ]
       }
     ]
   },
