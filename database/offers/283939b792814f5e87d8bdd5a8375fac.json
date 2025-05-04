@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-04-05T17:00:00.000Z",
   "creationDate": "2022-01-26T19:01:12.125Z",
-  "lastModifiedDate": "2025-02-24T16:01:51.611Z",
+  "lastModifiedDate": "2025-05-04T15:00:10.516Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -130,6 +130,9 @@
   ],
   "categories": [
     {
+      "path": "freegames"
+    },
+    {
       "path": "games"
     },
     {
@@ -227,10 +230,10 @@
   "publisherDisplayName": "Warner Bros.",
   "price": {
     "totalPrice": {
-      "discountPrice": 4999,
+      "discountPrice": 0,
       "originalPrice": 4999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 4999,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -239,7 +242,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "29b7fafe2c784f8ba498fcf683b45a00"
+          }
+        ]
       }
     ]
   },
