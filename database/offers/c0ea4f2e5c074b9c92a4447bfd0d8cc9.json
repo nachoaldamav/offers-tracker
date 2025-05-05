@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-03-22T16:00:00.000Z",
   "creationDate": "2024-06-09T14:55:56.713Z",
-  "lastModifiedDate": "2025-03-18T21:34:30.309Z",
+  "lastModifiedDate": "2025-05-05T17:00:20.031Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -169,10 +169,10 @@
   "publisherDisplayName": "NGD Studios",
   "price": {
     "totalPrice": {
-      "discountPrice": 399,
+      "discountPrice": 299,
       "originalPrice": 399,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 100,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -181,7 +181,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "aa0fcbe465a74e2d812553cb5714adab"
+          }
+        ]
       }
     ]
   },
