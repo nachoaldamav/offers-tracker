@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-02-16T23:00:00.000Z",
   "creationDate": "2025-02-15T23:35:37.507Z",
-  "lastModifiedDate": "2025-02-15T23:35:37.507Z",
+  "lastModifiedDate": "2025-05-06T15:00:31.920Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -104,6 +104,10 @@
       "name": "Windows"
     },
     {
+      "id": "29899",
+      "name": "Deals of the Week"
+    },
+    {
       "id": "1117",
       "name": "Adventure"
     },
@@ -177,10 +181,10 @@
   "publisherDisplayName": "HiWarp",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1499,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -189,7 +193,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "9d0c51f5cbaf4cd7af2ae7c1f784a72b"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-12-19T15:00:00.000Z",
   "creationDate": "2023-05-05T21:09:19.374Z",
-  "lastModifiedDate": "2025-02-19T18:43:40.938Z",
+  "lastModifiedDate": "2025-05-06T15:00:31.920Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -100,6 +100,10 @@
       "name": "Windows"
     },
     {
+      "id": "29899",
+      "name": "Deals of the Week"
+    },
+    {
       "id": "1117",
       "name": "Adventure"
     },
@@ -169,10 +173,10 @@
   "publisherDisplayName": "Folklore Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1599,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -181,7 +185,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "4f7b4184ef3c4276b024e2d434edb4e3"
+          }
+        ]
       }
     ]
   },
