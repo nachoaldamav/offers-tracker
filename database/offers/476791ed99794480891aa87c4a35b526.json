@@ -113,10 +113,10 @@
   "publisherDisplayName": "A Devs",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 99,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "d3c824e3d8c94bb4abbed1f6847609fd"
+          }
+        ]
       }
     ]
   },
