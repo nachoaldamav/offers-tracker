@@ -105,10 +105,10 @@
   "publisherDisplayName": "Starseed Forest",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 999,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -117,7 +117,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "cf86ea26e74f44cfb86fdb10fb99c8d7"
+          }
+        ]
       }
     ]
   },
