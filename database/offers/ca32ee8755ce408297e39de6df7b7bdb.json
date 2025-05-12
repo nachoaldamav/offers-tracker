@@ -173,10 +173,10 @@
   "publisherDisplayName": "Wired Productions",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 1999,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -185,7 +185,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "ca9d21173b414863924521d3f07139f0"
+          }
+        ]
       }
     ]
   },
