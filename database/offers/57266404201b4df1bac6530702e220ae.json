@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-03-07T08:00:00.000Z",
   "creationDate": "2023-04-20T06:35:16.498Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.032Z",
+  "lastModifiedDate": "2025-05-13T15:00:31.148Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "9549",
@@ -109,10 +113,10 @@
   "publisherDisplayName": "2P Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1799,
+      "discountPrice": 1259,
       "originalPrice": 1799,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 540,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "3cac4113800743659a473bc867c4dcae"
+          }
+        ]
       }
     ]
   },
