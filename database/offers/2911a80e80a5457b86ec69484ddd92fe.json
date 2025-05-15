@@ -169,10 +169,10 @@
   "publisherDisplayName": "Rebound",
   "price": {
     "totalPrice": {
-      "discountPrice": 3999,
+      "discountPrice": 3599,
       "originalPrice": 3999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -181,7 +181,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "50552a9d00da4354a4989f9a5c09c34d"
+          }
+        ]
       }
     ]
   },
