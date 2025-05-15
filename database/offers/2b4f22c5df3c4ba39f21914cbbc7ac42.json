@@ -145,10 +145,10 @@
   "publisherDisplayName": "Thermae",
   "price": {
     "totalPrice": {
-      "discountPrice": 599,
+      "discountPrice": 539,
       "originalPrice": 599,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 60,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -157,7 +157,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "c529d74407fb4448a0d21d8993763cc8"
+          }
+        ]
       }
     ]
   },
