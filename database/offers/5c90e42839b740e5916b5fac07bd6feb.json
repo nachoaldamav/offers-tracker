@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-11-09T10:00:00.000Z",
   "creationDate": "2023-10-19T13:03:59.819Z",
-  "lastModifiedDate": "2024-11-01T15:03:16.471Z",
+  "lastModifiedDate": "2025-05-15T15:02:01.296Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     }
   ],
   "items": [
@@ -121,10 +125,10 @@
   "publisherDisplayName": "Jetpack Collective",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 749,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1750,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +137,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "2d2da87c1d4346c78b9eddd990dc9b36"
+          }
+        ]
       }
     ]
   },

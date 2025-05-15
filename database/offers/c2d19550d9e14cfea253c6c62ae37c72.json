@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-05-23T17:00:00.000Z",
   "creationDate": "2023-12-01T06:15:07.528Z",
-  "lastModifiedDate": "2025-05-06T07:09:27.757Z",
+  "lastModifiedDate": "2025-05-15T15:01:19.665Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "9549",
@@ -133,10 +137,10 @@
   "publisherDisplayName": "KUBI Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 699,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 300,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -145,7 +149,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "4d2842445f1f41da922ac6db4906e4f3"
+          }
+        ]
       }
     ]
   },

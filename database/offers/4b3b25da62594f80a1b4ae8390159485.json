@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-09-14T17:00:00.000Z",
   "creationDate": "2023-09-03T10:38:17.454Z",
-  "lastModifiedDate": "2023-09-25T17:44:43.220Z",
+  "lastModifiedDate": "2025-05-15T15:01:22.913Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1310",
@@ -113,10 +117,10 @@
   "publisherDisplayName": "Tomas Piga",
   "price": {
     "totalPrice": {
-      "discountPrice": 1799,
+      "discountPrice": 1169,
       "originalPrice": 1799,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 630,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "00879dfe4fa24423bb263ab0da5c3e4d"
+          }
+        ]
       }
     ]
   },

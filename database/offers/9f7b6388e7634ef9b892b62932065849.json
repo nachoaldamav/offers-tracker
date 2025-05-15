@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-10-24T05:00:00.000Z",
   "creationDate": "2024-08-01T20:42:18.076Z",
-  "lastModifiedDate": "2025-04-08T15:00:31.814Z",
+  "lastModifiedDate": "2025-05-15T15:02:52.850Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -84,6 +84,10 @@
       "name": "Windows"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "1116",
       "name": "Comedy"
     },
@@ -153,10 +157,10 @@
   "publisherDisplayName": "Jackbox Games, Inc.",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 599,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -165,7 +169,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "3de01413988c46ed9b3ae67c468a73ad"
+          }
+        ]
       }
     ]
   },

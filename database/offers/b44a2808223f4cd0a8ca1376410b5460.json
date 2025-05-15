@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-09-29T04:00:00.000Z",
   "creationDate": "2021-06-02T17:44:16.530Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.045Z",
+  "lastModifiedDate": "2025-05-15T15:01:44.666Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -72,6 +72,10 @@
       "name": "Windows"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "10719",
       "name": "Mac OS"
     }
@@ -124,10 +128,10 @@
   "publisherDisplayName": null,
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 399,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 600,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -136,7 +140,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "513bec3f7ecf438ab4f9ed615ee46e17"
+          }
+        ]
       }
     ]
   },

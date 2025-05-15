@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-10-21T16:00:00.000Z",
   "creationDate": "2021-06-28T14:47:56.544Z",
-  "lastModifiedDate": "2024-11-01T15:03:16.547Z",
+  "lastModifiedDate": "2025-05-15T15:02:40.118Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1151",
@@ -97,10 +101,10 @@
   "publisherDisplayName": "Hatinh Interactive",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 499,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -109,7 +113,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "17b40539299e4c9db0cd955701f6b5b4"
+          }
+        ]
       }
     ]
   },

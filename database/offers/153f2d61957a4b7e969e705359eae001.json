@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-09-12T16:00:00.000Z",
   "creationDate": "2023-10-04T14:43:11.312Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.281Z",
+  "lastModifiedDate": "2025-05-15T15:01:32.699Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1212",
@@ -125,10 +129,10 @@
   "publisherDisplayName": "Maximum Entertainment",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 1499,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -137,7 +141,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "345e6b9937594caea0fb4d2eb096faaf"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-12-07T00:00:00.000Z",
   "creationDate": "2021-11-09T23:28:58.609Z",
-  "lastModifiedDate": "2025-04-28T14:40:44.622Z",
+  "lastModifiedDate": "2025-05-15T15:01:32.696Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "9549",
@@ -109,10 +113,10 @@
   "publisherDisplayName": "Retroware",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 699,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 300,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "2f2e7c36d6c84e1391a1546ea99b33d5"
+          }
+        ]
       }
     ]
   },

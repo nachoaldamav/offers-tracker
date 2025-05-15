@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-12-12T11:30:00.000Z",
   "creationDate": "2024-10-08T08:26:49.202Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.107Z",
+  "lastModifiedDate": "2025-05-15T15:02:12.389Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,6 +42,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1151",
@@ -113,10 +117,10 @@
   "publisherDisplayName": "Cateia Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 299,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 700,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "8733d5cd8c394d1891757199a992a700"
+          }
+        ]
       }
     ]
   },

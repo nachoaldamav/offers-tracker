@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2019-05-13T08:00:00.000Z",
   "creationDate": "2019-02-15T17:38:12.957Z",
-  "lastModifiedDate": "2025-04-09T15:13:09.712Z",
+  "lastModifiedDate": "2025-05-15T15:01:24.601Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1102",
@@ -107,10 +111,10 @@
   "publisherDisplayName": "Tomorrow Corporation",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 509,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 990,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -119,7 +123,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "8f6e506d2ccb49b387c82026dd77113f"
+          }
+        ]
       }
     ]
   },

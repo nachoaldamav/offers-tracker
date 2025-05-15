@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-02-10T14:00:00.000Z",
   "creationDate": "2021-06-02T17:43:56.490Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.054Z",
+  "lastModifiedDate": "2025-05-15T15:01:46.286Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -64,6 +64,10 @@
       "name": "Windows"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "10719",
       "name": "Mac OS"
     }
@@ -111,10 +115,10 @@
   "publisherDisplayName": "Atari",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 349,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 650,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -123,7 +127,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "2dbef24f56324603ad062042ee2573dc"
+          }
+        ]
       }
     ]
   },

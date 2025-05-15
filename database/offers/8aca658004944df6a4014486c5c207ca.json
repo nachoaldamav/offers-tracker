@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-04-18T00:35:20.575Z",
   "creationDate": "2023-10-22T08:57:23.289Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.093Z",
+  "lastModifiedDate": "2025-05-15T15:02:04.625Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     }
   ],
   "items": [
@@ -105,10 +109,10 @@
   "publisherDisplayName": "luolei",
   "price": {
     "totalPrice": {
-      "discountPrice": 99,
+      "discountPrice": 59,
       "originalPrice": 99,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 40,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -117,7 +121,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "4f24cd11d89b45f29ba5472af01dd0ce"
+          }
+        ]
       }
     ]
   },

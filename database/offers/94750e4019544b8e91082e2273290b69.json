@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-07-13T01:56:27.121Z",
   "creationDate": "2024-06-09T23:57:04.199Z",
-  "lastModifiedDate": "2025-03-28T20:57:41.165Z",
+  "lastModifiedDate": "2025-05-15T15:01:41.285Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -34,6 +34,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1212",
@@ -113,10 +117,10 @@
   "publisherDisplayName": "LoadUpGames.com",
   "price": {
     "totalPrice": {
-      "discountPrice": 99,
+      "discountPrice": 79,
       "originalPrice": 99,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 20,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "330006b0be1f4b788c24266b6246eb5a"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-05-01T15:00:00.000Z",
   "creationDate": "2024-04-11T15:33:42.881Z",
-  "lastModifiedDate": "2025-04-09T15:12:19.999Z",
+  "lastModifiedDate": "2025-05-15T15:01:21.308Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -132,6 +132,10 @@
       "name": "Windows"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "9549",
       "name": "Controller Support"
     },
@@ -201,10 +205,10 @@
   "publisherDisplayName": "SiliconZero",
   "price": {
     "totalPrice": {
-      "discountPrice": 1199,
+      "discountPrice": 899,
       "originalPrice": 1199,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 300,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -213,7 +217,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "8daff7bbf0fc423791d88135b70bb0bf"
+          }
+        ]
       }
     ]
   },

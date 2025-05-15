@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-08-06T11:00:00.000Z",
   "creationDate": "2024-06-21T11:43:42.125Z",
-  "lastModifiedDate": "2025-02-24T16:01:35.496Z",
+  "lastModifiedDate": "2025-05-15T15:02:30.626Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1263",
@@ -109,10 +113,10 @@
   "publisherDisplayName": "Ludetis",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 399,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 600,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "bb2b80a90346405fbd812b599fb4e548"
+          }
+        ]
       }
     ]
   },

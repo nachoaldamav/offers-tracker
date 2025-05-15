@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-03-22T16:00:00.000Z",
   "creationDate": "2023-03-09T07:02:23.435Z",
-  "lastModifiedDate": "2025-03-17T10:27:32.980Z",
+  "lastModifiedDate": "2025-05-15T15:02:43.318Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -56,6 +56,10 @@
       "name": "Windows"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "9549",
       "name": "Controller Support"
     },
@@ -103,10 +107,10 @@
   "publisherDisplayName": "Ravenscourt",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 999,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -115,7 +119,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "7081c02175854846b4b721e5da162c16"
+          }
+        ]
       }
     ]
   },

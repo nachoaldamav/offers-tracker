@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-01-14T16:00:00.000Z",
   "creationDate": "2021-04-19T22:47:07.322Z",
-  "lastModifiedDate": "2025-05-15T02:42:59.720Z",
+  "lastModifiedDate": "2025-05-15T15:01:24.600Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -74,6 +74,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "21138",
@@ -179,10 +183,10 @@
   "publisherDisplayName": "PlayStation Publishing LLC",
   "price": {
     "totalPrice": {
-      "discountPrice": 4999,
+      "discountPrice": 1999,
       "originalPrice": 4999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 3000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -191,7 +195,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "9aaab76ff33b4d62a3b79638784e0d29"
+          }
+        ]
       }
     ]
   },

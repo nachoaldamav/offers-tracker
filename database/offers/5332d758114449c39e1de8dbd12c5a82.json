@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-04-27T14:45:00.000Z",
   "creationDate": "2023-04-24T17:02:35.531Z",
-  "lastModifiedDate": "2025-04-24T19:56:03.509Z",
+  "lastModifiedDate": "2025-05-15T15:02:23.777Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1166",
@@ -171,10 +175,10 @@
   "publisherDisplayName": "Stardock Entertainment",
   "price": {
     "totalPrice": {
-      "discountPrice": 3999,
+      "discountPrice": 1999,
       "originalPrice": 3999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -183,7 +187,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "6372ab682bf24b3f92396d77149be4d6"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-08-24T07:00:00.000Z",
   "creationDate": "2022-11-28T21:27:15.970Z",
-  "lastModifiedDate": "2025-05-08T07:30:47.832Z",
+  "lastModifiedDate": "2025-05-15T15:01:08.217Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "21135",
@@ -245,10 +249,10 @@
   "publisherDisplayName": "Milestone S.r.l.",
   "price": {
     "totalPrice": {
-      "discountPrice": 5999,
+      "discountPrice": 1499,
       "originalPrice": 5999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 4500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -257,7 +261,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "f14a0cde801e48ac8e4720f771589eeb"
+          }
+        ]
       }
     ]
   },

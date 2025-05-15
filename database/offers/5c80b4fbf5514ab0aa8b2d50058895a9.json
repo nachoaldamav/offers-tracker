@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-01-15T21:00:00.000Z",
   "creationDate": "2025-01-13T21:45:14.227Z",
-  "lastModifiedDate": "2025-01-13T21:45:14.227Z",
+  "lastModifiedDate": "2025-05-15T15:02:28.879Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -70,6 +70,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     }
   ],
   "items": [
@@ -129,10 +133,10 @@
   "publisherDisplayName": "NipoBox Publishing",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 324,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 175,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -141,7 +145,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "5a3d634d1506434eb67663c89baf4ffc"
+          }
+        ]
       }
     ]
   },

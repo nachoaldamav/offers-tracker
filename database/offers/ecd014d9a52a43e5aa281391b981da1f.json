@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-09-27T16:00:00.000Z",
   "creationDate": "2024-08-22T10:37:53.412Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.079Z",
+  "lastModifiedDate": "2025-05-15T15:01:59.544Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1116",
@@ -137,10 +141,10 @@
   "publisherDisplayName": "GameMill Entertainment",
   "price": {
     "totalPrice": {
-      "discountPrice": 4999,
+      "discountPrice": 1999,
       "originalPrice": 4999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 3000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -149,7 +153,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "6b77639813e54aa6bfe6a4c172c0cb9b"
+          }
+        ]
       }
     ]
   },

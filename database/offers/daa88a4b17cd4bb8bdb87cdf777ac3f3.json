@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2019-11-01T00:00:00.000Z",
   "creationDate": "2024-03-26T20:33:28.984Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.130Z",
+  "lastModifiedDate": "2025-05-15T15:02:23.776Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "9549",
@@ -136,10 +140,10 @@
   "publisherDisplayName": "Pillow Castle",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 999,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -148,7 +152,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "5468e660dc384eb292f4a91b5270855b"
+          }
+        ]
       }
     ]
   },

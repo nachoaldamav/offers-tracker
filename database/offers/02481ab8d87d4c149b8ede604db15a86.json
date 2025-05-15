@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-05-10T11:00:00.000Z",
   "creationDate": "2021-07-14T23:07:34.981Z",
-  "lastModifiedDate": "2025-04-15T20:28:48.588Z",
+  "lastModifiedDate": "2025-05-15T15:01:16.493Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -64,6 +64,10 @@
       "name": "Windows"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "1117",
       "name": "Adventure"
     },
@@ -111,10 +115,10 @@
   "publisherDisplayName": "Total Mayhem Games ",
   "price": {
     "totalPrice": {
-      "discountPrice": 1799,
+      "discountPrice": 899,
       "originalPrice": 1799,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 900,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -123,7 +127,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "0cfd577f7c4a4ccdaba40f01d0677051"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-04-25T15:00:00.000Z",
   "creationDate": "2023-03-17T20:54:31.833Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.147Z",
+  "lastModifiedDate": "2025-05-15T15:02:32.138Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "9549",
@@ -109,10 +113,10 @@
   "publisherDisplayName": "Abrams Studios LLC",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 399,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1600,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "c5909989905b4fc08985f9185f29a6b4"
+          }
+        ]
       }
     ]
   },

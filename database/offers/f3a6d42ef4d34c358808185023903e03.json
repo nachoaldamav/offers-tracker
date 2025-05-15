@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-03-29T17:00:00.000Z",
   "creationDate": "2024-03-28T09:48:42.131Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.154Z",
+  "lastModifiedDate": "2025-05-15T15:02:35.394Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1117",
@@ -117,10 +121,10 @@
   "publisherDisplayName": "Serenity Forge",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 649,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 350,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "48009ddf5b7442258c9658da018614b8"
+          }
+        ]
       }
     ]
   },

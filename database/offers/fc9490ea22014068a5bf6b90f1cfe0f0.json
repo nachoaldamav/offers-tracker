@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-05-24T10:00:00.000Z",
   "creationDate": "2023-05-16T07:56:30.169Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.346Z",
+  "lastModifiedDate": "2025-05-15T15:01:59.543Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1117",
@@ -121,10 +125,10 @@
   "publisherDisplayName": "10tons Ltd",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 599,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 900,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +137,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "cf5be34399924ada9c084d7722b8f40e"
+          }
+        ]
       }
     ]
   },

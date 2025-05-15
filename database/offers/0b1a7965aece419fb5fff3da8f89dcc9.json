@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-07-20T15:00:00.000Z",
   "creationDate": "2023-02-21T19:51:37.447Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.151Z",
+  "lastModifiedDate": "2025-05-15T15:02:35.395Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "9549",
@@ -113,10 +117,10 @@
   "publisherDisplayName": "Meridian4",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 99,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "36046aca05644976a754cac148b8156b"
+          }
+        ]
       }
     ]
   },

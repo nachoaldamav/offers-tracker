@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-12-01T18:00:00.000Z",
   "creationDate": "2020-11-11T14:11:43.951Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.026Z",
+  "lastModifiedDate": "2025-05-15T15:01:32.700Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -76,6 +76,10 @@
       "name": "Windows"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "1117",
       "name": "Adventure"
     }
@@ -135,10 +139,10 @@
   "publisherDisplayName": null,
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 749,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2250,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -147,7 +151,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "c75e467daca94c3c8182cfb351559ea6"
+          }
+        ]
       }
     ]
   },

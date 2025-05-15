@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-02-04T19:18:44.000Z",
   "creationDate": "2023-03-13T17:32:54.319Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.167Z",
+  "lastModifiedDate": "2025-05-15T15:02:43.319Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -136,6 +136,10 @@
       "name": "Strategy"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "1310",
       "name": "EARLY ACCESS"
     }
@@ -201,10 +205,10 @@
   "publisherDisplayName": "Crytivo",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 2099,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 900,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -213,7 +217,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "2ca10b7849cd4096abcc7c56d89fedd5"
+          }
+        ]
       }
     ]
   },

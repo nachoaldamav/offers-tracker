@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-08-06T05:00:00.000Z",
   "creationDate": "2024-06-09T12:58:10.458Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.145Z",
+  "lastModifiedDate": "2025-05-15T15:02:32.139Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1117",
@@ -117,10 +121,10 @@
   "publisherDisplayName": "Planet 47 Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 799,
+      "discountPrice": 319,
       "originalPrice": 799,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 480,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "69ba3b1dcb9a48568f4efff3f63729d4"
+          }
+        ]
       }
     ]
   },

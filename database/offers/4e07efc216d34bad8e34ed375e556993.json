@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-01-05T21:00:00.000Z",
   "creationDate": "2024-03-27T20:58:19.621Z",
-  "lastModifiedDate": "2025-03-11T22:05:26.700Z",
+  "lastModifiedDate": "2025-05-15T15:01:27.804Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -108,6 +108,10 @@
       "name": "Windows"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "9549",
       "name": "Controller Support"
     }
@@ -169,10 +173,10 @@
   "publisherDisplayName": "Blue and Red Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 599,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 900,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -181,7 +185,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "fa5abcf6c8fb42768a0c7d023244ddfc"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-04-28T16:00:00.000Z",
   "creationDate": "2022-03-15T07:50:51.094Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.157Z",
+  "lastModifiedDate": "2025-05-15T15:02:38.584Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,6 +42,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1117",
@@ -101,10 +105,10 @@
   "publisherDisplayName": "SuperGG.com",
   "price": {
     "totalPrice": {
-      "discountPrice": 1099,
+      "discountPrice": 219,
       "originalPrice": 1099,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 880,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -113,7 +117,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "c87eb00184b34a58812497d604296794"
+          }
+        ]
       }
     ]
   },

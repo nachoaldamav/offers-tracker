@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-01-23T16:00:00.000Z",
   "creationDate": "2024-03-11T03:44:06.803Z",
-  "lastModifiedDate": "2024-10-18T07:38:18.094Z",
+  "lastModifiedDate": "2025-05-15T15:02:06.192Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1117",
@@ -136,10 +140,10 @@
   "publisherDisplayName": "The Quantum Astrophysicists Guild",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 299,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 700,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -148,7 +152,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "9aaa08c8717642e394b2948dcb730cad"
+          }
+        ]
       }
     ]
   },

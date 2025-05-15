@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2019-10-22T15:00:00.000Z",
   "creationDate": "2019-04-02T20:11:02.847Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.142Z",
+  "lastModifiedDate": "2025-05-15T15:02:30.632Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -68,6 +68,10 @@
       "name": "Windows"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "1084",
       "name": "Stealth"
     },
@@ -123,10 +127,10 @@
   "publisherDisplayName": null,
   "price": {
     "totalPrice": {
-      "discountPrice": 3999,
+      "discountPrice": 999,
       "originalPrice": 3999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 3000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -135,7 +139,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "5dd396cbddb448b6b392f6c1be1f4e9e"
+          }
+        ]
       }
     ]
   },

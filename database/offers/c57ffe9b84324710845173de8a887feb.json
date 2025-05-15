@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-08-26T15:00:00.000Z",
   "creationDate": "2020-08-04T14:42:04.657Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.049Z",
+  "lastModifiedDate": "2025-05-15T15:01:46.285Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -80,6 +80,10 @@
       "name": "Windows"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "21149",
       "name": "Quickly Understand the Controls"
     },
@@ -127,10 +131,10 @@
   "publisherDisplayName": "Team17",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 299,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -139,7 +143,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "d233d620653c4003864b58c9922b69de"
+          }
+        ]
       }
     ]
   },

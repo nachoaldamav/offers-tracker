@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-05-11T21:00:00.000Z",
   "creationDate": "2023-03-26T18:05:58.191Z",
-  "lastModifiedDate": "2025-02-28T17:06:35.224Z",
+  "lastModifiedDate": "2025-05-15T15:01:11.590Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "9549",
@@ -117,10 +121,10 @@
   "publisherDisplayName": "Vivorlds",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 599,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "7bd1fc700bed43f281e5eb93e086ee8f"
+          }
+        ]
       }
     ]
   },

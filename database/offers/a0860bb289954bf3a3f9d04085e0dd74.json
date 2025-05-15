@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-02-07T04:00:00.000Z",
   "creationDate": "2024-11-09T07:24:02.496Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.058Z",
+  "lastModifiedDate": "2025-05-15T15:01:49.541Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -124,6 +124,10 @@
       "name": "Windows"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "9549",
       "name": "Controller Support"
     }
@@ -185,10 +189,10 @@
   "publisherDisplayName": "BUNGARRA SOFTWARE PTY LTD",
   "price": {
     "totalPrice": {
-      "discountPrice": 4999,
+      "discountPrice": 3999,
       "originalPrice": 4999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -197,7 +201,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "44887fb107b44e4d820b88eab847f91a"
+          }
+        ]
       }
     ]
   },

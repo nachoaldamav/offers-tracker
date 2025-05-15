@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-02-22T08:00:00.000Z",
   "creationDate": "2024-04-01T22:20:27.450Z",
-  "lastModifiedDate": "2025-04-27T16:20:08.799Z",
+  "lastModifiedDate": "2025-05-15T15:02:28.880Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1294",
@@ -152,10 +156,10 @@
   "publisherDisplayName": "Kepler Interactive",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 1499,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -164,7 +168,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "cd680031a5014691b9522b1d6b83250d"
+          }
+        ]
       }
     ]
   },

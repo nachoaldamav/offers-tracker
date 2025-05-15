@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-12-06T18:00:00.000Z",
   "creationDate": "2025-03-05T00:30:47.535Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.157Z",
+  "lastModifiedDate": "2025-05-15T15:02:38.584Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "1115",
       "name": "Strategy"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     }
   ],
   "items": [
@@ -120,10 +124,10 @@
   "publisherDisplayName": "THQ Nordic",
   "price": {
     "totalPrice": {
-      "discountPrice": 3999,
+      "discountPrice": 999,
       "originalPrice": 3999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 3000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -132,7 +136,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "d73770723058449ab74e47706cda22da"
+          }
+        ]
       }
     ]
   },

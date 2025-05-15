@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-08-17T14:00:00.000Z",
   "creationDate": "2020-09-08T17:30:29.799Z",
-  "lastModifiedDate": "2025-05-13T21:35:58.036Z",
+  "lastModifiedDate": "2025-05-15T15:01:49.542Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -62,6 +62,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1166",
@@ -195,10 +199,10 @@
   "publisherDisplayName": null,
   "price": {
     "totalPrice": {
-      "discountPrice": 4999,
+      "discountPrice": 1249,
       "originalPrice": 4999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 3750,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -207,7 +211,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "813baed473b94bf495cdeb6b36fd330c"
+          }
+        ]
       }
     ]
   },

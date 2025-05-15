@@ -195,10 +195,10 @@
   "publisherDisplayName": "Deep Silver",
   "price": {
     "totalPrice": {
-      "discountPrice": 4999,
+      "discountPrice": 0,
       "originalPrice": 4999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 4999,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -207,7 +207,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "2842790afe11462cb6ed506d64757fb8"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-09-30T06:00:00.000Z",
   "creationDate": "2024-08-28T05:20:15.164Z",
-  "lastModifiedDate": "2024-10-11T03:00:23.600Z",
+  "lastModifiedDate": "2025-05-15T15:02:40.119Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     }
   ],
   "items": [
@@ -105,10 +109,10 @@
   "publisherDisplayName": "NCLO",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1199,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 800,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -117,7 +121,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "a58384625c594e6f9a4863184cbc0248"
+          }
+        ]
       }
     ]
   },

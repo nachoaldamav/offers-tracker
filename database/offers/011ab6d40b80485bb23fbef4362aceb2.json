@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-09-09T15:00:00.000Z",
   "creationDate": "2020-10-06T21:32:40.998Z",
-  "lastModifiedDate": "2025-04-27T10:07:36.500Z",
+  "lastModifiedDate": "2025-05-15T15:01:13.241Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -84,6 +84,10 @@
       "name": "Windows"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "21119",
       "name": "Great for Beginners"
     }
@@ -139,10 +143,10 @@
   "publisherDisplayName": "Team17",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 299,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -151,7 +155,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "2efc1819375c4d65a3fb70a93d686fee"
+          }
+        ]
       }
     ]
   },

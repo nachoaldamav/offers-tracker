@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-01-11T09:00:00.000Z",
   "creationDate": "2023-07-31T21:17:22.332Z",
-  "lastModifiedDate": "2025-03-17T10:21:55.405Z",
+  "lastModifiedDate": "2025-05-15T15:02:15.707Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     }
   ],
   "items": [
@@ -103,10 +107,10 @@
   "publisherDisplayName": "Nacon",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 899,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2100,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -115,7 +119,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "8493986bfa5849aa9c96993e2b2ad9b6"
+          }
+        ]
       }
     ]
   },

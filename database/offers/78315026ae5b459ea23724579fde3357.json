@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-07-05T17:00:00.000Z",
   "creationDate": "2023-05-25T11:19:56.379Z",
-  "lastModifiedDate": "2024-06-13T14:51:39.966Z",
+  "lastModifiedDate": "2025-05-15T15:02:06.192Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1263",
@@ -109,10 +113,10 @@
   "publisherDisplayName": "Meng Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 499,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "a3b8e3a6611d4b4d876ab98d9f181006"
+          }
+        ]
       }
     ]
   },

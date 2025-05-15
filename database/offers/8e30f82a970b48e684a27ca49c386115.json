@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-11-19T16:00:00.000Z",
   "creationDate": "2024-04-01T17:13:04.795Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.085Z",
+  "lastModifiedDate": "2025-05-15T15:02:01.297Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "1115",
       "name": "Strategy"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "21150",
@@ -145,10 +149,10 @@
   "publisherDisplayName": "Headup",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 99,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 900,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -157,7 +161,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "900db4df99de4ca98a66ed8a6f695e65"
+          }
+        ]
       }
     ]
   },

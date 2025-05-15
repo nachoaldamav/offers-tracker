@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-02-02T15:00:00.000Z",
   "creationDate": "2022-03-07T19:30:08.146Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.089Z",
+  "lastModifiedDate": "2025-05-15T15:02:02.951Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1117",
@@ -111,10 +115,10 @@
   "publisherDisplayName": "Frontier Foundry",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 749,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2250,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -123,7 +127,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "72ce94a984d44b839f149e24d660e5f2"
+          }
+        ]
       }
     ]
   },

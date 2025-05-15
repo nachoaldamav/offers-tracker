@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-06-16T08:00:00.000Z",
   "creationDate": "2022-02-07T22:53:19.824Z",
-  "lastModifiedDate": "2025-03-17T10:21:55.401Z",
+  "lastModifiedDate": "2025-05-15T15:01:03.682Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -60,6 +60,10 @@
       "name": "Windows"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "1117",
       "name": "Adventure"
     }
@@ -103,10 +107,10 @@
   "publisherDisplayName": "Nacon",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 599,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -115,7 +119,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "4a34d55f8620424da1477bf31794f95a"
+          }
+        ]
       }
     ]
   },

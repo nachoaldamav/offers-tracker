@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-11-09T08:00:00.000Z",
   "creationDate": "2023-10-31T17:40:01.624Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.175Z",
+  "lastModifiedDate": "2025-05-15T15:02:46.438Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "9549",
@@ -121,10 +125,10 @@
   "publisherDisplayName": "Atari",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 449,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 550,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +137,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "12ccd96fca9b4fae91b9439a717c900c"
+          }
+        ]
       }
     ]
   },

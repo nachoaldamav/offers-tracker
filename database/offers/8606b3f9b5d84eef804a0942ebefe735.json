@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-03-13T09:00:00.000Z",
   "creationDate": "2025-03-13T09:00:17.464Z",
-  "lastModifiedDate": "2025-03-13T09:00:17.464Z",
+  "lastModifiedDate": "2025-05-15T15:02:48.064Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -100,6 +100,10 @@
       "name": "Windows"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "9549",
       "name": "Controller Support"
     }
@@ -161,10 +165,10 @@
   "publisherDisplayName": "10tons Ltd",
   "price": {
     "totalPrice": {
-      "discountPrice": 1699,
+      "discountPrice": 679,
       "originalPrice": 1699,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1020,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -173,7 +177,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "f5a5ae289c2b4ba3abc726b23f93bc9c"
+          }
+        ]
       }
     ]
   },

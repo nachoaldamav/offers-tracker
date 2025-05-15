@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-01-05T16:00:00.000Z",
   "creationDate": "2022-08-31T17:32:52.440Z",
-  "lastModifiedDate": "2025-04-09T15:12:19.987Z",
+  "lastModifiedDate": "2025-05-15T15:01:13.242Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -40,6 +40,22 @@
       "name": "Space Sim"
     },
     {
+      "id": "1188",
+      "name": "RELAXING"
+    },
+    {
+      "id": "21127",
+      "name": "Creative Community"
+    },
+    {
+      "id": "9547",
+      "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "1393",
       "name": "Simulation"
     },
@@ -52,10 +68,6 @@
       "name": "Amazing Characters"
     },
     {
-      "id": "1188",
-      "name": "RELAXING"
-    },
-    {
       "id": "21140",
       "name": "Amazing Storytelling"
     },
@@ -64,20 +76,12 @@
       "name": "Extremely Fun"
     },
     {
-      "id": "21127",
-      "name": "Creative Community"
-    },
-    {
       "id": "1400",
       "name": "Physics"
     },
     {
       "id": "21146",
       "name": "Educational"
-    },
-    {
-      "id": "9547",
-      "name": "Windows"
     },
     {
       "id": "10719",
@@ -139,10 +143,10 @@
   "publisherDisplayName": "Private Division",
   "price": {
     "totalPrice": {
-      "discountPrice": 3999,
+      "discountPrice": 999,
       "originalPrice": 3999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 3000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -151,7 +155,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "36baab0917ab41ac90b475f51894b0e2"
+          }
+        ]
       }
     ]
   },

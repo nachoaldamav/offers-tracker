@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-01-27T12:04:13.485Z",
   "creationDate": "2023-09-18T15:47:22.768Z",
-  "lastModifiedDate": "2025-04-11T16:29:40.950Z",
+  "lastModifiedDate": "2025-05-15T15:01:32.699Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "1307",
       "name": "Open World"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1310",
@@ -117,10 +121,10 @@
   "publisherDisplayName": "JCP",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 299,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 700,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "3aa0072d81c245a9846c7ebb4b7e1426"
+          }
+        ]
       }
     ]
   },

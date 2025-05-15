@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-01-18T05:00:00.000Z",
   "creationDate": "2023-04-19T09:02:59.826Z",
-  "lastModifiedDate": "2025-03-25T15:00:29.329Z",
+  "lastModifiedDate": "2025-05-15T15:01:03.681Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -70,6 +70,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "21149",
@@ -143,10 +147,10 @@
   "publisherDisplayName": "UBISOFT",
   "price": {
     "totalPrice": {
-      "discountPrice": 3999,
+      "discountPrice": 1999,
       "originalPrice": 3999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -155,7 +159,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "94ce50245d9240e3a2be88c72d445f6a"
+          }
+        ]
       }
     ]
   },

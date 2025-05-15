@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-10-25T13:00:00.000Z",
   "creationDate": "2023-05-16T11:17:06.812Z",
-  "lastModifiedDate": "2025-03-31T12:40:57.282Z",
+  "lastModifiedDate": "2025-05-15T15:01:39.608Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1310",
@@ -121,10 +125,10 @@
   "publisherDisplayName": "Nowsky",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 899,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1100,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +137,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "3a1507cbd5214d5a91858a8b3694b286"
+          }
+        ]
       }
     ]
   },

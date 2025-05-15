@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-08-19T16:00:00.000Z",
   "creationDate": "2022-07-01T20:08:05.027Z",
-  "lastModifiedDate": "2025-02-24T16:01:33.380Z",
+  "lastModifiedDate": "2025-05-15T15:01:31.072Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "10719",
@@ -101,10 +105,10 @@
   "publisherDisplayName": "Interplay Entertainment Corp.",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 799,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -113,7 +117,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "0e444aaf6ac84abb89d4594fe20a19be"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-01-18T23:00:00.000Z",
   "creationDate": "2023-11-18T15:55:43.388Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.106Z",
+  "lastModifiedDate": "2025-05-15T15:02:12.388Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -62,6 +62,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1310",
@@ -129,10 +133,10 @@
   "publisherDisplayName": "Bëor Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 399,
+      "discountPrice": 159,
       "originalPrice": 399,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 240,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -141,7 +145,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "d80b8b23a8a944bc964a7adcb51b17f7"
+          }
+        ]
       }
     ]
   },

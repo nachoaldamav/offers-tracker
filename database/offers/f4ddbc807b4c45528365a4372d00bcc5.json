@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-06-15T12:00:00.000Z",
   "creationDate": "2024-05-31T17:46:45.016Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.086Z",
+  "lastModifiedDate": "2025-05-15T15:02:02.952Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -130,6 +130,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "10719",
@@ -257,10 +261,10 @@
   "publisherDisplayName": "Soer Game Studio",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 199,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 300,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -269,7 +273,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "1274d06e6fb148c59f23b9a2bf12c19c"
+          }
+        ]
       }
     ]
   },

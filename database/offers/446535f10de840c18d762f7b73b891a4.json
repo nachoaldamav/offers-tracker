@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-02-25T10:00:00.000Z",
   "creationDate": "2024-09-20T14:39:00.786Z",
-  "lastModifiedDate": "2025-02-11T15:11:35.960Z",
+  "lastModifiedDate": "2025-05-15T15:01:19.666Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -84,6 +84,10 @@
       "name": "Strategy"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "1117",
       "name": "Adventure"
     },
@@ -149,10 +153,10 @@
   "publisherDisplayName": "Firesquid",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 999,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -161,7 +165,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "2f53891ec68945b58268cffbc550a308"
+          }
+        ]
       }
     ]
   },

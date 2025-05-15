@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-01-03T19:30:00.000Z",
   "creationDate": "2023-11-24T10:19:09.618Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.028Z",
+  "lastModifiedDate": "2025-05-15T15:01:34.367Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "1083",
       "name": "Rogue-Lite"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "9549",
@@ -125,10 +129,10 @@
   "publisherDisplayName": "Frédéric Julian",
   "price": {
     "totalPrice": {
-      "discountPrice": 699,
+      "discountPrice": 279,
       "originalPrice": 699,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 420,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -137,7 +141,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "e483414cd9f54ef09fbbc223a3d719d6"
+          }
+        ]
       }
     ]
   },

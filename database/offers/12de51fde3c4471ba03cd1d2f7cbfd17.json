@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-09-08T16:00:00.000Z",
   "creationDate": "2023-05-01T21:54:23.539Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.043Z",
+  "lastModifiedDate": "2025-05-15T15:01:42.962Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -62,6 +62,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     }
   ],
   "items": [
@@ -119,10 +123,10 @@
   "publisherDisplayName": "Phoenix Labs",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 1499,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -131,7 +135,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "1b4c596101f84077849de27488630adb"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-08-18T17:00:00.000Z",
   "creationDate": "2020-06-23T12:42:06.065Z",
-  "lastModifiedDate": "2025-05-15T00:40:36.479Z",
+  "lastModifiedDate": "2025-05-15T15:01:44.663Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -66,6 +66,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "9549",
@@ -163,10 +167,10 @@
   "publisherDisplayName": "Cellar Door Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 1249,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1250,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -175,7 +179,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "2e7067a54792465e8958da77d29aa3b1"
+          }
+        ]
       }
     ]
   },

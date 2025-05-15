@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-07-17T22:00:00.000Z",
   "creationDate": "2023-04-04T00:46:40.431Z",
-  "lastModifiedDate": "2023-07-13T08:08:50.492Z",
+  "lastModifiedDate": "2025-05-15T15:02:32.138Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "9549",
@@ -113,10 +117,10 @@
   "publisherDisplayName": "Gammera Nest",
   "price": {
     "totalPrice": {
-      "discountPrice": 1299,
+      "discountPrice": 298,
       "originalPrice": 1299,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1001,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "bf42a35fe70745aaa4ca5ab13fd4a691"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-06-01T15:00:00.000Z",
   "creationDate": "2021-03-18T01:16:52.292Z",
-  "lastModifiedDate": "2025-04-09T21:39:08.326Z",
+  "lastModifiedDate": "2025-05-15T15:02:32.137Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "21137",
@@ -143,10 +147,10 @@
   "publisherDisplayName": "Mythwright",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 1874,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 625,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -155,7 +159,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "41f4a31ccfb949c3b0cb1a23216fd718"
+          }
+        ]
       }
     ]
   },

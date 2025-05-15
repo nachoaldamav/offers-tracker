@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-10-11T17:00:00.000Z",
   "creationDate": "2024-08-13T10:01:15.293Z",
-  "lastModifiedDate": "2025-04-10T13:05:55.847Z",
+  "lastModifiedDate": "2025-05-15T15:01:39.607Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -128,6 +128,10 @@
       "name": "Open World"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "9549",
       "name": "Controller Support"
     },
@@ -201,10 +205,10 @@
   "publisherDisplayName": "ARN IT SOFTWARE",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1599,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -213,7 +217,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "d75c8cd90e5c4900b4149426055c8753"
+          }
+        ]
       }
     ]
   },

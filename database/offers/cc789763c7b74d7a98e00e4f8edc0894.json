@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-07-16T16:00:00.000Z",
   "creationDate": "2025-03-05T02:12:15.983Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.068Z",
+  "lastModifiedDate": "2025-05-15T15:01:52.945Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1183",
@@ -133,10 +137,10 @@
   "publisherDisplayName": "THQ Nordic",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 499,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -145,7 +149,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "513c32d55f4b4570ad7a60f1049fb0e2"
+          }
+        ]
       }
     ]
   },

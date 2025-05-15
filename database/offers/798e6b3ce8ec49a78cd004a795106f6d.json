@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-04-27T11:00:00.000Z",
   "creationDate": "2023-02-23T14:49:56.449Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.098Z",
+  "lastModifiedDate": "2025-05-15T15:02:07.694Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1181",
@@ -125,10 +129,10 @@
   "publisherDisplayName": "AurumDust, Game Seer Ventures",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 999,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -137,7 +141,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "701e45c2a58a4d0a8f702175ec530118"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-11-26T12:00:00.000Z",
   "creationDate": "2024-10-29T09:13:47.896Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.067Z",
+  "lastModifiedDate": "2025-05-15T15:01:52.947Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -120,6 +120,10 @@
       "name": "Rogue-Lite"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "9549",
       "name": "Controller Support"
     },
@@ -185,10 +189,10 @@
   "publisherDisplayName": "Alawar",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 249,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 250,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -197,7 +201,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "0d0ceff3068742f6a0fa091b4d0fc4db"
+          }
+        ]
       }
     ]
   },

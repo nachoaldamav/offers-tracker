@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-02-20T14:16:00.000Z",
   "creationDate": "2024-12-29T20:49:54.354Z",
-  "lastModifiedDate": "2025-03-25T15:33:08.097Z",
+  "lastModifiedDate": "2025-05-15T15:02:07.695Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -104,6 +104,10 @@
       "name": "Windows"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "1294",
       "name": "First Person"
     }
@@ -169,10 +173,10 @@
   "publisherDisplayName": "UN reliable company",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 399,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 600,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -181,7 +185,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "af0027aef4ab441a99f8ac8c3fb39927"
+          }
+        ]
       }
     ]
   },

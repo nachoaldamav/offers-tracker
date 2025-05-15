@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-08-18T15:00:00.000Z",
   "creationDate": "2022-03-11T23:02:49.705Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.096Z",
+  "lastModifiedDate": "2025-05-15T15:02:06.194Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -60,6 +60,10 @@
       "name": "Windows"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "1198",
       "name": "Retro"
     }
@@ -103,10 +107,10 @@
   "publisherDisplayName": null,
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 399,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 600,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -115,7 +119,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "35de68270b0e4edd951e84ad6cae314a"
+          }
+        ]
       }
     ]
   },

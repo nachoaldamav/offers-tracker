@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-06-24T15:00:00.000Z",
   "creationDate": "2023-04-23T12:00:50.167Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.013Z",
+  "lastModifiedDate": "2025-05-15T15:01:26.255Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "9549",
@@ -125,10 +129,10 @@
   "publisherDisplayName": "Putnai Csaba",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 199,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 800,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -137,7 +141,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "4e5a6453ff6245ecb059a56fe22db26c"
+          }
+        ]
       }
     ]
   },

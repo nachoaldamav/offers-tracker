@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2019-07-09T15:00:00.000Z",
   "creationDate": "2019-05-08T15:55:29.588Z",
-  "lastModifiedDate": "2025-05-06T13:04:43.735Z",
+  "lastModifiedDate": "2025-05-15T15:02:27.269Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     }
   ],
   "items": [
@@ -103,10 +107,10 @@
   "publisherDisplayName": "Arc Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 299,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -115,7 +119,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "6ef4399027aa48dd959d3cbeff5e7b2c"
+          }
+        ]
       }
     ]
   },

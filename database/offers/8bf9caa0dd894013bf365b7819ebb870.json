@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-04-14T16:30:00.000Z",
   "creationDate": "2025-01-10T04:16:06.406Z",
-  "lastModifiedDate": "2025-05-07T03:30:21.041Z",
+  "lastModifiedDate": "2025-05-15T15:01:39.608Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -128,6 +128,10 @@
       "name": "Windows"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "1263",
       "name": "Indie"
     }
@@ -189,10 +193,10 @@
   "publisherDisplayName": "Easyfunstudio",
   "price": {
     "totalPrice": {
-      "discountPrice": 599,
+      "discountPrice": 479,
       "originalPrice": 599,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 120,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -201,7 +205,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "e515434e2b02411199c62e42b33ea698"
+          }
+        ]
       }
     ]
   },

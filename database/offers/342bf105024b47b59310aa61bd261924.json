@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-10-03T16:00:00.000Z",
   "creationDate": "2023-02-09T00:44:59.332Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.101Z",
+  "lastModifiedDate": "2025-05-15T15:02:09.291Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1117",
@@ -107,10 +111,10 @@
   "publisherDisplayName": "Paradox Interactive",
   "price": {
     "totalPrice": {
-      "discountPrice": 4999,
+      "discountPrice": 2499,
       "originalPrice": 4999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -119,7 +123,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "70a0b149b96143289b523a1afebd3511"
+          }
+        ]
       }
     ]
   },

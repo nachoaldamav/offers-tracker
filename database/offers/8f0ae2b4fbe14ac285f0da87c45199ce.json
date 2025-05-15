@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-04-04T12:00:00.000Z",
   "creationDate": "2025-03-14T09:57:50.426Z",
-  "lastModifiedDate": "2025-04-14T14:41:29.566Z",
+  "lastModifiedDate": "2025-05-15T15:01:08.218Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -92,6 +92,10 @@
       "name": "Windows"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "9549",
       "name": "Controller Support"
     },
@@ -157,10 +161,10 @@
   "publisherDisplayName": "Headup Publishing",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 1699,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 800,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -169,7 +173,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "5c360161e6f147a8a6a945952bd8eb0c"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-05-09T09:00:00.000Z",
   "creationDate": "2024-04-20T07:36:21.838Z",
-  "lastModifiedDate": "2024-09-05T11:20:21.696Z",
+  "lastModifiedDate": "2025-05-15T15:02:30.626Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1310",
@@ -125,10 +129,10 @@
   "publisherDisplayName": "Whale Rock Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 99,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1900,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -137,7 +141,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "bda5479abeac4c8990f866a8f1823695"
+          }
+        ]
       }
     ]
   },

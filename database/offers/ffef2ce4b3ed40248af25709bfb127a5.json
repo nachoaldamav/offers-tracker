@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-09-12T13:00:00.000Z",
   "creationDate": "2024-08-05T14:40:17.406Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.134Z",
+  "lastModifiedDate": "2025-05-15T15:02:25.468Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1263",
@@ -128,10 +132,10 @@
   "publisherDisplayName": "Panic",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 599,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -140,7 +144,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "7f0c15ad601d4e0ba8a490007fd99b32"
+          }
+        ]
       }
     ]
   },

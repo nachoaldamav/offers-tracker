@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-12-11T14:05:10.000Z",
   "creationDate": "2024-12-07T11:27:27.394Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.101Z",
+  "lastModifiedDate": "2025-05-15T15:02:09.291Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -92,6 +92,10 @@
       "name": "Windows"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "1263",
       "name": "Indie"
     }
@@ -153,10 +157,10 @@
   "publisherDisplayName": "Horizon Studios",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 149,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1350,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -165,7 +169,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "490a7d60fb7c49a4853d4ebabfd5d302"
+          }
+        ]
       }
     ]
   },

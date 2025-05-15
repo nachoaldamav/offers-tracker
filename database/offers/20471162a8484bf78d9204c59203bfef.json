@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-09-14T16:00:00.000Z",
   "creationDate": "2023-09-13T15:53:54.229Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.093Z",
+  "lastModifiedDate": "2025-05-15T15:02:06.194Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,6 +42,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1294",
@@ -98,10 +102,10 @@
   "publisherDisplayName": "Monomi Park",
   "price": {
     "totalPrice": {
-      "discountPrice": 4499,
+      "discountPrice": 2474,
       "originalPrice": 4499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2025,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -110,7 +114,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "d9e1446cfd4e4817b109c35838ef67db"
+          }
+        ]
       }
     ]
   },

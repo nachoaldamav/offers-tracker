@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-02-09T16:00:00.000Z",
   "creationDate": "2020-04-16T12:54:39.101Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.418Z",
+  "lastModifiedDate": "2025-05-15T15:02:18.946Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -60,6 +60,10 @@
       "name": "Windows"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "1263",
       "name": "Indie"
     }
@@ -103,10 +107,10 @@
   "publisherDisplayName": null,
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 749,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 750,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -115,7 +119,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "c24bdfefece444b69e66a10868fb2c65"
+          }
+        ]
       }
     ]
   },

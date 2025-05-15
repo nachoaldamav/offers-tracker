@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-08-08T09:00:00.000Z",
   "creationDate": "2024-04-01T14:31:10.108Z",
-  "lastModifiedDate": "2025-04-12T05:52:35.476Z",
+  "lastModifiedDate": "2025-05-15T15:01:37.921Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1117",
@@ -121,10 +125,10 @@
   "publisherDisplayName": "Lost Sock Studio",
   "price": {
     "totalPrice": {
-      "discountPrice": 1699,
+      "discountPrice": 1189,
       "originalPrice": 1699,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 510,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +137,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "28e9df6465b549189d950a2ca141afb2"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2019-01-24T16:00:00.000Z",
   "creationDate": "2025-03-18T17:58:27.927Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.040Z",
+  "lastModifiedDate": "2025-05-15T15:01:41.285Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "10719",
@@ -136,10 +140,10 @@
   "publisherDisplayName": "Jackbox Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 999,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -148,7 +152,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "c713538b069b43f4b9bf547b7b0cd81f"
+          }
+        ]
       }
     ]
   },

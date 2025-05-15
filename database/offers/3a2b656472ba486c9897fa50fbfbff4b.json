@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-01-28T15:00:00.000Z",
   "creationDate": "2023-11-16T12:58:13.568Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.004Z",
+  "lastModifiedDate": "2025-05-15T15:01:22.913Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -116,6 +116,10 @@
       "name": "Windows"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "9549",
       "name": "Controller Support"
     }
@@ -201,10 +205,10 @@
   "publisherDisplayName": "United Label",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 1499,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -213,7 +217,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "8056b497b78943e7915d9e69c7f2dffe"
+          }
+        ]
       }
     ]
   },

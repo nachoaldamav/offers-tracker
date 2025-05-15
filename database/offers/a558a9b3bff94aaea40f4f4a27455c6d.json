@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-10-16T13:00:00.000Z",
   "creationDate": "2023-09-12T22:42:36.792Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.128Z",
+  "lastModifiedDate": "2025-05-15T15:02:22.123Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1117",
@@ -105,10 +109,10 @@
   "publisherDisplayName": "Blowfish Studios",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 399,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1600,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -117,7 +121,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "cd5446c04f714cc9bcfa1d86aacfbc58"
+          }
+        ]
       }
     ]
   },

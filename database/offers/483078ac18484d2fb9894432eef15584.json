@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-11-07T08:00:00.000Z",
   "creationDate": "2024-08-07T12:08:54.996Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.085Z",
+  "lastModifiedDate": "2025-05-15T15:02:01.296Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -94,6 +94,10 @@
     {
       "id": "1115",
       "name": "Strategy"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     }
   ],
   "items": [
@@ -165,10 +169,10 @@
   "publisherDisplayName": "Microids",
   "price": {
     "totalPrice": {
-      "discountPrice": 3999,
+      "discountPrice": 2799,
       "originalPrice": 3999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -177,7 +181,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "d0755434e9af41fb89ce9aec67d20fb9"
+          }
+        ]
       }
     ]
   },

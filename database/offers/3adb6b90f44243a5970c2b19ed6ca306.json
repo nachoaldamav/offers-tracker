@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-06-15T14:00:00.000Z",
   "creationDate": "2023-05-16T14:31:49.401Z",
-  "lastModifiedDate": "2025-02-24T16:01:25.970Z",
+  "lastModifiedDate": "2025-05-15T15:02:18.948Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,6 +42,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1117",
@@ -101,10 +105,10 @@
   "publisherDisplayName": "Assemble Entertainment",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 599,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -113,7 +117,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "e2684be5fdf143f6aed46792e135321b"
+          }
+        ]
       }
     ]
   },

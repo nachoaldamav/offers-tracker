@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-03-26T16:00:00.000Z",
   "creationDate": "2025-02-27T20:44:09.454Z",
-  "lastModifiedDate": "2025-03-26T00:00:27.073Z",
+  "lastModifiedDate": "2025-05-15T15:01:16.492Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -88,6 +88,10 @@
       "name": "Windows"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "9549",
       "name": "Controller Support"
     },
@@ -153,10 +157,10 @@
   "publisherDisplayName": "Digital Theory Ltd.",
   "price": {
     "totalPrice": {
-      "discountPrice": 299,
+      "discountPrice": 224,
       "originalPrice": 299,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 75,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -165,7 +169,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "67d89c3cb7e54b7fb4515f610dbb2753"
+          }
+        ]
       }
     ]
   },

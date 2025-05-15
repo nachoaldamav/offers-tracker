@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-10-12T17:00:00.000Z",
   "creationDate": "2023-03-10T02:38:05.221Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.125Z",
+  "lastModifiedDate": "2025-05-15T15:02:20.538Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -72,6 +72,10 @@
       "name": "Windows"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "9549",
       "name": "Controller Support"
     }
@@ -129,10 +133,10 @@
   "publisherDisplayName": "Megame",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 799,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -141,7 +145,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "823a8476138842ed8de4803d309cff17"
+          }
+        ]
       }
     ]
   },

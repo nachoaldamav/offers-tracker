@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-01-15T21:00:00.000Z",
   "creationDate": "2024-03-30T16:14:11.325Z",
-  "lastModifiedDate": "2025-01-14T18:41:19.364Z",
+  "lastModifiedDate": "2025-05-15T15:02:27.269Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -76,6 +76,10 @@
       "name": "Windows"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "1117",
       "name": "Adventure"
     }
@@ -137,10 +141,10 @@
   "publisherDisplayName": "NipoBox Publishing",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 299,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -149,7 +153,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "49e0befd5b804bf097b7e4068fdb2624"
+          }
+        ]
       }
     ]
   },

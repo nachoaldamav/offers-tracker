@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-06-26T11:00:00.000Z",
   "creationDate": "2024-03-10T04:52:22.351Z",
-  "lastModifiedDate": "2025-04-09T15:12:19.969Z",
+  "lastModifiedDate": "2025-05-15T15:01:06.616Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1263",
@@ -109,10 +113,10 @@
   "publisherDisplayName": "Leon Gameworks",
   "price": {
     "totalPrice": {
-      "discountPrice": 199,
+      "discountPrice": 99,
       "originalPrice": 199,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 100,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "cd5d4b94ee5446f791af13753339a754"
+          }
+        ]
       }
     ]
   },

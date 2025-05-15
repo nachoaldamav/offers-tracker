@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-10-12T14:30:00.000Z",
   "creationDate": "2023-03-28T08:02:03.019Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.091Z",
+  "lastModifiedDate": "2025-05-15T15:02:04.624Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1310",
@@ -125,10 +129,10 @@
   "publisherDisplayName": "Pandora Technology",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1499,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -137,7 +141,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "43c07980c25849e780b5da957c53524b"
+          }
+        ]
       }
     ]
   },

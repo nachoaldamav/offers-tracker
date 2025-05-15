@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-07-19T14:00:00.000Z",
   "creationDate": "2023-06-09T16:29:02.337Z",
-  "lastModifiedDate": "2025-04-21T09:31:24.923Z",
+  "lastModifiedDate": "2025-05-15T15:02:28.880Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -116,6 +116,10 @@
       "name": "Open World"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "9549",
       "name": "Controller Support"
     }
@@ -181,10 +185,10 @@
   "publisherDisplayName": "ImaginationOverflow",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 1049,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 450,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -193,7 +197,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "4aff9cec44354baa96be6b7ec3c2f27e"
+          }
+        ]
       }
     ]
   },

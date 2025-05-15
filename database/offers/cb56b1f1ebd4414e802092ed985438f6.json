@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-07-22T17:00:00.000Z",
   "creationDate": "2021-05-27T10:23:32.801Z",
-  "lastModifiedDate": "2025-04-09T15:12:19.979Z",
+  "lastModifiedDate": "2025-05-15T15:01:10.003Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "1115",
       "name": "Strategy"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1181",
@@ -113,10 +117,10 @@
   "publisherDisplayName": "Those Awesome Guys",
   "price": {
     "totalPrice": {
-      "discountPrice": 1299,
+      "discountPrice": 649,
       "originalPrice": 1299,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 650,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "c9f190fe52534cca92c81f48911821f8"
+          }
+        ]
       }
     ]
   },

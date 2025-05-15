@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-02-13T05:00:00.000Z",
   "creationDate": "2024-02-27T16:03:49.694Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.151Z",
+  "lastModifiedDate": "2025-05-15T15:02:35.394Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -176,6 +176,10 @@
       "name": "Windows"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "1294",
       "name": "First Person"
     },
@@ -245,10 +249,10 @@
   "publisherDisplayName": "Icarus Interactive Entertainment",
   "price": {
     "totalPrice": {
-      "discountPrice": 399,
+      "discountPrice": 199,
       "originalPrice": 399,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -257,7 +261,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "f6c7b4c252a34a699218206621c4f7cc"
+          }
+        ]
       }
     ]
   },

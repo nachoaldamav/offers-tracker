@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-12-24T22:00:00.000Z",
   "creationDate": "2024-11-03T19:53:40.295Z",
-  "lastModifiedDate": "2025-04-15T15:00:30.697Z",
+  "lastModifiedDate": "2025-05-15T15:02:07.693Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -110,6 +110,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     }
   ],
   "items": [
@@ -169,10 +173,10 @@
   "publisherDisplayName": "TheDragonDesigns",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1599,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -181,7 +185,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "553168bdd03b463d94c9ccecdefc1557"
+          }
+        ]
       }
     ]
   },

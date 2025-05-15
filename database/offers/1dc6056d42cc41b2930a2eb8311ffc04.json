@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-05-06T15:00:00.000Z",
   "creationDate": "2023-04-13T21:02:00.745Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.309Z",
+  "lastModifiedDate": "2025-05-15T15:01:44.664Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "9549",
@@ -121,10 +125,10 @@
   "publisherDisplayName": "Roenko Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 49,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 450,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +137,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "28e155c3cfdf468bbc365fc0c5b7731b"
+          }
+        ]
       }
     ]
   },

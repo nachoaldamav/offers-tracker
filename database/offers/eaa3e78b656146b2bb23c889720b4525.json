@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-08-30T08:00:00.000Z",
   "creationDate": "2021-10-11T21:54:02.485Z",
-  "lastModifiedDate": "2025-04-09T15:12:19.991Z",
+  "lastModifiedDate": "2025-05-15T15:01:16.493Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "1115",
       "name": "Strategy"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1084",
@@ -113,10 +117,10 @@
   "publisherDisplayName": "Kalypso Media Group GmbH",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1199,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 800,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "5a2fc565aea749c8bd3c0f2e46621c45"
+          }
+        ]
       }
     ]
   },

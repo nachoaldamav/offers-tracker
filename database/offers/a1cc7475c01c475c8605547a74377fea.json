@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-05-25T16:00:00.000Z",
   "creationDate": "2023-04-12T16:56:23.169Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.136Z",
+  "lastModifiedDate": "2025-05-15T15:02:27.269Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,6 +42,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1084",
@@ -124,10 +128,10 @@
   "publisherDisplayName": "Daedalic Entertainment, Nacon",
   "price": {
     "totalPrice": {
-      "discountPrice": 4999,
+      "discountPrice": 999,
       "originalPrice": 4999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 4000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -136,7 +140,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "edfbf01602f84ddcae4c657efb669f22"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-03-04T12:00:00.000Z",
   "creationDate": "2024-06-17T21:27:47.328Z",
-  "lastModifiedDate": "2025-05-12T11:59:20.029Z",
+  "lastModifiedDate": "2025-05-15T15:02:41.738Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1264",
@@ -143,10 +147,10 @@
   "publisherDisplayName": "Rockstar Games  ",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 1499,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -155,7 +159,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "82dbc99320b04b8ca0849c400368b9e3"
+          }
+        ]
       }
     ]
   },

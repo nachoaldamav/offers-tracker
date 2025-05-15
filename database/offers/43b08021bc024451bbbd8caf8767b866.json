@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-05-20T17:00:00.000Z",
   "creationDate": "2021-03-09T22:42:13.746Z",
-  "lastModifiedDate": "2025-04-17T15:09:42.263Z",
+  "lastModifiedDate": "2025-05-15T15:01:13.241Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -98,6 +98,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     }
   ],
   "items": [
@@ -176,10 +180,10 @@
   "publisherDisplayName": "Fulqrum Publishing",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1599,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -188,7 +192,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "37fa02e4b3ca4b81831c0dc1b5da8510"
+          }
+        ]
       }
     ]
   },

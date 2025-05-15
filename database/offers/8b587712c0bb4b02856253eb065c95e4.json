@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-09-23T16:00:00.000Z",
   "creationDate": "2021-03-29T20:04:43.192Z",
-  "lastModifiedDate": "2025-04-09T15:12:19.987Z",
+  "lastModifiedDate": "2025-05-15T15:01:14.894Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1117",
@@ -115,10 +119,10 @@
   "publisherDisplayName": "Whitethorn Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 399,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 600,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -127,7 +131,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "7df62c30e7aa455b80e815eedcafcca6"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-05-25T17:00:00.000Z",
   "creationDate": "2023-04-20T01:00:19.303Z",
-  "lastModifiedDate": "2025-05-08T16:29:16.136Z",
+  "lastModifiedDate": "2025-05-15T15:02:15.708Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "9549",
@@ -197,10 +201,10 @@
   "publisherDisplayName": "Kalypso Media",
   "price": {
     "totalPrice": {
-      "discountPrice": 4999,
+      "discountPrice": 2999,
       "originalPrice": 4999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -209,7 +213,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "4159b9b52081458a95a0e35e013433e7"
+          }
+        ]
       }
     ]
   },

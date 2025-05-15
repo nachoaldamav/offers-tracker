@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-11-20T16:00:00.000Z",
   "creationDate": "2024-02-16T19:04:11.038Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.062Z",
+  "lastModifiedDate": "2025-05-15T15:01:49.541Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     }
   ],
   "items": [
@@ -124,10 +128,10 @@
   "publisherDisplayName": "Positech Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 849,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1650,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -136,7 +140,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "c636776dd3f44d51a0266260e54a2b90"
+          }
+        ]
       }
     ]
   },

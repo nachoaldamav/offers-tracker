@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-01-31T14:00:00.000Z",
   "creationDate": "2022-12-19T10:32:58.646Z",
-  "lastModifiedDate": "2025-05-13T02:52:53.275Z",
+  "lastModifiedDate": "2025-05-15T15:02:14.018Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -120,6 +120,10 @@
       "name": "Windows"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "1310",
       "name": "EARLY ACCESS"
     },
@@ -189,10 +193,10 @@
   "publisherDisplayName": "Hooded Horse",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 2399,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 600,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -201,7 +205,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "79395e03380d479b9651a1f99c716e21"
+          }
+        ]
       }
     ]
   },

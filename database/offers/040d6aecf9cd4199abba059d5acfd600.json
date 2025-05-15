@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-08-27T15:55:00.000Z",
   "creationDate": "2019-08-15T17:54:14.923Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.138Z",
+  "lastModifiedDate": "2025-05-15T15:02:28.879Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -80,6 +80,10 @@
       "name": "Windows"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "1116",
       "name": "Comedy"
     }
@@ -131,10 +135,10 @@
   "publisherDisplayName": "Infogrames LLC, Limited Liability Company",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 399,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1600,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -143,7 +147,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "43b0a4a460134f8bb23ab3e2d68103ed"
+          }
+        ]
       }
     ]
   },

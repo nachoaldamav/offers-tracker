@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-07-27T08:00:00.000Z",
   "creationDate": "2023-06-05T19:35:18.612Z",
-  "lastModifiedDate": "2025-03-17T10:21:55.406Z",
+  "lastModifiedDate": "2025-05-15T15:02:33.713Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -52,6 +52,10 @@
       "name": "Windows"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "9549",
       "name": "Controller Support"
     }
@@ -95,10 +99,10 @@
   "publisherDisplayName": "Nacon",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 199,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 800,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -107,7 +111,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "6a802ee8911f40b8bb27cd8b28a822bc"
+          }
+        ]
       }
     ]
   },

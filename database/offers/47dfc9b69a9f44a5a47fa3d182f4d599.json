@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-11-09T14:00:00.000Z",
   "creationDate": "2024-05-01T11:03:06.299Z",
-  "lastModifiedDate": "2025-03-27T15:02:33.206Z",
+  "lastModifiedDate": "2025-05-15T15:02:28.880Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "21138",
@@ -220,10 +224,10 @@
   "publisherDisplayName": "Frontier Developments",
   "price": {
     "totalPrice": {
-      "discountPrice": 5999,
+      "discountPrice": 1799,
       "originalPrice": 5999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 4200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -232,7 +236,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "fa47bf20f1f94a479858a63a1f48e843"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-08-05T15:00:00.000Z",
   "creationDate": "2023-02-22T17:19:47.973Z",
-  "lastModifiedDate": "2025-04-09T15:12:19.989Z",
+  "lastModifiedDate": "2025-05-15T15:01:14.892Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "9549",
@@ -136,10 +140,10 @@
   "publisherDisplayName": "Crafting Legends",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1599,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -148,7 +152,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "f7bfab4622fd41b0af8545bf5d127bd3"
+          }
+        ]
       }
     ]
   },

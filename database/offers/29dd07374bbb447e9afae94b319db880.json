@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-11-06T15:00:00.000Z",
   "creationDate": "2024-09-02T14:50:09.344Z",
-  "lastModifiedDate": "2025-05-12T19:16:56.685Z",
+  "lastModifiedDate": "2025-05-15T15:02:06.194Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -132,6 +132,10 @@
       "name": "Windows"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "1393",
       "name": "Simulation"
     },
@@ -245,10 +249,10 @@
   "publisherDisplayName": "Frontier Developments",
   "price": {
     "totalPrice": {
-      "discountPrice": 4999,
+      "discountPrice": 3749,
       "originalPrice": 4999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1250,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -257,7 +261,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "054fda8a8d454cfea3f018c23782e560"
+          }
+        ]
       }
     ]
   },

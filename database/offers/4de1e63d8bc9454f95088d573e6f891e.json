@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-05-05T07:00:00.000Z",
   "creationDate": "2023-03-13T22:43:02.358Z",
-  "lastModifiedDate": "2025-04-05T18:38:38.634Z",
+  "lastModifiedDate": "2025-05-15T15:01:27.803Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1263",
@@ -113,10 +117,10 @@
   "publisherDisplayName": "Station 437",
   "price": {
     "totalPrice": {
-      "discountPrice": 399,
+      "discountPrice": 199,
       "originalPrice": 399,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "b66930aee9ef4563842b20b1bee37b4e"
+          }
+        ]
       }
     ]
   },

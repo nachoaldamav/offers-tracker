@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-08-06T15:00:00.000Z",
   "creationDate": "2024-05-17T05:32:13.143Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.177Z",
+  "lastModifiedDate": "2025-05-15T15:02:48.064Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -104,6 +104,10 @@
       "name": "Windows"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "9549",
       "name": "Controller Support"
     },
@@ -173,10 +177,10 @@
   "publisherDisplayName": "Adrián Corbalán",
   "price": {
     "totalPrice": {
-      "discountPrice": 199,
+      "discountPrice": 109,
       "originalPrice": 199,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 90,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -185,7 +189,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "e26bcd76d1f5451b877814fb69ab3c96"
+          }
+        ]
       }
     ]
   },

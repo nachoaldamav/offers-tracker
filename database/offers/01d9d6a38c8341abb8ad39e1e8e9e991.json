@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-12-11T11:00:00.000Z",
   "creationDate": "2023-07-11T12:59:55.352Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.131Z",
+  "lastModifiedDate": "2025-05-15T15:02:23.778Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1294",
@@ -137,10 +141,10 @@
   "publisherDisplayName": "Star Vault AB",
   "price": {
     "totalPrice": {
-      "discountPrice": 3999,
+      "discountPrice": 1599,
       "originalPrice": 3999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -149,7 +153,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "a72b6de15e49424f967fe17bfbb798fa"
+          }
+        ]
       }
     ]
   },

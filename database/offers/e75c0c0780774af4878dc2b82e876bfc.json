@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-10-04T15:00:00.000Z",
   "creationDate": "2024-08-13T21:44:00.916Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.029Z",
+  "lastModifiedDate": "2025-05-15T15:01:34.365Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -56,6 +56,10 @@
       "name": "Windows"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "1117",
       "name": "Adventure"
     }
@@ -99,10 +103,10 @@
   "publisherDisplayName": "PlayStation Publishing LLC",
   "price": {
     "totalPrice": {
-      "discountPrice": 5999,
+      "discountPrice": 4499,
       "originalPrice": 5999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -111,7 +115,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "9e640c558ccb48c3a100d19186815e2c"
+          }
+        ]
       }
     ]
   },

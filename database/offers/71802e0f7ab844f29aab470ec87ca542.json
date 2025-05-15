@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-08-27T09:15:21.562Z",
   "creationDate": "2021-10-07T21:37:28.271Z",
-  "lastModifiedDate": "2025-04-24T15:44:18.121Z",
+  "lastModifiedDate": "2025-05-15T15:01:47.910Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -72,6 +72,10 @@
       "name": "Open World"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "9549",
       "name": "Controller Support"
     }
@@ -133,10 +137,10 @@
   "publisherDisplayName": "Fireshine Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1399,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 600,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -145,7 +149,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "b58f8302ab3749579f83dd54a367cec5"
+          }
+        ]
       }
     ]
   },

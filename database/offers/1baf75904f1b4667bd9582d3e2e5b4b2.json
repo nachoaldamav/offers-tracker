@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-08-09T23:00:00.000Z",
   "creationDate": "2023-02-02T12:11:18.527Z",
-  "lastModifiedDate": "2025-04-09T15:13:42.122Z",
+  "lastModifiedDate": "2025-05-15T15:02:18.946Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     }
   ],
   "items": [
@@ -105,10 +109,10 @@
   "publisherDisplayName": "PQube",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 899,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1100,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -117,7 +121,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "0daaf950451840daa99d3b7088269d59"
+          }
+        ]
       }
     ]
   },

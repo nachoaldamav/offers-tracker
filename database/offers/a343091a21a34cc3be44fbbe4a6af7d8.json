@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-08-10T16:00:00.000Z",
   "creationDate": "2023-06-05T15:55:14.741Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.034Z",
+  "lastModifiedDate": "2025-05-15T15:01:37.921Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1212",
@@ -113,10 +117,10 @@
   "publisherDisplayName": "KishMish Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 399,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1600,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "eee8969b143d47a6af6e0ebb9a1f8c30"
+          }
+        ]
       }
     ]
   },

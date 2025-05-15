@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2019-03-27T08:00:00.000Z",
   "creationDate": "2019-03-28T02:44:27.463Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.076Z",
+  "lastModifiedDate": "2025-05-15T15:01:57.885Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -64,6 +64,10 @@
       "name": "Windows"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "1357",
       "name": "VR ONLY"
     },
@@ -119,10 +123,10 @@
   "publisherDisplayName": "Zen Studios",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 899,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2100,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -131,7 +135,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "0424c82f631048de8af126e49bc019db"
+          }
+        ]
       }
     ]
   },

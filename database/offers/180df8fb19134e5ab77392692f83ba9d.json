@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-12-10T18:00:00.000Z",
   "creationDate": "2020-11-20T15:43:44.971Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.121Z",
+  "lastModifiedDate": "2025-05-15T15:02:18.949Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -62,6 +62,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1117",
@@ -120,10 +124,10 @@
   "publisherDisplayName": "Handy Games GmbH",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 299,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -132,7 +136,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "4402206b6b364ff59566854ff18d4396"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-11-30T14:00:00.000Z",
   "creationDate": "2021-02-19T02:09:57.279Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.095Z",
+  "lastModifiedDate": "2025-05-15T15:02:06.194Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -56,6 +56,10 @@
       "name": "Windows"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "10719",
       "name": "Mac OS"
     }
@@ -103,10 +107,10 @@
   "publisherDisplayName": "PQube LTD",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 199,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1800,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -115,7 +119,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "fbd3bc9ce4c14fc1b69606bd490e8bdc"
+          }
+        ]
       }
     ]
   },

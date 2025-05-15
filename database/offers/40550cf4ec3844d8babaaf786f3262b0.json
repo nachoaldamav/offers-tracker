@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-08-29T16:00:00.000Z",
   "creationDate": "2024-08-05T06:32:14.324Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.150Z",
+  "lastModifiedDate": "2025-05-15T15:02:33.714Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "1117",
@@ -109,10 +113,10 @@
   "publisherDisplayName": "Pyrozen",
   "price": {
     "totalPrice": {
-      "discountPrice": 599,
+      "discountPrice": 389,
       "originalPrice": 599,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 210,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "6e5cc74304ba48b7993e2de977020d49"
+          }
+        ]
       }
     ]
   },

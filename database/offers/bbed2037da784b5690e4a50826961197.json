@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-08-20T15:00:00.000Z",
   "creationDate": "2023-05-24T17:49:00.673Z",
-  "lastModifiedDate": "2025-05-08T08:35:36.094Z",
+  "lastModifiedDate": "2025-05-15T15:01:39.609Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
     },
     {
       "id": "9549",
@@ -109,10 +113,10 @@
   "publisherDisplayName": "Quantic Dream",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 1199,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1800,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "55eddb4a92224e3bb256dce16e8a6d20"
+          }
+        ]
       }
     ]
   },

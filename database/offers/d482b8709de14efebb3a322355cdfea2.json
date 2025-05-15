@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-03-29T17:30:00.000Z",
   "creationDate": "2025-03-29T17:11:00.678Z",
-  "lastModifiedDate": "2025-03-29T17:12:06.025Z",
+  "lastModifiedDate": "2025-05-15T15:01:27.804Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -88,6 +88,10 @@
       "name": "Windows"
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
+    {
       "id": "1263",
       "name": "Indie"
     }
@@ -149,10 +153,10 @@
   "publisherDisplayName": "INSPECTOR STUDIOS",
   "price": {
     "totalPrice": {
-      "discountPrice": 99,
+      "discountPrice": 59,
       "originalPrice": 99,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 40,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -161,7 +165,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "e1e81adac92741cea7a99aff8766ac11"
+          }
+        ]
       }
     ]
   },
