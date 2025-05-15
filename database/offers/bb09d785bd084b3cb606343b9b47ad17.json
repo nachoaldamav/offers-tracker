@@ -109,10 +109,10 @@
   "publisherDisplayName": "Astra Playroom",
   "price": {
     "totalPrice": {
-      "discountPrice": 99,
+      "discountPrice": 49,
       "originalPrice": 99,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 50,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +121,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "927b632c39ce4cbf880805764eb854f0"
+          }
+        ]
       }
     ]
   },
