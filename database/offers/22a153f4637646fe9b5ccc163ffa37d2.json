@@ -4,9 +4,9 @@
   "namespace": "0a898cf885174d059bb5fd5c9af163aa",
   "description": "Add a customizable zoom lens and focus ring overlay to any game. Toggle instantly with your own keybinds.",
   "offerType": "BASE_GAME",
-  "effectiveDate": "2025-04-23T19:20:11.000Z",
+  "effectiveDate": "2025-04-23T19:20:00.000Z",
   "creationDate": "2025-04-14T23:15:40.384Z",
-  "lastModifiedDate": "2025-04-23T19:20:13.296Z",
+  "lastModifiedDate": "2025-05-15T16:48:06.725Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -110,23 +110,56 @@
   ],
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
-  "catalogNs": null,
-  "offerMappings": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "scope-x-64942d",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "scope-x-faq-8eeeb3",
+        "pageType": "info"
+      }
+    ]
+  },
+  "offerMappings": [
+    {
+      "pageSlug": "scope-x-64942d",
+      "pageType": "productHome"
+    }
+  ],
   "developerDisplayName": "CenterPoint Gaming",
   "publisherDisplayName": "CenterPoint Gaming",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 899,
+      "originalPrice": 899,
+      "voucherDiscount": 0,
+      "discount": 0,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": []
+      }
+    ]
+  },
   "prePurchase": null,
-  "releaseDate": "2025-04-21T00:00:00.000Z",
-  "pcReleaseDate": "2025-04-21T00:00:00.000Z",
-  "viewableDate": "2025-04-18T04:18:02.000Z",
+  "releaseDate": "2025-04-23T19:20:00.000Z",
+  "pcReleaseDate": "2025-04-23T19:20:00.000Z",
+  "viewableDate": "2025-04-18T04:18:00.000Z",
   "approximateReleasePlan": null
 }
