@@ -201,10 +201,10 @@
   "publisherDisplayName": "Grease Monkey Games Pty Ltd",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1499,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -213,7 +213,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "89474e389f7c48f4882d3778f1eb7924"
+          }
+        ]
       }
     ]
   },
