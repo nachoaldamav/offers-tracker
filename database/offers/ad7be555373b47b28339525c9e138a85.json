@@ -164,10 +164,10 @@
   "publisherDisplayName": "PLAION GmbH",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 1349,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 150,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -176,7 +176,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "3071e004c9ab43aaae65068dc5cc76a7"
+          }
+        ]
       }
     ]
   },
