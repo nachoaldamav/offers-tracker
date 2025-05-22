@@ -4,9 +4,9 @@
   "namespace": "2ef976af17b74478a4b2938d54bb3db4",
   "description": "Deliver At All Costs is a thrilling action game where destruction, absurdity and intrigue collide! Join Winston Green, a down-on-his-luck courier with a fiery temper and a mysterious past — as he delivers highly unconventional cargo, leaving a trail of havoc and chaos behind him.",
   "offerType": "BASE_GAME",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "effectiveDate": "2025-05-22T15:00:02.000Z",
   "creationDate": "2024-04-16T07:26:21.921Z",
-  "lastModifiedDate": "2025-05-22T14:47:38.027Z",
+  "lastModifiedDate": "2025-05-22T15:00:05.176Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -20,6 +20,10 @@
     {
       "type": "Thumbnail",
       "url": "https://cdn1.epicgames.com/spt-assets/7f4fad59713248f981e112c626c9d0da/deliver-at-all-costs-srw60.png"
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://6aa1ad05-58d9-4c11-b9ff-a7a5b69c8c96?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F7f4fad59713248f981e112c626c9d0da%2Fdeliver-at-all-costs-video-19bh8.jpg"
     },
     {
       "type": "heroCarouselVideo",
@@ -197,10 +201,10 @@
   "publisherDisplayName": "KONAMI",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 0,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2999,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -209,7 +213,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "2d78ec766532450d80be860cdc16bcf5"
+          }
+        ]
       }
     ]
   },
@@ -217,11 +225,5 @@
   "releaseDate": "2025-05-22T00:00:00.000Z",
   "pcReleaseDate": "2025-05-22T00:00:00.000Z",
   "viewableDate": "2024-09-04T07:00:00.000Z",
-  "approximateReleasePlan": {
-    "day": 22,
-    "month": 5,
-    "quarter": null,
-    "year": 2025,
-    "releaseDateType": "BY_DATE"
-  }
+  "approximateReleasePlan": null
 }
