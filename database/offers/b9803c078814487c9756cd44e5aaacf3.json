@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-05-23T03:00:00.000Z",
   "creationDate": "2023-07-26T07:37:07.320Z",
-  "lastModifiedDate": "2025-05-22T15:23:15.444Z",
+  "lastModifiedDate": "2025-05-23T03:00:03.034Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -137,10 +137,10 @@
   "publisherDisplayName": "Gryph Frontier",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1799,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -149,7 +149,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "2ad9a7ef25054733a7a05b57a9c647ca"
+          }
+        ]
       }
     ]
   },
@@ -157,11 +161,5 @@
   "releaseDate": "2025-06-02T03:00:00.000Z",
   "pcReleaseDate": "2025-06-02T03:00:00.000Z",
   "viewableDate": "2023-09-08T16:00:00.000Z",
-  "approximateReleasePlan": {
-    "day": null,
-    "month": null,
-    "quarter": null,
-    "year": null,
-    "releaseDateType": "UNKNOWN"
-  }
+  "approximateReleasePlan": null
 }
