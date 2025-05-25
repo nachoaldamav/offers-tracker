@@ -153,10 +153,10 @@
   "publisherDisplayName": "Vagner da Rocha Santos",
   "price": {
     "totalPrice": {
-      "discountPrice": 499,
+      "discountPrice": 249,
       "originalPrice": 499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 250,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -165,7 +165,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "11d2d2ceb73f457fa8152506bb8ac221"
+          }
+        ]
       }
     ]
   },
