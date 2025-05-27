@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-01-29T09:06:35.000Z",
   "creationDate": "2025-01-01T17:47:42.470Z",
-  "lastModifiedDate": "2025-05-04T16:50:37.002Z",
+  "lastModifiedDate": "2025-05-27T15:00:31.456Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -104,6 +104,10 @@
       "name": "Strategy"
     },
     {
+      "id": "29899",
+      "name": "Deals of the Week"
+    },
+    {
       "id": "1263",
       "name": "Indie"
     },
@@ -173,10 +177,10 @@
   "publisherDisplayName": "Mantegral Studio",
   "price": {
     "totalPrice": {
-      "discountPrice": 249,
+      "discountPrice": 199,
       "originalPrice": 249,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 50,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -185,7 +189,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "6e872f5d3afb4456ad05932d6ce00418"
+          }
+        ]
       }
     ]
   },

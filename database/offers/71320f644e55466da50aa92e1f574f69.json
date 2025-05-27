@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-04-13T22:00:00.000Z",
   "creationDate": "2023-03-28T09:20:29.767Z",
-  "lastModifiedDate": "2025-03-17T06:46:43.893Z",
+  "lastModifiedDate": "2025-05-27T15:00:31.457Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,6 +42,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1117",
@@ -109,10 +113,10 @@
   "publisherDisplayName": "NextSquareStudio",
   "price": {
     "totalPrice": {
-      "discountPrice": 299,
+      "discountPrice": 149,
       "originalPrice": 299,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 150,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "1026a1ada0344947a96932fb2da1b77e"
+          }
+        ]
       }
     ]
   },

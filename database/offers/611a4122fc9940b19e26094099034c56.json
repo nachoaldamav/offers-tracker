@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-10-31T00:00:00.000Z",
   "creationDate": "2024-08-21T21:34:43.611Z",
-  "lastModifiedDate": "2025-04-24T15:00:49.492Z",
+  "lastModifiedDate": "2025-05-27T15:00:31.456Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -98,6 +98,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "9549",
@@ -205,10 +209,10 @@
   "publisherDisplayName": "Krafton",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 1749,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 750,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -217,7 +221,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "defcc9d732e24ce98bb3d587f390dd7b"
+          }
+        ]
       }
     ]
   },

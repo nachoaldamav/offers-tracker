@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-01-16T10:00:00.000Z",
   "creationDate": "2023-11-21T21:35:03.601Z",
-  "lastModifiedDate": "2025-01-15T16:35:47.862Z",
+  "lastModifiedDate": "2025-05-27T15:00:31.459Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -74,6 +74,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     }
   ],
   "items": [
@@ -129,10 +133,10 @@
   "publisherDisplayName": "Massive Galaxy Studios",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 749,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 750,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -141,7 +145,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "ef0f7dce99084f4baa3996d23ee444ec"
+          }
+        ]
       }
     ]
   },

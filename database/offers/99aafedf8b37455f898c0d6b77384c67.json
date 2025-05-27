@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-04-23T23:00:00.000Z",
   "creationDate": "2019-11-12T23:31:21.431Z",
-  "lastModifiedDate": "2025-05-08T00:28:28.780Z",
+  "lastModifiedDate": "2025-05-27T15:00:31.458Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -70,6 +70,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "21138",
@@ -259,10 +263,10 @@
   "publisherDisplayName": "IllFonic",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1299,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 700,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -271,7 +275,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "ee7b57f37741470fb94af67f646570bd"
+          }
+        ]
       }
     ]
   },

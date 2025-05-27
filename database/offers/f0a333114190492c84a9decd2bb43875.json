@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-05-23T17:00:00.000Z",
   "creationDate": "2023-02-07T20:15:06.447Z",
-  "lastModifiedDate": "2025-05-23T17:27:31.756Z",
+  "lastModifiedDate": "2025-05-27T15:00:31.458Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -92,6 +92,10 @@
       "name": "Windows"
     },
     {
+      "id": "29899",
+      "name": "Deals of the Week"
+    },
+    {
       "id": "9549",
       "name": "Controller Support"
     },
@@ -165,10 +169,10 @@
   "publisherDisplayName": "Infogrames LLC",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 899,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 600,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -177,7 +181,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "3fd7bb88ef3e40019f6437a5343e8faf"
+          }
+        ]
       }
     ]
   },

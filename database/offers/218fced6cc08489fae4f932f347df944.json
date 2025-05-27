@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-02-29T17:00:00.000Z",
   "creationDate": "2023-10-03T14:21:05.166Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.013Z",
+  "lastModifiedDate": "2025-05-27T15:00:32.826Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1084",
@@ -113,10 +117,10 @@
   "publisherDisplayName": "YAW Studios",
   "price": {
     "totalPrice": {
-      "discountPrice": 299,
+      "discountPrice": 119,
       "originalPrice": 299,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 180,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -125,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "8b184c9ec892436bb3b222af2fd689f4"
+          }
+        ]
       }
     ]
   },

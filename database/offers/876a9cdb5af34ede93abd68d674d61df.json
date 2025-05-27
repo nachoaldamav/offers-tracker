@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-01-30T16:00:00.000Z",
   "creationDate": "2025-01-17T11:55:17.419Z",
-  "lastModifiedDate": "2025-03-18T15:00:29.957Z",
+  "lastModifiedDate": "2025-05-27T15:00:31.456Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -80,6 +80,10 @@
       "name": "Windows"
     },
     {
+      "id": "29899",
+      "name": "Deals of the Week"
+    },
+    {
       "id": "1117",
       "name": "Adventure"
     },
@@ -145,10 +149,10 @@
   "publisherDisplayName": "Headup",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 249,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2250,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -157,7 +161,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "8a94aebe31034970bebc4a8e504da3c6"
+          }
+        ]
       }
     ]
   },

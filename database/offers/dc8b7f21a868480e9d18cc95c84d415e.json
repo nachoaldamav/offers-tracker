@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-01-15T07:00:00.000Z",
   "creationDate": "2024-12-09T01:50:57.250Z",
-  "lastModifiedDate": "2025-04-08T15:00:30.374Z",
+  "lastModifiedDate": "2025-05-27T15:00:31.458Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -88,6 +88,10 @@
       "name": "Windows"
     },
     {
+      "id": "29899",
+      "name": "Deals of the Week"
+    },
+    {
       "id": "9549",
       "name": "Controller Support"
     },
@@ -153,10 +157,10 @@
   "publisherDisplayName": "PengJiLin",
   "price": {
     "totalPrice": {
-      "discountPrice": 399,
+      "discountPrice": 199,
       "originalPrice": 399,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -165,7 +169,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "aac7408a22cc4601929afb9c4e499c9f"
+          }
+        ]
       }
     ]
   },

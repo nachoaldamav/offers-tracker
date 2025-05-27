@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-04-24T08:00:00.000Z",
   "creationDate": "2025-02-24T09:58:45.785Z",
-  "lastModifiedDate": "2025-04-24T15:19:08.779Z",
+  "lastModifiedDate": "2025-05-27T15:00:31.457Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -96,6 +96,10 @@
       "name": "Windows"
     },
     {
+      "id": "29899",
+      "name": "Deals of the Week"
+    },
+    {
       "id": "1117",
       "name": "Adventure"
     }
@@ -173,10 +177,10 @@
   "publisherDisplayName": "Microids",
   "price": {
     "totalPrice": {
-      "discountPrice": 3999,
+      "discountPrice": 3599,
       "originalPrice": 3999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -185,7 +189,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "b97d3767b6644d669b1f012632c3f1e2"
+          }
+        ]
       }
     ]
   },
