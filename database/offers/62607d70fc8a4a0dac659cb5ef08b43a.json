@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-05-28T13:00:00.000Z",
   "creationDate": "2025-05-20T20:02:48.005Z",
-  "lastModifiedDate": "2025-05-20T20:02:48.005Z",
+  "lastModifiedDate": "2025-05-28T12:46:31.021Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -55,6 +55,10 @@
   "urlSlug": "f6ca631707ab45a2a71065d3a0c7b782",
   "url": null,
   "tags": [
+    {
+      "id": "19847",
+      "name": "Achievements"
+    },
     {
       "id": "1370",
       "name": "Single Player"
@@ -129,10 +133,10 @@
   "publisherDisplayName": "Annapurna Interactive",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1799,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 200,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -141,7 +145,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "f5daa88648ce49ff83e6c131cbca2244"
+          }
+        ]
       }
     ]
   },
