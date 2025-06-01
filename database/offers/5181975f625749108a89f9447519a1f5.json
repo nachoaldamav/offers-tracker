@@ -117,10 +117,10 @@
   "publisherDisplayName": "Chute Apps",
   "price": {
     "totalPrice": {
-      "discountPrice": 599,
+      "discountPrice": 299,
       "originalPrice": 599,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 300,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +129,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "21d879c62b6d40bbb80228445ac7b0cc"
+          }
+        ]
       }
     ]
   },
