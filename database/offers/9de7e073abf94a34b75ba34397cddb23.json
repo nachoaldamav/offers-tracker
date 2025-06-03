@@ -161,10 +161,10 @@
   "publisherDisplayName": "Fellow Traveller",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 1999,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -173,7 +173,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "b4b9e24876e746b29f0a6ac62dcbe4b2"
+          }
+        ]
       }
     ]
   },
