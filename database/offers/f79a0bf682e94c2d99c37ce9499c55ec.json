@@ -173,10 +173,10 @@
   "publisherDisplayName": "Pine Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 99,
+      "discountPrice": 49,
       "originalPrice": 99,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 50,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -185,7 +185,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "7ac7a07fa8004d3faf1a824f041c943c"
+          }
+        ]
       }
     ]
   },
