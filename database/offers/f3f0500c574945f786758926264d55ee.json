@@ -4,9 +4,9 @@
   "namespace": "024e99e2bdbe49a6bd291d6789239561",
   "description": "Crane is back! Continue his story in this new standalone adventure.",
   "offerType": "BASE_GAME",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "effectiveDate": "2025-06-06T22:00:02.000Z",
   "creationDate": "2024-06-25T11:16:28.638Z",
-  "lastModifiedDate": "2025-05-07T10:29:10.649Z",
+  "lastModifiedDate": "2025-06-06T22:00:21.133Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -20,6 +20,10 @@
     {
       "type": "Thumbnail",
       "url": "https://cdn1.epicgames.com/spt-assets/de233d312aff40918d6969f476912143/dying-light-the-beast-1vm2l.jpg"
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://0f605416-6c64-4e1d-8f58-fa374629fca2?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fde233d312aff40918d6969f476912143%2Fdying-light-the-beast-video-1v9ge.jpg"
     },
     {
       "type": "heroCarouselVideo",
@@ -74,7 +78,7 @@
       "url": "https://cdn1.epicgames.com/spt-assets/de233d312aff40918d6969f476912143/dying-light-the-beast-1d3a8.jpg"
     }
   ],
-  "currentPrice": 19999,
+  "currentPrice": 5999,
   "seller": {
     "id": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
     "name": "Techland S.A."
@@ -114,7 +118,7 @@
   ],
   "items": [
     {
-      "id": "6f8526678d804d5cb01c13380f85fef9",
+      "id": "91ae8692b04f4cfdb88a60d52bee277b",
       "namespace": "024e99e2bdbe49a6bd291d6789239561"
     }
   ],
@@ -142,26 +146,54 @@
   ],
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "catalogNs": {
     "mappings": [
       {
         "pageSlug": "dying-light-the-beast-60a36c",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "test-product-1-60a36c",
         "pageType": "productHome"
+      },
+      {
+        "pageSlug": "dying-light-the-beast-dying-light-the-beast-map-guide-4d390e",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "dying-light-the-beast-dying-light-the-beast-wallpapers-4329ae",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "dying-light-the-beast-dying-light-the-beast-preorder-dlc-851a1d",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "dying-light-the-beast-dying-light-the-beast-deluxe-edition-71026f",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "dying-light-the-beast-dying-light-the-beast-deluxe-skin-bundle-604b90",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "dying-light-the-beast-dying-light-the-beast-soundtrack-372274",
+        "pageType": "offer"
       }
     ]
   },
   "offerMappings": [
     {
-      "pageSlug": "dying-light-the-beast-60a36c",
+      "pageSlug": "test-product-1-60a36c",
       "pageType": "productHome"
     }
   ],
@@ -169,8 +201,8 @@
   "publisherDisplayName": "Techland",
   "price": {
     "totalPrice": {
-      "discountPrice": 19999,
-      "originalPrice": 19999,
+      "discountPrice": 5999,
+      "originalPrice": 5999,
       "voucherDiscount": 0,
       "discount": 0,
       "currencyCode": "USD",
@@ -185,15 +217,9 @@
       }
     ]
   },
-  "prePurchase": null,
-  "releaseDate": "2099-01-01T00:00:00.000Z",
-  "pcReleaseDate": "2099-01-01T00:00:00.000Z",
+  "prePurchase": true,
+  "releaseDate": "2025-08-22T00:00:00.000Z",
+  "pcReleaseDate": "2025-08-22T00:00:00.000Z",
   "viewableDate": "2024-08-20T19:00:00.000Z",
-  "approximateReleasePlan": {
-    "day": null,
-    "month": null,
-    "quarter": null,
-    "year": null,
-    "releaseDateType": "UNKNOWN"
-  }
+  "approximateReleasePlan": null
 }
