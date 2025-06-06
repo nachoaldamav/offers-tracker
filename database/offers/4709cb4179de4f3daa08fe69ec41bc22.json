@@ -51,7 +51,10 @@
       "id": "9547",
       "name": "Windows"
     },
-    null,
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale"
+    },
     {
       "id": "21138",
       "name": "Recommend this Game"
@@ -115,7 +118,22 @@
       "path": "applications"
     }
   ],
-  "catalogNs": null,
+  "catalogNs": {
+    "mappings": [
+      {
+        "pageSlug": "homeworld-remastered-collection",
+        "pageType": "productHome"
+      },
+      {
+        "pageSlug": "homeworld-remastered-collection--2-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      },
+      {
+        "pageSlug": "homeworld-remastered-collection--1-soundtrack",
+        "pageType": "addon--cms-hybrid"
+      }
+    ]
+  },
   "offerMappings": [],
   "developerDisplayName": "Gearbox Software",
   "publisherDisplayName": "2K Games, Inc.",

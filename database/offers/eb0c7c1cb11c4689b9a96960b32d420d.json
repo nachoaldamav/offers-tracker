@@ -119,7 +119,28 @@
   ],
   "developerDisplayName": "Airem",
   "publisherDisplayName": "Airem",
-  "price": null,
+  "price": {
+    "totalPrice": {
+      "discountPrice": 50,
+      "originalPrice": 299,
+      "voucherDiscount": 0,
+      "discount": 249,
+      "currencyCode": "USD",
+      "currencyInfo": {
+        "decimals": 2
+      },
+      "fmtPrice": null
+    },
+    "lineOffers": [
+      {
+        "appliedRules": [
+          {
+            "id": "ac50940d0e064e39ace147a6e796ff2e"
+          }
+        ]
+      }
+    ]
+  },
   "prePurchase": null,
   "releaseDate": "2023-07-06T13:00:00.000Z",
   "pcReleaseDate": "2018-01-17T11:00:00.000Z",
