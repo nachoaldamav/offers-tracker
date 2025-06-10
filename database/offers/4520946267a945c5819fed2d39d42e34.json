@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-06-10T15:00:00.000Z",
   "creationDate": "2025-06-03T17:47:36.125Z",
-  "lastModifiedDate": "2025-06-03T17:47:36.125Z",
+  "lastModifiedDate": "2025-06-10T15:00:36.403Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -94,6 +94,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     }
   ],
   "items": [
@@ -153,10 +157,10 @@
   "publisherDisplayName": "Annapurna Interactive",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 1999,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -165,7 +169,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "ae87671068ac4bff933b927ebcd606be"
+          }
+        ]
       }
     ]
   },

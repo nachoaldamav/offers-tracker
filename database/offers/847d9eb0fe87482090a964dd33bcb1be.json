@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-04-20T04:00:00.000Z",
   "creationDate": "2023-03-28T15:49:15.215Z",
-  "lastModifiedDate": "2025-05-06T15:00:29.704Z",
+  "lastModifiedDate": "2025-06-10T15:00:37.873Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -46,6 +46,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1294",
@@ -105,10 +109,10 @@
   "publisherDisplayName": "CSF Games Studio",
   "price": {
     "totalPrice": {
-      "discountPrice": 799,
+      "discountPrice": 399,
       "originalPrice": 799,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -117,7 +121,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "f5f7f841eb9142bf812ca87b830693aa"
+          }
+        ]
       }
     ]
   },

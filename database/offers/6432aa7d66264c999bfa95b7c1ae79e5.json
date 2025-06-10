@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-12-17T09:00:02.000Z",
   "creationDate": "2024-02-27T14:45:21.361Z",
-  "lastModifiedDate": "2025-04-24T15:19:25.647Z",
+  "lastModifiedDate": "2025-06-10T15:00:37.873Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -104,6 +104,10 @@
       "name": "Strategy"
     },
     {
+      "id": "29899",
+      "name": "Deals of the Week"
+    },
+    {
       "id": "1117",
       "name": "Adventure"
     }
@@ -181,10 +185,10 @@
   "publisherDisplayName": "Microids",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 1749,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 750,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -193,7 +197,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "8c5bdc5689574400ad36326caf201bf0"
+          }
+        ]
       }
     ]
   },
