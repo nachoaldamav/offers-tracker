@@ -5,14 +5,10 @@
   "description": "Oxygen Not Included is a space-colony simulation game. Deep inside an alien space rock your industrious crew will need to master science, overcome strange new lifeforms, and harness incredible space tech to survive, and, possibly, thrive.",
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-10-06T15:00:00.000Z",
-  "creationDate": "2024-07-23T23:17:22.975Z",
-  "lastModifiedDate": "2024-10-31T00:30:47.387Z",
+  "creationDate": "2019-02-13T14:52:01.048Z",
+  "lastModifiedDate": "2025-06-12T16:46:31.218Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/lotus/offer/EGS_OxygenNotIncluded_KleiEntertainment_S1-2560x1440-9401c73b7b5dd47ea040e7db94615490.jpg"
-    },
     {
       "type": "OfferImageWide",
       "url": "https://cdn1.epicgames.com/lotus/offer/EGS_OxygenNotIncluded_KleiEntertainment_S1-2560x1440-9401c73b7b5dd47ea040e7db94615490.jpg"
@@ -24,6 +20,10 @@
     {
       "type": "Thumbnail",
       "url": "https://cdn1.epicgames.com/lotus/offer/EGS_OxygenNotIncluded_KleiEntertainment_S2-1200x1600-f8fd3fc155826031220cb8f73acf49a3.jpg"
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/lotus/offer/EGS_OxygenNotIncluded_KleiEntertainment_S1-2560x1440-9401c73b7b5dd47ea040e7db94615490.jpg"
     }
   ],
   "currentPrice": 2499,
@@ -56,12 +56,12 @@
       "name": "Windows"
     },
     {
-      "id": "1233",
-      "name": "Base-Building"
-    },
-    {
       "id": "1393",
       "name": "Simulation"
+    },
+    {
+      "id": "1233",
+      "name": "Base-Building"
     },
     {
       "id": "21137",
@@ -120,6 +120,10 @@
       "value": "true"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
+    {
       "key": "com.epicgames.app.blacklist",
       "value": "KR"
     },
@@ -128,16 +132,20 @@
       "value": "Klei Entertainment"
     },
     {
+      "key": "isManuallySetPCReleaseDate",
+      "value": "true"
+    },
+    {
       "key": "developerName",
       "value": "Klei Entertainment"
     },
     {
-      "key": "com.epicgames.app.productSlug",
-      "value": "oxygen-not-included/home"
-    },
-    {
       "key": "isBlockchainUsed",
       "value": "false"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "oxygen-not-included/home"
     }
   ],
   "categories": [
@@ -145,10 +153,10 @@
       "path": "games"
     },
     {
-      "path": "games/edition/base"
+      "path": "games/edition"
     },
     {
-      "path": "games/edition"
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -170,6 +178,10 @@
       },
       {
         "pageSlug": "oxygen-not-included-oxygen-not-included-the-bionic-booster-pack-3ba9e9",
+        "pageType": "offer"
+      },
+      {
+        "pageSlug": "oxygen-not-included-oxygen-not-included-the-prehistoric-planet-pack-c14f10",
         "pageType": "offer"
       }
     ]
