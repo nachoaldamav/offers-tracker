@@ -173,10 +173,10 @@
   "publisherDisplayName": "11 bit studios",
   "price": {
     "totalPrice": {
-      "discountPrice": 3499,
+      "discountPrice": 3149,
       "originalPrice": 3499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 350,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -185,7 +185,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "8b57b1c503e34290805b408975668a60"
+          }
+        ]
       }
     ]
   },
