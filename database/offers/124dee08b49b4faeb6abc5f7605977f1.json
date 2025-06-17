@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-04-05T16:00:00.000Z",
   "creationDate": "2024-03-24T13:46:50.612Z",
-  "lastModifiedDate": "2024-11-18T16:06:39.673Z",
+  "lastModifiedDate": "2025-06-17T15:00:38.608Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     }
   ],
   "items": [
@@ -109,10 +113,10 @@
   "publisherDisplayName": "Source Byte Sp. z o.o.",
   "price": {
     "totalPrice": {
-      "discountPrice": 199,
+      "discountPrice": 139,
       "originalPrice": 199,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 60,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "0e082fe5e1b54611baa4a3e4fe8bb0b9"
+          }
+        ]
       }
     ]
   },
