@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-07-19T13:00:00.000Z",
   "creationDate": "2022-05-23T20:49:06.270Z",
-  "lastModifiedDate": "2025-04-03T16:54:59.315Z",
+  "lastModifiedDate": "2025-06-19T15:01:00.386Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -68,6 +68,10 @@
       "name": "Windows"
     },
     {
+      "id": "35244",
+      "name": "Epic Savings"
+    },
+    {
       "id": "1117",
       "name": "Adventure"
     },
@@ -124,10 +128,10 @@
   "publisherDisplayName": "HandyGames",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 989,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2010,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -136,7 +140,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "9e24f899c5734baa9a0d6fba9eabe475"
+          }
+        ]
       }
     ]
   },

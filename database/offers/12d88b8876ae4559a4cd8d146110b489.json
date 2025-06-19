@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-04-30T07:00:00.000Z",
   "creationDate": "2025-02-05T13:27:38.070Z",
-  "lastModifiedDate": "2025-04-30T12:27:16.343Z",
+  "lastModifiedDate": "2025-06-19T15:00:48.821Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -108,6 +108,10 @@
       "name": "Racing"
     },
     {
+      "id": "35244",
+      "name": "Epic Savings"
+    },
+    {
       "id": "1183",
       "name": "Local Multiplayer"
     }
@@ -177,10 +181,10 @@
   "publisherDisplayName": "Milestone S.r.l.",
   "price": {
     "totalPrice": {
-      "discountPrice": 5999,
+      "discountPrice": 4199,
       "originalPrice": 5999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1800,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -189,7 +193,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "f96bac7d77d34a748ce285f5457d0952"
+          }
+        ]
       }
     ]
   },

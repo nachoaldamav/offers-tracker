@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-02-21T15:00:00.000Z",
   "creationDate": "2024-05-10T20:39:20.773Z",
-  "lastModifiedDate": "2025-02-25T22:50:43.434Z",
+  "lastModifiedDate": "2025-06-19T15:01:05.325Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -100,6 +100,10 @@
       "name": "Windows"
     },
     {
+      "id": "35244",
+      "name": "Epic Savings"
+    },
+    {
       "id": "1117",
       "name": "Adventure"
     }
@@ -161,10 +165,10 @@
   "publisherDisplayName": "Akupara Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1599,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -173,7 +177,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "ec23f63c0871441c8b655d5e8e06b710"
+          }
+        ]
       }
     ]
   },

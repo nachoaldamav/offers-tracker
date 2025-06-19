@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-01-30T17:00:00.000Z",
   "creationDate": "2023-09-09T00:36:19.054Z",
-  "lastModifiedDate": "2025-06-15T22:14:56.948Z",
+  "lastModifiedDate": "2025-06-19T15:01:07.049Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "35244",
+      "name": "Epic Savings"
     },
     {
       "id": "9549",
@@ -153,10 +157,10 @@
   "publisherDisplayName": "WayForward / Arc System Works",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 1499,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -165,7 +169,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "a2a50f409f954378b391d698bbe22a9b"
+          }
+        ]
       }
     ]
   },

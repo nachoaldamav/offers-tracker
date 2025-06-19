@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-03-07T04:16:26.000Z",
   "creationDate": "2023-09-04T23:11:15.829Z",
-  "lastModifiedDate": "2025-05-01T19:23:03.787Z",
+  "lastModifiedDate": "2025-06-19T15:00:53.703Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -124,6 +124,10 @@
       "name": "Windows"
     },
     {
+      "id": "35244",
+      "name": "Epic Savings"
+    },
+    {
       "id": "9549",
       "name": "Controller Support"
     },
@@ -197,10 +201,10 @@
   "publisherDisplayName": "Bent Vector Studios, Inc.",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 499,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -209,7 +213,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "6381f95caeda406eb310867f35f2ec2a"
+          }
+        ]
       }
     ]
   },

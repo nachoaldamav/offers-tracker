@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-09-18T09:00:00.000Z",
   "creationDate": "2023-06-20T11:04:15.879Z",
-  "lastModifiedDate": "2025-02-24T16:01:40.418Z",
+  "lastModifiedDate": "2025-06-19T15:01:02.119Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "35244",
+      "name": "Epic Savings"
     }
   ],
   "items": [
@@ -105,10 +109,10 @@
   "publisherDisplayName": "Fireshine Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 199,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1800,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -117,7 +121,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "037d277554fa4d38b9c24596bd9aa1af"
+          }
+        ]
       }
     ]
   },

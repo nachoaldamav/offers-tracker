@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2022-01-21T14:00:00.000Z",
   "creationDate": "2021-12-10T12:18:29.273Z",
-  "lastModifiedDate": "2025-04-09T15:12:19.971Z",
+  "lastModifiedDate": "2025-06-19T15:01:00.378Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "35244",
+      "name": "Epic Savings"
     }
   ],
   "items": [
@@ -101,10 +105,10 @@
   "publisherDisplayName": "Iceberg Interactive",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 599,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 900,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -113,7 +117,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "fe0c0869086e4f1b83ccb1034ad3ca9a"
+          }
+        ]
       }
     ]
   },

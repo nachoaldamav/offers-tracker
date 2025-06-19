@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-04-15T15:00:00.000Z",
   "creationDate": "2024-11-21T13:43:39.980Z",
-  "lastModifiedDate": "2025-04-22T15:00:30.110Z",
+  "lastModifiedDate": "2025-06-19T15:01:05.326Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -76,6 +76,10 @@
       "name": "Windows"
     },
     {
+      "id": "35244",
+      "name": "Epic Savings"
+    },
+    {
       "id": "1263",
       "name": "Indie"
     }
@@ -137,10 +141,10 @@
   "publisherDisplayName": "NightCat Studios",
   "price": {
     "totalPrice": {
-      "discountPrice": 799,
+      "discountPrice": 239,
       "originalPrice": 799,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 560,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -149,7 +153,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "e19bd7d2c08b487e85195c4eb4d7ba98"
+          }
+        ]
       }
     ]
   },

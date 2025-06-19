@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2020-08-13T13:00:00.000Z",
   "creationDate": "2020-01-17T23:15:28.040Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.024Z",
+  "lastModifiedDate": "2025-06-19T15:00:58.657Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -66,6 +66,10 @@
     {
       "id": "9548",
       "name": "OSX"
+    },
+    {
+      "id": "35244",
+      "name": "Epic Savings"
     },
     {
       "id": "21138",
@@ -195,10 +199,10 @@
   "publisherDisplayName": null,
   "price": {
     "totalPrice": {
-      "discountPrice": 4999,
+      "discountPrice": 2499,
       "originalPrice": 4999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -207,7 +211,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "fac7e7618c294a8794491cce9f454e57"
+          }
+        ]
       }
     ]
   },

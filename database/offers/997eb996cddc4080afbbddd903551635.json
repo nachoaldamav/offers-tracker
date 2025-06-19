@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-03-17T16:00:00.000Z",
   "creationDate": "2023-03-17T16:00:03.402Z",
-  "lastModifiedDate": "2023-03-19T16:24:30.656Z",
+  "lastModifiedDate": "2025-06-19T15:00:53.687Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "35244",
+      "name": "Epic Savings"
     },
     {
       "id": "9549",
@@ -117,10 +121,10 @@
   "publisherDisplayName": "Tom Ryckeboer",
   "price": {
     "totalPrice": {
-      "discountPrice": 1399,
+      "discountPrice": 839,
       "originalPrice": 1399,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 560,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "be6f50207ed143eaa504b6235d17c307"
+          }
+        ]
       }
     ]
   },

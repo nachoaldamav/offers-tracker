@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-06-19T22:00:00.000Z",
   "creationDate": "2023-05-05T06:18:42.398Z",
-  "lastModifiedDate": "2025-04-09T15:12:19.984Z",
+  "lastModifiedDate": "2025-06-19T15:01:02.117Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "35244",
+      "name": "Epic Savings"
     },
     {
       "id": "1117",
@@ -117,10 +121,10 @@
   "publisherDisplayName": "Blue Brain Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 999,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "46ff61f5338a4ba685ce16f392ea0847"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-12-05T15:00:00.000Z",
   "creationDate": "2023-03-19T19:16:07.023Z",
-  "lastModifiedDate": "2025-05-06T15:00:29.704Z",
+  "lastModifiedDate": "2025-06-19T15:00:56.956Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -88,6 +88,10 @@
       "name": "Windows"
     },
     {
+      "id": "35244",
+      "name": "Epic Savings"
+    },
+    {
       "id": "9549",
       "name": "Controller Support"
     },
@@ -153,10 +157,10 @@
   "publisherDisplayName": "MY.GAMES",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 1949,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1050,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -165,7 +169,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "0156dbf3bccd45ada192b636198e971c"
+          }
+        ]
       }
     ]
   },

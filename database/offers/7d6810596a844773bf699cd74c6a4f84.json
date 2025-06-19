@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-01-14T16:00:00.000Z",
   "creationDate": "2020-11-09T13:43:02.991Z",
-  "lastModifiedDate": "2025-05-08T15:00:31.367Z",
+  "lastModifiedDate": "2025-06-19T15:01:03.723Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -84,6 +84,10 @@
       "name": "Windows"
     },
     {
+      "id": "35244",
+      "name": "Epic Savings"
+    },
+    {
       "id": "1117",
       "name": "Adventure"
     }
@@ -139,10 +143,10 @@
   "publisherDisplayName": null,
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 499,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -151,7 +155,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "baf1b7e5b20c400eb35ce7412512fe46"
+          }
+        ]
       }
     ]
   },

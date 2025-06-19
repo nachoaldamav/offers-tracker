@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-03-28T15:00:00.000Z",
   "creationDate": "2024-03-04T15:42:50.194Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.048Z",
+  "lastModifiedDate": "2025-06-19T15:00:55.269Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -70,6 +70,10 @@
     {
       "id": "1212",
       "name": "Racing"
+    },
+    {
+      "id": "35244",
+      "name": "Epic Savings"
     }
   ],
   "items": [
@@ -129,10 +133,10 @@
   "publisherDisplayName": "Electronic Arts",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 599,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -141,7 +145,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "fd0a6d0fabc94d48a0c1b8c51b1d8298"
+          }
+        ]
       }
     ]
   },

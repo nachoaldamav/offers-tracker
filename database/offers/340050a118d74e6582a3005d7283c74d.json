@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-04-15T05:00:00.000Z",
   "creationDate": "2023-05-05T21:10:12.883Z",
-  "lastModifiedDate": "2025-04-03T10:54:39.430Z",
+  "lastModifiedDate": "2025-06-19T15:01:08.784Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "35244",
+      "name": "Epic Savings"
     },
     {
       "id": "9549",
@@ -121,10 +125,10 @@
   "publisherDisplayName": "Zebik Media Interactive Ltd",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 1299,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 700,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -133,7 +137,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "e82b13a4952e4317a6c9539cd60271b2"
+          }
+        ]
       }
     ]
   },

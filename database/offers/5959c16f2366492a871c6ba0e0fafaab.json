@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-03-28T15:00:00.000Z",
   "creationDate": "2024-03-04T15:38:48.086Z",
-  "lastModifiedDate": "2025-02-24T16:01:49.594Z",
+  "lastModifiedDate": "2025-06-19T15:00:52.067Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -66,6 +66,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "35244",
+      "name": "Epic Savings"
     },
     {
       "id": "1294",
@@ -129,10 +133,10 @@
   "publisherDisplayName": "Electronic Arts",
   "price": {
     "totalPrice": {
-      "discountPrice": 3999,
+      "discountPrice": 199,
       "originalPrice": 3999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 3800,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -141,7 +145,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "7f238f6d5ae141ad85ca1eb3de5dcf18"
+          }
+        ]
       }
     ]
   },
