@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-11-30T08:00:00.000Z",
   "creationDate": "2023-11-20T14:18:18.327Z",
-  "lastModifiedDate": "2024-09-16T15:02:03.209Z",
+  "lastModifiedDate": "2025-06-24T15:00:36.725Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -54,6 +54,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "9549",
@@ -129,10 +133,10 @@
   "publisherDisplayName": "SOEDESCO",
   "price": {
     "totalPrice": {
-      "discountPrice": 1999,
+      "discountPrice": 999,
       "originalPrice": 1999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1000,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -141,7 +145,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "627a26a44ff64a35be9152ebf469c7f6"
+          }
+        ]
       }
     ]
   },
