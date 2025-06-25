@@ -153,10 +153,10 @@
   "publisherDisplayName": "SNEG",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 1999,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -165,7 +165,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "3851a97b38874eeb8b7cc9df02cb44c2"
+          }
+        ]
       }
     ]
   },
