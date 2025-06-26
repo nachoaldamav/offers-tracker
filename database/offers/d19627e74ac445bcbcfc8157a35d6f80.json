@@ -178,10 +178,10 @@
   "publisherDisplayName": "Raw Fury",
   "price": {
     "totalPrice": {
-      "discountPrice": 2499,
+      "discountPrice": 0,
       "originalPrice": 2499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2499,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -190,7 +190,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "de6bcc724bac48a6bd4933359d37aef1"
+          }
+        ]
       }
     ]
   },
