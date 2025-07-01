@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-09-30T19:00:00.000Z",
   "creationDate": "2024-09-15T18:07:18.123Z",
-  "lastModifiedDate": "2025-05-27T15:00:31.151Z",
+  "lastModifiedDate": "2025-07-01T15:00:33.256Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     }
   ],
   "items": [
@@ -109,10 +113,10 @@
   "publisherDisplayName": "BT Studios",
   "price": {
     "totalPrice": {
-      "discountPrice": 1199,
+      "discountPrice": 119,
       "originalPrice": 1199,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1080,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "dca6c81b8d154752b0091ee0703ec13c"
+          }
+        ]
       }
     ]
   },

@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-01-25T08:00:00.000Z",
   "creationDate": "2024-01-15T08:44:01.871Z",
-  "lastModifiedDate": "2024-02-07T08:48:08.441Z",
+  "lastModifiedDate": "2025-07-01T15:00:34.839Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,6 +42,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1117",
@@ -109,10 +113,10 @@
   "publisherDisplayName": "Casual Arts",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 749,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 250,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "ee48c4129782465a8bd68c9421aa0275"
+          }
+        ]
       }
     ]
   },
