@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2025-05-01T19:12:36.000Z",
   "creationDate": "2024-12-28T11:31:20.040Z",
-  "lastModifiedDate": "2025-05-01T19:12:53.030Z",
+  "lastModifiedDate": "2025-07-08T15:00:34.201Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -74,6 +74,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1310",
@@ -145,10 +149,10 @@
   "publisherDisplayName": "PolyLS",
   "price": {
     "totalPrice": {
-      "discountPrice": 999,
+      "discountPrice": 499,
       "originalPrice": 999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 500,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -157,7 +161,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "20a295c75f2c4d32af4ea1be320e619f"
+          }
+        ]
       }
     ]
   },

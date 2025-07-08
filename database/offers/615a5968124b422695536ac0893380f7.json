@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-07-19T07:00:00.000Z",
   "creationDate": "2024-01-22T11:11:20.919Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.387Z",
+  "lastModifiedDate": "2025-07-08T15:00:37.273Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "9549",
@@ -117,10 +121,10 @@
   "publisherDisplayName": "Szilard Papp",
   "price": {
     "totalPrice": {
-      "discountPrice": 1099,
+      "discountPrice": 549,
       "originalPrice": 1099,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 550,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "da55afe91fb74b019693449f1f0fceb8"
+          }
+        ]
       }
     ]
   },
