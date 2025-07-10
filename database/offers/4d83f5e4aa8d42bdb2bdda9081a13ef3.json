@@ -100,10 +100,10 @@
   "publisherDisplayName": "Double Dash Studios",
   "price": {
     "totalPrice": {
-      "discountPrice": 1499,
+      "discountPrice": 0,
       "originalPrice": 1499,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1499,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -112,7 +112,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "02e9438715c346d4982b189c501a8c81"
+          }
+        ]
       }
     ]
   },
