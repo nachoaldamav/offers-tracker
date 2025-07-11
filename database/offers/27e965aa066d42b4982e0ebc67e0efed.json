@@ -173,10 +173,10 @@
   "publisherDisplayName": "Mantegral Studio",
   "price": {
     "totalPrice": {
-      "discountPrice": 249,
+      "discountPrice": 149,
       "originalPrice": 249,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 100,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -185,7 +185,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "138870989ea04a13b566dea50c213c05"
+          }
+        ]
       }
     ]
   },
