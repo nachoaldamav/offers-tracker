@@ -145,10 +145,10 @@
   "publisherDisplayName": "Vault Games",
   "price": {
     "totalPrice": {
-      "discountPrice": 249,
+      "discountPrice": 149,
       "originalPrice": 249,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 100,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -157,7 +157,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "e7ebba89165942e78f2e5d6199a41a44"
+          }
+        ]
       }
     ]
   },
