@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-07-26T20:00:00.000Z",
   "creationDate": "2023-04-20T13:59:59.797Z",
-  "lastModifiedDate": "2025-05-20T15:00:30.018Z",
+  "lastModifiedDate": "2025-07-15T15:00:37.079Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     }
   ],
   "items": [
@@ -105,10 +109,10 @@
   "publisherDisplayName": "HeroCraft PC",
   "price": {
     "totalPrice": {
-      "discountPrice": 1399,
+      "discountPrice": 979,
       "originalPrice": 1399,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 420,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -117,7 +121,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "9ab2e54656ca4c55a4f3e67d2531653a"
+          }
+        ]
       }
     ]
   },

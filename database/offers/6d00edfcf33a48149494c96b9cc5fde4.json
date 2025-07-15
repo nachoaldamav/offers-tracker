@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2021-10-14T08:00:00.000Z",
   "creationDate": "2021-03-22T14:08:51.490Z",
-  "lastModifiedDate": "2025-06-26T10:44:37.631Z",
+  "lastModifiedDate": "2025-07-15T15:00:40.539Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -50,6 +50,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "21138",
@@ -192,10 +196,10 @@
   "publisherDisplayName": "EXOR Studios",
   "price": {
     "totalPrice": {
-      "discountPrice": 2999,
+      "discountPrice": 1649,
       "originalPrice": 2999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 1350,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -204,7 +208,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "a5624f4682fb484d977a195b3001aa24"
+          }
+        ]
       }
     ]
   },

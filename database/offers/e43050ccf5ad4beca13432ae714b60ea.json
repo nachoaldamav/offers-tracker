@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2023-06-15T15:00:00.000Z",
   "creationDate": "2023-05-17T21:41:29.935Z",
-  "lastModifiedDate": "2025-06-10T15:00:36.860Z",
+  "lastModifiedDate": "2025-07-15T15:00:40.549Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -58,6 +58,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "9549",
@@ -117,10 +121,10 @@
   "publisherDisplayName": "Mens Sana Interactive",
   "price": {
     "totalPrice": {
-      "discountPrice": 299,
+      "discountPrice": 209,
       "originalPrice": 299,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 90,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -129,7 +133,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "6de0b46dbccd4a24b3e770d3e758b45e"
+          }
+        ]
       }
     ]
   },

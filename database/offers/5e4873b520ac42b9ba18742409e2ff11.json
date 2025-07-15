@@ -6,7 +6,7 @@
   "offerType": "BASE_GAME",
   "effectiveDate": "2024-06-24T09:00:00.000Z",
   "creationDate": "2024-03-04T10:38:51.889Z",
-  "lastModifiedDate": "2025-06-26T15:33:36.731Z",
+  "lastModifiedDate": "2025-07-15T15:00:38.825Z",
   "isCodeRedemptionOnly": false,
   "keyImages": [
     {
@@ -42,6 +42,10 @@
     {
       "id": "9547",
       "name": "Windows"
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week"
     },
     {
       "id": "1117",
@@ -109,10 +113,10 @@
   "publisherDisplayName": "Microids",
   "price": {
     "totalPrice": {
-      "discountPrice": 3999,
+      "discountPrice": 1599,
       "originalPrice": 3999,
       "voucherDiscount": 0,
-      "discount": 0,
+      "discount": 2400,
       "currencyCode": "USD",
       "currencyInfo": {
         "decimals": 2
@@ -121,7 +125,11 @@
     },
     "lineOffers": [
       {
-        "appliedRules": []
+        "appliedRules": [
+          {
+            "id": "888040e1de134b29950d79da9d631950"
+          }
+        ]
       }
     ]
   },
